@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-28 02:12:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-28 12:11:53，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,8 +109,10 @@
 </summary>
 
 
-- [2025-09-26-【早阅】Gartner-技术成熟度曲线？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277525&idx=2&sn=967c3c475611680beb99a1736e0c5749&chksm=bc0fe5272e27b788c53761b913e7f81b53c37527a5508942efc3de1e107b7c0f1de025fbfd52&scene=0#rd)  
+- [2025-09-28-【早阅】为Cloud-Code而设计：与首席设计师-Megan-的对话](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=2&sn=b5ca3d851245557e8a3402ea8fb723fa&chksm=bc34aa5be5f0f72a27216a38f21713f4e8d3b7aa314bc31bb0105ace15f7c0ae88af1f74bc6d&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-28-【第3597期】Google-Chrome-DevTools-MCP：AI-代理现在可以在浏览器中调试、测试和修复代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=1&sn=18b092f538b688e06ee1bd09c05cf064&chksm=bcb82f0e97379a8050d774da8ed01d620c29b22fbf9ccaa1eb5f0ce2097f62f659ef750d9884&scene=0#rd) ![](/assets/new.png)  
 - [2025-09-26-【第3596期】如何测试-MCP-服务器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277525&idx=1&sn=7209045fa96c5bc1313b1770f6dbe527&chksm=bca62bcff99540aa52bdd37e8bc2aec56cef8a2c504733eb510ff38277fb289e2e3f94522082&scene=0#rd)  
+- [2025-09-26-【早阅】Gartner-技术成熟度曲线？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277525&idx=2&sn=967c3c475611680beb99a1736e0c5749&chksm=bc0fe5272e27b788c53761b913e7f81b53c37527a5508942efc3de1e107b7c0f1de025fbfd52&scene=0#rd)  
 - [2025-09-25-【第3595期】智能编程助手-Neovate-Code-正式开源](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277516&idx=1&sn=43110975a8b99ab39df372589f5192a2&chksm=bc91f7457346cc714b765bd530a8f80ad6d108579f3cc26881ec8860082df0d7129bf7b49aed&scene=0#rd)  
 - [2025-09-24-【第3594期】拥抱新一代-Web-3D-引擎，Three.js-项目快速升级-Galacean-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277508&idx=1&sn=c3bf6d777fa78916a2def84141deeea5&chksm=bc435a6772de5b27066850c713fd01830189809ff74015308d7fe6c84f10df04823f9095fab9&scene=0#rd)  
 - [2025-09-23-【第3593期】OpenTiny-NEXT-内核新生：生成式UI-×-MCP，重塑前端交互新范式！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277502&idx=1&sn=3f1b59f372ca4ba48e018b4e5e14f181&chksm=bc9564998d4f25e684a7efce3c14efd68a6bcf4f484eb506d442bef5422096163d3b48a3a8b7&scene=0#rd)  
@@ -127,8 +129,6 @@
 - [2025-09-08-【第3584期】微信小程序端智能项目工程化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277365&idx=1&sn=1892eb28b56af9a02e0704a3c7bc6987&chksm=bcd7a6e4cc8474ff2b89915305125fd6bb2fff1ffb5917dff6816961ce73f58324fcdece8a66&scene=0#rd)  
 - [2025-09-05-【第3583期】Inditex-如何通过微前端打造面向未来的平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277358&idx=1&sn=0fac7dd772b4a965a11a6814b097f2a1&chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&scene=0#rd)  
 - [2025-09-04-【第3582期】Node.js-Type-Stripping-背后的设计取舍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277349&idx=1&sn=f57c7d263f39196f4718219d0353faa4&chksm=bc3ef1bcce3d55cf1c05cf148d681b736846cd7ba7d6491ba93d2ee41387909606cad8245508&scene=0#rd)  
-- [2025-09-03-【第3581期】复杂-React/Next.js-应用的数据获取架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277342&idx=1&sn=7c99c0d1e1db3ed269271586e2998656&chksm=bc6464732f94fb72ce705df5dd4e6d3c93544cfc1f75970c782fb88e769b35fabf13399c80e3&scene=0#rd)  
-- [2025-09-02-【第3580期】Claude-Code-为什么这么好用？拆解背后的“魔法”与复刻方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277336&idx=1&sn=745486da64a982a5c1ad68ee0dbe5aaa&chksm=bc6cd4abf6e0e37c17a67b6dbba61dbfec9a291d60686385417f7266f85045db38584ac04d16&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-09-27-实测Kimi最新智能体「OK-Computer」，何止是OK？](http://mp.weixin.qq.com/s/ef_57UCoX5UknbAD4WnD9A) ![](/assets/new.png)  
+- [2025-09-27-实测Kimi最新智能体「OK-Computer」，何止是OK？](http://mp.weixin.qq.com/s/ef_57UCoX5UknbAD4WnD9A)  
 - [2025-09-26-阶跃AI桌面伙伴，让你和别人拉开差距的答案](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504405&idx=1&sn=f386b86f5e1d3cd5d1a627c7dd8fde21&chksm=c2b313eaf5c49afc4de228a1657f3a5088151c338ed0ebbf2baad02d7f4f890e6ad0b593c00e#rd)  
 - [2025-09-25-别当AI铲屎官了，Lovart让你当爷](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504363&idx=1&sn=cabe0546913d65e4bf6d06e8a7b82f52&chksm=c2b31014f5c49902388b3a6afed5e12e62369c8b0d134e71e3cf28de53d7efd0ec499263dcc1#rd)  
 - [2025-09-24-阿里云栖大会，这次真玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504311&idx=1&sn=ab924fcb070482214a10a86d7a91ee73&chksm=c2b31048f5c4995e83dd12825e838b9baee376dee3f276dfdde9e23107f14fb68a08c6c26bc7#rd)  
