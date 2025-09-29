@@ -14,15 +14,15 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-29 12:14:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-29 14:16:44，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-09-29-【早阅】将-Claude-代码变成自己的超赞-UI-设计师（使用-Playwright-MCP-）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277548&idx=1&sn=e49bd502f1e80c922686833f064a9898&chksm=bc7a8c2fa8f09fdac57a00bb86522960fa21d590369fb9cdf550f3e4c09fa50a56d6e4ec7b12&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-29-【早阅】将-Claude-代码变成自己的超赞-UI-设计师（使用-Playwright-MCP-）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277548&idx=1&sn=e49bd502f1e80c922686833f064a9898&chksm=bc7a8c2fa8f09fdac57a00bb86522960fa21d590369fb9cdf550f3e4c09fa50a56d6e4ec7b12&scene=0#rd)  
 - [2025-09-28-【第3597期】Google-Chrome-DevTools-MCP：AI-代理现在可以在浏览器中调试、测试和修复代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=1&sn=18b092f538b688e06ee1bd09c05cf064&chksm=bcb82f0e97379a8050d774da8ed01d620c29b22fbf9ccaa1eb5f0ce2097f62f659ef750d9884&scene=0#rd)  
 - [2025-09-28-【早阅】为Cloud-Code而设计：与首席设计师-Megan-的对话](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=2&sn=b5ca3d851245557e8a3402ea8fb723fa&chksm=bc34aa5be5f0f72a27216a38f21713f4e8d3b7aa314bc31bb0105ace15f7c0ae88af1f74bc6d&scene=0#rd)  
 - [2025-09-26-【早阅】Gartner-技术成熟度曲线？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277525&idx=2&sn=967c3c475611680beb99a1736e0c5749&chksm=bc0fe5272e27b788c53761b913e7f81b53c37527a5508942efc3de1e107b7c0f1de025fbfd52&scene=0#rd)  
@@ -140,25 +140,25 @@
 </summary>
 
 
+- [2025-09-29-我将封装史上最优雅的-Axios](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623157&idx=1&sn=95e28b00f016d8deaf15c17e8e0d4a2e&chksm=80225934b755d0222eb4fbac6d5fdaca64c2b22191d79c5ef45de2cd0ea2b247c2aa3530070f#rd) ![](/assets/new.png)  
 - [2025-09-27-超-200-名谷歌外包惨被裁！员工自曝：时薪-16-美元、每日限时-5~15-分钟内完成任务、不达标就走人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623129&idx=1&sn=a7952ea53279e80faffc2c04e6f56749&chksm=80225918b755d00ec5dd8ad6689db755a082348e6394f82820a5d0209515caacc7baf13efe61#rd)  
 - [2025-09-26-tailwindcss-究竟比-unocss-快多少？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623123&idx=1&sn=ed984e9d1a2f555dbfb46a43af37cdc7&chksm=80225912b755d004c1033bfadb30bb2eae70daa81049bdefcf901201fb95a94560e8d00491af#rd)  
 - [2025-09-22-Vue-实现一个“液态玻璃”效果登录卡片](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623093&idx=1&sn=cde4b997f5e8d861917751a378bd79cd&chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd)  
 - [2025-09-19-8-年后“报应”降临！翟欣欣敲诈勒索千万逼死前夫，一审被判-12-年。网友：罪有应得大快人心](http://mp.weixin.qq.com/s/i35qBVsgqX3l9on7nYTYhQ)  
-- [2025-09-18-“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”](http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg)  
 - [2025-09-18-我的浏览器下雨了进水了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623053&idx=1&sn=db6d9571c96d35fb66f032afb2b0fb8b&chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd)  
+- [2025-09-18-“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”](http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg)  
 - [2025-09-16-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623063&idx=1&sn=7957cf5bc92bfec304db1e389232407d&chksm=80225956b755d04068fd9e4bd9567cc86215b3f78b4916573d4cfcdc670d7861ef169064f1a2#rd)  
-- [2025-09-12-一个非常有用的设计模式——有限状态机](http://mp.weixin.qq.com/s/AAklXCToIMZF5frS-wlmmg)  
 - [2025-09-12-什么？2025年了发版后还要手动清浏览器缓存？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623026&idx=1&sn=b63696b7d6e8f7e09d99869763807c6c&chksm=802259b3b755d0a5087f158ce39279ae114b88fba40f321b4556dab63167a2945a5710159d7f#rd)  
+- [2025-09-12-一个非常有用的设计模式——有限状态机](http://mp.weixin.qq.com/s/AAklXCToIMZF5frS-wlmmg)  
 - [2025-09-10-AI写代码导致开发者效率下降19%](http://mp.weixin.qq.com/s/JyzqDMZKuTIV45f7bt5jtw)  
-- [2025-09-05-性能提升60%：前端性能优化终极指南](http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw)  
 - [2025-09-05-国内最舒适-IT-公司排行](http://mp.weixin.qq.com/s/O5vRmcrvbUeXc2orr_kzwQ)  
+- [2025-09-05-性能提升60%：前端性能优化终极指南](http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw)  
 - [2025-09-04-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/iQ1OL0daF6bGTvb5fczLiQ)  
-- [2025-08-31-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA)  
 - [2025-08-31-马斯克怒了！中国籍工程师套现-700-万美刀后偷了整个代码库等机密信息，转身就入职-OpenAI](http://mp.weixin.qq.com/s/KwGKjgrFy-QXZnFq5nrxCA)  
-- [2025-08-25-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622919&idx=1&sn=cbaf8354f4512436db2fb5ba91ee871c&chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd)  
+- [2025-08-31-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA)  
 - [2025-08-25-通过代码看-React-的历史](http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA)  
+- [2025-08-25-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622919&idx=1&sn=cbaf8354f4512436db2fb5ba91ee871c&chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd)  
 - [2025-08-21-突发！软考空前大利好！恭喜所有前端人！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622909&idx=1&sn=53351b4157fd3c750a6cf57858b00329&chksm=80225a3cb755d32a5928d5fd1bd92eced6c903f6e0a9581df25d63743873bf6fac440a7333d6#rd)  
-- [2025-08-20-网传钉钉-CEO-凌晨巡查工位，质问员工为何提前下班。网友：无招是真的没招了？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=1&sn=7261eb0ce69f0809a802eca7d04ed2ea&chksm=80225a32b755d3249a60f14b9150aad7697d15bf51c92bbed1e9583ebbf73c1bc6d71018eac9#rd)  
 - [2025-08-20-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=2&sn=d1c869514f6e55ccafdf8a2f9a52b200&chksm=80225a32b755d324b94c66440451a117f446373e9318e07457ae22e1c113d5f160ec03cedd04#rd)  
 - [查看更多 >](/details/前端大全.md)
 
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-09-28-10个面向前端开发者的MCP服务器](http://mp.weixin.qq.com/s/FIPF82cJiO3GKKmrLwvIuw) ![](/assets/new.png)  
 - [2025-09-22-默认选-React，拖慢前端？Svelte、Solid、Qwik-的优势被忽视了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526298&idx=1&sn=7deba23d4886dc5dee2e7e8ff387c2c6&chksm=f952d2d9ce255bcfa70c77bf85154c135cc74fe13f2649f2015ad65e062cb44a5623a68e4bb2#rd)  
 - [2025-09-06-XTransfer-开源-XRN-框架：基于-React-Native-的跨三端开发实践与鸿蒙-NEXT-攻坚](http://mp.weixin.qq.com/s/uCbEeWjY4lbZJTM7XVUqIA)  
 - [2025-09-01-月烧35万元token、逼得Claude官方连夜限速！被全网吐槽的中国“榜一大哥”，已经靠-AI-年入千万了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526272&idx=1&sn=0881560b664b83289ae95a9805270af2&chksm=f952d2c3ce255bd5fcd1a625b7bc82b2b4329cfff57933abe756b9abe14254caa7ee322cc3b6#rd)  
@@ -190,7 +191,6 @@
 - [2025-05-09-前端的下一轮演进：基于AI的状态管理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526029&idx=1&sn=d914255f10082dbcfd0de1be3c8821ae&chksm=f952d3cece255ad8e65031d3805249024fecd3f7bd28845354f4015fef0faf67f9dc7027c691#rd)  
 - [2025-04-30-Next.js-真有那么好用吗？Netlify-谈他们遇到的六个现实问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526011&idx=1&sn=4f1c822f120896bcfbb5e6adeba87eb6&chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd)  
 - [2025-04-26-浏览器里的-AI-革命：前端工程师的新战场](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525949&idx=1&sn=d596d89b6a37b50c5394094470c3ec8d&chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd)  
-- [2025-04-17-React-Native新架构“稳定”了吗？54%的开发者表示更好的调试工具是他们的首要需求](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525928&idx=1&sn=3c623982cae25c3f0ecc711437910537&chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-29T04:14:33.503Z</updated>
+    <updated>2025-09-29T06:16:44.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -162,16 +162,16 @@
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我的浏览器下雨了进水了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd"/>
+        <title type="html"><![CDATA[“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”]]></title>
+        <id>http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg</id>
+        <link href="http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg"/>
         <updated>2025-09-18T00:00:00.000Z</updated>
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”]]></title>
-        <id>http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg</id>
-        <link href="http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg"/>
+        <title type="html"><![CDATA[我的浏览器下雨了进水了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd"/>
         <updated>2025-09-18T00:00:00.000Z</updated>
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
