@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-28 12:11:53，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-29 12:14:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -109,10 +109,11 @@
 </summary>
 
 
-- [2025-09-28-【早阅】为Cloud-Code而设计：与首席设计师-Megan-的对话](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=2&sn=b5ca3d851245557e8a3402ea8fb723fa&chksm=bc34aa5be5f0f72a27216a38f21713f4e8d3b7aa314bc31bb0105ace15f7c0ae88af1f74bc6d&scene=0#rd) ![](/assets/new.png)  
-- [2025-09-28-【第3597期】Google-Chrome-DevTools-MCP：AI-代理现在可以在浏览器中调试、测试和修复代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=1&sn=18b092f538b688e06ee1bd09c05cf064&chksm=bcb82f0e97379a8050d774da8ed01d620c29b22fbf9ccaa1eb5f0ce2097f62f659ef750d9884&scene=0#rd) ![](/assets/new.png)  
-- [2025-09-26-【第3596期】如何测试-MCP-服务器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277525&idx=1&sn=7209045fa96c5bc1313b1770f6dbe527&chksm=bca62bcff99540aa52bdd37e8bc2aec56cef8a2c504733eb510ff38277fb289e2e3f94522082&scene=0#rd)  
+- [2025-09-29-【早阅】将-Claude-代码变成自己的超赞-UI-设计师（使用-Playwright-MCP-）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277548&idx=1&sn=e49bd502f1e80c922686833f064a9898&chksm=bc7a8c2fa8f09fdac57a00bb86522960fa21d590369fb9cdf550f3e4c09fa50a56d6e4ec7b12&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-28-【第3597期】Google-Chrome-DevTools-MCP：AI-代理现在可以在浏览器中调试、测试和修复代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=1&sn=18b092f538b688e06ee1bd09c05cf064&chksm=bcb82f0e97379a8050d774da8ed01d620c29b22fbf9ccaa1eb5f0ce2097f62f659ef750d9884&scene=0#rd)  
+- [2025-09-28-【早阅】为Cloud-Code而设计：与首席设计师-Megan-的对话](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=2&sn=b5ca3d851245557e8a3402ea8fb723fa&chksm=bc34aa5be5f0f72a27216a38f21713f4e8d3b7aa314bc31bb0105ace15f7c0ae88af1f74bc6d&scene=0#rd)  
 - [2025-09-26-【早阅】Gartner-技术成熟度曲线？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277525&idx=2&sn=967c3c475611680beb99a1736e0c5749&chksm=bc0fe5272e27b788c53761b913e7f81b53c37527a5508942efc3de1e107b7c0f1de025fbfd52&scene=0#rd)  
+- [2025-09-26-【第3596期】如何测试-MCP-服务器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277525&idx=1&sn=7209045fa96c5bc1313b1770f6dbe527&chksm=bca62bcff99540aa52bdd37e8bc2aec56cef8a2c504733eb510ff38277fb289e2e3f94522082&scene=0#rd)  
 - [2025-09-25-【第3595期】智能编程助手-Neovate-Code-正式开源](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277516&idx=1&sn=43110975a8b99ab39df372589f5192a2&chksm=bc91f7457346cc714b765bd530a8f80ad6d108579f3cc26881ec8860082df0d7129bf7b49aed&scene=0#rd)  
 - [2025-09-24-【第3594期】拥抱新一代-Web-3D-引擎，Three.js-项目快速升级-Galacean-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277508&idx=1&sn=c3bf6d777fa78916a2def84141deeea5&chksm=bc435a6772de5b27066850c713fd01830189809ff74015308d7fe6c84f10df04823f9095fab9&scene=0#rd)  
 - [2025-09-23-【第3593期】OpenTiny-NEXT-内核新生：生成式UI-×-MCP，重塑前端交互新范式！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277502&idx=1&sn=3f1b59f372ca4ba48e018b4e5e14f181&chksm=bc9564998d4f25e684a7efce3c14efd68a6bcf4f484eb506d442bef5422096163d3b48a3a8b7&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-09-09-【早阅】Vue-的演进：从框架到生态系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277385&idx=1&sn=e1f1bd391b25cc3ec8120e8752c9ace2&chksm=bc277ce1c13a5cdec8f69221e235bd55553e12338c24dd05b3c5446c09f572d8953747295165&scene=0#rd)  
 - [2025-09-08-【第3584期】微信小程序端智能项目工程化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277365&idx=1&sn=1892eb28b56af9a02e0704a3c7bc6987&chksm=bcd7a6e4cc8474ff2b89915305125fd6bb2fff1ffb5917dff6816961ce73f58324fcdece8a66&scene=0#rd)  
 - [2025-09-05-【第3583期】Inditex-如何通过微前端打造面向未来的平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277358&idx=1&sn=0fac7dd772b4a965a11a6814b097f2a1&chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&scene=0#rd)  
-- [2025-09-04-【第3582期】Node.js-Type-Stripping-背后的设计取舍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277349&idx=1&sn=f57c7d263f39196f4718219d0353faa4&chksm=bc3ef1bcce3d55cf1c05cf148d681b736846cd7ba7d6491ba93d2ee41387909606cad8245508&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
