@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-29T06:16:44.969Z</updated>
+    <updated>2025-09-29T18:15:41.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 原生深拷贝方法来啦！structuredClone 闪耀登场~]]></title>
+        <id>http://mp.weixin.qq.com/s/MxaGzd49wgQvjQXJ2_Ml8Q</id>
+        <link href="http://mp.weixin.qq.com/s/MxaGzd49wgQvjQXJ2_Ml8Q"/>
+        <updated>2025-09-29T00:00:00.000Z</updated>
+        <published>2025-09-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3597期】Google Chrome DevTools MCP：AI 代理现在可以在浏览器中调试、测试和修复代码]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277543&amp;idx=1&amp;sn=18b092f538b688e06ee1bd09c05cf064&amp;chksm=bcb82f0e97379a8050d774da8ed01d620c29b22fbf9ccaa1eb5f0ce2097f62f659ef750d9884&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
         <id>http://mp.weixin.qq.com/s/uX5S4dpumQi-kC0ITYDGnA</id>
         <link href="http://mp.weixin.qq.com/s/uX5S4dpumQi-kC0ITYDGnA"/>
-        <updated>2025-09-09T00:00:00.000Z</updated>
-        <published>2025-09-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】Vue 的演进：从框架到生态系统]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277385&amp;idx=1&amp;sn=e1f1bd391b25cc3ec8120e8752c9ace2&amp;chksm=bc277ce1c13a5cdec8f69221e235bd55553e12338c24dd05b3c5446c09f572d8953747295165&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277385&amp;idx=1&amp;sn=e1f1bd391b25cc3ec8120e8752c9ace2&amp;chksm=bc277ce1c13a5cdec8f69221e235bd55553e12338c24dd05b3c5446c09f572d8953747295165&amp;scene=0#rd"/>
         <updated>2025-09-09T00:00:00.000Z</updated>
         <published>2025-09-09T00:00:00.000Z</published>
     </entry>
