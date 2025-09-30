@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-30 12:12:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-30 16:15:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-09-30-【第3598期】AI-提示的艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277554&idx=1&sn=52234cd3a698c424649630a85e90f4cf&chksm=bc66bf91fab869785ee6be0a9470dd7e699d8a1e03c0d251039f8eb58dc4d4e02a9d854ae19a&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-30-【第3598期】AI-提示的艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277554&idx=1&sn=52234cd3a698c424649630a85e90f4cf&chksm=bc66bf91fab869785ee6be0a9470dd7e699d8a1e03c0d251039f8eb58dc4d4e02a9d854ae19a&scene=0#rd)  
 - [2025-09-29-【早阅】将-Claude-代码变成自己的超赞-UI-设计师（使用-Playwright-MCP-）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277548&idx=1&sn=e49bd502f1e80c922686833f064a9898&chksm=bc7a8c2fa8f09fdac57a00bb86522960fa21d590369fb9cdf550f3e4c09fa50a56d6e4ec7b12&scene=0#rd)  
 - [2025-09-28-【早阅】为Cloud-Code而设计：与首席设计师-Megan-的对话](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=2&sn=b5ca3d851245557e8a3402ea8fb723fa&chksm=bc34aa5be5f0f72a27216a38f21713f4e8d3b7aa314bc31bb0105ace15f7c0ae88af1f74bc6d&scene=0#rd)  
 - [2025-09-28-【第3597期】Google-Chrome-DevTools-MCP：AI-代理现在可以在浏览器中调试、测试和修复代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=1&sn=18b092f538b688e06ee1bd09c05cf064&chksm=bcb82f0e97379a8050d774da8ed01d620c29b22fbf9ccaa1eb5f0ce2097f62f659ef750d9884&scene=0#rd)  
@@ -202,11 +202,12 @@
 </summary>
 
 
+- [2025-09-30-原来月薪50k的简历长这样。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505688&idx=1&sn=38ee3e1f17a5997c3ac606fb22006aa6&chksm=ce45c289f9324b9f7b173d17ab9edf82fd203ec390c258c027bfc94276f9449174c3de9380ab#rd) ![](/assets/new.png)  
 - [2025-09-29-JavaScript-原生深拷贝方法来啦！structuredClone-闪耀登场~](http://mp.weixin.qq.com/s/MxaGzd49wgQvjQXJ2_Ml8Q)  
 - [2025-09-28-DeepSeek，永别了！！](http://mp.weixin.qq.com/s/NNf8IJtQT5KMuoyM51qvIw)  
 - [2025-09-26-请所有前端立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s/w89gC0Nx6YbC_L9SSYN_ig)  
-- [2025-09-25-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/BPedXf-os1yz3LwsJNfSxg)  
 - [2025-09-25-Pinia-最强插件发布，包含九大必备功能！](http://mp.weixin.qq.com/s/GnTnn9kXcqhWlgkU8Qe7Cw)  
+- [2025-09-25-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/BPedXf-os1yz3LwsJNfSxg)  
 - [2025-09-23-超强-AI-工具！快速部署知识库页面！](http://mp.weixin.qq.com/s/tjxJBFy-XpJxpAtc4NPQaw)  
 - [2025-09-22-强到离谱，2025年浏览器必装插件！](http://mp.weixin.qq.com/s/V1TxdY3FGzVUKxDxb5X3JQ)  
 - [2025-09-21-最近用到的九个CSS实用技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505584&idx=1&sn=f94e46c5124247763604f328bc3cb25c&chksm=ce45c321f9324a37e8a0fd3db713d5a5108f12bedbd5b650bf2428cd37ba21c9737d0da24fba#rd)  
@@ -221,7 +222,6 @@
 - [2025-09-10-金九银十准备跳槽的兄弟注意！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505549&idx=1&sn=ac91eb71bee79854ca3b0bd4c23a21f4&chksm=ce45c31cf9324a0a31ace6fd6671e437acf3c3298c6ff1d8e2bbc2467c6b638b61e1bfcf7313#rd)  
 - [2025-09-09-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s/uX5S4dpumQi-kC0ITYDGnA)  
 - [2025-09-05-计算项目“屎山率”的工具库，想知道自己的项目有多“屎”吗？](http://mp.weixin.qq.com/s/m5kiCAWxlqmfO007KIKeAw)  
-- [2025-09-04-新一代代码检查工具，比-ESLint-快-40-倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505517&idx=1&sn=ac57f767573b64f3824b3a4cc655203c&chksm=ce45c3fcf9324aea97d8d95d6a0a155a2e29ee38ec48deb5db6962b6b16733d89dc99f2e9d04#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/) ![](/assets/new.png)  
+- [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/)  
 - [2025-09-19-CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/)  
 - [2025-09-15-使用CSS-linear函数实现更逼真的物理动画效果](https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/)  
 - [2025-09-05-@function自定义函数让CSS支持编程啦](https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/)  
