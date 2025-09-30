@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-30T08:15:12.834Z</updated>
+    <updated>2025-09-30T12:19:53.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3 生态 4 大 Hooks 神库！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517438&amp;idx=1&amp;sn=5d138db8f836f95cba6067f8c84e51ad&amp;chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517438&amp;idx=1&amp;sn=5d138db8f836f95cba6067f8c84e51ad&amp;chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd"/>
+        <updated>2025-09-29T00:00:00.000Z</updated>
+        <published>2025-09-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 原生深拷贝方法来啦！structuredClone 闪耀登场~]]></title>
         <id>http://mp.weixin.qq.com/s/MxaGzd49wgQvjQXJ2_Ml8Q</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[分享 9个 使用promises的技巧]]></title>
         <id>http://mp.weixin.qq.com/s/MUr29XUJjAouaYrwmXvrOg</id>
         <link href="http://mp.weixin.qq.com/s/MUr29XUJjAouaYrwmXvrOg"/>
-        <updated>2025-09-09T00:00:00.000Z</updated>
-        <published>2025-09-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
-        <id>http://mp.weixin.qq.com/s/uX5S4dpumQi-kC0ITYDGnA</id>
-        <link href="http://mp.weixin.qq.com/s/uX5S4dpumQi-kC0ITYDGnA"/>
         <updated>2025-09-09T00:00:00.000Z</updated>
         <published>2025-09-09T00:00:00.000Z</published>
     </entry>

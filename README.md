@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-30 16:15:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-30 20:19:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,14 +23,14 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -202,7 +202,7 @@
 </summary>
 
 
-- [2025-09-30-原来月薪50k的简历长这样。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505688&idx=1&sn=38ee3e1f17a5997c3ac606fb22006aa6&chksm=ce45c289f9324b9f7b173d17ab9edf82fd203ec390c258c027bfc94276f9449174c3de9380ab#rd) ![](/assets/new.png)  
+- [2025-09-30-原来月薪50k的简历长这样。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505688&idx=1&sn=38ee3e1f17a5997c3ac606fb22006aa6&chksm=ce45c289f9324b9f7b173d17ab9edf82fd203ec390c258c027bfc94276f9449174c3de9380ab#rd)  
 - [2025-09-29-JavaScript-原生深拷贝方法来啦！structuredClone-闪耀登场~](http://mp.weixin.qq.com/s/MxaGzd49wgQvjQXJ2_Ml8Q)  
 - [2025-09-28-DeepSeek，永别了！！](http://mp.weixin.qq.com/s/NNf8IJtQT5KMuoyM51qvIw)  
 - [2025-09-26-请所有前端立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s/w89gC0Nx6YbC_L9SSYN_ig)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-09-29-Vue3-生态-4-大-Hooks-神库！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517438&idx=1&sn=5d138db8f836f95cba6067f8c84e51ad&chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd) ![](/assets/new.png)  
 - [2025-09-24-尤雨溪宣布-Vite-8-即将发布！完全由-Rolldown-提供支持！](http://mp.weixin.qq.com/s/4hueovVuqDKkvTrFukWGlQ)  
 - [2025-09-22-尤雨溪：下一代-Vite！Windows-快-29%！Mac-快-45%！](http://mp.weixin.qq.com/s/dfJE-yVYdqaUI98HchPOqw)  
 - [2025-09-18-2025年上半年前端技术圈生态总结](http://mp.weixin.qq.com/s/sv0nKd9-OPcNxCIU-1rz-g)  
@@ -426,8 +427,8 @@
 - [2025-09-15-Vue-官方插件重磅更新，三大高级功能免费了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517426&idx=1&sn=42ce55079850a61d640211149fd66039&chksm=eb07bc8bdc70359d78a7ff7c0ac5d152bd4a1d072350fddf7a0f9765748cbc2e6b2f80fc11bf#rd)  
 - [2025-09-14-Chrome-全新-API：2-个属性！100+-特效！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517424&idx=1&sn=deb734b4d280a69398aaeaab41ade117&chksm=eb07bc89dc70359f43091c45d607aa26c7209efb228a77e2c15255bde1ccecc5426d8d164f32#rd)  
 - [2025-09-12-10个-ES2025-新特性速览！](http://mp.weixin.qq.com/s/Bf9C8xazCHl-i1t1RDJzJA)  
-- [2025-09-10-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/fehSIPDfxAc7ubKKclvcCQ)  
 - [2025-09-10-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s/PhSCpJ6uX2ONNcsjCXmNqw)  
+- [2025-09-10-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/fehSIPDfxAc7ubKKclvcCQ)  
 - [2025-09-08-2025-年了，Vite+Vue3-微前端该用啥方案？5-大主流方案实战对比](http://mp.weixin.qq.com/s/g2jP2Q_FptCIeiDNywJDwQ)  
 - [2025-09-05-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s/KN4CeNN6ICiXz7TfBhgydQ)  
 - [2025-09-04-突发！软考空前大利好！恭喜所有前端人！](http://mp.weixin.qq.com/s/bc6lWUFZC1lZDW43hx7UrQ)  
@@ -438,7 +439,6 @@
 - [2025-08-27-Promise.all的时代终结了，新方法即将取代他](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517390&idx=1&sn=9203408da36c085710e0e7428d333931&chksm=eb07bcb7dc7035a1939471a830c648b2e666304edfd3af17f9b34c0016145dd6937897b6205f#rd)  
 - [2025-08-26-Vue-团队成员新作：node-modules-可视化神器！](http://mp.weixin.qq.com/s/_qqmmPedk9x7BYUcM3s3ag)  
 - [2025-08-21-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517386&idx=1&sn=600703f2da4eceac2bd9d8030cbd3bb3&chksm=eb07bcb3dc7035a50ebf76cb215d44d08b2bd2a2cd2ff45af67aea7a9ae8b4c0058656f7d5b0#rd)  
-- [2025-08-20-前端仔如何在公司搭建-AI-Review-系统](http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
