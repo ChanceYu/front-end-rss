@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-02 00:12:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-02 04:11:30，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,10 +29,10 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -388,6 +388,8 @@
 </summary>
 
 
+- [2025-10-01-一手实测Sora2，OpenAI还做了个AI抖音](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504548&idx=1&sn=0bc45979d6286f9a6a21df3dc82fc361&chksm=c2b3135bf5c49a4d855e0088cb338c285323e6c0782b465763897232b9b7526ae3f900e1f87a#rd) ![](/assets/new.png)  
+- [2025-09-30-实测可灵新视频模型2.5-Turbo，未来已来](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504493&idx=1&sn=9d066b8743771e5c5252fe853d360536&chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd) ![](/assets/new.png)  
 - [2025-09-27-实测Kimi最新智能体「OK-Computer」，何止是OK？](http://mp.weixin.qq.com/s/ef_57UCoX5UknbAD4WnD9A)  
 - [2025-09-26-阶跃AI桌面伙伴，让你和别人拉开差距的答案](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504405&idx=1&sn=f386b86f5e1d3cd5d1a627c7dd8fde21&chksm=c2b313eaf5c49afc4de228a1657f3a5088151c338ed0ebbf2baad02d7f4f890e6ad0b593c00e#rd)  
 - [2025-09-25-别当AI铲屎官了，Lovart让你当爷](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504363&idx=1&sn=cabe0546913d65e4bf6d06e8a7b82f52&chksm=c2b31014f5c49902388b3a6afed5e12e62369c8b0d134e71e3cf28de53d7efd0ec499263dcc1#rd)  
@@ -406,8 +408,6 @@
 - [2025-08-30-看完钉钉发布会，只想说他们干了件“实在事”](http://mp.weixin.qq.com/s/Q6ze0Kvl95pfKwniBFpuNg)  
 - [2025-08-29-实测谷歌Nano-Banana，P图邪修之王](http://mp.weixin.qq.com/s/QKZ21Bov_sON8fOiD-EEiA)  
 - [2025-08-28-一文看懂“人工智能+”的未来10年](http://mp.weixin.qq.com/s/nKNsRcndD1tzqO22ZFcpmg)  
-- [2025-08-23-DeepSeek-V3.1实测，90%的人都低估了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503814&idx=1&sn=2f9face5645f5284ad551781c1f8e6fc&chksm=c2b30e39f5c4872faf15cb1c27586b2c3e923c2019ca6d68b9e1a1418d31f44df83f4e2acb05#rd)  
-- [2025-08-20-AutoGLM-2.0，手机开始替人类上班了](http://mp.weixin.qq.com/s/ZY6g_sPb9nUL3tTwMrF48g)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-09-29-产品经理也能“开发”需求？淘宝信息流从需求到上线的AI端到端实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541580&idx=1&sn=7a51be5c6032b18fbae35618a4ed7096&chksm=8390c614b4e74f02f4043a02a6d5aafd216fd5534b9af36d0cdce85d1d41af93f48889285bce#rd) ![](/assets/new.png)  
+- [2025-09-29-产品经理也能“开发”需求？淘宝信息流从需求到上线的AI端到端实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541580&idx=1&sn=7a51be5c6032b18fbae35618a4ed7096&chksm=8390c614b4e74f02f4043a02a6d5aafd216fd5534b9af36d0cdce85d1d41af93f48889285bce#rd)  
 - [2025-09-24-一位淘宝工程同学的大模型LoRA微调尝试](http://mp.weixin.qq.com/s/KH3_z2T_VC8E8QD8Q7dS2A)  
 - [2025-09-22-Claude-Code-深度拆解：一个顶级AI编程工具的核心架构](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541545&idx=1&sn=a667765c093031540732593c74710a13&chksm=8390c5f1b4e74ce7ff3656237dfca3ba3b18e5bd1965a25164369c25da7b72290327c4d1888c#rd)  
 - [2025-09-17-多模态AI质检：身份核验场景实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541540&idx=1&sn=c5a3f2608f86fae9b2ace8c02f531bbd&chksm=8390c5fcb4e74cea13caf3f49bc74fa4db07c9ee34b10f30640ae5379ab9a979f791ee464793#rd)  

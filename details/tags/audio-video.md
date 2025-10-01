@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-02 00:12:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-02 04:11:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -109,6 +109,7 @@
 - [2023-07-19-WebAssembly-与-Web-视频编辑](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=3&sn=4b4ceeeaf85b24e87646cb07788be9f5&chksm=cea967c0f9deeed6ee34c733aa80905cc0d3ba73429ad8e1b0ce160a9fd111cbb5c1172c487d#rd) 
 - [2023-06-30-ByteFE-邀你观看稀土开发者大会直播啦-|-6月30日9:30](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503633&idx=1&sn=c61a8011b844a1fdb4988be047ecbdcf&chksm=cea97810f9def1065b3bdcf22bfed6486c34171caaefaa3d132278d5c7bf44562d2be89d3a7f#rd) 
 - [2022-02-21-ReolAudio---基于分帧的-Web-音频工程解决方案](https://mp.weixin.qq.com/s/2VWAbnM-szhIXOx3n7_JfA) 
+- [2025-09-30-实测可灵新视频模型2.5-Turbo，未来已来](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504493&idx=1&sn=9d066b8743771e5c5252fe853d360536&chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd) 
 - [2025-03-28-阿里QVQ-Max能看图看视频，把我看傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502008&idx=1&sn=061385f054bf27f161c491d632e36b57&chksm=c2b30947f5c48051b3512eeaeb5d1778c35faec0988fcfdc243201cf9df575f0612303d1bb3b#rd) 
 - [2025-03-07-腾讯AI视频模型重磅开源，一手实测来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501620&idx=1&sn=f740bc98a31c8764a1e77280e0c5fb76&chksm=c2b306cbf5c48fdd8762f7f496ac8195da0ed569c1b0870a65eaadd624ac4c91a14e46f5042e#rd) 
 - [2025-01-05-3-大-AI-数字人主播创建平台，开启直播新时代！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=2&sn=ac4abee9267d6a68ef569536d43ba5e2&chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd) 

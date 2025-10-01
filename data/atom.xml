@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-01T16:12:53.016Z</updated>
+    <updated>2025-10-01T20:11:31.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[实测可灵新视频模型2.5 Turbo，未来已来]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247504493&amp;idx=1&amp;sn=9d066b8743771e5c5252fe853d360536&amp;chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247504493&amp;idx=1&amp;sn=9d066b8743771e5c5252fe853d360536&amp;chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd"/>
+        <updated>2025-09-30T00:00:00.000Z</updated>
+        <published>2025-09-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue的异步DOM更新：nextTick的正确使用方法]]></title>
         <id>http://mp.weixin.qq.com/s/TZ666Z-x34VPy4PMjHvKVg</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端展示图片，到底该不该用 img 标签？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505550&amp;idx=1&amp;sn=1affe3bf61710cc452db171700a262ff&amp;chksm=ce45c31ff9324a096327041f8f69252e70234f8f2f8a1a08831af7395d3a454dd623d6049d05#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505550&amp;idx=1&amp;sn=1affe3bf61710cc452db171700a262ff&amp;chksm=ce45c31ff9324a096327041f8f69252e70234f8f2f8a1a08831af7395d3a454dd623d6049d05#rd"/>
-        <updated>2025-09-11T00:00:00.000Z</updated>
-        <published>2025-09-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3585期】开发者必试的 Chrome API]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277398&amp;idx=1&amp;sn=e12d3ef550c8622a1831ab99c9489c13&amp;chksm=bcc39e9739736ef439d34464636333c768f6d7e16334b160ed82a8ba792f3363492d0ea17a1c&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277398&amp;idx=1&amp;sn=e12d3ef550c8622a1831ab99c9489c13&amp;chksm=bcc39e9739736ef439d34464636333c768f6d7e16334b160ed82a8ba792f3363492d0ea17a1c&amp;scene=0#rd"/>
         <updated>2025-09-11T00:00:00.000Z</updated>
         <published>2025-09-11T00:00:00.000Z</published>
     </entry>
