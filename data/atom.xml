@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-30T16:13:34.504Z</updated>
+    <updated>2025-10-01T00:51:02.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue的异步DOM更新：nextTick的正确使用方法]]></title>
+        <id>http://mp.weixin.qq.com/s/TZ666Z-x34VPy4PMjHvKVg</id>
+        <link href="http://mp.weixin.qq.com/s/TZ666Z-x34VPy4PMjHvKVg"/>
+        <updated>2025-09-30T00:00:00.000Z</updated>
+        <published>2025-09-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Node with Cloudflare Workers]]></title>
         <id>https://nodeweekly.com/issues/594</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277398&amp;idx=1&amp;sn=e12d3ef550c8622a1831ab99c9489c13&amp;chksm=bcc39e9739736ef439d34464636333c768f6d7e16334b160ed82a8ba792f3363492d0ea17a1c&amp;scene=0#rd"/>
         <updated>2025-09-11T00:00:00.000Z</updated>
         <published>2025-09-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建议收藏！JavaScript+Vue3+React一次全吃透！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527783&amp;idx=1&amp;sn=2d9848c80736ce280fe8bbdb381c1f7f&amp;chksm=f9926bb6cee5e2a0661161717a61fddfbdf11f5f1f0fee2e8c28580853236c802e91f34b24b8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527783&amp;idx=1&amp;sn=2d9848c80736ce280fe8bbdb381c1f7f&amp;chksm=f9926bb6cee5e2a0661161717a61fddfbdf11f5f1f0fee2e8c28580853236c802e91f34b24b8#rd"/>
-        <updated>2025-09-10T00:00:00.000Z</updated>
-        <published>2025-09-10T00:00:00.000Z</published>
     </entry>
 </feed>
