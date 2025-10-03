@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-03T14:10:22.327Z</updated>
+    <updated>2025-10-03T16:11:52.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[为什么很多大厂强制使用pnpm]]></title>
         <id>http://mp.weixin.qq.com/s/iQqdMOIlpB-_js1ZHeuvVQ</id>
         <link href="http://mp.weixin.qq.com/s/iQqdMOIlpB-_js1ZHeuvVQ"/>
+        <updated>2025-10-03T00:00:00.000Z</updated>
+        <published>2025-10-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 19.2 is in the building]]></title>
+        <id>https://javascriptweekly.com/issues/755</id>
+        <link href="https://javascriptweekly.com/issues/755"/>
         <updated>2025-10-03T00:00:00.000Z</updated>
         <published>2025-10-03T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/752"/>
         <updated>2025-09-12T00:00:00.000Z</updated>
         <published>2025-09-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tailwindcss 究竟比 unocss 快多少？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527806&amp;idx=1&amp;sn=6291a5ee62a7f65fe12c64cc7996065b&amp;chksm=f9926bafcee5e2b9aaf9009c107b9ef92ef611b0e32342dec9663628b9042c786c2571ab467a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527806&amp;idx=1&amp;sn=6291a5ee62a7f65fe12c64cc7996065b&amp;chksm=f9926bafcee5e2b9aaf9009c107b9ef92ef611b0e32342dec9663628b9042c786c2571ab467a#rd"/>
-        <updated>2025-09-11T00:00:00.000Z</updated>
-        <published>2025-09-11T00:00:00.000Z</published>
     </entry>
 </feed>
