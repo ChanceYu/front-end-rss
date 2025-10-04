@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-03T16:11:52.463Z</updated>
+    <updated>2025-10-04T06:13:34.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -162,6 +162,13 @@
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[妙啊！Js的对象属性居然还能这么写]]></title>
+        <id>http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ</id>
+        <link href="http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ"/>
+        <updated>2025-09-22T00:00:00.000Z</updated>
+        <published>2025-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vue 实现一个“液态玻璃”效果登录卡片]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd"/>
@@ -211,16 +218,16 @@
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”]]></title>
-        <id>http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg</id>
-        <link href="http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg"/>
+        <title type="html"><![CDATA[我的浏览器下雨了进水了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd"/>
         <updated>2025-09-18T00:00:00.000Z</updated>
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我的浏览器下雨了进水了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd"/>
+        <title type="html"><![CDATA[“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”]]></title>
+        <id>http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg</id>
+        <link href="http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg"/>
         <updated>2025-09-18T00:00:00.000Z</updated>
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3586期】从规范看 JavaScript 数组：隐藏的对象属性]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277413&amp;idx=1&amp;sn=6cd7cd4a8dce0820aaca7d58b53af513&amp;chksm=bc38cfcfde3e1845ac49cf1930fd5206f64c06546d280e7936f4321df4d242f24849b405b3dc&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277413&amp;idx=1&amp;sn=6cd7cd4a8dce0820aaca7d58b53af513&amp;chksm=bc38cfcfde3e1845ac49cf1930fd5206f64c06546d280e7936f4321df4d242f24849b405b3dc&amp;scene=0#rd"/>
-        <updated>2025-09-12T00:00:00.000Z</updated>
-        <published>2025-09-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Package efficiency and dependency hygiene]]></title>
-        <id>https://javascriptweekly.com/issues/752</id>
-        <link href="https://javascriptweekly.com/issues/752"/>
         <updated>2025-09-12T00:00:00.000Z</updated>
         <published>2025-09-12T00:00:00.000Z</published>
     </entry>
