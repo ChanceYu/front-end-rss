@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-04T06:13:34.372Z</updated>
+    <updated>2025-10-06T18:14:55.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[实测腾讯混元图像3.0，不愧是全球第一]]></title>
+        <id>http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ</id>
+        <link href="http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ"/>
+        <updated>2025-10-06T00:00:00.000Z</updated>
+        <published>2025-10-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么很多大厂强制使用pnpm]]></title>
         <id>http://mp.weixin.qq.com/s/iQqdMOIlpB-_js1ZHeuvVQ</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[什么？2025年了发版后还要手动清浏览器缓存？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623026&amp;idx=1&amp;sn=b63696b7d6e8f7e09d99869763807c6c&amp;chksm=802259b3b755d0a5087f158ce39279ae114b88fba40f321b4556dab63167a2945a5710159d7f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623026&amp;idx=1&amp;sn=b63696b7d6e8f7e09d99869763807c6c&amp;chksm=802259b3b755d0a5087f158ce39279ae114b88fba40f321b4556dab63167a2945a5710159d7f#rd"/>
-        <updated>2025-09-12T00:00:00.000Z</updated>
-        <published>2025-09-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3586期】从规范看 JavaScript 数组：隐藏的对象属性]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277413&amp;idx=1&amp;sn=6cd7cd4a8dce0820aaca7d58b53af513&amp;chksm=bc38cfcfde3e1845ac49cf1930fd5206f64c06546d280e7936f4321df4d242f24849b405b3dc&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277413&amp;idx=1&amp;sn=6cd7cd4a8dce0820aaca7d58b53af513&amp;chksm=bc38cfcfde3e1845ac49cf1930fd5206f64c06546d280e7936f4321df4d242f24849b405b3dc&amp;scene=0#rd"/>
         <updated>2025-09-12T00:00:00.000Z</updated>
         <published>2025-09-12T00:00:00.000Z</published>
     </entry>

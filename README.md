@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-04 14:13:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-07 02:14:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -144,7 +144,7 @@
 - [2025-09-27-超-200-名谷歌外包惨被裁！员工自曝：时薪-16-美元、每日限时-5~15-分钟内完成任务、不达标就走人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623129&idx=1&sn=a7952ea53279e80faffc2c04e6f56749&chksm=80225918b755d00ec5dd8ad6689db755a082348e6394f82820a5d0209515caacc7baf13efe61#rd)  
 - [2025-09-26-tailwindcss-究竟比-unocss-快多少？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623123&idx=1&sn=ed984e9d1a2f555dbfb46a43af37cdc7&chksm=80225912b755d004c1033bfadb30bb2eae70daa81049bdefcf901201fb95a94560e8d00491af#rd)  
 - [2025-09-22-Vue-实现一个“液态玻璃”效果登录卡片](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623093&idx=1&sn=cde4b997f5e8d861917751a378bd79cd&chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd)  
-- [2025-09-22-妙啊！Js的对象属性居然还能这么写](http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ) ![](/assets/new.png)  
+- [2025-09-22-妙啊！Js的对象属性居然还能这么写](http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ)  
 - [2025-09-19-8-年后“报应”降临！翟欣欣敲诈勒索千万逼死前夫，一审被判-12-年。网友：罪有应得大快人心](http://mp.weixin.qq.com/s/i35qBVsgqX3l9on7nYTYhQ)  
 - [2025-09-18-“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”](http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg)  
 - [2025-09-18-我的浏览器下雨了进水了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623053&idx=1&sn=db6d9571c96d35fb66f032afb2b0fb8b&chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd)  
@@ -388,10 +388,12 @@
 </summary>
 
 
+- [2025-10-06-实测腾讯混元图像3.0，不愧是全球第一](http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ) ![](/assets/new.png)  
+- [2025-10-04-我让AI写了个故事，给我看破防了](http://mp.weixin.qq.com/s/eJiuylG3tLFgfQsvSAL1ug) ![](/assets/new.png)  
 - [2025-10-03-Claude-Sonnet-4.5解析，编程封神但远不止于此](http://mp.weixin.qq.com/s/BtyLPD3rjHUnX6SEnnpMSg)  
 - [2025-10-01-一手实测Sora2，OpenAI还做了个AI抖音](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504548&idx=1&sn=0bc45979d6286f9a6a21df3dc82fc361&chksm=c2b3135bf5c49a4d855e0088cb338c285323e6c0782b465763897232b9b7526ae3f900e1f87a#rd)  
-- [2025-09-30-我早就感觉不对劲，DeepSeek果然憋了个大招](http://mp.weixin.qq.com/s/vjd3NoA90HjVZmrPsLAkRA)  
 - [2025-09-30-实测可灵新视频模型2.5-Turbo，未来已来](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504493&idx=1&sn=9d066b8743771e5c5252fe853d360536&chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd)  
+- [2025-09-30-我早就感觉不对劲，DeepSeek果然憋了个大招](http://mp.weixin.qq.com/s/vjd3NoA90HjVZmrPsLAkRA)  
 - [2025-09-27-实测Kimi最新智能体「OK-Computer」，何止是OK？](http://mp.weixin.qq.com/s/ef_57UCoX5UknbAD4WnD9A)  
 - [2025-09-26-阶跃AI桌面伙伴，让你和别人拉开差距的答案](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504405&idx=1&sn=f386b86f5e1d3cd5d1a627c7dd8fde21&chksm=c2b313eaf5c49afc4de228a1657f3a5088151c338ed0ebbf2baad02d7f4f890e6ad0b593c00e#rd)  
 - [2025-09-25-别当AI铲屎官了，Lovart让你当爷](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504363&idx=1&sn=cabe0546913d65e4bf6d06e8a7b82f52&chksm=c2b31014f5c49902388b3a6afed5e12e62369c8b0d134e71e3cf28de53d7efd0ec499263dcc1#rd)  
@@ -406,8 +408,6 @@
 - [2025-09-09-再见Claude，国产平替真香](http://mp.weixin.qq.com/s/_KEDZrwqn7gr7GZo9mC5AA)  
 - [2025-09-08-Kimi这次真玩大了](http://mp.weixin.qq.com/s/QnS4IeSAvSVXr6Y-Z2AYFQ)  
 - [2025-09-04-玩了几天Fellou-CE，我好像有了超能力](http://mp.weixin.qq.com/s/qDJ0tPiTJAeDiPwDiG8wMA)  
-- [2025-08-31-我替你们试过了，这才是Nano-Banana在国内最爽的玩法](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503992&idx=1&sn=3d6dee52adf2c2e24b85156c9f623101&chksm=c2b31187f5c498914a307112ac3466892301424de01e542d78302f0dcb08965d5197a8165fc8#rd)  
-- [2025-08-30-看完钉钉发布会，只想说他们干了件“实在事”](http://mp.weixin.qq.com/s/Q6ze0Kvl95pfKwniBFpuNg)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
