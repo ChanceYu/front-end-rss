@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-07 02:14:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-08 00:14:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595) ![](/assets/new.png)  
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
@@ -66,7 +67,6 @@
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
 - [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
 - [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)  
-- [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-10-06-实测腾讯混元图像3.0，不愧是全球第一](http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ) ![](/assets/new.png)  
-- [2025-10-04-我让AI写了个故事，给我看破防了](http://mp.weixin.qq.com/s/eJiuylG3tLFgfQsvSAL1ug) ![](/assets/new.png)  
+- [2025-10-06-实测腾讯混元图像3.0，不愧是全球第一](http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ)  
+- [2025-10-04-我让AI写了个故事，给我看破防了](http://mp.weixin.qq.com/s/eJiuylG3tLFgfQsvSAL1ug)  
 - [2025-10-03-Claude-Sonnet-4.5解析，编程封神但远不止于此](http://mp.weixin.qq.com/s/BtyLPD3rjHUnX6SEnnpMSg)  
 - [2025-10-01-一手实测Sora2，OpenAI还做了个AI抖音](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504548&idx=1&sn=0bc45979d6286f9a6a21df3dc82fc361&chksm=c2b3135bf5c49a4d855e0088cb338c285323e6c0782b465763897232b9b7526ae3f900e1f87a#rd)  
 - [2025-09-30-实测可灵新视频模型2.5-Turbo，未来已来](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504493&idx=1&sn=9d066b8743771e5c5252fe853d360536&chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd)  
