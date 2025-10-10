@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-07T16:14:31.059Z</updated>
+    <updated>2025-10-10T16:11:36.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vite gets its own documentary]]></title>
+        <id>https://javascriptweekly.com/issues/756</id>
+        <link href="https://javascriptweekly.com/issues/756"/>
+        <updated>2025-10-10T00:00:00.000Z</updated>
+        <published>2025-10-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[npm security best practices to consider]]></title>
         <id>https://nodeweekly.com/issues/595</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[为什么语义 HTML 仍然重要？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527814&amp;idx=1&amp;sn=f0d28c0419b2fa04fa24aaa122ec633c&amp;chksm=f9926b57cee5e241e3ca3cfd8f71b34fbb2ede9caa87ca6b1932526faa9fb0d5447a093622e3#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527814&amp;idx=1&amp;sn=f0d28c0419b2fa04fa24aaa122ec633c&amp;chksm=f9926b57cee5e241e3ca3cfd8f71b34fbb2ede9caa87ca6b1932526faa9fb0d5447a093622e3#rd"/>
-        <updated>2025-09-12T00:00:00.000Z</updated>
-        <published>2025-09-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把 Canvas 放到 WebWorker 中去绘制？想都不敢想有多爽！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505551&amp;idx=1&amp;sn=8cda5a63ebef3f8ea9f6e3e19c854726&amp;chksm=ce45c31ef9324a0876970ea8b6478d82e15d74d141130e4d7609b0c4f9165ba46f63415f8c5e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505551&amp;idx=1&amp;sn=8cda5a63ebef3f8ea9f6e3e19c854726&amp;chksm=ce45c31ef9324a0876970ea8b6478d82e15d74d141130e4d7609b0c4f9165ba46f63415f8c5e#rd"/>
         <updated>2025-09-12T00:00:00.000Z</updated>
         <published>2025-09-12T00:00:00.000Z</published>
     </entry>
