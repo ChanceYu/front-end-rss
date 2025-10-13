@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-10T16:11:36.056Z</updated>
+    <updated>2025-10-13T04:12:23.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS field-sizing属性简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/"/>
+        <updated>2025-10-13T00:00:00.000Z</updated>
+        <published>2025-10-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vite gets its own documentary]]></title>
         <id>https://javascriptweekly.com/issues/756</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505553&amp;idx=1&amp;sn=92da27f4770e841458538a06909f866e&amp;chksm=ce45c300f9324a1614cb3964ee6b93c0604936bf8d2a013ef0b1ccf26c7ae3539a0b34f1bce7#rd"/>
         <updated>2025-09-13T00:00:00.000Z</updated>
         <published>2025-09-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么语义 HTML 仍然重要？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527814&amp;idx=1&amp;sn=f0d28c0419b2fa04fa24aaa122ec633c&amp;chksm=f9926b57cee5e241e3ca3cfd8f71b34fbb2ede9caa87ca6b1932526faa9fb0d5447a093622e3#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527814&amp;idx=1&amp;sn=f0d28c0419b2fa04fa24aaa122ec633c&amp;chksm=f9926b57cee5e241e3ca3cfd8f71b34fbb2ede9caa87ca6b1932526faa9fb0d5447a093622e3#rd"/>
-        <updated>2025-09-12T00:00:00.000Z</updated>
-        <published>2025-09-12T00:00:00.000Z</published>
     </entry>
 </feed>
