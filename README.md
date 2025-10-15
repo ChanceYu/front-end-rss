@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-15 12:12:01，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-15 20:21:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-10-15-【活动】AI-for-Frontend：重新定义前端的边界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=2&sn=16f935c0595458519fa67741d26fdd07&chksm=bc1478b03f99cfa61ab7be8413ea37575348cffd293ce9b609294dd52b7d4d5408a8df659286&scene=0#rd) ![](/assets/new.png)  
-- [2025-10-15-【第3600期】CSS-Grid：一个实用的思维模型与网格线的强大之处](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=1&sn=c62633fdee3bb8c02004898d5e9d366b&chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&scene=0#rd) ![](/assets/new.png)  
+- [2025-10-15-【活动】AI-for-Frontend：重新定义前端的边界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=2&sn=16f935c0595458519fa67741d26fdd07&chksm=bc1478b03f99cfa61ab7be8413ea37575348cffd293ce9b609294dd52b7d4d5408a8df659286&scene=0#rd)  
+- [2025-10-15-【第3600期】CSS-Grid：一个实用的思维模型与网格线的强大之处](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=1&sn=c62633fdee3bb8c02004898d5e9d366b&chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&scene=0#rd)  
 - [2025-10-14-【早阅】借助-Expo-Router，实现跨平台无缝部署](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277624&idx=1&sn=fa0a2f25bf736f78891cf95b5e3df28c&chksm=bc4ceab6673ec09d12e6e25bfcd68b1bdb76933428d1133286f3ff32a5d502c8783e1c52f4af&scene=0#rd)  
 - [2025-10-13-【早阅】Vite纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=1&sn=7a797a02e3e90787ca90e76dc4952129&chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&scene=0#rd)  
 - [2025-10-13-【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=2&sn=eac169e443df5b5695824f9f750c6295&chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&scene=0#rd)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-10-13-尤雨溪宣布：Vite-官方纪录片正式发布！完整版！](http://mp.weixin.qq.com/s/BgvDQXTo6rcLVXrm5U9TIw) ![](/assets/new.png)  
 - [2025-10-09-10-个-JS-神-API？复制即用，今晚早下班](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517440&idx=1&sn=561a3421f7c71d95a0d02b8884b97146&chksm=eb07bd79dc70346fdf206478e7f324da91078f961a24daaa0cb7b859dda83ada7bdfdcf29657#rd)  
 - [2025-09-29-Vue3-生态-4-大-Hooks-神库！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517438&idx=1&sn=5d138db8f836f95cba6067f8c84e51ad&chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd)  
 - [2025-09-24-尤雨溪宣布-Vite-8-即将发布！完全由-Rolldown-提供支持！](http://mp.weixin.qq.com/s/4hueovVuqDKkvTrFukWGlQ)  
@@ -428,8 +429,8 @@
 - [2025-09-15-Vue-官方插件重磅更新，三大高级功能免费了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517426&idx=1&sn=42ce55079850a61d640211149fd66039&chksm=eb07bc8bdc70359d78a7ff7c0ac5d152bd4a1d072350fddf7a0f9765748cbc2e6b2f80fc11bf#rd)  
 - [2025-09-14-Chrome-全新-API：2-个属性！100+-特效！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517424&idx=1&sn=deb734b4d280a69398aaeaab41ade117&chksm=eb07bc89dc70359f43091c45d607aa26c7209efb228a77e2c15255bde1ccecc5426d8d164f32#rd)  
 - [2025-09-12-10个-ES2025-新特性速览！](http://mp.weixin.qq.com/s/Bf9C8xazCHl-i1t1RDJzJA)  
-- [2025-09-10-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/fehSIPDfxAc7ubKKclvcCQ)  
 - [2025-09-10-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s/PhSCpJ6uX2ONNcsjCXmNqw)  
+- [2025-09-10-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/fehSIPDfxAc7ubKKclvcCQ)  
 - [2025-09-08-2025-年了，Vite+Vue3-微前端该用啥方案？5-大主流方案实战对比](http://mp.weixin.qq.com/s/g2jP2Q_FptCIeiDNywJDwQ)  
 - [2025-09-05-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s/KN4CeNN6ICiXz7TfBhgydQ)  
 - [2025-09-04-突发！软考空前大利好！恭喜所有前端人！](http://mp.weixin.qq.com/s/bc6lWUFZC1lZDW43hx7UrQ)  
@@ -438,7 +439,6 @@
 - [2025-09-01-Chrome-全新-API：仅-6-行-HTML！让页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517394&idx=1&sn=04a789c65347a9830448b7ab63da3cc7&chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd)  
 - [2025-08-28-终极方案：Vue3-中把-Axios-用到极致！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517392&idx=1&sn=3fd3a7bf8f4f1079d26176e82c07486a&chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd)  
 - [2025-08-27-Promise.all的时代终结了，新方法即将取代他](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517390&idx=1&sn=9203408da36c085710e0e7428d333931&chksm=eb07bcb7dc7035a1939471a830c648b2e666304edfd3af17f9b34c0016145dd6937897b6205f#rd)  
-- [2025-08-26-Vue-团队成员新作：node-modules-可视化神器！](http://mp.weixin.qq.com/s/_qqmmPedk9x7BYUcM3s3ag)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
