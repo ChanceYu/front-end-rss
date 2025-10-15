@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-15 00:11:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-15 10:26:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-10-10-【第3599期】兼顾效率和性能！快手低代码平台在大型活动中的技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277567&idx=1&sn=b55f68b7f78cc47ffe2e936ac5fb9ec4&chksm=bc0b7689b5a774ba3226294ff38c195fd5d32acdc250e6dd7a8d6f08b0e4b6be131143d66f96&scene=0#rd) 
 - [2025-09-17-【第3589期】写好工具，智能体才更聪明：Claude-的自我优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277436&idx=1&sn=c42d1bb443644528beae154177405565&chksm=bc7ed3e1d74d40eb5e274503080e624ab4d71d5d359d1c7f7b24fe18596f69debc7925f4bd0b&scene=0#rd) 
 - [2025-07-24-【第3557期】使用-useOptimistic-让应用即时响应](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277043&idx=1&sn=dfb90d213c9401e9888a0121b0edce14&chksm=bc1685e5b06f977099fb9344b296723f40b3ad46e73ee66284df7ddf630e164daddb741b9247&scene=0#rd) 
 - [2025-07-15-【第3550期】盘点字体性能优化方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276936&idx=1&sn=7aa45eb5f2c6b3314371b14ccc348820&chksm=bcbb6213d433c81132b2ef77e7cc2118ede3851c92ab117fea3c8a646a5c4901e13f0e558855&scene=0#rd) 
@@ -189,6 +190,7 @@
 - [2019-01-24-加载时间从4.6s降到0.7s，谷歌开源quicklink](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490332&idx=1&sn=e8e097e0623bc1136102cb7b56a40f35#wechat_redirect) 
 - [2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect) 
 - [2018-11-12-Netflix-网页性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489850&idx=1&sn=d93f40ba6ded642073017eae63a0096f#wechat_redirect) 
+- [2025-10-14-前端最强的网页截图神器！高效高清高性能](http://mp.weixin.qq.com/s/nvWgs5L7BnrgZxudS1ieJA) 
 - [2025-04-02-还在用-querySelectorAll？你知道性能有多差吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503490&idx=1&sn=bc63755813ec5a10236a27a0cad5f38b&chksm=ce45db13f932520510c9df1e59ea0bda2c0820d53a5d939e436a49d39b9ff817b1bddd41daaf#rd) 
 - [2023-08-26-这些天，我们前端组一起处理的项目优化](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490119&idx=1&sn=6a6094cb61234160d5430cc6245b5211&chksm=ce460fd6f93186c0e5c696b33cfe0ae739ad077139eabcc263bf4742b9f0289c1a4cce5da4ce#rd) 
 - [2023-08-11-最笨的方法解决vxe-table白屏问题，优化用户体验~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489944&idx=1&sn=9370e1898205f53eed0f4f031eaf23bb&chksm=ce460c09f931851f98e92eb4363878f663f9c9ad9cb28f54350d35d25b0ca1e65c911ecf7a2b#rd) 
@@ -235,15 +237,15 @@
 - [2024-12-26-​Next场景下的五大性能优化策略](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524846&idx=2&sn=d9a48fba53742e53b3a1d18506bf981d&chksm=f992673fcee5ee29b7e71da85b3b35f04f947d4263a769fc5081ed0865874f1116a8aafef5c2#rd) 
 - [2024-12-25-【前端进阶】更容易理解的-SEO-全方面优化](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524812&idx=2&sn=b995aee1b36036596439a65e48d0d811&chksm=f992671dcee5ee0bafb43b592818f256b9729726b9d6face85d59e42e2e6dead95e35eaf203d#rd) 
 - [2024-12-22-如何用资源提示和-HTTP/2-多路复用让网页加载速度飞起来？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524775&idx=2&sn=abc4a7ecdaf9f15b4f8baf95007182ce&chksm=f9926776cee5ee60cde2f95102dec72a127d9b5111936749183e4f2296df73691cadf793ae3b#rd) 
-- [2024-12-15-2024-年前端性能报告](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524673&idx=1&sn=1c3b815b127a8136ef6414a5bfe28ff8&chksm=f9926790cee5ee8662e0dc4e8317809d3c1d1397afbc8acad615419c193959a1c568c0a9d76d#rd) 
 - [2024-12-15-如何做静态资源预加载](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524673&idx=2&sn=ca9ac585172b1834249c83fb781a53fd&chksm=f9926790cee5ee864343832d2d2147d5a0966f568a833c901070cc280e3b5138033e5d010231#rd) 
+- [2024-12-15-2024-年前端性能报告](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524673&idx=1&sn=1c3b815b127a8136ef6414a5bfe28ff8&chksm=f9926790cee5ee8662e0dc4e8317809d3c1d1397afbc8acad615419c193959a1c568c0a9d76d#rd) 
 - [2024-12-03-前端体验优化之渐进式图片](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524408&idx=2&sn=10dd9fcd37fd7c6662aca3fb0ce61ec5&chksm=f99266e9cee5efffa0cf303fad0a08eaaaf41a01b05714fb97df3c3b78738ac8bdcd0d6f629a#rd) 
 - [2024-11-26-微前端集成优化：让所有子应用体积更小，加载更快](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524242&idx=1&sn=5d3f2b22e0d1885b53fa1d5dcabc5063&chksm=f9929943cee51055c9f7d3be21cc936295aa2f3175e90583b846da433870a426c6c7531be394#rd) 
 - [2023-11-12-一次前端性能优化——性能得分从56到96](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517303&idx=2&sn=982bea3f0b74270a2f8549095095b0f4&chksm=f99282a6cee50bb0f519f74f7acde0c2349b8b773b19909cf02a0d0b254cf88cb768c351554a#rd) 
 - [2023-10-09-性能优化，前端时间分片渲染简单做法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516550&idx=2&sn=4180035a059da3055ad07414cf27c72a&chksm=f9928757cee50e418f768c5a5276a8fe012fb833d68cf1f099040bd5b98f623fe8a0126266dd#rd) 
 - [2023-09-22-国民级应用：新-QQ-NT-桌面版内存优化探索之路](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516454&idx=2&sn=9f6434346f6efaef8005a11dcbb4a51d&chksm=f99287f7cee50ee1b9c776ec7e4ea0e3fc344c06aa4e97390deb70ac96744a8ed5e78a9be12d#rd) 
-- [2023-09-15-腾讯QQ-桌面版的内存优化探索与总结](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516338&idx=2&sn=a201247bed3646cddf92d6376a83544f&chksm=f9928663cee50f75ea5138d5985bde09d541d29f9a273d1c823ef99ae6e94f5645f11fef082d#rd) 
 - [2023-09-15-这些天，我们前端组一起处理的项目优化点](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516338&idx=1&sn=1b89b54ffe5f25860fce8e1e2af1251b&chksm=f9928663cee50f7593fe8d95fbecf1fedea23488b9dfed66632ce70fb4159c5d504c509b4dd6#rd) 
+- [2023-09-15-腾讯QQ-桌面版的内存优化探索与总结](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516338&idx=2&sn=a201247bed3646cddf92d6376a83544f&chksm=f9928663cee50f75ea5138d5985bde09d541d29f9a273d1c823ef99ae6e94f5645f11fef082d#rd) 
 - [2023-08-28-来公司半年了，我做了哪些优化，能让老板对我刮目相看~](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515892&idx=1&sn=024451416cf1812bb32984b811577d21&chksm=f992b825cee53133c2c695390065f30643187783ff84cee24c93d27b08debb3daedbec0468ad#rd) 
 - [2023-08-04-记一次前端项目优化，深度解读项目质量及性能常用手法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=1&sn=3a28aa2eaf3b0b2f709e7a0653692fcd&chksm=f992bb5acee5324cad4512aec384db65f0f658ba3ceb16c2d653f952011b2ff50afc809a2b99#rd) 
 - [2023-07-30-前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515466&idx=1&sn=bffbe78643381468764ff013e85cb54a&chksm=f992bb9bcee5328dc49eaf3d9f054ec732bfecb871bc9f4a4d6d887291ec76d4bace6358b201#rd) 

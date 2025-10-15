@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-15 00:11:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-15 10:26:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -9,6 +9,7 @@
 
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621) 
 - [2022-10-28-Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612) 
+- [2025-10-13-【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=2&sn=eac169e443df5b5695824f9f750c6295&chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&scene=0#rd) 
 - [2025-08-06-【第3566期】UI-的未来：从命令行到对话式-AI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=2&sn=2305e2835aafc1e0b1e293dc62393c99&chksm=bcf43824aaad08aa0f094a7b569c354f1380884cd351fb42d286f71c5920d6e731d20460e484&scene=0#rd) 
 - [2025-06-12-【第3527期】Pinterest-采用文档即代码模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276672&idx=1&sn=447bba11593032769418f8e15cb681f5&chksm=bc67af2d90852f402983156ae5717501a1720136e6fb4d97b978f816524237752f313167e8b3&scene=0#rd) 
 - [2025-05-29-【第3519期】使用一条-Git-命令推送整个分支栈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276581&idx=1&sn=8e497d9d26636035d7d72febd2b7170a&chksm=bcaf81749157d587f15e421303f7b0e72e517484f0d6d850ff46f772c77227f20452ddf6785f&scene=0#rd) 
