@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-15 20:21:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-16 04:10:56，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,9 +30,9 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -419,7 +419,7 @@
 </summary>
 
 
-- [2025-10-13-尤雨溪宣布：Vite-官方纪录片正式发布！完整版！](http://mp.weixin.qq.com/s/BgvDQXTo6rcLVXrm5U9TIw) ![](/assets/new.png)  
+- [2025-10-13-尤雨溪宣布：Vite-官方纪录片正式发布！完整版！](http://mp.weixin.qq.com/s/BgvDQXTo6rcLVXrm5U9TIw)  
 - [2025-10-09-10-个-JS-神-API？复制即用，今晚早下班](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517440&idx=1&sn=561a3421f7c71d95a0d02b8884b97146&chksm=eb07bd79dc70346fdf206478e7f324da91078f961a24daaa0cb7b859dda83ada7bdfdcf29657#rd)  
 - [2025-09-29-Vue3-生态-4-大-Hooks-神库！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517438&idx=1&sn=5d138db8f836f95cba6067f8c84e51ad&chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd)  
 - [2025-09-24-尤雨溪宣布-Vite-8-即将发布！完全由-Rolldown-提供支持！](http://mp.weixin.qq.com/s/4hueovVuqDKkvTrFukWGlQ)  
@@ -481,6 +481,8 @@
 </summary>
 
 
+- [2025-10-15-初探：从0开始的AI-Agent开发踩坑实录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541672&idx=1&sn=54d7c39363697c18eb40ed6a142e9ae2&chksm=8390c670b4e74f663d2b04fa763b46e6d085219d418580eeda769005ff307fb08b8e8b36ea3d#rd) ![](/assets/new.png)  
+- [2025-10-13-AI-动画辅助实现的方案与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541671&idx=1&sn=46ababd4983dd0fc74cd4d38409be0e9&chksm=8390c67fb4e74f694e5444432d1ea1fcc57a3305676ba486504d7ab28e91803f2d617af9a196#rd) ![](/assets/new.png)  
 - [2025-10-09-从Prompt到Context：为什么Think-Tool是形式化的必然？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541606&idx=1&sn=5f200c42226a0b69e83e0772f08baf26&chksm=8390c63eb4e74f28794b887853ffa39083b0fa1bc0ace43296120fd5eed30e31ce6323c480a4#rd)  
 - [2025-09-29-产品经理也能“开发”需求？淘宝信息流从需求到上线的AI端到端实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541580&idx=1&sn=7a51be5c6032b18fbae35618a4ed7096&chksm=8390c614b4e74f02f4043a02a6d5aafd216fd5534b9af36d0cdce85d1d41af93f48889285bce#rd)  
 - [2025-09-24-一位淘宝工程同学的大模型LoRA微调尝试](http://mp.weixin.qq.com/s/KH3_z2T_VC8E8QD8Q7dS2A)  
@@ -495,12 +497,10 @@
 - [2025-08-29-HSF-序列化不可变集合类型问题原因分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541395&idx=1&sn=39d24185e3fa777de04671a48e39f0ba&chksm=8390c54bb4e74c5db77086cf8cedea47f3cb9f855f436be3ac385ea1e09893aebabf09f18f36#rd)  
 - [2025-08-27-分享一下我对好代码的理解](http://mp.weixin.qq.com/s/vJVIRN5MkKD__0guGgtyoQ)  
 - [2025-08-25-深入聊聊RAG](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541388&idx=1&sn=21e68d346e56ab2de7d23f72439add3c&chksm=8390c554b4e74c42479923260effc90a9fd872b028a9caffff24945a3bf039173f1719cd752b#rd)  
-- [2025-08-22-Jsonnet-一种“新”的Json数据转换工具](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=1&sn=24713a8efcf3b66138e629bda1afcffd&chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&scene=0#rd)  
 - [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
+- [2025-08-22-Jsonnet-一种“新”的Json数据转换工具](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=1&sn=24713a8efcf3b66138e629bda1afcffd&chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&scene=0#rd)  
 - [2025-08-20-一位Cursor深度用户的原理探析与实验验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541333&idx=1&sn=48a4eb5c1ab1f39630124038d31ec715&chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&scene=0#rd)  
 - [2025-08-18-淘宝购物车拖拽功能的思考与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541315&idx=1&sn=b9f93d3995fc5b25c5eed17b00c24115&chksm=82d2352e90a2533f9966546b9863859f4525df737a27a86c5622d93903f73cc83e6c92700982&scene=0#rd)  
-- [2025-08-15-MNN-LLM-Chat-iOS-流式输出优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541282&idx=1&sn=c7e80789f8a1e4ebaebc8e34c55a9829&chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&scene=0#rd)  
-- [2025-08-13-万字长文解码如何玩转Prompt（附实践应用）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541246&idx=1&sn=7b3f30ecd25140e2e43708c79f0d813d&chksm=8203ef985d095fb4d8894eba72a4e718072f9a3a15db7ab5ffd290334dacd3f42f9576cc91b9&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

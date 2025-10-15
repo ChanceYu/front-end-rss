@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-15T12:21:16.986Z</updated>
+    <updated>2025-10-15T20:10:56.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[CSS field-sizing属性简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/"/>
+        <updated>2025-10-13T00:00:00.000Z</updated>
+        <published>2025-10-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 动画辅助实现的方案与实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541671&amp;idx=1&amp;sn=46ababd4983dd0fc74cd4d38409be0e9&amp;chksm=8390c67fb4e74f694e5444432d1ea1fcc57a3305676ba486504d7ab28e91803f2d617af9a196#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541671&amp;idx=1&amp;sn=46ababd4983dd0fc74cd4d38409be0e9&amp;chksm=8390c67fb4e74f694e5444432d1ea1fcc57a3305676ba486504d7ab28e91803f2d617af9a196#rd"/>
         <updated>2025-10-13T00:00:00.000Z</updated>
         <published>2025-10-13T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我的浏览器下雨了进水了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd"/>
-        <updated>2025-09-18T00:00:00.000Z</updated>
-        <published>2025-09-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3590期】Node.js 搭建 MCP Server，实时获取最新 API 文档]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277458&amp;idx=1&amp;sn=ef790ada9d8afb6d7dae669f30af16c2&amp;chksm=bc5da26ec854b9339a0d22eaadedfbbe37e863fe930cfaadf57e4128df7cb3c551f65e7ed044&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277458&amp;idx=1&amp;sn=ef790ada9d8afb6d7dae669f30af16c2&amp;chksm=bc5da26ec854b9339a0d22eaadedfbbe37e863fe930cfaadf57e4128df7cb3c551f65e7ed044&amp;scene=0#rd"/>
         <updated>2025-09-18T00:00:00.000Z</updated>
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
