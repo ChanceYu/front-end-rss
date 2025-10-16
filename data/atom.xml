@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-15T20:10:56.856Z</updated>
+    <updated>2025-10-16T04:11:57.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,16 +64,16 @@
         <published>2025-10-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=2&amp;sn=eac169e443df5b5695824f9f750c6295&amp;chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=2&amp;sn=eac169e443df5b5695824f9f750c6295&amp;chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【早阅】Vite纪录片]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=1&amp;sn=7a797a02e3e90787ca90e76dc4952129&amp;chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=1&amp;sn=7a797a02e3e90787ca90e76dc4952129&amp;chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&amp;scene=0#rd"/>
         <updated>2025-10-13T00:00:00.000Z</updated>
         <published>2025-10-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早阅】Vite纪录片]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=1&amp;sn=7a797a02e3e90787ca90e76dc4952129&amp;chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=1&amp;sn=7a797a02e3e90787ca90e76dc4952129&amp;chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=2&amp;sn=eac169e443df5b5695824f9f750c6295&amp;chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=2&amp;sn=eac169e443df5b5695824f9f750c6295&amp;chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&amp;scene=0#rd"/>
         <updated>2025-10-13T00:00:00.000Z</updated>
         <published>2025-10-13T00:00:00.000Z</published>
     </entry>
