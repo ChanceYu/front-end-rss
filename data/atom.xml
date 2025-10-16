@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-16T04:11:57.677Z</updated>
+    <updated>2025-10-16T06:15:39.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[饿了么面试官：实现一下 Element-UI 官网的主题切换动画！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505844&amp;idx=1&amp;sn=f56adc872d4b92adb3290a373afa85de&amp;chksm=ce45c225f9324b338e3bcc758add396526977ad7753505952481d72e2c1bf33eaad8c59311f2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505844&amp;idx=1&amp;sn=f56adc872d4b92adb3290a373afa85de&amp;chksm=ce45c225f9324b338e3bcc758add396526977ad7753505952481d72e2c1bf33eaad8c59311f2#rd"/>
+        <updated>2025-10-16T00:00:00.000Z</updated>
+        <published>2025-10-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3600期】CSS Grid：一个实用的思维模型与网格线的强大之处]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277638&amp;idx=1&amp;sn=c62633fdee3bb8c02004898d5e9d366b&amp;chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&amp;scene=0#rd</id>
@@ -295,16 +302,16 @@
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue 实现一个“液态玻璃”效果登录卡片]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd"/>
+        <title type="html"><![CDATA[妙啊！Js的对象属性居然还能这么写]]></title>
+        <id>http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ</id>
+        <link href="http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[妙啊！Js的对象属性居然还能这么写]]></title>
-        <id>http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ</id>
-        <link href="http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ"/>
+        <title type="html"><![CDATA[Vue 实现一个“液态玻璃”效果登录卡片]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
@@ -347,13 +354,6 @@
         <title type="html"><![CDATA[深入解读 SourceMap：如何实现代码反解与调试]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527866&amp;idx=2&amp;sn=c72a51bf33744b86e1a5769315ee1b30&amp;chksm=f9926b6bcee5e27d57bb07e448e9ed49bf10899adbb9c90ffce169c41ec30ca41899dbd35b81#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527866&amp;idx=2&amp;sn=c72a51bf33744b86e1a5769315ee1b30&amp;chksm=f9926b6bcee5e27d57bb07e448e9ed49bf10899adbb9c90ffce169c41ec30ca41899dbd35b81#rd"/>
-        <updated>2025-09-18T00:00:00.000Z</updated>
-        <published>2025-09-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”]]></title>
-        <id>http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg</id>
-        <link href="http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg"/>
         <updated>2025-09-18T00:00:00.000Z</updated>
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
