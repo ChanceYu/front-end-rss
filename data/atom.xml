@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-16T14:11:03.360Z</updated>
+    <updated>2025-10-16T18:14:14.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -309,16 +309,16 @@
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[妙啊！Js的对象属性居然还能这么写]]></title>
-        <id>http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ</id>
-        <link href="http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ"/>
+        <title type="html"><![CDATA[Vue 实现一个“液态玻璃”效果登录卡片]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue 实现一个“液态玻璃”效果登录卡片]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd"/>
+        <title type="html"><![CDATA[妙啊！Js的对象属性居然还能这么写]]></title>
+        <id>http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ</id>
+        <link href="http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
