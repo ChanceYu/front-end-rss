@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-17T14:10:06.701Z</updated>
+    <updated>2025-10-17T16:11:39.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【早阅】Vite 不仅仅是构建工具]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277651&amp;idx=1&amp;sn=4cb0aa638ffa1bdecf692a40f5c6784c&amp;chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277651&amp;idx=1&amp;sn=4cb0aa638ffa1bdecf692a40f5c6784c&amp;chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&amp;scene=0#rd"/>
+        <updated>2025-10-17T00:00:00.000Z</updated>
+        <published>2025-10-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bun-believable release that isn't half-baked]]></title>
+        <id>https://javascriptweekly.com/issues/757</id>
+        <link href="https://javascriptweekly.com/issues/757"/>
         <updated>2025-10-17T00:00:00.000Z</updated>
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3591期】GitHub Spec-Kit：规范驱动开发走在正确的方向上 - 严谨、渐进式的 Vibe Coding]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277468&amp;idx=1&amp;sn=555fad29ddf6adaed65dd6b2032b9ec7&amp;chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277468&amp;idx=1&amp;sn=555fad29ddf6adaed65dd6b2032b9ec7&amp;chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&amp;scene=0#rd"/>
-        <updated>2025-09-19T00:00:00.000Z</updated>
-        <published>2025-09-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The attack on the npm ecosystem continues]]></title>
-        <id>https://javascriptweekly.com/issues/753</id>
-        <link href="https://javascriptweekly.com/issues/753"/>
         <updated>2025-09-19T00:00:00.000Z</updated>
         <published>2025-09-19T00:00:00.000Z</published>
     </entry>

@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-17 22:10:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-18 00:11:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -37,7 +37,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757) ![](/assets/new.png)  
 - [2025-10-10-Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)  
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)  
 - [2025-09-26-The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)  
@@ -97,7 +98,6 @@
 - [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)  
 - [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)  
 - [2025-05-30-How-Remix-is-shaking-things-up](https://javascriptweekly.com/issues/738)  
-- [2025-05-23-A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -636,7 +636,7 @@
 </summary>
 
 
-- [2025-10-17-笔记软件孕育数字分身](https://fenghen.me/posts/2025/10/17/notes-and-digital-twin/) ![](/assets/new.png)  
+- [2025-10-17-笔记软件孕育数字分身](https://fenghen.me/posts/2025/10/17/notes-and-digital-twin/)  
 - [2025-09-09-终端开发环境搭建](https://fenghen.me/posts/2025/09/09/terminal-dev-env/)  
 - [2025-09-01-ZingAI.video-在线口播视频剪辑](https://fenghen.me/posts/2025/09/01/overview/)  
 - [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/)  

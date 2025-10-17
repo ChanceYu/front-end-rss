@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-17 22:10:06。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-18 00:11:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -546,6 +546,7 @@
 - [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
 - [【Node-Weekly】A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449)
+- [【JavaScript-Weekly】A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)
 - [【JavaScript-Weekly】Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)
 - [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
 - [【JavaScript-Weekly】AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594)
@@ -561,7 +562,6 @@
 - [【前端早读课】【早阅】Axios-请求可能存在-SSRF和凭据泄露风险](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275995&idx=1&sn=69270ffdd4605ec2a39995734784989a&chksm=bcd12fd07ab57def76b1f7ca59fd1b225b0e2ecd6dd2e2edbd53fe5e1adbda6922e4f1672eed&scene=0#rd)
 - [【前端早读课】【第3444期】Chrome-131-开发者工具的新变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275083&idx=1&sn=37d1d85616ac196e766b76ba92ab6ef7&chksm=bc44cf383580e00bda725629cdb6329d3d96f851bd551e94eb00c11e1ea7d4f8417ac03e1004&scene=0#rd)
 - [【前端早读课】【第3436期】再见Postman，你好Insomnia：更快的-API-测试方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274868&idx=1&sn=69f6fc5d28c73b63de8c77987794fed9&chksm=bcc83df9c8fd47299b2467b007fdd20f587427f4c590049ce6febedce08e207a954b776c80f8&scene=0#rd)
-- [【前端早读课】【第3433期】见证-Web-进化：Chrome-内置-AI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274730&idx=1&sn=1f98bafae58b98bef830996b28a0b4c0&chksm=bc6cc6a2879e732958aff78ae494cf9954e55b374722d121559838b91e6614d388b32c629135&scene=0#rd)
 - [查看更多 >](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
