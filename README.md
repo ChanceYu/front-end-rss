@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-18 00:11:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-19 22:07:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757) ![](/assets/new.png)  
+- [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)  
 - [2025-10-10-Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)  
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)  
 - [2025-09-26-The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-10-18-教你豆包P图10个最新玩法，一次玩过瘾](http://mp.weixin.qq.com/s/DKjWzovgwqzFXoPXTqgyEw) ![](/assets/new.png)  
 - [2025-10-16-去班味儿这件事，八爪鱼RPA敢做成这样？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504696&idx=1&sn=8b8b74a96786628f499ed10b97199805&chksm=c2b312c7f5c49bd1d2763272785bf289a6a8b31fdff478aa3cf8986c1de909d1a9b7317dc543#rd)  
 - [2025-10-13-我卸载了20个AI工具，只留了这一个](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504661&idx=1&sn=4abe3cec4e42521ed82f6184635721c3&chksm=c2b312eaf5c49bfc2ebe148a975b170248bf641d5f42a429cb07103a40a98d3205e21d367909#rd)  
 - [2025-10-07-OpenAI年度发布会，8亿人的狂欢](http://mp.weixin.qq.com/s/0x6nFtaVwCmFet4D9DyaEg)  
@@ -395,8 +396,8 @@
 - [2025-10-04-我让AI写了个故事，给我看破防了](http://mp.weixin.qq.com/s/eJiuylG3tLFgfQsvSAL1ug)  
 - [2025-10-03-Claude-Sonnet-4.5解析，编程封神但远不止于此](http://mp.weixin.qq.com/s/BtyLPD3rjHUnX6SEnnpMSg)  
 - [2025-10-01-一手实测Sora2，OpenAI还做了个AI抖音](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504548&idx=1&sn=0bc45979d6286f9a6a21df3dc82fc361&chksm=c2b3135bf5c49a4d855e0088cb338c285323e6c0782b465763897232b9b7526ae3f900e1f87a#rd)  
-- [2025-09-30-我早就感觉不对劲，DeepSeek果然憋了个大招](http://mp.weixin.qq.com/s/vjd3NoA90HjVZmrPsLAkRA)  
 - [2025-09-30-实测可灵新视频模型2.5-Turbo，未来已来](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504493&idx=1&sn=9d066b8743771e5c5252fe853d360536&chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd)  
+- [2025-09-30-我早就感觉不对劲，DeepSeek果然憋了个大招](http://mp.weixin.qq.com/s/vjd3NoA90HjVZmrPsLAkRA)  
 - [2025-09-27-实测Kimi最新智能体「OK-Computer」，何止是OK？](http://mp.weixin.qq.com/s/ef_57UCoX5UknbAD4WnD9A)  
 - [2025-09-26-阶跃AI桌面伙伴，让你和别人拉开差距的答案](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504405&idx=1&sn=f386b86f5e1d3cd5d1a627c7dd8fde21&chksm=c2b313eaf5c49afc4de228a1657f3a5088151c338ed0ebbf2baad02d7f4f890e6ad0b593c00e#rd)  
 - [2025-09-25-别当AI铲屎官了，Lovart让你当爷](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504363&idx=1&sn=cabe0546913d65e4bf6d06e8a7b82f52&chksm=c2b31014f5c49902388b3a6afed5e12e62369c8b0d134e71e3cf28de53d7efd0ec499263dcc1#rd)  
@@ -407,7 +408,6 @@
 - [2025-09-16-可灵AI新版数字人实测，有点过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504220&idx=1&sn=16564c368e6ab62f7293ae5d6e1706f8&chksm=c2b310a3f5c499b54e76937969a5d4d3d9ed95415f8566d1622e5e0a3e75fe1a9b76443c87f4#rd)  
 - [2025-09-15-钉钉AI硬件DingTalk-A1，开会摸鱼的神](http://mp.weixin.qq.com/s/NjMHLsn0yZGje1USqrLd_Q)  
 - [2025-09-14-美团上线生活Agent小美，这次真掀桌子了](http://mp.weixin.qq.com/s/FO7ZXmwEQTd4t9cFU7XyTg)  
-- [2025-09-11-腾讯CodeBuddy-Code实测，比想象中更狠](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504127&idx=1&sn=9a0dbe59acf746eb8e52430037d304c0&chksm=c2b31100f5c49816c0afcdc48fc8a2f5da29eef49c89c380b8860aa27b76ffe1e4997350f612#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
