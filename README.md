@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-20 14:16:40，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-20 18:12:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,7 +23,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -202,10 +202,10 @@
 </summary>
 
 
-- [2025-10-20-离谱！裁员裁出新高度了，比去年还夸张。。。](http://mp.weixin.qq.com/s/xptAyImS6lgutyyZQA3v_Q) ![](/assets/new.png)  
-- [2025-10-19-天塌了！3w-Star-的前端启蒙项目，被一夜强制清空！](http://mp.weixin.qq.com/s/CeVyJ_JzYoRx9FJEXjhnXA) ![](/assets/new.png)  
-- [2025-10-18-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/dWOkb_3JssjduSIi2IGnzw) ![](/assets/new.png)  
-- [2025-10-17-Snow-Admin：技术新、功能丰富、简单易用的开源的后台](http://mp.weixin.qq.com/s/pU6WSGUvX-4il-zbeYC-yg) ![](/assets/new.png)  
+- [2025-10-20-离谱！裁员裁出新高度了，比去年还夸张。。。](http://mp.weixin.qq.com/s/xptAyImS6lgutyyZQA3v_Q)  
+- [2025-10-19-天塌了！3w-Star-的前端启蒙项目，被一夜强制清空！](http://mp.weixin.qq.com/s/CeVyJ_JzYoRx9FJEXjhnXA)  
+- [2025-10-18-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/dWOkb_3JssjduSIi2IGnzw)  
+- [2025-10-17-Snow-Admin：技术新、功能丰富、简单易用的开源的后台](http://mp.weixin.qq.com/s/pU6WSGUvX-4il-zbeYC-yg)  
 - [2025-10-16-饿了么面试官：实现一下-Element-UI-官网的主题切换动画！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505844&idx=1&sn=f56adc872d4b92adb3290a373afa85de&chksm=ce45c225f9324b338e3bcc758add396526977ad7753505952481d72e2c1bf33eaad8c59311f2#rd)  
 - [2025-10-15-前端人必备！用AI自动整理学习资料太顶了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505831&idx=1&sn=612c8da163772c260621b00e10a722b6&chksm=ce45c236f9324b209030b7005c62b3ca4c8d1e81e1961edbf28ec5ab102cc4d37c798c3bb93a#rd)  
 - [2025-10-14-前端最强的网页截图神器！高效高清高性能](http://mp.weixin.qq.com/s/nvWgs5L7BnrgZxudS1ieJA)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/) ![](/assets/new.png)  
 - [2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/)  
 - [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/)  
 - [2025-09-19-CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/)  
@@ -531,7 +532,6 @@
 - [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)  
 - [2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)  
 - [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)  
-- [2025-05-23-你知道吗，输入框的value值也能直接返回数值类型](https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-20T06:16:41.535Z</updated>
+    <updated>2025-10-20T10:12:28.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS reading-flow和reading-order属性简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/"/>
+        <updated>2025-10-20T00:00:00.000Z</updated>
+        <published>2025-10-20T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3601期】HTML 的隐藏宝藏：  标签]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277679&amp;idx=1&amp;sn=4b3daf212972191ed6ec8ab4b3712d2d&amp;chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505584&amp;idx=1&amp;sn=f94e46c5124247763604f328bc3cb25c&amp;chksm=ce45c321f9324a37e8a0fd3db713d5a5108f12bedbd5b650bf2428cd37ba21c9737d0da24fba#rd"/>
         <updated>2025-09-21T00:00:00.000Z</updated>
         <published>2025-09-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS scroll-target-group加:target-current滚动菜单自动高亮]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/"/>
-        <updated>2025-09-19T00:00:00.000Z</updated>
-        <published>2025-09-19T00:00:00.000Z</published>
     </entry>
 </feed>
