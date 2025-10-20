@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-19T14:07:53.560Z</updated>
+    <updated>2025-10-20T04:16:23.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3601期】HTML 的隐藏宝藏：  标签]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277679&amp;idx=1&amp;sn=4b3daf212972191ed6ec8ab4b3712d2d&amp;chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277679&amp;idx=1&amp;sn=4b3daf212972191ed6ec8ab4b3712d2d&amp;chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&amp;scene=0#rd"/>
+        <updated>2025-10-20T00:00:00.000Z</updated>
+        <published>2025-10-20T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】Vite 不仅仅是构建工具]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277651&amp;idx=1&amp;sn=4cb0aa638ffa1bdecf692a40f5c6784c&amp;chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&amp;scene=0#rd</id>
@@ -92,16 +99,16 @@
         <published>2025-10-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=2&amp;sn=eac169e443df5b5695824f9f750c6295&amp;chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=2&amp;sn=eac169e443df5b5695824f9f750c6295&amp;chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【早阅】Vite纪录片]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=1&amp;sn=7a797a02e3e90787ca90e76dc4952129&amp;chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=1&amp;sn=7a797a02e3e90787ca90e76dc4952129&amp;chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&amp;scene=0#rd"/>
         <updated>2025-10-13T00:00:00.000Z</updated>
         <published>2025-10-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早阅】Vite纪录片]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=1&amp;sn=7a797a02e3e90787ca90e76dc4952129&amp;chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=1&amp;sn=7a797a02e3e90787ca90e76dc4952129&amp;chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=2&amp;sn=eac169e443df5b5695824f9f750c6295&amp;chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=2&amp;sn=eac169e443df5b5695824f9f750c6295&amp;chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&amp;scene=0#rd"/>
         <updated>2025-10-13T00:00:00.000Z</updated>
         <published>2025-10-13T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[React 中的并发与并行：打造极速前端应用的隐藏关键]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527875&amp;idx=1&amp;sn=50d032bbc5a7002f2748822af5af1243&amp;chksm=f9926b12cee5e204b49b337d4b01ed8eb643da8ed487edd69a2c804c7557df2585436d9623ee#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527875&amp;idx=1&amp;sn=50d032bbc5a7002f2748822af5af1243&amp;chksm=f9926b12cee5e204b49b337d4b01ed8eb643da8ed487edd69a2c804c7557df2585436d9623ee#rd"/>
-        <updated>2025-09-19T00:00:00.000Z</updated>
-        <published>2025-09-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3591期】GitHub Spec-Kit：规范驱动开发走在正确的方向上 - 严谨、渐进式的 Vibe Coding]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277468&amp;idx=1&amp;sn=555fad29ddf6adaed65dd6b2032b9ec7&amp;chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277468&amp;idx=1&amp;sn=555fad29ddf6adaed65dd6b2032b9ec7&amp;chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&amp;scene=0#rd"/>
         <updated>2025-09-19T00:00:00.000Z</updated>
         <published>2025-09-19T00:00:00.000Z</published>
     </entry>
