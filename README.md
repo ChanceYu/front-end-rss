@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-20 12:16:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-20 14:16:40，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd) ![](/assets/new.png)  
+- [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd)  
 - [2025-10-17-【早阅】Vite-不仅仅是构建工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277651&idx=1&sn=4cb0aa638ffa1bdecf692a40f5c6784c&chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&scene=0#rd)  
 - [2025-10-16-【早阅】使用-Kiro.dev-进行规范驱动开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277642&idx=1&sn=72be6f92d18c9717b90750902a58060c&chksm=bc9d55206f2592b9414341efb6cf4d01b6117c7fb8161a3a3e77444eaccb148e95115372e6bf&scene=0#rd)  
 - [2025-10-15-【第3600期】CSS-Grid：一个实用的思维模型与网格线的强大之处](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=1&sn=c62633fdee3bb8c02004898d5e9d366b&chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&scene=0#rd)  
@@ -202,6 +202,10 @@
 </summary>
 
 
+- [2025-10-20-离谱！裁员裁出新高度了，比去年还夸张。。。](http://mp.weixin.qq.com/s/xptAyImS6lgutyyZQA3v_Q) ![](/assets/new.png)  
+- [2025-10-19-天塌了！3w-Star-的前端启蒙项目，被一夜强制清空！](http://mp.weixin.qq.com/s/CeVyJ_JzYoRx9FJEXjhnXA) ![](/assets/new.png)  
+- [2025-10-18-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/dWOkb_3JssjduSIi2IGnzw) ![](/assets/new.png)  
+- [2025-10-17-Snow-Admin：技术新、功能丰富、简单易用的开源的后台](http://mp.weixin.qq.com/s/pU6WSGUvX-4il-zbeYC-yg) ![](/assets/new.png)  
 - [2025-10-16-饿了么面试官：实现一下-Element-UI-官网的主题切换动画！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505844&idx=1&sn=f56adc872d4b92adb3290a373afa85de&chksm=ce45c225f9324b338e3bcc758add396526977ad7753505952481d72e2c1bf33eaad8c59311f2#rd)  
 - [2025-10-15-前端人必备！用AI自动整理学习资料太顶了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505831&idx=1&sn=612c8da163772c260621b00e10a722b6&chksm=ce45c236f9324b209030b7005c62b3ca4c8d1e81e1961edbf28ec5ab102cc4d37c798c3bb93a#rd)  
 - [2025-10-14-前端最强的网页截图神器！高效高清高性能](http://mp.weixin.qq.com/s/nvWgs5L7BnrgZxudS1ieJA)  
@@ -216,12 +220,8 @@
 - [2025-09-29-JavaScript-原生深拷贝方法来啦！structuredClone-闪耀登场~](http://mp.weixin.qq.com/s/MxaGzd49wgQvjQXJ2_Ml8Q)  
 - [2025-09-28-DeepSeek，永别了！！](http://mp.weixin.qq.com/s/NNf8IJtQT5KMuoyM51qvIw)  
 - [2025-09-26-请所有前端立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s/w89gC0Nx6YbC_L9SSYN_ig)  
-- [2025-09-25-Pinia-最强插件发布，包含九大必备功能！](http://mp.weixin.qq.com/s/GnTnn9kXcqhWlgkU8Qe7Cw)  
 - [2025-09-25-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/BPedXf-os1yz3LwsJNfSxg)  
-- [2025-09-23-超强-AI-工具！快速部署知识库页面！](http://mp.weixin.qq.com/s/tjxJBFy-XpJxpAtc4NPQaw)  
-- [2025-09-22-强到离谱，2025年浏览器必装插件！](http://mp.weixin.qq.com/s/V1TxdY3FGzVUKxDxb5X3JQ)  
-- [2025-09-21-最近用到的九个CSS实用技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505584&idx=1&sn=f94e46c5124247763604f328bc3cb25c&chksm=ce45c321f9324a37e8a0fd3db713d5a5108f12bedbd5b650bf2428cd37ba21c9737d0da24fba#rd)  
-- [2025-09-19-前端页面中，如何让用户回到上次阅读的位置？](http://mp.weixin.qq.com/s/2WunYQqKp00F2hpHXHkTaw)  
+- [2025-09-25-Pinia-最强插件发布，包含九大必备功能！](http://mp.weixin.qq.com/s/GnTnn9kXcqhWlgkU8Qe7Cw)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
