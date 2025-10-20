@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-20 18:12:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-21 04:11:09，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,7 +25,7 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -264,6 +264,8 @@
 </summary>
 
 
+- [2025-10-20-为什么响应性语法糖最终被废弃了？尤雨溪也曾经试图让你不用写-.value](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528048&idx=1&sn=029f5c53572ae0fbf37d402796952c96&chksm=f99268a1cee5e1b7405cc940f85dcb443c10b79ce89bb5a4e334004dab55342ae8cdacd2bc5d#rd) ![](/assets/new.png)  
+- [2025-10-17-Node.js-25-正式发布：性能飙升、安全升级、全面向-Web-靠拢！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528042&idx=1&sn=2ad5e4d067e77e6b0b7712166746acb1&chksm=f99268bbcee5e1ad4efca0f669b085cc37c082190f4bc3551d77ff3c3c83c147170b15f1cc73#rd) ![](/assets/new.png)  
 - [2025-10-16-2025年-Node.js-新模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528016&idx=1&sn=814919601abb50184441adefee5cc299&chksm=f9926881cee5e197d23e1673e1cbcaf0feee776f5a9ce74827f08915328faf034c79fb3cbc4b#rd)  
 - [2025-10-15-Cursor-1.7的这些重要更新，别忽视！（最完全讲解版）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528008&idx=1&sn=c5d2c73fb3c11b329722541cf0b53f12&chksm=f9926899cee5e18fd757e1e6691a9a2bc626c7be6553a034fb57ceee7c33723b4d06286a4fe2#rd)  
 - [2025-10-14-React-组件设计：9-种让你的-UI-坚不可摧的架构模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528006&idx=1&sn=85be703d2aacb351c8529eabc10c88bf&chksm=f9926897cee5e1817909ddf429f268df67eb88180aeb589b1c4d68814b985930fa8128286644#rd)  
@@ -274,16 +276,14 @@
 - [2025-09-30-Vue的异步DOM更新：nextTick的正确使用方法](http://mp.weixin.qq.com/s/TZ666Z-x34VPy4PMjHvKVg)  
 - [2025-09-28-BFF—-每个前端开发者都应该知道的缺失层](http://mp.weixin.qq.com/s/GRPm7QKQHEH9yaaLSs3HXw)  
 - [2025-09-26-历经4个月，基于-Tiptap-和-NestJs-打造一款-AI-驱动的智能文档协作平台](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527946&idx=1&sn=8f1a01100cacd826316285c0d20f2ceb&chksm=f99268dbcee5e1cde56d93df1647af188771f86e8c80d253e82d74ae1c52bb0fed672ec13e22#rd)  
-- [2025-09-25-一次HTTP强缓存失效引发的浏览器缓存键深度探索](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527898&idx=2&sn=125b1aabd28a37a34cf9763c6978f13c&chksm=f9926b0bcee5e21de4c7ba3263d0130268a5e6898bbb3a17344016fc5932c026314c10cf4318#rd)  
 - [2025-09-25-前端今年这情况，别再背八股文了。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527898&idx=1&sn=1698f218523470f161df6be7542c3a22&chksm=f9926b0bcee5e21d5ae8c7242d5b62eff7e66db9cdb6298029646916f1ec5922efba97712cb8#rd)  
+- [2025-09-25-一次HTTP强缓存失效引发的浏览器缓存键深度探索](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527898&idx=2&sn=125b1aabd28a37a34cf9763c6978f13c&chksm=f9926b0bcee5e21de4c7ba3263d0130268a5e6898bbb3a17344016fc5932c026314c10cf4318#rd)  
 - [2025-09-24-推荐一本正在编写中的-Node.js-新书，带你深入底层工作原理！](http://mp.weixin.qq.com/s/l4sxoQV7wV8aMMYdr_fASw)  
 - [2025-09-23-8-种方案机智应对后端一次性返回-10万-条数据](http://mp.weixin.qq.com/s/17fQ9pz1adH2pyqnAh_k3g)  
 - [2025-09-22-月下载2亿次的npm包遭投毒，我选择了搭建私有-npm-仓库！](http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA)  
 - [2025-09-19-React-中的并发与并行：打造极速前端应用的隐藏关键](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527875&idx=1&sn=50d032bbc5a7002f2748822af5af1243&chksm=f9926b12cee5e204b49b337d4b01ed8eb643da8ed487edd69a2c804c7557df2585436d9623ee#rd)  
-- [2025-09-18-深入解读-SourceMap：如何实现代码反解与调试](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527866&idx=2&sn=c72a51bf33744b86e1a5769315ee1b30&chksm=f9926b6bcee5e27d57bb07e448e9ed49bf10899adbb9c90ffce169c41ec30ca41899dbd35b81#rd)  
 - [2025-09-18-被阿里的薪资打动了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527866&idx=1&sn=372aadfe1a225c30b0b17b81a466d677&chksm=f9926b6bcee5e27dea5376329c76528f6382520e1fcd838665b7ba5106e65c8344190193e7d0#rd)  
-- [2025-09-17-React-组件设计：9-种让你的-UI-坚不可摧的架构模式](http://mp.weixin.qq.com/s/aHMlwqeqolCSDMw45gv1HA)  
-- [2025-09-16-再也不用背命令！Cursor-终端-Cmd+K-=-你的专属-Linux-&amp;-Git-智能助手](http://mp.weixin.qq.com/s/k1A7W0QwfqGZMFgfU50e_Q)  
+- [2025-09-18-深入解读-SourceMap：如何实现代码反解与调试](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527866&idx=2&sn=c72a51bf33744b86e1a5769315ee1b30&chksm=f9926b6bcee5e27d57bb07e448e9ed49bf10899adbb9c90ffce169c41ec30ca41899dbd35b81#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/) ![](/assets/new.png)  
+- [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)  
 - [2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/)  
 - [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/)  
 - [2025-09-19-CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/)  

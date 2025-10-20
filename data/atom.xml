@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-20T10:12:28.870Z</updated>
+    <updated>2025-10-20T20:11:10.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -34,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s/dWOkb_3JssjduSIi2IGnzw"/>
         <updated>2025-10-18T00:00:00.000Z</updated>
         <published>2025-10-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 25 正式发布：性能飙升、安全升级、全面向 Web 靠拢！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528042&amp;idx=1&amp;sn=2ad5e4d067e77e6b0b7712166746acb1&amp;chksm=f99268bbcee5e1ad4efca0f669b085cc37c082190f4bc3551d77ff3c3c83c147170b15f1cc73#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528042&amp;idx=1&amp;sn=2ad5e4d067e77e6b0b7712166746acb1&amp;chksm=f99268bbcee5e1ad4efca0f669b085cc37c082190f4bc3551d77ff3c3c83c147170b15f1cc73#rd"/>
+        <updated>2025-10-17T00:00:00.000Z</updated>
+        <published>2025-10-17T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】Vite 不仅仅是构建工具]]></title>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近用到的九个CSS实用技巧]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505584&amp;idx=1&amp;sn=f94e46c5124247763604f328bc3cb25c&amp;chksm=ce45c321f9324a37e8a0fd3db713d5a5108f12bedbd5b650bf2428cd37ba21c9737d0da24fba#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505584&amp;idx=1&amp;sn=f94e46c5124247763604f328bc3cb25c&amp;chksm=ce45c321f9324a37e8a0fd3db713d5a5108f12bedbd5b650bf2428cd37ba21c9737d0da24fba#rd"/>
-        <updated>2025-09-21T00:00:00.000Z</updated>
-        <published>2025-09-21T00:00:00.000Z</published>
     </entry>
 </feed>
