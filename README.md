@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-21 12:12:02，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-21 22:10:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-10-21-【第3602期】fluth-vue:-融合响应式的promise流](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277690&idx=1&sn=6b53700a4cbdd5a593e6827b222da4c2&chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&scene=0#rd) ![](/assets/new.png)  
+- [2025-10-21-【第3602期】fluth-vue:-融合响应式的promise流](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277690&idx=1&sn=6b53700a4cbdd5a593e6827b222da4c2&chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&scene=0#rd)  
 - [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd)  
 - [2025-10-17-【早阅】Vite-不仅仅是构建工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277651&idx=1&sn=4cb0aa638ffa1bdecf692a40f5c6784c&chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&scene=0#rd)  
 - [2025-10-16-【早阅】使用-Kiro.dev-进行规范驱动开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277642&idx=1&sn=72be6f92d18c9717b90750902a58060c&chksm=bc9d55206f2592b9414341efb6cf4d01b6117c7fb8161a3a3e77444eaccb148e95115372e6bf&scene=0#rd)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2025-10-17-裁裁裁！亚洲最大-IT-外包公司裁员-19755-人，后面还有“优化”大动作](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623197&idx=1&sn=2a59b8914c179e0305fb69b1b824b512&chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd) ![](/assets/new.png)  
-- [2025-10-17-我写出了-Threejs-版城市天际线？！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623197&idx=2&sn=cbf51fa66ef70b4083aeda9acee3ffdc&chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd) ![](/assets/new.png)  
+- [2025-10-17-裁裁裁！亚洲最大-IT-外包公司裁员-19755-人，后面还有“优化”大动作](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623197&idx=1&sn=2a59b8914c179e0305fb69b1b824b512&chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd)  
+- [2025-10-17-我写出了-Threejs-版城市天际线？！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623197&idx=2&sn=cbf51fa66ef70b4083aeda9acee3ffdc&chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd)  
 - [2025-10-14-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623186&idx=1&sn=dbdca8372c698c631db0a4ec66717d7f&chksm=802258d3b755d1c5d2323516cf2c6216fe9fa0275d1b6bed5da53cc3689a12e98520da268413#rd)  
 - [2025-10-13-凌晨零点，一个TODO，差点把我们整个部门抬走](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623176&idx=1&sn=a63f5591ea7da918b1a58957afcfea39&chksm=802258c9b755d1dfa9b3eb624307cb35d67b37ae891d4e879cb623b3c3f3eccf7a8cf2d3baa2#rd)  
 - [2025-10-09-华为老粉称被鸿蒙-5-坑惨！升级不兼容，回退丢失数据。华为回应：视频创作者等群体慎更新](http://mp.weixin.qq.com/s/2BHkQdzON4TMPRvmsNFaYg)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-10-20-天猫行业中后台前端研发Agent设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541806&idx=1&sn=f20df453b05fb4b7c52ffa77d166833e&chksm=8390c6f6b4e74fe0788b08290f3ab124ba88086801a8ed12da599b3c6a47e368c6064fa2aece#rd) ![](/assets/new.png)  
 - [2025-10-15-初探：从0开始的AI-Agent开发踩坑实录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541672&idx=1&sn=54d7c39363697c18eb40ed6a142e9ae2&chksm=8390c670b4e74f663d2b04fa763b46e6d085219d418580eeda769005ff307fb08b8e8b36ea3d#rd)  
 - [2025-10-13-AI-动画辅助实现的方案与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541671&idx=1&sn=46ababd4983dd0fc74cd4d38409be0e9&chksm=8390c67fb4e74f694e5444432d1ea1fcc57a3305676ba486504d7ab28e91803f2d617af9a196#rd)  
 - [2025-10-09-从Prompt到Context：为什么Think-Tool是形式化的必然？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541606&idx=1&sn=5f200c42226a0b69e83e0772f08baf26&chksm=8390c63eb4e74f28794b887853ffa39083b0fa1bc0ace43296120fd5eed30e31ce6323c480a4#rd)  
@@ -497,10 +498,9 @@
 - [2025-08-29-HSF-序列化不可变集合类型问题原因分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541395&idx=1&sn=39d24185e3fa777de04671a48e39f0ba&chksm=8390c54bb4e74c5db77086cf8cedea47f3cb9f855f436be3ac385ea1e09893aebabf09f18f36#rd)  
 - [2025-08-27-分享一下我对好代码的理解](http://mp.weixin.qq.com/s/vJVIRN5MkKD__0guGgtyoQ)  
 - [2025-08-25-深入聊聊RAG](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541388&idx=1&sn=21e68d346e56ab2de7d23f72439add3c&chksm=8390c554b4e74c42479923260effc90a9fd872b028a9caffff24945a3bf039173f1719cd752b#rd)  
-- [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
 - [2025-08-22-Jsonnet-一种“新”的Json数据转换工具](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=1&sn=24713a8efcf3b66138e629bda1afcffd&chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&scene=0#rd)  
+- [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
 - [2025-08-20-一位Cursor深度用户的原理探析与实验验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541333&idx=1&sn=48a4eb5c1ab1f39630124038d31ec715&chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&scene=0#rd)  
-- [2025-08-18-淘宝购物车拖拽功能的思考与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541315&idx=1&sn=b9f93d3995fc5b25c5eed17b00c24115&chksm=82d2352e90a2533f9966546b9863859f4525df737a27a86c5622d93903f73cc83e6c92700982&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
