@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-21 22:10:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-22 02:13:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】Node.js-25.0-arrives](https://nodeweekly.com/issues/597)
 - [【Node-Weekly】Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)
 - [【Node-Weekly】Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)
 - [【Node-Weekly】Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)
 - [【Node-Weekly】Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)
 - [【Node-Weekly】NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)
-- [【Node-Weekly】2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-21 22:10:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-22 02:13:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597) 
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596) 
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594) 
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590) 

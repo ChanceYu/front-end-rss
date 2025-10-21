@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-21 22:10:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-22 02:13:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597) ![](/assets/new.png)  
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)  
 - [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)  
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
@@ -66,7 +67,6 @@
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
 - [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)  
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
-- [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-10-20-天猫行业中后台前端研发Agent设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541806&idx=1&sn=f20df453b05fb4b7c52ffa77d166833e&chksm=8390c6f6b4e74fe0788b08290f3ab124ba88086801a8ed12da599b3c6a47e368c6064fa2aece#rd) ![](/assets/new.png)  
+- [2025-10-20-天猫行业中后台前端研发Agent设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541806&idx=1&sn=f20df453b05fb4b7c52ffa77d166833e&chksm=8390c6f6b4e74fe0788b08290f3ab124ba88086801a8ed12da599b3c6a47e368c6064fa2aece#rd)  
 - [2025-10-15-初探：从0开始的AI-Agent开发踩坑实录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541672&idx=1&sn=54d7c39363697c18eb40ed6a142e9ae2&chksm=8390c670b4e74f663d2b04fa763b46e6d085219d418580eeda769005ff307fb08b8e8b36ea3d#rd)  
 - [2025-10-13-AI-动画辅助实现的方案与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541671&idx=1&sn=46ababd4983dd0fc74cd4d38409be0e9&chksm=8390c67fb4e74f694e5444432d1ea1fcc57a3305676ba486504d7ab28e91803f2d617af9a196#rd)  
 - [2025-10-09-从Prompt到Context：为什么Think-Tool是形式化的必然？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541606&idx=1&sn=5f200c42226a0b69e83e0772f08baf26&chksm=8390c63eb4e74f28794b887853ffa39083b0fa1bc0ace43296120fd5eed30e31ce6323c480a4#rd)  

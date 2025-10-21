@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-21T14:10:18.101Z</updated>
+    <updated>2025-10-21T18:13:13.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3602期】fluth-vue: 融合响应式的promise流]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277690&amp;idx=1&amp;sn=6b53700a4cbdd5a593e6827b222da4c2&amp;chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277690&amp;idx=1&amp;sn=6b53700a4cbdd5a593e6827b222da4c2&amp;chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&amp;scene=0#rd"/>
+        <updated>2025-10-21T00:00:00.000Z</updated>
+        <published>2025-10-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 25.0 arrives]]></title>
+        <id>https://nodeweekly.com/issues/597</id>
+        <link href="https://nodeweekly.com/issues/597"/>
         <updated>2025-10-21T00:00:00.000Z</updated>
         <published>2025-10-21T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪：下一代 Vite！Windows 快 29%！Mac 快 45%！]]></title>
         <id>http://mp.weixin.qq.com/s/dfJE-yVYdqaUI98HchPOqw</id>
         <link href="http://mp.weixin.qq.com/s/dfJE-yVYdqaUI98HchPOqw"/>
-        <updated>2025-09-22T00:00:00.000Z</updated>
-        <published>2025-09-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[月下载2亿次的npm包遭投毒，我选择了搭建私有 npm 仓库！]]></title>
-        <id>http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA</id>
-        <link href="http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
