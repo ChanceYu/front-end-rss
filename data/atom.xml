@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-20T20:11:10.518Z</updated>
+    <updated>2025-10-21T03:01:23.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277679&amp;idx=1&amp;sn=4b3daf212972191ed6ec8ab4b3712d2d&amp;chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&amp;scene=0#rd"/>
         <updated>2025-10-20T00:00:00.000Z</updated>
         <published>2025-10-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAssembly 3.0 发布，64 位内存、垃圾回收全都有，先别激动，组件模型还没做完！]]></title>
+        <id>http://mp.weixin.qq.com/s/f71ibOfEmyESbBjOTWodMQ</id>
+        <link href="http://mp.weixin.qq.com/s/f71ibOfEmyESbBjOTWodMQ"/>
+        <updated>2025-10-19T00:00:00.000Z</updated>
+        <published>2025-10-19T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue 实现一个“液态玻璃”效果登录卡片]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623093&amp;idx=1&amp;sn=cde4b997f5e8d861917751a378bd79cd&amp;chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd"/>
-        <updated>2025-09-22T00:00:00.000Z</updated>
-        <published>2025-09-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[妙啊！Js的对象属性居然还能这么写]]></title>
-        <id>http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ</id>
-        <link href="http://mp.weixin.qq.com/s/VtkaYHFTT-R1cDdVZScznQ"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>

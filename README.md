@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-21 04:11:09，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-21 11:01:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,10 +22,10 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-10-19-WebAssembly-3.0-发布，64-位内存、垃圾回收全都有，先别激动，组件模型还没做完！](http://mp.weixin.qq.com/s/f71ibOfEmyESbBjOTWodMQ) ![](/assets/new.png)  
 - [2025-09-28-10个面向前端开发者的MCP服务器](http://mp.weixin.qq.com/s/FIPF82cJiO3GKKmrLwvIuw)  
 - [2025-09-22-默认选-React，拖慢前端？Svelte、Solid、Qwik-的优势被忽视了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526298&idx=1&sn=7deba23d4886dc5dee2e7e8ff387c2c6&chksm=f952d2d9ce255bcfa70c77bf85154c135cc74fe13f2649f2015ad65e062cb44a5623a68e4bb2#rd)  
 - [2025-09-06-XTransfer-开源-XRN-框架：基于-React-Native-的跨三端开发实践与鸿蒙-NEXT-攻坚](http://mp.weixin.qq.com/s/uCbEeWjY4lbZJTM7XVUqIA)  
@@ -190,7 +191,6 @@
 - [2025-05-29-用印度程序员冒充AI的“独角兽”彻底倒闭了！伪AI烧光5亿美元，连微软和亚马逊都被“坑”了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526046&idx=1&sn=bfb62e9e1be7fb29e60a880b25429991&chksm=f952d3ddce255acb82d791a760d40feb73b57115ab9b61b72b8ab979adeb7f2464f14bcbb289#rd)  
 - [2025-05-09-前端的下一轮演进：基于AI的状态管理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526029&idx=1&sn=d914255f10082dbcfd0de1be3c8821ae&chksm=f952d3cece255ad8e65031d3805249024fecd3f7bd28845354f4015fef0faf67f9dc7027c691#rd)  
 - [2025-04-30-Next.js-真有那么好用吗？Netlify-谈他们遇到的六个现实问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526011&idx=1&sn=4f1c822f120896bcfbb5e6adeba87eb6&chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd)  
-- [2025-04-26-浏览器里的-AI-革命：前端工程师的新战场](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525949&idx=1&sn=d596d89b6a37b50c5394094470c3ec8d&chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2025-10-20-为什么响应性语法糖最终被废弃了？尤雨溪也曾经试图让你不用写-.value](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528048&idx=1&sn=029f5c53572ae0fbf37d402796952c96&chksm=f99268a1cee5e1b7405cc940f85dcb443c10b79ce89bb5a4e334004dab55342ae8cdacd2bc5d#rd) ![](/assets/new.png)  
-- [2025-10-17-Node.js-25-正式发布：性能飙升、安全升级、全面向-Web-靠拢！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528042&idx=1&sn=2ad5e4d067e77e6b0b7712166746acb1&chksm=f99268bbcee5e1ad4efca0f669b085cc37c082190f4bc3551d77ff3c3c83c147170b15f1cc73#rd) ![](/assets/new.png)  
+- [2025-10-20-为什么响应性语法糖最终被废弃了？尤雨溪也曾经试图让你不用写-.value](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528048&idx=1&sn=029f5c53572ae0fbf37d402796952c96&chksm=f99268a1cee5e1b7405cc940f85dcb443c10b79ce89bb5a4e334004dab55342ae8cdacd2bc5d#rd)  
+- [2025-10-17-Node.js-25-正式发布：性能飙升、安全升级、全面向-Web-靠拢！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528042&idx=1&sn=2ad5e4d067e77e6b0b7712166746acb1&chksm=f99268bbcee5e1ad4efca0f669b085cc37c082190f4bc3551d77ff3c3c83c147170b15f1cc73#rd)  
 - [2025-10-16-2025年-Node.js-新模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528016&idx=1&sn=814919601abb50184441adefee5cc299&chksm=f9926881cee5e197d23e1673e1cbcaf0feee776f5a9ce74827f08915328faf034c79fb3cbc4b#rd)  
 - [2025-10-15-Cursor-1.7的这些重要更新，别忽视！（最完全讲解版）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528008&idx=1&sn=c5d2c73fb3c11b329722541cf0b53f12&chksm=f9926899cee5e18fd757e1e6691a9a2bc626c7be6553a034fb57ceee7c33723b4d06286a4fe2#rd)  
 - [2025-10-14-React-组件设计：9-种让你的-UI-坚不可摧的架构模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528006&idx=1&sn=85be703d2aacb351c8529eabc10c88bf&chksm=f9926897cee5e1817909ddf429f268df67eb88180aeb589b1c4d68814b985930fa8128286644#rd)  
