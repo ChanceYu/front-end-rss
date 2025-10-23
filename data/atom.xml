@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-23T04:13:12.985Z</updated>
+    <updated>2025-10-23T06:15:49.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3 这两个方法，将掀起组件创建新狂潮！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506015&amp;idx=1&amp;sn=279e9db4922613d756455c027c9ce53b&amp;chksm=ce45cdcef93244d8501ea7272b189603a47128a7c499612f1b2179745ef4789ed6b35e39b21d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506015&amp;idx=1&amp;sn=279e9db4922613d756455c027c9ce53b&amp;chksm=ce45cdcef93244d8501ea7272b189603a47128a7c499612f1b2179745ef4789ed6b35e39b21d#rd"/>
+        <updated>2025-10-23T00:00:00.000Z</updated>
+        <published>2025-10-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3602期】fluth-vue: 融合响应式的promise流]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277690&amp;idx=1&amp;sn=6b53700a4cbdd5a593e6827b222da4c2&amp;chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Safari又出bug了？临时修复 iOS 26弹出键盘后定位错乱问题]]></title>
         <id>http://mp.weixin.qq.com/s/rWmsDUdhRvp8KlPBhvJZaQ</id>
         <link href="http://mp.weixin.qq.com/s/rWmsDUdhRvp8KlPBhvJZaQ"/>
-        <updated>2025-09-22T00:00:00.000Z</updated>
-        <published>2025-09-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪：下一代 Vite！Windows 快 29%！Mac 快 45%！]]></title>
-        <id>http://mp.weixin.qq.com/s/dfJE-yVYdqaUI98HchPOqw</id>
-        <link href="http://mp.weixin.qq.com/s/dfJE-yVYdqaUI98HchPOqw"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
