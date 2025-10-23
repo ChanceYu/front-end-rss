@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-23T08:14:33.356Z</updated>
+    <updated>2025-10-23T10:11:09.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,32 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[高频接口前端缓存解决方案：Service Worker + IndexedDB]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528070&amp;idx=1&amp;sn=62103345f9e84d85cad6d1459f926cce&amp;chksm=f9926857cee5e14190b0f890868c2f640159043e527d4613088522922dc05fdffed22053c36d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528070&amp;idx=1&amp;sn=62103345f9e84d85cad6d1459f926cce&amp;chksm=f9926857cee5e14190b0f890868c2f640159043e527d4613088522922dc05fdffed22053c36d#rd"/>
+        <updated>2025-10-23T00:00:00.000Z</updated>
+        <published>2025-10-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vue3 这两个方法，将掀起组件创建新狂潮！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506015&amp;idx=1&amp;sn=279e9db4922613d756455c027c9ce53b&amp;chksm=ce45cdcef93244d8501ea7272b189603a47128a7c499612f1b2179745ef4789ed6b35e39b21d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506015&amp;idx=1&amp;sn=279e9db4922613d756455c027c9ce53b&amp;chksm=ce45cdcef93244d8501ea7272b189603a47128a7c499612f1b2179745ef4789ed6b35e39b21d#rd"/>
         <updated>2025-10-23T00:00:00.000Z</updated>
         <published>2025-10-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么？一套数字孪生三维可视化系统拖拖拽拽就搞定了？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528064&amp;idx=1&amp;sn=d0b9a21e84e47fccdd1f2259c5f3959a&amp;chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528064&amp;idx=1&amp;sn=d0b9a21e84e47fccdd1f2259c5f3959a&amp;chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd"/>
+        <updated>2025-10-22T00:00:00.000Z</updated>
+        <published>2025-10-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 个提升 Vue3 性能的实用技巧]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528057&amp;idx=1&amp;sn=9b22a4ddd4da9b1606703a8c1233efe9&amp;chksm=f99268a8cee5e1be7c855e2ac12f41590d3581f5e9ac75a09d0c997b18c3e997db8af3877d31#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528057&amp;idx=1&amp;sn=9b22a4ddd4da9b1606703a8c1233efe9&amp;chksm=f99268a8cee5e1be7c855e2ac12f41590d3581f5e9ac75a09d0c997b18c3e997db8af3877d31#rd"/>
+        <updated>2025-10-21T00:00:00.000Z</updated>
+        <published>2025-10-21T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3602期】fluth-vue: 融合响应式的promise流]]></title>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/4hueovVuqDKkvTrFukWGlQ"/>
         <updated>2025-09-24T00:00:00.000Z</updated>
         <published>2025-09-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐一本正在编写中的 Node.js 新书，带你深入底层工作原理！]]></title>
-        <id>http://mp.weixin.qq.com/s/l4sxoQV7wV8aMMYdr_fASw</id>
-        <link href="http://mp.weixin.qq.com/s/l4sxoQV7wV8aMMYdr_fASw"/>
-        <updated>2025-09-24T00:00:00.000Z</updated>
-        <published>2025-09-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3594期】拥抱新一代 Web 3D 引擎，Three.js 项目快速升级 Galacean 指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277508&amp;idx=1&amp;sn=c3bf6d777fa78916a2def84141deeea5&amp;chksm=bc435a6772de5b27066850c713fd01830189809ff74015308d7fe6c84f10df04823f9095fab9&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277508&amp;idx=1&amp;sn=c3bf6d777fa78916a2def84141deeea5&amp;chksm=bc435a6772de5b27066850c713fd01830189809ff74015308d7fe6c84f10df04823f9095fab9&amp;scene=0#rd"/>
-        <updated>2025-09-24T00:00:00.000Z</updated>
-        <published>2025-09-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari又出bug了？临时修复 iOS 26弹出键盘后定位错乱问题]]></title>
-        <id>http://mp.weixin.qq.com/s/rWmsDUdhRvp8KlPBhvJZaQ</id>
-        <link href="http://mp.weixin.qq.com/s/rWmsDUdhRvp8KlPBhvJZaQ"/>
-        <updated>2025-09-22T00:00:00.000Z</updated>
-        <published>2025-09-22T00:00:00.000Z</published>
     </entry>
 </feed>
