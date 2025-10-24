@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-24T04:12:53.291Z</updated>
+    <updated>2025-10-24T16:12:26.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vitest 4.0 and Next.js 16]]></title>
+        <id>https://javascriptweekly.com/issues/758</id>
+        <link href="https://javascriptweekly.com/issues/758"/>
+        <updated>2025-10-24T00:00:00.000Z</updated>
+        <published>2025-10-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高频接口前端缓存解决方案：Service Worker + IndexedDB]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528070&amp;idx=1&amp;sn=62103345f9e84d85cad6d1459f926cce&amp;chksm=f9926857cee5e14190b0f890868c2f640159043e527d4613088522922dc05fdffed22053c36d#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/BPedXf-os1yz3LwsJNfSxg"/>
         <updated>2025-09-25T00:00:00.000Z</updated>
         <published>2025-09-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪宣布 Vite 8 即将发布！完全由 Rolldown 提供支持！]]></title>
-        <id>http://mp.weixin.qq.com/s/4hueovVuqDKkvTrFukWGlQ</id>
-        <link href="http://mp.weixin.qq.com/s/4hueovVuqDKkvTrFukWGlQ"/>
-        <updated>2025-09-24T00:00:00.000Z</updated>
-        <published>2025-09-24T00:00:00.000Z</published>
     </entry>
 </feed>
