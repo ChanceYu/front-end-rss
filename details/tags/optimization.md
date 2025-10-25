@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-25 08:44:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-26 06:08:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -191,6 +191,7 @@
 - [2019-01-24-加载时间从4.6s降到0.7s，谷歌开源quicklink](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490332&idx=1&sn=e8e097e0623bc1136102cb7b56a40f35#wechat_redirect) 
 - [2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect) 
 - [2018-11-12-Netflix-网页性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489850&idx=1&sn=d93f40ba6ded642073017eae63a0096f#wechat_redirect) 
+- [2025-10-24-这-10-个-API-，能让你网页性能上一个档次](http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg) 
 - [2025-10-14-前端最强的网页截图神器！高效高清高性能](http://mp.weixin.qq.com/s/nvWgs5L7BnrgZxudS1ieJA) 
 - [2025-04-02-还在用-querySelectorAll？你知道性能有多差吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503490&idx=1&sn=bc63755813ec5a10236a27a0cad5f38b&chksm=ce45db13f932520510c9df1e59ea0bda2c0820d53a5d939e436a49d39b9ff817b1bddd41daaf#rd) 
 - [2023-08-26-这些天，我们前端组一起处理的项目优化](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490119&idx=1&sn=6a6094cb61234160d5430cc6245b5211&chksm=ce460fd6f93186c0e5c696b33cfe0ae739ad077139eabcc263bf4742b9f0289c1a4cce5da4ce#rd) 

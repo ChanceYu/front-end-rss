@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-25T00:44:10.336Z</updated>
+    <updated>2025-10-25T22:08:11.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,39 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Vue3 神级工具：终于可以实现打字的动画效果了！]]></title>
+        <id>http://mp.weixin.qq.com/s/dQ8Gtagybc4IPdqTkwfTgw</id>
+        <link href="http://mp.weixin.qq.com/s/dQ8Gtagybc4IPdqTkwfTgw"/>
+        <updated>2025-10-25T00:00:00.000Z</updated>
+        <published>2025-10-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[转转商品中心微前端升级之路]]></title>
+        <id>http://mp.weixin.qq.com/s/rCLPo6aEe42wI9Rhs1XoqA</id>
+        <link href="http://mp.weixin.qq.com/s/rCLPo6aEe42wI9Rhs1XoqA"/>
+        <updated>2025-10-24T00:00:00.000Z</updated>
+        <published>2025-10-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这 10 个 API ，能让你网页性能上一个档次]]></title>
+        <id>http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg</id>
+        <link href="http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg"/>
+        <updated>2025-10-24T00:00:00.000Z</updated>
+        <published>2025-10-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vitest 4.0 and Next.js 16]]></title>
         <id>https://javascriptweekly.com/issues/758</id>
         <link href="https://javascriptweekly.com/issues/758"/>
         <updated>2025-10-24T00:00:00.000Z</updated>
         <published>2025-10-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI发布新浏览器，武林盟主要换人了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247504778&amp;idx=1&amp;sn=73a824aba2ea7ed9680d3c995516d4df&amp;chksm=c2b31275f5c49b632cc983d625debca4a2741fdcdb7199ac45f8d0e5b7e146391eb6749661c0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247504778&amp;idx=1&amp;sn=73a824aba2ea7ed9680d3c995516d4df&amp;chksm=c2b31275f5c49b632cc983d625debca4a2741fdcdb7199ac45f8d0e5b7e146391eb6749661c0#rd"/>
+        <updated>2025-10-23T00:00:00.000Z</updated>
+        <published>2025-10-23T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[高频接口前端缓存解决方案：Service Worker + IndexedDB]]></title>
@@ -36,6 +64,13 @@
         <published>2025-10-23T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[90% 的前端都没摸过的 20 个 JS 神级 API！]]></title>
+        <id>http://mp.weixin.qq.com/s/yZmT-bWzA1yJYYL2fB7fcg</id>
+        <link href="http://mp.weixin.qq.com/s/yZmT-bWzA1yJYYL2fB7fcg"/>
+        <updated>2025-10-22T00:00:00.000Z</updated>
+        <published>2025-10-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[什么？一套数字孪生三维可视化系统拖拖拽拽就搞定了？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528064&amp;idx=1&amp;sn=d0b9a21e84e47fccdd1f2259c5f3959a&amp;chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528064&amp;idx=1&amp;sn=d0b9a21e84e47fccdd1f2259c5f3959a&amp;chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd"/>
@@ -43,9 +78,23 @@
         <published>2025-10-22T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623222&amp;idx=1&amp;sn=d6beb9df545fb84d61b4fec79eb63ce6&amp;chksm=802258f7b755d1e138435b6195c96ba1e0a6f6307a3888061080cb5f22fe6a155f776559419b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623222&amp;idx=1&amp;sn=d6beb9df545fb84d61b4fec79eb63ce6&amp;chksm=802258f7b755d1e138435b6195c96ba1e0a6f6307a3888061080cb5f22fe6a155f776559419b#rd"/>
+        <updated>2025-10-22T00:00:00.000Z</updated>
+        <published>2025-10-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10 个提升 Vue3 性能的实用技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528057&amp;idx=1&amp;sn=9b22a4ddd4da9b1606703a8c1233efe9&amp;chksm=f99268a8cee5e1be7c855e2ac12f41590d3581f5e9ac75a09d0c997b18c3e997db8af3877d31#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528057&amp;idx=1&amp;sn=9b22a4ddd4da9b1606703a8c1233efe9&amp;chksm=f99268a8cee5e1be7c855e2ac12f41590d3581f5e9ac75a09d0c997b18c3e997db8af3877d31#rd"/>
+        <updated>2025-10-21T00:00:00.000Z</updated>
+        <published>2025-10-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[编辑器也有邪修？盘点VS Code邪门/有趣的扩展]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623213&amp;idx=2&amp;sn=8b8b4a9293b29341368bf58d554fa784&amp;chksm=802258ecb755d1fa37f9f1aeec95e0f7186d472b5e6d154555031169408b0a05aca7656ef5a5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623213&amp;idx=2&amp;sn=8b8b4a9293b29341368bf58d554fa784&amp;chksm=802258ecb755d1fa37f9f1aeec95e0f7186d472b5e6d154555031169408b0a05aca7656ef5a5#rd"/>
         <updated>2025-10-21T00:00:00.000Z</updated>
         <published>2025-10-21T00:00:00.000Z</published>
     </entry>
@@ -99,16 +148,16 @@
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我写出了 Threejs 版城市天际线？！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd"/>
+        <title type="html"><![CDATA[裁裁裁！亚洲最大 IT 外包公司裁员 19755 人，后面还有“优化”大动作]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd"/>
         <updated>2025-10-17T00:00:00.000Z</updated>
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[裁裁裁！亚洲最大 IT 外包公司裁员 19755 人，后面还有“优化”大动作]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd"/>
+        <title type="html"><![CDATA[我写出了 Threejs 版城市天际线？！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd"/>
         <updated>2025-10-17T00:00:00.000Z</updated>
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
@@ -314,54 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517438&amp;idx=1&amp;sn=5d138db8f836f95cba6067f8c84e51ad&amp;chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd"/>
         <updated>2025-09-29T00:00:00.000Z</updated>
         <published>2025-09-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 原生深拷贝方法来啦！structuredClone 闪耀登场~]]></title>
-        <id>http://mp.weixin.qq.com/s/MxaGzd49wgQvjQXJ2_Ml8Q</id>
-        <link href="http://mp.weixin.qq.com/s/MxaGzd49wgQvjQXJ2_Ml8Q"/>
-        <updated>2025-09-29T00:00:00.000Z</updated>
-        <published>2025-09-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3597期】Google Chrome DevTools MCP：AI 代理现在可以在浏览器中调试、测试和修复代码]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277543&amp;idx=1&amp;sn=18b092f538b688e06ee1bd09c05cf064&amp;chksm=bcb82f0e97379a8050d774da8ed01d620c29b22fbf9ccaa1eb5f0ce2097f62f659ef750d9884&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277543&amp;idx=1&amp;sn=18b092f538b688e06ee1bd09c05cf064&amp;chksm=bcb82f0e97379a8050d774da8ed01d620c29b22fbf9ccaa1eb5f0ce2097f62f659ef750d9884&amp;scene=0#rd"/>
-        <updated>2025-09-28T00:00:00.000Z</updated>
-        <published>2025-09-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[历经4个月，基于 Tiptap 和 NestJs 打造一款 AI 驱动的智能文档协作平台]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527946&amp;idx=1&amp;sn=8f1a01100cacd826316285c0d20f2ceb&amp;chksm=f99268dbcee5e1cde56d93df1647af188771f86e8c80d253e82d74ae1c52bb0fed672ec13e22#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527946&amp;idx=1&amp;sn=8f1a01100cacd826316285c0d20f2ceb&amp;chksm=f99268dbcee5e1cde56d93df1647af188771f86e8c80d253e82d74ae1c52bb0fed672ec13e22#rd"/>
-        <updated>2025-09-26T00:00:00.000Z</updated>
-        <published>2025-09-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tailwindcss 究竟比 unocss 快多少？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623123&amp;idx=1&amp;sn=ed984e9d1a2f555dbfb46a43af37cdc7&amp;chksm=80225912b755d004c1033bfadb30bb2eae70daa81049bdefcf901201fb95a94560e8d00491af#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623123&amp;idx=1&amp;sn=ed984e9d1a2f555dbfb46a43af37cdc7&amp;chksm=80225912b755d004c1033bfadb30bb2eae70daa81049bdefcf901201fb95a94560e8d00491af#rd"/>
-        <updated>2025-09-26T00:00:00.000Z</updated>
-        <published>2025-09-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The first browser with JavaScript landed 30 years ago]]></title>
-        <id>https://javascriptweekly.com/issues/754</id>
-        <link href="https://javascriptweekly.com/issues/754"/>
-        <updated>2025-09-26T00:00:00.000Z</updated>
-        <published>2025-09-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一次HTTP强缓存失效引发的浏览器缓存键深度探索]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527898&amp;idx=2&amp;sn=125b1aabd28a37a34cf9763c6978f13c&amp;chksm=f9926b0bcee5e21de4c7ba3263d0130268a5e6898bbb3a17344016fc5932c026314c10cf4318#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527898&amp;idx=2&amp;sn=125b1aabd28a37a34cf9763c6978f13c&amp;chksm=f9926b0bcee5e21de4c7ba3263d0130268a5e6898bbb3a17344016fc5932c026314c10cf4318#rd"/>
-        <updated>2025-09-25T00:00:00.000Z</updated>
-        <published>2025-09-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
-        <id>http://mp.weixin.qq.com/s/BPedXf-os1yz3LwsJNfSxg</id>
-        <link href="http://mp.weixin.qq.com/s/BPedXf-os1yz3LwsJNfSxg"/>
-        <updated>2025-09-25T00:00:00.000Z</updated>
-        <published>2025-09-25T00:00:00.000Z</published>
     </entry>
 </feed>

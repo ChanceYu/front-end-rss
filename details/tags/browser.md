@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-25 08:44:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-26 06:08:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -186,8 +186,8 @@
 - [2022-07-25-你还在直接用-localStorage-么？该提升下了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607697&idx=1&sn=71da80bc78a2f765a869a45b2d4fba2a&chksm=80228550b7550c464dbfb452c81abbc603164ec459015c56e335dd3b8eb3dae180eb94375b7c#rd) 
 - [2022-07-17-3.5k-Star！浏览器扩展开发神器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607579&idx=1&sn=5df045643f8dd5a52ed15ce96d91193a&chksm=802285dab7550ccc0602e2e385753d5d1e3411e7cce678ee8394c613fa50e9e05862fc2b34c7#rd) 
 - [2022-07-10-深入讲解-VsCode-各场景高级调试与使用技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651606975&idx=2&sn=819b44f90b6f749d1a7364d666711ab8&chksm=8022987eb755116816b1b0796aada51eca12a9318b948fc54c742deee364453f5be842a4231d#rd) 
-- [2022-07-05-Websocket-被玩出了多种花样！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651605817&idx=1&sn=b808f93caba9670436424afe41607f20&chksm=80229cf8b75515eee1ee29c4dd3a234f287b62c4f9893f04d339fe7b5a16554ca7a5a9f1ed9c#rd) 
 - [2022-07-05-某一线前端小组长的-Code-Review-分享](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651605817&idx=2&sn=164df68ef8a128866edac43fe305c4b3&chksm=80229cf8b75515eeae15f8b7cd7084b2fd5bbf74a6a291a1a1599a22d413f9e95bc004565889#rd) 
+- [2022-07-05-Websocket-被玩出了多种花样！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651605817&idx=1&sn=b808f93caba9670436424afe41607f20&chksm=80229cf8b75515eee1ee29c4dd3a234f287b62c4f9893f04d339fe7b5a16554ca7a5a9f1ed9c#rd) 
 - [2022-05-21-IE-正式退役！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603539&idx=2&sn=ff5bb80412735a5109ff9decc69771bb&chksm=80229592b7551c847616ffbc5f2744af4b9255059939da07d3eca3dcf66d85144b0394890b52#rd) 
 - [2022-05-19-学会这篇就够了，彻底弄懂前端缓存](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603437&idx=2&sn=6508c022bf699f0b2ce2330fa379d8b0&chksm=8022962cb7551f3a69dc03689675b36bdd3f3a25bb7ee4f9a7896c76e261772044759f724f12#rd) 
 - [2022-05-18-Python-已可在浏览器端运行，来抢前端饭碗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603430&idx=1&sn=58b218bd6ae2a67aa9104e50934fe087&chksm=80229627b7551f31b593dc846f1121946c02e743c09fd6e5c5996499d661225f9caadb0c9d73#rd) 
@@ -520,6 +520,7 @@
 - [2023-09-13-新一代-Web-预渲染技术！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496598&idx=1&sn=1394005f09aa0cfc21075de5b9ae51f5&chksm=ce269060f951197633dc2f1d74941a5fc5ede7bdd947a357e9df4b0b6c2568608319cddcf0ce#rd) 
 - [2023-08-30-聊聊网页断点调试及其扩展](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504392&idx=1&sn=1438d0951a1da7a9af090ac199edcfdb&chksm=cea96509f9deec1fa5525acf8c3d945d6b346087aeaf62c27188b2e2062076dc6cebdf04b3a7#rd) 
 - [2023-07-26-Chrome-浏览器运行原理你了解多少？](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504196&idx=1&sn=e742223812cfa1836f87b2faac3d201c&chksm=cea96645f9deef5374c61ae28a49afa7b27d778cf723686d755409d9f207899bf4a0fa8e3dea#rd) 
+- [2025-10-23-OpenAI发布新浏览器，武林盟主要换人了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504778&idx=1&sn=73a824aba2ea7ed9680d3c995516d4df&chksm=c2b31275f5c49b632cc983d625debca4a2741fdcdb7199ac45f8d0e5b7e146391eb6749661c0#rd) 
 - [2025-08-11-谷歌重磅发布Genie-3，这回真没有边界感了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503655&idx=1&sn=f6605f8c4a52dbf872182228fcc2470e&chksm=c2b30ed8f5c487cee5e5ee2c2f7aa9fb3f33ce641d24223f161c5a463ffddd17dc5009bc09b4#rd) 
 - [2025-05-20-腾讯AI浏览器一手实测，强的过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502625&idx=1&sn=8f1a86b785bffd70dfa3bd5169740133&chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd) 
 - [2025-03-05-智谱开源AI绘画CogView4，开源之火烧的更旺了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501516&idx=1&sn=01b3c07e29e1aa883c86e703676032eb&chksm=c2b30733f5c48e2518421fa837470fec0ddaffabfdfb6aa32e33167bb3ca0f771237d1768cc8#rd) 
