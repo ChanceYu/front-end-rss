@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-25T22:08:11.391Z</updated>
+    <updated>2025-10-26T00:48:39.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -74,6 +74,13 @@
         <title type="html"><![CDATA[什么？一套数字孪生三维可视化系统拖拖拽拽就搞定了？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528064&amp;idx=1&amp;sn=d0b9a21e84e47fccdd1f2259c5f3959a&amp;chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528064&amp;idx=1&amp;sn=d0b9a21e84e47fccdd1f2259c5f3959a&amp;chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd"/>
+        <updated>2025-10-22T00:00:00.000Z</updated>
+        <published>2025-10-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
+        <id>http://mp.weixin.qq.com/s/Y6JCbTTmSKQfBTiXjf3agA</id>
+        <link href="http://mp.weixin.qq.com/s/Y6JCbTTmSKQfBTiXjf3agA"/>
         <updated>2025-10-22T00:00:00.000Z</updated>
         <published>2025-10-22T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/594"/>
         <updated>2025-09-30T00:00:00.000Z</updated>
         <published>2025-09-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 生态 4 大 Hooks 神库！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517438&amp;idx=1&amp;sn=5d138db8f836f95cba6067f8c84e51ad&amp;chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517438&amp;idx=1&amp;sn=5d138db8f836f95cba6067f8c84e51ad&amp;chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd"/>
-        <updated>2025-09-29T00:00:00.000Z</updated>
-        <published>2025-09-29T00:00:00.000Z</published>
     </entry>
 </feed>
