@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-27 16:15:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-28 04:09:07，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,11 +29,11 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -388,6 +388,8 @@
 </summary>
 
 
+- [2025-10-27-那句AI提示词，真能终结世界吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504858&idx=1&sn=e466ff234976c7bfc8e024ef35d0bd6d&chksm=c2b31225f5c49b33aad162ca554162d454c00a864c4e19efefab27dd7d261a8f2b971e6a2434#rd) ![](/assets/new.png)  
+- [2025-10-26-马斯克又造了个AI女友，名字叫Mika](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504840&idx=1&sn=5948df4dcc070501db7136c4c90d615a&chksm=c2b31237f5c49b2195974195f179ee7e230faeffc7899a9683cf14e3655a4d48aa9a350cc648#rd) ![](/assets/new.png)  
 - [2025-10-24-玩AI，我劝你先上观猹看看](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504822&idx=1&sn=e5bf43c39b18564edb37dda07fbbe4d8&chksm=c2b31249f5c49b5f47d7b423f20f76ac3bd0e3624ee45c95622afd0619cae2410c12ef329d71#rd)  
 - [2025-10-23-OpenAI发布新浏览器，武林盟主要换人了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504778&idx=1&sn=73a824aba2ea7ed9680d3c995516d4df&chksm=c2b31275f5c49b632cc983d625debca4a2741fdcdb7199ac45f8d0e5b7e146391eb6749661c0#rd)  
 - [2025-10-21-DeepSeek新模型这次真玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504736&idx=1&sn=96b01e3bf84f54e6d4fcb4de357cf176&chksm=c2b3129ff5c49b89dec7b7c39bd18222603e237318e622eb4caede32511cca580de7a25b09e0#rd)  
@@ -400,14 +402,12 @@
 - [2025-10-04-我让AI写了个故事，给我看破防了](http://mp.weixin.qq.com/s/eJiuylG3tLFgfQsvSAL1ug)  
 - [2025-10-03-Claude-Sonnet-4.5解析，编程封神但远不止于此](http://mp.weixin.qq.com/s/BtyLPD3rjHUnX6SEnnpMSg)  
 - [2025-10-01-一手实测Sora2，OpenAI还做了个AI抖音](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504548&idx=1&sn=0bc45979d6286f9a6a21df3dc82fc361&chksm=c2b3135bf5c49a4d855e0088cb338c285323e6c0782b465763897232b9b7526ae3f900e1f87a#rd)  
-- [2025-09-30-实测可灵新视频模型2.5-Turbo，未来已来](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504493&idx=1&sn=9d066b8743771e5c5252fe853d360536&chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd)  
 - [2025-09-30-我早就感觉不对劲，DeepSeek果然憋了个大招](http://mp.weixin.qq.com/s/vjd3NoA90HjVZmrPsLAkRA)  
+- [2025-09-30-实测可灵新视频模型2.5-Turbo，未来已来](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504493&idx=1&sn=9d066b8743771e5c5252fe853d360536&chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd)  
 - [2025-09-27-实测Kimi最新智能体「OK-Computer」，何止是OK？](http://mp.weixin.qq.com/s/ef_57UCoX5UknbAD4WnD9A)  
 - [2025-09-26-阶跃AI桌面伙伴，让你和别人拉开差距的答案](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504405&idx=1&sn=f386b86f5e1d3cd5d1a627c7dd8fde21&chksm=c2b313eaf5c49afc4de228a1657f3a5088151c338ed0ebbf2baad02d7f4f890e6ad0b593c00e#rd)  
 - [2025-09-25-别当AI铲屎官了，Lovart让你当爷](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504363&idx=1&sn=cabe0546913d65e4bf6d06e8a7b82f52&chksm=c2b31014f5c49902388b3a6afed5e12e62369c8b0d134e71e3cf28de53d7efd0ec499263dcc1#rd)  
 - [2025-09-24-阿里云栖大会，这次真玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504311&idx=1&sn=ab924fcb070482214a10a86d7a91ee73&chksm=c2b31048f5c4995e83dd12825e838b9baee376dee3f276dfdde9e23107f14fb68a08c6c26bc7#rd)  
-- [2025-09-23-DeepSeek发了“终极版”，V4还远吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504293&idx=1&sn=d28d51c670f0147bf43e5b387e32bbf4&chksm=c2b3105af5c4994c3f7e7ee53c18eba2a44ef29cc50da38e242100d19e8a4f8cc82113f72d83#rd)  
-- [2025-09-19-即梦4.0里到底藏了多少东西？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504257&idx=1&sn=4ba88d2f94e9aa22e1a1a15ca5756675&chksm=c2b3107ef5c49968e91a07bfcd81a41c0bec324e7cee57e355e3f98481013c820d0c8204c19d#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/) ![](/assets/new.png)  
+- [2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/)  
 - [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)  
 - [2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/)  
 - [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/)  
