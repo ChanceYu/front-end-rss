@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-27T04:20:28.854Z</updated>
+    <updated>2025-10-27T08:15:14.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Canvas也支持锥形渐变了createConicGradient方法]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/"/>
+        <updated>2025-10-27T00:00:00.000Z</updated>
+        <published>2025-10-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】使用 Web API 构建浏览器 AI 应用]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277719&amp;idx=1&amp;sn=0c428a2dd83ef8732b6c87cc7b4fffca&amp;chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[实测可灵新视频模型2.5 Turbo，未来已来]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247504493&amp;idx=1&amp;sn=9d066b8743771e5c5252fe853d360536&amp;chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247504493&amp;idx=1&amp;sn=9d066b8743771e5c5252fe853d360536&amp;chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd"/>
-        <updated>2025-09-30T00:00:00.000Z</updated>
-        <published>2025-09-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue的异步DOM更新：nextTick的正确使用方法]]></title>
-        <id>http://mp.weixin.qq.com/s/TZ666Z-x34VPy4PMjHvKVg</id>
-        <link href="http://mp.weixin.qq.com/s/TZ666Z-x34VPy4PMjHvKVg"/>
         <updated>2025-09-30T00:00:00.000Z</updated>
         <published>2025-09-30T00:00:00.000Z</published>
     </entry>
