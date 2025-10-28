@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-28 04:09:07，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-28 12:13:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-10-28-【第3604期】URLPattern：让浏览器原生支持更强大的-URL-路由与匹配](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277725&idx=1&sn=d8867e2c8125eb5409ce978449a155c7&chksm=bc709839d4cee3f1b212646eaca7500bb7e5c63fd032e539638f90d458509e058c7dbc3371fa&scene=0#rd) ![](/assets/new.png)  
 - [2025-10-27-【早阅】使用-Web-API-构建浏览器-AI-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277719&idx=1&sn=0c428a2dd83ef8732b6c87cc7b4fffca&chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&scene=0#rd)  
 - [2025-10-24-【早阅】什么样的文档才算好文档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277705&idx=1&sn=c904937939770c2b0fb87581b93d348d&chksm=bc3bb307b56060136aea2f1990622c09baafd223231d30c268996972a95e0fab73a555491cff&scene=0#rd)  
 - [2025-10-23-【第3603期】如何修复任何-Bug](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277700&idx=1&sn=90772945ec46a5e3e904a8185c51d91c&chksm=bcf768111a6afec42c0168cc7a24e9fa0348bb2dafa771b196d7b39534f79e98f66187424661&scene=0#rd)  
@@ -117,17 +118,16 @@
 - [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd)  
 - [2025-10-17-【早阅】Vite-不仅仅是构建工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277651&idx=1&sn=4cb0aa638ffa1bdecf692a40f5c6784c&chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&scene=0#rd)  
 - [2025-10-16-【早阅】使用-Kiro.dev-进行规范驱动开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277642&idx=1&sn=72be6f92d18c9717b90750902a58060c&chksm=bc9d55206f2592b9414341efb6cf4d01b6117c7fb8161a3a3e77444eaccb148e95115372e6bf&scene=0#rd)  
-- [2025-10-15-【活动】AI-for-Frontend：重新定义前端的边界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=2&sn=16f935c0595458519fa67741d26fdd07&chksm=bc1478b03f99cfa61ab7be8413ea37575348cffd293ce9b609294dd52b7d4d5408a8df659286&scene=0#rd)  
 - [2025-10-15-【第3600期】CSS-Grid：一个实用的思维模型与网格线的强大之处](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=1&sn=c62633fdee3bb8c02004898d5e9d366b&chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&scene=0#rd)  
+- [2025-10-15-【活动】AI-for-Frontend：重新定义前端的边界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=2&sn=16f935c0595458519fa67741d26fdd07&chksm=bc1478b03f99cfa61ab7be8413ea37575348cffd293ce9b609294dd52b7d4d5408a8df659286&scene=0#rd)  
 - [2025-10-14-【早阅】借助-Expo-Router，实现跨平台无缝部署](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277624&idx=1&sn=fa0a2f25bf736f78891cf95b5e3df28c&chksm=bc4ceab6673ec09d12e6e25bfcd68b1bdb76933428d1133286f3ff32a5d502c8783e1c52f4af&scene=0#rd)  
-- [2025-10-13-【早阅】Vite纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=1&sn=7a797a02e3e90787ca90e76dc4952129&chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&scene=0#rd)  
 - [2025-10-13-【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=2&sn=eac169e443df5b5695824f9f750c6295&chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&scene=0#rd)  
+- [2025-10-13-【早阅】Vite纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=1&sn=7a797a02e3e90787ca90e76dc4952129&chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&scene=0#rd)  
 - [2025-10-11-【早阅】谷歌的-Vibe-编码：全新-AI-Studio-的原型设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277573&idx=1&sn=c0e72abc28f7335fef5737ded4b488d0&chksm=bc17ec635262b9475aeddcd7499a4e2ce673c6431c688678c19b2ee6ff2a7d92ad6f11c07b14&scene=0#rd)  
 - [2025-10-10-【第3599期】兼顾效率和性能！快手低代码平台在大型活动中的技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277567&idx=1&sn=b55f68b7f78cc47ffe2e936ac5fb9ec4&chksm=bc0b7689b5a774ba3226294ff38c195fd5d32acdc250e6dd7a8d6f08b0e4b6be131143d66f96&scene=0#rd)  
 - [2025-10-09-【早阅】TanStack-Start-入门探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277560&idx=1&sn=536d959afc333f3bb2500182d3600469&chksm=bc0232e53af70df165541eacf7ce57962e25398d9c7d9ea1772d103a71e22f4bfbdbdd02e345&scene=0#rd)  
 - [2025-09-30-【第3598期】AI-提示的艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277554&idx=1&sn=52234cd3a698c424649630a85e90f4cf&chksm=bc66bf91fab869785ee6be0a9470dd7e699d8a1e03c0d251039f8eb58dc4d4e02a9d854ae19a&scene=0#rd)  
 - [2025-09-29-【早阅】将-Claude-代码变成自己的超赞-UI-设计师（使用-Playwright-MCP-）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277548&idx=1&sn=e49bd502f1e80c922686833f064a9898&chksm=bc7a8c2fa8f09fdac57a00bb86522960fa21d590369fb9cdf550f3e4c09fa50a56d6e4ec7b12&scene=0#rd)  
-- [2025-09-28-【早阅】为Cloud-Code而设计：与首席设计师-Megan-的对话](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=2&sn=b5ca3d851245557e8a3402ea8fb723fa&chksm=bc34aa5be5f0f72a27216a38f21713f4e8d3b7aa314bc31bb0105ace15f7c0ae88af1f74bc6d&scene=0#rd)  
 - [2025-09-28-【第3597期】Google-Chrome-DevTools-MCP：AI-代理现在可以在浏览器中调试、测试和修复代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=1&sn=18b092f538b688e06ee1bd09c05cf064&chksm=bcb82f0e97379a8050d774da8ed01d620c29b22fbf9ccaa1eb5f0ce2097f62f659ef750d9884&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-10-27-那句AI提示词，真能终结世界吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504858&idx=1&sn=e466ff234976c7bfc8e024ef35d0bd6d&chksm=c2b31225f5c49b33aad162ca554162d454c00a864c4e19efefab27dd7d261a8f2b971e6a2434#rd) ![](/assets/new.png)  
-- [2025-10-26-马斯克又造了个AI女友，名字叫Mika](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504840&idx=1&sn=5948df4dcc070501db7136c4c90d615a&chksm=c2b31237f5c49b2195974195f179ee7e230faeffc7899a9683cf14e3655a4d48aa9a350cc648#rd) ![](/assets/new.png)  
+- [2025-10-27-那句AI提示词，真能终结世界吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504858&idx=1&sn=e466ff234976c7bfc8e024ef35d0bd6d&chksm=c2b31225f5c49b33aad162ca554162d454c00a864c4e19efefab27dd7d261a8f2b971e6a2434#rd)  
+- [2025-10-26-马斯克又造了个AI女友，名字叫Mika](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504840&idx=1&sn=5948df4dcc070501db7136c4c90d615a&chksm=c2b31237f5c49b2195974195f179ee7e230faeffc7899a9683cf14e3655a4d48aa9a350cc648#rd)  
 - [2025-10-24-玩AI，我劝你先上观猹看看](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504822&idx=1&sn=e5bf43c39b18564edb37dda07fbbe4d8&chksm=c2b31249f5c49b5f47d7b423f20f76ac3bd0e3624ee45c95622afd0619cae2410c12ef329d71#rd)  
 - [2025-10-23-OpenAI发布新浏览器，武林盟主要换人了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504778&idx=1&sn=73a824aba2ea7ed9680d3c995516d4df&chksm=c2b31275f5c49b632cc983d625debca4a2741fdcdb7199ac45f8d0e5b7e146391eb6749661c0#rd)  
 - [2025-10-21-DeepSeek新模型这次真玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504736&idx=1&sn=96b01e3bf84f54e6d4fcb4de357cf176&chksm=c2b3129ff5c49b89dec7b7c39bd18222603e237318e622eb4caede32511cca580de7a25b09e0#rd)  
