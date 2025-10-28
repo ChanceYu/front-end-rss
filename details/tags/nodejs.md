@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-28 12:13:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-29 02:15:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598) 
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597) 
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596) 
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594) 
