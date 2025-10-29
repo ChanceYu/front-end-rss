@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-29T04:17:35.787Z</updated>
+    <updated>2025-10-29T22:09:49.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪：未来 Vite 将会收费]]></title>
+        <id>http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw</id>
+        <link href="http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw"/>
+        <updated>2025-10-28T00:00:00.000Z</updated>
+        <published>2025-10-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3604期】URLPattern：让浏览器原生支持更强大的 URL 路由与匹配]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277725&amp;idx=1&amp;sn=d8867e2c8125eb5409ce978449a155c7&amp;chksm=bc709839d4cee3f1b212646eaca7500bb7e5c63fd032e539638f90d458509e058c7dbc3371fa&amp;scene=0#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[Canvas也支持锥形渐变了createConicGradient方法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/"/>
+        <updated>2025-10-27T00:00:00.000Z</updated>
+        <published>2025-10-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首款 Vue3 像素风的 UI 组件库正式发布！]]></title>
+        <id>http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA</id>
+        <link href="http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA"/>
         <updated>2025-10-27T00:00:00.000Z</updated>
         <published>2025-10-27T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://nodeweekly.com/issues/595"/>
         <updated>2025-10-07T00:00:00.000Z</updated>
         <published>2025-10-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实测腾讯混元图像3.0，不愧是全球第一]]></title>
-        <id>http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ</id>
-        <link href="http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ"/>
-        <updated>2025-10-06T00:00:00.000Z</updated>
-        <published>2025-10-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么很多大厂强制使用pnpm]]></title>
-        <id>http://mp.weixin.qq.com/s/iQqdMOIlpB-_js1ZHeuvVQ</id>
-        <link href="http://mp.weixin.qq.com/s/iQqdMOIlpB-_js1ZHeuvVQ"/>
-        <updated>2025-10-03T00:00:00.000Z</updated>
-        <published>2025-10-03T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-29 12:17:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-30 06:09:49，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-10-29-【第3605期】通过规范驱动开发提升你的-AI-开发水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277763&idx=1&sn=238e98aaf698e4d4c02de0aa4f3e37ca&chksm=bc57a0d40a73b4844c7c56229e840786d43b0eaf1a641286d3cd34d4f64984b52a09010304a0&scene=0#rd) ![](/assets/new.png)  
+- [2025-10-29-【第3605期】通过规范驱动开发提升你的-AI-开发水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277763&idx=1&sn=238e98aaf698e4d4c02de0aa4f3e37ca&chksm=bc57a0d40a73b4844c7c56229e840786d43b0eaf1a641286d3cd34d4f64984b52a09010304a0&scene=0#rd)  
 - [2025-10-28-【第3604期】URLPattern：让浏览器原生支持更强大的-URL-路由与匹配](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277725&idx=1&sn=d8867e2c8125eb5409ce978449a155c7&chksm=bc709839d4cee3f1b212646eaca7500bb7e5c63fd032e539638f90d458509e058c7dbc3371fa&scene=0#rd)  
 - [2025-10-27-【早阅】使用-Web-API-构建浏览器-AI-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277719&idx=1&sn=0c428a2dd83ef8732b6c87cc7b4fffca&chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&scene=0#rd)  
 - [2025-10-24-【早阅】什么样的文档才算好文档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277705&idx=1&sn=c904937939770c2b0fb87581b93d348d&chksm=bc3bb307b56060136aea2f1990622c09baafd223231d30c268996972a95e0fab73a555491cff&scene=0#rd)  
@@ -202,12 +202,15 @@
 </summary>
 
 
+- [2025-10-29-Lodash-已死？作者发声了，这个前端库未来如何？](http://mp.weixin.qq.com/s/EFa2ckkesEVdr_3TEThFCg) ![](/assets/new.png)  
+- [2025-10-28-尤雨溪：未来-Vite-将会收费](http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw) ![](/assets/new.png)  
+- [2025-10-27-首款-Vue3-像素风的-UI-组件库正式发布！](http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA) ![](/assets/new.png)  
 - [2025-10-25-Vue3-神级工具：终于可以实现打字的动画效果了！](http://mp.weixin.qq.com/s/dQ8Gtagybc4IPdqTkwfTgw)  
-- [2025-10-24-收集并总结了一套前端面试题，非常齐全](http://mp.weixin.qq.com/s/rgPoiTJkaPWyb88b4sZ0zA)  
 - [2025-10-24-这-10-个-API-，能让你网页性能上一个档次](http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg)  
+- [2025-10-24-收集并总结了一套前端面试题，非常齐全](http://mp.weixin.qq.com/s/rgPoiTJkaPWyb88b4sZ0zA)  
 - [2025-10-23-Vue3-这两个方法，将掀起组件创建新狂潮！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506015&idx=1&sn=279e9db4922613d756455c027c9ce53b&chksm=ce45cdcef93244d8501ea7272b189603a47128a7c499612f1b2179745ef4789ed6b35e39b21d#rd)  
-- [2025-10-22-五分钟，把公司的官网改成了赛博朋克风](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506008&idx=1&sn=686688f5dc257755c743b4ad1784cb3b&chksm=ce45cdc9f93244df30917b9841b851e8773ac7ff04efee9d26dd982b08d82f460bfb462548d4#rd)  
 - [2025-10-22-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/Y6JCbTTmSKQfBTiXjf3agA)  
+- [2025-10-22-五分钟，把公司的官网改成了赛博朋克风](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506008&idx=1&sn=686688f5dc257755c743b4ad1784cb3b&chksm=ce45cdc9f93244df30917b9841b851e8773ac7ff04efee9d26dd982b08d82f460bfb462548d4#rd)  
 - [2025-10-21-ElementPlus-被发现重大-BUG！可能会让页面崩掉！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505972&idx=1&sn=2df2f9612b967fe0953a067fd7b467c3&chksm=ce45cda5f93244b3f4512508feec47029fb959c24df48065009f037b60120c55c1b112aa811c#rd)  
 - [2025-10-20-离谱！裁员裁出新高度了，比去年还夸张。。。](http://mp.weixin.qq.com/s/xptAyImS6lgutyyZQA3v_Q)  
 - [2025-10-19-天塌了！3w-Star-的前端启蒙项目，被一夜强制清空！](http://mp.weixin.qq.com/s/CeVyJ_JzYoRx9FJEXjhnXA)  
@@ -219,9 +222,6 @@
 - [2025-10-13-双十一攻略来了，怎么买能省钱，都整理好了](http://mp.weixin.qq.com/s/yfU1fy9xWfhizloUDbdkNw)  
 - [2025-10-12-收集并总结了一套前端面试题，非常齐全](http://mp.weixin.qq.com/s/6nG4tEsexmRpxfKCbvwD-w)  
 - [2025-10-11-tsconfig-中配置了别名，为啥要在vite再配置一次？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505727&idx=1&sn=3d9eafc7aa3805d6147f8b5e8ad4915f&chksm=ce45c2aef9324bb89304231ca1c762b73c251b99b492b8f5846a29b9ae67f2c9ccada10bf2b2#rd)  
-- [2025-10-10-只有-7-KB！前端圈疯传的-Vue3-转场动效神库！效果炸裂！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505725&idx=1&sn=8cb6362fdf245b00f8974c3f9fa5c191&chksm=ce45c2acf9324bba1cda30b73625bd64379896632ecce991374bfa542232273513557eaa0dc7#rd)  
-- [2025-10-09-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505720&idx=1&sn=5707398440930405a01b4ac530c83c30&chksm=ce45c2a9f9324bbfd54a90a845ec66e203c45250bdb6487ae34192dac81735c0a980e263ea65#rd)  
-- [2025-10-08-10-个-JS-神-API？复制即用，今晚早下班](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505719&idx=1&sn=324eb3f686f9522e6fa8500861462508&chksm=ce45c2a6f9324bb08e41bf32dafd6cee4bbefcb98bf190f8338eca0c6db50e751818c6238dd7#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
