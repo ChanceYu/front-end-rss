@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-30 06:09:49，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-30 12:12:20，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-10-30-【早阅】在浏览器中突破大数据极限](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277782&idx=1&sn=8b126bb15b516a1bac41d675ceac5fc7&chksm=bc9571143f4a18b43c3f2802b5e1fd57cb49b81b76702663553157c8880dcea4a0cbfa0374e4&scene=0#rd) ![](/assets/new.png)  
 - [2025-10-29-【第3605期】通过规范驱动开发提升你的-AI-开发水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277763&idx=1&sn=238e98aaf698e4d4c02de0aa4f3e37ca&chksm=bc57a0d40a73b4844c7c56229e840786d43b0eaf1a641286d3cd34d4f64984b52a09010304a0&scene=0#rd)  
 - [2025-10-28-【第3604期】URLPattern：让浏览器原生支持更强大的-URL-路由与匹配](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277725&idx=1&sn=d8867e2c8125eb5409ce978449a155c7&chksm=bc709839d4cee3f1b212646eaca7500bb7e5c63fd032e539638f90d458509e058c7dbc3371fa&scene=0#rd)  
 - [2025-10-27-【早阅】使用-Web-API-构建浏览器-AI-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277719&idx=1&sn=0c428a2dd83ef8732b6c87cc7b4fffca&chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&scene=0#rd)  
@@ -119,16 +120,15 @@
 - [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd)  
 - [2025-10-17-【早阅】Vite-不仅仅是构建工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277651&idx=1&sn=4cb0aa638ffa1bdecf692a40f5c6784c&chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&scene=0#rd)  
 - [2025-10-16-【早阅】使用-Kiro.dev-进行规范驱动开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277642&idx=1&sn=72be6f92d18c9717b90750902a58060c&chksm=bc9d55206f2592b9414341efb6cf4d01b6117c7fb8161a3a3e77444eaccb148e95115372e6bf&scene=0#rd)  
-- [2025-10-15-【活动】AI-for-Frontend：重新定义前端的边界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=2&sn=16f935c0595458519fa67741d26fdd07&chksm=bc1478b03f99cfa61ab7be8413ea37575348cffd293ce9b609294dd52b7d4d5408a8df659286&scene=0#rd)  
 - [2025-10-15-【第3600期】CSS-Grid：一个实用的思维模型与网格线的强大之处](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=1&sn=c62633fdee3bb8c02004898d5e9d366b&chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&scene=0#rd)  
+- [2025-10-15-【活动】AI-for-Frontend：重新定义前端的边界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=2&sn=16f935c0595458519fa67741d26fdd07&chksm=bc1478b03f99cfa61ab7be8413ea37575348cffd293ce9b609294dd52b7d4d5408a8df659286&scene=0#rd)  
 - [2025-10-14-【早阅】借助-Expo-Router，实现跨平台无缝部署](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277624&idx=1&sn=fa0a2f25bf736f78891cf95b5e3df28c&chksm=bc4ceab6673ec09d12e6e25bfcd68b1bdb76933428d1133286f3ff32a5d502c8783e1c52f4af&scene=0#rd)  
-- [2025-10-13-【早阅】Vite纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=1&sn=7a797a02e3e90787ca90e76dc4952129&chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&scene=0#rd)  
 - [2025-10-13-【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=2&sn=eac169e443df5b5695824f9f750c6295&chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&scene=0#rd)  
+- [2025-10-13-【早阅】Vite纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=1&sn=7a797a02e3e90787ca90e76dc4952129&chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&scene=0#rd)  
 - [2025-10-11-【早阅】谷歌的-Vibe-编码：全新-AI-Studio-的原型设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277573&idx=1&sn=c0e72abc28f7335fef5737ded4b488d0&chksm=bc17ec635262b9475aeddcd7499a4e2ce673c6431c688678c19b2ee6ff2a7d92ad6f11c07b14&scene=0#rd)  
 - [2025-10-10-【第3599期】兼顾效率和性能！快手低代码平台在大型活动中的技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277567&idx=1&sn=b55f68b7f78cc47ffe2e936ac5fb9ec4&chksm=bc0b7689b5a774ba3226294ff38c195fd5d32acdc250e6dd7a8d6f08b0e4b6be131143d66f96&scene=0#rd)  
 - [2025-10-09-【早阅】TanStack-Start-入门探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277560&idx=1&sn=536d959afc333f3bb2500182d3600469&chksm=bc0232e53af70df165541eacf7ce57962e25398d9c7d9ea1772d103a71e22f4bfbdbdd02e345&scene=0#rd)  
 - [2025-09-30-【第3598期】AI-提示的艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277554&idx=1&sn=52234cd3a698c424649630a85e90f4cf&chksm=bc66bf91fab869785ee6be0a9470dd7e699d8a1e03c0d251039f8eb58dc4d4e02a9d854ae19a&scene=0#rd)  
-- [2025-09-29-【早阅】将-Claude-代码变成自己的超赞-UI-设计师（使用-Playwright-MCP-）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277548&idx=1&sn=e49bd502f1e80c922686833f064a9898&chksm=bc7a8c2fa8f09fdac57a00bb86522960fa21d590369fb9cdf550f3e4c09fa50a56d6e4ec7b12&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-10-28-“神级模型”Gemini-3.0实力刷屏！联手谷歌全新氛围编程工具重塑前端，如今只差官宣](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526345&idx=1&sn=9df1f4feca9da1a9dd57bd9f8dbc3b5f&chksm=f952d28ace255b9c9a2dd30b6b0825e783ff31209d2f5719e83d7ae66b14944e3202d3a732e4#rd) ![](/assets/new.png)  
 - [2025-10-19-WebAssembly-3.0-发布，64-位内存、垃圾回收全都有，先别激动，组件模型还没做完！](http://mp.weixin.qq.com/s/f71ibOfEmyESbBjOTWodMQ)  
 - [2025-09-28-10个面向前端开发者的MCP服务器](http://mp.weixin.qq.com/s/FIPF82cJiO3GKKmrLwvIuw)  
 - [2025-09-22-默认选-React，拖慢前端？Svelte、Solid、Qwik-的优势被忽视了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526298&idx=1&sn=7deba23d4886dc5dee2e7e8ff387c2c6&chksm=f952d2d9ce255bcfa70c77bf85154c135cc74fe13f2649f2015ad65e062cb44a5623a68e4bb2#rd)  
@@ -190,7 +191,6 @@
 - [2025-06-04-为什么2025/05/28和2025-05-28在JavaScript中是不同的日子？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526056&idx=1&sn=202a60fe318fddb770f889dfc7ff7646&chksm=f952d3ebce255afd16f1b9aad0daaf6c1b20d07b3e0c841da7dbd1df6dbf50aa422a5b15a8c7#rd)  
 - [2025-05-29-用印度程序员冒充AI的“独角兽”彻底倒闭了！伪AI烧光5亿美元，连微软和亚马逊都被“坑”了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526046&idx=1&sn=bfb62e9e1be7fb29e60a880b25429991&chksm=f952d3ddce255acb82d791a760d40feb73b57115ab9b61b72b8ab979adeb7f2464f14bcbb289#rd)  
 - [2025-05-09-前端的下一轮演进：基于AI的状态管理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526029&idx=1&sn=d914255f10082dbcfd0de1be3c8821ae&chksm=f952d3cece255ad8e65031d3805249024fecd3f7bd28845354f4015fef0faf67f9dc7027c691#rd)  
-- [2025-04-30-Next.js-真有那么好用吗？Netlify-谈他们遇到的六个现实问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526011&idx=1&sn=4f1c822f120896bcfbb5e6adeba87eb6&chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,9 +202,9 @@
 </summary>
 
 
-- [2025-10-29-Lodash-已死？作者发声了，这个前端库未来如何？](http://mp.weixin.qq.com/s/EFa2ckkesEVdr_3TEThFCg) ![](/assets/new.png)  
-- [2025-10-28-尤雨溪：未来-Vite-将会收费](http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw) ![](/assets/new.png)  
-- [2025-10-27-首款-Vue3-像素风的-UI-组件库正式发布！](http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA) ![](/assets/new.png)  
+- [2025-10-29-Lodash-已死？作者发声了，这个前端库未来如何？](http://mp.weixin.qq.com/s/EFa2ckkesEVdr_3TEThFCg)  
+- [2025-10-28-尤雨溪：未来-Vite-将会收费](http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw)  
+- [2025-10-27-首款-Vue3-像素风的-UI-组件库正式发布！](http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA)  
 - [2025-10-25-Vue3-神级工具：终于可以实现打字的动画效果了！](http://mp.weixin.qq.com/s/dQ8Gtagybc4IPdqTkwfTgw)  
 - [2025-10-24-这-10-个-API-，能让你网页性能上一个档次](http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg)  
 - [2025-10-24-收集并总结了一套前端面试题，非常齐全](http://mp.weixin.qq.com/s/rgPoiTJkaPWyb88b4sZ0zA)  

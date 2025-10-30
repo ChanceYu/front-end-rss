@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-30 06:09:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-30 12:12:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -17,6 +17,7 @@
 - [2022-06-17-AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594) 
 - [2022-05-20-Getting-animated](https://javascriptweekly.com/issues/590) 
 - [2022-04-01-Time-to-get-decorating](https://javascriptweekly.com/issues/583) 
+- [2025-10-30-【早阅】在浏览器中突破大数据极限](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277782&idx=1&sn=8b126bb15b516a1bac41d675ceac5fc7&chksm=bc9571143f4a18b43c3f2802b5e1fd57cb49b81b76702663553157c8880dcea4a0cbfa0374e4&scene=0#rd) 
 - [2025-09-28-【第3597期】Google-Chrome-DevTools-MCP：AI-代理现在可以在浏览器中调试、测试和修复代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277543&idx=1&sn=18b092f538b688e06ee1bd09c05cf064&chksm=bcb82f0e97379a8050d774da8ed01d620c29b22fbf9ccaa1eb5f0ce2097f62f659ef750d9884&scene=0#rd) 
 - [2025-09-11-【第3585期】开发者必试的-Chrome-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277398&idx=1&sn=e12d3ef550c8622a1831ab99c9489c13&chksm=bcc39e9739736ef439d34464636333c768f6d7e16334b160ed82a8ba792f3363492d0ea17a1c&scene=0#rd) 
 - [2025-08-15-【第3571期】调试神秘的-HTTP-流式传输问题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277241&idx=1&sn=3f007c49970bfd2bbb9d28c52799b121&chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&scene=0#rd) 
@@ -122,16 +123,16 @@
 - [2019-08-17-【第1702期】针对web开发者的浏览器缓存指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=1&sn=f7153ed423caa21fb0b5fa513212403f&chksm=bd4945ca8a3eccdc9c688f4f2b88b1027c9bbab65ba52202a92eeb8f119dd467c10775e3b42c#rd) 
 - [2019-08-13-【第1698期】白话Session与Cookie：从经营杂货店开始](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=1&sn=4dd1c2847de951c090ba00b06553467d&chksm=bd4945af8a3eccb96e276ef0eebf439c84ea26c5c32df201376e339b729b2af9fbd91b510787#rd) 
 - [2019-08-09-【第1694期】-Code-Review最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=1&sn=89861a3ee42df82b1bf5820e0cf8b207&chksm=bd4942718a3ecb67a807e45bde87de4369f82a8ef6caa8b07ec568f7e81a6dc52a22b3549d55#rd) 
-- [2019-08-08-一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=1&sn=25cc7a3d8e7e3fd4fbff50f08eff072e&chksm=bd4942638a3ecb75ca7302223d230d5e0762a14b498906ad08bc287b8b86aa1125d159384586&scene=27#wechat_redirect) 
 - [2019-08-08-【第1693期】被验证过的-Code-Review-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=2&sn=88bc06e3a888e29a290e28109f06e7d9&chksm=bd4942638a3ecb75e30be9a843c06e2eb2dcd903d504c953ea23b91c20188e2f2f2af15e6a6a#rd) 
+- [2019-08-08-一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=1&sn=25cc7a3d8e7e3fd4fbff50f08eff072e&chksm=bd4942638a3ecb75ca7302223d230d5e0762a14b498906ad08bc287b8b86aa1125d159384586&scene=27#wechat_redirect) 
 - [2019-08-06-【第1691期】前端需要知道的-HTTP-安全头配置](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=1&sn=61df0d4fc69842ca76b7c5759b6f8ad6&chksm=bd4942558a3ecb43768469ce369eab89ced13ac11918eb3c70112d2983a73dbd64bf1fb984fb&scene=27#wechat_redirect) 
 - [2019-07-24-【第1678期】你应该了解的-CORS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=1&sn=d70fc6cc5de39cb09dfb1fff2273b2b2&chksm=bd4942ed8a3ecbfbec115fe1a36403d5956fd201a64fe5a6c06862b6232e6da6ca2ad52ea222#rd) 
 - [2019-07-07-【招聘】北京360安全研究院招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=2&sn=299ebbb1062a89a1a7d8c1d7d4989045#rd) 
 - [2019-07-04-【第1658期】-Chrome-专家调试法---介绍-Chrome-开发者工具的最佳用法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232948&idx=1&sn=c578786806d20e185503abc3d85561c5#rd) 
 - [2019-06-23-【第1647期】-理解-WebView](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232781&idx=2&sn=58f51be214289d25d8350d8656b80460#rd) 
 - [2019-05-12-【英】Webkit支持夜间模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232232&idx=2&sn=fe9df4dab68db613c7db8ac5e736b598#rd) 
-- [2019-04-03-996+裁员潮，什么样的前端人才能安全靠岸？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=1&sn=5588bf7db7597bb44cb4727824b7ebd6#rd) 
 - [2019-04-03-【第1574期】浏览器帧原理剖析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=2&sn=26b93810ab043e64f71f882f35d912c3#rd) 
+- [2019-04-03-996+裁员潮，什么样的前端人才能安全靠岸？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=1&sn=5588bf7db7597bb44cb4727824b7ebd6#rd) 
 - [2019-03-29-【第1569期】配置化页面渲染系统设计和实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=1&sn=aa68dadba7028971caaec9c89fe04be5#rd) 
 - [2019-03-25-【第1565期】浏览器中的画中画（Picture-in-Picture）模式及其-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231826&idx=2&sn=0e61312763acb0f7fb027f90f0288d5b#rd) 
 - [2019-03-23-【第1563期】缓存最佳实践-&amp;-max-age的陷阱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231803&idx=1&sn=6fd4c3f8511ca2e0ddd521d27fab67d6#rd) 
