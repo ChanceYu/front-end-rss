@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-30T08:13:57.934Z</updated>
+    <updated>2025-10-30T10:11:18.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[vivo 前端三剑客发展历程及原理揭秘]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517456&amp;idx=1&amp;sn=849be7450825af5890f229d3956fe43f&amp;chksm=eb07bd69dc70347f619c3c419c20ba4332b892973ad74beef41323490d34e8ce6b10d17e836f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517456&amp;idx=1&amp;sn=849be7450825af5890f229d3956fe43f&amp;chksm=eb07bd69dc70347f619c3c419c20ba4332b892973ad74beef41323490d34e8ce6b10d17e836f#rd"/>
+        <updated>2025-10-30T00:00:00.000Z</updated>
+        <published>2025-10-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】在浏览器中突破大数据极限]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277782&amp;idx=1&amp;sn=8b126bb15b516a1bac41d675ceac5fc7&amp;chksm=bc9571143f4a18b43c3f2802b5e1fd57cb49b81b76702663553157c8880dcea4a0cbfa0374e4&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505720&amp;idx=1&amp;sn=5707398440930405a01b4ac530c83c30&amp;chksm=ce45c2a9f9324bbfd54a90a845ec66e203c45250bdb6487ae34192dac81735c0a980e263ea65#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505720&amp;idx=1&amp;sn=5707398440930405a01b4ac530c83c30&amp;chksm=ce45c2a9f9324bbfd54a90a845ec66e203c45250bdb6487ae34192dac81735c0a980e263ea65#rd"/>
-        <updated>2025-10-09T00:00:00.000Z</updated>
-        <published>2025-10-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为老粉称被鸿蒙 5 坑惨！升级不兼容，回退丢失数据。华为回应：视频创作者等群体慎更新]]></title>
-        <id>http://mp.weixin.qq.com/s/2BHkQdzON4TMPRvmsNFaYg</id>
-        <link href="http://mp.weixin.qq.com/s/2BHkQdzON4TMPRvmsNFaYg"/>
         <updated>2025-10-09T00:00:00.000Z</updated>
         <published>2025-10-09T00:00:00.000Z</published>
     </entry>
