@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-30T16:12:46.532Z</updated>
+    <updated>2025-10-30T18:14:31.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[AI Coding 长文分享：如何真正把工具用起来，从原理到实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541864&amp;idx=1&amp;sn=d8ee240222727bacf219646ed4e5b914&amp;chksm=8390c730b4e74e26bfcb18d318c7da84c1df3693d34479b4751090c81d780486e9bcc3b2c68b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541864&amp;idx=1&amp;sn=d8ee240222727bacf219646ed4e5b914&amp;chksm=8390c730b4e74e26bfcb18d318c7da84c1df3693d34479b4751090c81d780486e9bcc3b2c68b#rd"/>
+        <updated>2025-10-29T00:00:00.000Z</updated>
+        <published>2025-10-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试：前端如何应对数百万个 API 请求而不会导致系统崩溃]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528086&amp;idx=1&amp;sn=d1e95df62bd0b59818601a01adf26883&amp;chksm=f9926847cee5e151bfd4273beb992a94fb0df13f8737b707ad47248e119413bbc904b9aa5465#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528086&amp;idx=1&amp;sn=d1e95df62bd0b59818601a01adf26883&amp;chksm=f9926847cee5e151bfd4273beb992a94fb0df13f8737b707ad47248e119413bbc904b9aa5465#rd"/>
         <updated>2025-10-29T00:00:00.000Z</updated>
         <published>2025-10-29T00:00:00.000Z</published>
     </entry>
@@ -67,6 +74,13 @@
         <title type="html"><![CDATA[Canvas也支持锥形渐变了createConicGradient方法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/"/>
+        <updated>2025-10-27T00:00:00.000Z</updated>
+        <published>2025-10-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 个 Node.js 新功能替代流行 NPM 包]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528076&amp;idx=1&amp;sn=f175e48dfa775b1324cc19ce19d8f787&amp;chksm=f992685dcee5e14b3e7ac29c8382bd0a0aeb486d439c07f07249840dd97d1bf15a8240bb035c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528076&amp;idx=1&amp;sn=f175e48dfa775b1324cc19ce19d8f787&amp;chksm=f992685dcee5e14b3e7ac29c8382bd0a0aeb486d439c07f07249840dd97d1bf15a8240bb035c#rd"/>
         <updated>2025-10-27T00:00:00.000Z</updated>
         <published>2025-10-27T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277567&amp;idx=1&amp;sn=b55f68b7f78cc47ffe2e936ac5fb9ec4&amp;chksm=bc0b7689b5a774ba3226294ff38c195fd5d32acdc250e6dd7a8d6f08b0e4b6be131143d66f96&amp;scene=0#rd"/>
         <updated>2025-10-10T00:00:00.000Z</updated>
         <published>2025-10-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite gets its own documentary]]></title>
-        <id>https://javascriptweekly.com/issues/756</id>
-        <link href="https://javascriptweekly.com/issues/756"/>
-        <updated>2025-10-10T00:00:00.000Z</updated>
-        <published>2025-10-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 个 JS 神 API？复制即用，今晚早下班]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517440&amp;idx=1&amp;sn=561a3421f7c71d95a0d02b8884b97146&amp;chksm=eb07bd79dc70346fdf206478e7f324da91078f961a24daaa0cb7b859dda83ada7bdfdcf29657#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517440&amp;idx=1&amp;sn=561a3421f7c71d95a0d02b8884b97146&amp;chksm=eb07bd79dc70346fdf206478e7f324da91078f961a24daaa0cb7b859dda83ada7bdfdcf29657#rd"/>
-        <updated>2025-10-09T00:00:00.000Z</updated>
-        <published>2025-10-09T00:00:00.000Z</published>
     </entry>
 </feed>
