@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-30T10:11:18.676Z</updated>
+    <updated>2025-10-30T16:12:46.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277782&amp;idx=1&amp;sn=8b126bb15b516a1bac41d675ceac5fc7&amp;chksm=bc9571143f4a18b43c3f2802b5e1fd57cb49b81b76702663553157c8880dcea4a0cbfa0374e4&amp;scene=0#rd"/>
         <updated>2025-10-30T00:00:00.000Z</updated>
         <published>2025-10-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Coding 长文分享：如何真正把工具用起来，从原理到实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541864&amp;idx=1&amp;sn=d8ee240222727bacf219646ed4e5b914&amp;chksm=8390c730b4e74e26bfcb18d318c7da84c1df3693d34479b4751090c81d780486e9bcc3b2c68b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541864&amp;idx=1&amp;sn=d8ee240222727bacf219646ed4e5b914&amp;chksm=8390c730b4e74e26bfcb18d318c7da84c1df3693d34479b4751090c81d780486e9bcc3b2c68b#rd"/>
+        <updated>2025-10-29T00:00:00.000Z</updated>
+        <published>2025-10-29T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[10 个 JS 神 API？复制即用，今晚早下班]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517440&amp;idx=1&amp;sn=561a3421f7c71d95a0d02b8884b97146&amp;chksm=eb07bd79dc70346fdf206478e7f324da91078f961a24daaa0cb7b859dda83ada7bdfdcf29657#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517440&amp;idx=1&amp;sn=561a3421f7c71d95a0d02b8884b97146&amp;chksm=eb07bd79dc70346fdf206478e7f324da91078f961a24daaa0cb7b859dda83ada7bdfdcf29657#rd"/>
-        <updated>2025-10-09T00:00:00.000Z</updated>
-        <published>2025-10-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505720&amp;idx=1&amp;sn=5707398440930405a01b4ac530c83c30&amp;chksm=ce45c2a9f9324bbfd54a90a845ec66e203c45250bdb6487ae34192dac81735c0a980e263ea65#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505720&amp;idx=1&amp;sn=5707398440930405a01b4ac530c83c30&amp;chksm=ce45c2a9f9324bbfd54a90a845ec66e203c45250bdb6487ae34192dac81735c0a980e263ea65#rd"/>
         <updated>2025-10-09T00:00:00.000Z</updated>
         <published>2025-10-09T00:00:00.000Z</published>
     </entry>

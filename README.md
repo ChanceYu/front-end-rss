@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-10-30 18:11:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-31 00:12:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,9 +30,9 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -419,7 +419,7 @@
 </summary>
 
 
-- [2025-10-30-vivo-前端三剑客发展历程及原理揭秘](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517456&idx=1&sn=849be7450825af5890f229d3956fe43f&chksm=eb07bd69dc70347f619c3c419c20ba4332b892973ad74beef41323490d34e8ce6b10d17e836f#rd) ![](/assets/new.png)  
+- [2025-10-30-vivo-前端三剑客发展历程及原理揭秘](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517456&idx=1&sn=849be7450825af5890f229d3956fe43f&chksm=eb07bd69dc70347f619c3c419c20ba4332b892973ad74beef41323490d34e8ce6b10d17e836f#rd)  
 - [2025-10-28-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517454&idx=1&sn=f72e5a0ba75a92df259ccab9724f88b2&chksm=eb07bd77dc70346134f56954e5fb9d9ae56fd3c6febeafb3530139565ac021bfc0a7da131daa#rd)  
 - [2025-10-24-转转商品中心微前端升级之路](http://mp.weixin.qq.com/s/rCLPo6aEe42wI9Rhs1XoqA)  
 - [2025-10-23-ElementPlus-被发现重大-BUG！可能会让页面崩掉！](http://mp.weixin.qq.com/s/plyWa6hHo3_nt-0tdnjdbA)  
@@ -481,6 +481,8 @@
 </summary>
 
 
+- [2025-10-29-AI-Coding-长文分享：如何真正把工具用起来，从原理到实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541864&idx=1&sn=d8ee240222727bacf219646ed4e5b914&chksm=8390c730b4e74e26bfcb18d318c7da84c1df3693d34479b4751090c81d780486e9bcc3b2c68b#rd) ![](/assets/new.png)  
+- [2025-10-27-我的研发实践：高准确率AICoding工作流设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541850&idx=1&sn=9daae921c01825c227809b4a3ad2208d&chksm=8390c702b4e74e149ff8cea93aa9922705b0851daf445194156403dc824873a07e68072705c9#rd) ![](/assets/new.png)  
 - [2025-10-22-一次AI驱动的淘宝客户端需求开发实战](http://mp.weixin.qq.com/s/zuvEnIZ5avKhT29puoTS-A)  
 - [2025-10-20-天猫行业中后台前端研发Agent设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541806&idx=1&sn=f20df453b05fb4b7c52ffa77d166833e&chksm=8390c6f6b4e74fe0788b08290f3ab124ba88086801a8ed12da599b3c6a47e368c6064fa2aece#rd)  
 - [2025-10-15-初探：从0开始的AI-Agent开发踩坑实录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541672&idx=1&sn=54d7c39363697c18eb40ed6a142e9ae2&chksm=8390c670b4e74f663d2b04fa763b46e6d085219d418580eeda769005ff307fb08b8e8b36ea3d#rd)  
@@ -499,8 +501,6 @@
 - [2025-08-29-HSF-序列化不可变集合类型问题原因分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541395&idx=1&sn=39d24185e3fa777de04671a48e39f0ba&chksm=8390c54bb4e74c5db77086cf8cedea47f3cb9f855f436be3ac385ea1e09893aebabf09f18f36#rd)  
 - [2025-08-27-分享一下我对好代码的理解](http://mp.weixin.qq.com/s/vJVIRN5MkKD__0guGgtyoQ)  
 - [2025-08-25-深入聊聊RAG](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541388&idx=1&sn=21e68d346e56ab2de7d23f72439add3c&chksm=8390c554b4e74c42479923260effc90a9fd872b028a9caffff24945a3bf039173f1719cd752b#rd)  
-- [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
-- [2025-08-22-Jsonnet-一种“新”的Json数据转换工具](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=1&sn=24713a8efcf3b66138e629bda1afcffd&chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
