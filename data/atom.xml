@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-30T18:14:31.785Z</updated>
+    <updated>2025-10-31T03:04:13.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[尤雨溪：未来 Vite 将会收费]]></title>
         <id>http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw</id>
         <link href="http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw"/>
+        <updated>2025-10-28T00:00:00.000Z</updated>
+        <published>2025-10-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年 Node.js 新模式]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623228&amp;idx=1&amp;sn=08d29060a8b3eed2e94f7735b8b55209&amp;chksm=802258fdb755d1eb6ce5461ac5da286f72ffc677943c7da1248b6829c4046daa7845d128cec1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623228&amp;idx=1&amp;sn=08d29060a8b3eed2e94f7735b8b55209&amp;chksm=802258fdb755d1eb6ce5461ac5da286f72ffc677943c7da1248b6829c4046daa7845d128cec1#rd"/>
         <updated>2025-10-28T00:00:00.000Z</updated>
         <published>2025-10-28T00:00:00.000Z</published>
     </entry>
@@ -239,16 +246,16 @@
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[裁裁裁！亚洲最大 IT 外包公司裁员 19755 人，后面还有“优化”大动作]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd"/>
+        <title type="html"><![CDATA[我写出了 Threejs 版城市天际线？！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd"/>
         <updated>2025-10-17T00:00:00.000Z</updated>
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我写出了 Threejs 版城市天际线？！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd"/>
+        <title type="html"><![CDATA[裁裁裁！亚洲最大 IT 外包公司裁员 19755 人，后面还有“优化”大动作]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd"/>
         <updated>2025-10-17T00:00:00.000Z</updated>
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[只有 7 KB！前端圈疯传的 Vue3 转场动效神库！效果炸裂！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505725&amp;idx=1&amp;sn=8cb6362fdf245b00f8974c3f9fa5c191&amp;chksm=ce45c2acf9324bba1cda30b73625bd64379896632ecce991374bfa542232273513557eaa0dc7#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505725&amp;idx=1&amp;sn=8cb6362fdf245b00f8974c3f9fa5c191&amp;chksm=ce45c2acf9324bba1cda30b73625bd64379896632ecce991374bfa542232273513557eaa0dc7#rd"/>
-        <updated>2025-10-10T00:00:00.000Z</updated>
-        <published>2025-10-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3599期】兼顾效率和性能！快手低代码平台在大型活动中的技术实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277567&amp;idx=1&amp;sn=b55f68b7f78cc47ffe2e936ac5fb9ec4&amp;chksm=bc0b7689b5a774ba3226294ff38c195fd5d32acdc250e6dd7a8d6f08b0e4b6be131143d66f96&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277567&amp;idx=1&amp;sn=b55f68b7f78cc47ffe2e936ac5fb9ec4&amp;chksm=bc0b7689b5a774ba3226294ff38c195fd5d32acdc250e6dd7a8d6f08b0e4b6be131143d66f96&amp;scene=0#rd"/>
         <updated>2025-10-10T00:00:00.000Z</updated>
         <published>2025-10-10T00:00:00.000Z</published>
     </entry>
