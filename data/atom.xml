@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-31T16:12:03.457Z</updated>
+    <updated>2025-10-31T18:15:08.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[【第3606期】vivo 前端三剑客发展历程及原理揭秘]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277798&amp;idx=1&amp;sn=f595cc4365c163ce75cfc2c7572f2989&amp;chksm=bc1a7e8b7764bf973e4e837ac5d13ba59592fd21d11588181af411c604f66b4caf1aed692c1f&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277798&amp;idx=1&amp;sn=f595cc4365c163ce75cfc2c7572f2989&amp;chksm=bc1a7e8b7764bf973e4e837ac5d13ba59592fd21d11588181af411c604f66b4caf1aed692c1f&amp;scene=0#rd"/>
+        <updated>2025-10-31T00:00:00.000Z</updated>
+        <published>2025-10-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript and JavaScript dominate on GitHub in 2025]]></title>
+        <id>https://javascriptweekly.com/issues/759</id>
+        <link href="https://javascriptweekly.com/issues/759"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪宣布：Vite 官方纪录片正式发布！完整版！]]></title>
         <id>http://mp.weixin.qq.com/s/BgvDQXTo6rcLVXrm5U9TIw</id>
         <link href="http://mp.weixin.qq.com/s/BgvDQXTo6rcLVXrm5U9TIw"/>
-        <updated>2025-10-13T00:00:00.000Z</updated>
-        <published>2025-10-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=2&amp;sn=eac169e443df5b5695824f9f750c6295&amp;chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277620&amp;idx=2&amp;sn=eac169e443df5b5695824f9f750c6295&amp;chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&amp;scene=0#rd"/>
         <updated>2025-10-13T00:00:00.000Z</updated>
         <published>2025-10-13T00:00:00.000Z</published>
     </entry>

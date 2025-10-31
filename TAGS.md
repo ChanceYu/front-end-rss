@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-01 00:12:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-01 02:15:08。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -119,6 +119,7 @@
 - [【Node-Weekly】Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)
 - [【Node-Weekly】TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)
 - [【Node-Weekly】Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)
+- [【JavaScript-Weekly】TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)
 - [【JavaScript-Weekly】Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)
 - [【JavaScript-Weekly】The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692)
 - [【JavaScript-Weekly】Postgres-in-TypeScript](https://javascriptweekly.com/issues/677)
@@ -129,7 +130,6 @@
 - [【JavaScript-Weekly】Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623)
 - [【JavaScript-Weekly】Nuxt-3.0,-TypeScript-4.9,-Angular-15..](https://javascriptweekly.com/issues/615)
 - [【JavaScript-Weekly】Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609)
-- [【JavaScript-Weekly】How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608)
 - [查看更多 >](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
