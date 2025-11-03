@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-03 02:11:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-03 12:19:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-11-03-【早阅】OpenSpec：全新工具包告别Vibe编码！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277814&idx=1&sn=4e3f0dbced653507f7eefdcbac58f84a&chksm=bc2f490d2fd0ab837a769fd31f27db4030dc6f752eb6bf7230eb5fbe37d517460e821d7f7cad&scene=0#rd) ![](/assets/new.png)  
 - [2025-10-31-【第3606期】vivo-前端三剑客发展历程及原理揭秘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277798&idx=1&sn=f595cc4365c163ce75cfc2c7572f2989&chksm=bc1a7e8b7764bf973e4e837ac5d13ba59592fd21d11588181af411c604f66b4caf1aed692c1f&scene=0#rd)  
 - [2025-10-30-【早阅】在浏览器中突破大数据极限](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277782&idx=1&sn=8b126bb15b516a1bac41d675ceac5fc7&chksm=bc9571143f4a18b43c3f2802b5e1fd57cb49b81b76702663553157c8880dcea4a0cbfa0374e4&scene=0#rd)  
 - [2025-10-29-【第3605期】通过规范驱动开发提升你的-AI-开发水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277763&idx=1&sn=238e98aaf698e4d4c02de0aa4f3e37ca&chksm=bc57a0d40a73b4844c7c56229e840786d43b0eaf1a641286d3cd34d4f64984b52a09010304a0&scene=0#rd)  
@@ -121,14 +122,13 @@
 - [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd)  
 - [2025-10-17-【早阅】Vite-不仅仅是构建工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277651&idx=1&sn=4cb0aa638ffa1bdecf692a40f5c6784c&chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&scene=0#rd)  
 - [2025-10-16-【早阅】使用-Kiro.dev-进行规范驱动开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277642&idx=1&sn=72be6f92d18c9717b90750902a58060c&chksm=bc9d55206f2592b9414341efb6cf4d01b6117c7fb8161a3a3e77444eaccb148e95115372e6bf&scene=0#rd)  
-- [2025-10-15-【活动】AI-for-Frontend：重新定义前端的边界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=2&sn=16f935c0595458519fa67741d26fdd07&chksm=bc1478b03f99cfa61ab7be8413ea37575348cffd293ce9b609294dd52b7d4d5408a8df659286&scene=0#rd)  
 - [2025-10-15-【第3600期】CSS-Grid：一个实用的思维模型与网格线的强大之处](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=1&sn=c62633fdee3bb8c02004898d5e9d366b&chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&scene=0#rd)  
+- [2025-10-15-【活动】AI-for-Frontend：重新定义前端的边界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=2&sn=16f935c0595458519fa67741d26fdd07&chksm=bc1478b03f99cfa61ab7be8413ea37575348cffd293ce9b609294dd52b7d4d5408a8df659286&scene=0#rd)  
 - [2025-10-14-【早阅】借助-Expo-Router，实现跨平台无缝部署](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277624&idx=1&sn=fa0a2f25bf736f78891cf95b5e3df28c&chksm=bc4ceab6673ec09d12e6e25bfcd68b1bdb76933428d1133286f3ff32a5d502c8783e1c52f4af&scene=0#rd)  
-- [2025-10-13-【早阅】Vite纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=1&sn=7a797a02e3e90787ca90e76dc4952129&chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&scene=0#rd)  
 - [2025-10-13-【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=2&sn=eac169e443df5b5695824f9f750c6295&chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&scene=0#rd)  
+- [2025-10-13-【早阅】Vite纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=1&sn=7a797a02e3e90787ca90e76dc4952129&chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&scene=0#rd)  
 - [2025-10-11-【早阅】谷歌的-Vibe-编码：全新-AI-Studio-的原型设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277573&idx=1&sn=c0e72abc28f7335fef5737ded4b488d0&chksm=bc17ec635262b9475aeddcd7499a4e2ce673c6431c688678c19b2ee6ff2a7d92ad6f11c07b14&scene=0#rd)  
 - [2025-10-10-【第3599期】兼顾效率和性能！快手低代码平台在大型活动中的技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277567&idx=1&sn=b55f68b7f78cc47ffe2e936ac5fb9ec4&chksm=bc0b7689b5a774ba3226294ff38c195fd5d32acdc250e6dd7a8d6f08b0e4b6be131143d66f96&scene=0#rd)  
-- [2025-10-09-【早阅】TanStack-Start-入门探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277560&idx=1&sn=536d959afc333f3bb2500182d3600469&chksm=bc0232e53af70df165541eacf7ce57962e25398d9c7d9ea1772d103a71e22f4bfbdbdd02e345&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-11-01-FlowithOS实测，可能是今年最大的黑马](http://mp.weixin.qq.com/s/CMgwgACtJTAhOkg0ttST3w) ![](/assets/new.png)  
-- [2025-10-31-GPT-6将更名为GPT-6-7](http://mp.weixin.qq.com/s/ElXw7B-1EN7ygRzo5vnf_Q) ![](/assets/new.png)  
+- [2025-11-01-FlowithOS实测，可能是今年最大的黑马](http://mp.weixin.qq.com/s/CMgwgACtJTAhOkg0ttST3w)  
+- [2025-10-31-GPT-6将更名为GPT-6-7](http://mp.weixin.qq.com/s/ElXw7B-1EN7ygRzo5vnf_Q)  
 - [2025-10-30-Sora重磅更新来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504875&idx=1&sn=10e59f069822afeb1ba3efcfa2d73a24&chksm=c2b31214f5c49b0202a8d8344591157a44499af0d19463b33fb304eaffec616dd64eefb88fce#rd)  
 - [2025-10-28-AI时代，你的品味值多少钱？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504868&idx=1&sn=cab9dcd0b5828db000c40591f013cc5a&chksm=c2b3121bf5c49b0d76be22f91444691afa1ed19b65a73fc7618aafc3e9641a59cebd70f5466b#rd)  
 - [2025-10-27-那句AI提示词，真能终结世界吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504858&idx=1&sn=e466ff234976c7bfc8e024ef35d0bd6d&chksm=c2b31225f5c49b33aad162ca554162d454c00a864c4e19efefab27dd7d261a8f2b971e6a2434#rd)  
