@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-03T08:15:20.264Z</updated>
+    <updated>2025-11-03T20:11:47.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,16 +22,44 @@
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
-        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
-        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
-        <updated>2025-10-31T00:00:00.000Z</updated>
-        <published>2025-10-31T00:00:00.000Z</published>
+        <title type="html"><![CDATA[JavaScript还能这样写？！ES2025新语法让代码优雅到极致]]></title>
+        <id>http://mp.weixin.qq.com/s/NyGbNHCBcOh1OabRxUKYew</id>
+        <link href="http://mp.weixin.qq.com/s/NyGbNHCBcOh1OabRxUKYew"/>
+        <updated>2025-11-03T00:00:00.000Z</updated>
+        <published>2025-11-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！]]></title>
+        <id>http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w</id>
+        <link href="http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w"/>
+        <updated>2025-11-03T00:00:00.000Z</updated>
+        <published>2025-11-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧]]></title>
+        <id>http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w</id>
+        <link href="http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w"/>
+        <updated>2025-11-03T00:00:00.000Z</updated>
+        <published>2025-11-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牛叉！Vue3 彻底封神！]]></title>
+        <id>http://mp.weixin.qq.com/s/CS729fcVwXNl5ReFeYBKuA</id>
+        <link href="http://mp.weixin.qq.com/s/CS729fcVwXNl5ReFeYBKuA"/>
+        <updated>2025-11-02T00:00:00.000Z</updated>
+        <published>2025-11-02T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[localStorage 的使用越来越少了？]]></title>
         <id>http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ</id>
         <link href="http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ"/>
+        <updated>2025-10-31T00:00:00.000Z</updated>
+        <published>2025-10-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
+        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
+        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
@@ -281,16 +309,16 @@
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[裁裁裁！亚洲最大 IT 外包公司裁员 19755 人，后面还有“优化”大动作]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd"/>
+        <title type="html"><![CDATA[我写出了 Threejs 版城市天际线？！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd"/>
         <updated>2025-10-17T00:00:00.000Z</updated>
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我写出了 Threejs 版城市天际线？！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd"/>
+        <title type="html"><![CDATA[裁裁裁！亚洲最大 IT 外包公司裁员 19755 人，后面还有“优化”大动作]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd"/>
         <updated>2025-10-17T00:00:00.000Z</updated>
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528006&amp;idx=1&amp;sn=85be703d2aacb351c8529eabc10c88bf&amp;chksm=f9926897cee5e1817909ddf429f268df67eb88180aeb589b1c4d68814b985930fa8128286644#rd"/>
         <updated>2025-10-14T00:00:00.000Z</updated>
         <published>2025-10-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端最强的网页截图神器！高效高清高性能]]></title>
-        <id>http://mp.weixin.qq.com/s/nvWgs5L7BnrgZxudS1ieJA</id>
-        <link href="http://mp.weixin.qq.com/s/nvWgs5L7BnrgZxudS1ieJA"/>
-        <updated>2025-10-14T00:00:00.000Z</updated>
-        <published>2025-10-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing Python apps into Node]]></title>
-        <id>https://nodeweekly.com/issues/596</id>
-        <link href="https://nodeweekly.com/issues/596"/>
-        <updated>2025-10-14T00:00:00.000Z</updated>
-        <published>2025-10-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS field-sizing属性简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/"/>
-        <updated>2025-10-13T00:00:00.000Z</updated>
-        <published>2025-10-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 动画辅助实现的方案与实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541671&amp;idx=1&amp;sn=46ababd4983dd0fc74cd4d38409be0e9&amp;chksm=8390c67fb4e74f694e5444432d1ea1fcc57a3305676ba486504d7ab28e91803f2d617af9a196#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541671&amp;idx=1&amp;sn=46ababd4983dd0fc74cd4d38409be0e9&amp;chksm=8390c67fb4e74f694e5444432d1ea1fcc57a3305676ba486504d7ab28e91803f2d617af9a196#rd"/>
-        <updated>2025-10-13T00:00:00.000Z</updated>
-        <published>2025-10-13T00:00:00.000Z</published>
     </entry>
 </feed>
