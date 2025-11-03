@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-03 12:19:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-03 16:15:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-11-03-【早阅】OpenSpec：全新工具包告别Vibe编码！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277814&idx=1&sn=4e3f0dbced653507f7eefdcbac58f84a&chksm=bc2f490d2fd0ab837a769fd31f27db4030dc6f752eb6bf7230eb5fbe37d517460e821d7f7cad&scene=0#rd) ![](/assets/new.png)  
+- [2025-11-03-【早阅】OpenSpec：全新工具包告别Vibe编码！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277814&idx=1&sn=4e3f0dbced653507f7eefdcbac58f84a&chksm=bc2f490d2fd0ab837a769fd31f27db4030dc6f752eb6bf7230eb5fbe37d517460e821d7f7cad&scene=0#rd)  
 - [2025-10-31-【第3606期】vivo-前端三剑客发展历程及原理揭秘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277798&idx=1&sn=f595cc4365c163ce75cfc2c7572f2989&chksm=bc1a7e8b7764bf973e4e837ac5d13ba59592fd21d11588181af411c604f66b4caf1aed692c1f&scene=0#rd)  
 - [2025-10-30-【早阅】在浏览器中突破大数据极限](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277782&idx=1&sn=8b126bb15b516a1bac41d675ceac5fc7&chksm=bc9571143f4a18b43c3f2802b5e1fd57cb49b81b76702663553157c8880dcea4a0cbfa0374e4&scene=0#rd)  
 - [2025-10-29-【第3605期】通过规范驱动开发提升你的-AI-开发水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277763&idx=1&sn=238e98aaf698e4d4c02de0aa4f3e37ca&chksm=bc57a0d40a73b4844c7c56229e840786d43b0eaf1a641286d3cd34d4f64984b52a09010304a0&scene=0#rd)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-11-03-垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/) ![](/assets/new.png)  
 - [2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/)  
 - [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)  
 - [2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/)  
@@ -531,7 +532,6 @@
 - [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/)  
 - [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)  
 - [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)  
-- [2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

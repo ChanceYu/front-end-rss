@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-03T04:19:02.805Z</updated>
+    <updated>2025-11-03T08:15:20.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[垃圾特性之CSS :heading伪类和:heading()函数]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/"/>
+        <updated>2025-11-03T00:00:00.000Z</updated>
+        <published>2025-11-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
         <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[AI 动画辅助实现的方案与实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541671&amp;idx=1&amp;sn=46ababd4983dd0fc74cd4d38409be0e9&amp;chksm=8390c67fb4e74f694e5444432d1ea1fcc57a3305676ba486504d7ab28e91803f2d617af9a196#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541671&amp;idx=1&amp;sn=46ababd4983dd0fc74cd4d38409be0e9&amp;chksm=8390c67fb4e74f694e5444432d1ea1fcc57a3305676ba486504d7ab28e91803f2d617af9a196#rd"/>
-        <updated>2025-10-13T00:00:00.000Z</updated>
-        <published>2025-10-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪宣布：Vite 官方纪录片正式发布！完整版！]]></title>
-        <id>http://mp.weixin.qq.com/s/BgvDQXTo6rcLVXrm5U9TIw</id>
-        <link href="http://mp.weixin.qq.com/s/BgvDQXTo6rcLVXrm5U9TIw"/>
         <updated>2025-10-13T00:00:00.000Z</updated>
         <published>2025-10-13T00:00:00.000Z</published>
     </entry>
