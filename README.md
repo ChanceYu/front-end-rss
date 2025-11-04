@@ -14,25 +14,25 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-04 04:11:47，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-04 12:12:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-11-04-【第3607期】如何编写有用的提交信息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277850&idx=1&sn=6eeefb699a1d9fafc9d8c738b201c9ad&chksm=bc0041f3931664ea1a5def8a1d85590c82eddcdb35f219eb3b7dbf00e9267a3be9318d760632&scene=0#rd) ![](/assets/new.png)  
 - [2025-11-03-【早阅】OpenSpec：全新工具包告别Vibe编码！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277814&idx=1&sn=4e3f0dbced653507f7eefdcbac58f84a&chksm=bc2f490d2fd0ab837a769fd31f27db4030dc6f752eb6bf7230eb5fbe37d517460e821d7f7cad&scene=0#rd)  
 - [2025-10-31-【第3606期】vivo-前端三剑客发展历程及原理揭秘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277798&idx=1&sn=f595cc4365c163ce75cfc2c7572f2989&chksm=bc1a7e8b7764bf973e4e837ac5d13ba59592fd21d11588181af411c604f66b4caf1aed692c1f&scene=0#rd)  
 - [2025-10-30-【早阅】在浏览器中突破大数据极限](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277782&idx=1&sn=8b126bb15b516a1bac41d675ceac5fc7&chksm=bc9571143f4a18b43c3f2802b5e1fd57cb49b81b76702663553157c8880dcea4a0cbfa0374e4&scene=0#rd)  
@@ -122,13 +123,12 @@
 - [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd)  
 - [2025-10-17-【早阅】Vite-不仅仅是构建工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277651&idx=1&sn=4cb0aa638ffa1bdecf692a40f5c6784c&chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&scene=0#rd)  
 - [2025-10-16-【早阅】使用-Kiro.dev-进行规范驱动开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277642&idx=1&sn=72be6f92d18c9717b90750902a58060c&chksm=bc9d55206f2592b9414341efb6cf4d01b6117c7fb8161a3a3e77444eaccb148e95115372e6bf&scene=0#rd)  
-- [2025-10-15-【第3600期】CSS-Grid：一个实用的思维模型与网格线的强大之处](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=1&sn=c62633fdee3bb8c02004898d5e9d366b&chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&scene=0#rd)  
 - [2025-10-15-【活动】AI-for-Frontend：重新定义前端的边界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=2&sn=16f935c0595458519fa67741d26fdd07&chksm=bc1478b03f99cfa61ab7be8413ea37575348cffd293ce9b609294dd52b7d4d5408a8df659286&scene=0#rd)  
+- [2025-10-15-【第3600期】CSS-Grid：一个实用的思维模型与网格线的强大之处](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=1&sn=c62633fdee3bb8c02004898d5e9d366b&chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&scene=0#rd)  
 - [2025-10-14-【早阅】借助-Expo-Router，实现跨平台无缝部署](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277624&idx=1&sn=fa0a2f25bf736f78891cf95b5e3df28c&chksm=bc4ceab6673ec09d12e6e25bfcd68b1bdb76933428d1133286f3ff32a5d502c8783e1c52f4af&scene=0#rd)  
-- [2025-10-13-【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=2&sn=eac169e443df5b5695824f9f750c6295&chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&scene=0#rd)  
 - [2025-10-13-【早阅】Vite纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=1&sn=7a797a02e3e90787ca90e76dc4952129&chksm=bc555a8327d6e1379087a28c790d5b48b82e98486752549b2020a316f32399f1c5cbbe61305f&scene=0#rd)  
+- [2025-10-13-【招聘】字节跳动基础架构云数据库前端团队招数据库前端开发专家/工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277620&idx=2&sn=eac169e443df5b5695824f9f750c6295&chksm=bc2290f08626e3a1b62213c7af251952282b3262aaecb8ea16c6e64fdf3b1fffb2c9c9b3c77d&scene=0#rd)  
 - [2025-10-11-【早阅】谷歌的-Vibe-编码：全新-AI-Studio-的原型设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277573&idx=1&sn=c0e72abc28f7335fef5737ded4b488d0&chksm=bc17ec635262b9475aeddcd7499a4e2ce673c6431c688678c19b2ee6ff2a7d92ad6f11c07b14&scene=0#rd)  
-- [2025-10-10-【第3599期】兼顾效率和性能！快手低代码平台在大型活动中的技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277567&idx=1&sn=b55f68b7f78cc47ffe2e936ac5fb9ec4&chksm=bc0b7689b5a774ba3226294ff38c195fd5d32acdc250e6dd7a8d6f08b0e4b6be131143d66f96&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2025-11-03-好家伙！尤雨溪公司融-8890-万，要终结-JS-工具碎片化。网友：早点统一吧](http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w) ![](/assets/new.png)  
-- [2025-11-03-中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！](http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w) ![](/assets/new.png)  
+- [2025-11-03-好家伙！尤雨溪公司融-8890-万，要终结-JS-工具碎片化。网友：早点统一吧](http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w)  
+- [2025-11-03-中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！](http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w)  
 - [2025-10-31-用了-Zustand-后，我的状态逻辑精简了一半](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623241&idx=2&sn=94ef981817d67031fb6abf0a3d0ee91d&chksm=80225888b755d19e3d90e732ffc2e37495d70252c89c19f2f4741f27ab7cc7ed33b8f4725d66#rd)  
 - [2025-10-31-吵翻了！CTO-不搞管理反而沉迷写代码改-Bug，还靠这保住百万订单。网友：小公司才敢这么干，大公司早乱了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623241&idx=1&sn=03fba84886fbb920831c1e45cceb9506&chksm=80225888b755d19e66c909d95e8c39b21526625a74b9140e54d8a13caa36c1f305a9bf28fb58#rd)  
 - [2025-10-28-2025年-Node.js-新模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623228&idx=1&sn=08d29060a8b3eed2e94f7735b8b55209&chksm=802258fdb755d1eb6ce5461ac5da286f72ffc677943c7da1248b6829c4046daa7845d128cec1#rd)  
@@ -202,11 +202,11 @@
 </summary>
 
 
-- [2025-11-03-有了-MiniMax-M2，开发效率提升-300%](http://mp.weixin.qq.com/s/-7Cgh1g0xFkv_FBBRpO3bA) ![](/assets/new.png)  
-- [2025-11-02-牛叉！Vue3-彻底封神！](http://mp.weixin.qq.com/s/CS729fcVwXNl5ReFeYBKuA) ![](/assets/new.png)  
+- [2025-11-03-有了-MiniMax-M2，开发效率提升-300%](http://mp.weixin.qq.com/s/-7Cgh1g0xFkv_FBBRpO3bA)  
+- [2025-11-02-牛叉！Vue3-彻底封神！](http://mp.weixin.qq.com/s/CS729fcVwXNl5ReFeYBKuA)  
 - [2025-10-31-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA)  
 - [2025-10-31-localStorage-的使用越来越少了？](http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ)  
-- [2025-10-30-我X，终于能用Sora-2了](http://mp.weixin.qq.com/s/DFHjS3ZccLmlk4gaH6JtSQ) ![](/assets/new.png)  
+- [2025-10-30-我X，终于能用Sora-2了](http://mp.weixin.qq.com/s/DFHjS3ZccLmlk4gaH6JtSQ)  
 - [2025-10-29-Lodash-已死？作者发声了，这个前端库未来如何？](http://mp.weixin.qq.com/s/EFa2ckkesEVdr_3TEThFCg)  
 - [2025-10-28-尤雨溪：未来-Vite-将会收费](http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw)  
 - [2025-10-27-首款-Vue3-像素风的-UI-组件库正式发布！](http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA)  
@@ -264,7 +264,7 @@
 </summary>
 
 
-- [2025-11-03-JavaScript还能这样写？！ES2025新语法让代码优雅到极致](http://mp.weixin.qq.com/s/NyGbNHCBcOh1OabRxUKYew) ![](/assets/new.png)  
+- [2025-11-03-JavaScript还能这样写？！ES2025新语法让代码优雅到极致](http://mp.weixin.qq.com/s/NyGbNHCBcOh1OabRxUKYew)  
 - [2025-11-01-聊聊如何写好提示词，AI-回答质量直接翻倍！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528108&idx=1&sn=2f1e78f7219997699ca1c774a1509057&chksm=f992687dcee5e16b25d021af7132fabc7765fd8cdb5ae02c25e941903e01f7d5eb8dcf02b401#rd)  
 - [2025-10-31-新人也能上手的“拖拽+配置”开发平台](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528102&idx=1&sn=e45209187ac5db60121addddef76dc15&chksm=f9926877cee5e1619b5047b458305297fff194557a663dd1fadb20ce2edee2ddbe0190220c42#rd)  
 - [2025-10-30-面试官：有一个比较经典的-case-也想探讨一下-「页面白屏如何排查？」](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528092&idx=1&sn=65fecf0ecbf283482fae653cb4d3b5bd&chksm=f992684dcee5e15ba04175db2aa1522842362b15b4fc653dc753c62599a653f38ca37b54450f#rd)  
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-11-03-别让故障复盘流于形式：用AI挖掘每一次“跌倒”的价值](http://mp.weixin.qq.com/s/1bEFbt_y36b86405YzukjA) ![](/assets/new.png)  
+- [2025-11-03-别让故障复盘流于形式：用AI挖掘每一次“跌倒”的价值](http://mp.weixin.qq.com/s/1bEFbt_y36b86405YzukjA)  
 - [2025-10-29-AI-Coding-长文分享：如何真正把工具用起来，从原理到实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541864&idx=1&sn=d8ee240222727bacf219646ed4e5b914&chksm=8390c730b4e74e26bfcb18d318c7da84c1df3693d34479b4751090c81d780486e9bcc3b2c68b#rd)  
 - [2025-10-27-我的研发实践：高准确率AICoding工作流设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541850&idx=1&sn=9daae921c01825c227809b4a3ad2208d&chksm=8390c702b4e74e149ff8cea93aa9922705b0851daf445194156403dc824873a07e68072705c9#rd)  
 - [2025-10-22-一次AI驱动的淘宝客户端需求开发实战](http://mp.weixin.qq.com/s/zuvEnIZ5avKhT29puoTS-A)  
