@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-05 12:13:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-05 20:20:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599) ![](/assets/new.png)  
 - [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598)  
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597)  
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)  
@@ -66,7 +67,6 @@
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
-- [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-11-05-【第3608期】Next.js-16-新特性解读：从异步参数到-Turbopack-默认化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277855&idx=1&sn=5e61452f4d216189051162d44606e4cc&chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&scene=0#rd) ![](/assets/new.png)  
+- [2025-11-05-【第3608期】Next.js-16-新特性解读：从异步参数到-Turbopack-默认化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277855&idx=1&sn=5e61452f4d216189051162d44606e4cc&chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&scene=0#rd)  
 - [2025-11-04-【第3607期】如何编写有用的提交信息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277850&idx=1&sn=6eeefb699a1d9fafc9d8c738b201c9ad&chksm=bc0041f3931664ea1a5def8a1d85590c82eddcdb35f219eb3b7dbf00e9267a3be9318d760632&scene=0#rd)  
 - [2025-11-03-【早阅】OpenSpec：全新工具包告别Vibe编码！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277814&idx=1&sn=4e3f0dbced653507f7eefdcbac58f84a&chksm=bc2f490d2fd0ab837a769fd31f27db4030dc6f752eb6bf7230eb5fbe37d517460e821d7f7cad&scene=0#rd)  
 - [2025-10-31-【第3606期】vivo-前端三剑客发展历程及原理揭秘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277798&idx=1&sn=f595cc4365c163ce75cfc2c7572f2989&chksm=bc1a7e8b7764bf973e4e837ac5d13ba59592fd21d11588181af411c604f66b4caf1aed692c1f&scene=0#rd)  
