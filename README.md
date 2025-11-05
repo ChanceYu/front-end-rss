@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-05 20:20:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-06 04:12:10，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599) ![](/assets/new.png)  
+- [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599)  
 - [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598)  
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597)  
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)  
@@ -264,6 +264,8 @@
 </summary>
 
 
+- [2025-11-05-这份HTTP重定向问题快速排查指南，真的帮了大忙！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528201&idx=1&sn=539ad6a4590d63eb43c513822bcecd79&chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd) ![](/assets/new.png)  
+- [2025-11-04-Cursor-原理之窥探提示词](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528155&idx=1&sn=15be02cf1051e4e2886d409496e2909b&chksm=f992680acee5e11c031f93746b269657ecfd6fae69cdb4b21a7bceb43b94781fabea22a7e30f#rd) ![](/assets/new.png)  
 - [2025-11-03-JavaScript还能这样写？！ES2025新语法让代码优雅到极致](http://mp.weixin.qq.com/s/NyGbNHCBcOh1OabRxUKYew)  
 - [2025-11-01-聊聊如何写好提示词，AI-回答质量直接翻倍！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528108&idx=1&sn=2f1e78f7219997699ca1c774a1509057&chksm=f992687dcee5e16b25d021af7132fabc7765fd8cdb5ae02c25e941903e01f7d5eb8dcf02b401#rd)  
 - [2025-10-31-新人也能上手的“拖拽+配置”开发平台](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528102&idx=1&sn=e45209187ac5db60121addddef76dc15&chksm=f9926877cee5e1619b5047b458305297fff194557a663dd1fadb20ce2edee2ddbe0190220c42#rd)  
@@ -282,8 +284,6 @@
 - [2025-10-13-大文件上传的终极指南：如何优雅处理GB级文件传输？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527990&idx=1&sn=da2de43f12a9228d63d9aa7ddd377972&chksm=f99268e7cee5e1f1e808ef2a29c5350985472d81648b8a5a749fcc95265e077102e015e50c19#rd)  
 - [2025-10-11-用了-Zustand-后，我的状态逻辑精简了一半](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527984&idx=1&sn=6fc48318015a580318815734f7525303&chksm=f99268e1cee5e1f732b6429b41f3f1598b52518f3b9599d214a9902d958d605a9ce2c9ad769a#rd)  
 - [2025-10-10-Claude-4.5发布！Cursor-宣布加量不加价支持！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527978&idx=1&sn=b4c5b0070fd7a80876d12a185cde958c&chksm=f99268fbcee5e1edf49c3ac46d7115092e3f5da06ae93316378d6957d6a29a24999524bbc90a#rd)  
-- [2025-10-09-前端微服务框架深度对比：无界（Momentum）与乾坤（Qiankun）实战指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527976&idx=1&sn=55dbaed5055a6836f9641ec9a064a7c4&chksm=f99268f9cee5e1effb48d2a14262cf8a8ac24b8fa4e3809bf6ac39d9d5cb952d4c1886f730de#rd)  
-- [2025-09-30-Vue的异步DOM更新：nextTick的正确使用方法](http://mp.weixin.qq.com/s/TZ666Z-x34VPy4PMjHvKVg)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
