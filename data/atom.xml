@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-04T20:11:53.771Z</updated>
+    <updated>2025-11-05T04:13:37.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3608期】Next.js 16 新特性解读：从异步参数到 Turbopack 默认化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277855&amp;idx=1&amp;sn=5e61452f4d216189051162d44606e4cc&amp;chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277855&amp;idx=1&amp;sn=5e61452f4d216189051162d44606e4cc&amp;chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&amp;scene=0#rd"/>
+        <updated>2025-11-05T00:00:00.000Z</updated>
+        <published>2025-11-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[垃圾特性之CSS :heading伪类和:heading()函数]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277638&amp;idx=1&amp;sn=c62633fdee3bb8c02004898d5e9d366b&amp;chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&amp;scene=0#rd"/>
         <updated>2025-10-15T00:00:00.000Z</updated>
         <published>2025-10-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 组件设计：9 种让你的 UI 坚不可摧的架构模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528006&amp;idx=1&amp;sn=85be703d2aacb351c8529eabc10c88bf&amp;chksm=f9926897cee5e1817909ddf429f268df67eb88180aeb589b1c4d68814b985930fa8128286644#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528006&amp;idx=1&amp;sn=85be703d2aacb351c8529eabc10c88bf&amp;chksm=f9926897cee5e1817909ddf429f268df67eb88180aeb589b1c4d68814b985930fa8128286644#rd"/>
-        <updated>2025-10-14T00:00:00.000Z</updated>
-        <published>2025-10-14T00:00:00.000Z</published>
     </entry>
 </feed>
