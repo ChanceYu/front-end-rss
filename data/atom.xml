@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-06T18:15:24.246Z</updated>
+    <updated>2025-11-06T22:10:04.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,6 +29,13 @@
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623292&amp;idx=1&amp;sn=ca6905ab1eac95d9507c1bbf0c66cb3a&amp;chksm=802258bdb755d1abc7b42695a9599d6a92d25600f93efa71d270b7fce5f3d5aa7adea84ec0ea#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623292&amp;idx=1&amp;sn=ca6905ab1eac95d9507c1bbf0c66cb3a&amp;chksm=802258bdb755d1abc7b42695a9599d6a92d25600f93efa71d270b7fce5f3d5aa7adea84ec0ea#rd"/>
+        <updated>2025-11-05T00:00:00.000Z</updated>
+        <published>2025-11-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3608期】Next.js 16 新特性解读：从异步参数到 Turbopack 默认化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277855&amp;idx=1&amp;sn=5e61452f4d216189051162d44606e4cc&amp;chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277855&amp;idx=1&amp;sn=5e61452f4d216189051162d44606e4cc&amp;chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&amp;scene=0#rd"/>
@@ -39,6 +46,13 @@
         <title type="html"><![CDATA[Cursor 原理之窥探提示词]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528155&amp;idx=1&amp;sn=15be02cf1051e4e2886d409496e2909b&amp;chksm=f992680acee5e11c031f93746b269657ecfd6fae69cdb4b21a7bceb43b94781fabea22a7e30f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528155&amp;idx=1&amp;sn=15be02cf1051e4e2886d409496e2909b&amp;chksm=f992680acee5e11c031f93746b269657ecfd6fae69cdb4b21a7bceb43b94781fabea22a7e30f#rd"/>
+        <updated>2025-11-04T00:00:00.000Z</updated>
+        <published>2025-11-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[双 Token 认证机制：从原理到实践的完整实现]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623264&amp;idx=2&amp;sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&amp;chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623264&amp;idx=2&amp;sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&amp;chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd"/>
         <updated>2025-11-04T00:00:00.000Z</updated>
         <published>2025-11-04T00:00:00.000Z</published>
     </entry>
@@ -64,16 +78,16 @@
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！]]></title>
-        <id>http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w</id>
-        <link href="http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w"/>
+        <title type="html"><![CDATA[好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧]]></title>
+        <id>http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w</id>
+        <link href="http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w"/>
         <updated>2025-11-03T00:00:00.000Z</updated>
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧]]></title>
-        <id>http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w</id>
-        <link href="http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w"/>
+        <title type="html"><![CDATA[中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！]]></title>
+        <id>http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w</id>
+        <link href="http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w"/>
         <updated>2025-11-03T00:00:00.000Z</updated>
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
@@ -344,23 +358,9 @@
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我写出了 Threejs 版城市天际线？！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=2&amp;sn=cbf51fa66ef70b4083aeda9acee3ffdc&amp;chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd"/>
-        <updated>2025-10-17T00:00:00.000Z</updated>
-        <published>2025-10-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[裁裁裁！亚洲最大 IT 外包公司裁员 19755 人，后面还有“优化”大动作]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd"/>
-        <updated>2025-10-17T00:00:00.000Z</updated>
-        <published>2025-10-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】Vite 不仅仅是构建工具]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277651&amp;idx=1&amp;sn=4cb0aa638ffa1bdecf692a40f5c6784c&amp;chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277651&amp;idx=1&amp;sn=4cb0aa638ffa1bdecf692a40f5c6784c&amp;chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&amp;scene=0#rd"/>
         <updated>2025-10-17T00:00:00.000Z</updated>
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>

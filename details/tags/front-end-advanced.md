@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-07 02:15:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-07 06:10:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -219,6 +219,7 @@
 - [2018-09-28-【第1406期】携程国际BU酒店团队的大前端之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=1&sn=b1558a815b3c15bb3943d78447c73e55#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2025-11-04-双-Token-认证机制：从原理到实践的完整实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=2&sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd) 
 - [2025-10-21-编辑器也有邪修？盘点VS-Code邪门/有趣的扩展](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623213&idx=2&sn=8b8b4a9293b29341368bf58d554fa784&chksm=802258ecb755d1fa37f9f1aeec95e0f7186d472b5e6d154555031169408b0a05aca7656ef5a5#rd) 
 - [2025-06-18-Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622667&idx=1&sn=0f763faadb97f5b97d416b979ee6db93&chksm=80225acab755d3dcb6024b50b5ed9cf9ce35915c4e7a067baab2cedd29b51b5e69a6f2c11c1c#rd) 
 - [2025-05-20-突发！微软宣布-VS-Code-变成开源-AI-编辑器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622509&idx=1&sn=af60fc1b136020064c830568e0dcc95d&chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd) 
@@ -264,8 +265,8 @@
 - [2020-12-28-4.2-万-Star！开发-Web-和移动端应用的全栈平台](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651565822&idx=3&sn=d894f7298e23adf2a55164babe00f3fd&chksm=8025793fb752f029207da39ed121d758e91e8ebc694ccf2cf3cb33ddf7e6d777c41b5c9537b2&scene=27#wechat_redirect) 
 - [2020-12-24-设计灵感：数据可视化！12-个仪表盘网页界面设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651565146&idx=3&sn=1767070ff610dba09894f9c8c329495a&chksm=80257b9bb752f28d1e1ae75863bbb4284ef7a81d6652a43ac4d0898c6a246fdcac2e1e3850d1&scene=27#wechat_redirect) 
 - [2020-12-20-1.5-万-Star！Vim-党不能缺少的-IDE：SpaceVim](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564852&idx=3&sn=8bca3a3c81bcad87c48041272e90bf21&chksm=80257cf5b752f5e3b57cdee974ce0868bd1a7251ff06f312bc9c207e3ded83c1dd5c233c28b9&scene=27#wechat_redirect) 
-- [2020-11-19-AST-实现函数错误自动上报](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651563870&idx=2&sn=6a48d63f02e8c3c36b7ee1db0b98c609&chksm=8025709fb752f989d4d15458dc2be648bc28911d15cd76b0f4e31f857f40ec282960d973f46f&scene=27#wechat_redirect) 
 - [2020-11-19-算法根基不稳，还能进大厂么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651563870&idx=1&sn=8c34ad1f80aa74ec5f402e8495684981&chksm=8025709fb752f989061ddf9642921268e6a41104301b26cd8cf29e97ba707312c706062e3ff3&scene=27#wechat_redirect) 
+- [2020-11-19-AST-实现函数错误自动上报](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651563870&idx=2&sn=6a48d63f02e8c3c36b7ee1db0b98c609&chksm=8025709fb752f989d4d15458dc2be648bc28911d15cd76b0f4e31f857f40ec282960d973f46f&scene=27#wechat_redirect) 
 - [2020-09-29-iframe-接班人-微前端框架-qiankun-在中后台系统实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651562436&idx=1&sn=7e72bd9188fd9b39d18a312b465c3ae3&chksm=80257605b752ff13207fbb1b3e937e4ccdb0847699909bd16740c1fe46320b28d03d06c5577c&scene=27#wechat_redirect) 
 - [2020-09-23-学多少返多少-|“-Web全栈架构师”0门槛就业涨薪计划](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651562281&idx=1&sn=db382c91430a16e89dbced382f6a78e8&chksm=802576e8b752fffe50b5c6cb7074004b60108eb7561026a95a9790383c5dee985ef5a4b249c2&scene=27#wechat_redirect) 
 - [2020-09-16-WebAssembly-被誉为第-4-种-web-语言？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651562168&idx=1&sn=7fed0944f199d356ad0f7daa835a687a&chksm=80257779b752fe6f7d4a1f5b439874c8091a808ecd42e6f0fe8b317dd089e00a298b8c5e745c&scene=27#wechat_redirect) 
@@ -286,8 +287,8 @@
 - [2020-03-24-从一道面试题引发的原理性探究](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558063&idx=1&sn=43d5cc383fba968df3f1706e477cd687&chksm=8025476eb752ce786f88229e53be53aea76c68d5c36cc8857bb8436ed18d49517e4d49006be2&scene=27#wechat_redirect) 
 - [2020-03-23-为什么说你一定要懂源码？！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558059&idx=1&sn=e2c31891f1798e9ed88fb45f0e81073d&chksm=8025476ab752ce7cde6cf2725c96e8f8a15ad4d3e2bc0f798779e8245cd3ab5a9dac8659e95c&scene=27#wechat_redirect) 
 - [2020-03-06-可视化搭建数据大屏系统的前端实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557985&idx=2&sn=03e405bd097407cedb47c6b8473c821a&chksm=802547a0b752ceb62ab518097014ae1423d775888a82659793a1dc1cb356afe2932746c53a30&scene=27#wechat_redirect) 
-- [2020-02-12-不好意思！耽误你的十分钟，让MVVM原理还给你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557859&idx=2&sn=677477d443a9c18ba1614e4a234b8ec0&chksm=80255822b752d134b5bd5a599a18e5d799ad6cb7e89b959f955df3998d8d5a75e7a9d8543a76&scene=27#wechat_redirect) 
 - [2020-02-12-面试前端岗，你被要求手写源码了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557859&idx=1&sn=b4f75e16ea58f632dfca512e0c1fa588&chksm=80255822b752d13400d3b585039ff01f488b0aa67d6ac6e36a4736cf6ac1da6e509e94a172ba&scene=27#wechat_redirect) 
+- [2020-02-12-不好意思！耽误你的十分钟，让MVVM原理还给你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557859&idx=2&sn=677477d443a9c18ba1614e4a234b8ec0&chksm=80255822b752d134b5bd5a599a18e5d799ad6cb7e89b959f955df3998d8d5a75e7a9d8543a76&scene=27#wechat_redirect) 
 - [2020-02-11-一文搞懂主流的扫码登录技术原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557858&idx=1&sn=2dac7e773b07429b8f2e2ae66f3b33d0&chksm=80255823b752d135086f5a9c706df9cc10ce763378175e1f96a4bca00e3bf63db4ad2681ee3e&scene=27#wechat_redirect) 
 - [2020-01-30-2020年-大前端冲刺大厂面试题集锦](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557805&idx=1&sn=ad6ef23f5d78c3d70b78289a33fb4bba&chksm=8025586cb752d17ac794fd1a324b2aa7cc16dcc72b36da93041f0f5bc916902364929f630e71&scene=27#wechat_redirect) 
 - [2020-01-17-2020-大前端冲刺大厂面试题必备（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557747&idx=1&sn=f81a5a43a2cb50b8b02f493775a707d3&chksm=802558b2b752d1a4b972854bcf70a118e011ffe15cdfebc21ec83d542de115b959904f7e4e63&scene=27#wechat_redirect) 
@@ -319,8 +320,8 @@
 - [2018-11-28-前端码农之蜕变-—-AST（抽象语法树）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555424&idx=1&sn=34e31f5002f82e2bf6b24affb3b8a329#wechat_redirect) 
 - [2018-11-25-浅谈HTTP-Keep-Alive](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555392&idx=2&sn=8db1670a6057df00f56fe17dce8865f6#wechat_redirect) 
 - [2018-11-20-即使用了-https-也不要通过-query-strings-传敏感数据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=2&sn=7f52a72261d9227a014a110c852e3185#wechat_redirect) 
-- [2018-10-27-关于-Http-协议，你必须要知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=2&sn=c85c8267719651eee412c3a960cfee7d#wechat_redirect) 
 - [2018-10-27-微前端---将微服务理念延伸到前端开发中](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=1&sn=9961957377d10d7361e1ed7d127fa036#wechat_redirect) 
+- [2018-10-27-关于-Http-协议，你必须要知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=2&sn=c85c8267719651eee412c3a960cfee7d#wechat_redirect) 
 - [2018-10-26-WebAssembly-的未来：将逐渐解锁整个“技能树”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=1&sn=50cbae0d391e26411715e0d6fd1f965f#wechat_redirect) 
 - [2025-08-15-日均生成数十万-Web-应用！Vercel-v0.app-推出最终可用版本，AI-全栈开发时代来临？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526249&idx=1&sn=243abf9c1648720abbe95d1bc1a22282&chksm=f952d22ace255b3ce3cdc8f4393d3084bc80cd87371ee3586aa9746a85ceaa590efb7eafca86#rd) 
 - [2025-01-17-2024大前端趋势洞察：进化停滞与鸿蒙新契机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525741&idx=1&sn=ac4c2a5f7fa8d4cdede36976e97f62d4&chksm=f952d02ece255938bc92a64bb8b5d03a60e1b1ae4a86ba4008da2f16ece91aada57178a435c7#rd) 
