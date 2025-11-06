@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-06 12:16:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-07 02:15:23，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-11-06-【第3609期】使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277864&idx=1&sn=d1791d51add2a47c4007595ce4dbc08a&chksm=bca33e11985167e7271e21af78f46592b22583d62d7236680db6bcfa5038333dcb304a0ad804&scene=0#rd) ![](/assets/new.png)  
+- [2025-11-06-【第3609期】使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277864&idx=1&sn=d1791d51add2a47c4007595ce4dbc08a&chksm=bca33e11985167e7271e21af78f46592b22583d62d7236680db6bcfa5038333dcb304a0ad804&scene=0#rd)  
 - [2025-11-05-【第3608期】Next.js-16-新特性解读：从异步参数到-Turbopack-默认化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277855&idx=1&sn=5e61452f4d216189051162d44606e4cc&chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&scene=0#rd)  
 - [2025-11-04-【第3607期】如何编写有用的提交信息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277850&idx=1&sn=6eeefb699a1d9fafc9d8c738b201c9ad&chksm=bc0041f3931664ea1a5def8a1d85590c82eddcdb35f219eb3b7dbf00e9267a3be9318d760632&scene=0#rd)  
 - [2025-11-03-【早阅】OpenSpec：全新工具包告别Vibe编码！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277814&idx=1&sn=4e3f0dbced653507f7eefdcbac58f84a&chksm=bc2f490d2fd0ab837a769fd31f27db4030dc6f752eb6bf7230eb5fbe37d517460e821d7f7cad&scene=0#rd)  
@@ -388,6 +388,9 @@
 </summary>
 
 
+- [2025-11-06-AI写作，到底哪家强？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505003&idx=1&sn=bba7715d0518d9fb40d1f32a066241a6&chksm=c2b31594f5c49c82c5ede566867637f78b2ae035d76b49c394a0c31340684e2a9206abd38429#rd) ![](/assets/new.png)  
+- [2025-11-05-人到底能有多自律？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504963&idx=1&sn=04cd436021eb90392d3d52683d0c3155&chksm=c2b315bcf5c49caae5dbd8f381560f5542c9d289d51dec6ca1967b676f9f8c733383ac1f5c75#rd) ![](/assets/new.png)  
+- [2025-11-04-顶级AI也是韭菜](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504919&idx=1&sn=7cb33367fdd8bfffde702328944ffdf1&chksm=c2b315e8f5c49cfe2d68e5f4c2d363ae49eaaaae6c975f6b05b79490b4de488e99a638e730bf#rd) ![](/assets/new.png)  
 - [2025-11-01-FlowithOS实测，可能是今年最大的黑马](http://mp.weixin.qq.com/s/CMgwgACtJTAhOkg0ttST3w)  
 - [2025-10-31-GPT-6将更名为GPT-6-7](http://mp.weixin.qq.com/s/ElXw7B-1EN7ygRzo5vnf_Q)  
 - [2025-10-30-Sora重磅更新来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504875&idx=1&sn=10e59f069822afeb1ba3efcfa2d73a24&chksm=c2b31214f5c49b0202a8d8344591157a44499af0d19463b33fb304eaffec616dd64eefb88fce#rd)  
@@ -405,9 +408,6 @@
 - [2025-10-06-实测腾讯混元图像3.0，不愧是全球第一](http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ)  
 - [2025-10-04-我让AI写了个故事，给我看破防了](http://mp.weixin.qq.com/s/eJiuylG3tLFgfQsvSAL1ug)  
 - [2025-10-03-Claude-Sonnet-4.5解析，编程封神但远不止于此](http://mp.weixin.qq.com/s/BtyLPD3rjHUnX6SEnnpMSg)  
-- [2025-10-01-一手实测Sora2，OpenAI还做了个AI抖音](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504548&idx=1&sn=0bc45979d6286f9a6a21df3dc82fc361&chksm=c2b3135bf5c49a4d855e0088cb338c285323e6c0782b465763897232b9b7526ae3f900e1f87a#rd)  
-- [2025-09-30-我早就感觉不对劲，DeepSeek果然憋了个大招](http://mp.weixin.qq.com/s/vjd3NoA90HjVZmrPsLAkRA)  
-- [2025-09-30-实测可灵新视频模型2.5-Turbo，未来已来](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504493&idx=1&sn=9d066b8743771e5c5252fe853d360536&chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
