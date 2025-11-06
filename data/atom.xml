@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-05T20:12:10.817Z</updated>
+    <updated>2025-11-06T04:16:29.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3609期】使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277864&amp;idx=1&amp;sn=d1791d51add2a47c4007595ce4dbc08a&amp;chksm=bca33e11985167e7271e21af78f46592b22583d62d7236680db6bcfa5038333dcb304a0ad804&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277864&amp;idx=1&amp;sn=d1791d51add2a47c4007595ce4dbc08a&amp;chksm=bca33e11985167e7271e21af78f46592b22583d62d7236680db6bcfa5038333dcb304a0ad804&amp;scene=0#rd"/>
+        <updated>2025-11-06T00:00:00.000Z</updated>
+        <published>2025-11-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这份HTTP重定向问题快速排查指南，真的帮了大忙！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528201&amp;idx=1&amp;sn=539ad6a4590d63eb43c513822bcecd79&amp;chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【早阅】Vite 不仅仅是构建工具]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277651&amp;idx=1&amp;sn=4cb0aa638ffa1bdecf692a40f5c6784c&amp;chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277651&amp;idx=1&amp;sn=4cb0aa638ffa1bdecf692a40f5c6784c&amp;chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&amp;scene=0#rd"/>
-        <updated>2025-10-17T00:00:00.000Z</updated>
-        <published>2025-10-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Bun-believable release that isn't half-baked]]></title>
-        <id>https://javascriptweekly.com/issues/757</id>
-        <link href="https://javascriptweekly.com/issues/757"/>
         <updated>2025-10-17T00:00:00.000Z</updated>
         <published>2025-10-17T00:00:00.000Z</published>
     </entry>
