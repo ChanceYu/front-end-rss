@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-07 14:16:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-08 02:14:31，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760) ![](/assets/new.png)  
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)  
 - [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)  
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)  
@@ -97,7 +98,6 @@
 - [2025-07-04-The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743)  
 - [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742)  
 - [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)  
-- [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-11-07-【第3610期】OpenSpec-与-Spec-Kit：为你的团队选择合适的-AI-驱动开发流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277871&idx=1&sn=3af22db9e0ffa2d71ff4cd8b4435bccb&chksm=bc4533fc363024b6798179884124c9f1736f8df52d67b5b7f4ad370d3df797784efdf55580fd&scene=0#rd) ![](/assets/new.png)  
+- [2025-11-07-【第3610期】OpenSpec-与-Spec-Kit：为你的团队选择合适的-AI-驱动开发流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277871&idx=1&sn=3af22db9e0ffa2d71ff4cd8b4435bccb&chksm=bc4533fc363024b6798179884124c9f1736f8df52d67b5b7f4ad370d3df797784efdf55580fd&scene=0#rd)  
 - [2025-11-06-【第3609期】使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277864&idx=1&sn=d1791d51add2a47c4007595ce4dbc08a&chksm=bca33e11985167e7271e21af78f46592b22583d62d7236680db6bcfa5038333dcb304a0ad804&scene=0#rd)  
 - [2025-11-05-【第3608期】Next.js-16-新特性解读：从异步参数到-Turbopack-默认化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277855&idx=1&sn=5e61452f4d216189051162d44606e4cc&chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&scene=0#rd)  
 - [2025-11-04-【第3607期】如何编写有用的提交信息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277850&idx=1&sn=6eeefb699a1d9fafc9d8c738b201c9ad&chksm=bc0041f3931664ea1a5def8a1d85590c82eddcdb35f219eb3b7dbf00e9267a3be9318d760632&scene=0#rd)  
@@ -264,6 +264,8 @@
 </summary>
 
 
+- [2025-11-07-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg) ![](/assets/new.png)  
+- [2025-11-06-HTML-的隐藏宝藏：&lt;output&gt;-标签](http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA) ![](/assets/new.png)  
 - [2025-11-05-这份HTTP重定向问题快速排查指南，真的帮了大忙！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528201&idx=1&sn=539ad6a4590d63eb43c513822bcecd79&chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd)  
 - [2025-11-04-Cursor-原理之窥探提示词](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528155&idx=1&sn=15be02cf1051e4e2886d409496e2909b&chksm=f992680acee5e11c031f93746b269657ecfd6fae69cdb4b21a7bceb43b94781fabea22a7e30f#rd)  
 - [2025-11-03-JavaScript还能这样写？！ES2025新语法让代码优雅到极致](http://mp.weixin.qq.com/s/NyGbNHCBcOh1OabRxUKYew)  
@@ -282,8 +284,6 @@
 - [2025-10-15-Cursor-1.7的这些重要更新，别忽视！（最完全讲解版）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528008&idx=1&sn=c5d2c73fb3c11b329722541cf0b53f12&chksm=f9926899cee5e18fd757e1e6691a9a2bc626c7be6553a034fb57ceee7c33723b4d06286a4fe2#rd)  
 - [2025-10-14-React-组件设计：9-种让你的-UI-坚不可摧的架构模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528006&idx=1&sn=85be703d2aacb351c8529eabc10c88bf&chksm=f9926897cee5e1817909ddf429f268df67eb88180aeb589b1c4d68814b985930fa8128286644#rd)  
 - [2025-10-13-大文件上传的终极指南：如何优雅处理GB级文件传输？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527990&idx=1&sn=da2de43f12a9228d63d9aa7ddd377972&chksm=f99268e7cee5e1f1e808ef2a29c5350985472d81648b8a5a749fcc95265e077102e015e50c19#rd)  
-- [2025-10-11-用了-Zustand-后，我的状态逻辑精简了一半](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527984&idx=1&sn=6fc48318015a580318815734f7525303&chksm=f99268e1cee5e1f732b6429b41f3f1598b52518f3b9599d214a9902d958d605a9ce2c9ad769a#rd)  
-- [2025-10-10-Claude-4.5发布！Cursor-宣布加量不加价支持！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527978&idx=1&sn=b4c5b0070fd7a80876d12a185cde958c&chksm=f99268fbcee5e1edf49c3ac46d7115092e3f5da06ae93316378d6957d6a29a24999524bbc90a#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

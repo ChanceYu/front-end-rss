@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-07T06:16:36.606Z</updated>
+    <updated>2025-11-07T18:14:31.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
+        <id>http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg</id>
+        <link href="http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg"/>
+        <updated>2025-11-07T00:00:00.000Z</updated>
+        <published>2025-11-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript source maps actually work]]></title>
+        <id>https://javascriptweekly.com/issues/760</id>
+        <link href="https://javascriptweekly.com/issues/760"/>
+        <updated>2025-11-07T00:00:00.000Z</updated>
+        <published>2025-11-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML 的隐藏宝藏：<output> 标签]]></title>
+        <id>http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA</id>
+        <link href="http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA"/>
+        <updated>2025-11-06T00:00:00.000Z</updated>
+        <published>2025-11-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3609期】使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277864&amp;idx=1&amp;sn=d1791d51add2a47c4007595ce4dbc08a&amp;chksm=bca33e11985167e7271e21af78f46592b22583d62d7236680db6bcfa5038333dcb304a0ad804&amp;scene=0#rd</id>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/f71ibOfEmyESbBjOTWodMQ"/>
         <updated>2025-10-19T00:00:00.000Z</updated>
         <published>2025-10-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
-        <id>http://mp.weixin.qq.com/s/dWOkb_3JssjduSIi2IGnzw</id>
-        <link href="http://mp.weixin.qq.com/s/dWOkb_3JssjduSIi2IGnzw"/>
-        <updated>2025-10-18T00:00:00.000Z</updated>
-        <published>2025-10-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 25 正式发布：性能飙升、安全升级、全面向 Web 靠拢！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528042&amp;idx=1&amp;sn=2ad5e4d067e77e6b0b7712166746acb1&amp;chksm=f99268bbcee5e1ad4efca0f669b085cc37c082190f4bc3551d77ff3c3c83c147170b15f1cc73#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528042&amp;idx=1&amp;sn=2ad5e4d067e77e6b0b7712166746acb1&amp;chksm=f99268bbcee5e1ad4efca0f669b085cc37c082190f4bc3551d77ff3c3c83c147170b15f1cc73#rd"/>
-        <updated>2025-10-17T00:00:00.000Z</updated>
-        <published>2025-10-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[裁裁裁！亚洲最大 IT 外包公司裁员 19755 人，后面还有“优化”大动作]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623197&amp;idx=1&amp;sn=2a59b8914c179e0305fb69b1b824b512&amp;chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd"/>
-        <updated>2025-10-17T00:00:00.000Z</updated>
-        <published>2025-10-17T00:00:00.000Z</published>
     </entry>
 </feed>
