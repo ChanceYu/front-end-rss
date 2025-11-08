@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-07T18:14:31.882Z</updated>
+    <updated>2025-11-08T02:56:46.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
         <id>http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg</id>
         <link href="http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg"/>
+        <updated>2025-11-07T00:00:00.000Z</updated>
+        <published>2025-11-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端全球人气最高 UI 组件库，宣布接入 AI]]></title>
+        <id>http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ</id>
+        <link href="http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ"/>
         <updated>2025-11-07T00:00:00.000Z</updated>
         <published>2025-11-07T00:00:00.000Z</published>
     </entry>
@@ -46,6 +53,20 @@
         <title type="html"><![CDATA[这份HTTP重定向问题快速排查指南，真的帮了大忙！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528201&amp;idx=1&amp;sn=539ad6a4590d63eb43c513822bcecd79&amp;chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528201&amp;idx=1&amp;sn=539ad6a4590d63eb43c513822bcecd79&amp;chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd"/>
+        <updated>2025-11-05T00:00:00.000Z</updated>
+        <published>2025-11-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
+        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
+        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
+        <updated>2025-11-05T00:00:00.000Z</updated>
+        <published>2025-11-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
+        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
+        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
@@ -120,16 +141,16 @@
         <published>2025-11-02T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
-        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
-        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
+        <title type="html"><![CDATA[localStorage 的使用越来越少了？]]></title>
+        <id>http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ</id>
+        <link href="http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[localStorage 的使用越来越少了？]]></title>
-        <id>http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ</id>
-        <link href="http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ"/>
+        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
+        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
+        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://nodeweekly.com/issues/597"/>
         <updated>2025-10-21T00:00:00.000Z</updated>
         <published>2025-10-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS reading-flow和reading-order属性简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/"/>
-        <updated>2025-10-20T00:00:00.000Z</updated>
-        <published>2025-10-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3601期】HTML 的隐藏宝藏：  标签]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277679&amp;idx=1&amp;sn=4b3daf212972191ed6ec8ab4b3712d2d&amp;chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277679&amp;idx=1&amp;sn=4b3daf212972191ed6ec8ab4b3712d2d&amp;chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&amp;scene=0#rd"/>
-        <updated>2025-10-20T00:00:00.000Z</updated>
-        <published>2025-10-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly 3.0 发布，64 位内存、垃圾回收全都有，先别激动，组件模型还没做完！]]></title>
-        <id>http://mp.weixin.qq.com/s/f71ibOfEmyESbBjOTWodMQ</id>
-        <link href="http://mp.weixin.qq.com/s/f71ibOfEmyESbBjOTWodMQ"/>
-        <updated>2025-10-19T00:00:00.000Z</updated>
-        <published>2025-10-19T00:00:00.000Z</published>
     </entry>
 </feed>

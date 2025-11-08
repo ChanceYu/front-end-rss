@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-08 02:14:31，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-08 10:56:46，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760) ![](/assets/new.png)  
+- [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)  
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)  
 - [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)  
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)  
@@ -202,26 +202,26 @@
 </summary>
 
 
+- [2025-11-07-前端全球人气最高-UI-组件库，宣布接入-AI](http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ) ![](/assets/new.png)  
+- [2025-11-06-正式裁员15000人，赔偿N+4！](http://mp.weixin.qq.com/s/X2l82YLEBdIr9OKKdRPU9A) ![](/assets/new.png)  
+- [2025-11-05-继-HTML/CSS/JS-之后，前端的第四门语言诞生？](http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ) ![](/assets/new.png)  
+- [2025-11-05-苹果官网源码被曝光！用的不是-Vue-也不是-React](http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g) ![](/assets/new.png)  
 - [2025-11-04-计算项目“屎山率”的工具库，想知道自己的项目有多“屎”吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506322&idx=1&sn=c64f0a9b873cda73bfef3800059adec1&chksm=ce45cc03f932451547edc3a3bbad17835aa5535a74f64d0e8e6e358b6deeab3c0f9744744c5f#rd)  
 - [2025-11-03-有了-MiniMax-M2，开发效率提升-300%](http://mp.weixin.qq.com/s/-7Cgh1g0xFkv_FBBRpO3bA)  
 - [2025-11-02-牛叉！Vue3-彻底封神！](http://mp.weixin.qq.com/s/CS729fcVwXNl5ReFeYBKuA)  
-- [2025-10-31-localStorage-的使用越来越少了？](http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ)  
 - [2025-10-31-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA)  
+- [2025-10-31-localStorage-的使用越来越少了？](http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ)  
 - [2025-10-30-我X，终于能用Sora-2了](http://mp.weixin.qq.com/s/DFHjS3ZccLmlk4gaH6JtSQ)  
 - [2025-10-29-Lodash-已死？作者发声了，这个前端库未来如何？](http://mp.weixin.qq.com/s/EFa2ckkesEVdr_3TEThFCg)  
 - [2025-10-28-尤雨溪：未来-Vite-将会收费](http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw)  
 - [2025-10-27-首款-Vue3-像素风的-UI-组件库正式发布！](http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA)  
 - [2025-10-25-Vue3-神级工具：终于可以实现打字的动画效果了！](http://mp.weixin.qq.com/s/dQ8Gtagybc4IPdqTkwfTgw)  
-- [2025-10-24-收集并总结了一套前端面试题，非常齐全](http://mp.weixin.qq.com/s/rgPoiTJkaPWyb88b4sZ0zA)  
 - [2025-10-24-这-10-个-API-，能让你网页性能上一个档次](http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg)  
+- [2025-10-24-收集并总结了一套前端面试题，非常齐全](http://mp.weixin.qq.com/s/rgPoiTJkaPWyb88b4sZ0zA)  
 - [2025-10-23-Vue3-这两个方法，将掀起组件创建新狂潮！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506015&idx=1&sn=279e9db4922613d756455c027c9ce53b&chksm=ce45cdcef93244d8501ea7272b189603a47128a7c499612f1b2179745ef4789ed6b35e39b21d#rd)  
-- [2025-10-22-五分钟，把公司的官网改成了赛博朋克风](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506008&idx=1&sn=686688f5dc257755c743b4ad1784cb3b&chksm=ce45cdc9f93244df30917b9841b851e8773ac7ff04efee9d26dd982b08d82f460bfb462548d4#rd)  
 - [2025-10-22-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/Y6JCbTTmSKQfBTiXjf3agA)  
+- [2025-10-22-五分钟，把公司的官网改成了赛博朋克风](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506008&idx=1&sn=686688f5dc257755c743b4ad1784cb3b&chksm=ce45cdc9f93244df30917b9841b851e8773ac7ff04efee9d26dd982b08d82f460bfb462548d4#rd)  
 - [2025-10-21-ElementPlus-被发现重大-BUG！可能会让页面崩掉！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505972&idx=1&sn=2df2f9612b967fe0953a067fd7b467c3&chksm=ce45cda5f93244b3f4512508feec47029fb959c24df48065009f037b60120c55c1b112aa811c#rd)  
-- [2025-10-20-离谱！裁员裁出新高度了，比去年还夸张。。。](http://mp.weixin.qq.com/s/xptAyImS6lgutyyZQA3v_Q)  
-- [2025-10-19-天塌了！3w-Star-的前端启蒙项目，被一夜强制清空！](http://mp.weixin.qq.com/s/CeVyJ_JzYoRx9FJEXjhnXA)  
-- [2025-10-18-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/dWOkb_3JssjduSIi2IGnzw)  
-- [2025-10-17-Snow-Admin：技术新、功能丰富、简单易用的开源的后台](http://mp.weixin.qq.com/s/pU6WSGUvX-4il-zbeYC-yg)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2025-11-07-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg) ![](/assets/new.png)  
-- [2025-11-06-HTML-的隐藏宝藏：&lt;output&gt;-标签](http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA) ![](/assets/new.png)  
+- [2025-11-07-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg)  
+- [2025-11-06-HTML-的隐藏宝藏：&lt;output&gt;-标签](http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA)  
 - [2025-11-05-这份HTTP重定向问题快速排查指南，真的帮了大忙！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528201&idx=1&sn=539ad6a4590d63eb43c513822bcecd79&chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd)  
 - [2025-11-04-Cursor-原理之窥探提示词](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528155&idx=1&sn=15be02cf1051e4e2886d409496e2909b&chksm=f992680acee5e11c031f93746b269657ecfd6fae69cdb4b21a7bceb43b94781fabea22a7e30f#rd)  
 - [2025-11-03-JavaScript还能这样写？！ES2025新语法让代码优雅到极致](http://mp.weixin.qq.com/s/NyGbNHCBcOh1OabRxUKYew)  
