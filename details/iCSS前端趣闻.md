@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-06-06 08:46:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-08 22:09:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## iCSS前端趣闻
 
 
 
 
+- [2025-11-05-当-AI-开始「偷懒」：一次对抗-AI-架构限制的工程实践](http://mp.weixin.qq.com/s/EqZkL7xERKgmV2RDMKhijQ) 
 - [2025-06-04-虾皮（Shopee）大量前端社招-&amp;-实习生岗位推荐](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499451&idx=1&sn=1eadbc4ec8c1f58a39a33509cdbcd9b1&chksm=ce269d4df951145b31f249309992daf2e8c4d16b398f320c164c837e581b9fd9aedec69f8e99#rd) 
 - [2025-02-26-浏览器原生「磁吸」效果！Anchor-Positioning-锚点定位神器解析](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499441&idx=1&sn=cb6713ff9b3dfeef2fe8908e75ebd8b1&chksm=ce269d47f9511451ba413febbae93eb3d770c48e41fa4986c29649f855b8e448304dd2631123#rd) 
 - [2025-02-19-2025，重新认识-HTML！](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499414&idx=1&sn=3685ff0fe846d50843519f482f8f4029&chksm=ce269d60f951147662e21de956a80781f52c29d85c14d765f13d93726d4d97c648d408add397#rd) 
@@ -18,16 +19,16 @@
 - [2024-11-14-State-Of-CSS-2024-出炉！开发者最喜欢的-CSS-新功能是？](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499265&idx=1&sn=5b2840e30ab63c038c7ac63b39f16227&chksm=ce269df7f95114e1bb2c162bc7f374aea2b4651437090cc836f35852e1803851b784dd9f6d81#rd) 
 - [2024-11-11-涨姿势了，超有意思的粘性气泡-Loading-效果](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499250&idx=1&sn=6407cb765b1f8666467d11c301adc28e&chksm=ce269e04f951171222c5eb3ad5eb9071727523dd21da93765497371e38c87bbd2c600f0f5b1b#rd) 
 - [2024-11-07-前端工程师的-AI-DAY-来啦！12-月-7-日，厦门见！](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499091&idx=1&sn=bbe21f301b65890e7b619da6b09baf10&chksm=ce269ea5f95117b34f5bb7e715dda1bc399eb865a700fb0007824473d90e15d2e1edf45e8e46#rd) 
-- [2023-11-09-太强了！看看人家小姐姐整理的面试题库！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497222&idx=1&sn=24bc9c1a110b2b44fd317f582f244853&chksm=ce2695f0f9511ce6e3527b11d84ca4efc3011017d25ad7f84c586b1af60569c88da836c84f49#rd) 
 - [2023-11-09-下周开课！21天短知识打卡课，报名进行中。速度耐力专题](https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&mid=2653624698&idx=2&sn=bc899f0c5cd37a664ec3afa026bf39c5&chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd) 
+- [2023-11-09-太强了！看看人家小姐姐整理的面试题库！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497222&idx=1&sn=24bc9c1a110b2b44fd317f582f244853&chksm=ce2695f0f9511ce6e3527b11d84ca4efc3011017d25ad7f84c586b1af60569c88da836c84f49#rd) 
 - [2023-11-06-语雀是如何防止前端数据被异常篡改并且复原数据的？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497207&idx=1&sn=ad0b6ce106aff6f76d0a063617b7193e&chksm=ce269601f9511f176d70d6184e9b99c6cca394e14c8bca1f40ff19c214d8a42e156dff47477d#rd) 
 - [2023-11-03-一套被严重低估的-Web-面试题库！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497188&idx=1&sn=6002b5a353c92ae300ecd39bda442bc7&chksm=ce269612f9511f04611c3a30edb03a654b149b4e1eb410a0e0e4c6c7ba30d84da3f8422b6706#rd) 
 - [2023-11-02-Chrome-118：CSS-@scope-规则-来了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497175&idx=1&sn=0185510abce5c9854cec9245782bc7c4&chksm=ce269621f9511f375e60c0774e3d0955ceb284d700a9cf79b8e6ea1b35848585cd6ba8602045#rd) 
 - [2023-10-31-Vue3-终于崛起了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497172&idx=1&sn=6840d906464e15b6be6ae88ada5f874b&chksm=ce269622f9511f34cc2b8bfbba45674c627c1534c21725a711836c00b3aebcff7bcf0d99be1c#rd) 
 - [2023-10-30-Vue-3.3.6-发布，得益于-WeakMap，它更快了](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497158&idx=1&sn=b416866ba0571097fd8a0c5da1ef06e3&chksm=ce269630f9511f26bc35185199458236e7c5f9a953f4fd2524b6066e9b09f33c9eab5259065e#rd) 
 - [2023-10-26-前端已成气候](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497155&idx=1&sn=860614b532d046a728efa67f93837e20&chksm=ce269635f9511f23be05a4f1f2f74df8a98b54df493939b1fb736a0ec732021ea147cb1b0114#rd) 
-- [2023-10-25-我的-《CSS-技术揭秘与实战通关》-限时-5-折！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497141&idx=2&sn=243ff28556b61e04899ff23b4a6004bd&chksm=ce269643f9511f552c61b6537ad00d2f7c230681c67ab88a226ddab93c2fa9ce22bf0d5c1c9b#rd) 
 - [2023-10-25-【动画进阶】单标签下多色块随机文字随机颜色动画](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497141&idx=1&sn=43432acb9742cd607fca2e4d607b8c33&chksm=ce269643f9511f555086463e7d9efe015e658b69dfc41cd6654e2c4bc43e3100de8563849dfe#rd) 
+- [2023-10-25-我的-《CSS-技术揭秘与实战通关》-限时-5-折！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497141&idx=2&sn=243ff28556b61e04899ff23b4a6004bd&chksm=ce269643f9511f552c61b6537ad00d2f7c230681c67ab88a226ddab93c2fa9ce22bf0d5c1c9b#rd) 
 - [2023-10-24-最近，前端面试真疯了。。。](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496953&idx=1&sn=4c7a76a65a3bb711201b5f23a116c3cb&chksm=ce26970ff9511e19e9d31a25ac054b4e2d1b93941b322fb954ec2d1102fbfbbdcc5bafcb7bc6#rd) 
 - [2023-10-23-小技巧-|-渐变消失遮罩的多种实现方式](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496941&idx=1&sn=c3f322cd8e4b2565233c8c9939cce702&chksm=ce26971bf9511e0d16cadc8c44e84fe5301f233866f5d26827ca32fadd3c8a0cbed540224dc8#rd) 
 - [2023-10-19-【Amazing】还原拉斯维加斯球数字动画](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496921&idx=1&sn=e2522177ce1785b0b9efeec706f18b1c&chksm=ce26972ff9511e3995665fae4ad66458a8a669cad977a7d93a0bd8e5e68879a3a26b1370bb79#rd) 
@@ -47,8 +48,8 @@
 - [2023-07-04-这可能是我见过最好最全的JavaScript题库！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496031&idx=1&sn=88d15ed0c150c55c1eb86db636f03b8e&chksm=ce2692a9f9511bbfa1a356a83a7ff689731e694e125e7cf1578a6e251945d7fbbe837143e78a#rd) 
 - [2023-07-03-复杂树形组件样式？纯-CSS-不在话下！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496016&idx=1&sn=e501bbd85aace6c72f25ae96a09b1753&chksm=ce2692a6f9511bb0dbd51caf33c168cfcd57ebbddaba5e5f212faea137bee922337f90d39a2d#rd) 
 - [2023-06-28-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496013&idx=1&sn=5e7eb417e3c98ccc055c76614ec35c8c&chksm=ce2692bbf9511badd2a03973232cd6bb826f61ab297f94dfb575577a2c0d5bd5ebfbc03caf27#rd) 
-- [2023-06-27-TQL，巧用-CSS-实现动态线条-Loading-动画](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495991&idx=1&sn=fa13fcd2547b285cef912f8808e630ce&chksm=ce2692c1f9511bd73e49442c15f7fed81d4a010851671015e1b72b9d4620a1c7b2236e1700c1#rd) 
 - [2023-06-27-我的《CSS-技术揭秘与实战通关》上线了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495991&idx=2&sn=e1f7b6c56a357ddc9620212537848481&chksm=ce2692c1f9511bd7269bdb5326435db3555000a28718900780c67979aa50f26609ceef05c0e3#rd) 
+- [2023-06-27-TQL，巧用-CSS-实现动态线条-Loading-动画](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495991&idx=1&sn=fa13fcd2547b285cef912f8808e630ce&chksm=ce2692c1f9511bd73e49442c15f7fed81d4a010851671015e1b72b9d4620a1c7b2236e1700c1#rd) 
 - [2023-06-21-放心，前端不会死](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495922&idx=1&sn=97e4b38a9f838225117d7a3ef4c5b48c&chksm=ce269304f9511a12939255920e5ea671bf0e7c71fa2e332f37772bb74c70997322aa0b63df20#rd) 
 - [2023-06-20-Amazing！！单标签下的日间/黑夜模式切换按钮效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495893&idx=1&sn=4585f6741ef2bcb1330b1131533e4899&chksm=ce269323f9511a35c1425715f4d0d2553ef039a10f32ab29f4dac0097820cda7262554625def#rd) 
 - [2023-06-19-我的《CSS-技术揭秘与实战通关》上线了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495854&idx=1&sn=0934f355eb62865561981ed8f7b03b11&chksm=ce269358f9511a4ee4f40b4518669fc53f8b4e3911ab4c99f253699ab83aadf28db6ce383b3c#rd) 

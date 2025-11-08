@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-08 10:56:46，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-08 22:09:07，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,13 +23,13 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [iCSS前端趣闻](#icss前端趣闻)  
+- [iCSS前端趣闻](#icss前端趣闻)![](/assets/dot.png)   
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -202,10 +202,10 @@
 </summary>
 
 
-- [2025-11-07-前端全球人气最高-UI-组件库，宣布接入-AI](http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ) ![](/assets/new.png)  
-- [2025-11-06-正式裁员15000人，赔偿N+4！](http://mp.weixin.qq.com/s/X2l82YLEBdIr9OKKdRPU9A) ![](/assets/new.png)  
-- [2025-11-05-继-HTML/CSS/JS-之后，前端的第四门语言诞生？](http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ) ![](/assets/new.png)  
-- [2025-11-05-苹果官网源码被曝光！用的不是-Vue-也不是-React](http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g) ![](/assets/new.png)  
+- [2025-11-07-前端全球人气最高-UI-组件库，宣布接入-AI](http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ)  
+- [2025-11-06-正式裁员15000人，赔偿N+4！](http://mp.weixin.qq.com/s/X2l82YLEBdIr9OKKdRPU9A)  
+- [2025-11-05-继-HTML/CSS/JS-之后，前端的第四门语言诞生？](http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ)  
+- [2025-11-05-苹果官网源码被曝光！用的不是-Vue-也不是-React](http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g)  
 - [2025-11-04-计算项目“屎山率”的工具库，想知道自己的项目有多“屎”吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506322&idx=1&sn=c64f0a9b873cda73bfef3800059adec1&chksm=ce45cc03f932451547edc3a3bbad17835aa5535a74f64d0e8e6e358b6deeab3c0f9744744c5f#rd)  
 - [2025-11-03-有了-MiniMax-M2，开发效率提升-300%](http://mp.weixin.qq.com/s/-7Cgh1g0xFkv_FBBRpO3bA)  
 - [2025-11-02-牛叉！Vue3-彻底封神！](http://mp.weixin.qq.com/s/CS729fcVwXNl5ReFeYBKuA)  
@@ -295,6 +295,7 @@
 </summary>
 
 
+- [2025-11-05-当-AI-开始「偷懒」：一次对抗-AI-架构限制的工程实践](http://mp.weixin.qq.com/s/EqZkL7xERKgmV2RDMKhijQ) ![](/assets/new.png)  
 - [2025-06-04-虾皮（Shopee）大量前端社招-&amp;-实习生岗位推荐](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499451&idx=1&sn=1eadbc4ec8c1f58a39a33509cdbcd9b1&chksm=ce269d4df951145b31f249309992daf2e8c4d16b398f320c164c837e581b9fd9aedec69f8e99#rd)  
 - [2025-02-26-浏览器原生「磁吸」效果！Anchor-Positioning-锚点定位神器解析](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499441&idx=1&sn=cb6713ff9b3dfeef2fe8908e75ebd8b1&chksm=ce269d47f9511451ba413febbae93eb3d770c48e41fa4986c29649f855b8e448304dd2631123#rd)  
 - [2025-02-19-2025，重新认识-HTML！](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499414&idx=1&sn=3685ff0fe846d50843519f482f8f4029&chksm=ce269d60f951147662e21de956a80781f52c29d85c14d765f13d93726d4d97c648d408add397#rd)  
@@ -308,13 +309,12 @@
 - [2024-11-14-State-Of-CSS-2024-出炉！开发者最喜欢的-CSS-新功能是？](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499265&idx=1&sn=5b2840e30ab63c038c7ac63b39f16227&chksm=ce269df7f95114e1bb2c162bc7f374aea2b4651437090cc836f35852e1803851b784dd9f6d81#rd)  
 - [2024-11-11-涨姿势了，超有意思的粘性气泡-Loading-效果](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499250&idx=1&sn=6407cb765b1f8666467d11c301adc28e&chksm=ce269e04f951171222c5eb3ad5eb9071727523dd21da93765497371e38c87bbd2c600f0f5b1b#rd)  
 - [2024-11-07-前端工程师的-AI-DAY-来啦！12-月-7-日，厦门见！](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499091&idx=1&sn=bbe21f301b65890e7b619da6b09baf10&chksm=ce269ea5f95117b34f5bb7e715dda1bc399eb865a700fb0007824473d90e15d2e1edf45e8e46#rd)  
-- [2023-11-09-太强了！看看人家小姐姐整理的面试题库！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497222&idx=1&sn=24bc9c1a110b2b44fd317f582f244853&chksm=ce2695f0f9511ce6e3527b11d84ca4efc3011017d25ad7f84c586b1af60569c88da836c84f49#rd)  
 - [2023-11-09-下周开课！21天短知识打卡课，报名进行中。速度耐力专题](https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&mid=2653624698&idx=2&sn=bc899f0c5cd37a664ec3afa026bf39c5&chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd)  
+- [2023-11-09-太强了！看看人家小姐姐整理的面试题库！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497222&idx=1&sn=24bc9c1a110b2b44fd317f582f244853&chksm=ce2695f0f9511ce6e3527b11d84ca4efc3011017d25ad7f84c586b1af60569c88da836c84f49#rd)  
 - [2023-11-06-语雀是如何防止前端数据被异常篡改并且复原数据的？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497207&idx=1&sn=ad0b6ce106aff6f76d0a063617b7193e&chksm=ce269601f9511f176d70d6184e9b99c6cca394e14c8bca1f40ff19c214d8a42e156dff47477d#rd)  
 - [2023-11-03-一套被严重低估的-Web-面试题库！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497188&idx=1&sn=6002b5a353c92ae300ecd39bda442bc7&chksm=ce269612f9511f04611c3a30edb03a654b149b4e1eb410a0e0e4c6c7ba30d84da3f8422b6706#rd)  
 - [2023-11-02-Chrome-118：CSS-@scope-规则-来了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497175&idx=1&sn=0185510abce5c9854cec9245782bc7c4&chksm=ce269621f9511f375e60c0774e3d0955ceb284d700a9cf79b8e6ea1b35848585cd6ba8602045#rd)  
 - [2023-10-31-Vue3-终于崛起了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497172&idx=1&sn=6840d906464e15b6be6ae88ada5f874b&chksm=ce269622f9511f34cc2b8bfbba45674c627c1534c21725a711836c00b3aebcff7bcf0d99be1c#rd)  
-- [2023-10-30-Vue-3.3.6-发布，得益于-WeakMap，它更快了](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497158&idx=1&sn=b416866ba0571097fd8a0c5da1ef06e3&chksm=ce269630f9511f26bc35185199458236e7c5f9a953f4fd2524b6066e9b09f33c9eab5259065e#rd)  
 - [查看更多 >](/details/iCSS前端趣闻.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-11-08-Kimi比想象中凶猛太多了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505029&idx=1&sn=467550348f8ad2e5ab77c48575f178b8&chksm=c2b3157af5c49c6c291e36172c83cac19f9b491a237aac95067ad4b5f731b94655732d6100fb#rd) ![](/assets/new.png)  
 - [2025-11-06-AI写作，到底哪家强？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505003&idx=1&sn=bba7715d0518d9fb40d1f32a066241a6&chksm=c2b31594f5c49c82c5ede566867637f78b2ae035d76b49c394a0c31340684e2a9206abd38429#rd)  
 - [2025-11-05-人到底能有多自律？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504963&idx=1&sn=04cd436021eb90392d3d52683d0c3155&chksm=c2b315bcf5c49caae5dbd8f381560f5542c9d289d51dec6ca1967b676f9f8c733383ac1f5c75#rd)  
 - [2025-11-04-顶级AI也是韭菜](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504919&idx=1&sn=7cb33367fdd8bfffde702328944ffdf1&chksm=c2b315e8f5c49cfe2d68e5f4c2d363ae49eaaaae6c975f6b05b79490b4de488e99a638e730bf#rd)  
@@ -407,7 +408,6 @@
 - [2025-10-07-OpenAI年度发布会，8亿人的狂欢](http://mp.weixin.qq.com/s/0x6nFtaVwCmFet4D9DyaEg)  
 - [2025-10-06-实测腾讯混元图像3.0，不愧是全球第一](http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ)  
 - [2025-10-04-我让AI写了个故事，给我看破防了](http://mp.weixin.qq.com/s/eJiuylG3tLFgfQsvSAL1ug)  
-- [2025-10-03-Claude-Sonnet-4.5解析，编程封神但远不止于此](http://mp.weixin.qq.com/s/BtyLPD3rjHUnX6SEnnpMSg)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
