@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-10 12:19:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-10 18:12:40，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-11-10-【早阅】超越Vibe-Codie](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277885&idx=1&sn=3d82e2fa828aafc9d42753388b907d4d&chksm=bcb9871c86100960c06dbb2bc7a6be3e8dea0243120aa1a4fa945118f840fd2fc61a25293ddd&scene=0#rd) ![](/assets/new.png)  
+- [2025-11-10-【早阅】超越Vibe-Codie](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277885&idx=1&sn=3d82e2fa828aafc9d42753388b907d4d&chksm=bcb9871c86100960c06dbb2bc7a6be3e8dea0243120aa1a4fa945118f840fd2fc61a25293ddd&scene=0#rd)  
 - [2025-11-07-【第3610期】OpenSpec-与-Spec-Kit：为你的团队选择合适的-AI-驱动开发流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277871&idx=1&sn=3af22db9e0ffa2d71ff4cd8b4435bccb&chksm=bc4533fc363024b6798179884124c9f1736f8df52d67b5b7f4ad370d3df797784efdf55580fd&scene=0#rd)  
 - [2025-11-06-【第3609期】使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277864&idx=1&sn=d1791d51add2a47c4007595ce4dbc08a&chksm=bca33e11985167e7271e21af78f46592b22583d62d7236680db6bcfa5038333dcb304a0ad804&scene=0#rd)  
 - [2025-11-05-【第3608期】Next.js-16-新特性解读：从异步参数到-Turbopack-默认化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277855&idx=1&sn=5e61452f4d216189051162d44606e4cc&chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&scene=0#rd)  
@@ -202,26 +202,26 @@
 </summary>
 
 
+- [2025-11-10-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506403&idx=1&sn=905e6d18f37eaab4c5326e606da00a82&chksm=ce45cc72f9324564d87876cee9c360ab1d4e313e956f624bd19d1618964460eb6251d6031c88#rd) ![](/assets/new.png)  
+- [2025-11-08-2025前端最新场景题](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506419&idx=1&sn=7b0ad158a985ebb44b4bf9cfeb668c1d&chksm=ce45cc62f932457477d9aad87c96a02cb457464efed0ce83e0b044aa4c9ffffaa818ea270f87#rd) ![](/assets/new.png)  
 - [2025-11-07-前端全球人气最高-UI-组件库，宣布接入-AI](http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ)  
 - [2025-11-06-正式裁员15000人，赔偿N+4！](http://mp.weixin.qq.com/s/X2l82YLEBdIr9OKKdRPU9A)  
-- [2025-11-05-继-HTML/CSS/JS-之后，前端的第四门语言诞生？](http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ)  
 - [2025-11-05-苹果官网源码被曝光！用的不是-Vue-也不是-React](http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g)  
+- [2025-11-05-继-HTML/CSS/JS-之后，前端的第四门语言诞生？](http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ)  
 - [2025-11-04-计算项目“屎山率”的工具库，想知道自己的项目有多“屎”吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506322&idx=1&sn=c64f0a9b873cda73bfef3800059adec1&chksm=ce45cc03f932451547edc3a3bbad17835aa5535a74f64d0e8e6e358b6deeab3c0f9744744c5f#rd)  
 - [2025-11-03-有了-MiniMax-M2，开发效率提升-300%](http://mp.weixin.qq.com/s/-7Cgh1g0xFkv_FBBRpO3bA)  
 - [2025-11-02-牛叉！Vue3-彻底封神！](http://mp.weixin.qq.com/s/CS729fcVwXNl5ReFeYBKuA)  
-- [2025-10-31-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA)  
 - [2025-10-31-localStorage-的使用越来越少了？](http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ)  
+- [2025-10-31-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA)  
 - [2025-10-30-我X，终于能用Sora-2了](http://mp.weixin.qq.com/s/DFHjS3ZccLmlk4gaH6JtSQ)  
 - [2025-10-29-Lodash-已死？作者发声了，这个前端库未来如何？](http://mp.weixin.qq.com/s/EFa2ckkesEVdr_3TEThFCg)  
 - [2025-10-28-尤雨溪：未来-Vite-将会收费](http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw)  
 - [2025-10-27-首款-Vue3-像素风的-UI-组件库正式发布！](http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA)  
 - [2025-10-25-Vue3-神级工具：终于可以实现打字的动画效果了！](http://mp.weixin.qq.com/s/dQ8Gtagybc4IPdqTkwfTgw)  
-- [2025-10-24-这-10-个-API-，能让你网页性能上一个档次](http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg)  
 - [2025-10-24-收集并总结了一套前端面试题，非常齐全](http://mp.weixin.qq.com/s/rgPoiTJkaPWyb88b4sZ0zA)  
+- [2025-10-24-这-10-个-API-，能让你网页性能上一个档次](http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg)  
 - [2025-10-23-Vue3-这两个方法，将掀起组件创建新狂潮！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506015&idx=1&sn=279e9db4922613d756455c027c9ce53b&chksm=ce45cdcef93244d8501ea7272b189603a47128a7c499612f1b2179745ef4789ed6b35e39b21d#rd)  
-- [2025-10-22-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/Y6JCbTTmSKQfBTiXjf3agA)  
 - [2025-10-22-五分钟，把公司的官网改成了赛博朋克风](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506008&idx=1&sn=686688f5dc257755c743b4ad1784cb3b&chksm=ce45cdc9f93244df30917b9841b851e8773ac7ff04efee9d26dd982b08d82f460bfb462548d4#rd)  
-- [2025-10-21-ElementPlus-被发现重大-BUG！可能会让页面崩掉！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505972&idx=1&sn=2df2f9612b967fe0953a067fd7b467c3&chksm=ce45cda5f93244b3f4512508feec47029fb959c24df48065009f037b60120c55c1b112aa811c#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-11-10-CSS锚点定位实战-鼠标跟随交互效果](https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/) ![](/assets/new.png)  
 - [2025-11-03-垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/)  
 - [2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/)  
 - [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)  
@@ -531,7 +532,6 @@
 - [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/)  
 - [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/)  
 - [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)  
-- [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

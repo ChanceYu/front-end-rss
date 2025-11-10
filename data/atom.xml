@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-10T04:19:45.984Z</updated>
+    <updated>2025-11-10T10:12:40.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS锚点定位实战-鼠标跟随交互效果]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/"/>
+        <updated>2025-11-10T00:00:00.000Z</updated>
+        <published>2025-11-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506403&amp;idx=1&amp;sn=905e6d18f37eaab4c5326e606da00a82&amp;chksm=ce45cc72f9324564d87876cee9c360ab1d4e313e956f624bd19d1618964460eb6251d6031c88#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506403&amp;idx=1&amp;sn=905e6d18f37eaab4c5326e606da00a82&amp;chksm=ce45cc72f9324564d87876cee9c360ab1d4e313e956f624bd19d1618964460eb6251d6031c88#rd"/>
+        <updated>2025-11-10T00:00:00.000Z</updated>
+        <published>2025-11-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】超越Vibe Codie]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277885&amp;idx=1&amp;sn=3d82e2fa828aafc9d42753388b907d4d&amp;chksm=bcb9871c86100960c06dbb2bc7a6be3e8dea0243120aa1a4fa945118f840fd2fc61a25293ddd&amp;scene=0#rd</id>
@@ -64,16 +78,16 @@
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
-        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
-        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
+        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
+        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
+        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
-        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
-        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
+        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
+        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
+        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
@@ -148,16 +162,16 @@
         <published>2025-11-02T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[localStorage 的使用越来越少了？]]></title>
-        <id>http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ</id>
-        <link href="http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ"/>
+        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
+        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
+        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
-        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
-        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
+        <title type="html"><![CDATA[localStorage 的使用越来越少了？]]></title>
+        <id>http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ</id>
+        <link href="http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[10 个提升 Vue3 性能的实用技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528057&amp;idx=1&amp;sn=9b22a4ddd4da9b1606703a8c1233efe9&amp;chksm=f99268a8cee5e1be7c855e2ac12f41590d3581f5e9ac75a09d0c997b18c3e997db8af3877d31#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528057&amp;idx=1&amp;sn=9b22a4ddd4da9b1606703a8c1233efe9&amp;chksm=f99268a8cee5e1be7c855e2ac12f41590d3581f5e9ac75a09d0c997b18c3e997db8af3877d31#rd"/>
-        <updated>2025-10-21T00:00:00.000Z</updated>
-        <published>2025-10-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编辑器也有邪修？盘点VS Code邪门/有趣的扩展]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623213&amp;idx=2&amp;sn=8b8b4a9293b29341368bf58d554fa784&amp;chksm=802258ecb755d1fa37f9f1aeec95e0f7186d472b5e6d154555031169408b0a05aca7656ef5a5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623213&amp;idx=2&amp;sn=8b8b4a9293b29341368bf58d554fa784&amp;chksm=802258ecb755d1fa37f9f1aeec95e0f7186d472b5e6d154555031169408b0a05aca7656ef5a5#rd"/>
-        <updated>2025-10-21T00:00:00.000Z</updated>
-        <published>2025-10-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3602期】fluth-vue: 融合响应式的promise流]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277690&amp;idx=1&amp;sn=6b53700a4cbdd5a593e6827b222da4c2&amp;chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277690&amp;idx=1&amp;sn=6b53700a4cbdd5a593e6827b222da4c2&amp;chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&amp;scene=0#rd"/>
         <updated>2025-10-21T00:00:00.000Z</updated>
         <published>2025-10-21T00:00:00.000Z</published>
     </entry>
