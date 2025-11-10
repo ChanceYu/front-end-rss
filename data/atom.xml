@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-08T22:08:09.034Z</updated>
+    <updated>2025-11-10T04:19:45.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】超越Vibe Codie]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277885&amp;idx=1&amp;sn=3d82e2fa828aafc9d42753388b907d4d&amp;chksm=bcb9871c86100960c06dbb2bc7a6be3e8dea0243120aa1a4fa945118f840fd2fc61a25293ddd&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277885&amp;idx=1&amp;sn=3d82e2fa828aafc9d42753388b907d4d&amp;chksm=bcb9871c86100960c06dbb2bc7a6be3e8dea0243120aa1a4fa945118f840fd2fc61a25293ddd&amp;scene=0#rd"/>
+        <updated>2025-11-10T00:00:00.000Z</updated>
+        <published>2025-11-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
         <id>http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3602期】fluth-vue: 融合响应式的promise流]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277690&amp;idx=1&amp;sn=6b53700a4cbdd5a593e6827b222da4c2&amp;chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277690&amp;idx=1&amp;sn=6b53700a4cbdd5a593e6827b222da4c2&amp;chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&amp;scene=0#rd"/>
-        <updated>2025-10-21T00:00:00.000Z</updated>
-        <published>2025-10-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 25.0 arrives]]></title>
-        <id>https://nodeweekly.com/issues/597</id>
-        <link href="https://nodeweekly.com/issues/597"/>
         <updated>2025-10-21T00:00:00.000Z</updated>
         <published>2025-10-21T00:00:00.000Z</published>
     </entry>
