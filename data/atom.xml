@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-11T18:14:39.743Z</updated>
+    <updated>2025-11-11T22:10:08.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[就因为package.json里少了个^号，我们公司赔了客户十万块]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528236&amp;idx=1&amp;sn=6c233f8bef10fdcf765b6c1268bcb09e&amp;chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528236&amp;idx=1&amp;sn=6c233f8bef10fdcf765b6c1268bcb09e&amp;chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd"/>
+        <updated>2025-11-11T00:00:00.000Z</updated>
+        <published>2025-11-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3611期】优化网页字体]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277889&amp;idx=1&amp;sn=15b1ef41021b7f6c98ebffb6fd688113&amp;chksm=bc08e478e5229fa296e18e78f4e74c45c0f2d5637b9746a25450dcd8a8194292852505990971&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
         <id>http://mp.weixin.qq.com/s/Y6JCbTTmSKQfBTiXjf3agA</id>
         <link href="http://mp.weixin.qq.com/s/Y6JCbTTmSKQfBTiXjf3agA"/>
-        <updated>2025-10-22T00:00:00.000Z</updated>
-        <published>2025-10-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623222&amp;idx=1&amp;sn=d6beb9df545fb84d61b4fec79eb63ce6&amp;chksm=802258f7b755d1e138435b6195c96ba1e0a6f6307a3888061080cb5f22fe6a155f776559419b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623222&amp;idx=1&amp;sn=d6beb9df545fb84d61b4fec79eb63ce6&amp;chksm=802258f7b755d1e138435b6195c96ba1e0a6f6307a3888061080cb5f22fe6a155f776559419b#rd"/>
         <updated>2025-10-22T00:00:00.000Z</updated>
         <published>2025-10-22T00:00:00.000Z</published>
     </entry>

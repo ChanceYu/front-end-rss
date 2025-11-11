@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-12 02:14:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-12 06:10:08，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600) ![](/assets/new.png)  
+- [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600)  
 - [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599)  
 - [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598)  
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597)  
@@ -264,6 +264,8 @@
 </summary>
 
 
+- [2025-11-11-就因为package.json里少了个^号，我们公司赔了客户十万块](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528236&idx=1&sn=6c233f8bef10fdcf765b6c1268bcb09e&chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd) ![](/assets/new.png)  
+- [2025-11-10-有效防止重复提交的6个方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528227&idx=1&sn=39a73385b8621b312c2aa62e301e5576&chksm=f99269f2cee5e0e4fff3a755541bd2f41b9fc25fa7853e0c8bc8b3a892ad73af556a904bf3d9#rd) ![](/assets/new.png)  
 - [2025-11-07-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg)  
 - [2025-11-06-HTML-的隐藏宝藏：&lt;output&gt;-标签](http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA)  
 - [2025-11-05-这份HTTP重定向问题快速排查指南，真的帮了大忙！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528201&idx=1&sn=539ad6a4590d63eb43c513822bcecd79&chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd)  
@@ -282,8 +284,6 @@
 - [2025-10-17-Node.js-25-正式发布：性能飙升、安全升级、全面向-Web-靠拢！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528042&idx=1&sn=2ad5e4d067e77e6b0b7712166746acb1&chksm=f99268bbcee5e1ad4efca0f669b085cc37c082190f4bc3551d77ff3c3c83c147170b15f1cc73#rd)  
 - [2025-10-16-2025年-Node.js-新模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528016&idx=1&sn=814919601abb50184441adefee5cc299&chksm=f9926881cee5e197d23e1673e1cbcaf0feee776f5a9ce74827f08915328faf034c79fb3cbc4b#rd)  
 - [2025-10-15-Cursor-1.7的这些重要更新，别忽视！（最完全讲解版）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528008&idx=1&sn=c5d2c73fb3c11b329722541cf0b53f12&chksm=f9926899cee5e18fd757e1e6691a9a2bc626c7be6553a034fb57ceee7c33723b4d06286a4fe2#rd)  
-- [2025-10-14-React-组件设计：9-种让你的-UI-坚不可摧的架构模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528006&idx=1&sn=85be703d2aacb351c8529eabc10c88bf&chksm=f9926897cee5e1817909ddf429f268df67eb88180aeb589b1c4d68814b985930fa8128286644#rd)  
-- [2025-10-13-大文件上传的终极指南：如何优雅处理GB级文件传输？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527990&idx=1&sn=da2de43f12a9228d63d9aa7ddd377972&chksm=f99268e7cee5e1f1e808ef2a29c5350985472d81648b8a5a749fcc95265e077102e015e50c19#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
