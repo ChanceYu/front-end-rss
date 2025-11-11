@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-12 00:12:32，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-12 02:14:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600) ![](/assets/new.png)  
 - [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599)  
 - [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598)  
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597)  
@@ -66,7 +67,6 @@
 - [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)  
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
-- [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -140,9 +140,9 @@
 </summary>
 
 
-- [2025-11-11-确认裁员了，很严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s/R2PU54bvaIn4bmStnLGtwg) ![](/assets/new.png)  
-- [2025-11-10-放下技术焦虑：越来越多公司重回单体架构的真相](http://mp.weixin.qq.com/s/BGMVlW5HJ6fgZ4MtPFZ4Og) ![](/assets/new.png)  
-- [2025-11-10-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s/Nvj2Ev_hMGdrbkIjxHsyHw) ![](/assets/new.png)  
+- [2025-11-11-确认裁员了，很严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s/R2PU54bvaIn4bmStnLGtwg)  
+- [2025-11-10-放下技术焦虑：越来越多公司重回单体架构的真相](http://mp.weixin.qq.com/s/BGMVlW5HJ6fgZ4MtPFZ4Og)  
+- [2025-11-10-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s/Nvj2Ev_hMGdrbkIjxHsyHw)  
 - [2025-11-05-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623292&idx=1&sn=ca6905ab1eac95d9507c1bbf0c66cb3a&chksm=802258bdb755d1abc7b42695a9599d6a92d25600f93efa71d270b7fce5f3d5aa7adea84ec0ea#rd)  
 - [2025-11-04-双-Token-认证机制：从原理到实践的完整实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=2&sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd)  
 - [2025-11-04-山姆改版遭差评轰炸！会员怒喷：开除-X-里高管，让-X-里系滚蛋。山姆连夜行动…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=1&sn=0bac501acefbd41bc24ad1416342ee6d&chksm=802258a1b755d1b788fbec76059eb5de4b8bce943bf95635dba2e3d515f215fcf605f773e37b#rd)  

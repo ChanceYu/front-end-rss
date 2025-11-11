@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-11-05 20:20:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-12 02:14:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600) 
 - [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599) 
 - [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598) 
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597) 
