@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-11T10:11:54.346Z</updated>
+    <updated>2025-11-11T16:12:33.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -148,16 +148,16 @@
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧]]></title>
-        <id>http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w</id>
-        <link href="http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w"/>
+        <title type="html"><![CDATA[中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！]]></title>
+        <id>http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w</id>
+        <link href="http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w"/>
         <updated>2025-11-03T00:00:00.000Z</updated>
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！]]></title>
-        <id>http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w</id>
-        <link href="http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w"/>
+        <title type="html"><![CDATA[好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧]]></title>
+        <id>http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w</id>
+        <link href="http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w"/>
         <updated>2025-11-03T00:00:00.000Z</updated>
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
