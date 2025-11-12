@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-12 16:15:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-12 18:12:06，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,14 +22,14 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -171,7 +171,7 @@
 </summary>
 
 
-- [2025-11-11-完整前端代码突然公开？苹果把App-Store“老底”都揭了，开发者社区炸锅！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526357&idx=1&sn=6ef10df8180a60a78224c93566659990&chksm=f952d296ce255b80ecd68e067e2fb215fe727f80c7c370415b28662f6a0c1a40133fdac2f7d7#rd) ![](/assets/new.png)  
+- [2025-11-11-完整前端代码突然公开？苹果把App-Store“老底”都揭了，开发者社区炸锅！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526357&idx=1&sn=6ef10df8180a60a78224c93566659990&chksm=f952d296ce255b80ecd68e067e2fb215fe727f80c7c370415b28662f6a0c1a40133fdac2f7d7#rd)  
 - [2025-10-28-“神级模型”Gemini-3.0实力刷屏！联手谷歌全新氛围编程工具重塑前端，如今只差官宣](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526345&idx=1&sn=9df1f4feca9da1a9dd57bd9f8dbc3b5f&chksm=f952d28ace255b9c9a2dd30b6b0825e783ff31209d2f5719e83d7ae66b14944e3202d3a732e4#rd)  
 - [2025-10-19-WebAssembly-3.0-发布，64-位内存、垃圾回收全都有，先别激动，组件模型还没做完！](http://mp.weixin.qq.com/s/f71ibOfEmyESbBjOTWodMQ)  
 - [2025-09-28-10个面向前端开发者的MCP服务器](http://mp.weixin.qq.com/s/FIPF82cJiO3GKKmrLwvIuw)  
@@ -388,6 +388,8 @@
 </summary>
 
 
+- [2025-11-11-94岁的巴菲特，今天发布了谢幕信，他在结尾有几句关于人生终局的思考。-我看完很感动，特地整理出来，分享给每一个正在赶路的你。-1、别老为过去的错误自责，哪怕从中吸取一点点教训也好，然后就继续往前走吧，让自己变得更好这件事，从来都不怕晚。-2、现在就想想，你希望自己的讣告上写些什么，然后活出配得上那段文字的人生。-3、伟大并不是靠积累大笔财富，赢得铺天盖地的曝光，或者掌握](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505062&idx=1&sn=43b223d9c2cd6eba160713a87bd32f8b&chksm=c2b31559f5c49c4f52fe09f15cf6758fd15c43eb87e11650d28f4879a002edfcbe3870bc5555#rd) ![](/assets/new.png)  
+- [2025-11-10-AI六巨头同台，剧透未来10年剧本](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505060&idx=1&sn=853e50b8e267707afbb9a5f2b99783ed&chksm=c2b3155bf5c49c4d6d3001fbf4064e14770618fde44a99e6a2c13df9977f23609aca0d1b0677#rd) ![](/assets/new.png)  
 - [2025-11-08-Kimi比想象中凶猛太多了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505029&idx=1&sn=467550348f8ad2e5ab77c48575f178b8&chksm=c2b3157af5c49c6c291e36172c83cac19f9b491a237aac95067ad4b5f731b94655732d6100fb#rd)  
 - [2025-11-06-AI写作，到底哪家强？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505003&idx=1&sn=bba7715d0518d9fb40d1f32a066241a6&chksm=c2b31594f5c49c82c5ede566867637f78b2ae035d76b49c394a0c31340684e2a9206abd38429#rd)  
 - [2025-11-05-人到底能有多自律？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504963&idx=1&sn=04cd436021eb90392d3d52683d0c3155&chksm=c2b315bcf5c49caae5dbd8f381560f5542c9d289d51dec6ca1967b676f9f8c733383ac1f5c75#rd)  
@@ -406,8 +408,6 @@
 - [2025-10-16-去班味儿这件事，八爪鱼RPA敢做成这样？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504696&idx=1&sn=8b8b74a96786628f499ed10b97199805&chksm=c2b312c7f5c49bd1d2763272785bf289a6a8b31fdff478aa3cf8986c1de909d1a9b7317dc543#rd)  
 - [2025-10-13-我卸载了20个AI工具，只留了这一个](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504661&idx=1&sn=4abe3cec4e42521ed82f6184635721c3&chksm=c2b312eaf5c49bfc2ebe148a975b170248bf641d5f42a429cb07103a40a98d3205e21d367909#rd)  
 - [2025-10-07-OpenAI年度发布会，8亿人的狂欢](http://mp.weixin.qq.com/s/0x6nFtaVwCmFet4D9DyaEg)  
-- [2025-10-06-实测腾讯混元图像3.0，不愧是全球第一](http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ)  
-- [2025-10-04-我让AI写了个故事，给我看破防了](http://mp.weixin.qq.com/s/eJiuylG3tLFgfQsvSAL1ug)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
