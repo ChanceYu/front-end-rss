@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-12 06:10:08，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-12 14:16:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-11-12-Flashduty-RUM：开启真实用户观测新体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277894&idx=1&sn=6e94fcd9fdb978cb884517b28aa770cb&chksm=bc4a67bd02f091df505707357d29c3608b8af363119943973c4220fe70d70eb40b25e339e1e3&scene=0#rd) ![](/assets/new.png)  
 - [2025-11-11-【第3611期】优化网页字体](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277889&idx=1&sn=15b1ef41021b7f6c98ebffb6fd688113&chksm=bc08e478e5229fa296e18e78f4e74c45c0f2d5637b9746a25450dcd8a8194292852505990971&scene=0#rd)  
 - [2025-11-10-【早阅】超越Vibe-Codie](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277885&idx=1&sn=3d82e2fa828aafc9d42753388b907d4d&chksm=bcb9871c86100960c06dbb2bc7a6be3e8dea0243120aa1a4fa945118f840fd2fc61a25293ddd&scene=0#rd)  
 - [2025-11-07-【第3610期】OpenSpec-与-Spec-Kit：为你的团队选择合适的-AI-驱动开发流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277871&idx=1&sn=3af22db9e0ffa2d71ff4cd8b4435bccb&chksm=bc4533fc363024b6798179884124c9f1736f8df52d67b5b7f4ad370d3df797784efdf55580fd&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd)  
 - [2025-10-17-【早阅】Vite-不仅仅是构建工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277651&idx=1&sn=4cb0aa638ffa1bdecf692a40f5c6784c&chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&scene=0#rd)  
 - [2025-10-16-【早阅】使用-Kiro.dev-进行规范驱动开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277642&idx=1&sn=72be6f92d18c9717b90750902a58060c&chksm=bc9d55206f2592b9414341efb6cf4d01b6117c7fb8161a3a3e77444eaccb148e95115372e6bf&scene=0#rd)  
-- [2025-10-15-【第3600期】CSS-Grid：一个实用的思维模型与网格线的强大之处](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=1&sn=c62633fdee3bb8c02004898d5e9d366b&chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2025-11-11-就因为package.json里少了个^号，我们公司赔了客户十万块](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528236&idx=1&sn=6c233f8bef10fdcf765b6c1268bcb09e&chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd) ![](/assets/new.png)  
-- [2025-11-10-有效防止重复提交的6个方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528227&idx=1&sn=39a73385b8621b312c2aa62e301e5576&chksm=f99269f2cee5e0e4fff3a755541bd2f41b9fc25fa7853e0c8bc8b3a892ad73af556a904bf3d9#rd) ![](/assets/new.png)  
+- [2025-11-11-就因为package.json里少了个^号，我们公司赔了客户十万块](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528236&idx=1&sn=6c233f8bef10fdcf765b6c1268bcb09e&chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd)  
+- [2025-11-10-有效防止重复提交的6个方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528227&idx=1&sn=39a73385b8621b312c2aa62e301e5576&chksm=f99269f2cee5e0e4fff3a755541bd2f41b9fc25fa7853e0c8bc8b3a892ad73af556a904bf3d9#rd)  
 - [2025-11-07-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg)  
 - [2025-11-06-HTML-的隐藏宝藏：&lt;output&gt;-标签](http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA)  
 - [2025-11-05-这份HTTP重定向问题快速排查指南，真的帮了大忙！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528201&idx=1&sn=539ad6a4590d63eb43c513822bcecd79&chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd)  
