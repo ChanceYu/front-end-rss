@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-12 18:12:06，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-13 14:16:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-11-13-【早阅】Web性能之旅的7个层级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277901&idx=1&sn=333e2375349d1bdd871553a85abb2541&chksm=bcb4d972a08310eefe5513be99e8d1d7cad08f3686117eb696bd71b311a89e38c3c3dcc91423&scene=0#rd) ![](/assets/new.png)  
 - [2025-11-12-Flashduty-RUM：开启真实用户观测新体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277894&idx=1&sn=6e94fcd9fdb978cb884517b28aa770cb&chksm=bc4a67bd02f091df505707357d29c3608b8af363119943973c4220fe70d70eb40b25e339e1e3&scene=0#rd)  
 - [2025-11-11-【第3611期】优化网页字体](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277889&idx=1&sn=15b1ef41021b7f6c98ebffb6fd688113&chksm=bc08e478e5229fa296e18e78f4e74c45c0f2d5637b9746a25450dcd8a8194292852505990971&scene=0#rd)  
 - [2025-11-10-【早阅】超越Vibe-Codie](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277885&idx=1&sn=3d82e2fa828aafc9d42753388b907d4d&chksm=bcb9871c86100960c06dbb2bc7a6be3e8dea0243120aa1a4fa945118f840fd2fc61a25293ddd&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-10-21-【第3602期】fluth-vue:-融合响应式的promise流](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277690&idx=1&sn=6b53700a4cbdd5a593e6827b222da4c2&chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&scene=0#rd)  
 - [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd)  
 - [2025-10-17-【早阅】Vite-不仅仅是构建工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277651&idx=1&sn=4cb0aa638ffa1bdecf692a40f5c6784c&chksm=bcbe497aaa51fa9af227ad6b36e316a0bb09f519a2812544cae1123b18d0bc9f1f17fd158415&scene=0#rd)  
-- [2025-10-16-【早阅】使用-Kiro.dev-进行规范驱动开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277642&idx=1&sn=72be6f92d18c9717b90750902a58060c&chksm=bc9d55206f2592b9414341efb6cf4d01b6117c7fb8161a3a3e77444eaccb148e95115372e6bf&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-11-11-94岁的巴菲特，今天发布了谢幕信，他在结尾有几句关于人生终局的思考。-我看完很感动，特地整理出来，分享给每一个正在赶路的你。-1、别老为过去的错误自责，哪怕从中吸取一点点教训也好，然后就继续往前走吧，让自己变得更好这件事，从来都不怕晚。-2、现在就想想，你希望自己的讣告上写些什么，然后活出配得上那段文字的人生。-3、伟大并不是靠积累大笔财富，赢得铺天盖地的曝光，或者掌握](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505062&idx=1&sn=43b223d9c2cd6eba160713a87bd32f8b&chksm=c2b31559f5c49c4f52fe09f15cf6758fd15c43eb87e11650d28f4879a002edfcbe3870bc5555#rd) ![](/assets/new.png)  
-- [2025-11-10-AI六巨头同台，剧透未来10年剧本](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505060&idx=1&sn=853e50b8e267707afbb9a5f2b99783ed&chksm=c2b3155bf5c49c4d6d3001fbf4064e14770618fde44a99e6a2c13df9977f23609aca0d1b0677#rd) ![](/assets/new.png)  
+- [2025-11-11-94岁的巴菲特，今天发布了谢幕信，他在结尾有几句关于人生终局的思考。-我看完很感动，特地整理出来，分享给每一个正在赶路的你。-1、别老为过去的错误自责，哪怕从中吸取一点点教训也好，然后就继续往前走吧，让自己变得更好这件事，从来都不怕晚。-2、现在就想想，你希望自己的讣告上写些什么，然后活出配得上那段文字的人生。-3、伟大并不是靠积累大笔财富，赢得铺天盖地的曝光，或者掌握](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505062&idx=1&sn=43b223d9c2cd6eba160713a87bd32f8b&chksm=c2b31559f5c49c4f52fe09f15cf6758fd15c43eb87e11650d28f4879a002edfcbe3870bc5555#rd)  
+- [2025-11-10-AI六巨头同台，剧透未来10年剧本](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505060&idx=1&sn=853e50b8e267707afbb9a5f2b99783ed&chksm=c2b3155bf5c49c4d6d3001fbf4064e14770618fde44a99e6a2c13df9977f23609aca0d1b0677#rd)  
 - [2025-11-08-Kimi比想象中凶猛太多了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505029&idx=1&sn=467550348f8ad2e5ab77c48575f178b8&chksm=c2b3157af5c49c6c291e36172c83cac19f9b491a237aac95067ad4b5f731b94655732d6100fb#rd)  
 - [2025-11-06-AI写作，到底哪家强？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505003&idx=1&sn=bba7715d0518d9fb40d1f32a066241a6&chksm=c2b31594f5c49c82c5ede566867637f78b2ae035d76b49c394a0c31340684e2a9206abd38429#rd)  
 - [2025-11-05-人到底能有多自律？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504963&idx=1&sn=04cd436021eb90392d3d52683d0c3155&chksm=c2b315bcf5c49caae5dbd8f381560f5542c9d289d51dec6ca1967b676f9f8c733383ac1f5c75#rd)  

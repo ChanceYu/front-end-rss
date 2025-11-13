@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-12T10:12:06.783Z</updated>
+    <updated>2025-11-13T06:16:26.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】Web性能之旅的7个层级]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277901&amp;idx=1&amp;sn=333e2375349d1bdd871553a85abb2541&amp;chksm=bcb4d972a08310eefe5513be99e8d1d7cad08f3686117eb696bd71b311a89e38c3c3dcc91423&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277901&amp;idx=1&amp;sn=333e2375349d1bdd871553a85abb2541&amp;chksm=bcb4d972a08310eefe5513be99e8d1d7cad08f3686117eb696bd71b311a89e38c3c3dcc91423&amp;scene=0#rd"/>
+        <updated>2025-11-13T00:00:00.000Z</updated>
+        <published>2025-11-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[就因为package.json里少了个^号，我们公司赔了客户十万块]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528236&amp;idx=1&amp;sn=6c233f8bef10fdcf765b6c1268bcb09e&amp;chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[什么？一套数字孪生三维可视化系统拖拖拽拽就搞定了？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528064&amp;idx=1&amp;sn=d0b9a21e84e47fccdd1f2259c5f3959a&amp;chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528064&amp;idx=1&amp;sn=d0b9a21e84e47fccdd1f2259c5f3959a&amp;chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd"/>
-        <updated>2025-10-22T00:00:00.000Z</updated>
-        <published>2025-10-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
-        <id>http://mp.weixin.qq.com/s/Y6JCbTTmSKQfBTiXjf3agA</id>
-        <link href="http://mp.weixin.qq.com/s/Y6JCbTTmSKQfBTiXjf3agA"/>
         <updated>2025-10-22T00:00:00.000Z</updated>
         <published>2025-10-22T00:00:00.000Z</published>
     </entry>

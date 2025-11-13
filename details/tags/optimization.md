@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-12 18:12:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-13 14:16:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-11-13-【早阅】Web性能之旅的7个层级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277901&idx=1&sn=333e2375349d1bdd871553a85abb2541&chksm=bcb4d972a08310eefe5513be99e8d1d7cad08f3686117eb696bd71b311a89e38c3c3dcc91423&scene=0#rd) 
 - [2025-11-11-【第3611期】优化网页字体](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277889&idx=1&sn=15b1ef41021b7f6c98ebffb6fd688113&chksm=bc08e478e5229fa296e18e78f4e74c45c0f2d5637b9746a25450dcd8a8194292852505990971&scene=0#rd) 
 - [2025-10-10-【第3599期】兼顾效率和性能！快手低代码平台在大型活动中的技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277567&idx=1&sn=b55f68b7f78cc47ffe2e936ac5fb9ec4&chksm=bc0b7689b5a774ba3226294ff38c195fd5d32acdc250e6dd7a8d6f08b0e4b6be131143d66f96&scene=0#rd) 
 - [2025-09-17-【第3589期】写好工具，智能体才更聪明：Claude-的自我优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277436&idx=1&sn=c42d1bb443644528beae154177405565&chksm=bc7ed3e1d74d40eb5e274503080e624ab4d71d5d359d1c7f7b24fe18596f69debc7925f4bd0b&scene=0#rd) 
