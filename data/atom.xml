@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-13T06:16:26.223Z</updated>
+    <updated>2025-11-14T06:16:01.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3612期】状态驱动 vs Signal驱动渲染]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277910&amp;idx=1&amp;sn=6f0e42078d52518928a8b7c6101a6d44&amp;chksm=bc945a3383f403516ea6ee446cd2c4f32a276bed2ea21e68e8fa59236e274beb3e033810e4a2&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277910&amp;idx=1&amp;sn=6f0e42078d52518928a8b7c6101a6d44&amp;chksm=bc945a3383f403516ea6ee446cd2c4f32a276bed2ea21e68e8fa59236e274beb3e033810e4a2&amp;scene=0#rd"/>
+        <updated>2025-11-14T00:00:00.000Z</updated>
+        <published>2025-11-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】Web性能之旅的7个层级]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277901&amp;idx=1&amp;sn=333e2375349d1bdd871553a85abb2541&amp;chksm=bcb4d972a08310eefe5513be99e8d1d7cad08f3686117eb696bd71b311a89e38c3c3dcc91423&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[90% 的前端都没摸过的 20 个 JS 神级 API！]]></title>
         <id>http://mp.weixin.qq.com/s/yZmT-bWzA1yJYYL2fB7fcg</id>
         <link href="http://mp.weixin.qq.com/s/yZmT-bWzA1yJYYL2fB7fcg"/>
-        <updated>2025-10-22T00:00:00.000Z</updated>
-        <published>2025-10-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么？一套数字孪生三维可视化系统拖拖拽拽就搞定了？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528064&amp;idx=1&amp;sn=d0b9a21e84e47fccdd1f2259c5f3959a&amp;chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528064&amp;idx=1&amp;sn=d0b9a21e84e47fccdd1f2259c5f3959a&amp;chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd"/>
         <updated>2025-10-22T00:00:00.000Z</updated>
         <published>2025-10-22T00:00:00.000Z</published>
     </entry>
