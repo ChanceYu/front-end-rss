@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-11-08 02:14:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-15 02:14:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761) 
 - [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760) 
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759) 
 - [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758) 
