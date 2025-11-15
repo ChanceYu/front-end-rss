@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-14T18:14:35.475Z</updated>
+    <updated>2025-11-15T14:08:30.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528306&amp;idx=1&amp;sn=123119980f9a33dba2a6b3d5343f5e2c&amp;chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528306&amp;idx=1&amp;sn=123119980f9a33dba2a6b3d5343f5e2c&amp;chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd"/>
+        <updated>2025-11-14T00:00:00.000Z</updated>
+        <published>2025-11-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 高级插件，正式免费使用！]]></title>
+        <id>http://mp.weixin.qq.com/s/HKbgia3ZhVGx6rpmIpGuZQ</id>
+        <link href="http://mp.weixin.qq.com/s/HKbgia3ZhVGx6rpmIpGuZQ"/>
+        <updated>2025-11-14T00:00:00.000Z</updated>
+        <published>2025-11-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端到底用Nginx来做啥]]></title>
+        <id>http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw</id>
+        <link href="http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw"/>
+        <updated>2025-11-14T00:00:00.000Z</updated>
+        <published>2025-11-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3612期】状态驱动 vs Signal驱动渲染]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277910&amp;idx=1&amp;sn=6f0e42078d52518928a8b7c6101a6d44&amp;chksm=bc945a3383f403516ea6ee446cd2c4f32a276bed2ea21e68e8fa59236e274beb3e033810e4a2&amp;scene=0#rd</id>
@@ -27,6 +48,20 @@
         <link href="https://javascriptweekly.com/issues/761"/>
         <updated>2025-11-14T00:00:00.000Z</updated>
         <published>2025-11-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[转转商品中心微前端升级之路]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528267&amp;idx=1&amp;sn=5b61a3c83713139b8f27073183d136f1&amp;chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528267&amp;idx=1&amp;sn=5b61a3c83713139b8f27073183d136f1&amp;chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd"/>
+        <updated>2025-11-13T00:00:00.000Z</updated>
+        <published>2025-11-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有了这 20 个 JS 原生 API ，你可以不用装第三方库]]></title>
+        <id>http://mp.weixin.qq.com/s/uxa0L1nQx_T6U4_iyu_PMA</id>
+        <link href="http://mp.weixin.qq.com/s/uxa0L1nQx_T6U4_iyu_PMA"/>
+        <updated>2025-11-13T00:00:00.000Z</updated>
+        <published>2025-11-13T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】Web性能之旅的7个层级]]></title>
@@ -113,16 +148,16 @@
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
-        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
-        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
+        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
+        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
+        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
-        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
-        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
+        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
+        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
+        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
@@ -176,16 +211,16 @@
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！]]></title>
-        <id>http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w</id>
-        <link href="http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w"/>
+        <title type="html"><![CDATA[好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧]]></title>
+        <id>http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w</id>
+        <link href="http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w"/>
         <updated>2025-11-03T00:00:00.000Z</updated>
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧]]></title>
-        <id>http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w</id>
-        <link href="http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w"/>
+        <title type="html"><![CDATA[中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！]]></title>
+        <id>http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w</id>
+        <link href="http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w"/>
         <updated>2025-11-03T00:00:00.000Z</updated>
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
@@ -197,16 +232,16 @@
         <published>2025-11-02T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
-        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
-        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
+        <title type="html"><![CDATA[localStorage 的使用越来越少了？]]></title>
+        <id>http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ</id>
+        <link href="http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[localStorage 的使用越来越少了？]]></title>
-        <id>http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ</id>
-        <link href="http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ"/>
+        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
+        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
+        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
@@ -328,40 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/rCLPo6aEe42wI9Rhs1XoqA"/>
         <updated>2025-10-24T00:00:00.000Z</updated>
         <published>2025-10-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这 10 个 API ，能让你网页性能上一个档次]]></title>
-        <id>http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg</id>
-        <link href="http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg"/>
-        <updated>2025-10-24T00:00:00.000Z</updated>
-        <published>2025-10-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitest 4.0 and Next.js 16]]></title>
-        <id>https://javascriptweekly.com/issues/758</id>
-        <link href="https://javascriptweekly.com/issues/758"/>
-        <updated>2025-10-24T00:00:00.000Z</updated>
-        <published>2025-10-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI发布新浏览器，武林盟主要换人了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247504778&amp;idx=1&amp;sn=73a824aba2ea7ed9680d3c995516d4df&amp;chksm=c2b31275f5c49b632cc983d625debca4a2741fdcdb7199ac45f8d0e5b7e146391eb6749661c0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247504778&amp;idx=1&amp;sn=73a824aba2ea7ed9680d3c995516d4df&amp;chksm=c2b31275f5c49b632cc983d625debca4a2741fdcdb7199ac45f8d0e5b7e146391eb6749661c0#rd"/>
-        <updated>2025-10-23T00:00:00.000Z</updated>
-        <published>2025-10-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高频接口前端缓存解决方案：Service Worker + IndexedDB]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528070&amp;idx=1&amp;sn=62103345f9e84d85cad6d1459f926cce&amp;chksm=f9926857cee5e14190b0f890868c2f640159043e527d4613088522922dc05fdffed22053c36d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528070&amp;idx=1&amp;sn=62103345f9e84d85cad6d1459f926cce&amp;chksm=f9926857cee5e14190b0f890868c2f640159043e527d4613088522922dc05fdffed22053c36d#rd"/>
-        <updated>2025-10-23T00:00:00.000Z</updated>
-        <published>2025-10-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 这两个方法，将掀起组件创建新狂潮！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506015&amp;idx=1&amp;sn=279e9db4922613d756455c027c9ce53b&amp;chksm=ce45cdcef93244d8501ea7272b189603a47128a7c499612f1b2179745ef4789ed6b35e39b21d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506015&amp;idx=1&amp;sn=279e9db4922613d756455c027c9ce53b&amp;chksm=ce45cdcef93244d8501ea7272b189603a47128a7c499612f1b2179745ef4789ed6b35e39b21d#rd"/>
-        <updated>2025-10-23T00:00:00.000Z</updated>
-        <published>2025-10-23T00:00:00.000Z</published>
     </entry>
 </feed>
