@@ -14,25 +14,25 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-15 22:08:30，:rocket: 更新条数: +13， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-16 12:18:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
+- [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2025-11-14-把-Bug-曝光到全网，谷歌逼-FFmpeg-维护者“按时修复”，遭怒怼：别光用-AI-找-Bug，有本事你自己修啊！](http://mp.weixin.qq.com/s/n9LGY_SWO2jh_uV7nW3G_g) ![](/assets/new.png)  
-- [2025-11-14-前端到底用Nginx来做啥](http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw) ![](/assets/new.png)  
+- [2025-11-14-把-Bug-曝光到全网，谷歌逼-FFmpeg-维护者“按时修复”，遭怒怼：别光用-AI-找-Bug，有本事你自己修啊！](http://mp.weixin.qq.com/s/n9LGY_SWO2jh_uV7nW3G_g)  
+- [2025-11-14-前端到底用Nginx来做啥](http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw)  
 - [2025-11-11-确认裁员了，很严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s/R2PU54bvaIn4bmStnLGtwg)  
 - [2025-11-10-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s/Nvj2Ev_hMGdrbkIjxHsyHw)  
 - [2025-11-10-放下技术焦虑：越来越多公司重回单体架构的真相](http://mp.weixin.qq.com/s/BGMVlW5HJ6fgZ4MtPFZ4Og)  
@@ -202,26 +202,26 @@
 </summary>
 
 
-- [2025-11-15-2025前端最新场景题](http://mp.weixin.qq.com/s/LEY2Tnkj8l6TNE-i816aOA) ![](/assets/new.png)  
-- [2025-11-14-Vue3-高级插件，正式免费使用！](http://mp.weixin.qq.com/s/HKbgia3ZhVGx6rpmIpGuZQ) ![](/assets/new.png)  
-- [2025-11-13-有了这-20-个-JS-原生-API-，你可以不用装第三方库](http://mp.weixin.qq.com/s/uxa0L1nQx_T6U4_iyu_PMA) ![](/assets/new.png)  
+- [2025-11-15-2025前端最新场景题](http://mp.weixin.qq.com/s/LEY2Tnkj8l6TNE-i816aOA)  
+- [2025-11-14-Vue3-高级插件，正式免费使用！](http://mp.weixin.qq.com/s/HKbgia3ZhVGx6rpmIpGuZQ)  
+- [2025-11-13-有了这-20-个-JS-原生-API-，你可以不用装第三方库](http://mp.weixin.qq.com/s/uxa0L1nQx_T6U4_iyu_PMA)  
+- [2025-11-12-尤雨溪公司-VoidZero，十月份狂揽接近一亿？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506444&idx=1&sn=ab7e9132ae31a5a8d44ea6e9a121d113&chksm=ce45cf9df932468b3544c8cc52cd3641d313f30838b3daa3e6a8eef5c336dc75cab80333242f#rd) ![](/assets/new.png)  
+- [2025-11-11-官宣：前端调试-Websocket-的神器正式发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506425&idx=1&sn=c9dbfb166f110c729a796a793efbeb0a&chksm=ce45cc68f932457ec82c551b767ab80cfc4241334466c01d9c57ab460301088bdc305a6cf3d6#rd) ![](/assets/new.png)  
 - [2025-11-10-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506403&idx=1&sn=905e6d18f37eaab4c5326e606da00a82&chksm=ce45cc72f9324564d87876cee9c360ab1d4e313e956f624bd19d1618964460eb6251d6031c88#rd)  
 - [2025-11-08-2025前端最新场景题](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506419&idx=1&sn=7b0ad158a985ebb44b4bf9cfeb668c1d&chksm=ce45cc62f932457477d9aad87c96a02cb457464efed0ce83e0b044aa4c9ffffaa818ea270f87#rd)  
 - [2025-11-07-前端全球人气最高-UI-组件库，宣布接入-AI](http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ)  
 - [2025-11-06-正式裁员15000人，赔偿N+4！](http://mp.weixin.qq.com/s/X2l82YLEBdIr9OKKdRPU9A)  
-- [2025-11-05-继-HTML/CSS/JS-之后，前端的第四门语言诞生？](http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ)  
 - [2025-11-05-苹果官网源码被曝光！用的不是-Vue-也不是-React](http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g)  
+- [2025-11-05-继-HTML/CSS/JS-之后，前端的第四门语言诞生？](http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ)  
 - [2025-11-04-计算项目“屎山率”的工具库，想知道自己的项目有多“屎”吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506322&idx=1&sn=c64f0a9b873cda73bfef3800059adec1&chksm=ce45cc03f932451547edc3a3bbad17835aa5535a74f64d0e8e6e358b6deeab3c0f9744744c5f#rd)  
 - [2025-11-03-有了-MiniMax-M2，开发效率提升-300%](http://mp.weixin.qq.com/s/-7Cgh1g0xFkv_FBBRpO3bA)  
 - [2025-11-02-牛叉！Vue3-彻底封神！](http://mp.weixin.qq.com/s/CS729fcVwXNl5ReFeYBKuA)  
-- [2025-10-31-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA)  
 - [2025-10-31-localStorage-的使用越来越少了？](http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ)  
+- [2025-10-31-前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式](http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA)  
 - [2025-10-30-我X，终于能用Sora-2了](http://mp.weixin.qq.com/s/DFHjS3ZccLmlk4gaH6JtSQ)  
 - [2025-10-29-Lodash-已死？作者发声了，这个前端库未来如何？](http://mp.weixin.qq.com/s/EFa2ckkesEVdr_3TEThFCg)  
 - [2025-10-28-尤雨溪：未来-Vite-将会收费](http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw)  
 - [2025-10-27-首款-Vue3-像素风的-UI-组件库正式发布！](http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA)  
-- [2025-10-25-Vue3-神级工具：终于可以实现打字的动画效果了！](http://mp.weixin.qq.com/s/dQ8Gtagybc4IPdqTkwfTgw)  
-- [2025-10-24-这-10-个-API-，能让你网页性能上一个档次](http://mp.weixin.qq.com/s/mlLJF_Ktp63wiHJ3SPjRFg)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,9 +264,9 @@
 </summary>
 
 
-- [2025-11-14-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528306&idx=1&sn=123119980f9a33dba2a6b3d5343f5e2c&chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd) ![](/assets/new.png)  
-- [2025-11-13-转转商品中心微前端升级之路](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528267&idx=1&sn=5b61a3c83713139b8f27073183d136f1&chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd) ![](/assets/new.png)  
-- [2025-11-12-我用AI重构了一段500行的屎山代码，这是我的Prompt和思考过程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528265&idx=1&sn=f926cb76c8336dcd7d2844d997c5eea0&chksm=f9926998cee5e08e48ae80179998e93c37b3ef3c4ad88bb4ea31467f5222722677418cc1a8e6#rd) ![](/assets/new.png)  
+- [2025-11-14-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528306&idx=1&sn=123119980f9a33dba2a6b3d5343f5e2c&chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd)  
+- [2025-11-13-转转商品中心微前端升级之路](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528267&idx=1&sn=5b61a3c83713139b8f27073183d136f1&chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd)  
+- [2025-11-12-我用AI重构了一段500行的屎山代码，这是我的Prompt和思考过程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528265&idx=1&sn=f926cb76c8336dcd7d2844d997c5eea0&chksm=f9926998cee5e08e48ae80179998e93c37b3ef3c4ad88bb4ea31467f5222722677418cc1a8e6#rd)  
 - [2025-11-11-就因为package.json里少了个^号，我们公司赔了客户十万块](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528236&idx=1&sn=6c233f8bef10fdcf765b6c1268bcb09e&chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd)  
 - [2025-11-10-有效防止重复提交的6个方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528227&idx=1&sn=39a73385b8621b312c2aa62e301e5576&chksm=f99269f2cee5e0e4fff3a755541bd2f41b9fc25fa7853e0c8bc8b3a892ad73af556a904bf3d9#rd)  
 - [2025-11-07-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg)  
@@ -326,7 +326,7 @@
 </summary>
 
 
-- [2025-11-11-豆包-应用生成「一点都不技术」创作挑战赛开启，20-万奖池等你解锁！](http://mp.weixin.qq.com/s/xK4w6NX-eupUrdI33mDE8A) ![](/assets/new.png)  
+- [2025-11-11-豆包-应用生成「一点都不技术」创作挑战赛开启，20-万奖池等你解锁！](http://mp.weixin.qq.com/s/xK4w6NX-eupUrdI33mDE8A)  
 - [2025-10-24-豆包编程升级，新增创作模式，让创意轻松实现](http://mp.weixin.qq.com/s/6pT1xECveLM7iTqiYvjH-g)  
 - [2025-09-26-免费报名中，到场即有字节周边｜豆包编程Workshop深圳场---「一点都不技术」的创作派对](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506104&idx=1&sn=31656cdc75c005aa5124784b9298de66&chksm=cea96fb9f9dee6af326fbb5d46997b3294a9a27a57763ce96fadfe4580d8bfc3c624fc962f59#rd)  
 - [2025-06-13-字节跳动技术副总裁洪定坤：TRAE-想做-AI-Development](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506097&idx=1&sn=13ce2f9aa6f5a4fd95046953a058bdc9&chksm=cea96fb0f9dee6a6116ef5ae31e7cd7d9a4d127db424f4c39ef6fb26ce60f6681f9536440f36#rd)  
@@ -388,9 +388,9 @@
 </summary>
 
 
-- [2025-11-15-ima对我妈下手了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505146&idx=1&sn=a4268a4f2d196e8e308831ed868e716b&chksm=c2b31505f5c49c13b6cbf32081c7f463a37eb1dc9dac39e43e6d202319fe2fe903cf240dd988#rd) ![](/assets/new.png)  
-- [2025-11-14-刚看完段永平最新访谈，简直太通透了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505090&idx=1&sn=bcf457faafe882a76b0e7a886e5c98b4&chksm=c2b3153df5c49c2b6a5ef5d9682a1ff30f69fdb81152bbc43917370944bc3fb2379972dd24c1#rd) ![](/assets/new.png)  
-- [2025-11-12-刚读完李飞飞最新长文，后劲有点大](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505082&idx=1&sn=0fb91878531faf95b8ccd6d992202621&chksm=c2b31545f5c49c5345b6125863534dab0c6d4ec0bb3794fc36fa3c4e9bd5311d946ae2d39104#rd) ![](/assets/new.png)  
+- [2025-11-15-ima对我妈下手了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505146&idx=1&sn=a4268a4f2d196e8e308831ed868e716b&chksm=c2b31505f5c49c13b6cbf32081c7f463a37eb1dc9dac39e43e6d202319fe2fe903cf240dd988#rd)  
+- [2025-11-14-刚看完段永平最新访谈，简直太通透了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505090&idx=1&sn=bcf457faafe882a76b0e7a886e5c98b4&chksm=c2b3153df5c49c2b6a5ef5d9682a1ff30f69fdb81152bbc43917370944bc3fb2379972dd24c1#rd)  
+- [2025-11-12-刚读完李飞飞最新长文，后劲有点大](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505082&idx=1&sn=0fb91878531faf95b8ccd6d992202621&chksm=c2b31545f5c49c5345b6125863534dab0c6d4ec0bb3794fc36fa3c4e9bd5311d946ae2d39104#rd)  
 - [2025-11-11-94岁的巴菲特，今天发布了谢幕信，他在结尾有几句关于人生终局的思考。-我看完很感动，特地整理出来，分享给每一个正在赶路的你。-1、别老为过去的错误自责，哪怕从中吸取一点点教训也好，然后就继续往前走吧，让自己变得更好这件事，从来都不怕晚。-2、现在就想想，你希望自己的讣告上写些什么，然后活出配得上那段文字的人生。-3、伟大并不是靠积累大笔财富，赢得铺天盖地的曝光，或者掌握](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505062&idx=1&sn=43b223d9c2cd6eba160713a87bd32f8b&chksm=c2b31559f5c49c4f52fe09f15cf6758fd15c43eb87e11650d28f4879a002edfcbe3870bc5555#rd)  
 - [2025-11-10-AI六巨头同台，剧透未来10年剧本](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505060&idx=1&sn=853e50b8e267707afbb9a5f2b99783ed&chksm=c2b3155bf5c49c4d6d3001fbf4064e14770618fde44a99e6a2c13df9977f23609aca0d1b0677#rd)  
 - [2025-11-08-Kimi比想象中凶猛太多了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505029&idx=1&sn=467550348f8ad2e5ab77c48575f178b8&chksm=c2b3157af5c49c6c291e36172c83cac19f9b491a237aac95067ad4b5f731b94655732d6100fb#rd)  
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-11-14-页面搭建方案TurboUIBuilder在穿搭星球的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541931&idx=1&sn=a1687e2bfec0083ce651f23407115543&chksm=8390c773b4e74e65c579848f5f489ee9520f678265794ee84f1d63f2cf67d702fcb36977612b#rd) ![](/assets/new.png)  
+- [2025-11-14-页面搭建方案TurboUIBuilder在穿搭星球的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541931&idx=1&sn=a1687e2bfec0083ce651f23407115543&chksm=8390c773b4e74e65c579848f5f489ee9520f678265794ee84f1d63f2cf67d702fcb36977612b#rd)  
 - [2025-11-10-从0到1：天猫AI测试用例生成的实践与突破](http://mp.weixin.qq.com/s/XTKbyk0ZHYYdpY5Hvn4PLw)  
 - [2025-11-07-让AI打出丝滑连招：编码-部署-自测-改bug](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541895&idx=1&sn=6f5f8af100dba54c4675b2c2db62e416&chksm=8390c75fb4e74e49a468adbc1def8010715922b10642a4080feacde2802811377e1238109d52#rd)  
 - [2025-11-03-别让故障复盘流于形式：用AI挖掘每一次“跌倒”的价值](http://mp.weixin.qq.com/s/1bEFbt_y36b86405YzukjA)  

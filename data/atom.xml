@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-15T14:08:30.479Z</updated>
+    <updated>2025-11-16T04:18:29.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,6 +78,13 @@
         <published>2025-11-11T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[官宣：前端调试 Websocket 的神器正式发布！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506425&amp;idx=1&amp;sn=c9dbfb166f110c729a796a793efbeb0a&amp;chksm=ce45cc68f932457ec82c551b767ab80cfc4241334466c01d9c57ab460301088bdc305a6cf3d6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506425&amp;idx=1&amp;sn=c9dbfb166f110c729a796a793efbeb0a&amp;chksm=ce45cc68f932457ec82c551b767ab80cfc4241334466c01d9c57ab460301088bdc305a6cf3d6#rd"/>
+        <updated>2025-11-11T00:00:00.000Z</updated>
+        <published>2025-11-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3611期】优化网页字体]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277889&amp;idx=1&amp;sn=15b1ef41021b7f6c98ebffb6fd688113&amp;chksm=bc08e478e5229fa296e18e78f4e74c45c0f2d5637b9746a25450dcd8a8194292852505990971&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277889&amp;idx=1&amp;sn=15b1ef41021b7f6c98ebffb6fd688113&amp;chksm=bc08e478e5229fa296e18e78f4e74c45c0f2d5637b9746a25450dcd8a8194292852505990971&amp;scene=0#rd"/>
@@ -148,16 +155,16 @@
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
-        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
-        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
+        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
+        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
+        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
-        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
-        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
+        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
+        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
+        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
@@ -232,16 +239,16 @@
         <published>2025-11-02T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[localStorage 的使用越来越少了？]]></title>
-        <id>http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ</id>
-        <link href="http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ"/>
+        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
+        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
+        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
-        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
-        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
+        <title type="html"><![CDATA[localStorage 的使用越来越少了？]]></title>
+        <id>http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ</id>
+        <link href="http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/dQ8Gtagybc4IPdqTkwfTgw"/>
         <updated>2025-10-25T00:00:00.000Z</updated>
         <published>2025-10-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[转转商品中心微前端升级之路]]></title>
-        <id>http://mp.weixin.qq.com/s/rCLPo6aEe42wI9Rhs1XoqA</id>
-        <link href="http://mp.weixin.qq.com/s/rCLPo6aEe42wI9Rhs1XoqA"/>
-        <updated>2025-10-24T00:00:00.000Z</updated>
-        <published>2025-10-24T00:00:00.000Z</published>
     </entry>
 </feed>

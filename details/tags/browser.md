@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-15 22:08:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-16 12:18:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -422,6 +422,7 @@
 - [2018-11-18-Webkit推出新的着色语言whlsl](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489907&idx=1&sn=98a43483a29f6a68247aaf52f47dce15#wechat_redirect) 
 - [2018-11-16-图解浏览器的工作原理（史上最全）](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489897&idx=1&sn=6163c1ff142de866455e6c555b002dee#wechat_redirect) 
 - [2018-10-14-浏览器页面渲染机制，你真的弄懂了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect) 
+- [2025-11-11-官宣：前端调试-Websocket-的神器正式发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506425&idx=1&sn=c9dbfb166f110c729a796a793efbeb0a&chksm=ce45cc68f932457ec82c551b767ab80cfc4241334466c01d9c57ab460301088bdc305a6cf3d6#rd) 
 - [2025-10-31-localStorage-的使用越来越少了？](http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ) 
 - [2025-09-22-强到离谱，2025年浏览器必装插件！](http://mp.weixin.qq.com/s/V1TxdY3FGzVUKxDxb5X3JQ) 
 - [2025-08-19-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA) 
