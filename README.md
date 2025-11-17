@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-17 16:16:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-17 22:10:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,11 +29,11 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-11-16-巴菲特砸了43亿买谷歌，Gemini-3.0下周要发？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505192&idx=1&sn=eb83e174312e3126a280f8e99b6f9b95&chksm=c2b314d7f5c49dc1282b0ccd6d8946d528a3146ed647c897560ef8abc18d7084b103550c4de2#rd) ![](/assets/new.png)  
 - [2025-11-15-ima对我妈下手了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505146&idx=1&sn=a4268a4f2d196e8e308831ed868e716b&chksm=c2b31505f5c49c13b6cbf32081c7f463a37eb1dc9dac39e43e6d202319fe2fe903cf240dd988#rd)  
 - [2025-11-14-刚看完段永平最新访谈，简直太通透了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505090&idx=1&sn=bcf457faafe882a76b0e7a886e5c98b4&chksm=c2b3153df5c49c2b6a5ef5d9682a1ff30f69fdb81152bbc43917370944bc3fb2379972dd24c1#rd)  
 - [2025-11-12-刚读完李飞飞最新长文，后劲有点大](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505082&idx=1&sn=0fb91878531faf95b8ccd6d992202621&chksm=c2b31545f5c49c5345b6125863534dab0c6d4ec0bb3794fc36fa3c4e9bd5311d946ae2d39104#rd)  
@@ -407,7 +408,6 @@
 - [2025-10-23-OpenAI发布新浏览器，武林盟主要换人了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504778&idx=1&sn=73a824aba2ea7ed9680d3c995516d4df&chksm=c2b31275f5c49b632cc983d625debca4a2741fdcdb7199ac45f8d0e5b7e146391eb6749661c0#rd)  
 - [2025-10-21-DeepSeek新模型这次真玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504736&idx=1&sn=96b01e3bf84f54e6d4fcb4de357cf176&chksm=c2b3129ff5c49b89dec7b7c39bd18222603e237318e622eb4caede32511cca580de7a25b09e0#rd)  
 - [2025-10-20-6大顶级AI在币圈厮杀，DeepSeek赢麻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504727&idx=1&sn=30c1084fe3e6e12e8ca16574977d90a5&chksm=c2b312a8f5c49bbec229901d2e74f76650e5c1dab8eb1a4ed0a30115359e928979636c67be33#rd)  
-- [2025-10-18-教你豆包P图10个最新玩法，一次玩过瘾](http://mp.weixin.qq.com/s/DKjWzovgwqzFXoPXTqgyEw)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-11-17-介绍下与CSS自定义组件相关的:state函数](https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/) ![](/assets/new.png)  
+- [2025-11-17-介绍下与CSS自定义组件相关的:state函数](https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/)  
 - [2025-11-10-CSS锚点定位实战-鼠标跟随交互效果](https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/)  
 - [2025-11-03-垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/)  
 - [2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/)  
