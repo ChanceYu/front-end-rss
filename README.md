@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-16 12:18:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-17 14:16:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-11-17-【早阅】Node.js-2025-现状解读](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277928&idx=1&sn=f5778f9a2742921f784157ea11f6eb8c&chksm=bcc625823e9ad5a5fe516d37728467c86f11b5f4b0ff8f0bf1f90ecf19afb47277675a44a071&scene=0#rd) ![](/assets/new.png)  
 - [2025-11-14-【第3612期】状态驱动-vs-Signal驱动渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277910&idx=1&sn=6f0e42078d52518928a8b7c6101a6d44&chksm=bc945a3383f403516ea6ee446cd2c4f32a276bed2ea21e68e8fa59236e274beb3e033810e4a2&scene=0#rd)  
 - [2025-11-13-【早阅】Web性能之旅的7个层级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277901&idx=1&sn=333e2375349d1bdd871553a85abb2541&chksm=bcb4d972a08310eefe5513be99e8d1d7cad08f3686117eb696bd71b311a89e38c3c3dcc91423&scene=0#rd)  
 - [2025-11-12-Flashduty-RUM：开启真实用户观测新体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277894&idx=1&sn=6e94fcd9fdb978cb884517b28aa770cb&chksm=bc4a67bd02f091df505707357d29c3608b8af363119943973c4220fe70d70eb40b25e339e1e3&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-10-23-【第3603期】如何修复任何-Bug](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277700&idx=1&sn=90772945ec46a5e3e904a8185c51d91c&chksm=bcf768111a6afec42c0168cc7a24e9fa0348bb2dafa771b196d7b39534f79e98f66187424661&scene=0#rd)  
 - [2025-10-22-【早阅】利用AI代理最大化你的生产力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277695&idx=1&sn=6c1eb23f7ffc39fe8d49d694c3466e08&chksm=bc9f238f43872bb9bbcb113e9c271c4f1b53497bf5e8f79f646fd55905668c92524469789af6&scene=0#rd)  
 - [2025-10-21-【第3602期】fluth-vue:-融合响应式的promise流](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277690&idx=1&sn=6b53700a4cbdd5a593e6827b222da4c2&chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&scene=0#rd)  
-- [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -205,8 +205,8 @@
 - [2025-11-15-2025前端最新场景题](http://mp.weixin.qq.com/s/LEY2Tnkj8l6TNE-i816aOA)  
 - [2025-11-14-Vue3-高级插件，正式免费使用！](http://mp.weixin.qq.com/s/HKbgia3ZhVGx6rpmIpGuZQ)  
 - [2025-11-13-有了这-20-个-JS-原生-API-，你可以不用装第三方库](http://mp.weixin.qq.com/s/uxa0L1nQx_T6U4_iyu_PMA)  
-- [2025-11-12-尤雨溪公司-VoidZero，十月份狂揽接近一亿？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506444&idx=1&sn=ab7e9132ae31a5a8d44ea6e9a121d113&chksm=ce45cf9df932468b3544c8cc52cd3641d313f30838b3daa3e6a8eef5c336dc75cab80333242f#rd) ![](/assets/new.png)  
-- [2025-11-11-官宣：前端调试-Websocket-的神器正式发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506425&idx=1&sn=c9dbfb166f110c729a796a793efbeb0a&chksm=ce45cc68f932457ec82c551b767ab80cfc4241334466c01d9c57ab460301088bdc305a6cf3d6#rd) ![](/assets/new.png)  
+- [2025-11-12-尤雨溪公司-VoidZero，十月份狂揽接近一亿？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506444&idx=1&sn=ab7e9132ae31a5a8d44ea6e9a121d113&chksm=ce45cf9df932468b3544c8cc52cd3641d313f30838b3daa3e6a8eef5c336dc75cab80333242f#rd)  
+- [2025-11-11-官宣：前端调试-Websocket-的神器正式发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506425&idx=1&sn=c9dbfb166f110c729a796a793efbeb0a&chksm=ce45cc68f932457ec82c551b767ab80cfc4241334466c01d9c57ab460301088bdc305a6cf3d6#rd)  
 - [2025-11-10-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506403&idx=1&sn=905e6d18f37eaab4c5326e606da00a82&chksm=ce45cc72f9324564d87876cee9c360ab1d4e313e956f624bd19d1618964460eb6251d6031c88#rd)  
 - [2025-11-08-2025前端最新场景题](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506419&idx=1&sn=7b0ad158a985ebb44b4bf9cfeb668c1d&chksm=ce45cc62f932457477d9aad87c96a02cb457464efed0ce83e0b044aa4c9ffffaa818ea270f87#rd)  
 - [2025-11-07-前端全球人气最高-UI-组件库，宣布接入-AI](http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ)  

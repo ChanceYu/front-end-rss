@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-16T04:18:29.609Z</updated>
+    <updated>2025-11-17T06:16:47.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】Node.js 2025 现状解读]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277928&amp;idx=1&amp;sn=f5778f9a2742921f784157ea11f6eb8c&amp;chksm=bcc625823e9ad5a5fe516d37728467c86f11b5f4b0ff8f0bf1f90ecf19afb47277675a44a071&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277928&amp;idx=1&amp;sn=f5778f9a2742921f784157ea11f6eb8c&amp;chksm=bcc625823e9ad5a5fe516d37728467c86f11b5f4b0ff8f0bf1f90ecf19afb47277675a44a071&amp;scene=0#rd"/>
+        <updated>2025-11-17T00:00:00.000Z</updated>
+        <published>2025-11-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528306&amp;idx=1&amp;sn=123119980f9a33dba2a6b3d5343f5e2c&amp;chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277719&amp;idx=1&amp;sn=0c428a2dd83ef8732b6c87cc7b4fffca&amp;chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&amp;scene=0#rd"/>
         <updated>2025-10-27T00:00:00.000Z</updated>
         <published>2025-10-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 神级工具：终于可以实现打字的动画效果了！]]></title>
-        <id>http://mp.weixin.qq.com/s/dQ8Gtagybc4IPdqTkwfTgw</id>
-        <link href="http://mp.weixin.qq.com/s/dQ8Gtagybc4IPdqTkwfTgw"/>
-        <updated>2025-10-25T00:00:00.000Z</updated>
-        <published>2025-10-25T00:00:00.000Z</published>
     </entry>
 </feed>
