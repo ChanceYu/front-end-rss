@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-17T06:16:47.145Z</updated>
+    <updated>2025-11-17T08:16:32.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[介绍下与CSS自定义组件相关的:state()函数]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/"/>
+        <updated>2025-11-17T00:00:00.000Z</updated>
+        <published>2025-11-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】Node.js 2025 现状解读]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277928&amp;idx=1&amp;sn=f5778f9a2742921f784157ea11f6eb8c&amp;chksm=bcc625823e9ad5a5fe516d37728467c86f11b5f4b0ff8f0bf1f90ecf19afb47277675a44a071&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[首款 Vue3 像素风的 UI 组件库正式发布！]]></title>
         <id>http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA</id>
         <link href="http://mp.weixin.qq.com/s/N1mZH0gTu9DIX3uI4V5VpA"/>
-        <updated>2025-10-27T00:00:00.000Z</updated>
-        <published>2025-10-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】使用 Web API 构建浏览器 AI 应用]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277719&amp;idx=1&amp;sn=0c428a2dd83ef8732b6c87cc7b4fffca&amp;chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277719&amp;idx=1&amp;sn=0c428a2dd83ef8732b6c87cc7b4fffca&amp;chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&amp;scene=0#rd"/>
         <updated>2025-10-27T00:00:00.000Z</updated>
         <published>2025-10-27T00:00:00.000Z</published>
     </entry>
