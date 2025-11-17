@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-17 22:10:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-18 00:14:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,11 +25,11 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -264,6 +264,7 @@
 </summary>
 
 
+- [2025-11-17-教你通过规范驱动开发提升你的-AI-编程水平](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528314&idx=1&sn=6ed7799f6401bf346319a6513f801453&chksm=f99269abcee5e0bd72211ac54d4ea9543af63ac0f8502906c0092a3c3301b6e5da17242593cc#rd) ![](/assets/new.png)  
 - [2025-11-14-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528306&idx=1&sn=123119980f9a33dba2a6b3d5343f5e2c&chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd)  
 - [2025-11-13-转转商品中心微前端升级之路](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528267&idx=1&sn=5b61a3c83713139b8f27073183d136f1&chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd)  
 - [2025-11-12-我用AI重构了一段500行的屎山代码，这是我的Prompt和思考过程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528265&idx=1&sn=f926cb76c8336dcd7d2844d997c5eea0&chksm=f9926998cee5e08e48ae80179998e93c37b3ef3c4ad88bb4ea31467f5222722677418cc1a8e6#rd)  
@@ -283,7 +284,6 @@
 - [2025-10-23-高频接口前端缓存解决方案：Service-Worker-+-IndexedDB](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528070&idx=1&sn=62103345f9e84d85cad6d1459f926cce&chksm=f9926857cee5e14190b0f890868c2f640159043e527d4613088522922dc05fdffed22053c36d#rd)  
 - [2025-10-22-什么？一套数字孪生三维可视化系统拖拖拽拽就搞定了？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528064&idx=1&sn=d0b9a21e84e47fccdd1f2259c5f3959a&chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd)  
 - [2025-10-21-10-个提升-Vue3-性能的实用技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528057&idx=1&sn=9b22a4ddd4da9b1606703a8c1233efe9&chksm=f99268a8cee5e1be7c855e2ac12f41590d3581f5e9ac75a09d0c997b18c3e997db8af3877d31#rd)  
-- [2025-10-20-为什么响应性语法糖最终被废弃了？尤雨溪也曾经试图让你不用写-.value](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528048&idx=1&sn=029f5c53572ae0fbf37d402796952c96&chksm=f99268a1cee5e1b7405cc940f85dcb443c10b79ce89bb5a4e334004dab55342ae8cdacd2bc5d#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-11-16-巴菲特砸了43亿买谷歌，Gemini-3.0下周要发？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505192&idx=1&sn=eb83e174312e3126a280f8e99b6f9b95&chksm=c2b314d7f5c49dc1282b0ccd6d8946d528a3146ed647c897560ef8abc18d7084b103550c4de2#rd) ![](/assets/new.png)  
+- [2025-11-16-巴菲特砸了43亿买谷歌，Gemini-3.0下周要发？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505192&idx=1&sn=eb83e174312e3126a280f8e99b6f9b95&chksm=c2b314d7f5c49dc1282b0ccd6d8946d528a3146ed647c897560ef8abc18d7084b103550c4de2#rd)  
 - [2025-11-15-ima对我妈下手了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505146&idx=1&sn=a4268a4f2d196e8e308831ed868e716b&chksm=c2b31505f5c49c13b6cbf32081c7f463a37eb1dc9dac39e43e6d202319fe2fe903cf240dd988#rd)  
 - [2025-11-14-刚看完段永平最新访谈，简直太通透了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505090&idx=1&sn=bcf457faafe882a76b0e7a886e5c98b4&chksm=c2b3153df5c49c2b6a5ef5d9682a1ff30f69fdb81152bbc43917370944bc3fb2379972dd24c1#rd)  
 - [2025-11-12-刚读完李飞飞最新长文，后劲有点大](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505082&idx=1&sn=0fb91878531faf95b8ccd6d992202621&chksm=c2b31545f5c49c5345b6125863534dab0c6d4ec0bb3794fc36fa3c4e9bd5311d946ae2d39104#rd)  
