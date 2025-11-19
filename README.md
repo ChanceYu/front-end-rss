@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-19 08:47:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-19 14:16:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-11-19-【早阅】使用本地优先数据构建原生级-Web-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277949&idx=1&sn=eb45bfa094736598fcf81938dfa8fd1d&chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&scene=0#rd) ![](/assets/new.png)  
 - [2025-11-18-【第3613期】JavaScript-中的错误链：用-Error.cause-让调试更清晰](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277933&idx=1&sn=d6d1eacd20690c6271a78026f2eaed23&chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&scene=0#rd)  
 - [2025-11-17-【早阅】Node.js-2025-现状解读](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277928&idx=1&sn=f5778f9a2742921f784157ea11f6eb8c&chksm=bcc625823e9ad5a5fe516d37728467c86f11b5f4b0ff8f0bf1f90ecf19afb47277675a44a071&scene=0#rd)  
 - [2025-11-14-【第3612期】状态驱动-vs-Signal驱动渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277910&idx=1&sn=6f0e42078d52518928a8b7c6101a6d44&chksm=bc945a3383f403516ea6ee446cd2c4f32a276bed2ea21e68e8fa59236e274beb3e033810e4a2&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-10-27-【早阅】使用-Web-API-构建浏览器-AI-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277719&idx=1&sn=0c428a2dd83ef8732b6c87cc7b4fffca&chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&scene=0#rd)  
 - [2025-10-24-【早阅】什么样的文档才算好文档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277705&idx=1&sn=c904937939770c2b0fb87581b93d348d&chksm=bc3bb307b56060136aea2f1990622c09baafd223231d30c268996972a95e0fab73a555491cff&scene=0#rd)  
 - [2025-10-23-【第3603期】如何修复任何-Bug](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277700&idx=1&sn=90772945ec46a5e3e904a8185c51d91c&chksm=bcf768111a6afec42c0168cc7a24e9fa0348bb2dafa771b196d7b39534f79e98f66187424661&scene=0#rd)  
-- [2025-10-22-【早阅】利用AI代理最大化你的生产力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277695&idx=1&sn=6c1eb23f7ffc39fe8d49d694c3466e08&chksm=bc9f238f43872bb9bbcb113e9c271c4f1b53497bf5e8f79f646fd55905668c92524469789af6&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2025-11-18-曾被乔布斯逼到崩溃，苹果8号工程师反手做了个工具“让老板自己设计”，竟在10分钟内定下Mac计算器原型，一用就是近20年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=1&sn=a5965b34b41fc78ccb4d17c975232248&chksm=80225809b755d11f8a626c97441213dbcd2a5f78eab04ee9c8a754d6c20c996182aeea871994#rd) ![](/assets/new.png)  
-- [2025-11-18-一个函数超过20行?-聊聊我的函数式代码洁癖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=2&sn=42464fd273cd5c1f16492822792a9614&chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd) ![](/assets/new.png)  
+- [2025-11-18-曾被乔布斯逼到崩溃，苹果8号工程师反手做了个工具“让老板自己设计”，竟在10分钟内定下Mac计算器原型，一用就是近20年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=1&sn=a5965b34b41fc78ccb4d17c975232248&chksm=80225809b755d11f8a626c97441213dbcd2a5f78eab04ee9c8a754d6c20c996182aeea871994#rd)  
+- [2025-11-18-一个函数超过20行?-聊聊我的函数式代码洁癖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=2&sn=42464fd273cd5c1f16492822792a9614&chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd)  
 - [2025-11-14-前端到底用Nginx来做啥](http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw)  
 - [2025-11-14-把-Bug-曝光到全网，谷歌逼-FFmpeg-维护者“按时修复”，遭怒怼：别光用-AI-找-Bug，有本事你自己修啊！](http://mp.weixin.qq.com/s/n9LGY_SWO2jh_uV7nW3G_g)  
 - [2025-11-11-确认裁员了，很严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s/R2PU54bvaIn4bmStnLGtwg)  
