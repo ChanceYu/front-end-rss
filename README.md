@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-20 04:10:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-20 06:09:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -27,12 +27,12 @@
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
+- [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -326,7 +326,7 @@
 </summary>
 
 
-- [2025-11-19-和“动物塑”创作者面对面！豆包-应用生成“一点都不技术”挑战赛的创作分享来啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506123&idx=1&sn=469d203c58b7734f580c0a0fc622e1c3&chksm=cea96fcaf9dee6dc48075a1cb7e56be8752cfe5c0fc82d1912e1abb4b6b0bfa80a7c5ac6f7b7#rd) ![](/assets/new.png)  
+- [2025-11-19-和“动物塑”创作者面对面！豆包-应用生成“一点都不技术”挑战赛的创作分享来啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506123&idx=1&sn=469d203c58b7734f580c0a0fc622e1c3&chksm=cea96fcaf9dee6dc48075a1cb7e56be8752cfe5c0fc82d1912e1abb4b6b0bfa80a7c5ac6f7b7#rd)  
 - [2025-11-11-豆包-应用生成「一点都不技术」创作挑战赛开启，20-万奖池等你解锁！](http://mp.weixin.qq.com/s/xK4w6NX-eupUrdI33mDE8A)  
 - [2025-10-24-豆包编程升级，新增创作模式，让创意轻松实现](http://mp.weixin.qq.com/s/6pT1xECveLM7iTqiYvjH-g)  
 - [2025-09-26-免费报名中，到场即有字节周边｜豆包编程Workshop深圳场---「一点都不技术」的创作派对](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506104&idx=1&sn=31656cdc75c005aa5124784b9298de66&chksm=cea96fb9f9dee6af326fbb5d46997b3294a9a27a57763ce96fadfe4580d8bfc3c624fc962f59#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-11-19-交易订单表如何做索引优化](http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g) ![](/assets/new.png)  
 - [2025-11-14-页面搭建方案TurboUIBuilder在穿搭星球的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541931&idx=1&sn=a1687e2bfec0083ce651f23407115543&chksm=8390c773b4e74e65c579848f5f489ee9520f678265794ee84f1d63f2cf67d702fcb36977612b#rd)  
 - [2025-11-10-从0到1：天猫AI测试用例生成的实践与突破](http://mp.weixin.qq.com/s/XTKbyk0ZHYYdpY5Hvn4PLw)  
 - [2025-11-07-让AI打出丝滑连招：编码-部署-自测-改bug](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541895&idx=1&sn=6f5f8af100dba54c4675b2c2db62e416&chksm=8390c75fb4e74e49a468adbc1def8010715922b10642a4080feacde2802811377e1238109d52#rd)  
@@ -500,7 +501,6 @@
 - [2025-09-10-AI赋能前端开发提效实践：以长颈鹿接入为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541484&idx=1&sn=058ca5192c0f4454cee0283faf65ab7c&chksm=8390c5b4b4e74ca2117802dd99ca10c3eedcbeb1f59951a129a7b536d18615364ffa5cd51afc#rd)  
 - [2025-09-08-让你的大模型读懂二方包](http://mp.weixin.qq.com/s/kWLMDhpkP01U6jFbysxhMA)  
 - [2025-09-05-基于《架构现代化》浅谈架构共鸣](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541469&idx=1&sn=fd9c9f5286de27f6465b769e652dc360&chksm=8390c585b4e74c93a24216e28165f2685817a057f6b9ac8d608527539fd95a40a09d486924ad#rd)  
-- [2025-09-03-AI审核工程实践：-淘宝极有家破损包赔项目思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541430&idx=1&sn=40b5163b07415d8d40080130a9d91277&chksm=8390c56eb4e74c78d85f9b9a776184d23dd8fc9a881b8355c2ccbed01deb8ddac34fc6ffd86d#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-19T20:10:34.233Z</updated>
+    <updated>2025-11-19T22:09:56.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[交易订单表如何做索引优化]]></title>
+        <id>http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g</id>
+        <link href="http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g"/>
+        <updated>2025-11-19T00:00:00.000Z</updated>
+        <published>2025-11-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】使用本地优先数据构建原生级 Web 应用]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277949&amp;idx=1&amp;sn=eb45bfa094736598fcf81938dfa8fd1d&amp;chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2025年 Node.js 新模式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623228&amp;idx=1&amp;sn=08d29060a8b3eed2e94f7735b8b55209&amp;chksm=802258fdb755d1eb6ce5461ac5da286f72ffc677943c7da1248b6829c4046daa7845d128cec1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623228&amp;idx=1&amp;sn=08d29060a8b3eed2e94f7735b8b55209&amp;chksm=802258fdb755d1eb6ce5461ac5da286f72ffc677943c7da1248b6829c4046daa7845d128cec1#rd"/>
-        <updated>2025-10-28T00:00:00.000Z</updated>
-        <published>2025-10-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3604期】URLPattern：让浏览器原生支持更强大的 URL 路由与匹配]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277725&amp;idx=1&amp;sn=d8867e2c8125eb5409ce978449a155c7&amp;chksm=bc709839d4cee3f1b212646eaca7500bb7e5c63fd032e539638f90d458509e058c7dbc3371fa&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277725&amp;idx=1&amp;sn=d8867e2c8125eb5409ce978449a155c7&amp;chksm=bc709839d4cee3f1b212646eaca7500bb7e5c63fd032e539638f90d458509e058c7dbc3371fa&amp;scene=0#rd"/>
         <updated>2025-10-28T00:00:00.000Z</updated>
         <published>2025-10-28T00:00:00.000Z</published>
     </entry>
