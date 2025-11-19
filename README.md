@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-19 14:16:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-19 18:11:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-11-19-【早阅】使用本地优先数据构建原生级-Web-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277949&idx=1&sn=eb45bfa094736598fcf81938dfa8fd1d&chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&scene=0#rd) ![](/assets/new.png)  
+- [2025-11-19-【早阅】使用本地优先数据构建原生级-Web-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277949&idx=1&sn=eb45bfa094736598fcf81938dfa8fd1d&chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&scene=0#rd)  
 - [2025-11-18-【第3613期】JavaScript-中的错误链：用-Error.cause-让调试更清晰](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277933&idx=1&sn=d6d1eacd20690c6271a78026f2eaed23&chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&scene=0#rd)  
 - [2025-11-17-【早阅】Node.js-2025-现状解读](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277928&idx=1&sn=f5778f9a2742921f784157ea11f6eb8c&chksm=bcc625823e9ad5a5fe516d37728467c86f11b5f4b0ff8f0bf1f90ecf19afb47277675a44a071&scene=0#rd)  
 - [2025-11-14-【第3612期】状态驱动-vs-Signal驱动渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277910&idx=1&sn=6f0e42078d52518928a8b7c6101a6d44&chksm=bc945a3383f403516ea6ee446cd2c4f32a276bed2ea21e68e8fa59236e274beb3e033810e4a2&scene=0#rd)  
@@ -388,6 +388,8 @@
 </summary>
 
 
+- [2025-11-19-Gemini-3比想象中凶狠太多了](http://mp.weixin.qq.com/s/9yiNJmOBtApM0to02vrkuA) ![](/assets/new.png)  
+- [2025-11-17-50人，1亿美金，Gamma凭什么？](http://mp.weixin.qq.com/s/O7i-s-8cnpFVD9YkXbgmKw) ![](/assets/new.png)  
 - [2025-11-16-巴菲特砸了43亿买谷歌，Gemini-3.0下周要发？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505192&idx=1&sn=eb83e174312e3126a280f8e99b6f9b95&chksm=c2b314d7f5c49dc1282b0ccd6d8946d528a3146ed647c897560ef8abc18d7084b103550c4de2#rd)  
 - [2025-11-15-ima对我妈下手了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505146&idx=1&sn=a4268a4f2d196e8e308831ed868e716b&chksm=c2b31505f5c49c13b6cbf32081c7f463a37eb1dc9dac39e43e6d202319fe2fe903cf240dd988#rd)  
 - [2025-11-14-刚看完段永平最新访谈，简直太通透了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505090&idx=1&sn=bcf457faafe882a76b0e7a886e5c98b4&chksm=c2b3153df5c49c2b6a5ef5d9682a1ff30f69fdb81152bbc43917370944bc3fb2379972dd24c1#rd)  
@@ -406,8 +408,6 @@
 - [2025-10-26-马斯克又造了个AI女友，名字叫Mika](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504840&idx=1&sn=5948df4dcc070501db7136c4c90d615a&chksm=c2b31237f5c49b2195974195f179ee7e230faeffc7899a9683cf14e3655a4d48aa9a350cc648#rd)  
 - [2025-10-24-玩AI，我劝你先上观猹看看](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504822&idx=1&sn=e5bf43c39b18564edb37dda07fbbe4d8&chksm=c2b31249f5c49b5f47d7b423f20f76ac3bd0e3624ee45c95622afd0619cae2410c12ef329d71#rd)  
 - [2025-10-23-OpenAI发布新浏览器，武林盟主要换人了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504778&idx=1&sn=73a824aba2ea7ed9680d3c995516d4df&chksm=c2b31275f5c49b632cc983d625debca4a2741fdcdb7199ac45f8d0e5b7e146391eb6749661c0#rd)  
-- [2025-10-21-DeepSeek新模型这次真玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504736&idx=1&sn=96b01e3bf84f54e6d4fcb4de357cf176&chksm=c2b3129ff5c49b89dec7b7c39bd18222603e237318e622eb4caede32511cca580de7a25b09e0#rd)  
-- [2025-10-20-6大顶级AI在币圈厮杀，DeepSeek赢麻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504727&idx=1&sn=30c1084fe3e6e12e8ca16574977d90a5&chksm=c2b312a8f5c49bbec229901d2e74f76650e5c1dab8eb1a4ed0a30115359e928979636c67be33#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
