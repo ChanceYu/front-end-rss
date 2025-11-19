@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-19 00:14:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-19 08:47:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-11-18-Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601) ![](/assets/new.png)  
+- [2025-11-18-Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601)  
 - [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600)  
 - [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599)  
 - [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598)  
@@ -140,26 +140,26 @@
 </summary>
 
 
-- [2025-11-14-把-Bug-曝光到全网，谷歌逼-FFmpeg-维护者“按时修复”，遭怒怼：别光用-AI-找-Bug，有本事你自己修啊！](http://mp.weixin.qq.com/s/n9LGY_SWO2jh_uV7nW3G_g)  
+- [2025-11-18-曾被乔布斯逼到崩溃，苹果8号工程师反手做了个工具“让老板自己设计”，竟在10分钟内定下Mac计算器原型，一用就是近20年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=1&sn=a5965b34b41fc78ccb4d17c975232248&chksm=80225809b755d11f8a626c97441213dbcd2a5f78eab04ee9c8a754d6c20c996182aeea871994#rd) ![](/assets/new.png)  
+- [2025-11-18-一个函数超过20行?-聊聊我的函数式代码洁癖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=2&sn=42464fd273cd5c1f16492822792a9614&chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd) ![](/assets/new.png)  
 - [2025-11-14-前端到底用Nginx来做啥](http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw)  
+- [2025-11-14-把-Bug-曝光到全网，谷歌逼-FFmpeg-维护者“按时修复”，遭怒怼：别光用-AI-找-Bug，有本事你自己修啊！](http://mp.weixin.qq.com/s/n9LGY_SWO2jh_uV7nW3G_g)  
 - [2025-11-11-确认裁员了，很严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s/R2PU54bvaIn4bmStnLGtwg)  
-- [2025-11-10-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s/Nvj2Ev_hMGdrbkIjxHsyHw)  
 - [2025-11-10-放下技术焦虑：越来越多公司重回单体架构的真相](http://mp.weixin.qq.com/s/BGMVlW5HJ6fgZ4MtPFZ4Og)  
+- [2025-11-10-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s/Nvj2Ev_hMGdrbkIjxHsyHw)  
 - [2025-11-05-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623292&idx=1&sn=ca6905ab1eac95d9507c1bbf0c66cb3a&chksm=802258bdb755d1abc7b42695a9599d6a92d25600f93efa71d270b7fce5f3d5aa7adea84ec0ea#rd)  
-- [2025-11-04-山姆改版遭差评轰炸！会员怒喷：开除-X-里高管，让-X-里系滚蛋。山姆连夜行动…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=1&sn=0bac501acefbd41bc24ad1416342ee6d&chksm=802258a1b755d1b788fbec76059eb5de4b8bce943bf95635dba2e3d515f215fcf605f773e37b#rd)  
 - [2025-11-04-双-Token-认证机制：从原理到实践的完整实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=2&sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd)  
-- [2025-11-03-中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！](http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w)  
+- [2025-11-04-山姆改版遭差评轰炸！会员怒喷：开除-X-里高管，让-X-里系滚蛋。山姆连夜行动…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=1&sn=0bac501acefbd41bc24ad1416342ee6d&chksm=802258a1b755d1b788fbec76059eb5de4b8bce943bf95635dba2e3d515f215fcf605f773e37b#rd)  
 - [2025-11-03-好家伙！尤雨溪公司融-8890-万，要终结-JS-工具碎片化。网友：早点统一吧](http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w)  
-- [2025-10-31-吵翻了！CTO-不搞管理反而沉迷写代码改-Bug，还靠这保住百万订单。网友：小公司才敢这么干，大公司早乱了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623241&idx=1&sn=03fba84886fbb920831c1e45cceb9506&chksm=80225888b755d19e66c909d95e8c39b21526625a74b9140e54d8a13caa36c1f305a9bf28fb58#rd)  
+- [2025-11-03-中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！](http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w)  
 - [2025-10-31-用了-Zustand-后，我的状态逻辑精简了一半](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623241&idx=2&sn=94ef981817d67031fb6abf0a3d0ee91d&chksm=80225888b755d19e3d90e732ffc2e37495d70252c89c19f2f4741f27ab7cc7ed33b8f4725d66#rd)  
+- [2025-10-31-吵翻了！CTO-不搞管理反而沉迷写代码改-Bug，还靠这保住百万订单。网友：小公司才敢这么干，大公司早乱了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623241&idx=1&sn=03fba84886fbb920831c1e45cceb9506&chksm=80225888b755d19e66c909d95e8c39b21526625a74b9140e54d8a13caa36c1f305a9bf28fb58#rd)  
 - [2025-10-28-2025年-Node.js-新模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623228&idx=1&sn=08d29060a8b3eed2e94f7735b8b55209&chksm=802258fdb755d1eb6ce5461ac5da286f72ffc677943c7da1248b6829c4046daa7845d128cec1#rd)  
 - [2025-10-22-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623222&idx=1&sn=d6beb9df545fb84d61b4fec79eb63ce6&chksm=802258f7b755d1e138435b6195c96ba1e0a6f6307a3888061080cb5f22fe6a155f776559419b#rd)  
-- [2025-10-21-编辑器也有邪修？盘点VS-Code邪门/有趣的扩展](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623213&idx=2&sn=8b8b4a9293b29341368bf58d554fa784&chksm=802258ecb755d1fa37f9f1aeec95e0f7186d472b5e6d154555031169408b0a05aca7656ef5a5#rd)  
 - [2025-10-21-我是微软工程师，编程了30多年，如今我几乎不再编程了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623213&idx=1&sn=49575c60c99dd51284d0e14c0d8b4004&chksm=802258ecb755d1fa78218f7cbda5534997da37e42e466666169a93371412c980ea5fb78d7336#rd)  
-- [2025-10-17-我写出了-Threejs-版城市天际线？！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623197&idx=2&sn=cbf51fa66ef70b4083aeda9acee3ffdc&chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd)  
+- [2025-10-21-编辑器也有邪修？盘点VS-Code邪门/有趣的扩展](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623213&idx=2&sn=8b8b4a9293b29341368bf58d554fa784&chksm=802258ecb755d1fa37f9f1aeec95e0f7186d472b5e6d154555031169408b0a05aca7656ef5a5#rd)  
 - [2025-10-17-裁裁裁！亚洲最大-IT-外包公司裁员-19755-人，后面还有“优化”大动作](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623197&idx=1&sn=2a59b8914c179e0305fb69b1b824b512&chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd)  
-- [2025-10-14-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623186&idx=1&sn=dbdca8372c698c631db0a4ec66717d7f&chksm=802258d3b755d1c5d2323516cf2c6216fe9fa0275d1b6bed5da53cc3689a12e98520da268413#rd)  
-- [2025-10-13-凌晨零点，一个TODO，差点把我们整个部门抬走](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623176&idx=1&sn=a63f5591ea7da918b1a58957afcfea39&chksm=802258c9b755d1dfa9b3eb624307cb35d67b37ae891d4e879cb623b3c3f3eccf7a8cf2d3baa2#rd)  
+- [2025-10-17-我写出了-Threejs-版城市天际线？！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623197&idx=2&sn=cbf51fa66ef70b4083aeda9acee3ffdc&chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-18T16:14:09.556Z</updated>
+    <updated>2025-11-19T00:47:51.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[一个函数超过20行? 聊聊我的函数式代码洁癖]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623368&amp;idx=2&amp;sn=42464fd273cd5c1f16492822792a9614&amp;chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623368&amp;idx=2&amp;sn=42464fd273cd5c1f16492822792a9614&amp;chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd"/>
+        <updated>2025-11-18T00:00:00.000Z</updated>
+        <published>2025-11-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3613期】JavaScript 中的错误链：用 Error.cause 让调试更清晰]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277933&amp;idx=1&amp;sn=d6d1eacd20690c6271a78026f2eaed23&amp;chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&amp;scene=0#rd</id>
@@ -246,16 +253,16 @@
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧]]></title>
-        <id>http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w</id>
-        <link href="http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w"/>
+        <title type="html"><![CDATA[中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！]]></title>
+        <id>http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w</id>
+        <link href="http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w"/>
         <updated>2025-11-03T00:00:00.000Z</updated>
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！]]></title>
-        <id>http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w</id>
-        <link href="http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w"/>
+        <title type="html"><![CDATA[好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧]]></title>
+        <id>http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w</id>
+        <link href="http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w"/>
         <updated>2025-11-03T00:00:00.000Z</updated>
         <published>2025-11-03T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/598"/>
         <updated>2025-10-28T00:00:00.000Z</updated>
         <published>2025-10-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canvas也支持锥形渐变了createConicGradient方法]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/"/>
-        <updated>2025-10-27T00:00:00.000Z</updated>
-        <published>2025-10-27T00:00:00.000Z</published>
     </entry>
 </feed>
