@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-20 08:45:43，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-20 14:15:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-11-20-【第3614期】常被忽视的-Node.js-功能，彻底改善了日志体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277957&idx=1&sn=f82c3d371bd6336a7ade9a37849bbe90&chksm=bc59398e2448e88a217798e87679c0452b07ac79fcdf699d290b43141421edf2847baf3428d7&scene=0#rd) ![](/assets/new.png)  
 - [2025-11-19-【早阅】使用本地优先数据构建原生级-Web-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277949&idx=1&sn=eb45bfa094736598fcf81938dfa8fd1d&chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&scene=0#rd)  
 - [2025-11-18-【第3613期】JavaScript-中的错误链：用-Error.cause-让调试更清晰](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277933&idx=1&sn=d6d1eacd20690c6271a78026f2eaed23&chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&scene=0#rd)  
 - [2025-11-17-【早阅】Node.js-2025-现状解读](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277928&idx=1&sn=f5778f9a2742921f784157ea11f6eb8c&chksm=bcc625823e9ad5a5fe516d37728467c86f11b5f4b0ff8f0bf1f90ecf19afb47277675a44a071&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-10-28-【第3604期】URLPattern：让浏览器原生支持更强大的-URL-路由与匹配](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277725&idx=1&sn=d8867e2c8125eb5409ce978449a155c7&chksm=bc709839d4cee3f1b212646eaca7500bb7e5c63fd032e539638f90d458509e058c7dbc3371fa&scene=0#rd)  
 - [2025-10-27-【早阅】使用-Web-API-构建浏览器-AI-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277719&idx=1&sn=0c428a2dd83ef8732b6c87cc7b4fffca&chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&scene=0#rd)  
 - [2025-10-24-【早阅】什么样的文档才算好文档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277705&idx=1&sn=c904937939770c2b0fb87581b93d348d&chksm=bc3bb307b56060136aea2f1990622c09baafd223231d30c268996972a95e0fab73a555491cff&scene=0#rd)  
-- [2025-10-23-【第3603期】如何修复任何-Bug](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277700&idx=1&sn=90772945ec46a5e3e904a8185c51d91c&chksm=bcf768111a6afec42c0168cc7a24e9fa0348bb2dafa771b196d7b39534f79e98f66187424661&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2025-11-19-React-如何处理高频的实时数据？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528358&idx=1&sn=2f34394f5da438873ae967d829cf074c&chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd) ![](/assets/new.png)  
-- [2025-11-18-大模型时代最讽刺的职业出现了：“大模型善后工程师”](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528344&idx=1&sn=0b51bdbdd34ef02821adc8ce530caebb&chksm=f9926949cee5e05fde052629f74f422d71148d223a15f8919cff3ce10e5548f2125f7a21a5ad#rd) ![](/assets/new.png)  
+- [2025-11-19-React-如何处理高频的实时数据？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528358&idx=1&sn=2f34394f5da438873ae967d829cf074c&chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd)  
+- [2025-11-18-大模型时代最讽刺的职业出现了：“大模型善后工程师”](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528344&idx=1&sn=0b51bdbdd34ef02821adc8ce530caebb&chksm=f9926949cee5e05fde052629f74f422d71148d223a15f8919cff3ce10e5548f2125f7a21a5ad#rd)  
 - [2025-11-17-教你通过规范驱动开发提升你的-AI-编程水平](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528314&idx=1&sn=6ed7799f6401bf346319a6513f801453&chksm=f99269abcee5e0bd72211ac54d4ea9543af63ac0f8502906c0092a3c3301b6e5da17242593cc#rd)  
 - [2025-11-14-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528306&idx=1&sn=123119980f9a33dba2a6b3d5343f5e2c&chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd)  
 - [2025-11-13-转转商品中心微前端升级之路](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528267&idx=1&sn=5b61a3c83713139b8f27073183d136f1&chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd)  
