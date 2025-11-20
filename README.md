@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-20 06:09:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-20 08:45:43，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,14 +25,14 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -264,6 +264,8 @@
 </summary>
 
 
+- [2025-11-19-React-如何处理高频的实时数据？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528358&idx=1&sn=2f34394f5da438873ae967d829cf074c&chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd) ![](/assets/new.png)  
+- [2025-11-18-大模型时代最讽刺的职业出现了：“大模型善后工程师”](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528344&idx=1&sn=0b51bdbdd34ef02821adc8ce530caebb&chksm=f9926949cee5e05fde052629f74f422d71148d223a15f8919cff3ce10e5548f2125f7a21a5ad#rd) ![](/assets/new.png)  
 - [2025-11-17-教你通过规范驱动开发提升你的-AI-编程水平](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528314&idx=1&sn=6ed7799f6401bf346319a6513f801453&chksm=f99269abcee5e0bd72211ac54d4ea9543af63ac0f8502906c0092a3c3301b6e5da17242593cc#rd)  
 - [2025-11-14-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528306&idx=1&sn=123119980f9a33dba2a6b3d5343f5e2c&chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd)  
 - [2025-11-13-转转商品中心微前端升级之路](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528267&idx=1&sn=5b61a3c83713139b8f27073183d136f1&chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd)  
@@ -282,8 +284,6 @@
 - [2025-10-28-程序员必知的核心指标一：UV/PV/P95-完全指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528078&idx=1&sn=f9b1f1c4d685c512b0f9a2b01d86ca8b&chksm=f992685fcee5e149a2e9f648e4dd8e0291828b68e42e19d5021c4adae0621e64d6e81a52404b#rd)  
 - [2025-10-27-15-个-Node.js-新功能替代流行-NPM-包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528076&idx=1&sn=f175e48dfa775b1324cc19ce19d8f787&chksm=f992685dcee5e14b3e7ac29c8382bd0a0aeb486d439c07f07249840dd97d1bf15a8240bb035c#rd)  
 - [2025-10-23-高频接口前端缓存解决方案：Service-Worker-+-IndexedDB](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528070&idx=1&sn=62103345f9e84d85cad6d1459f926cce&chksm=f9926857cee5e14190b0f890868c2f640159043e527d4613088522922dc05fdffed22053c36d#rd)  
-- [2025-10-22-什么？一套数字孪生三维可视化系统拖拖拽拽就搞定了？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528064&idx=1&sn=d0b9a21e84e47fccdd1f2259c5f3959a&chksm=f9926851cee5e1478e1231f5ff8aa208ecc55136f2085f3ab337cba6f77645f11a8d5af5efce#rd)  
-- [2025-10-21-10-个提升-Vue3-性能的实用技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528057&idx=1&sn=9b22a4ddd4da9b1606703a8c1233efe9&chksm=f99268a8cee5e1be7c855e2ac12f41590d3581f5e9ac75a09d0c997b18c3e997db8af3877d31#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-11-19-交易订单表如何做索引优化](http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g) ![](/assets/new.png)  
+- [2025-11-19-交易订单表如何做索引优化](http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g)  
 - [2025-11-14-页面搭建方案TurboUIBuilder在穿搭星球的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541931&idx=1&sn=a1687e2bfec0083ce651f23407115543&chksm=8390c773b4e74e65c579848f5f489ee9520f678265794ee84f1d63f2cf67d702fcb36977612b#rd)  
 - [2025-11-10-从0到1：天猫AI测试用例生成的实践与突破](http://mp.weixin.qq.com/s/XTKbyk0ZHYYdpY5Hvn4PLw)  
 - [2025-11-07-让AI打出丝滑连招：编码-部署-自测-改bug](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541895&idx=1&sn=6f5f8af100dba54c4675b2c2db62e416&chksm=8390c75fb4e74e49a468adbc1def8010715922b10642a4080feacde2802811377e1238109d52#rd)  

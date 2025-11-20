@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-19T22:09:56.315Z</updated>
+    <updated>2025-11-20T00:45:43.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[交易订单表如何做索引优化]]></title>
         <id>http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g</id>
         <link href="http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g"/>
+        <updated>2025-11-19T00:00:00.000Z</updated>
+        <published>2025-11-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 如何处理高频的实时数据？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528358&amp;idx=1&amp;sn=2f34394f5da438873ae967d829cf074c&amp;chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528358&amp;idx=1&amp;sn=2f34394f5da438873ae967d829cf074c&amp;chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd"/>
         <updated>2025-11-19T00:00:00.000Z</updated>
         <published>2025-11-19T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪：未来 Vite 将会收费]]></title>
         <id>http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw</id>
         <link href="http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw"/>
-        <updated>2025-10-28T00:00:00.000Z</updated>
-        <published>2025-10-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年 Node.js 新模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623228&amp;idx=1&amp;sn=08d29060a8b3eed2e94f7735b8b55209&amp;chksm=802258fdb755d1eb6ce5461ac5da286f72ffc677943c7da1248b6829c4046daa7845d128cec1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623228&amp;idx=1&amp;sn=08d29060a8b3eed2e94f7735b8b55209&amp;chksm=802258fdb755d1eb6ce5461ac5da286f72ffc677943c7da1248b6829c4046daa7845d128cec1#rd"/>
         <updated>2025-10-28T00:00:00.000Z</updated>
         <published>2025-10-28T00:00:00.000Z</published>
     </entry>
