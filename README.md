@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-21 04:12:09，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-21 14:17:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-11-21-【第3615期】前端安全：setHTML、Trusted-Types-和-Sanitizer-API-使用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277961&idx=1&sn=8233a680cb05111a5e2d4f66619baedb&chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&scene=0#rd) ![](/assets/new.png)  
 - [2025-11-20-【第3614期】常被忽视的-Node.js-功能，彻底改善了日志体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277957&idx=1&sn=f82c3d371bd6336a7ade9a37849bbe90&chksm=bc59398e2448e88a217798e87679c0452b07ac79fcdf699d290b43141421edf2847baf3428d7&scene=0#rd)  
 - [2025-11-19-【早阅】使用本地优先数据构建原生级-Web-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277949&idx=1&sn=eb45bfa094736598fcf81938dfa8fd1d&chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&scene=0#rd)  
 - [2025-11-18-【第3613期】JavaScript-中的错误链：用-Error.cause-让调试更清晰](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277933&idx=1&sn=d6d1eacd20690c6271a78026f2eaed23&chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-10-29-【第3605期】通过规范驱动开发提升你的-AI-开发水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277763&idx=1&sn=238e98aaf698e4d4c02de0aa4f3e37ca&chksm=bc57a0d40a73b4844c7c56229e840786d43b0eaf1a641286d3cd34d4f64984b52a09010304a0&scene=0#rd)  
 - [2025-10-28-【第3604期】URLPattern：让浏览器原生支持更强大的-URL-路由与匹配](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277725&idx=1&sn=d8867e2c8125eb5409ce978449a155c7&chksm=bc709839d4cee3f1b212646eaca7500bb7e5c63fd032e539638f90d458509e058c7dbc3371fa&scene=0#rd)  
 - [2025-10-27-【早阅】使用-Web-API-构建浏览器-AI-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277719&idx=1&sn=0c428a2dd83ef8732b6c87cc7b4fffca&chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&scene=0#rd)  
-- [2025-10-24-【早阅】什么样的文档才算好文档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277705&idx=1&sn=c904937939770c2b0fb87581b93d348d&chksm=bc3bb307b56060136aea2f1990622c09baafd223231d30c268996972a95e0fab73a555491cff&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,11 +202,11 @@
 </summary>
 
 
-- [2025-11-20-分享大厂使用最多的-7-个高效开发工具库](http://mp.weixin.qq.com/s/It9aYz8OMDMZwO9ORjxRLQ) ![](/assets/new.png)  
-- [2025-11-20-这-10-个被严重低估的-JS-API，效率提升-100%](http://mp.weixin.qq.com/s/UgIqAkLP4rGYyu9vMaqcMA) ![](/assets/new.png)  
-- [2025-11-19-4-大程序员兼职、接单平台推荐](http://mp.weixin.qq.com/s/10iqZKxuCtKvXCHXiTs2Rw) ![](/assets/new.png)  
-- [2025-11-18-尤雨溪推荐：专为-Vue3-设计的拖拽库](http://mp.weixin.qq.com/s/Oifc2iqcEMv9sEDS9wySlQ) ![](/assets/new.png)  
-- [2025-11-17-移植成功！Vue3-发布-80-个炫酷动画组件](http://mp.weixin.qq.com/s/1aXaPhICoiMUNPevEt5ZNg) ![](/assets/new.png)  
+- [2025-11-20-分享大厂使用最多的-7-个高效开发工具库](http://mp.weixin.qq.com/s/It9aYz8OMDMZwO9ORjxRLQ)  
+- [2025-11-20-这-10-个被严重低估的-JS-API，效率提升-100%](http://mp.weixin.qq.com/s/UgIqAkLP4rGYyu9vMaqcMA)  
+- [2025-11-19-4-大程序员兼职、接单平台推荐](http://mp.weixin.qq.com/s/10iqZKxuCtKvXCHXiTs2Rw)  
+- [2025-11-18-尤雨溪推荐：专为-Vue3-设计的拖拽库](http://mp.weixin.qq.com/s/Oifc2iqcEMv9sEDS9wySlQ)  
+- [2025-11-17-移植成功！Vue3-发布-80-个炫酷动画组件](http://mp.weixin.qq.com/s/1aXaPhICoiMUNPevEt5ZNg)  
 - [2025-11-15-2025前端最新场景题](http://mp.weixin.qq.com/s/LEY2Tnkj8l6TNE-i816aOA)  
 - [2025-11-14-Vue3-高级插件，正式免费使用！](http://mp.weixin.qq.com/s/HKbgia3ZhVGx6rpmIpGuZQ)  
 - [2025-11-13-有了这-20-个-JS-原生-API-，你可以不用装第三方库](http://mp.weixin.qq.com/s/uxa0L1nQx_T6U4_iyu_PMA)  
