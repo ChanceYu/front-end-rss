@@ -14,15 +14,15 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-22 00:12:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-24 06:09:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762) ![](/assets/new.png)  
+- [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762)  
 - [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)  
 - [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)  
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-11-23-Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw) ![](/assets/new.png)  
 - [2025-11-16-印度迎来AI工具“0元购”时代！OpenAI、谷歌等巨头内心os：别急，先让他们上瘾，我们再来收费](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526362&idx=1&sn=534112b862b7b641c0cbd3f86fa5d48f&chksm=f952d299ce255b8feffa5fc55414d7d748826d70a7cc4cfac0b8476d94c2e3bf2b87349cdb3f#rd)  
 - [2025-11-11-完整前端代码突然公开？苹果把App-Store“老底”都揭了，开发者社区炸锅！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526357&idx=1&sn=6ef10df8180a60a78224c93566659990&chksm=f952d296ce255b80ecd68e067e2fb215fe727f80c7c370415b28662f6a0c1a40133fdac2f7d7#rd)  
 - [2025-10-28-“神级模型”Gemini-3.0实力刷屏！联手谷歌全新氛围编程工具重塑前端，如今只差官宣](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526345&idx=1&sn=9df1f4feca9da1a9dd57bd9f8dbc3b5f&chksm=f952d28ace255b9c9a2dd30b6b0825e783ff31209d2f5719e83d7ae66b14944e3202d3a732e4#rd)  
@@ -190,7 +191,6 @@
 - [2025-06-26-React-被指“沦为-Vercel-打工仔”，力推框架只为圈钱？核心成员亲自下场回应却遭群嘲](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526131&idx=1&sn=cbeadea0537659a67e31db16b0990443&chksm=f952d3b0ce255aa6d613d7ed946d50a81ef4b98e75fbfd1f9be0fdc21d6c60ede02e48e1d202#rd)  
 - [2025-06-22-Angular-v20发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526116&idx=1&sn=70b21a0e0bf131f667a08f312ae9ea24&chksm=f952d3a7ce255ab1d7c21b608e3d7b0cbb42845dcdee80b7ab58e41dea9aa7aa28265cee0e3f#rd)  
 - [2025-06-12-苹果12年首次大改UI，还炮轰“跨平台”框架！“液态玻璃”会是Flutter开发者的“至暗时刻”吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526083&idx=1&sn=1af1bec8b7c437583c7ac41b77f5ffb1&chksm=f952d380ce255a969c6c107d754c8b9350aca5e780561b16e5cdfb0386bb0ec0cb9ebd7de54e#rd)  
-- [2025-06-04-为什么2025/05/28和2025-05-28在JavaScript中是不同的日子？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526056&idx=1&sn=202a60fe318fddb770f889dfc7ff7646&chksm=f952d3ebce255afd16f1b9aad0daaf6c1b20d07b3e0c841da7dbd1df6dbf50aa422a5b15a8c7#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

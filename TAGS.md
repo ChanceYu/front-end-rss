@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-22 00:12:50。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-24 06:09:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -406,6 +406,7 @@
 - [【前端早读课】【第2207期】为git仓库自动生成changelog-html页面](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244082&idx=2&sn=21f225224d71bb44169ac4b03e71749c&chksm=bd491fb68a3e96a083f40b1aa69f1ed1c7c34f1ce01356dfffe65cd059a3dd1b9a0a13fbd207&scene=27#wechat_redirect)
 - [【前端早读课】【英】HTML-mailto-link](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237042&idx=3&sn=79cde14e9196fc85df190acb65b127f2&chksm=bd4973368a3efa206a38e18653ba4e24281c2694e19f660edf73fb40a98f5d33f20827167180&scene=27#wechat_redirect)
 - [【前端早读课】【第1858期】通过HTML属性可改善用户的双重身份验证体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235715&idx=1&sn=a7e364236e694b774c671991d657f389&chksm=bd497c078a3ef5113a8d7a2b0d5fbeef13693d188978343b601701962a3086dbf5d7b4e70dce&scene=27#wechat_redirect)
+- [【前端之巅】Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw)
 - [【前端之巅】Adobe收购Figma；易联购预售iPhone卷款跑路；脉脉以旷工为由辞退员工，被判赔24万；Meta开源MemLab](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517964&idx=1&sn=fd812c4578cf63ba2924f7d0e5c8b48e&chksm=f952324fce25bb598f78f8a710d2fee125012a6ec4860e1e980b9308631c962c694fe5ab313d#rd)
 - [【前端之巅】为什么要用-picture-标签代替-img-标签？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506985&idx=2&sn=2d52b27efe0d52fc3eb2a9761ad0c15e&chksm=f952696ace25e07c37b85512410826383a3f6ea1667b4fbfc1245819b7ccb91347cb58292090&scene=27#wechat_redirect)
 - [【前端之巅】容易被忽略的5个HTML技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506806&idx=2&sn=f088238e232600ebabbfc44390c394aa&chksm=f9526e35ce25e723db74e4fd001405765e15ae74ee3853799f4ec70a0f8dc6ca381be7b7a457&scene=27#wechat_redirect)
@@ -417,7 +418,6 @@
 - [【前端之神】面试官：原生HTML怎么实现一个Dialog？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487702&idx=1&sn=38f1c979938292e053695835065bb06a&chksm=ce460547f9318c51dc05e7d6f8bea9529f6bfc485d6a2b96558a246cb78a8b23d6214e2d0480#rd)
 - [【前端之神】12个可能你没见过，但非常实用的-HTML-标签](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487013&idx=1&sn=ebd90df4ce332dbb290d0c96bf8af0cb&chksm=ce461bb4f93192a21482decdda861ca3c15d26782827c00b01c2bf040a3bed22e01dd985ac9a#rd)
 - [【前端之神】Input标签这么牛？居然也自带颜色选择器功能？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486913&idx=1&sn=eb5a63a24332c1da903b493fc370c98a&chksm=ce461850f9319146b4857125d96006c5065df8f10239d9c40ca0d92af9b2e63f84268fd82764#rd)
-- [【前端之神】有意思的面试题：统计页面出现次数前三的标签](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486188&idx=1&sn=f330456718f5bba6d772a11ed78149b1&chksm=ce461f7df931966bc21360053c727ef11bc8e850eb2566c041db661c9a509916bb30167e2540#rd)
 - [查看更多 >](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

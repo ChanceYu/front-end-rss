@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-21T16:12:50.228Z</updated>
+    <updated>2025-11-23T22:09:18.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Meta 用一个烂 Web 应用替换原生 WhatsApp：Windows 用户活该将就？]]></title>
+        <id>http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw</id>
+        <link href="http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw"/>
+        <updated>2025-11-23T00:00:00.000Z</updated>
+        <published>2025-11-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3615期】前端安全：setHTML()、Trusted Types 和 Sanitizer API 使用指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277961&amp;idx=1&amp;sn=8233a680cb05111a5e2d4f66619baedb&amp;chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/759"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vivo 前端三剑客发展历程及原理揭秘]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517456&amp;idx=1&amp;sn=849be7450825af5890f229d3956fe43f&amp;chksm=eb07bd69dc70347f619c3c419c20ba4332b892973ad74beef41323490d34e8ce6b10d17e836f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517456&amp;idx=1&amp;sn=849be7450825af5890f229d3956fe43f&amp;chksm=eb07bd69dc70347f619c3c419c20ba4332b892973ad74beef41323490d34e8ce6b10d17e836f#rd"/>
-        <updated>2025-10-30T00:00:00.000Z</updated>
-        <published>2025-10-30T00:00:00.000Z</published>
     </entry>
 </feed>
