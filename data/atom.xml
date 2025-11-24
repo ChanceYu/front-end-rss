@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-23T22:09:18.975Z</updated>
+    <updated>2025-11-24T04:25:28.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3616期】JavaScript 原型污染]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277982&amp;idx=1&amp;sn=7e2f24da357206da210422c8c0c33e61&amp;chksm=bce0d7d15007212ac1422c3daaa995e072e9b749692591c48de8a2acd3db4c74be5ccf4422b6&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277982&amp;idx=1&amp;sn=7e2f24da357206da210422c8c0c33e61&amp;chksm=bce0d7d15007212ac1422c3daaa995e072e9b749692591c48de8a2acd3db4c74be5ccf4422b6&amp;scene=0#rd"/>
+        <updated>2025-11-24T00:00:00.000Z</updated>
+        <published>2025-11-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta 用一个烂 Web 应用替换原生 WhatsApp：Windows 用户活该将就？]]></title>
         <id>http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3606期】vivo 前端三剑客发展历程及原理揭秘]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277798&amp;idx=1&amp;sn=f595cc4365c163ce75cfc2c7572f2989&amp;chksm=bc1a7e8b7764bf973e4e837ac5d13ba59592fd21d11588181af411c604f66b4caf1aed692c1f&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277798&amp;idx=1&amp;sn=f595cc4365c163ce75cfc2c7572f2989&amp;chksm=bc1a7e8b7764bf973e4e837ac5d13ba59592fd21d11588181af411c604f66b4caf1aed692c1f&amp;scene=0#rd"/>
-        <updated>2025-10-31T00:00:00.000Z</updated>
-        <published>2025-10-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript and JavaScript dominate on GitHub in 2025]]></title>
-        <id>https://javascriptweekly.com/issues/759</id>
-        <link href="https://javascriptweekly.com/issues/759"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
     </entry>
