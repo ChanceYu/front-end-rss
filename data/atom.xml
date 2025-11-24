@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-24T08:16:33.617Z</updated>
+    <updated>2025-11-24T22:08:57.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,11 +22,32 @@
         <published>2025-11-24T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[常被忽视的 Node.js 功能，彻底改善了日志体验]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528397&amp;idx=1&amp;sn=127aa113e933093d4c2665fb198eb5b4&amp;chksm=f992691ccee5e00a6efc0dc98a2e3399d2b82ce758ef438998c2589bf4e46fbb9e1646c9118a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528397&amp;idx=1&amp;sn=127aa113e933093d4c2665fb198eb5b4&amp;chksm=f992691ccee5e00a6efc0dc98a2e3399d2b82ce758ef438998c2589bf4e46fbb9e1646c9118a#rd"/>
+        <updated>2025-11-24T00:00:00.000Z</updated>
+        <published>2025-11-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506602&amp;idx=1&amp;sn=a50e2c371e24ed42be201931ea132497&amp;chksm=ce45cf3bf932462dc552e5bfab0eb8b9038e26ef530b559c46d165521df7a089ef9ce5497e45#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506602&amp;idx=1&amp;sn=a50e2c371e24ed42be201931ea132497&amp;chksm=ce45cf3bf932462dc552e5bfab0eb8b9038e26ef530b559c46d165521df7a089ef9ce5497e45#rd"/>
+        <updated>2025-11-24T00:00:00.000Z</updated>
+        <published>2025-11-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3616期】JavaScript 原型污染]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277982&amp;idx=1&amp;sn=7e2f24da357206da210422c8c0c33e61&amp;chksm=bce0d7d15007212ac1422c3daaa995e072e9b749692591c48de8a2acd3db4c74be5ccf4422b6&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277982&amp;idx=1&amp;sn=7e2f24da357206da210422c8c0c33e61&amp;chksm=bce0d7d15007212ac1422c3daaa995e072e9b749692591c48de8a2acd3db4c74be5ccf4422b6&amp;scene=0#rd"/>
         <updated>2025-11-24T00:00:00.000Z</updated>
         <published>2025-11-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ant-Design 6.0 正式发布，新增超多组件]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506581&amp;idx=1&amp;sn=86d1403a5403a04ade361c5949565014&amp;chksm=ce45cf04f9324612f162bbf2162836a84cc9369678ac29bc97676cab416a36c066ac671ac5e2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506581&amp;idx=1&amp;sn=86d1403a5403a04ade361c5949565014&amp;chksm=ce45cf04f9324612f162bbf2162836a84cc9369678ac29bc97676cab416a36c066ac671ac5e2#rd"/>
+        <updated>2025-11-23T00:00:00.000Z</updated>
+        <published>2025-11-23T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta 用一个烂 Web 应用替换原生 WhatsApp：Windows 用户活该将就？]]></title>
@@ -36,11 +57,32 @@
         <published>2025-11-23T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JavaScript 的 10 种设计模式和应用场景]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506565&amp;idx=1&amp;sn=d22eb19dd8d19e6308f59be191459c03&amp;chksm=ce45cf14f932460220796abb5e56d0b331d637e8812c0cabf311d7f3d16960ec3026c63ff9e8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506565&amp;idx=1&amp;sn=d22eb19dd8d19e6308f59be191459c03&amp;chksm=ce45cf14f932460220796abb5e56d0b331d637e8812c0cabf311d7f3d16960ec3026c63ff9e8#rd"/>
+        <updated>2025-11-22T00:00:00.000Z</updated>
+        <published>2025-11-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源的SSR框架都是怎么实现的？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528389&amp;idx=1&amp;sn=ec2a5cb303c5cefd3d6c6893c18a1efd&amp;chksm=f9926914cee5e002d8c2c0e5c5ee39e24c5b16b32a3160da5b3a59e258a4ba8ab667100f8c35#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528389&amp;idx=1&amp;sn=ec2a5cb303c5cefd3d6c6893c18a1efd&amp;chksm=f9926914cee5e002d8c2c0e5c5ee39e24c5b16b32a3160da5b3a59e258a4ba8ab667100f8c35#rd"/>
+        <updated>2025-11-21T00:00:00.000Z</updated>
+        <published>2025-11-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3615期】前端安全：setHTML()、Trusted Types 和 Sanitizer API 使用指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277961&amp;idx=1&amp;sn=8233a680cb05111a5e2d4f66619baedb&amp;chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277961&amp;idx=1&amp;sn=8233a680cb05111a5e2d4f66619baedb&amp;chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&amp;scene=0#rd"/>
         <updated>2025-11-21T00:00:00.000Z</updated>
         <published>2025-11-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这 10 个被严重低估的 JS API，效率提升 100%]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517460&amp;idx=1&amp;sn=f4943078661f669578c87248b1a9df85&amp;chksm=eb07bd6ddc70347b43743b8a8b53274a782172badbaf646f204c366ac7113467ccf7ce887cff#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517460&amp;idx=1&amp;sn=f4943078661f669578c87248b1a9df85&amp;chksm=eb07bd6ddc70347b43743b8a8b53274a782172badbaf646f204c366ac7113467ccf7ce887cff#rd"/>
+        <updated>2025-11-20T00:00:00.000Z</updated>
+        <published>2025-11-20T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[这 10 个被严重低估的 JS API，效率提升 100%]]></title>
@@ -267,16 +309,16 @@
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
-        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
-        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
+        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
+        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
+        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
-        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
-        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
+        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
+        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
+        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
@@ -321,47 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/"/>
         <updated>2025-11-03T00:00:00.000Z</updated>
         <published>2025-11-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript还能这样写？！ES2025新语法让代码优雅到极致]]></title>
-        <id>http://mp.weixin.qq.com/s/NyGbNHCBcOh1OabRxUKYew</id>
-        <link href="http://mp.weixin.qq.com/s/NyGbNHCBcOh1OabRxUKYew"/>
-        <updated>2025-11-03T00:00:00.000Z</updated>
-        <published>2025-11-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！]]></title>
-        <id>http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w</id>
-        <link href="http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w"/>
-        <updated>2025-11-03T00:00:00.000Z</updated>
-        <published>2025-11-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧]]></title>
-        <id>http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w</id>
-        <link href="http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w"/>
-        <updated>2025-11-03T00:00:00.000Z</updated>
-        <published>2025-11-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[牛叉！Vue3 彻底封神！]]></title>
-        <id>http://mp.weixin.qq.com/s/CS729fcVwXNl5ReFeYBKuA</id>
-        <link href="http://mp.weixin.qq.com/s/CS729fcVwXNl5ReFeYBKuA"/>
-        <updated>2025-11-02T00:00:00.000Z</updated>
-        <published>2025-11-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[localStorage 的使用越来越少了？]]></title>
-        <id>http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ</id>
-        <link href="http://mp.weixin.qq.com/s/42cvcxaSrH-wh9gf4bVPBQ"/>
-        <updated>2025-10-31T00:00:00.000Z</updated>
-        <published>2025-10-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
-        <id>http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA</id>
-        <link href="http://mp.weixin.qq.com/s/ObwW5Z2NnSo5Oj7dT0J8pA"/>
-        <updated>2025-10-31T00:00:00.000Z</updated>
-        <published>2025-10-31T00:00:00.000Z</published>
     </entry>
 </feed>
