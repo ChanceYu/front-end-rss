@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-25T18:15:52.245Z</updated>
+    <updated>2025-11-25T20:11:33.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Prisma：用Typescript 重构项目，性能提升3倍]]></title>
+        <id>http://mp.weixin.qq.com/s/qWiE7g3vQqJ70b5DjkaXmg</id>
+        <link href="http://mp.weixin.qq.com/s/qWiE7g3vQqJ70b5DjkaXmg"/>
+        <updated>2025-11-25T00:00:00.000Z</updated>
+        <published>2025-11-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巧用CSS ::details-content伪元素实现任意展开动画]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/</id>
@@ -323,16 +330,16 @@
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
-        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
-        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
+        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
+        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
+        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果官网源码被曝光！用的不是 Vue 也不是 React]]></title>
-        <id>http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g</id>
-        <link href="http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g"/>
+        <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
+        <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
+        <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Cursor 原理之窥探提示词]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528155&amp;idx=1&amp;sn=15be02cf1051e4e2886d409496e2909b&amp;chksm=f992680acee5e11c031f93746b269657ecfd6fae69cdb4b21a7bceb43b94781fabea22a7e30f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528155&amp;idx=1&amp;sn=15be02cf1051e4e2886d409496e2909b&amp;chksm=f992680acee5e11c031f93746b269657ecfd6fae69cdb4b21a7bceb43b94781fabea22a7e30f#rd"/>
-        <updated>2025-11-04T00:00:00.000Z</updated>
-        <published>2025-11-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双 Token 认证机制：从原理到实践的完整实现]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623264&amp;idx=2&amp;sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&amp;chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623264&amp;idx=2&amp;sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&amp;chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd"/>
         <updated>2025-11-04T00:00:00.000Z</updated>
         <published>2025-11-04T00:00:00.000Z</published>
     </entry>

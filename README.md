@@ -14,22 +14,22 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-26 02:15:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-26 04:11:33，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-11-25-Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602) ![](/assets/new.png)  
+- [2025-11-25-Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602)  
 - [2025-11-18-Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601)  
 - [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600)  
 - [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599)  
@@ -202,12 +202,14 @@
 </summary>
 
 
+- [2025-11-25-Prisma：用Typescript-重构项目，性能提升3倍](http://mp.weixin.qq.com/s/qWiE7g3vQqJ70b5DjkaXmg) ![](/assets/new.png)  
 - [2025-11-24-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506602&idx=1&sn=a50e2c371e24ed42be201931ea132497&chksm=ce45cf3bf932462dc552e5bfab0eb8b9038e26ef530b559c46d165521df7a089ef9ce5497e45#rd)  
 - [2025-11-23-Ant-Design-6.0-正式发布，新增超多组件](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506581&idx=1&sn=86d1403a5403a04ade361c5949565014&chksm=ce45cf04f9324612f162bbf2162836a84cc9369678ac29bc97676cab416a36c066ac671ac5e2#rd)  
+- [2025-11-23-这段时间找工作，全靠这套面试题](http://mp.weixin.qq.com/s/ommsOrulQHP0SG4c7JrvrQ) ![](/assets/new.png)  
 - [2025-11-22-JavaScript-的-10-种设计模式和应用场景](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506565&idx=1&sn=d22eb19dd8d19e6308f59be191459c03&chksm=ce45cf14f932460220796abb5e56d0b331d637e8812c0cabf311d7f3d16960ec3026c63ff9e8#rd)  
 - [2025-11-21-请前端人务必立即拿下软考证书（政策红利）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506534&idx=1&sn=9c18f61213e6835b3d41f0225d559dee&chksm=ce45cff7f93246e1153e5228c6e2a8cc16eb11682f06b19b01acb1665935bb7cc268be791f37#rd)  
-- [2025-11-20-这-10-个被严重低估的-JS-API，效率提升-100%](http://mp.weixin.qq.com/s/UgIqAkLP4rGYyu9vMaqcMA)  
 - [2025-11-20-分享大厂使用最多的-7-个高效开发工具库](http://mp.weixin.qq.com/s/It9aYz8OMDMZwO9ORjxRLQ)  
+- [2025-11-20-这-10-个被严重低估的-JS-API，效率提升-100%](http://mp.weixin.qq.com/s/UgIqAkLP4rGYyu9vMaqcMA)  
 - [2025-11-19-4-大程序员兼职、接单平台推荐](http://mp.weixin.qq.com/s/10iqZKxuCtKvXCHXiTs2Rw)  
 - [2025-11-18-尤雨溪推荐：专为-Vue3-设计的拖拽库](http://mp.weixin.qq.com/s/Oifc2iqcEMv9sEDS9wySlQ)  
 - [2025-11-17-移植成功！Vue3-发布-80-个炫酷动画组件](http://mp.weixin.qq.com/s/1aXaPhICoiMUNPevEt5ZNg)  
@@ -220,8 +222,6 @@
 - [2025-11-08-2025前端最新场景题](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506419&idx=1&sn=7b0ad158a985ebb44b4bf9cfeb668c1d&chksm=ce45cc62f932457477d9aad87c96a02cb457464efed0ce83e0b044aa4c9ffffaa818ea270f87#rd)  
 - [2025-11-07-前端全球人气最高-UI-组件库，宣布接入-AI](http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ)  
 - [2025-11-06-正式裁员15000人，赔偿N+4！](http://mp.weixin.qq.com/s/X2l82YLEBdIr9OKKdRPU9A)  
-- [2025-11-05-苹果官网源码被曝光！用的不是-Vue-也不是-React](http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g)  
-- [2025-11-05-继-HTML/CSS/JS-之后，前端的第四门语言诞生？](http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-11-25-首个数字人智能体NuwaAI实测，一句话就能干活了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505368&idx=1&sn=91b83516d229b7dcd267a222d26b96d2&chksm=c2b31427f5c49d31d1dedb104a07dab857793e6649253ac4decacdc879ab13b898cb8b2d9138#rd) ![](/assets/new.png)  
+- [2025-11-25-首个数字人智能体NuwaAI实测，一句话就能干活了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505368&idx=1&sn=91b83516d229b7dcd267a222d26b96d2&chksm=c2b31427f5c49d31d1dedb104a07dab857793e6649253ac4decacdc879ab13b898cb8b2d9138#rd)  
 - [2025-11-24-Nano-Banana-Pro的真正极限，藏在Lovart里](http://mp.weixin.qq.com/s/QbD1k_pWIE1aA-QzehucDg)  
 - [2025-11-23-乔布斯30年前的访谈刚公开，像一颗子弹击中了我](http://mp.weixin.qq.com/s/du8bg6N7I33j5Nk0X8p_Qw)  
 - [2025-11-21-NotebookLM上新Nano-Banana-Pro，PPT一键封神](http://mp.weixin.qq.com/s/DHeuhy3GgEKxhPO1AQubcg)  
