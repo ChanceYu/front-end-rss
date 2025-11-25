@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-24T22:08:57.251Z</updated>
+    <updated>2025-11-25T03:08:49.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506602&amp;idx=1&amp;sn=a50e2c371e24ed42be201931ea132497&amp;chksm=ce45cf3bf932462dc552e5bfab0eb8b9038e26ef530b559c46d165521df7a089ef9ce5497e45#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506602&amp;idx=1&amp;sn=a50e2c371e24ed42be201931ea132497&amp;chksm=ce45cf3bf932462dc552e5bfab0eb8b9038e26ef530b559c46d165521df7a089ef9ce5497e45#rd"/>
+        <updated>2025-11-24T00:00:00.000Z</updated>
+        <published>2025-11-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 3.6 进“养老模式”了吗？一年没大更新，稳得让我有点慌]]></title>
+        <id>http://mp.weixin.qq.com/s/LWztYtxPpjK-heK5x3DfUA</id>
+        <link href="http://mp.weixin.qq.com/s/LWztYtxPpjK-heK5x3DfUA"/>
         <updated>2025-11-24T00:00:00.000Z</updated>
         <published>2025-11-24T00:00:00.000Z</published>
     </entry>
@@ -88,6 +95,13 @@
         <title type="html"><![CDATA[这 10 个被严重低估的 JS API，效率提升 100%]]></title>
         <id>http://mp.weixin.qq.com/s/UgIqAkLP4rGYyu9vMaqcMA</id>
         <link href="http://mp.weixin.qq.com/s/UgIqAkLP4rGYyu9vMaqcMA"/>
+        <updated>2025-11-20T00:00:00.000Z</updated>
+        <published>2025-11-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
+        <id>http://mp.weixin.qq.com/s/8Ur3qZPzpgaCmdv6XUZv5A</id>
+        <link href="http://mp.weixin.qq.com/s/8Ur3qZPzpgaCmdv6XUZv5A"/>
         <updated>2025-11-20T00:00:00.000Z</updated>
         <published>2025-11-20T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623264&amp;idx=2&amp;sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&amp;chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd"/>
         <updated>2025-11-04T00:00:00.000Z</updated>
         <published>2025-11-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Importing Node modules from BitTorrent?]]></title>
-        <id>https://nodeweekly.com/issues/599</id>
-        <link href="https://nodeweekly.com/issues/599"/>
-        <updated>2025-11-04T00:00:00.000Z</updated>
-        <published>2025-11-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[垃圾特性之CSS :heading伪类和:heading()函数]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/"/>
-        <updated>2025-11-03T00:00:00.000Z</updated>
-        <published>2025-11-03T00:00:00.000Z</published>
     </entry>
 </feed>
