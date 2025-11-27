@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-26T06:16:33.341Z</updated>
+    <updated>2025-11-27T06:16:55.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3619期】让字距随字体自适应变化的 CSS 技巧]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278003&amp;idx=1&amp;sn=72f8517f9201eabd058015706fcacc14&amp;chksm=bcb003856256333c944ed42377c5a97b37bb73be74fa26586dc62013698d788b83cd01fefe27&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278003&amp;idx=1&amp;sn=72f8517f9201eabd058015706fcacc14&amp;chksm=bcb003856256333c944ed42377c5a97b37bb73be74fa26586dc62013698d788b83cd01fefe27&amp;scene=0#rd"/>
+        <updated>2025-11-27T00:00:00.000Z</updated>
+        <published>2025-11-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3618期】React 19.2：步入「Sigma」时代]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277995&amp;idx=1&amp;sn=4597002bb82c8995bbdbb6e94ee323b6&amp;chksm=bc169dfee65300a4d36c805ca1a60df6224d0b961f26ddfd6fefb8f464d7bed6d8409346b86b&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623292&amp;idx=1&amp;sn=ca6905ab1eac95d9507c1bbf0c66cb3a&amp;chksm=802258bdb755d1abc7b42695a9599d6a92d25600f93efa71d270b7fce5f3d5aa7adea84ec0ea#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623292&amp;idx=1&amp;sn=ca6905ab1eac95d9507c1bbf0c66cb3a&amp;chksm=802258bdb755d1abc7b42695a9599d6a92d25600f93efa71d270b7fce5f3d5aa7adea84ec0ea#rd"/>
-        <updated>2025-11-05T00:00:00.000Z</updated>
-        <published>2025-11-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3608期】Next.js 16 新特性解读：从异步参数到 Turbopack 默认化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277855&amp;idx=1&amp;sn=5e61452f4d216189051162d44606e4cc&amp;chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277855&amp;idx=1&amp;sn=5e61452f4d216189051162d44606e4cc&amp;chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&amp;scene=0#rd"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
