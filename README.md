@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-27 14:16:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-27 18:11:54，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-11-27-【第3619期】让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278003&idx=1&sn=72f8517f9201eabd058015706fcacc14&chksm=bcb003856256333c944ed42377c5a97b37bb73be74fa26586dc62013698d788b83cd01fefe27&scene=0#rd) ![](/assets/new.png)  
+- [2025-11-27-【第3619期】让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278003&idx=1&sn=72f8517f9201eabd058015706fcacc14&chksm=bcb003856256333c944ed42377c5a97b37bb73be74fa26586dc62013698d788b83cd01fefe27&scene=0#rd)  
 - [2025-11-26-【第3618期】React-19.2：步入「Sigma」时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=1&sn=4597002bb82c8995bbdbb6e94ee323b6&chksm=bc169dfee65300a4d36c805ca1a60df6224d0b961f26ddfd6fefb8f464d7bed6d8409346b86b&scene=0#rd)  
 - [2025-11-26-12月20日，FEDAY-2025，长沙见【前端，不止于-AI。】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=2&sn=59cda3825fbfcb4d9b48ef0d884b1a07&chksm=bc7fe3957a8281e4da96db4be0c553e0a8e5eeb273c6e447c70d1ba3859e98ec7f8e09fe8228&scene=0#rd)  
 - [2025-11-25-【第3617期】DNS-解析的成本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277986&idx=1&sn=4063489bced887279279bf63bab31739&chksm=bcedcefaa5878ce2e9516cb39e1753e083cc878ad7061dc498b0cceaae1abb489ff160910dfa&scene=0#rd)  
@@ -264,6 +264,9 @@
 </summary>
 
 
+- [2025-11-27-Ant-Design-6.0-来了！这一次它终于想通了什么？](http://mp.weixin.qq.com/s/l8tS6pgqh1m5puxeO15w3w) ![](/assets/new.png)  
+- [2025-11-26-当-AI-走进前端开发：代理插件的全流程开发实践](http://mp.weixin.qq.com/s/8jERE-l8BRTZeBw2mWkjxw) ![](/assets/new.png)  
+- [2025-11-25-工具浪潮下-Babel-的定位与未来演进！](http://mp.weixin.qq.com/s/elqqbMgkyi3z6zVSeQjAsw) ![](/assets/new.png)  
 - [2025-11-24-常被忽视的-Node.js-功能，彻底改善了日志体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528397&idx=1&sn=127aa113e933093d4c2665fb198eb5b4&chksm=f992691ccee5e00a6efc0dc98a2e3399d2b82ce758ef438998c2589bf4e46fbb9e1646c9118a#rd)  
 - [2025-11-21-开源的SSR框架都是怎么实现的？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528389&idx=1&sn=ec2a5cb303c5cefd3d6c6893c18a1efd&chksm=f9926914cee5e002d8c2c0e5c5ee39e24c5b16b32a3160da5b3a59e258a4ba8ab667100f8c35#rd)  
 - [2025-11-20-高级前端开发人员最佳实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528371&idx=1&sn=cc4dffdca703c3065f53e20e2e9f6fa6&chksm=f9926962cee5e074e7038de358d2c969fe69428131c3e1893cbfefb8457dbf6564c8ff458bc2#rd)  
@@ -281,9 +284,6 @@
 - [2025-11-04-Cursor-原理之窥探提示词](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528155&idx=1&sn=15be02cf1051e4e2886d409496e2909b&chksm=f992680acee5e11c031f93746b269657ecfd6fae69cdb4b21a7bceb43b94781fabea22a7e30f#rd)  
 - [2025-11-03-JavaScript还能这样写？！ES2025新语法让代码优雅到极致](http://mp.weixin.qq.com/s/NyGbNHCBcOh1OabRxUKYew)  
 - [2025-11-01-聊聊如何写好提示词，AI-回答质量直接翻倍！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528108&idx=1&sn=2f1e78f7219997699ca1c774a1509057&chksm=f992687dcee5e16b25d021af7132fabc7765fd8cdb5ae02c25e941903e01f7d5eb8dcf02b401#rd)  
-- [2025-10-31-新人也能上手的“拖拽+配置”开发平台](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528102&idx=1&sn=e45209187ac5db60121addddef76dc15&chksm=f9926877cee5e1619b5047b458305297fff194557a663dd1fadb20ce2edee2ddbe0190220c42#rd)  
-- [2025-10-30-面试官：有一个比较经典的-case-也想探讨一下-「页面白屏如何排查？」](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528092&idx=1&sn=65fecf0ecbf283482fae653cb4d3b5bd&chksm=f992684dcee5e15ba04175db2aa1522842362b15b4fc653dc753c62599a653f38ca37b54450f#rd)  
-- [2025-10-29-面试：前端如何应对数百万个-API-请求而不会导致系统崩溃](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528086&idx=1&sn=d1e95df62bd0b59818601a01adf26883&chksm=f9926847cee5e151bfd4273beb992a94fb0df13f8737b707ad47248e119413bbc904b9aa5465#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

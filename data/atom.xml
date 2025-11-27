@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-27T06:16:55.180Z</updated>
+    <updated>2025-11-27T10:11:54.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277995&amp;idx=1&amp;sn=4597002bb82c8995bbdbb6e94ee323b6&amp;chksm=bc169dfee65300a4d36c805ca1a60df6224d0b961f26ddfd6fefb8f464d7bed6d8409346b86b&amp;scene=0#rd"/>
         <updated>2025-11-26T00:00:00.000Z</updated>
         <published>2025-11-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工具浪潮下 Babel 的定位与未来演进！]]></title>
+        <id>http://mp.weixin.qq.com/s/elqqbMgkyi3z6zVSeQjAsw</id>
+        <link href="http://mp.weixin.qq.com/s/elqqbMgkyi3z6zVSeQjAsw"/>
+        <updated>2025-11-25T00:00:00.000Z</updated>
+        <published>2025-11-25T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Prisma：用Typescript 重构项目，性能提升3倍]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[继 HTML/CSS/JS 之后，前端的第四门语言诞生？]]></title>
         <id>http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ</id>
         <link href="http://mp.weixin.qq.com/s/RO-ulCh7zsYLdS4UrXzMQQ"/>
-        <updated>2025-11-05T00:00:00.000Z</updated>
-        <published>2025-11-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623292&amp;idx=1&amp;sn=ca6905ab1eac95d9507c1bbf0c66cb3a&amp;chksm=802258bdb755d1abc7b42695a9599d6a92d25600f93efa71d270b7fce5f3d5aa7adea84ec0ea#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623292&amp;idx=1&amp;sn=ca6905ab1eac95d9507c1bbf0c66cb3a&amp;chksm=802258bdb755d1abc7b42695a9599d6a92d25600f93efa71d270b7fce5f3d5aa7adea84ec0ea#rd"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <published>2025-11-05T00:00:00.000Z</published>
     </entry>
