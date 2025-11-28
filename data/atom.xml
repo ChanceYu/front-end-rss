@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-28T10:12:20.115Z</updated>
+    <updated>2025-11-28T14:10:24.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,11 +22,25 @@
         <published>2025-11-28T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[最强大 Vue3 监控埋点库！覆盖 8 个维度！]]></title>
+        <id>http://mp.weixin.qq.com/s/vNVJrJ72df_h7WxlfjiRMw</id>
+        <link href="http://mp.weixin.qq.com/s/vNVJrJ72df_h7WxlfjiRMw"/>
+        <updated>2025-11-28T00:00:00.000Z</updated>
+        <published>2025-11-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【早阅】让依赖更轻，让构建更快：tinyglobby 的演进之路]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278016&amp;idx=1&amp;sn=5f4c4289cfb21cfd63c9316e63bbb3eb&amp;chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278016&amp;idx=1&amp;sn=5f4c4289cfb21cfd63c9316e63bbb3eb&amp;chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&amp;scene=0#rd"/>
         <updated>2025-11-28T00:00:00.000Z</updated>
         <published>2025-11-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS 公布 2025 新特性前十排名]]></title>
+        <id>http://mp.weixin.qq.com/s/4Rn43MKXXUgvuK4wPtt1vQ</id>
+        <link href="http://mp.weixin.qq.com/s/4Rn43MKXXUgvuK4wPtt1vQ"/>
+        <updated>2025-11-27T00:00:00.000Z</updated>
+        <published>2025-11-27T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3619期】让字距随字体自适应变化的 CSS 技巧]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA"/>
         <updated>2025-11-06T00:00:00.000Z</updated>
         <published>2025-11-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3609期】使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277864&amp;idx=1&amp;sn=d1791d51add2a47c4007595ce4dbc08a&amp;chksm=bca33e11985167e7271e21af78f46592b22583d62d7236680db6bcfa5038333dcb304a0ad804&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277864&amp;idx=1&amp;sn=d1791d51add2a47c4007595ce4dbc08a&amp;chksm=bca33e11985167e7271e21af78f46592b22583d62d7236680db6bcfa5038333dcb304a0ad804&amp;scene=0#rd"/>
-        <updated>2025-11-06T00:00:00.000Z</updated>
-        <published>2025-11-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这份HTTP重定向问题快速排查指南，真的帮了大忙！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528201&amp;idx=1&amp;sn=539ad6a4590d63eb43c513822bcecd79&amp;chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528201&amp;idx=1&amp;sn=539ad6a4590d63eb43c513822bcecd79&amp;chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd"/>
-        <updated>2025-11-05T00:00:00.000Z</updated>
-        <published>2025-11-05T00:00:00.000Z</published>
     </entry>
 </feed>
