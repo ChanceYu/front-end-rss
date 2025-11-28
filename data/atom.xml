@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-28T14:10:24.723Z</updated>
+    <updated>2025-11-28T18:14:19.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[【早阅】让依赖更轻，让构建更快：tinyglobby 的演进之路]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278016&amp;idx=1&amp;sn=5f4c4289cfb21cfd63c9316e63bbb3eb&amp;chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278016&amp;idx=1&amp;sn=5f4c4289cfb21cfd63c9316e63bbb3eb&amp;chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&amp;scene=0#rd"/>
+        <updated>2025-11-28T00:00:00.000Z</updated>
+        <published>2025-11-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithms visualized and demonstrated in JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/763</id>
+        <link href="https://javascriptweekly.com/issues/763"/>
         <updated>2025-11-28T00:00:00.000Z</updated>
         <published>2025-11-28T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/760"/>
         <updated>2025-11-07T00:00:00.000Z</updated>
         <published>2025-11-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML 的隐藏宝藏：<output> 标签]]></title>
-        <id>http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA</id>
-        <link href="http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA"/>
-        <updated>2025-11-06T00:00:00.000Z</updated>
-        <published>2025-11-06T00:00:00.000Z</published>
     </entry>
 </feed>
