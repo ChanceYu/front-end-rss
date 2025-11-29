@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-29 02:14:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-29 08:45:55，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-11-28-Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763) ![](/assets/new.png)  
+- [2025-11-28-Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)  
 - [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762)  
 - [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)  
 - [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)  
@@ -388,11 +388,15 @@
 </summary>
 
 
+- [2025-11-28-马斯克导演人机大战，Grok5能赢Faker吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505470&idx=1&sn=4d7c33a66669eb883b6f04f468f848e2&chksm=c2b317c1f5c49ed7d2d04efb43c5c2eb9225e264760b6adefbd999539c051c9613633689af80#rd) ![](/assets/new.png)  
+- [2025-11-28-关于账号进行迁移的说明](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505471&idx=1&sn=9d45f41ec0149161639a32d746e6bed1&chksm=c2b317c0f5c49ed63de8458765929c004d0cf0d980f813a9d03731e83b1b8bab0f9150baadf7#rd) ![](/assets/new.png)  
+- [2025-11-27-14款AI实测，文心凭啥是最强上班搭子？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505431&idx=1&sn=dde87500c8e2057766dddf74c0d1731d&chksm=c2b317e8f5c49efe6885217efae19fda9c89602a359e0cf08551cb6cf4e9bcf555bfc70efc25#rd) ![](/assets/new.png)  
+- [2025-11-26-Gemini-3屁股还没坐热，Claude-Opus-4.5就来骑脸了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505393&idx=1&sn=0023e1e26dca861f795457448b5a7c91&chksm=c2b3140ef5c49d1818fac3eb0d8a86be5c23fc5dc817d3947dd836a2b24213bd6009a7d63be3#rd) ![](/assets/new.png)  
 - [2025-11-25-首个数字人智能体NuwaAI实测，一句话就能干活了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505368&idx=1&sn=91b83516d229b7dcd267a222d26b96d2&chksm=c2b31427f5c49d31d1dedb104a07dab857793e6649253ac4decacdc879ab13b898cb8b2d9138#rd)  
 - [2025-11-24-Nano-Banana-Pro的真正极限，藏在Lovart里](http://mp.weixin.qq.com/s/QbD1k_pWIE1aA-QzehucDg)  
 - [2025-11-23-乔布斯30年前的访谈刚公开，像一颗子弹击中了我](http://mp.weixin.qq.com/s/du8bg6N7I33j5Nk0X8p_Qw)  
-- [2025-11-21-NotebookLM上新Nano-Banana-Pro，PPT一键封神](http://mp.weixin.qq.com/s/DHeuhy3GgEKxhPO1AQubcg)  
 - [2025-11-21-连夜测完Nano-Banana-Pro，彻底睡不着了](http://mp.weixin.qq.com/s/iozUIJ9dNnIOUh36jkPsbg)  
+- [2025-11-21-NotebookLM上新Nano-Banana-Pro，PPT一键封神](http://mp.weixin.qq.com/s/DHeuhy3GgEKxhPO1AQubcg)  
 - [2025-11-19-Gemini-3比想象中凶狠太多了](http://mp.weixin.qq.com/s/9yiNJmOBtApM0to02vrkuA)  
 - [2025-11-17-50人，1亿美金，Gamma凭什么？](http://mp.weixin.qq.com/s/O7i-s-8cnpFVD9YkXbgmKw)  
 - [2025-11-16-巴菲特砸了43亿买谷歌，Gemini-3.0下周要发？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505192&idx=1&sn=eb83e174312e3126a280f8e99b6f9b95&chksm=c2b314d7f5c49dc1282b0ccd6d8946d528a3146ed647c897560ef8abc18d7084b103550c4de2#rd)  
@@ -404,10 +408,6 @@
 - [2025-11-08-Kimi比想象中凶猛太多了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505029&idx=1&sn=467550348f8ad2e5ab77c48575f178b8&chksm=c2b3157af5c49c6c291e36172c83cac19f9b491a237aac95067ad4b5f731b94655732d6100fb#rd)  
 - [2025-11-06-AI写作，到底哪家强？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505003&idx=1&sn=bba7715d0518d9fb40d1f32a066241a6&chksm=c2b31594f5c49c82c5ede566867637f78b2ae035d76b49c394a0c31340684e2a9206abd38429#rd)  
 - [2025-11-05-人到底能有多自律？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504963&idx=1&sn=04cd436021eb90392d3d52683d0c3155&chksm=c2b315bcf5c49caae5dbd8f381560f5542c9d289d51dec6ca1967b676f9f8c733383ac1f5c75#rd)  
-- [2025-11-04-顶级AI也是韭菜](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504919&idx=1&sn=7cb33367fdd8bfffde702328944ffdf1&chksm=c2b315e8f5c49cfe2d68e5f4c2d363ae49eaaaae6c975f6b05b79490b4de488e99a638e730bf#rd)  
-- [2025-11-01-FlowithOS实测，可能是今年最大的黑马](http://mp.weixin.qq.com/s/CMgwgACtJTAhOkg0ttST3w)  
-- [2025-10-31-GPT-6将更名为GPT-6-7](http://mp.weixin.qq.com/s/ElXw7B-1EN7ygRzo5vnf_Q)  
-- [2025-10-30-Sora重磅更新来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504875&idx=1&sn=10e59f069822afeb1ba3efcfa2d73a24&chksm=c2b31214f5c49b0202a8d8344591157a44499af0d19463b33fb304eaffec616dd64eefb88fce#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
