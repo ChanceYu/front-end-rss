@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-30 12:25:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-30 14:15:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -140,7 +140,7 @@
 </summary>
 
 
-- [2025-11-27-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623390&idx=1&sn=3c28a6b81c755e137e3481b60c5ccfbc&chksm=8022581fb755d109c693222c49e82fc44b162e0e0e55af4ef6e8f5528d5576cbad620eeb8179#rd) ![](/assets/new.png)  
+- [2025-11-27-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623390&idx=1&sn=3c28a6b81c755e137e3481b60c5ccfbc&chksm=8022581fb755d109c693222c49e82fc44b162e0e0e55af4ef6e8f5528d5576cbad620eeb8179#rd)  
 - [2025-11-24-Vue-3.6-进“养老模式”了吗？一年没大更新，稳得让我有点慌](http://mp.weixin.qq.com/s/LWztYtxPpjK-heK5x3DfUA)  
 - [2025-11-20-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s/8Ur3qZPzpgaCmdv6XUZv5A)  
 - [2025-11-20-Linus谈“氛围编程”：可以接受，但不适合在生产环境使用](http://mp.weixin.qq.com/s/tplVGHM3N5wja3N5y5bKiw)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-11-28-重构一个类，JVM竟省下2.9G内存？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541985&idx=1&sn=0f17f4efa07a35c14c7a36873328e281&chksm=8390c7b9b4e74eaf067632eed7a8ea06278870bb4b30bb1f1c22b2760c44690ebdfb359ad370#rd) ![](/assets/new.png)  
 - [2025-11-24-AI互动前端开发的思考和实践_](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541979&idx=1&sn=faf282e03be44adb359e802303d2b61d&chksm=8390c783b4e74e958515dec2e69f8d7229cda5c3c4d88cbeb7d31c6758d4cf2b68974a0f10c7#rd)  
 - [2025-11-21-代码染色&amp;无效代码清理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541978&idx=1&sn=bb0fa20811d46edcb07f11a9f19d1339&chksm=8390c782b4e74e9484c34f39b2759dd4d337512c378e3a4f55be551ef42fdad06a26a00c0831#rd)  
 - [2025-11-19-交易订单表如何做索引优化](http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g)  
@@ -500,7 +501,6 @@
 - [2025-09-22-Claude-Code-深度拆解：一个顶级AI编程工具的核心架构](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541545&idx=1&sn=a667765c093031540732593c74710a13&chksm=8390c5f1b4e74ce7ff3656237dfca3ba3b18e5bd1965a25164369c25da7b72290327c4d1888c#rd)  
 - [2025-09-17-多模态AI质检：身份核验场景实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541540&idx=1&sn=c5a3f2608f86fae9b2ace8c02f531bbd&chksm=8390c5fcb4e74cea13caf3f49bc74fa4db07c9ee34b10f30640ae5379ab9a979f791ee464793#rd)  
 - [2025-09-12-基于智能体的自适应资损防控体系---淘工厂实践（二）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541485&idx=1&sn=03e90d33ba3a58f52920f83427686efb&chksm=8390c5b5b4e74ca374a5ab2b9e09e7f081888d264d6672a396cfcef1550ec66088cdd5a1c939#rd)  
-- [2025-09-10-AI赋能前端开发提效实践：以长颈鹿接入为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541484&idx=1&sn=058ca5192c0f4454cee0283faf65ab7c&chksm=8390c5b4b4e74ca2117802dd99ca10c3eedcbeb1f59951a129a7b536d18615364ffa5cd51afc#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
