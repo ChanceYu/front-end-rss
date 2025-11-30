@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-29T00:45:55.345Z</updated>
+    <updated>2025-11-30T04:25:26.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[CSS 公布 2025 新特性前十排名]]></title>
         <id>http://mp.weixin.qq.com/s/4Rn43MKXXUgvuK4wPtt1vQ</id>
         <link href="http://mp.weixin.qq.com/s/4Rn43MKXXUgvuK4wPtt1vQ"/>
+        <updated>2025-11-27T00:00:00.000Z</updated>
+        <published>2025-11-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623390&amp;idx=1&amp;sn=3c28a6b81c755e137e3481b60c5ccfbc&amp;chksm=8022581fb755d109c693222c49e82fc44b162e0e0e55af4ef6e8f5528d5576cbad620eeb8179#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623390&amp;idx=1&amp;sn=3c28a6b81c755e137e3481b60c5ccfbc&amp;chksm=8022581fb755d109c693222c49e82fc44b162e0e0e55af4ef6e8f5528d5576cbad620eeb8179#rd"/>
         <updated>2025-11-27T00:00:00.000Z</updated>
         <published>2025-11-27T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端全球人气最高 UI 组件库，宣布接入 AI]]></title>
         <id>http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ</id>
         <link href="http://mp.weixin.qq.com/s/B0Uv5qeKhLi7jjh9zQDibQ"/>
-        <updated>2025-11-07T00:00:00.000Z</updated>
-        <published>2025-11-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How JavaScript source maps actually work]]></title>
-        <id>https://javascriptweekly.com/issues/760</id>
-        <link href="https://javascriptweekly.com/issues/760"/>
         <updated>2025-11-07T00:00:00.000Z</updated>
         <published>2025-11-07T00:00:00.000Z</published>
     </entry>

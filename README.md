@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-11-29 08:45:55，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-30 12:25:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -140,26 +140,26 @@
 </summary>
 
 
+- [2025-11-27-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623390&idx=1&sn=3c28a6b81c755e137e3481b60c5ccfbc&chksm=8022581fb755d109c693222c49e82fc44b162e0e0e55af4ef6e8f5528d5576cbad620eeb8179#rd) ![](/assets/new.png)  
 - [2025-11-24-Vue-3.6-进“养老模式”了吗？一年没大更新，稳得让我有点慌](http://mp.weixin.qq.com/s/LWztYtxPpjK-heK5x3DfUA)  
-- [2025-11-20-Linus谈“氛围编程”：可以接受，但不适合在生产环境使用](http://mp.weixin.qq.com/s/tplVGHM3N5wja3N5y5bKiw)  
 - [2025-11-20-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s/8Ur3qZPzpgaCmdv6XUZv5A)  
-- [2025-11-18-一个函数超过20行?-聊聊我的函数式代码洁癖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=2&sn=42464fd273cd5c1f16492822792a9614&chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd)  
+- [2025-11-20-Linus谈“氛围编程”：可以接受，但不适合在生产环境使用](http://mp.weixin.qq.com/s/tplVGHM3N5wja3N5y5bKiw)  
 - [2025-11-18-曾被乔布斯逼到崩溃，苹果8号工程师反手做了个工具“让老板自己设计”，竟在10分钟内定下Mac计算器原型，一用就是近20年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=1&sn=a5965b34b41fc78ccb4d17c975232248&chksm=80225809b755d11f8a626c97441213dbcd2a5f78eab04ee9c8a754d6c20c996182aeea871994#rd)  
-- [2025-11-14-把-Bug-曝光到全网，谷歌逼-FFmpeg-维护者“按时修复”，遭怒怼：别光用-AI-找-Bug，有本事你自己修啊！](http://mp.weixin.qq.com/s/n9LGY_SWO2jh_uV7nW3G_g)  
+- [2025-11-18-一个函数超过20行?-聊聊我的函数式代码洁癖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=2&sn=42464fd273cd5c1f16492822792a9614&chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd)  
 - [2025-11-14-前端到底用Nginx来做啥](http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw)  
+- [2025-11-14-把-Bug-曝光到全网，谷歌逼-FFmpeg-维护者“按时修复”，遭怒怼：别光用-AI-找-Bug，有本事你自己修啊！](http://mp.weixin.qq.com/s/n9LGY_SWO2jh_uV7nW3G_g)  
 - [2025-11-11-确认裁员了，很严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s/R2PU54bvaIn4bmStnLGtwg)  
-- [2025-11-10-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s/Nvj2Ev_hMGdrbkIjxHsyHw)  
 - [2025-11-10-放下技术焦虑：越来越多公司重回单体架构的真相](http://mp.weixin.qq.com/s/BGMVlW5HJ6fgZ4MtPFZ4Og)  
+- [2025-11-10-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s/Nvj2Ev_hMGdrbkIjxHsyHw)  
 - [2025-11-05-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623292&idx=1&sn=ca6905ab1eac95d9507c1bbf0c66cb3a&chksm=802258bdb755d1abc7b42695a9599d6a92d25600f93efa71d270b7fce5f3d5aa7adea84ec0ea#rd)  
-- [2025-11-04-山姆改版遭差评轰炸！会员怒喷：开除-X-里高管，让-X-里系滚蛋。山姆连夜行动…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=1&sn=0bac501acefbd41bc24ad1416342ee6d&chksm=802258a1b755d1b788fbec76059eb5de4b8bce943bf95635dba2e3d515f215fcf605f773e37b#rd)  
 - [2025-11-04-双-Token-认证机制：从原理到实践的完整实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=2&sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd)  
-- [2025-11-03-中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！](http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w)  
+- [2025-11-04-山姆改版遭差评轰炸！会员怒喷：开除-X-里高管，让-X-里系滚蛋。山姆连夜行动…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=1&sn=0bac501acefbd41bc24ad1416342ee6d&chksm=802258a1b755d1b788fbec76059eb5de4b8bce943bf95635dba2e3d515f215fcf605f773e37b#rd)  
 - [2025-11-03-好家伙！尤雨溪公司融-8890-万，要终结-JS-工具碎片化。网友：早点统一吧](http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w)  
-- [2025-10-31-吵翻了！CTO-不搞管理反而沉迷写代码改-Bug，还靠这保住百万订单。网友：小公司才敢这么干，大公司早乱了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623241&idx=1&sn=03fba84886fbb920831c1e45cceb9506&chksm=80225888b755d19e66c909d95e8c39b21526625a74b9140e54d8a13caa36c1f305a9bf28fb58#rd)  
+- [2025-11-03-中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！](http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w)  
 - [2025-10-31-用了-Zustand-后，我的状态逻辑精简了一半](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623241&idx=2&sn=94ef981817d67031fb6abf0a3d0ee91d&chksm=80225888b755d19e3d90e732ffc2e37495d70252c89c19f2f4741f27ab7cc7ed33b8f4725d66#rd)  
+- [2025-10-31-吵翻了！CTO-不搞管理反而沉迷写代码改-Bug，还靠这保住百万订单。网友：小公司才敢这么干，大公司早乱了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623241&idx=1&sn=03fba84886fbb920831c1e45cceb9506&chksm=80225888b755d19e66c909d95e8c39b21526625a74b9140e54d8a13caa36c1f305a9bf28fb58#rd)  
 - [2025-10-28-2025年-Node.js-新模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623228&idx=1&sn=08d29060a8b3eed2e94f7735b8b55209&chksm=802258fdb755d1eb6ce5461ac5da286f72ffc677943c7da1248b6829c4046daa7845d128cec1#rd)  
 - [2025-10-22-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623222&idx=1&sn=d6beb9df545fb84d61b4fec79eb63ce6&chksm=802258f7b755d1e138435b6195c96ba1e0a6f6307a3888061080cb5f22fe6a155f776559419b#rd)  
-- [2025-10-21-编辑器也有邪修？盘点VS-Code邪门/有趣的扩展](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623213&idx=2&sn=8b8b4a9293b29341368bf58d554fa784&chksm=802258ecb755d1fa37f9f1aeec95e0f7186d472b5e6d154555031169408b0a05aca7656ef5a5#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,10 +388,10 @@
 </summary>
 
 
-- [2025-11-28-马斯克导演人机大战，Grok5能赢Faker吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505470&idx=1&sn=4d7c33a66669eb883b6f04f468f848e2&chksm=c2b317c1f5c49ed7d2d04efb43c5c2eb9225e264760b6adefbd999539c051c9613633689af80#rd) ![](/assets/new.png)  
-- [2025-11-28-关于账号进行迁移的说明](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505471&idx=1&sn=9d45f41ec0149161639a32d746e6bed1&chksm=c2b317c0f5c49ed63de8458765929c004d0cf0d980f813a9d03731e83b1b8bab0f9150baadf7#rd) ![](/assets/new.png)  
-- [2025-11-27-14款AI实测，文心凭啥是最强上班搭子？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505431&idx=1&sn=dde87500c8e2057766dddf74c0d1731d&chksm=c2b317e8f5c49efe6885217efae19fda9c89602a359e0cf08551cb6cf4e9bcf555bfc70efc25#rd) ![](/assets/new.png)  
-- [2025-11-26-Gemini-3屁股还没坐热，Claude-Opus-4.5就来骑脸了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505393&idx=1&sn=0023e1e26dca861f795457448b5a7c91&chksm=c2b3140ef5c49d1818fac3eb0d8a86be5c23fc5dc817d3947dd836a2b24213bd6009a7d63be3#rd) ![](/assets/new.png)  
+- [2025-11-28-马斯克导演人机大战，Grok5能赢Faker吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505470&idx=1&sn=4d7c33a66669eb883b6f04f468f848e2&chksm=c2b317c1f5c49ed7d2d04efb43c5c2eb9225e264760b6adefbd999539c051c9613633689af80#rd)  
+- [2025-11-28-关于账号进行迁移的说明](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505471&idx=1&sn=9d45f41ec0149161639a32d746e6bed1&chksm=c2b317c0f5c49ed63de8458765929c004d0cf0d980f813a9d03731e83b1b8bab0f9150baadf7#rd)  
+- [2025-11-27-14款AI实测，文心凭啥是最强上班搭子？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505431&idx=1&sn=dde87500c8e2057766dddf74c0d1731d&chksm=c2b317e8f5c49efe6885217efae19fda9c89602a359e0cf08551cb6cf4e9bcf555bfc70efc25#rd)  
+- [2025-11-26-Gemini-3屁股还没坐热，Claude-Opus-4.5就来骑脸了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505393&idx=1&sn=0023e1e26dca861f795457448b5a7c91&chksm=c2b3140ef5c49d1818fac3eb0d8a86be5c23fc5dc817d3947dd836a2b24213bd6009a7d63be3#rd)  
 - [2025-11-25-首个数字人智能体NuwaAI实测，一句话就能干活了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505368&idx=1&sn=91b83516d229b7dcd267a222d26b96d2&chksm=c2b31427f5c49d31d1dedb104a07dab857793e6649253ac4decacdc879ab13b898cb8b2d9138#rd)  
 - [2025-11-24-Nano-Banana-Pro的真正极限，藏在Lovart里](http://mp.weixin.qq.com/s/QbD1k_pWIE1aA-QzehucDg)  
 - [2025-11-23-乔布斯30年前的访谈刚公开，像一颗子弹击中了我](http://mp.weixin.qq.com/s/du8bg6N7I33j5Nk0X8p_Qw)  
