@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-02T06:17:05.307Z</updated>
+    <updated>2025-12-02T18:18:24.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【早阅】告别 Next.js 困惑：Tanstack Start 全栈应用开发终极指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278041&amp;idx=1&amp;sn=169ebefd07338a741a189337aaa2fc10&amp;chksm=bc0d9b4d3a794054ec3e0ffc1afae163e601f3da9a3bc8f26e095ee82ccb4944136fca1c37bf&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278041&amp;idx=1&amp;sn=169ebefd07338a741a189337aaa2fc10&amp;chksm=bc0d9b4d3a794054ec3e0ffc1afae163e601f3da9a3bc8f26e095ee82ccb4944136fca1c37bf&amp;scene=0#rd"/>
+        <updated>2025-12-02T00:00:00.000Z</updated>
+        <published>2025-12-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing performance across Node versions and ARM vs x86]]></title>
+        <id>https://nodeweekly.com/issues/603</id>
+        <link href="https://nodeweekly.com/issues/603"/>
         <updated>2025-12-02T00:00:00.000Z</updated>
         <published>2025-12-02T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506403&amp;idx=1&amp;sn=905e6d18f37eaab4c5326e606da00a82&amp;chksm=ce45cc72f9324564d87876cee9c360ab1d4e313e956f624bd19d1618964460eb6251d6031c88#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506403&amp;idx=1&amp;sn=905e6d18f37eaab4c5326e606da00a82&amp;chksm=ce45cc72f9324564d87876cee9c360ab1d4e313e956f624bd19d1618964460eb6251d6031c88#rd"/>
-        <updated>2025-11-10T00:00:00.000Z</updated>
-        <published>2025-11-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】超越Vibe Codie]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277885&amp;idx=1&amp;sn=3d82e2fa828aafc9d42753388b907d4d&amp;chksm=bcb9871c86100960c06dbb2bc7a6be3e8dea0243120aa1a4fa945118f840fd2fc61a25293ddd&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277885&amp;idx=1&amp;sn=3d82e2fa828aafc9d42753388b907d4d&amp;chksm=bcb9871c86100960c06dbb2bc7a6be3e8dea0243120aa1a4fa945118f840fd2fc61a25293ddd&amp;scene=0#rd"/>
         <updated>2025-11-10T00:00:00.000Z</updated>
         <published>2025-11-10T00:00:00.000Z</published>
     </entry>
