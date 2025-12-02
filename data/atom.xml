@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-01T04:40:37.931Z</updated>
+    <updated>2025-12-02T06:17:05.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】告别 Next.js 困惑：Tanstack Start 全栈应用开发终极指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278041&amp;idx=1&amp;sn=169ebefd07338a741a189337aaa2fc10&amp;chksm=bc0d9b4d3a794054ec3e0ffc1afae163e601f3da9a3bc8f26e095ee82ccb4944136fca1c37bf&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278041&amp;idx=1&amp;sn=169ebefd07338a741a189337aaa2fc10&amp;chksm=bc0d9b4d3a794054ec3e0ffc1afae163e601f3da9a3bc8f26e095ee82ccb4944136fca1c37bf&amp;scene=0#rd"/>
+        <updated>2025-12-02T00:00:00.000Z</updated>
+        <published>2025-12-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3620期】从崩溃到优雅：Node.js 错误处理的正确姿势]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278024&amp;idx=1&amp;sn=60cc64389d04ede80e9340f888a8fc1a&amp;chksm=bcdc7697e210077a76ec180c81cd513ba2784ea7f6ffaee5f805bce8fcd90d5253855ac62dae&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277885&amp;idx=1&amp;sn=3d82e2fa828aafc9d42753388b907d4d&amp;chksm=bcb9871c86100960c06dbb2bc7a6be3e8dea0243120aa1a4fa945118f840fd2fc61a25293ddd&amp;scene=0#rd"/>
         <updated>2025-11-10T00:00:00.000Z</updated>
         <published>2025-11-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
-        <id>http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg</id>
-        <link href="http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg"/>
-        <updated>2025-11-07T00:00:00.000Z</updated>
-        <published>2025-11-07T00:00:00.000Z</published>
     </entry>
 </feed>
