@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-03T04:19:38.623Z</updated>
+    <updated>2025-12-03T06:17:08.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在 Vue3 中更好地使用 Typescript]]></title>
+        <id>http://mp.weixin.qq.com/s/guwqleOvZk-2MPwuBr-CUA</id>
+        <link href="http://mp.weixin.qq.com/s/guwqleOvZk-2MPwuBr-CUA"/>
+        <updated>2025-12-03T00:00:00.000Z</updated>
+        <published>2025-12-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pinia3.0 彻底放弃了 Vue2 了！]]></title>
         <id>http://mp.weixin.qq.com/s/zm24kY4DIqCxFdTpNOyUeQ</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277901&amp;idx=1&amp;sn=333e2375349d1bdd871553a85abb2541&amp;chksm=bcb4d972a08310eefe5513be99e8d1d7cad08f3686117eb696bd71b311a89e38c3c3dcc91423&amp;scene=0#rd"/>
         <updated>2025-11-13T00:00:00.000Z</updated>
         <published>2025-11-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[就因为package.json里少了个^号，我们公司赔了客户十万块]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528236&amp;idx=1&amp;sn=6c233f8bef10fdcf765b6c1268bcb09e&amp;chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528236&amp;idx=1&amp;sn=6c233f8bef10fdcf765b6c1268bcb09e&amp;chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd"/>
-        <updated>2025-11-11T00:00:00.000Z</updated>
-        <published>2025-11-11T00:00:00.000Z</published>
     </entry>
 </feed>
