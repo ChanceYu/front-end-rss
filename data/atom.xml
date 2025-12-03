@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-02T18:18:24.078Z</updated>
+    <updated>2025-12-03T04:19:38.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Pinia3.0 彻底放弃了 Vue2 了！]]></title>
+        <id>http://mp.weixin.qq.com/s/zm24kY4DIqCxFdTpNOyUeQ</id>
+        <link href="http://mp.weixin.qq.com/s/zm24kY4DIqCxFdTpNOyUeQ"/>
+        <updated>2025-12-02T00:00:00.000Z</updated>
+        <published>2025-12-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[常被忽视的 Node.js 功能，彻底改善了日志体验]]></title>
+        <id>http://mp.weixin.qq.com/s/XC6W1taZvQXQpKQZ__eH_A</id>
+        <link href="http://mp.weixin.qq.com/s/XC6W1taZvQXQpKQZ__eH_A"/>
+        <updated>2025-12-02T00:00:00.000Z</updated>
+        <published>2025-12-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】告别 Next.js 困惑：Tanstack Start 全栈应用开发终极指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278041&amp;idx=1&amp;sn=169ebefd07338a741a189337aaa2fc10&amp;chksm=bc0d9b4d3a794054ec3e0ffc1afae163e601f3da9a3bc8f26e095ee82ccb4944136fca1c37bf&amp;scene=0#rd</id>
@@ -29,11 +43,25 @@
         <published>2025-12-02T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[字节面试官：不点击鼠标，怎么触发点击事件？]]></title>
+        <id>http://mp.weixin.qq.com/s/IChASg03ZcYRAqBx-4GNnQ</id>
+        <link href="http://mp.weixin.qq.com/s/IChASg03ZcYRAqBx-4GNnQ"/>
+        <updated>2025-12-01T00:00:00.000Z</updated>
+        <published>2025-12-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3620期】从崩溃到优雅：Node.js 错误处理的正确姿势]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278024&amp;idx=1&amp;sn=60cc64389d04ede80e9340f888a8fc1a&amp;chksm=bcdc7697e210077a76ec180c81cd513ba2784ea7f6ffaee5f805bce8fcd90d5253855ac62dae&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278024&amp;idx=1&amp;sn=60cc64389d04ede80e9340f888a8fc1a&amp;chksm=bcdc7697e210077a76ec180c81cd513ba2784ea7f6ffaee5f805bce8fcd90d5253855ac62dae&amp;scene=0#rd"/>
         <updated>2025-12-01T00:00:00.000Z</updated>
         <published>2025-12-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牛叉！Vue3 彻底封神！]]></title>
+        <id>http://mp.weixin.qq.com/s/PsrJtFz2efoYF83smc_3fQ</id>
+        <link href="http://mp.weixin.qq.com/s/PsrJtFz2efoYF83smc_3fQ"/>
+        <updated>2025-11-30T00:00:00.000Z</updated>
+        <published>2025-11-30T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[醒醒，该使用CookieStore新建和管理cookie了]]></title>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528236&amp;idx=1&amp;sn=6c233f8bef10fdcf765b6c1268bcb09e&amp;chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd"/>
         <updated>2025-11-11T00:00:00.000Z</updated>
         <published>2025-11-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官宣：前端调试 Websocket 的神器正式发布！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506425&amp;idx=1&amp;sn=c9dbfb166f110c729a796a793efbeb0a&amp;chksm=ce45cc68f932457ec82c551b767ab80cfc4241334466c01d9c57ab460301088bdc305a6cf3d6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506425&amp;idx=1&amp;sn=c9dbfb166f110c729a796a793efbeb0a&amp;chksm=ce45cc68f932457ec82c551b767ab80cfc4241334466c01d9c57ab460301088bdc305a6cf3d6#rd"/>
-        <updated>2025-11-11T00:00:00.000Z</updated>
-        <published>2025-11-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3611期】优化网页字体]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277889&amp;idx=1&amp;sn=15b1ef41021b7f6c98ebffb6fd688113&amp;chksm=bc08e478e5229fa296e18e78f4e74c45c0f2d5637b9746a25450dcd8a8194292852505990971&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277889&amp;idx=1&amp;sn=15b1ef41021b7f6c98ebffb6fd688113&amp;chksm=bc08e478e5229fa296e18e78f4e74c45c0f2d5637b9746a25450dcd8a8194292852505990971&amp;scene=0#rd"/>
-        <updated>2025-11-11T00:00:00.000Z</updated>
-        <published>2025-11-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS锚点定位实战-鼠标跟随交互效果]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/"/>
-        <updated>2025-11-10T00:00:00.000Z</updated>
-        <published>2025-11-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506403&amp;idx=1&amp;sn=905e6d18f37eaab4c5326e606da00a82&amp;chksm=ce45cc72f9324564d87876cee9c360ab1d4e313e956f624bd19d1618964460eb6251d6031c88#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506403&amp;idx=1&amp;sn=905e6d18f37eaab4c5326e606da00a82&amp;chksm=ce45cc72f9324564d87876cee9c360ab1d4e313e956f624bd19d1618964460eb6251d6031c88#rd"/>
-        <updated>2025-11-10T00:00:00.000Z</updated>
-        <published>2025-11-10T00:00:00.000Z</published>
     </entry>
 </feed>
