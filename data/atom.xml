@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-04T06:16:59.585Z</updated>
+    <updated>2025-12-04T10:12:36.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[单IMG标签的图片内阴影效果实现]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/"/>
+        <updated>2025-12-04T00:00:00.000Z</updated>
+        <published>2025-12-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在 Vue3 中更好地使用 Typescript]]></title>
         <id>http://mp.weixin.qq.com/s/guwqleOvZk-2MPwuBr-CUA</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[有了这 20 个 JS 原生 API ，你可以不用装第三方库]]></title>
         <id>http://mp.weixin.qq.com/s/uxa0L1nQx_T6U4_iyu_PMA</id>
         <link href="http://mp.weixin.qq.com/s/uxa0L1nQx_T6U4_iyu_PMA"/>
-        <updated>2025-11-13T00:00:00.000Z</updated>
-        <published>2025-11-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】Web性能之旅的7个层级]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277901&amp;idx=1&amp;sn=333e2375349d1bdd871553a85abb2541&amp;chksm=bcb4d972a08310eefe5513be99e8d1d7cad08f3686117eb696bd71b311a89e38c3c3dcc91423&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277901&amp;idx=1&amp;sn=333e2375349d1bdd871553a85abb2541&amp;chksm=bcb4d972a08310eefe5513be99e8d1d7cad08f3686117eb696bd71b311a89e38c3c3dcc91423&amp;scene=0#rd"/>
         <updated>2025-11-13T00:00:00.000Z</updated>
         <published>2025-11-13T00:00:00.000Z</published>
     </entry>
