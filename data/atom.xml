@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-04T10:12:36.754Z</updated>
+    <updated>2025-12-04T16:15:29.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/"/>
         <updated>2025-12-04T00:00:00.000Z</updated>
         <published>2025-12-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让字距随字体自适应变化的 CSS 技巧]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528474&amp;idx=1&amp;sn=681f4c61971b9b12a1cd3a51a1a78358&amp;chksm=f99276cbcee5ffddd8980918a34e9c4b1d3ffda7290cea0c20685dc321279c221175f35d698f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528474&amp;idx=1&amp;sn=681f4c61971b9b12a1cd3a51a1a78358&amp;chksm=f99276cbcee5ffddd8980918a34e9c4b1d3ffda7290cea0c20685dc321279c221175f35d698f#rd"/>
+        <updated>2025-12-03T00:00:00.000Z</updated>
+        <published>2025-12-03T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何在 Vue3 中更好地使用 Typescript]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[转转商品中心微前端升级之路]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528267&amp;idx=1&amp;sn=5b61a3c83713139b8f27073183d136f1&amp;chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528267&amp;idx=1&amp;sn=5b61a3c83713139b8f27073183d136f1&amp;chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd"/>
-        <updated>2025-11-13T00:00:00.000Z</updated>
-        <published>2025-11-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有了这 20 个 JS 原生 API ，你可以不用装第三方库]]></title>
-        <id>http://mp.weixin.qq.com/s/uxa0L1nQx_T6U4_iyu_PMA</id>
-        <link href="http://mp.weixin.qq.com/s/uxa0L1nQx_T6U4_iyu_PMA"/>
         <updated>2025-11-13T00:00:00.000Z</updated>
         <published>2025-11-13T00:00:00.000Z</published>
     </entry>
