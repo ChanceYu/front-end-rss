@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-05T00:49:21.614Z</updated>
+    <updated>2025-12-05T06:17:33.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3622期】深入浅出：用 URLPattern 打造轻量级 SPA 路由]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278071&amp;idx=1&amp;sn=3bc9e4bb8bdd2e318b79450b8779891c&amp;chksm=bc88d5790df6abc16a00b3fbe3ad6bdd84c158f5821a8ccbf0f74b033edf00af06af00b0e27b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278071&amp;idx=1&amp;sn=3bc9e4bb8bdd2e318b79450b8779891c&amp;chksm=bc88d5790df6abc16a00b3fbe3ad6bdd84c158f5821a8ccbf0f74b033edf00af06af00b0e27b&amp;scene=0#rd"/>
+        <updated>2025-12-05T00:00:00.000Z</updated>
+        <published>2025-12-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单IMG标签的图片内阴影效果实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3612期】状态驱动 vs Signal驱动渲染]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277910&amp;idx=1&amp;sn=6f0e42078d52518928a8b7c6101a6d44&amp;chksm=bc945a3383f403516ea6ee446cd2c4f32a276bed2ea21e68e8fa59236e274beb3e033810e4a2&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277910&amp;idx=1&amp;sn=6f0e42078d52518928a8b7c6101a6d44&amp;chksm=bc945a3383f403516ea6ee446cd2c4f32a276bed2ea21e68e8fa59236e274beb3e033810e4a2&amp;scene=0#rd"/>
-        <updated>2025-11-14T00:00:00.000Z</updated>
-        <published>2025-11-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every JavaScript engine all at once]]></title>
-        <id>https://javascriptweekly.com/issues/761</id>
-        <link href="https://javascriptweekly.com/issues/761"/>
         <updated>2025-11-14T00:00:00.000Z</updated>
         <published>2025-11-14T00:00:00.000Z</published>
     </entry>
