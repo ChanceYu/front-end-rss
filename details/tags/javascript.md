@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-05 20:20:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-06 00:12:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -14,6 +14,7 @@
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472) 
 - [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450) 
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) 
+- [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764) 
 - [2025-11-28-Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763) 
 - [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761) 
 - [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760) 

@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-05 20:20:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-06 00:12:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -27,7 +27,7 @@
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
+- [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764) ![](/assets/new.png)  
 - [2025-11-28-Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)  
 - [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762)  
 - [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)  
@@ -97,7 +98,6 @@
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
 - [2025-07-18-A-tricky,-educational-quiz.-It's-about-time..](https://javascriptweekly.com/issues/745)  
-- [2025-07-11-The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -326,7 +326,7 @@
 </summary>
 
 
-- [2025-12-03-AI赋能成长，豆包-应用生成“一点都不技术”挑战赛创作分享第二期来啦！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506128&idx=1&sn=0b9341c31064697eef8dcccc06272b24&chksm=cea96fd1f9dee6c7052f888c5d1bce132967747c58f7daba3ef4a67e42b4a208c24811a83650#rd) ![](/assets/new.png)  
+- [2025-12-03-AI赋能成长，豆包-应用生成“一点都不技术”挑战赛创作分享第二期来啦！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506128&idx=1&sn=0b9341c31064697eef8dcccc06272b24&chksm=cea96fd1f9dee6c7052f888c5d1bce132967747c58f7daba3ef4a67e42b4a208c24811a83650#rd)  
 - [2025-11-19-和“动物塑”创作者面对面！豆包-应用生成“一点都不技术”挑战赛的创作分享来啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506123&idx=1&sn=469d203c58b7734f580c0a0fc622e1c3&chksm=cea96fcaf9dee6dc48075a1cb7e56be8752cfe5c0fc82d1912e1abb4b6b0bfa80a7c5ac6f7b7#rd)  
 - [2025-11-11-豆包-应用生成「一点都不技术」创作挑战赛开启，20-万奖池等你解锁！](http://mp.weixin.qq.com/s/xK4w6NX-eupUrdI33mDE8A)  
 - [2025-10-24-豆包编程升级，新增创作模式，让创意轻松实现](http://mp.weixin.qq.com/s/6pT1xECveLM7iTqiYvjH-g)  
