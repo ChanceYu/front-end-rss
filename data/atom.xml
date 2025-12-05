@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-04T16:15:29.615Z</updated>
+    <updated>2025-12-05T00:49:21.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[单IMG标签的图片内阴影效果实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/"/>
+        <updated>2025-12-04T00:00:00.000Z</updated>
+        <published>2025-12-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite 8.0 来了，第一个换芯大版本！]]></title>
+        <id>http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ</id>
+        <link href="http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ"/>
         <updated>2025-12-04T00:00:00.000Z</updated>
         <published>2025-12-04T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/761"/>
         <updated>2025-11-14T00:00:00.000Z</updated>
         <published>2025-11-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[转转商品中心微前端升级之路]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528267&amp;idx=1&amp;sn=5b61a3c83713139b8f27073183d136f1&amp;chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528267&amp;idx=1&amp;sn=5b61a3c83713139b8f27073183d136f1&amp;chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd"/>
-        <updated>2025-11-13T00:00:00.000Z</updated>
-        <published>2025-11-13T00:00:00.000Z</published>
     </entry>
 </feed>
