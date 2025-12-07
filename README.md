@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-06 00:12:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-07 11:18:57，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764) ![](/assets/new.png)  
+- [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)  
 - [2025-11-28-Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)  
 - [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762)  
 - [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)  
@@ -140,26 +140,26 @@
 </summary>
 
 
+- [2025-12-06-面试：前端如何应对数百万个-API-请求而不会导致系统崩溃](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623461&idx=2&sn=ac0b16ad89afd9f061bc3c80d6a1666d&chksm=802247e4b755cef2b2315bb5e656ac8a19e7ca1891a5a12cab6b61cb324867a0fe4aad391291#rd) ![](/assets/new.png)  
+- [2025-12-06-“豆包手机”使用了锤子科技Smartisan-OS祖传代码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623461&idx=1&sn=171d6a95e21420b9b6fd860aa2046246&chksm=802247e4b755cef2140790f778ad469cf4408dab92a9d353dd3ee84730b261d441f23e430214#rd) ![](/assets/new.png)  
+- [2025-12-05-马斯克又夸微信：“中国之外不存在这种国民级软件”。网友神吐槽：“几乎每个-APP-都有你说的功能，就问吊不吊”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623449&idx=1&sn=6ed4bdab4d0b06164636b230f3cb9b96&chksm=802247d8b755cece36031a9c673a90f90507793d117659e20719874c497b064cf07b2f1bfedd#rd) ![](/assets/new.png)  
+- [2025-12-05-让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623449&idx=2&sn=fe2deab3fd0464e235236ca93c2739de&chksm=802247d8b755cece33252831bf5fe50d2ad252488ee849f815ec12c7702c4b6d76b6a775ef01#rd) ![](/assets/new.png)  
+- [2025-12-04-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623436&idx=2&sn=438137b1ae67d3a54a3066d11c1d82c1&chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd) ![](/assets/new.png)  
+- [2025-12-04-“天才少年”5年0收入造JS核武！Claude天价收购Bun，Node.js生态地震](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623436&idx=1&sn=97559a7547e46d0ff187a9243d79b6bf&chksm=802247cdb755cedba11f42efade50b0389742d65af5961b77a052552e0edda4f3c502c12dd84#rd) ![](/assets/new.png)  
 - [2025-12-03-Ant-Design-6.0-来了！这一次它终于想通了什么？](http://mp.weixin.qq.com/s/lUWCe_Xx3gJTlUQ27bCmuQ)  
-- [2025-12-02-英伟达内部有人要求“少用AI”，黄仁勋当场发飙：“你疯了吗？”](http://mp.weixin.qq.com/s/zUL0T6kIfYPJ2EXWL0lusA)  
 - [2025-12-02-常被忽视的-Node.js-功能，彻底改善了日志体验](http://mp.weixin.qq.com/s/XC6W1taZvQXQpKQZ__eH_A)  
+- [2025-12-02-英伟达内部有人要求“少用AI”，黄仁勋当场发飙：“你疯了吗？”](http://mp.weixin.qq.com/s/zUL0T6kIfYPJ2EXWL0lusA)  
 - [2025-11-30-牛叉！Vue3-彻底封神！](http://mp.weixin.qq.com/s/PsrJtFz2efoYF83smc_3fQ)  
 - [2025-11-27-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623390&idx=1&sn=3c28a6b81c755e137e3481b60c5ccfbc&chksm=8022581fb755d109c693222c49e82fc44b162e0e0e55af4ef6e8f5528d5576cbad620eeb8179#rd)  
 - [2025-11-24-Vue-3.6-进“养老模式”了吗？一年没大更新，稳得让我有点慌](http://mp.weixin.qq.com/s/LWztYtxPpjK-heK5x3DfUA)  
-- [2025-11-20-Linus谈“氛围编程”：可以接受，但不适合在生产环境使用](http://mp.weixin.qq.com/s/tplVGHM3N5wja3N5y5bKiw)  
 - [2025-11-20-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s/8Ur3qZPzpgaCmdv6XUZv5A)  
-- [2025-11-18-一个函数超过20行?-聊聊我的函数式代码洁癖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=2&sn=42464fd273cd5c1f16492822792a9614&chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd)  
+- [2025-11-20-Linus谈“氛围编程”：可以接受，但不适合在生产环境使用](http://mp.weixin.qq.com/s/tplVGHM3N5wja3N5y5bKiw)  
 - [2025-11-18-曾被乔布斯逼到崩溃，苹果8号工程师反手做了个工具“让老板自己设计”，竟在10分钟内定下Mac计算器原型，一用就是近20年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=1&sn=a5965b34b41fc78ccb4d17c975232248&chksm=80225809b755d11f8a626c97441213dbcd2a5f78eab04ee9c8a754d6c20c996182aeea871994#rd)  
-- [2025-11-14-把-Bug-曝光到全网，谷歌逼-FFmpeg-维护者“按时修复”，遭怒怼：别光用-AI-找-Bug，有本事你自己修啊！](http://mp.weixin.qq.com/s/n9LGY_SWO2jh_uV7nW3G_g)  
+- [2025-11-18-一个函数超过20行?-聊聊我的函数式代码洁癖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=2&sn=42464fd273cd5c1f16492822792a9614&chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd)  
 - [2025-11-14-前端到底用Nginx来做啥](http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw)  
+- [2025-11-14-把-Bug-曝光到全网，谷歌逼-FFmpeg-维护者“按时修复”，遭怒怼：别光用-AI-找-Bug，有本事你自己修啊！](http://mp.weixin.qq.com/s/n9LGY_SWO2jh_uV7nW3G_g)  
 - [2025-11-11-确认裁员了，很严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s/R2PU54bvaIn4bmStnLGtwg)  
-- [2025-11-10-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s/Nvj2Ev_hMGdrbkIjxHsyHw)  
 - [2025-11-10-放下技术焦虑：越来越多公司重回单体架构的真相](http://mp.weixin.qq.com/s/BGMVlW5HJ6fgZ4MtPFZ4Og)  
-- [2025-11-05-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623292&idx=1&sn=ca6905ab1eac95d9507c1bbf0c66cb3a&chksm=802258bdb755d1abc7b42695a9599d6a92d25600f93efa71d270b7fce5f3d5aa7adea84ec0ea#rd)  
-- [2025-11-04-山姆改版遭差评轰炸！会员怒喷：开除-X-里高管，让-X-里系滚蛋。山姆连夜行动…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=1&sn=0bac501acefbd41bc24ad1416342ee6d&chksm=802258a1b755d1b788fbec76059eb5de4b8bce943bf95635dba2e3d515f215fcf605f773e37b#rd)  
-- [2025-11-04-双-Token-认证机制：从原理到实践的完整实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=2&sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd)  
-- [2025-11-03-中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！](http://mp.weixin.qq.com/s/rpw5sg9NIHqB9MCyZEbd0w)  
-- [2025-11-03-好家伙！尤雨溪公司融-8890-万，要终结-JS-工具碎片化。网友：早点统一吧](http://mp.weixin.qq.com/s/fim6pv8fDiG5ZUxWasVE2w)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

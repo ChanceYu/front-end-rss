@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-05T16:12:59.506Z</updated>
+    <updated>2025-12-07T03:18:58.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[面试：前端如何应对数百万个 API 请求而不会导致系统崩溃]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623461&amp;idx=2&amp;sn=ac0b16ad89afd9f061bc3c80d6a1666d&amp;chksm=802247e4b755cef2b2315bb5e656ac8a19e7ca1891a5a12cab6b61cb324867a0fe4aad391291#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623461&amp;idx=2&amp;sn=ac0b16ad89afd9f061bc3c80d6a1666d&amp;chksm=802247e4b755cef2b2315bb5e656ac8a19e7ca1891a5a12cab6b61cb324867a0fe4aad391291#rd"/>
+        <updated>2025-12-06T00:00:00.000Z</updated>
+        <published>2025-12-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让字距随字体自适应变化的 CSS 技巧]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623449&amp;idx=2&amp;sn=fe2deab3fd0464e235236ca93c2739de&amp;chksm=802247d8b755cece33252831bf5fe50d2ad252488ee849f815ec12c7702c4b6d76b6a775ef01#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623449&amp;idx=2&amp;sn=fe2deab3fd0464e235236ca93c2739de&amp;chksm=802247d8b755cece33252831bf5fe50d2ad252488ee849f815ec12c7702c4b6d76b6a775ef01#rd"/>
+        <updated>2025-12-05T00:00:00.000Z</updated>
+        <published>2025-12-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3622期】深入浅出：用 URLPattern 打造轻量级 SPA 路由]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278071&amp;idx=1&amp;sn=3bc9e4bb8bdd2e318b79450b8779891c&amp;chksm=bc88d5790df6abc16a00b3fbe3ad6bdd84c158f5821a8ccbf0f74b033edf00af06af00b0e27b&amp;scene=0#rd</id>
@@ -39,6 +53,20 @@
         <title type="html"><![CDATA[Vite 8.0 来了，第一个换芯大版本！]]></title>
         <id>http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ</id>
         <link href="http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ"/>
+        <updated>2025-12-04T00:00:00.000Z</updated>
+        <published>2025-12-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“天才少年”5年0收入造JS核武！Claude天价收购Bun，Node.js生态地震]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=1&amp;sn=97559a7547e46d0ff187a9243d79b6bf&amp;chksm=802247cdb755cedba11f42efade50b0389742d65af5961b77a052552e0edda4f3c502c12dd84#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=1&amp;sn=97559a7547e46d0ff187a9243d79b6bf&amp;chksm=802247cdb755cedba11f42efade50b0389742d65af5961b77a052552e0edda4f3c502c12dd84#rd"/>
+        <updated>2025-12-04T00:00:00.000Z</updated>
+        <published>2025-12-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=2&amp;sn=438137b1ae67d3a54a3066d11c1d82c1&amp;chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=2&amp;sn=438137b1ae67d3a54a3066d11c1d82c1&amp;chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd"/>
         <updated>2025-12-04T00:00:00.000Z</updated>
         <published>2025-12-04T00:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/1aXaPhICoiMUNPevEt5ZNg"/>
         <updated>2025-11-17T00:00:00.000Z</updated>
         <published>2025-11-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】Node.js 2025 现状解读]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277928&amp;idx=1&amp;sn=f5778f9a2742921f784157ea11f6eb8c&amp;chksm=bcc625823e9ad5a5fe516d37728467c86f11b5f4b0ff8f0bf1f90ecf19afb47277675a44a071&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277928&amp;idx=1&amp;sn=f5778f9a2742921f784157ea11f6eb8c&amp;chksm=bcc625823e9ad5a5fe516d37728467c86f11b5f4b0ff8f0bf1f90ecf19afb47277675a44a071&amp;scene=0#rd"/>
-        <updated>2025-11-17T00:00:00.000Z</updated>
-        <published>2025-11-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528306&amp;idx=1&amp;sn=123119980f9a33dba2a6b3d5343f5e2c&amp;chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528306&amp;idx=1&amp;sn=123119980f9a33dba2a6b3d5343f5e2c&amp;chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd"/>
-        <updated>2025-11-14T00:00:00.000Z</updated>
-        <published>2025-11-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 高级插件，正式免费使用！]]></title>
-        <id>http://mp.weixin.qq.com/s/HKbgia3ZhVGx6rpmIpGuZQ</id>
-        <link href="http://mp.weixin.qq.com/s/HKbgia3ZhVGx6rpmIpGuZQ"/>
-        <updated>2025-11-14T00:00:00.000Z</updated>
-        <published>2025-11-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端到底用Nginx来做啥]]></title>
-        <id>http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw</id>
-        <link href="http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw"/>
-        <updated>2025-11-14T00:00:00.000Z</updated>
-        <published>2025-11-14T00:00:00.000Z</published>
     </entry>
 </feed>
