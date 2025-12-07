@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-07T03:18:58.071Z</updated>
+    <updated>2025-12-07T10:09:22.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623461&amp;idx=2&amp;sn=ac0b16ad89afd9f061bc3c80d6a1666d&amp;chksm=802247e4b755cef2b2315bb5e656ac8a19e7ca1891a5a12cab6b61cb324867a0fe4aad391291#rd"/>
         <updated>2025-12-06T00:00:00.000Z</updated>
         <published>2025-12-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[借助图片懒加载触发 JavaScript 动态导入]]></title>
+        <id>http://mp.weixin.qq.com/s/qyJSCitDnrHjASPXmFih7g</id>
+        <link href="http://mp.weixin.qq.com/s/qyJSCitDnrHjASPXmFih7g"/>
+        <updated>2025-12-05T00:00:00.000Z</updated>
+        <published>2025-12-05T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[让字距随字体自适应变化的 CSS 技巧]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[介绍下与CSS自定义组件相关的:state()函数]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/"/>
-        <updated>2025-11-17T00:00:00.000Z</updated>
-        <published>2025-11-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移植成功！Vue3 发布 80 个炫酷动画组件]]></title>
-        <id>http://mp.weixin.qq.com/s/1aXaPhICoiMUNPevEt5ZNg</id>
-        <link href="http://mp.weixin.qq.com/s/1aXaPhICoiMUNPevEt5ZNg"/>
         <updated>2025-11-17T00:00:00.000Z</updated>
         <published>2025-11-17T00:00:00.000Z</published>
     </entry>
