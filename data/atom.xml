@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-07T10:09:22.536Z</updated>
+    <updated>2025-12-08T00:50:40.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[正式重构！所有 Typescript 项目性能将飙升 15 倍！]]></title>
+        <id>http://mp.weixin.qq.com/s/FRK7sJ179FZn1UPEtcfP7A</id>
+        <link href="http://mp.weixin.qq.com/s/FRK7sJ179FZn1UPEtcfP7A"/>
+        <updated>2025-12-06T00:00:00.000Z</updated>
+        <published>2025-12-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面试：前端如何应对数百万个 API 请求而不会导致系统崩溃]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623461&amp;idx=2&amp;sn=ac0b16ad89afd9f061bc3c80d6a1666d&amp;chksm=802247e4b755cef2b2315bb5e656ac8a19e7ca1891a5a12cab6b61cb324867a0fe4aad391291#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/601"/>
         <updated>2025-11-18T00:00:00.000Z</updated>
         <published>2025-11-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[介绍下与CSS自定义组件相关的:state()函数]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/"/>
-        <updated>2025-11-17T00:00:00.000Z</updated>
-        <published>2025-11-17T00:00:00.000Z</published>
     </entry>
 </feed>

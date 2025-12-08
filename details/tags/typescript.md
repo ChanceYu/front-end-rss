@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-07 18:09:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-08 08:50:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -152,6 +152,7 @@
 - [2019-01-27-Yarn将用TypeScript重写，Flow惨遭亲爹抛弃！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490340&idx=1&sn=dfb6ce4424aaa7ed038ff83bc9fc7ccf#wechat_redirect) 
 - [2019-01-16-我们是如何将3万代码从Flow移植到TypeScript的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490289&idx=1&sn=e81587b59beb71d4e174de7aedeec8c2#wechat_redirect) 
 - [2018-12-17-别骗自己了，你不用TypeScript的理由站不住脚](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490117&idx=1&sn=d38a3344e413e4391198b20127898da2#wechat_redirect) 
+- [2025-12-06-正式重构！所有-Typescript-项目性能将飙升-15-倍！](http://mp.weixin.qq.com/s/FRK7sJ179FZn1UPEtcfP7A) 
 - [2025-11-25-Prisma：用Typescript-重构项目，性能提升3倍](http://mp.weixin.qq.com/s/qWiE7g3vQqJ70b5DjkaXmg) 
 - [2025-09-16-Typescript-必须的所有技巧](http://mp.weixin.qq.com/s/uWAkK3C3JBa5EotNCGBMCQ) 
 - [2025-07-30-未来，所有-Typescript-项目性能将飙升-15-倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505196&idx=1&sn=01a580ac4a838e991f0cb348ee14319b&chksm=ce45c0bdf93249ab2fac6f8e8bb6903e7ebd948e715fd2b9bc3912dbd53b097655e1f3a98806#rd) 
