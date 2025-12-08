@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-08T00:50:40.976Z</updated>
+    <updated>2025-12-08T06:18:23.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】深入理解 Web Components：如何利用自定义元素和 Shadow DOM 打造可复用表单组件？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278080&amp;idx=1&amp;sn=8c662524c3c1d64fff6d988898dbe8bd&amp;chksm=bc3973b23de9ca62f3c7b9615bdb4d01651ae5305496415bde7b6d9b982082225f7b2364050a&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278080&amp;idx=1&amp;sn=8c662524c3c1d64fff6d988898dbe8bd&amp;chksm=bc3973b23de9ca62f3c7b9615bdb4d01651ae5305496415bde7b6d9b982082225f7b2364050a&amp;scene=0#rd"/>
+        <updated>2025-12-08T00:00:00.000Z</updated>
+        <published>2025-12-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[正式重构！所有 Typescript 项目性能将飙升 15 倍！]]></title>
         <id>http://mp.weixin.qq.com/s/FRK7sJ179FZn1UPEtcfP7A</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3613期】JavaScript 中的错误链：用 Error.cause 让调试更清晰]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277933&amp;idx=1&amp;sn=d6d1eacd20690c6271a78026f2eaed23&amp;chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277933&amp;idx=1&amp;sn=d6d1eacd20690c6271a78026f2eaed23&amp;chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&amp;scene=0#rd"/>
-        <updated>2025-11-18T00:00:00.000Z</updated>
-        <published>2025-11-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you know Node has a 'deprecate' method?]]></title>
-        <id>https://nodeweekly.com/issues/601</id>
-        <link href="https://nodeweekly.com/issues/601"/>
         <updated>2025-11-18T00:00:00.000Z</updated>
         <published>2025-11-18T00:00:00.000Z</published>
     </entry>
