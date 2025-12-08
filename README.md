@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-08 14:18:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-09 06:10:04，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-12-08-【早阅】深入理解-Web-Components：如何利用自定义元素和-Shadow-DOM-打造可复用表单组件？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278080&idx=1&sn=8c662524c3c1d64fff6d988898dbe8bd&chksm=bc3973b23de9ca62f3c7b9615bdb4d01651ae5305496415bde7b6d9b982082225f7b2364050a&scene=0#rd) ![](/assets/new.png)  
+- [2025-12-08-【早阅】深入理解-Web-Components：如何利用自定义元素和-Shadow-DOM-打造可复用表单组件？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278080&idx=1&sn=8c662524c3c1d64fff6d988898dbe8bd&chksm=bc3973b23de9ca62f3c7b9615bdb4d01651ae5305496415bde7b6d9b982082225f7b2364050a&scene=0#rd)  
 - [2025-12-05-【第3622期】深入浅出：用-URLPattern-打造轻量级-SPA-路由](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278071&idx=1&sn=3bc9e4bb8bdd2e318b79450b8779891c&chksm=bc88d5790df6abc16a00b3fbe3ad6bdd84c158f5821a8ccbf0f74b033edf00af06af00b0e27b&scene=0#rd)  
 - [2025-12-04-【早阅】10倍工程：生成式AI工具如何转团队生产力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278066&idx=1&sn=172add087fcbee6363473f6aa82f78ed&chksm=bc64338ecb90a06f11c002796c5e958bca86baf16288609f320fc11b40c0d70e7a5251db01ae&scene=0#rd)  
 - [2025-12-03-【第3621期】浅谈-AI-搜索前端打字机效果的实现方案演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278059&idx=1&sn=5a5447da3d7484b5b9d7178a3aa36ad9&chksm=bc2283ce0041555e78a46f2621b11e4bd39cf5dd0cc46a120ada05046a238937260368c6bc70&scene=0#rd)  
@@ -202,10 +202,13 @@
 </summary>
 
 
-- [2025-12-06-正式重构！所有-Typescript-项目性能将飙升-15-倍！](http://mp.weixin.qq.com/s/FRK7sJ179FZn1UPEtcfP7A)  
+- [2025-12-08-首个专属于-Vue3-的动效组件库！包含-120+-个组件](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506841&idx=1&sn=1eeaee1f971ac02db199114d4eb778bf&chksm=ce45ce08f932471ef5fca62084cdd16ea0c2385bb9762cf9f30a10c270a2b2111069b9af6837#rd) ![](/assets/new.png)  
 - [2025-12-06-刷透这套前端面试题，面试官都怕你](http://mp.weixin.qq.com/s/pUi2IAJ1uCUjHOHisTJ7yw)  
-- [2025-12-03-如何在-Vue3-中更好地使用-Typescript](http://mp.weixin.qq.com/s/guwqleOvZk-2MPwuBr-CUA)  
+- [2025-12-06-正式重构！所有-Typescript-项目性能将飙升-15-倍！](http://mp.weixin.qq.com/s/FRK7sJ179FZn1UPEtcfP7A)  
+- [2025-12-05-Vue3.5-重磅级新特性！会取代-Ref-吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506802&idx=1&sn=e41e86dd6e9cf5b74e1bedeb1845b249&chksm=ce45cee3f93247f57cda82203fc84375112cf399e3974441205bfe2a2fa84ecb933122782d3d#rd) ![](/assets/new.png)  
+- [2025-12-04-Nodejs-运行时被收购！半年营收十亿美元](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506798&idx=1&sn=0348bbb9cf58a9e2dbc2d1fb13336c65&chksm=ce45cefff93247e91eef6a8284a38bf9bdc006cf064d4c65aaaa4f417f5a7a1c86d9799850fe#rd) ![](/assets/new.png)  
 - [2025-12-03-所有前端程序员请做好随时失业的准备吧！](http://mp.weixin.qq.com/s/9qQBhb9cBVMdkCsD1KLVvQ)  
+- [2025-12-03-如何在-Vue3-中更好地使用-Typescript](http://mp.weixin.qq.com/s/guwqleOvZk-2MPwuBr-CUA)  
 - [2025-12-02-Pinia3.0-彻底放弃了-Vue2-了！](http://mp.weixin.qq.com/s/zm24kY4DIqCxFdTpNOyUeQ)  
 - [2025-12-01-字节面试官：不点击鼠标，怎么触发点击事件？](http://mp.weixin.qq.com/s/IChASg03ZcYRAqBx-4GNnQ)  
 - [2025-11-28-最强大-Vue3-监控埋点库！覆盖-8-个维度！](http://mp.weixin.qq.com/s/vNVJrJ72df_h7WxlfjiRMw)  
@@ -213,15 +216,12 @@
 - [2025-11-26-因为淋过雨想给找前端开发工作的人提点建议](http://mp.weixin.qq.com/s/qcXerX11LqjC9J6iu3d-jA)  
 - [2025-11-25-Prisma：用Typescript-重构项目，性能提升3倍](http://mp.weixin.qq.com/s/qWiE7g3vQqJ70b5DjkaXmg)  
 - [2025-11-24-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506602&idx=1&sn=a50e2c371e24ed42be201931ea132497&chksm=ce45cf3bf932462dc552e5bfab0eb8b9038e26ef530b559c46d165521df7a089ef9ce5497e45#rd)  
-- [2025-11-23-Ant-Design-6.0-正式发布，新增超多组件](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506581&idx=1&sn=86d1403a5403a04ade361c5949565014&chksm=ce45cf04f9324612f162bbf2162836a84cc9369678ac29bc97676cab416a36c066ac671ac5e2#rd)  
 - [2025-11-23-这段时间找工作，全靠这套面试题](http://mp.weixin.qq.com/s/ommsOrulQHP0SG4c7JrvrQ)  
+- [2025-11-23-Ant-Design-6.0-正式发布，新增超多组件](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506581&idx=1&sn=86d1403a5403a04ade361c5949565014&chksm=ce45cf04f9324612f162bbf2162836a84cc9369678ac29bc97676cab416a36c066ac671ac5e2#rd)  
 - [2025-11-22-JavaScript-的-10-种设计模式和应用场景](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506565&idx=1&sn=d22eb19dd8d19e6308f59be191459c03&chksm=ce45cf14f932460220796abb5e56d0b331d637e8812c0cabf311d7f3d16960ec3026c63ff9e8#rd)  
 - [2025-11-21-请前端人务必立即拿下软考证书（政策红利）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506534&idx=1&sn=9c18f61213e6835b3d41f0225d559dee&chksm=ce45cff7f93246e1153e5228c6e2a8cc16eb11682f06b19b01acb1665935bb7cc268be791f37#rd)  
-- [2025-11-20-分享大厂使用最多的-7-个高效开发工具库](http://mp.weixin.qq.com/s/It9aYz8OMDMZwO9ORjxRLQ)  
 - [2025-11-20-这-10-个被严重低估的-JS-API，效率提升-100%](http://mp.weixin.qq.com/s/UgIqAkLP4rGYyu9vMaqcMA)  
-- [2025-11-19-4-大程序员兼职、接单平台推荐](http://mp.weixin.qq.com/s/10iqZKxuCtKvXCHXiTs2Rw)  
-- [2025-11-18-尤雨溪推荐：专为-Vue3-设计的拖拽库](http://mp.weixin.qq.com/s/Oifc2iqcEMv9sEDS9wySlQ)  
-- [2025-11-17-移植成功！Vue3-发布-80-个炫酷动画组件](http://mp.weixin.qq.com/s/1aXaPhICoiMUNPevEt5ZNg)  
+- [2025-11-20-分享大厂使用最多的-7-个高效开发工具库](http://mp.weixin.qq.com/s/It9aYz8OMDMZwO9ORjxRLQ)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

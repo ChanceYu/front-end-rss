@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-08T06:18:23.128Z</updated>
+    <updated>2025-12-08T22:10:05.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[首个专属于 Vue3 的动效组件库！包含 120+ 个组件]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506841&amp;idx=1&amp;sn=1eeaee1f971ac02db199114d4eb778bf&amp;chksm=ce45ce08f932471ef5fca62084cdd16ea0c2385bb9762cf9f30a10c270a2b2111069b9af6837#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506841&amp;idx=1&amp;sn=1eeaee1f971ac02db199114d4eb778bf&amp;chksm=ce45ce08f932471ef5fca62084cdd16ea0c2385bb9762cf9f30a10c270a2b2111069b9af6837#rd"/>
+        <updated>2025-12-08T00:00:00.000Z</updated>
+        <published>2025-12-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】深入理解 Web Components：如何利用自定义元素和 Shadow DOM 打造可复用表单组件？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278080&amp;idx=1&amp;sn=8c662524c3c1d64fff6d988898dbe8bd&amp;chksm=bc3973b23de9ca62f3c7b9615bdb4d01651ae5305496415bde7b6d9b982082225f7b2364050a&amp;scene=0#rd</id>
@@ -39,6 +46,13 @@
         <title type="html"><![CDATA[借助图片懒加载触发 JavaScript 动态导入]]></title>
         <id>http://mp.weixin.qq.com/s/qyJSCitDnrHjASPXmFih7g</id>
         <link href="http://mp.weixin.qq.com/s/qyJSCitDnrHjASPXmFih7g"/>
+        <updated>2025-12-05T00:00:00.000Z</updated>
+        <published>2025-12-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3.5 重磅级新特性！会取代 Ref 吗？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506802&amp;idx=1&amp;sn=e41e86dd6e9cf5b74e1bedeb1845b249&amp;chksm=ce45cee3f93247f57cda82203fc84375112cf399e3974441205bfe2a2fa84ecb933122782d3d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506802&amp;idx=1&amp;sn=e41e86dd6e9cf5b74e1bedeb1845b249&amp;chksm=ce45cee3f93247f57cda82203fc84375112cf399e3974441205bfe2a2fa84ecb933122782d3d#rd"/>
         <updated>2025-12-05T00:00:00.000Z</updated>
         <published>2025-12-05T00:00:00.000Z</published>
     </entry>
@@ -74,6 +88,13 @@
         <title type="html"><![CDATA[Vite 8.0 来了，第一个换芯大版本！]]></title>
         <id>http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ</id>
         <link href="http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ"/>
+        <updated>2025-12-04T00:00:00.000Z</updated>
+        <published>2025-12-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nodejs 运行时被收购！半年营收十亿美元]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506798&amp;idx=1&amp;sn=0348bbb9cf58a9e2dbc2d1fb13336c65&amp;chksm=ce45cefff93247e91eef6a8284a38bf9bdc006cf064d4c65aaaa4f417f5a7a1c86d9799850fe#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506798&amp;idx=1&amp;sn=0348bbb9cf58a9e2dbc2d1fb13336c65&amp;chksm=ce45cefff93247e91eef6a8284a38bf9bdc006cf064d4c65aaaa4f417f5a7a1c86d9799850fe#rd"/>
         <updated>2025-12-04T00:00:00.000Z</updated>
         <published>2025-12-04T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277949&amp;idx=1&amp;sn=eb45bfa094736598fcf81938dfa8fd1d&amp;chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&amp;scene=0#rd"/>
         <updated>2025-11-19T00:00:00.000Z</updated>
         <published>2025-11-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪推荐：专为 Vue3 设计的拖拽库]]></title>
-        <id>http://mp.weixin.qq.com/s/Oifc2iqcEMv9sEDS9wySlQ</id>
-        <link href="http://mp.weixin.qq.com/s/Oifc2iqcEMv9sEDS9wySlQ"/>
-        <updated>2025-11-18T00:00:00.000Z</updated>
-        <published>2025-11-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个函数超过20行? 聊聊我的函数式代码洁癖]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623368&amp;idx=2&amp;sn=42464fd273cd5c1f16492822792a9614&amp;chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623368&amp;idx=2&amp;sn=42464fd273cd5c1f16492822792a9614&amp;chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd"/>
-        <updated>2025-11-18T00:00:00.000Z</updated>
-        <published>2025-11-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3613期】JavaScript 中的错误链：用 Error.cause 让调试更清晰]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277933&amp;idx=1&amp;sn=d6d1eacd20690c6271a78026f2eaed23&amp;chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277933&amp;idx=1&amp;sn=d6d1eacd20690c6271a78026f2eaed23&amp;chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&amp;scene=0#rd"/>
-        <updated>2025-11-18T00:00:00.000Z</updated>
-        <published>2025-11-18T00:00:00.000Z</published>
     </entry>
 </feed>
