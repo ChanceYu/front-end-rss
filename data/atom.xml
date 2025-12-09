@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-09T06:16:51.244Z</updated>
+    <updated>2025-12-09T20:10:42.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278107&amp;idx=1&amp;sn=93a5e42214119670b46eb3168701e2d4&amp;chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&amp;scene=0#rd"/>
         <updated>2025-12-09T00:00:00.000Z</updated>
         <published>2025-12-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025淘宝直播双11花花乐动画实现方案思考&分享]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542021&amp;idx=1&amp;sn=7a6602a2f66c962b2d69934938727815&amp;chksm=8390c7ddb4e74ecb7260738532c8257c0dde2b6a491ac68acddcf475b0bcab9abf3d75a88202#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542021&amp;idx=1&amp;sn=7a6602a2f66c962b2d69934938727815&amp;chksm=8390c7ddb4e74ecb7260738532c8257c0dde2b6a491ac68acddcf475b0bcab9abf3d75a88202#rd"/>
+        <updated>2025-12-08T00:00:00.000Z</updated>
+        <published>2025-12-08T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[首个专属于 Vue3 的动效组件库！包含 120+ 个组件]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[交易订单表如何做索引优化]]></title>
         <id>http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g</id>
         <link href="http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g"/>
-        <updated>2025-11-19T00:00:00.000Z</updated>
-        <published>2025-11-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 如何处理高频的实时数据？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528358&amp;idx=1&amp;sn=2f34394f5da438873ae967d829cf074c&amp;chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528358&amp;idx=1&amp;sn=2f34394f5da438873ae967d829cf074c&amp;chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd"/>
         <updated>2025-11-19T00:00:00.000Z</updated>
         <published>2025-11-19T00:00:00.000Z</published>
     </entry>

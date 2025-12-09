@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-09 14:16:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-10 04:10:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-12-09-【第3623期】从混乱到纯净：用-Effect-System-重塑你的-JS-架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278107&idx=1&sn=93a5e42214119670b46eb3168701e2d4&chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&scene=0#rd) ![](/assets/new.png)  
+- [2025-12-09-【第3623期】从混乱到纯净：用-Effect-System-重塑你的-JS-架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278107&idx=1&sn=93a5e42214119670b46eb3168701e2d4&chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&scene=0#rd)  
 - [2025-12-08-【早阅】深入理解-Web-Components：如何利用自定义元素和-Shadow-DOM-打造可复用表单组件？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278080&idx=1&sn=8c662524c3c1d64fff6d988898dbe8bd&chksm=bc3973b23de9ca62f3c7b9615bdb4d01651ae5305496415bde7b6d9b982082225f7b2364050a&scene=0#rd)  
 - [2025-12-05-【第3622期】深入浅出：用-URLPattern-打造轻量级-SPA-路由](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278071&idx=1&sn=3bc9e4bb8bdd2e318b79450b8779891c&chksm=bc88d5790df6abc16a00b3fbe3ad6bdd84c158f5821a8ccbf0f74b033edf00af06af00b0e27b&scene=0#rd)  
 - [2025-12-04-【早阅】10倍工程：生成式AI工具如何转团队生产力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278066&idx=1&sn=172add087fcbee6363473f6aa82f78ed&chksm=bc64338ecb90a06f11c002796c5e958bca86baf16288609f320fc11b40c0d70e7a5251db01ae&scene=0#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-12-08-2025淘宝直播双11花花乐动画实现方案思考&amp;分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542021&idx=1&sn=7a6602a2f66c962b2d69934938727815&chksm=8390c7ddb4e74ecb7260738532c8257c0dde2b6a491ac68acddcf475b0bcab9abf3d75a88202#rd) ![](/assets/new.png)  
 - [2025-12-01-复杂任务AI处理实践：淘宝工程师的实战手记](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541986&idx=1&sn=b6fd90b2a69aa47bbf1b5c3e5f0200c8&chksm=8390c7bab4e74eac9964bbd80d074e6687862b2ca3562c2f716afa88d8e5de8fc9ce26855a61#rd)  
 - [2025-11-28-重构一个类，JVM竟省下2.9G内存？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541985&idx=1&sn=0f17f4efa07a35c14c7a36873328e281&chksm=8390c7b9b4e74eaf067632eed7a8ea06278870bb4b30bb1f1c22b2760c44690ebdfb359ad370#rd)  
 - [2025-11-24-AI互动前端开发的思考和实践_](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541979&idx=1&sn=faf282e03be44adb359e802303d2b61d&chksm=8390c783b4e74e958515dec2e69f8d7229cda5c3c4d88cbeb7d31c6758d4cf2b68974a0f10c7#rd)  
@@ -500,7 +501,6 @@
 - [2025-09-29-产品经理也能“开发”需求？淘宝信息流从需求到上线的AI端到端实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541580&idx=1&sn=7a51be5c6032b18fbae35618a4ed7096&chksm=8390c614b4e74f02f4043a02a6d5aafd216fd5534b9af36d0cdce85d1d41af93f48889285bce#rd)  
 - [2025-09-24-一位淘宝工程同学的大模型LoRA微调尝试](http://mp.weixin.qq.com/s/KH3_z2T_VC8E8QD8Q7dS2A)  
 - [2025-09-22-Claude-Code-深度拆解：一个顶级AI编程工具的核心架构](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541545&idx=1&sn=a667765c093031540732593c74710a13&chksm=8390c5f1b4e74ce7ff3656237dfca3ba3b18e5bd1965a25164369c25da7b72290327c4d1888c#rd)  
-- [2025-09-17-多模态AI质检：身份核验场景实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541540&idx=1&sn=c5a3f2608f86fae9b2ace8c02f531bbd&chksm=8390c5fcb4e74cea13caf3f49bc74fa4db07c9ee34b10f30640ae5379ab9a979f791ee464793#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
