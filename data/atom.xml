@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-08T22:10:05.023Z</updated>
+    <updated>2025-12-09T06:16:51.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3623期】从混乱到纯净：用 Effect System 重塑你的 JS 架构]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278107&amp;idx=1&amp;sn=93a5e42214119670b46eb3168701e2d4&amp;chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278107&amp;idx=1&amp;sn=93a5e42214119670b46eb3168701e2d4&amp;chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&amp;scene=0#rd"/>
+        <updated>2025-12-09T00:00:00.000Z</updated>
+        <published>2025-12-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[首个专属于 Vue3 的动效组件库！包含 120+ 个组件]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506841&amp;idx=1&amp;sn=1eeaee1f971ac02db199114d4eb778bf&amp;chksm=ce45ce08f932471ef5fca62084cdd16ea0c2385bb9762cf9f30a10c270a2b2111069b9af6837#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[React 如何处理高频的实时数据？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528358&amp;idx=1&amp;sn=2f34394f5da438873ae967d829cf074c&amp;chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528358&amp;idx=1&amp;sn=2f34394f5da438873ae967d829cf074c&amp;chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd"/>
-        <updated>2025-11-19T00:00:00.000Z</updated>
-        <published>2025-11-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】使用本地优先数据构建原生级 Web 应用]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277949&amp;idx=1&amp;sn=eb45bfa094736598fcf81938dfa8fd1d&amp;chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277949&amp;idx=1&amp;sn=eb45bfa094736598fcf81938dfa8fd1d&amp;chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&amp;scene=0#rd"/>
         <updated>2025-11-19T00:00:00.000Z</updated>
         <published>2025-11-19T00:00:00.000Z</published>
     </entry>
