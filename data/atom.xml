@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-10T12:20:40.769Z</updated>
+    <updated>2025-12-10T14:13:27.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[【第3623期】从混乱到纯净：用 Effect System 重塑你的 JS 架构]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278107&amp;idx=1&amp;sn=93a5e42214119670b46eb3168701e2d4&amp;chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278107&amp;idx=1&amp;sn=93a5e42214119670b46eb3168701e2d4&amp;chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&amp;scene=0#rd"/>
+        <updated>2025-12-09T00:00:00.000Z</updated>
+        <published>2025-12-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Seattle Times is using pnpm]]></title>
+        <id>https://nodeweekly.com/issues/604</id>
+        <link href="https://nodeweekly.com/issues/604"/>
         <updated>2025-12-09T00:00:00.000Z</updated>
         <published>2025-12-09T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
         <id>http://mp.weixin.qq.com/s/8Ur3qZPzpgaCmdv6XUZv5A</id>
         <link href="http://mp.weixin.qq.com/s/8Ur3qZPzpgaCmdv6XUZv5A"/>
-        <updated>2025-11-20T00:00:00.000Z</updated>
-        <published>2025-11-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3614期】常被忽视的 Node.js 功能，彻底改善了日志体验]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277957&amp;idx=1&amp;sn=f82c3d371bd6336a7ade9a37849bbe90&amp;chksm=bc59398e2448e88a217798e87679c0452b07ac79fcdf699d290b43141421edf2847baf3428d7&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277957&amp;idx=1&amp;sn=f82c3d371bd6336a7ade9a37849bbe90&amp;chksm=bc59398e2448e88a217798e87679c0452b07ac79fcdf699d290b43141421edf2847baf3428d7&amp;scene=0#rd"/>
         <updated>2025-11-20T00:00:00.000Z</updated>
         <published>2025-11-20T00:00:00.000Z</published>
     </entry>

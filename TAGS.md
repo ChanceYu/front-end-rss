@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-12-10 20:20:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-12-10 22:13:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -146,6 +146,7 @@
 
 
 
+- [【Node-Weekly】How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)
 - [【Node-Weekly】npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)
 - [【Node-Weekly】pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)
 - [【Node-Weekly】A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)
@@ -165,7 +166,6 @@
 - [【JavaScript-Weekly】Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)
 - [【JavaScript-Weekly】Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)
 - [【JavaScript-Weekly】The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)
-- [【JavaScript-Weekly】The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)
 - [查看更多 >](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
