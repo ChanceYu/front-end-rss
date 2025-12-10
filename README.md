@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-10 14:17:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-10 20:20:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-12-10-【早阅】复杂代码库中的AI提效秘籍：如何通过上下文工程避开大模型的“愚蠢区”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278125&idx=1&sn=689d86070f1fcdc4534398b94e55b494&chksm=bc7da969ce5e245b650b36a10d491c426490935f40f3a13e2ee7c8216f3663d3dc0b8d3d757e&scene=0#rd) ![](/assets/new.png)  
+- [2025-12-10-【早阅】复杂代码库中的AI提效秘籍：如何通过上下文工程避开大模型的“愚蠢区”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278125&idx=1&sn=689d86070f1fcdc4534398b94e55b494&chksm=bc7da969ce5e245b650b36a10d491c426490935f40f3a13e2ee7c8216f3663d3dc0b8d3d757e&scene=0#rd)  
 - [2025-12-09-【第3623期】从混乱到纯净：用-Effect-System-重塑你的-JS-架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278107&idx=1&sn=93a5e42214119670b46eb3168701e2d4&chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&scene=0#rd)  
 - [2025-12-08-【早阅】深入理解-Web-Components：如何利用自定义元素和-Shadow-DOM-打造可复用表单组件？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278080&idx=1&sn=8c662524c3c1d64fff6d988898dbe8bd&chksm=bc3973b23de9ca62f3c7b9615bdb4d01651ae5305496415bde7b6d9b982082225f7b2364050a&scene=0#rd)  
 - [2025-12-05-【第3622期】深入浅出：用-URLPattern-打造轻量级-SPA-路由](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278071&idx=1&sn=3bc9e4bb8bdd2e318b79450b8779891c&chksm=bc88d5790df6abc16a00b3fbe3ad6bdd84c158f5821a8ccbf0f74b033edf00af06af00b0e27b&scene=0#rd)  
@@ -264,6 +264,8 @@
 </summary>
 
 
+- [2025-12-10-学了那么多-AI，却还是不会落地？](http://mp.weixin.qq.com/s/x-RYu0QK-RSTtQNYtH5oVg) ![](/assets/new.png)  
+- [2025-12-09-我们可以使用-Local-Storage-代替-Context-Redux-Zustand-吗？](http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA) ![](/assets/new.png)  
 - [2025-12-05-借助图片懒加载触发-JavaScript-动态导入](http://mp.weixin.qq.com/s/qyJSCitDnrHjASPXmFih7g)  
 - [2025-12-04-如何用隐形字符给公司内部文档加盲水印?抓内鬼神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528489&idx=1&sn=be47f1a844b05ee7064e970cdb6cfc95&chksm=f99276f8cee5ffeeb34aee7e4eaa0c1a06826b689127ea018b9a120334bfa17ef6a835b0c463#rd)  
 - [2025-12-03-让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528474&idx=1&sn=681f4c61971b9b12a1cd3a51a1a78358&chksm=f99276cbcee5ffddd8980918a34e9c4b1d3ffda7290cea0c20685dc321279c221175f35d698f#rd)  
@@ -282,8 +284,6 @@
 - [2025-11-13-转转商品中心微前端升级之路](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528267&idx=1&sn=5b61a3c83713139b8f27073183d136f1&chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd)  
 - [2025-11-12-我用AI重构了一段500行的屎山代码，这是我的Prompt和思考过程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528265&idx=1&sn=f926cb76c8336dcd7d2844d997c5eea0&chksm=f9926998cee5e08e48ae80179998e93c37b3ef3c4ad88bb4ea31467f5222722677418cc1a8e6#rd)  
 - [2025-11-11-就因为package.json里少了个^号，我们公司赔了客户十万块](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528236&idx=1&sn=6c233f8bef10fdcf765b6c1268bcb09e&chksm=f99269fdcee5e0eb1fd3328c37d2edea33de243fdafd75aa358636d8e9b07bfb8e306f6df3a1#rd)  
-- [2025-11-10-有效防止重复提交的6个方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528227&idx=1&sn=39a73385b8621b312c2aa62e301e5576&chksm=f99269f2cee5e0e4fff3a755541bd2f41b9fc25fa7853e0c8bc8b3a892ad73af556a904bf3d9#rd)  
-- [2025-11-07-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s/FYNG99V4RkTjmo6wl5navg)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
