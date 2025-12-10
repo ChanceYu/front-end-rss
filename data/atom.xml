@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-10T14:13:27.272Z</updated>
+    <updated>2025-12-10T16:15:32.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 性能提升 500% 的外挂！这是前端未来的趋势]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506869&amp;idx=1&amp;sn=58e3ef1e731856a6406f5ed709072b9f&amp;chksm=ce45ce24f93247322f5e9544c193bd985605b7c07e4506eedea5f56c39d12528eb9812b70af7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506869&amp;idx=1&amp;sn=58e3ef1e731856a6406f5ed709072b9f&amp;chksm=ce45ce24f93247322f5e9544c193bd985605b7c07e4506eedea5f56c39d12528eb9812b70af7#rd"/>
+        <updated>2025-12-10T00:00:00.000Z</updated>
+        <published>2025-12-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们可以使用 Local Storage 代替 Context-Redux-Zustand 吗？]]></title>
         <id>http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[这 10 个被严重低估的 JS API，效率提升 100%]]></title>
         <id>http://mp.weixin.qq.com/s/UgIqAkLP4rGYyu9vMaqcMA</id>
         <link href="http://mp.weixin.qq.com/s/UgIqAkLP4rGYyu9vMaqcMA"/>
-        <updated>2025-11-20T00:00:00.000Z</updated>
-        <published>2025-11-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
-        <id>http://mp.weixin.qq.com/s/8Ur3qZPzpgaCmdv6XUZv5A</id>
-        <link href="http://mp.weixin.qq.com/s/8Ur3qZPzpgaCmdv6XUZv5A"/>
         <updated>2025-11-20T00:00:00.000Z</updated>
         <published>2025-11-20T00:00:00.000Z</published>
     </entry>
