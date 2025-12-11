@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-11T20:12:34.799Z</updated>
+    <updated>2025-12-11T22:10:17.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,9 +57,23 @@
         <published>2025-12-10T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HTML 的隐藏宝藏： 标签]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623494&amp;idx=2&amp;sn=36dd6338dd0696f95fce0603d8a6f5d5&amp;chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623494&amp;idx=2&amp;sn=36dd6338dd0696f95fce0603d8a6f5d5&amp;chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd"/>
+        <updated>2025-12-10T00:00:00.000Z</updated>
+        <published>2025-12-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我们可以使用 Local Storage 代替 Context-Redux-Zustand 吗？]]></title>
         <id>http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA</id>
         <link href="http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA"/>
+        <updated>2025-12-09T00:00:00.000Z</updated>
+        <published>2025-12-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623480&amp;idx=1&amp;sn=071097771f25a51dd17534813531620e&amp;chksm=802247f9b755ceefac42fb267eb1afc8e225f821f7f2594926e6339c61815e274e8ff79e3db0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623480&amp;idx=1&amp;sn=071097771f25a51dd17534813531620e&amp;chksm=802247f9b755ceefac42fb267eb1afc8e225f821f7f2594926e6339c61815e274e8ff79e3db0#rd"/>
         <updated>2025-12-09T00:00:00.000Z</updated>
         <published>2025-12-09T00:00:00.000Z</published>
     </entry>
@@ -88,6 +102,20 @@
         <title type="html"><![CDATA[首个专属于 Vue3 的动效组件库！包含 120+ 个组件]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506841&amp;idx=1&amp;sn=1eeaee1f971ac02db199114d4eb778bf&amp;chksm=ce45ce08f932471ef5fca62084cdd16ea0c2385bb9762cf9f30a10c270a2b2111069b9af6837#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506841&amp;idx=1&amp;sn=1eeaee1f971ac02db199114d4eb778bf&amp;chksm=ce45ce08f932471ef5fca62084cdd16ea0c2385bb9762cf9f30a10c270a2b2111069b9af6837#rd"/>
+        <updated>2025-12-08T00:00:00.000Z</updated>
+        <published>2025-12-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[就因为package.json里少了个^号，我们公司赔了客户十万块]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=1&amp;sn=99580c15cf25db76918e9e3142848f33&amp;chksm=802247f2b755cee4c9263762629722e2a7955a95f2f5adcbb3a14e149cee15c127411f4ad845#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=1&amp;sn=99580c15cf25db76918e9e3142848f33&amp;chksm=802247f2b755cee4c9263762629722e2a7955a95f2f5adcbb3a14e149cee15c127411f4ad845#rd"/>
+        <updated>2025-12-08T00:00:00.000Z</updated>
+        <published>2025-12-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare 被 React 坑了！两周内二次“翻车”]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=2&amp;sn=502e8eea994a373f9f92d76582df70a2&amp;chksm=802247f2b755cee49541e1c3585dfe2118a0f671503fe488f84397958ee769e6969444b89144#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=2&amp;sn=502e8eea994a373f9f92d76582df70a2&amp;chksm=802247f2b755cee49541e1c3585dfe2118a0f671503fe488f84397958ee769e6969444b89144#rd"/>
         <updated>2025-12-08T00:00:00.000Z</updated>
         <published>2025-12-08T00:00:00.000Z</published>
     </entry>
@@ -169,16 +197,16 @@
         <published>2025-12-04T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“天才少年”5年0收入造JS核武！Claude天价收购Bun，Node.js生态地震]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=1&amp;sn=97559a7547e46d0ff187a9243d79b6bf&amp;chksm=802247cdb755cedba11f42efade50b0389742d65af5961b77a052552e0edda4f3c502c12dd84#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=1&amp;sn=97559a7547e46d0ff187a9243d79b6bf&amp;chksm=802247cdb755cedba11f42efade50b0389742d65af5961b77a052552e0edda4f3c502c12dd84#rd"/>
+        <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=2&amp;sn=438137b1ae67d3a54a3066d11c1d82c1&amp;chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=2&amp;sn=438137b1ae67d3a54a3066d11c1d82c1&amp;chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd"/>
         <updated>2025-12-04T00:00:00.000Z</updated>
         <published>2025-12-04T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=2&amp;sn=438137b1ae67d3a54a3066d11c1d82c1&amp;chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=2&amp;sn=438137b1ae67d3a54a3066d11c1d82c1&amp;chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd"/>
+        <title type="html"><![CDATA[“天才少年”5年0收入造JS核武！Claude天价收购Bun，Node.js生态地震]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=1&amp;sn=97559a7547e46d0ff187a9243d79b6bf&amp;chksm=802247cdb755cedba11f42efade50b0389742d65af5961b77a052552e0edda4f3c502c12dd84#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=1&amp;sn=97559a7547e46d0ff187a9243d79b6bf&amp;chksm=802247cdb755cedba11f42efade50b0389742d65af5961b77a052552e0edda4f3c502c12dd84#rd"/>
         <updated>2025-12-04T00:00:00.000Z</updated>
         <published>2025-12-04T00:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506602&amp;idx=1&amp;sn=a50e2c371e24ed42be201931ea132497&amp;chksm=ce45cf3bf932462dc552e5bfab0eb8b9038e26ef530b559c46d165521df7a089ef9ce5497e45#rd"/>
         <updated>2025-11-24T00:00:00.000Z</updated>
         <published>2025-11-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 3.6 进“养老模式”了吗？一年没大更新，稳得让我有点慌]]></title>
-        <id>http://mp.weixin.qq.com/s/LWztYtxPpjK-heK5x3DfUA</id>
-        <link href="http://mp.weixin.qq.com/s/LWztYtxPpjK-heK5x3DfUA"/>
-        <updated>2025-11-24T00:00:00.000Z</updated>
-        <published>2025-11-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3616期】JavaScript 原型污染]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277982&amp;idx=1&amp;sn=7e2f24da357206da210422c8c0c33e61&amp;chksm=bce0d7d15007212ac1422c3daaa995e072e9b749692591c48de8a2acd3db4c74be5ccf4422b6&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277982&amp;idx=1&amp;sn=7e2f24da357206da210422c8c0c33e61&amp;chksm=bce0d7d15007212ac1422c3daaa995e072e9b749692591c48de8a2acd3db4c74be5ccf4422b6&amp;scene=0#rd"/>
-        <updated>2025-11-24T00:00:00.000Z</updated>
-        <published>2025-11-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ant-Design 6.0 正式发布，新增超多组件]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506581&amp;idx=1&amp;sn=86d1403a5403a04ade361c5949565014&amp;chksm=ce45cf04f9324612f162bbf2162836a84cc9369678ac29bc97676cab416a36c066ac671ac5e2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506581&amp;idx=1&amp;sn=86d1403a5403a04ade361c5949565014&amp;chksm=ce45cf04f9324612f162bbf2162836a84cc9369678ac29bc97676cab416a36c066ac671ac5e2#rd"/>
-        <updated>2025-11-23T00:00:00.000Z</updated>
-        <published>2025-11-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 用一个烂 Web 应用替换原生 WhatsApp：Windows 用户活该将就？]]></title>
-        <id>http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw</id>
-        <link href="http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw"/>
-        <updated>2025-11-23T00:00:00.000Z</updated>
-        <published>2025-11-23T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-12 04:12:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-12 06:10:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -15,6 +15,7 @@
 - [2021-02-24-【第2207期】为git仓库自动生成changelog-html页面](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244082&idx=2&sn=21f225224d71bb44169ac4b03e71749c&chksm=bd491fb68a3e96a083f40b1aa69f1ed1c7c34f1ce01356dfffe65cd059a3dd1b9a0a13fbd207&scene=27#wechat_redirect) 
 - [2020-06-02-【英】HTML-mailto-link](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237042&idx=3&sn=79cde14e9196fc85df190acb65b127f2&chksm=bd4973368a3efa206a38e18653ba4e24281c2694e19f660edf73fb40a98f5d33f20827167180&scene=27#wechat_redirect) 
 - [2020-02-16-【第1858期】通过HTML属性可改善用户的双重身份验证体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235715&idx=1&sn=a7e364236e694b774c671991d657f389&chksm=bd497c078a3ef5113a8d7a2b0d5fbeef13693d188978343b601701962a3086dbf5d7b4e70dce&scene=27#wechat_redirect) 
+- [2025-12-10-HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=2&sn=36dd6338dd0696f95fce0603d8a6f5d5&chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd) 
 - [2025-11-23-Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw) 
 - [2022-09-18-Adobe收购Figma；易联购预售iPhone卷款跑路；脉脉以旷工为由辞退员工，被判赔24万；Meta开源MemLab](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517964&idx=1&sn=fd812c4578cf63ba2924f7d0e5c8b48e&chksm=f952324fce25bb598f78f8a710d2fee125012a6ec4860e1e980b9308631c962c694fe5ab313d#rd) 
 - [2021-03-03-为什么要用-picture-标签代替-img-标签？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506985&idx=2&sn=2d52b27efe0d52fc3eb2a9761ad0c15e&chksm=f952696ace25e07c37b85512410826383a3f6ea1667b4fbfc1245819b7ccb91347cb58292090&scene=27#wechat_redirect) 
