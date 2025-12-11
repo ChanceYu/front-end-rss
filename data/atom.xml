@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-11T04:27:31.859Z</updated>
+    <updated>2025-12-11T20:12:34.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,39 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[JavaScript 性能提升 500% 的外挂！这是前端未来的趋势]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517475&amp;idx=1&amp;sn=0385e90aa0a8af54a8b1d217495ab9bc&amp;chksm=eb07bd5adc70344cf2b30c5276f35f048d447653788ec2c744f5b85fe1c1cdd9612fd70998ad#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517475&amp;idx=1&amp;sn=0385e90aa0a8af54a8b1d217495ab9bc&amp;chksm=eb07bd5adc70344cf2b30c5276f35f048d447653788ec2c744f5b85fe1c1cdd9612fd70998ad#rd"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <published>2025-12-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从崩溃到优雅：Node.js 错误处理的正确姿势]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528526&amp;idx=1&amp;sn=4fd1d8ec5631d9e3da7e632569839185&amp;chksm=f992769fcee5ff8995420219b5d8fbdb0e4edd25a581d1fdea033825a6c3ea516ede8449e164#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528526&amp;idx=1&amp;sn=4fd1d8ec5631d9e3da7e632569839185&amp;chksm=f992769fcee5ff8995420219b5d8fbdb0e4edd25a581d1fdea033825a6c3ea516ede8449e164#rd"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <published>2025-12-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端实现：微信的高性能拼音搜索！]]></title>
+        <id>http://mp.weixin.qq.com/s/zUBAxu5s1SglQWmzamVhhQ</id>
+        <link href="http://mp.weixin.qq.com/s/zUBAxu5s1SglQWmzamVhhQ"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <published>2025-12-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3624期】SVG Filters - Clickjacking 2.0：一种全新的网络攻击技术]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278138&amp;idx=1&amp;sn=695b4035b94470500180e5e1215d108c&amp;chksm=bc98f2b1a736b5c91a656e34fedcec676dff2cf32a280d209632614af5e1d4a820237eb560bf&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278138&amp;idx=1&amp;sn=695b4035b94470500180e5e1215d108c&amp;chksm=bc98f2b1a736b5c91a656e34fedcec676dff2cf32a280d209632614af5e1d4a820237eb560bf&amp;scene=0#rd"/>
         <updated>2025-12-11T00:00:00.000Z</updated>
         <published>2025-12-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jimi：打造Java程序员专属的开源ClaudeCode]]></title>
+        <id>http://mp.weixin.qq.com/s/a6zOCKaBey0IQnywOd4xWg</id>
+        <link href="http://mp.weixin.qq.com/s/a6zOCKaBey0IQnywOd4xWg"/>
+        <updated>2025-12-10T00:00:00.000Z</updated>
+        <published>2025-12-10T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 性能提升 500% 的外挂！这是前端未来的趋势]]></title>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw"/>
         <updated>2025-11-23T00:00:00.000Z</updated>
         <published>2025-11-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 的 10 种设计模式和应用场景]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506565&amp;idx=1&amp;sn=d22eb19dd8d19e6308f59be191459c03&amp;chksm=ce45cf14f932460220796abb5e56d0b331d637e8812c0cabf311d7f3d16960ec3026c63ff9e8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506565&amp;idx=1&amp;sn=d22eb19dd8d19e6308f59be191459c03&amp;chksm=ce45cf14f932460220796abb5e56d0b331d637e8812c0cabf311d7f3d16960ec3026c63ff9e8#rd"/>
-        <updated>2025-11-22T00:00:00.000Z</updated>
-        <published>2025-11-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源的SSR框架都是怎么实现的？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528389&amp;idx=1&amp;sn=ec2a5cb303c5cefd3d6c6893c18a1efd&amp;chksm=f9926914cee5e002d8c2c0e5c5ee39e24c5b16b32a3160da5b3a59e258a4ba8ab667100f8c35#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528389&amp;idx=1&amp;sn=ec2a5cb303c5cefd3d6c6893c18a1efd&amp;chksm=f9926914cee5e002d8c2c0e5c5ee39e24c5b16b32a3160da5b3a59e258a4ba8ab667100f8c35#rd"/>
-        <updated>2025-11-21T00:00:00.000Z</updated>
-        <published>2025-11-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3615期】前端安全：setHTML()、Trusted Types 和 Sanitizer API 使用指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277961&amp;idx=1&amp;sn=8233a680cb05111a5e2d4f66619baedb&amp;chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277961&amp;idx=1&amp;sn=8233a680cb05111a5e2d4f66619baedb&amp;chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&amp;scene=0#rd"/>
-        <updated>2025-11-21T00:00:00.000Z</updated>
-        <published>2025-11-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这 10 个被严重低估的 JS API，效率提升 100%]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517460&amp;idx=1&amp;sn=f4943078661f669578c87248b1a9df85&amp;chksm=eb07bd6ddc70347b43743b8a8b53274a782172badbaf646f204c366ac7113467ccf7ce887cff#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517460&amp;idx=1&amp;sn=f4943078661f669578c87248b1a9df85&amp;chksm=eb07bd6ddc70347b43743b8a8b53274a782172badbaf646f204c366ac7113467ccf7ce887cff#rd"/>
-        <updated>2025-11-20T00:00:00.000Z</updated>
-        <published>2025-11-20T00:00:00.000Z</published>
     </entry>
 </feed>
