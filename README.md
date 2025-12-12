@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-13 00:12:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-13 02:17:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765) ![](/assets/new.png)  
+- [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)  
 - [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)  
 - [2025-11-28-Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)  
 - [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762)  
@@ -264,6 +264,7 @@
 </summary>
 
 
+- [2025-12-12-大多数开发者都错误地使用了Prettier](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528534&idx=1&sn=e3d953a3f8db95e42cc3405894d82fdc&chksm=f9927687cee5ff910c5a5ef336dbd6feccb616695122b52bfa1010a0f3a3465750befdbd066a#rd) ![](/assets/new.png)  
 - [2025-12-11-从崩溃到优雅：Node.js-错误处理的正确姿势](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528526&idx=1&sn=4fd1d8ec5631d9e3da7e632569839185&chksm=f992769fcee5ff8995420219b5d8fbdb0e4edd25a581d1fdea033825a6c3ea516ede8449e164#rd)  
 - [2025-12-10-学了那么多-AI，却还是不会落地？](http://mp.weixin.qq.com/s/x-RYu0QK-RSTtQNYtH5oVg)  
 - [2025-12-09-我们可以使用-Local-Storage-代替-Context-Redux-Zustand-吗？](http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA)  
@@ -283,7 +284,6 @@
 - [2025-11-17-教你通过规范驱动开发提升你的-AI-编程水平](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528314&idx=1&sn=6ed7799f6401bf346319a6513f801453&chksm=f99269abcee5e0bd72211ac54d4ea9543af63ac0f8502906c0092a3c3301b6e5da17242593cc#rd)  
 - [2025-11-14-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528306&idx=1&sn=123119980f9a33dba2a6b3d5343f5e2c&chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd)  
 - [2025-11-13-转转商品中心微前端升级之路](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528267&idx=1&sn=5b61a3c83713139b8f27073183d136f1&chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd)  
-- [2025-11-12-我用AI重构了一段500行的屎山代码，这是我的Prompt和思考过程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528265&idx=1&sn=f926cb76c8336dcd7d2844d997c5eea0&chksm=f9926998cee5e08e48ae80179998e93c37b3ef3c4ad88bb4ea31467f5222722677418cc1a8e6#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

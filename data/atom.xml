@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-12T16:12:23.231Z</updated>
+    <updated>2025-12-12T18:17:47.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[CSS progress()函数简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/"/>
+        <updated>2025-12-12T00:00:00.000Z</updated>
+        <published>2025-12-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大多数开发者都错误地使用了Prettier]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528534&amp;idx=1&amp;sn=e3d953a3f8db95e42cc3405894d82fdc&amp;chksm=f9927687cee5ff910c5a5ef336dbd6feccb616695122b52bfa1010a0f3a3465750befdbd066a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528534&amp;idx=1&amp;sn=e3d953a3f8db95e42cc3405894d82fdc&amp;chksm=f9927687cee5ff910c5a5ef336dbd6feccb616695122b52bfa1010a0f3a3465750befdbd066a#rd"/>
         <updated>2025-12-12T00:00:00.000Z</updated>
         <published>2025-12-12T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[工具浪潮下 Babel 的定位与未来演进！]]></title>
         <id>http://mp.weixin.qq.com/s/elqqbMgkyi3z6zVSeQjAsw</id>
         <link href="http://mp.weixin.qq.com/s/elqqbMgkyi3z6zVSeQjAsw"/>
-        <updated>2025-11-25T00:00:00.000Z</updated>
-        <published>2025-11-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prisma：用Typescript 重构项目，性能提升3倍]]></title>
-        <id>http://mp.weixin.qq.com/s/qWiE7g3vQqJ70b5DjkaXmg</id>
-        <link href="http://mp.weixin.qq.com/s/qWiE7g3vQqJ70b5DjkaXmg"/>
         <updated>2025-11-25T00:00:00.000Z</updated>
         <published>2025-11-25T00:00:00.000Z</published>
     </entry>
