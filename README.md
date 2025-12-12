@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-12 06:10:16，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-12 12:25:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-12-12-【早阅】LLM-时代的前端革命：React-不再是框架，而是平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278142&idx=1&sn=c310375429ed17ec469ff84e61e56d6f&chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&scene=0#rd) ![](/assets/new.png)  
 - [2025-12-11-【第3624期】SVG-Filters---Clickjacking-2.0：一种全新的网络攻击技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278138&idx=1&sn=695b4035b94470500180e5e1215d108c&chksm=bc98f2b1a736b5c91a656e34fedcec676dff2cf32a280d209632614af5e1d4a820237eb560bf&scene=0#rd)  
 - [2025-12-10-【早阅】复杂代码库中的AI提效秘籍：如何通过上下文工程避开大模型的“愚蠢区”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278125&idx=1&sn=689d86070f1fcdc4534398b94e55b494&chksm=bc7da969ce5e245b650b36a10d491c426490935f40f3a13e2ee7c8216f3663d3dc0b8d3d757e&scene=0#rd)  
 - [2025-12-09-【第3623期】从混乱到纯净：用-Effect-System-重塑你的-JS-架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278107&idx=1&sn=93a5e42214119670b46eb3168701e2d4&chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&scene=0#rd)  
@@ -120,15 +121,14 @@
 - [2025-12-01-【第3620期】从崩溃到优雅：Node.js-错误处理的正确姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278024&idx=1&sn=60cc64389d04ede80e9340f888a8fc1a&chksm=bcdc7697e210077a76ec180c81cd513ba2784ea7f6ffaee5f805bce8fcd90d5253855ac62dae&scene=0#rd)  
 - [2025-11-28-【早阅】让依赖更轻，让构建更快：tinyglobby-的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278016&idx=1&sn=5f4c4289cfb21cfd63c9316e63bbb3eb&chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&scene=0#rd)  
 - [2025-11-27-【第3619期】让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278003&idx=1&sn=72f8517f9201eabd058015706fcacc14&chksm=bcb003856256333c944ed42377c5a97b37bb73be74fa26586dc62013698d788b83cd01fefe27&scene=0#rd)  
-- [2025-11-26-【第3618期】React-19.2：步入「Sigma」时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=1&sn=4597002bb82c8995bbdbb6e94ee323b6&chksm=bc169dfee65300a4d36c805ca1a60df6224d0b961f26ddfd6fefb8f464d7bed6d8409346b86b&scene=0#rd)  
 - [2025-11-26-12月20日，FEDAY-2025，长沙见【前端，不止于-AI。】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=2&sn=59cda3825fbfcb4d9b48ef0d884b1a07&chksm=bc7fe3957a8281e4da96db4be0c553e0a8e5eeb273c6e447c70d1ba3859e98ec7f8e09fe8228&scene=0#rd)  
+- [2025-11-26-【第3618期】React-19.2：步入「Sigma」时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=1&sn=4597002bb82c8995bbdbb6e94ee323b6&chksm=bc169dfee65300a4d36c805ca1a60df6224d0b961f26ddfd6fefb8f464d7bed6d8409346b86b&scene=0#rd)  
 - [2025-11-25-【第3617期】DNS-解析的成本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277986&idx=1&sn=4063489bced887279279bf63bab31739&chksm=bcedcefaa5878ce2e9516cb39e1753e083cc878ad7061dc498b0cceaae1abb489ff160910dfa&scene=0#rd)  
 - [2025-11-24-【第3616期】JavaScript-原型污染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277982&idx=1&sn=7e2f24da357206da210422c8c0c33e61&chksm=bce0d7d15007212ac1422c3daaa995e072e9b749692591c48de8a2acd3db4c74be5ccf4422b6&scene=0#rd)  
 - [2025-11-21-【第3615期】前端安全：setHTML、Trusted-Types-和-Sanitizer-API-使用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277961&idx=1&sn=8233a680cb05111a5e2d4f66619baedb&chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&scene=0#rd)  
 - [2025-11-20-【第3614期】常被忽视的-Node.js-功能，彻底改善了日志体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277957&idx=1&sn=f82c3d371bd6336a7ade9a37849bbe90&chksm=bc59398e2448e88a217798e87679c0452b07ac79fcdf699d290b43141421edf2847baf3428d7&scene=0#rd)  
 - [2025-11-19-【早阅】使用本地优先数据构建原生级-Web-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277949&idx=1&sn=eb45bfa094736598fcf81938dfa8fd1d&chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&scene=0#rd)  
 - [2025-11-18-【第3613期】JavaScript-中的错误链：用-Error.cause-让调试更清晰](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277933&idx=1&sn=d6d1eacd20690c6271a78026f2eaed23&chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&scene=0#rd)  
-- [2025-11-17-【早阅】Node.js-2025-现状解读](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277928&idx=1&sn=f5778f9a2742921f784157ea11f6eb8c&chksm=bcc625823e9ad5a5fe516d37728467c86f11b5f4b0ff8f0bf1f90ecf19afb47277675a44a071&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -140,12 +140,12 @@
 </summary>
 
 
-- [2025-12-11-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623500&idx=1&sn=1957629b4e0b24f26b0de5b0d5a263da&chksm=8022478db755ce9b43662557ef38907509d1fbfd99c2558dfebaa2ac099e3209ad90384a3bd8#rd) ![](/assets/new.png)  
-- [2025-12-10-库克告别苹果，“九子夺嫡”争夺CEO大战开始了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=1&sn=2ac196889f093d858b4fca74804178cf&chksm=80224787b755ce91fd753e3e93991a05640f5315b792193d038076541b0aee4600f80ffff3e3#rd) ![](/assets/new.png)  
-- [2025-12-10-HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=2&sn=36dd6338dd0696f95fce0603d8a6f5d5&chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd) ![](/assets/new.png)  
-- [2025-12-09-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623480&idx=1&sn=071097771f25a51dd17534813531620e&chksm=802247f9b755ceefac42fb267eb1afc8e225f821f7f2594926e6339c61815e274e8ff79e3db0#rd) ![](/assets/new.png)  
-- [2025-12-08-Cloudflare-被-React-坑了！两周内二次“翻车”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623475&idx=2&sn=502e8eea994a373f9f92d76582df70a2&chksm=802247f2b755cee49541e1c3585dfe2118a0f671503fe488f84397958ee769e6969444b89144#rd) ![](/assets/new.png)  
-- [2025-12-08-就因为package.json里少了个^号，我们公司赔了客户十万块](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623475&idx=1&sn=99580c15cf25db76918e9e3142848f33&chksm=802247f2b755cee4c9263762629722e2a7955a95f2f5adcbb3a14e149cee15c127411f4ad845#rd) ![](/assets/new.png)  
+- [2025-12-11-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623500&idx=1&sn=1957629b4e0b24f26b0de5b0d5a263da&chksm=8022478db755ce9b43662557ef38907509d1fbfd99c2558dfebaa2ac099e3209ad90384a3bd8#rd)  
+- [2025-12-10-库克告别苹果，“九子夺嫡”争夺CEO大战开始了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=1&sn=2ac196889f093d858b4fca74804178cf&chksm=80224787b755ce91fd753e3e93991a05640f5315b792193d038076541b0aee4600f80ffff3e3#rd)  
+- [2025-12-10-HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=2&sn=36dd6338dd0696f95fce0603d8a6f5d5&chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd)  
+- [2025-12-09-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623480&idx=1&sn=071097771f25a51dd17534813531620e&chksm=802247f9b755ceefac42fb267eb1afc8e225f821f7f2594926e6339c61815e274e8ff79e3db0#rd)  
+- [2025-12-08-Cloudflare-被-React-坑了！两周内二次“翻车”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623475&idx=2&sn=502e8eea994a373f9f92d76582df70a2&chksm=802247f2b755cee49541e1c3585dfe2118a0f671503fe488f84397958ee769e6969444b89144#rd)  
+- [2025-12-08-就因为package.json里少了个^号，我们公司赔了客户十万块](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623475&idx=1&sn=99580c15cf25db76918e9e3142848f33&chksm=802247f2b755cee4c9263762629722e2a7955a95f2f5adcbb3a14e149cee15c127411f4ad845#rd)  
 - [2025-12-06-“豆包手机”使用了锤子科技Smartisan-OS祖传代码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623461&idx=1&sn=171d6a95e21420b9b6fd860aa2046246&chksm=802247e4b755cef2140790f778ad469cf4408dab92a9d353dd3ee84730b261d441f23e430214#rd)  
 - [2025-12-06-面试：前端如何应对数百万个-API-请求而不会导致系统崩溃](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623461&idx=2&sn=ac0b16ad89afd9f061bc3c80d6a1666d&chksm=802247e4b755cef2b2315bb5e656ac8a19e7ca1891a5a12cab6b61cb324867a0fe4aad391291#rd)  
 - [2025-12-05-让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623449&idx=2&sn=fe2deab3fd0464e235236ca93c2739de&chksm=802247d8b755cece33252831bf5fe50d2ad252488ee849f815ec12c7702c4b6d76b6a775ef01#rd)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-12-12-所有前端程序员的春天真的来了！！！](http://mp.weixin.qq.com/s/Dmivu7kSVxpvnvtg49M7_A) ![](/assets/new.png)  
 - [2025-12-11-JavaScript-性能提升-500%-的外挂！这是前端未来的趋势](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517475&idx=1&sn=0385e90aa0a8af54a8b1d217495ab9bc&chksm=eb07bd5adc70344cf2b30c5276f35f048d447653788ec2c744f5b85fe1c1cdd9612fd70998ad#rd)  
 - [2025-12-10-VSCode-推出-绿色版！更强！更智能！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517473&idx=1&sn=e74031c2deb0b861f2855ff00e071fb2&chksm=eb07bd58dc70344ee3e61c9bfcd81e3bc7d713991b19f85a860f8a493ba168f1965ae1c59329#rd)  
 - [2025-12-04-Vite-8.0-来了，第一个换芯大版本！](http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ)  
@@ -438,7 +439,6 @@
 - [2025-09-22-尤雨溪：下一代-Vite！Windows-快-29%！Mac-快-45%！](http://mp.weixin.qq.com/s/dfJE-yVYdqaUI98HchPOqw)  
 - [2025-09-18-2025年上半年前端技术圈生态总结](http://mp.weixin.qq.com/s/sv0nKd9-OPcNxCIU-1rz-g)  
 - [2025-09-17-Vite-工作原理（简易版）——-从代码看核心逻辑](http://mp.weixin.qq.com/s/GKclqyHfxLjnic0j0JFI2Q)  
-- [2025-09-15-Vue-官方插件重磅更新，三大高级功能免费了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517426&idx=1&sn=42ce55079850a61d640211149fd66039&chksm=eb07bc8bdc70359d78a7ff7c0ac5d152bd4a1d072350fddf7a0f9765748cbc2e6b2f80fc11bf#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

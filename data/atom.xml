@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-11T22:10:17.246Z</updated>
+    <updated>2025-12-12T04:25:19.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】LLM 时代的前端革命：React 不再是框架，而是平台]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278142&amp;idx=1&amp;sn=c310375429ed17ec469ff84e61e56d6f&amp;chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278142&amp;idx=1&amp;sn=c310375429ed17ec469ff84e61e56d6f&amp;chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&amp;scene=0#rd"/>
+        <updated>2025-12-12T00:00:00.000Z</updated>
+        <published>2025-12-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 性能提升 500% 的外挂！这是前端未来的趋势]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517475&amp;idx=1&amp;sn=0385e90aa0a8af54a8b1d217495ab9bc&amp;chksm=eb07bd5adc70344cf2b30c5276f35f048d447653788ec2c744f5b85fe1c1cdd9612fd70998ad#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[常被忽视的 Node.js 功能，彻底改善了日志体验]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528397&amp;idx=1&amp;sn=127aa113e933093d4c2665fb198eb5b4&amp;chksm=f992691ccee5e00a6efc0dc98a2e3399d2b82ce758ef438998c2589bf4e46fbb9e1646c9118a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528397&amp;idx=1&amp;sn=127aa113e933093d4c2665fb198eb5b4&amp;chksm=f992691ccee5e00a6efc0dc98a2e3399d2b82ce758ef438998c2589bf4e46fbb9e1646c9118a#rd"/>
-        <updated>2025-11-24T00:00:00.000Z</updated>
-        <published>2025-11-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506602&amp;idx=1&amp;sn=a50e2c371e24ed42be201931ea132497&amp;chksm=ce45cf3bf932462dc552e5bfab0eb8b9038e26ef530b559c46d165521df7a089ef9ce5497e45#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506602&amp;idx=1&amp;sn=a50e2c371e24ed42be201931ea132497&amp;chksm=ce45cf3bf932462dc552e5bfab0eb8b9038e26ef530b559c46d165521df7a089ef9ce5497e45#rd"/>
         <updated>2025-11-24T00:00:00.000Z</updated>
         <published>2025-11-24T00:00:00.000Z</published>
     </entry>
