@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-12T04:25:19.445Z</updated>
+    <updated>2025-12-12T12:20:18.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS progress()函数简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/"/>
+        <updated>2025-12-12T00:00:00.000Z</updated>
+        <published>2025-12-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】LLM 时代的前端革命：React 不再是框架，而是平台]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278142&amp;idx=1&amp;sn=c310375429ed17ec469ff84e61e56d6f&amp;chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[巧用CSS ::details-content伪元素实现任意展开动画]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/"/>
-        <updated>2025-11-24T00:00:00.000Z</updated>
-        <published>2025-11-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常被忽视的 Node.js 功能，彻底改善了日志体验]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528397&amp;idx=1&amp;sn=127aa113e933093d4c2665fb198eb5b4&amp;chksm=f992691ccee5e00a6efc0dc98a2e3399d2b82ce758ef438998c2589bf4e46fbb9e1646c9118a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528397&amp;idx=1&amp;sn=127aa113e933093d4c2665fb198eb5b4&amp;chksm=f992691ccee5e00a6efc0dc98a2e3399d2b82ce758ef438998c2589bf4e46fbb9e1646c9118a#rd"/>
         <updated>2025-11-24T00:00:00.000Z</updated>
         <published>2025-11-24T00:00:00.000Z</published>
     </entry>

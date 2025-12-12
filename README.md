@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-12 12:25:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-12 20:20:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -30,10 +30,10 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-12-12-【早阅】LLM-时代的前端革命：React-不再是框架，而是平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278142&idx=1&sn=c310375429ed17ec469ff84e61e56d6f&chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&scene=0#rd) ![](/assets/new.png)  
+- [2025-12-12-【早阅】LLM-时代的前端革命：React-不再是框架，而是平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278142&idx=1&sn=c310375429ed17ec469ff84e61e56d6f&chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&scene=0#rd)  
 - [2025-12-11-【第3624期】SVG-Filters---Clickjacking-2.0：一种全新的网络攻击技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278138&idx=1&sn=695b4035b94470500180e5e1215d108c&chksm=bc98f2b1a736b5c91a656e34fedcec676dff2cf32a280d209632614af5e1d4a820237eb560bf&scene=0#rd)  
 - [2025-12-10-【早阅】复杂代码库中的AI提效秘籍：如何通过上下文工程避开大模型的“愚蠢区”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278125&idx=1&sn=689d86070f1fcdc4534398b94e55b494&chksm=bc7da969ce5e245b650b36a10d491c426490935f40f3a13e2ee7c8216f3663d3dc0b8d3d757e&scene=0#rd)  
 - [2025-12-09-【第3623期】从混乱到纯净：用-Effect-System-重塑你的-JS-架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278107&idx=1&sn=93a5e42214119670b46eb3168701e2d4&chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&scene=0#rd)  
@@ -419,7 +419,7 @@
 </summary>
 
 
-- [2025-12-12-所有前端程序员的春天真的来了！！！](http://mp.weixin.qq.com/s/Dmivu7kSVxpvnvtg49M7_A) ![](/assets/new.png)  
+- [2025-12-12-所有前端程序员的春天真的来了！！！](http://mp.weixin.qq.com/s/Dmivu7kSVxpvnvtg49M7_A)  
 - [2025-12-11-JavaScript-性能提升-500%-的外挂！这是前端未来的趋势](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517475&idx=1&sn=0385e90aa0a8af54a8b1d217495ab9bc&chksm=eb07bd5adc70344cf2b30c5276f35f048d447653788ec2c744f5b85fe1c1cdd9612fd70998ad#rd)  
 - [2025-12-10-VSCode-推出-绿色版！更强！更智能！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517473&idx=1&sn=e74031c2deb0b861f2855ff00e071fb2&chksm=eb07bd58dc70344ee3e61c9bfcd81e3bc7d713991b19f85a860f8a493ba168f1965ae1c59329#rd)  
 - [2025-12-04-Vite-8.0-来了，第一个换芯大版本！](http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-12-12-CSS-progress函数简介](https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/) ![](/assets/new.png)  
 - [2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/)  
 - [2025-11-28-醒醒，该使用CookieStore新建和管理cookie了](https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/)  
 - [2025-11-24-巧用CSS-::details-content伪元素实现任意展开动画](https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/)  
@@ -531,7 +532,6 @@
 - [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
 - [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
-- [2025-07-16-JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
