@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-14T14:09:22.605Z</updated>
+    <updated>2025-12-14T18:14:32.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526407&amp;idx=1&amp;sn=927074d89c3d51f41041e230de48c673&amp;chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526407&amp;idx=1&amp;sn=927074d89c3d51f41041e230de48c673&amp;chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd"/>
+        <updated>2025-12-14T00:00:00.000Z</updated>
+        <published>2025-12-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS progress()函数简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623390&amp;idx=1&amp;sn=3c28a6b81c755e137e3481b60c5ccfbc&amp;chksm=8022581fb755d109c693222c49e82fc44b162e0e0e55af4ef6e8f5528d5576cbad620eeb8179#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623390&amp;idx=1&amp;sn=3c28a6b81c755e137e3481b60c5ccfbc&amp;chksm=8022581fb755d109c693222c49e82fc44b162e0e0e55af4ef6e8f5528d5576cbad620eeb8179#rd"/>
-        <updated>2025-11-27T00:00:00.000Z</updated>
-        <published>2025-11-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3619期】让字距随字体自适应变化的 CSS 技巧]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278003&amp;idx=1&amp;sn=72f8517f9201eabd058015706fcacc14&amp;chksm=bcb003856256333c944ed42377c5a97b37bb73be74fa26586dc62013698d788b83cd01fefe27&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278003&amp;idx=1&amp;sn=72f8517f9201eabd058015706fcacc14&amp;chksm=bcb003856256333c944ed42377c5a97b37bb73be74fa26586dc62013698d788b83cd01fefe27&amp;scene=0#rd"/>
         <updated>2025-11-27T00:00:00.000Z</updated>
         <published>2025-11-27T00:00:00.000Z</published>
     </entry>

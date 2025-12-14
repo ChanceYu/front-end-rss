@@ -14,15 +14,15 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-14 22:09:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-15 02:14:32，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -140,7 +140,7 @@
 </summary>
 
 
-- [2025-12-12-JavaScript-性能提升-500%-的外挂！这是前端未来的趋势](http://mp.weixin.qq.com/s/zqIj9HxYz8vjXXPHXWwv-A) ![](/assets/new.png)  
+- [2025-12-12-JavaScript-性能提升-500%-的外挂！这是前端未来的趋势](http://mp.weixin.qq.com/s/zqIj9HxYz8vjXXPHXWwv-A)  
 - [2025-12-11-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623500&idx=1&sn=1957629b4e0b24f26b0de5b0d5a263da&chksm=8022478db755ce9b43662557ef38907509d1fbfd99c2558dfebaa2ac099e3209ad90384a3bd8#rd)  
 - [2025-12-10-HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=2&sn=36dd6338dd0696f95fce0603d8a6f5d5&chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd)  
 - [2025-12-10-库克告别苹果，“九子夺嫡”争夺CEO大战开始了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=1&sn=2ac196889f093d858b4fca74804178cf&chksm=80224787b755ce91fd753e3e93991a05640f5315b792193d038076541b0aee4600f80ffff3e3#rd)  
@@ -171,6 +171,8 @@
 </summary>
 
 
+- [2025-12-14-Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=1&sn=927074d89c3d51f41041e230de48c673&chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd) ![](/assets/new.png)  
+- [2025-12-14-沙龙报名-|-AI领航，跨端技术新范式！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=2&sn=06a841bf0bdb146ac14499ea30a7ea60&chksm=f952dd44ce2554521db848180e92b2a624d93022b86ee8c20495a44f1f10a69102e927d9825d#rd) ![](/assets/new.png)  
 - [2025-12-02-全球前端岗位招聘需求断崖下降-9.89%，前端的未来究竟在哪里？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526386&idx=1&sn=e67f786252a6b088d62c6994a014a8a2&chksm=f952d2b1ce255ba76066a1cf107e97324c8a910e331cf75ea4071717e82f9078bb121fa5fa65#rd)  
 - [2025-11-23-Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw)  
 - [2025-11-16-印度迎来AI工具“0元购”时代！OpenAI、谷歌等巨头内心os：别急，先让他们上瘾，我们再来收费](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526362&idx=1&sn=534112b862b7b641c0cbd3f86fa5d48f&chksm=f952d299ce255b8feffa5fc55414d7d748826d70a7cc4cfac0b8476d94c2e3bf2b87349cdb3f#rd)  
@@ -189,8 +191,6 @@
 - [2025-07-18-GitHub-2.5万星！日本开发者打造的Hono火了：定义后React时代微框架的轻量未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526177&idx=1&sn=acde5cec1ba299efe633a3614de56bcd&chksm=f952d262ce255b74976e012d57d0fdbd2fcf2fc4540a3a875acc2888ead33dd0c5ee9df17c74#rd)  
 - [2025-07-10-16-年-macOS-程序员用-Claude-Code-搞副业：我只手敲了-1000-行，剩下-95%-代码靠自动生成](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526154&idx=1&sn=4b90107b67f10fea7bdc3fc38bcb03b6&chksm=f952d249ce255b5fb47b41b908f8a595e2940dd676003cf0a474a75cbe3f4319dbb6dd293512#rd)  
 - [2025-07-06-假简历狂骗硅谷10+家AI公司、拿多头薪水被锤！印度工程师喊冤：每周拼140小时，我也很绝望](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526136&idx=1&sn=f0835fd40dbea75ee0dfe525866da446&chksm=f952d3bbce255aadbbb74d9ac81060446fb9a2e621b831df19ca4e1e1ec9ea7cf3f6b92ee6f3#rd)  
-- [2025-06-26-React-被指“沦为-Vercel-打工仔”，力推框架只为圈钱？核心成员亲自下场回应却遭群嘲](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526131&idx=1&sn=cbeadea0537659a67e31db16b0990443&chksm=f952d3b0ce255aa6d613d7ed946d50a81ef4b98e75fbfd1f9be0fdc21d6c60ede02e48e1d202#rd)  
-- [2025-06-22-Angular-v20发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526116&idx=1&sn=70b21a0e0bf131f667a08f312ae9ea24&chksm=f952d3a7ce255ab1d7c21b608e3d7b0cbb42845dcdee80b7ab58e41dea9aa7aa28265cee0e3f#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
