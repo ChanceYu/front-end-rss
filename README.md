@@ -14,15 +14,15 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-15 02:14:32，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-15 12:31:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-12-15-【第3625期】写-TypeScript-不等于安全：边界设计才是关键](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278175&idx=1&sn=2da60babc2929aa6137423c66bf21839&chksm=bc96ef2f0161c5a2625b5a196ade70001eaf73842718424ae3e5913e03e6594be6a724393df8&scene=0#rd) ![](/assets/new.png)  
 - [2025-12-12-【早阅】LLM-时代的前端革命：React-不再是框架，而是平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278142&idx=1&sn=c310375429ed17ec469ff84e61e56d6f&chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&scene=0#rd)  
 - [2025-12-11-【第3624期】SVG-Filters---Clickjacking-2.0：一种全新的网络攻击技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278138&idx=1&sn=695b4035b94470500180e5e1215d108c&chksm=bc98f2b1a736b5c91a656e34fedcec676dff2cf32a280d209632614af5e1d4a820237eb560bf&scene=0#rd)  
 - [2025-12-10-【早阅】复杂代码库中的AI提效秘籍：如何通过上下文工程避开大模型的“愚蠢区”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278125&idx=1&sn=689d86070f1fcdc4534398b94e55b494&chksm=bc7da969ce5e245b650b36a10d491c426490935f40f3a13e2ee7c8216f3663d3dc0b8d3d757e&scene=0#rd)  
@@ -121,14 +122,13 @@
 - [2025-12-01-【第3620期】从崩溃到优雅：Node.js-错误处理的正确姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278024&idx=1&sn=60cc64389d04ede80e9340f888a8fc1a&chksm=bcdc7697e210077a76ec180c81cd513ba2784ea7f6ffaee5f805bce8fcd90d5253855ac62dae&scene=0#rd)  
 - [2025-11-28-【早阅】让依赖更轻，让构建更快：tinyglobby-的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278016&idx=1&sn=5f4c4289cfb21cfd63c9316e63bbb3eb&chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&scene=0#rd)  
 - [2025-11-27-【第3619期】让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278003&idx=1&sn=72f8517f9201eabd058015706fcacc14&chksm=bcb003856256333c944ed42377c5a97b37bb73be74fa26586dc62013698d788b83cd01fefe27&scene=0#rd)  
-- [2025-11-26-12月20日，FEDAY-2025，长沙见【前端，不止于-AI。】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=2&sn=59cda3825fbfcb4d9b48ef0d884b1a07&chksm=bc7fe3957a8281e4da96db4be0c553e0a8e5eeb273c6e447c70d1ba3859e98ec7f8e09fe8228&scene=0#rd)  
 - [2025-11-26-【第3618期】React-19.2：步入「Sigma」时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=1&sn=4597002bb82c8995bbdbb6e94ee323b6&chksm=bc169dfee65300a4d36c805ca1a60df6224d0b961f26ddfd6fefb8f464d7bed6d8409346b86b&scene=0#rd)  
+- [2025-11-26-12月20日，FEDAY-2025，长沙见【前端，不止于-AI。】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=2&sn=59cda3825fbfcb4d9b48ef0d884b1a07&chksm=bc7fe3957a8281e4da96db4be0c553e0a8e5eeb273c6e447c70d1ba3859e98ec7f8e09fe8228&scene=0#rd)  
 - [2025-11-25-【第3617期】DNS-解析的成本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277986&idx=1&sn=4063489bced887279279bf63bab31739&chksm=bcedcefaa5878ce2e9516cb39e1753e083cc878ad7061dc498b0cceaae1abb489ff160910dfa&scene=0#rd)  
 - [2025-11-24-【第3616期】JavaScript-原型污染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277982&idx=1&sn=7e2f24da357206da210422c8c0c33e61&chksm=bce0d7d15007212ac1422c3daaa995e072e9b749692591c48de8a2acd3db4c74be5ccf4422b6&scene=0#rd)  
 - [2025-11-21-【第3615期】前端安全：setHTML、Trusted-Types-和-Sanitizer-API-使用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277961&idx=1&sn=8233a680cb05111a5e2d4f66619baedb&chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&scene=0#rd)  
 - [2025-11-20-【第3614期】常被忽视的-Node.js-功能，彻底改善了日志体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277957&idx=1&sn=f82c3d371bd6336a7ade9a37849bbe90&chksm=bc59398e2448e88a217798e87679c0452b07ac79fcdf699d290b43141421edf2847baf3428d7&scene=0#rd)  
 - [2025-11-19-【早阅】使用本地优先数据构建原生级-Web-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277949&idx=1&sn=eb45bfa094736598fcf81938dfa8fd1d&chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&scene=0#rd)  
-- [2025-11-18-【第3613期】JavaScript-中的错误链：用-Error.cause-让调试更清晰](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277933&idx=1&sn=d6d1eacd20690c6271a78026f2eaed23&chksm=bc72d400047401dcb8b127681c03f7257bf2e708463d4632db85e58ff190e0eaa9c8831837ae&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -171,8 +171,8 @@
 </summary>
 
 
-- [2025-12-14-Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=1&sn=927074d89c3d51f41041e230de48c673&chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd) ![](/assets/new.png)  
-- [2025-12-14-沙龙报名-|-AI领航，跨端技术新范式！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=2&sn=06a841bf0bdb146ac14499ea30a7ea60&chksm=f952dd44ce2554521db848180e92b2a624d93022b86ee8c20495a44f1f10a69102e927d9825d#rd) ![](/assets/new.png)  
+- [2025-12-14-Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=1&sn=927074d89c3d51f41041e230de48c673&chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd)  
+- [2025-12-14-沙龙报名-|-AI领航，跨端技术新范式！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=2&sn=06a841bf0bdb146ac14499ea30a7ea60&chksm=f952dd44ce2554521db848180e92b2a624d93022b86ee8c20495a44f1f10a69102e927d9825d#rd)  
 - [2025-12-02-全球前端岗位招聘需求断崖下降-9.89%，前端的未来究竟在哪里？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526386&idx=1&sn=e67f786252a6b088d62c6994a014a8a2&chksm=f952d2b1ce255ba76066a1cf107e97324c8a910e331cf75ea4071717e82f9078bb121fa5fa65#rd)  
 - [2025-11-23-Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw)  
 - [2025-11-16-印度迎来AI工具“0元购”时代！OpenAI、谷歌等巨头内心os：别急，先让他们上瘾，我们再来收费](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526362&idx=1&sn=534112b862b7b641c0cbd3f86fa5d48f&chksm=f952d299ce255b8feffa5fc55414d7d748826d70a7cc4cfac0b8476d94c2e3bf2b87349cdb3f#rd)  
