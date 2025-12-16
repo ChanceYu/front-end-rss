@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-12-16 16:16:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-12-17 00:14:21。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)
 - [【Node-Weekly】Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603)
 - [【Node-Weekly】Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601)
 - [【Node-Weekly】Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)
 - [【Node-Weekly】Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)
 - [【Node-Weekly】Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)
-- [【Node-Weekly】Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

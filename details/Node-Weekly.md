@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-12-10 22:13:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-17 00:14:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605) 
 - [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604) 
 - [2025-12-02-Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603) 
 - [2025-11-25-Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602) 

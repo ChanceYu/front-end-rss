@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-16T08:16:44.313Z</updated>
+    <updated>2025-12-16T16:14:22.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3626期】2025 CSS 年终盘点：22个重磅新特性，助你雕刻动态网页！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278180&amp;idx=1&amp;sn=ab00a72dd6627d4fe36b262652bb7412&amp;chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278180&amp;idx=1&amp;sn=ab00a72dd6627d4fe36b262652bb7412&amp;chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&amp;scene=0#rd"/>
+        <updated>2025-12-16T00:00:00.000Z</updated>
+        <published>2025-12-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Twas the Node before Christmas...]]></title>
+        <id>https://nodeweekly.com/issues/605</id>
+        <link href="https://nodeweekly.com/issues/605"/>
         <updated>2025-12-16T00:00:00.000Z</updated>
         <published>2025-12-16T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[最强大 Vue3 监控埋点库！覆盖 8 个维度！]]></title>
         <id>http://mp.weixin.qq.com/s/vNVJrJ72df_h7WxlfjiRMw</id>
         <link href="http://mp.weixin.qq.com/s/vNVJrJ72df_h7WxlfjiRMw"/>
-        <updated>2025-11-28T00:00:00.000Z</updated>
-        <published>2025-11-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】让依赖更轻，让构建更快：tinyglobby 的演进之路]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278016&amp;idx=1&amp;sn=5f4c4289cfb21cfd63c9316e63bbb3eb&amp;chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278016&amp;idx=1&amp;sn=5f4c4289cfb21cfd63c9316e63bbb3eb&amp;chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&amp;scene=0#rd"/>
         <updated>2025-11-28T00:00:00.000Z</updated>
         <published>2025-11-28T00:00:00.000Z</published>
     </entry>

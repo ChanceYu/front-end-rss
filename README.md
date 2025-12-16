@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-16 16:16:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-17 00:14:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605) ![](/assets/new.png)  
 - [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)  
 - [2025-12-02-Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603)  
 - [2025-11-25-Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602)  
@@ -66,7 +67,6 @@
 - [2025-07-29-An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)  
 - [2025-07-22-Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587)  
 - [2025-07-15-Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)  
-- [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -140,7 +140,7 @@
 </summary>
 
 
-- [2025-12-16-离谱！裁员裁出新高度了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623529&idx=1&sn=34e4080b3ff7c1a816d37f73b608a31f&chksm=802247a8b755cebe660e09e4148a17637285c73419d72593cf2e1b5601430a15a5cd4dc593cb#rd) ![](/assets/new.png)  
+- [2025-12-16-离谱！裁员裁出新高度了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623529&idx=1&sn=34e4080b3ff7c1a816d37f73b608a31f&chksm=802247a8b755cebe660e09e4148a17637285c73419d72593cf2e1b5601430a15a5cd4dc593cb#rd)  
 - [2025-12-15-借助图片懒加载触发-JavaScript-动态导入](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623523&idx=2&sn=86651ed0be205cc4b86a6efc43d8b6cb&chksm=802247a2b755ceb46f45aa6a45820970a51646279140427f120b786a24fdfa5f82cebe0eade0#rd)  
 - [2025-12-15-小扎忍痛！亲口宣告了元宇宙的死亡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623523&idx=1&sn=2fb040c113419defed12f9e12c97b98d&chksm=802247a2b755ceb4c6587da2bf19dfc7f16f77c68d90f25d229dd1a48f40efee4a51ddfbd280#rd)  
 - [2025-12-12-JavaScript-性能提升-500%-的外挂！这是前端未来的趋势](http://mp.weixin.qq.com/s/zqIj9HxYz8vjXXPHXWwv-A)  
