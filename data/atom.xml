@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-15T16:15:56.375Z</updated>
+    <updated>2025-12-16T04:26:15.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3626期】2025 CSS 年终盘点：22个重磅新特性，助你雕刻动态网页！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278180&amp;idx=1&amp;sn=ab00a72dd6627d4fe36b262652bb7412&amp;chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278180&amp;idx=1&amp;sn=ab00a72dd6627d4fe36b262652bb7412&amp;chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&amp;scene=0#rd"/>
+        <updated>2025-12-16T00:00:00.000Z</updated>
+        <published>2025-12-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3625期】写 TypeScript 不等于安全：边界设计才是关键]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278175&amp;idx=1&amp;sn=2da60babc2929aa6137423c66bf21839&amp;chksm=bc96ef2f0161c5a2625b5a196ade70001eaf73842718424ae3e5913e03e6594be6a724393df8&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/763"/>
         <updated>2025-11-28T00:00:00.000Z</updated>
         <published>2025-11-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS 公布 2025 新特性前十排名]]></title>
-        <id>http://mp.weixin.qq.com/s/4Rn43MKXXUgvuK4wPtt1vQ</id>
-        <link href="http://mp.weixin.qq.com/s/4Rn43MKXXUgvuK4wPtt1vQ"/>
-        <updated>2025-11-27T00:00:00.000Z</updated>
-        <published>2025-11-27T00:00:00.000Z</published>
     </entry>
 </feed>
