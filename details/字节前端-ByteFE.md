@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-12-05 20:20:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-18 06:10:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 字节前端-ByteFE
 
 
 
 
+- [2025-12-16-豆包-应用生成「一点都不技术」创作派对-·-一起来玩儿！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506133&idx=1&sn=1d4b9ff25a4a5c879eac3d88e2cd0ae2&chksm=cea96fd4f9dee6c205f1b2f9d1e0a3829c256edf7e519aac00decd02497f2ab6a28b3a72821a#rd) 
 - [2025-12-03-AI赋能成长，豆包-应用生成“一点都不技术”挑战赛创作分享第二期来啦！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506128&idx=1&sn=0b9341c31064697eef8dcccc06272b24&chksm=cea96fd1f9dee6c7052f888c5d1bce132967747c58f7daba3ef4a67e42b4a208c24811a83650#rd) 
 - [2025-11-19-和“动物塑”创作者面对面！豆包-应用生成“一点都不技术”挑战赛的创作分享来啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506123&idx=1&sn=469d203c58b7734f580c0a0fc622e1c3&chksm=cea96fcaf9dee6dc48075a1cb7e56be8752cfe5c0fc82d1912e1abb4b6b0bfa80a7c5ac6f7b7#rd) 
 - [2025-11-11-豆包-应用生成「一点都不技术」创作挑战赛开启，20-万奖池等你解锁！](http://mp.weixin.qq.com/s/xK4w6NX-eupUrdI33mDE8A) 
@@ -39,10 +40,10 @@
 - [2023-08-09-Semi-D2C-设计稿转代码的演进之路](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504315&idx=1&sn=90e3f5bdb7adf954096b791309433f3f&chksm=cea966baf9deefac20b0fcc639ec8c5ca9162c74386f7cbbff2d7f16e04d73a3434f8dfe8fe4#rd) 
 - [2023-08-02-教你如何构建自己的依赖注入工具](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504259&idx=1&sn=e41c00dd53a5f1a52e53cea0be34988c&chksm=cea96682f9deef94b6790bc8372374b0e1c6db7291d82c1e5fca4195edfa044646153b09efd7#rd) 
 - [2023-07-26-Chrome-浏览器运行原理你了解多少？](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504196&idx=1&sn=e742223812cfa1836f87b2faac3d201c&chksm=cea96645f9deef5374c61ae28a49afa7b27d778cf723686d755409d9f207899bf4a0fa8e3dea#rd) 
-- [2023-07-19-WebAssembly-在-ACC-音频编码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=2&sn=81deda6a554ffe839d46d1e4f415faf2&chksm=cea967c0f9deeed6e30c279ab07574ab050bc48928fa44663191dff860090843edd78ed52ca8#rd) 
-- [2023-07-19-WebAssembly-与-Web-视频编辑](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=3&sn=4b4ceeeaf85b24e87646cb07788be9f5&chksm=cea967c0f9deeed6ee34c733aa80905cc0d3ba73429ad8e1b0ce160a9fd111cbb5c1172c487d#rd) 
-- [2023-07-19-面向-WebAssembly-的-ByteReact-框架](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=4&sn=23dd0b8f0646abe94abebbe23bd41f3e&chksm=cea967c0f9deeed65280a25b603c9023963ed8c18e5e93510c32ad92a16464b263305da0abd1#rd) 
 - [2023-07-19-WebAssembly-在-3D-模型解码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=5&sn=18d563bb5736501f74c641cc196034e4&chksm=cea967c0f9deeed6df32fde66f0fc0aea448c7f6807f96d15fc26b722f76e4a118df26e68a9b#rd) 
+- [2023-07-19-面向-WebAssembly-的-ByteReact-框架](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=4&sn=23dd0b8f0646abe94abebbe23bd41f3e&chksm=cea967c0f9deeed65280a25b603c9023963ed8c18e5e93510c32ad92a16464b263305da0abd1#rd) 
+- [2023-07-19-WebAssembly-与-Web-视频编辑](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=3&sn=4b4ceeeaf85b24e87646cb07788be9f5&chksm=cea967c0f9deeed6ee34c733aa80905cc0d3ba73429ad8e1b0ce160a9fd111cbb5c1172c487d#rd) 
+- [2023-07-19-WebAssembly-在-ACC-音频编码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=2&sn=81deda6a554ffe839d46d1e4f415faf2&chksm=cea967c0f9deeed6e30c279ab07574ab050bc48928fa44663191dff860090843edd78ed52ca8#rd) 
 - [2023-06-30-ByteFE-邀你观看稀土开发者大会直播啦-|-6月30日9:30](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503633&idx=1&sn=c61a8011b844a1fdb4988be047ecbdcf&chksm=cea97810f9def1065b3bdcf22bfed6486c34171caaefaa3d132278d5c7bf44562d2be89d3a7f#rd) 
 - [2023-06-28-人工智能时代，前端如何抓住机会](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503627&idx=1&sn=4e1913e4f8d3e936fdef32d2357eaa3e&chksm=cea9780af9def11cd0389fe2d3a6e6850fcfe87c072d2d2bae220a0383ff107f89a9e781294c#rd) 
 - [2023-06-16-这个夏天-来一场破次元的狂欢！稀土掘金-x-A-SOUL-联名再度来袭！](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503584&idx=1&sn=5edc6bfabc7ffbff0b9ea1cb46206aa1&chksm=cea979e1f9def0f73f306e24d41fe986eacc3a601393d36542c33af1ddacb47d6204c6f35f8b#rd) 
@@ -56,8 +57,8 @@
 - [2023-04-26-定了！稀土开发者大会2023北京线下见！](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503319&idx=1&sn=687b5d14a00b72211a30e43f2eb37124&chksm=cea97ad6f9def3c011dc82edebc03a451401b052a3ab054ee655dfefd8b88b2cb595d4bb6264#rd) 
 - [2023-04-24-WebAssembly-常见引擎简介](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503310&idx=1&sn=6005f7494f8d3cd32d6e783814456208&chksm=cea97acff9def3d9a51925a36489300d710f6b3d6030cb2779f4482c712bb904868e5ff2b415#rd) 
 - [2023-04-19-九个超级好用的-Javascript-技巧](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503296&idx=1&sn=179e888549cfadbc7d928dc7439cb5f9&chksm=cea97ac1f9def3d74db33d4512539c3fd78acb468f879ca92a1e45a15a24f242e4ca37c4ce5f#rd) 
-- [2023-04-17-rrweb-实现原理介绍](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503275&idx=1&sn=1f9e7a1486b98cbc25d4755fb02c8d29&chksm=cea97aaaf9def3bc9faabdf024b71f94a7a5bd9cf248b87eac40bf47fdf2a9f0da0300934aa2#rd) 
 - [2023-04-17-WebAssembly-多语言/宿主环境中的使用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503275&idx=2&sn=a78e150a7ce9627d518cdc23105bed2c&chksm=cea97aaaf9def3bcb70f14661e5806f89899e2a166f3970616029a4fdd41ee1cf5da4b366755#rd) 
+- [2023-04-17-rrweb-实现原理介绍](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503275&idx=1&sn=1f9e7a1486b98cbc25d4755fb02c8d29&chksm=cea97aaaf9def3bc9faabdf024b71f94a7a5bd9cf248b87eac40bf47fdf2a9f0da0300934aa2#rd) 
 - [2023-04-12-“以终为始，设计优先”：看-DataWind-数字孪生-3D-地图事件系统设计](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503205&idx=1&sn=697e5d4d63e91359477e0213c8ed9c4d&chksm=cea97a64f9def372d9a9c861c689a6e9392643e347f257207d0876196604f0c525bb17dd4d52#rd) 
 - [2023-04-10-WebAssembly-常用开发语言和工具链](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503048&idx=1&sn=8b56c277c71e4167551f68018e3606d7&chksm=cea97bc9f9def2df7944635b302135bcc4b95743fe750811f743eb7aa4a8d93cd3f28e26476b#rd) 
 - [2023-04-05-抖音-Android-基础技术大揭秘-第-3-期-火热报名中](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503039&idx=1&sn=5afdfc90f5e4752a76d929de7b509d34&chksm=cea97bbef9def2a833f546d5ef7eb43126593c9e462deae7ffd19d1261a8381965cc1d7a437c#rd) 
