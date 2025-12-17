@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-17T06:16:58.647Z</updated>
+    <updated>2025-12-17T14:12:15.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507039&amp;idx=1&amp;sn=465cfe81f4ffbb0c7dc9bd9ba640592c&amp;chksm=ce45c9cef93240d8124eaa16de71774f6bbd3d4ad820d4d0fa9bb9059ebd41c39ea773bf6b80#rd"/>
         <updated>2025-12-17T00:00:00.000Z</updated>
         <published>2025-12-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可能是你极易忽略的Nginx知识点]]></title>
+        <id>http://mp.weixin.qq.com/s/z4hMKXM-ZgqFfz8_VRbZJA</id>
+        <link href="http://mp.weixin.qq.com/s/z4hMKXM-ZgqFfz8_VRbZJA"/>
+        <updated>2025-12-16T00:00:00.000Z</updated>
+        <published>2025-12-16T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[灾难性 BUG！React 团队正在连夜修复！]]></title>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/603"/>
         <updated>2025-12-02T00:00:00.000Z</updated>
         <published>2025-12-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节面试官：不点击鼠标，怎么触发点击事件？]]></title>
-        <id>http://mp.weixin.qq.com/s/IChASg03ZcYRAqBx-4GNnQ</id>
-        <link href="http://mp.weixin.qq.com/s/IChASg03ZcYRAqBx-4GNnQ"/>
-        <updated>2025-12-01T00:00:00.000Z</updated>
-        <published>2025-12-01T00:00:00.000Z</published>
     </entry>
 </feed>
