@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-17 00:14:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-17 12:23:40，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605) ![](/assets/new.png)  
+- [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)  
 - [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)  
 - [2025-12-02-Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603)  
 - [2025-11-25-Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602)  
@@ -202,26 +202,26 @@
 </summary>
 
 
+- [2025-12-17-领导逼我做“前端架构师”，我直接提离职](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507039&idx=1&sn=465cfe81f4ffbb0c7dc9bd9ba640592c&chksm=ce45c9cef93240d8124eaa16de71774f6bbd3d4ad820d4d0fa9bb9059ebd41c39ea773bf6b80#rd) ![](/assets/new.png)  
+- [2025-12-16-灾难性-BUG！React-团队正在连夜修复！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507037&idx=1&sn=ac0277713fdd3f5b5063e22ca9608b77&chksm=ce45c9ccf93240da8c4907c4df6ee1cdadcb06ab44691701f47020dbfdb8a3ea937dbf3c92a5#rd) ![](/assets/new.png)  
+- [2025-12-15-尤雨溪亲自重构！Vite-速度提升-30-倍](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507016&idx=1&sn=56fe78f43e7819ed6ffea3d5df4b002c&chksm=ce45c9d9f93240cf593dd4f8dfb17d488a5b17fac7b7a5abdc4639a9ff2bdd8b5d2f84b62937#rd) ![](/assets/new.png)  
+- [2025-12-14-刚刚！尤雨溪宣布-Vue-语言三大更新](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507001&idx=1&sn=bb7dd07f330f8f6a17fdd357cc107fa9&chksm=ce45c9a8f93240be421b6b8e8c01ec1281ef7b2934dd6442db543022fab5a153e5bcb0fc65aa#rd) ![](/assets/new.png)  
 - [2025-12-12-2025-Vue-最全的生态工具组合推荐指南](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506913&idx=1&sn=5ad8d474b68a28520855f9beaae97b86&chksm=ce45ce70f93247667cdbc86267ac49edaae09fa5284c414a719a7a94c9a9163e8973fc6d2f20#rd)  
 - [2025-12-11-前端实现：微信的高性能拼音搜索！](http://mp.weixin.qq.com/s/zUBAxu5s1SglQWmzamVhhQ)  
 - [2025-12-10-JavaScript-性能提升-500%-的外挂！这是前端未来的趋势](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506869&idx=1&sn=58e3ef1e731856a6406f5ed709072b9f&chksm=ce45ce24f93247322f5e9544c193bd985605b7c07e4506eedea5f56c39d12528eb9812b70af7#rd)  
 - [2025-12-09-前端如何静悄悄录制用户的操作过程，静悄悄上传到服务器~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506863&idx=1&sn=d3e1b6631188f2df0436d9ce91612e1c&chksm=ce45ce3ef9324728a0603de56f624108eb455e20e0f66bd6ea80353d5201c9e9d7d57f100a84#rd)  
 - [2025-12-08-首个专属于-Vue3-的动效组件库！包含-120+-个组件](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506841&idx=1&sn=1eeaee1f971ac02db199114d4eb778bf&chksm=ce45ce08f932471ef5fca62084cdd16ea0c2385bb9762cf9f30a10c270a2b2111069b9af6837#rd)  
-- [2025-12-06-正式重构！所有-Typescript-项目性能将飙升-15-倍！](http://mp.weixin.qq.com/s/FRK7sJ179FZn1UPEtcfP7A)  
 - [2025-12-06-刷透这套前端面试题，面试官都怕你](http://mp.weixin.qq.com/s/pUi2IAJ1uCUjHOHisTJ7yw)  
+- [2025-12-06-正式重构！所有-Typescript-项目性能将飙升-15-倍！](http://mp.weixin.qq.com/s/FRK7sJ179FZn1UPEtcfP7A)  
 - [2025-12-05-Vue3.5-重磅级新特性！会取代-Ref-吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506802&idx=1&sn=e41e86dd6e9cf5b74e1bedeb1845b249&chksm=ce45cee3f93247f57cda82203fc84375112cf399e3974441205bfe2a2fa84ecb933122782d3d#rd)  
 - [2025-12-04-Nodejs-运行时被收购！半年营收十亿美元](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506798&idx=1&sn=0348bbb9cf58a9e2dbc2d1fb13336c65&chksm=ce45cefff93247e91eef6a8284a38bf9bdc006cf064d4c65aaaa4f417f5a7a1c86d9799850fe#rd)  
-- [2025-12-03-如何在-Vue3-中更好地使用-Typescript](http://mp.weixin.qq.com/s/guwqleOvZk-2MPwuBr-CUA)  
 - [2025-12-03-所有前端程序员请做好随时失业的准备吧！](http://mp.weixin.qq.com/s/9qQBhb9cBVMdkCsD1KLVvQ)  
+- [2025-12-03-如何在-Vue3-中更好地使用-Typescript](http://mp.weixin.qq.com/s/guwqleOvZk-2MPwuBr-CUA)  
 - [2025-12-02-Pinia3.0-彻底放弃了-Vue2-了！](http://mp.weixin.qq.com/s/zm24kY4DIqCxFdTpNOyUeQ)  
 - [2025-12-01-字节面试官：不点击鼠标，怎么触发点击事件？](http://mp.weixin.qq.com/s/IChASg03ZcYRAqBx-4GNnQ)  
 - [2025-11-28-最强大-Vue3-监控埋点库！覆盖-8-个维度！](http://mp.weixin.qq.com/s/vNVJrJ72df_h7WxlfjiRMw)  
 - [2025-11-27-CSS-公布-2025-新特性前十排名](http://mp.weixin.qq.com/s/4Rn43MKXXUgvuK4wPtt1vQ)  
 - [2025-11-26-因为淋过雨想给找前端开发工作的人提点建议](http://mp.weixin.qq.com/s/qcXerX11LqjC9J6iu3d-jA)  
-- [2025-11-25-Prisma：用Typescript-重构项目，性能提升3倍](http://mp.weixin.qq.com/s/qWiE7g3vQqJ70b5DjkaXmg)  
-- [2025-11-24-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506602&idx=1&sn=a50e2c371e24ed42be201931ea132497&chksm=ce45cf3bf932462dc552e5bfab0eb8b9038e26ef530b559c46d165521df7a089ef9ce5497e45#rd)  
-- [2025-11-23-Ant-Design-6.0-正式发布，新增超多组件](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506581&idx=1&sn=86d1403a5403a04ade361c5949565014&chksm=ce45cf04f9324612f162bbf2162836a84cc9369678ac29bc97676cab416a36c066ac671ac5e2#rd)  
-- [2025-11-23-这段时间找工作，全靠这套面试题](http://mp.weixin.qq.com/s/ommsOrulQHP0SG4c7JrvrQ)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-17 00:14:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-17 12:23:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -308,6 +308,7 @@
 - [2019-01-12-你配置Webpack-4的方式可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490260&idx=1&sn=65e7eb1453f0db2ba602cc9ce37da6c4#wechat_redirect) 
 - [2018-12-10-NPM-2018年回顾与2019年预测](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490082&idx=1&sn=5dc05a3eaa734918f1cff759d57ae20d#wechat_redirect) 
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
+- [2025-12-15-尤雨溪亲自重构！Vite-速度提升-30-倍](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507016&idx=1&sn=56fe78f43e7819ed6ffea3d5df4b002c&chksm=ce45c9d9f93240cf593dd4f8dfb17d488a5b17fac7b7a5abdc4639a9ff2bdd8b5d2f84b62937#rd) 
 - [2025-10-28-尤雨溪：未来-Vite-将会收费](http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw) 
 - [2025-10-11-tsconfig-中配置了别名，为啥要在vite再配置一次？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505727&idx=1&sn=3d9eafc7aa3805d6147f8b5e8ad4915f&chksm=ce45c2aef9324bb89304231ca1c762b73c251b99b492b8f5846a29b9ae67f2c9ccada10bf2b2#rd) 
 - [2025-10-03-为什么很多大厂强制使用pnpm](http://mp.weixin.qq.com/s/iQqdMOIlpB-_js1ZHeuvVQ) 
