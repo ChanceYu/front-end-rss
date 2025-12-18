@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-18 14:17:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-19 00:15:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -69,6 +69,7 @@
 - [2024-05-07-2024-抖音欢笑中国年五：Wasm、WebGL-在互动技术中的创新应用](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505746&idx=1&sn=68227cec19ed79ad5ba192025300ce09&chksm=cea96053f9dee9453c281bd6923194da6781c4834c8ef6f876f7d1b48528c2ed7f4e8616c62a#rd) 
 - [2023-07-19-WebAssembly-在-3D-模型解码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=5&sn=18d563bb5736501f74c641cc196034e4&chksm=cea967c0f9deeed6df32fde66f0fc0aea448c7f6807f96d15fc26b722f76e4a118df26e68a9b#rd) 
 - [2023-08-11-一个手绘风格的-svg-素材库](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487906&idx=1&sn=6d904206addd5866aa1dae943d0ec8bd&chksm=97c6726da0b1fb7b1bbb4e8801b908bb456f3c408f5ce26153fe13386656847caf40dc96d609#rd) 
+- [2025-12-18-SIGGRAPH-Asia-2025-|-只用一部手机创建和渲染高质量3D数字人](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542140&idx=1&sn=32fd8a79d171fe34d273bc8cc91d00fa&chksm=8390d824b4e75132fded65cf4c4be2cd0f11c7c18ed8c805388286e15780160ed8f1431df5df#rd) 
 - [2025-07-07-如何做到在手机上实时跑3D真人数字人？MNN-TaoAvatar开源了！](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540824&idx=1&sn=8d56c71f2037d663bde18700280373ed&chksm=82990e03da4e0109b53de8030fa23f85ba63997a041fdec97a1819a6b92d6c5a5b9ebf9e0188&scene=0#rd) 
 - [2025-06-11-探秘TaoAvatar：淘宝3D真人数字人技术解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540493&idx=1&sn=82abb3daaaa9461ec400520d60e6b3cb&chksm=82dd32ac20370a1c808ccd155d4d7e909094183950ee7a88814f43e6a014f580cf2b1ea87333&scene=0#rd) 
 - [2021-08-05-服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh) 
