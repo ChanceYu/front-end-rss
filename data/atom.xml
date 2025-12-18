@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-17T22:10:44.865Z</updated>
+    <updated>2025-12-18T06:17:13.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3627期】从媒体查询到样式查询：Chrome 142 如何让 CSS 更懂“数值”]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278210&amp;idx=1&amp;sn=64ba5c14880aae308f0e311a22024cc6&amp;chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278210&amp;idx=1&amp;sn=64ba5c14880aae308f0e311a22024cc6&amp;chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&amp;scene=0#rd"/>
+        <updated>2025-12-18T00:00:00.000Z</updated>
+        <published>2025-12-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[领导逼我做“前端架构师”，我直接提离职]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507039&amp;idx=1&amp;sn=465cfe81f4ffbb0c7dc9bd9ba640592c&amp;chksm=ce45c9cef93240d8124eaa16de71774f6bbd3d4ad820d4d0fa9bb9059ebd41c39ea773bf6b80#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【早阅】告别 Next.js 困惑：Tanstack Start 全栈应用开发终极指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278041&amp;idx=1&amp;sn=169ebefd07338a741a189337aaa2fc10&amp;chksm=bc0d9b4d3a794054ec3e0ffc1afae163e601f3da9a3bc8f26e095ee82ccb4944136fca1c37bf&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278041&amp;idx=1&amp;sn=169ebefd07338a741a189337aaa2fc10&amp;chksm=bc0d9b4d3a794054ec3e0ffc1afae163e601f3da9a3bc8f26e095ee82ccb4944136fca1c37bf&amp;scene=0#rd"/>
-        <updated>2025-12-02T00:00:00.000Z</updated>
-        <published>2025-12-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing performance across Node versions and ARM vs x86]]></title>
-        <id>https://nodeweekly.com/issues/603</id>
-        <link href="https://nodeweekly.com/issues/603"/>
         <updated>2025-12-02T00:00:00.000Z</updated>
         <published>2025-12-02T00:00:00.000Z</published>
     </entry>

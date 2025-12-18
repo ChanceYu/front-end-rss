@@ -14,20 +14,20 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-18 06:10:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-18 14:17:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
+- [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-12-18-【第3627期】从媒体查询到样式查询：Chrome-142-如何让-CSS-更懂“数值”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278210&idx=1&sn=64ba5c14880aae308f0e311a22024cc6&chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&scene=0#rd) ![](/assets/new.png)  
 - [2025-12-17-【早阅】氛围编程：AI-幻觉让你错失-20%-实际生产力，并累积巨额技术债务！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278196&idx=1&sn=6f699934e9709252fde77db6624a3065&chksm=bcf73edb56d06e6db163596073e45e32c908cad797321c49b8714cbcab0898e6688995916cc6&scene=0#rd)  
 - [2025-12-16-【第3626期】2025-CSS-年终盘点：22个重磅新特性，助你雕刻动态网页！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278180&idx=1&sn=ab00a72dd6627d4fe36b262652bb7412&chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&scene=0#rd)  
 - [2025-12-15-【第3625期】写-TypeScript-不等于安全：边界设计才是关键](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278175&idx=1&sn=2da60babc2929aa6137423c66bf21839&chksm=bc96ef2f0161c5a2625b5a196ade70001eaf73842718424ae3e5913e03e6594be6a724393df8&scene=0#rd)  
@@ -124,11 +125,10 @@
 - [2025-12-01-【第3620期】从崩溃到优雅：Node.js-错误处理的正确姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278024&idx=1&sn=60cc64389d04ede80e9340f888a8fc1a&chksm=bcdc7697e210077a76ec180c81cd513ba2784ea7f6ffaee5f805bce8fcd90d5253855ac62dae&scene=0#rd)  
 - [2025-11-28-【早阅】让依赖更轻，让构建更快：tinyglobby-的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278016&idx=1&sn=5f4c4289cfb21cfd63c9316e63bbb3eb&chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&scene=0#rd)  
 - [2025-11-27-【第3619期】让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278003&idx=1&sn=72f8517f9201eabd058015706fcacc14&chksm=bcb003856256333c944ed42377c5a97b37bb73be74fa26586dc62013698d788b83cd01fefe27&scene=0#rd)  
-- [2025-11-26-【第3618期】React-19.2：步入「Sigma」时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=1&sn=4597002bb82c8995bbdbb6e94ee323b6&chksm=bc169dfee65300a4d36c805ca1a60df6224d0b961f26ddfd6fefb8f464d7bed6d8409346b86b&scene=0#rd)  
 - [2025-11-26-12月20日，FEDAY-2025，长沙见【前端，不止于-AI。】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=2&sn=59cda3825fbfcb4d9b48ef0d884b1a07&chksm=bc7fe3957a8281e4da96db4be0c553e0a8e5eeb273c6e447c70d1ba3859e98ec7f8e09fe8228&scene=0#rd)  
+- [2025-11-26-【第3618期】React-19.2：步入「Sigma」时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=1&sn=4597002bb82c8995bbdbb6e94ee323b6&chksm=bc169dfee65300a4d36c805ca1a60df6224d0b961f26ddfd6fefb8f464d7bed6d8409346b86b&scene=0#rd)  
 - [2025-11-25-【第3617期】DNS-解析的成本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277986&idx=1&sn=4063489bced887279279bf63bab31739&chksm=bcedcefaa5878ce2e9516cb39e1753e083cc878ad7061dc498b0cceaae1abb489ff160910dfa&scene=0#rd)  
 - [2025-11-24-【第3616期】JavaScript-原型污染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277982&idx=1&sn=7e2f24da357206da210422c8c0c33e61&chksm=bce0d7d15007212ac1422c3daaa995e072e9b749692591c48de8a2acd3db4c74be5ccf4422b6&scene=0#rd)  
-- [2025-11-21-【第3615期】前端安全：setHTML、Trusted-Types-和-Sanitizer-API-使用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277961&idx=1&sn=8233a680cb05111a5e2d4f66619baedb&chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -326,7 +326,7 @@
 </summary>
 
 
-- [2025-12-16-豆包-应用生成「一点都不技术」创作派对-·-一起来玩儿！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506133&idx=1&sn=1d4b9ff25a4a5c879eac3d88e2cd0ae2&chksm=cea96fd4f9dee6c205f1b2f9d1e0a3829c256edf7e519aac00decd02497f2ab6a28b3a72821a#rd) ![](/assets/new.png)  
+- [2025-12-16-豆包-应用生成「一点都不技术」创作派对-·-一起来玩儿！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506133&idx=1&sn=1d4b9ff25a4a5c879eac3d88e2cd0ae2&chksm=cea96fd4f9dee6c205f1b2f9d1e0a3829c256edf7e519aac00decd02497f2ab6a28b3a72821a#rd)  
 - [2025-12-03-AI赋能成长，豆包-应用生成“一点都不技术”挑战赛创作分享第二期来啦！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506128&idx=1&sn=0b9341c31064697eef8dcccc06272b24&chksm=cea96fd1f9dee6c7052f888c5d1bce132967747c58f7daba3ef4a67e42b4a208c24811a83650#rd)  
 - [2025-11-19-和“动物塑”创作者面对面！豆包-应用生成“一点都不技术”挑战赛的创作分享来啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506123&idx=1&sn=469d203c58b7734f580c0a0fc622e1c3&chksm=cea96fcaf9dee6dc48075a1cb7e56be8752cfe5c0fc82d1912e1abb4b6b0bfa80a7c5ac6f7b7#rd)  
 - [2025-11-11-豆包-应用生成「一点都不技术」创作挑战赛开启，20-万奖池等你解锁！](http://mp.weixin.qq.com/s/xK4w6NX-eupUrdI33mDE8A)  
