@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-19T04:25:14.509Z</updated>
+    <updated>2025-12-19T14:11:43.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript Bundler Grand Prix]]></title>
+        <id>https://javascriptweekly.com/issues/766</id>
+        <link href="https://javascriptweekly.com/issues/766"/>
+        <updated>2025-12-19T00:00:00.000Z</updated>
+        <published>2025-12-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SIGGRAPH Asia 2025 | 只用一部手机创建和渲染高质量3D数字人]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542140&amp;idx=1&amp;sn=32fd8a79d171fe34d273bc8cc91d00fa&amp;chksm=8390d824b4e75132fded65cf4c4be2cd0f11c7c18ed8c805388286e15780160ed8f1431df5df#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Pinia3.0 彻底放弃了 Vue2 了！]]></title>
         <id>http://mp.weixin.qq.com/s/zm24kY4DIqCxFdTpNOyUeQ</id>
         <link href="http://mp.weixin.qq.com/s/zm24kY4DIqCxFdTpNOyUeQ"/>
-        <updated>2025-12-02T00:00:00.000Z</updated>
-        <published>2025-12-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常被忽视的 Node.js 功能，彻底改善了日志体验]]></title>
-        <id>http://mp.weixin.qq.com/s/XC6W1taZvQXQpKQZ__eH_A</id>
-        <link href="http://mp.weixin.qq.com/s/XC6W1taZvQXQpKQZ__eH_A"/>
         <updated>2025-12-02T00:00:00.000Z</updated>
         <published>2025-12-02T00:00:00.000Z</published>
     </entry>

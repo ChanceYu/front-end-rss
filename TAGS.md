@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-12-19 12:25:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-12-19 22:11:43。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -333,6 +333,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)
 - [【JavaScript-Weekly】Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)
 - [【JavaScript-Weekly】What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)
 - [【JavaScript-Weekly】Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)
 - [【JavaScript-Weekly】Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)
 - [【JavaScript-Weekly】The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743)
-- [【JavaScript-Weekly】Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
