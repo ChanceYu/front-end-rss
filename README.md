@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-19 22:11:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-20 02:15:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-12-19-The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766) ![](/assets/new.png)  
+- [2025-12-19-The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)  
 - [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)  
 - [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)  
 - [2025-11-28-Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)  
@@ -202,6 +202,8 @@
 </summary>
 
 
+- [2025-12-19-避雷这家公司！程序员把“讨薪横幅”放到官网上](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507099&idx=1&sn=161480b026fb747003a09b99c87395af&chksm=ce45c90af932401c05e5c9033dec70cf5b342c4cee0787b3fef1c8990a8d4e93f63d296d8f3a#rd) ![](/assets/new.png)  
+- [2025-12-18-因为淋过雨想给找前端开发工作的人提点建议](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507062&idx=1&sn=25144de26fd178ae287de4ccf54a3889&chksm=ce45c9e7f93240f16a740f75d5928d7fdcd15265f81bd8dae9b4baa9a2e32aff99bbd073b518#rd) ![](/assets/new.png)  
 - [2025-12-17-领导逼我做“前端架构师”，我直接提离职](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507039&idx=1&sn=465cfe81f4ffbb0c7dc9bd9ba640592c&chksm=ce45c9cef93240d8124eaa16de71774f6bbd3d4ad820d4d0fa9bb9059ebd41c39ea773bf6b80#rd)  
 - [2025-12-16-灾难性-BUG！React-团队正在连夜修复！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507037&idx=1&sn=ac0277713fdd3f5b5063e22ca9608b77&chksm=ce45c9ccf93240da8c4907c4df6ee1cdadcb06ab44691701f47020dbfdb8a3ea937dbf3c92a5#rd)  
 - [2025-12-15-尤雨溪亲自重构！Vite-速度提升-30-倍](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507016&idx=1&sn=56fe78f43e7819ed6ffea3d5df4b002c&chksm=ce45c9d9f93240cf593dd4f8dfb17d488a5b17fac7b7a5abdc4639a9ff2bdd8b5d2f84b62937#rd)  
@@ -211,17 +213,15 @@
 - [2025-12-10-JavaScript-性能提升-500%-的外挂！这是前端未来的趋势](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506869&idx=1&sn=58e3ef1e731856a6406f5ed709072b9f&chksm=ce45ce24f93247322f5e9544c193bd985605b7c07e4506eedea5f56c39d12528eb9812b70af7#rd)  
 - [2025-12-09-前端如何静悄悄录制用户的操作过程，静悄悄上传到服务器~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506863&idx=1&sn=d3e1b6631188f2df0436d9ce91612e1c&chksm=ce45ce3ef9324728a0603de56f624108eb455e20e0f66bd6ea80353d5201c9e9d7d57f100a84#rd)  
 - [2025-12-08-首个专属于-Vue3-的动效组件库！包含-120+-个组件](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506841&idx=1&sn=1eeaee1f971ac02db199114d4eb778bf&chksm=ce45ce08f932471ef5fca62084cdd16ea0c2385bb9762cf9f30a10c270a2b2111069b9af6837#rd)  
-- [2025-12-06-刷透这套前端面试题，面试官都怕你](http://mp.weixin.qq.com/s/pUi2IAJ1uCUjHOHisTJ7yw)  
 - [2025-12-06-正式重构！所有-Typescript-项目性能将飙升-15-倍！](http://mp.weixin.qq.com/s/FRK7sJ179FZn1UPEtcfP7A)  
+- [2025-12-06-刷透这套前端面试题，面试官都怕你](http://mp.weixin.qq.com/s/pUi2IAJ1uCUjHOHisTJ7yw)  
 - [2025-12-05-Vue3.5-重磅级新特性！会取代-Ref-吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506802&idx=1&sn=e41e86dd6e9cf5b74e1bedeb1845b249&chksm=ce45cee3f93247f57cda82203fc84375112cf399e3974441205bfe2a2fa84ecb933122782d3d#rd)  
 - [2025-12-04-Nodejs-运行时被收购！半年营收十亿美元](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506798&idx=1&sn=0348bbb9cf58a9e2dbc2d1fb13336c65&chksm=ce45cefff93247e91eef6a8284a38bf9bdc006cf064d4c65aaaa4f417f5a7a1c86d9799850fe#rd)  
-- [2025-12-03-所有前端程序员请做好随时失业的准备吧！](http://mp.weixin.qq.com/s/9qQBhb9cBVMdkCsD1KLVvQ)  
 - [2025-12-03-如何在-Vue3-中更好地使用-Typescript](http://mp.weixin.qq.com/s/guwqleOvZk-2MPwuBr-CUA)  
+- [2025-12-03-所有前端程序员请做好随时失业的准备吧！](http://mp.weixin.qq.com/s/9qQBhb9cBVMdkCsD1KLVvQ)  
 - [2025-12-02-Pinia3.0-彻底放弃了-Vue2-了！](http://mp.weixin.qq.com/s/zm24kY4DIqCxFdTpNOyUeQ)  
 - [2025-12-01-字节面试官：不点击鼠标，怎么触发点击事件？](http://mp.weixin.qq.com/s/IChASg03ZcYRAqBx-4GNnQ)  
 - [2025-11-28-最强大-Vue3-监控埋点库！覆盖-8-个维度！](http://mp.weixin.qq.com/s/vNVJrJ72df_h7WxlfjiRMw)  
-- [2025-11-27-CSS-公布-2025-新特性前十排名](http://mp.weixin.qq.com/s/4Rn43MKXXUgvuK4wPtt1vQ)  
-- [2025-11-26-因为淋过雨想给找前端开发工作的人提点建议](http://mp.weixin.qq.com/s/qcXerX11LqjC9J6iu3d-jA)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
