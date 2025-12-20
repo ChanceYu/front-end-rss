@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-20T03:08:05.058Z</updated>
+    <updated>2025-12-20T06:15:49.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623546&amp;idx=2&amp;sn=77024551ec6cefcbbb14b4c9dec21081&amp;chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623546&amp;idx=2&amp;sn=77024551ec6cefcbbb14b4c9dec21081&amp;chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd"/>
+        <updated>2025-12-19T00:00:00.000Z</updated>
+        <published>2025-12-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The JavaScript Bundler Grand Prix]]></title>
         <id>https://javascriptweekly.com/issues/766</id>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[领导逼我做“前端架构师”，我直接提离职]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507039&amp;idx=1&amp;sn=465cfe81f4ffbb0c7dc9bd9ba640592c&amp;chksm=ce45c9cef93240d8124eaa16de71774f6bbd3d4ad820d4d0fa9bb9059ebd41c39ea773bf6b80#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507039&amp;idx=1&amp;sn=465cfe81f4ffbb0c7dc9bd9ba640592c&amp;chksm=ce45c9cef93240d8124eaa16de71774f6bbd3d4ad820d4d0fa9bb9059ebd41c39ea773bf6b80#rd"/>
+        <updated>2025-12-17T00:00:00.000Z</updated>
+        <published>2025-12-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript还能这样写？！ES2025新语法让代码优雅到极致]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623535&amp;idx=1&amp;sn=5af68161cc72150298ed4a84ac721bcc&amp;chksm=802247aeb755ceb8ea11dc5ed4d56da6fa54091f5fb6edff71fbc6e93cdfc9211f95aab67f60#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623535&amp;idx=1&amp;sn=5af68161cc72150298ed4a84ac721bcc&amp;chksm=802247aeb755ceb8ea11dc5ed4d56da6fa54091f5fb6edff71fbc6e93cdfc9211f95aab67f60#rd"/>
         <updated>2025-12-17T00:00:00.000Z</updated>
         <published>2025-12-17T00:00:00.000Z</published>
     </entry>
@@ -253,16 +267,16 @@
         <published>2025-12-08T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare 被 React 坑了！两周内二次“翻车”]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=2&amp;sn=502e8eea994a373f9f92d76582df70a2&amp;chksm=802247f2b755cee49541e1c3585dfe2118a0f671503fe488f84397958ee769e6969444b89144#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=2&amp;sn=502e8eea994a373f9f92d76582df70a2&amp;chksm=802247f2b755cee49541e1c3585dfe2118a0f671503fe488f84397958ee769e6969444b89144#rd"/>
+        <title type="html"><![CDATA[就因为package.json里少了个^号，我们公司赔了客户十万块]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=1&amp;sn=99580c15cf25db76918e9e3142848f33&amp;chksm=802247f2b755cee4c9263762629722e2a7955a95f2f5adcbb3a14e149cee15c127411f4ad845#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=1&amp;sn=99580c15cf25db76918e9e3142848f33&amp;chksm=802247f2b755cee4c9263762629722e2a7955a95f2f5adcbb3a14e149cee15c127411f4ad845#rd"/>
         <updated>2025-12-08T00:00:00.000Z</updated>
         <published>2025-12-08T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[就因为package.json里少了个^号，我们公司赔了客户十万块]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=1&amp;sn=99580c15cf25db76918e9e3142848f33&amp;chksm=802247f2b755cee4c9263762629722e2a7955a95f2f5adcbb3a14e149cee15c127411f4ad845#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=1&amp;sn=99580c15cf25db76918e9e3142848f33&amp;chksm=802247f2b755cee4c9263762629722e2a7955a95f2f5adcbb3a14e149cee15c127411f4ad845#rd"/>
+        <title type="html"><![CDATA[Cloudflare 被 React 坑了！两周内二次“翻车”]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=2&amp;sn=502e8eea994a373f9f92d76582df70a2&amp;chksm=802247f2b755cee49541e1c3585dfe2118a0f671503fe488f84397958ee769e6969444b89144#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623475&amp;idx=2&amp;sn=502e8eea994a373f9f92d76582df70a2&amp;chksm=802247f2b755cee49541e1c3585dfe2118a0f671503fe488f84397958ee769e6969444b89144#rd"/>
         <updated>2025-12-08T00:00:00.000Z</updated>
         <published>2025-12-08T00:00:00.000Z</published>
     </entry>
@@ -344,24 +358,10 @@
         <published>2025-12-04T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“天才少年”5年0收入造JS核武！Claude天价收购Bun，Node.js生态地震]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=1&amp;sn=97559a7547e46d0ff187a9243d79b6bf&amp;chksm=802247cdb755cedba11f42efade50b0389742d65af5961b77a052552e0edda4f3c502c12dd84#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=1&amp;sn=97559a7547e46d0ff187a9243d79b6bf&amp;chksm=802247cdb755cedba11f42efade50b0389742d65af5961b77a052552e0edda4f3c502c12dd84#rd"/>
-        <updated>2025-12-04T00:00:00.000Z</updated>
-        <published>2025-12-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=2&amp;sn=438137b1ae67d3a54a3066d11c1d82c1&amp;chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=2&amp;sn=438137b1ae67d3a54a3066d11c1d82c1&amp;chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd"/>
         <updated>2025-12-04T00:00:00.000Z</updated>
         <published>2025-12-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让字距随字体自适应变化的 CSS 技巧]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528474&amp;idx=1&amp;sn=681f4c61971b9b12a1cd3a51a1a78358&amp;chksm=f99276cbcee5ffddd8980918a34e9c4b1d3ffda7290cea0c20685dc321279c221175f35d698f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528474&amp;idx=1&amp;sn=681f4c61971b9b12a1cd3a51a1a78358&amp;chksm=f99276cbcee5ffddd8980918a34e9c4b1d3ffda7290cea0c20685dc321279c221175f35d698f#rd"/>
-        <updated>2025-12-03T00:00:00.000Z</updated>
-        <published>2025-12-03T00:00:00.000Z</published>
     </entry>
 </feed>
