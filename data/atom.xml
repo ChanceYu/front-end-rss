@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-20T06:15:49.187Z</updated>
+    <updated>2025-12-20T10:10:22.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[性能暴涨 3 倍！Prisma 7 颠覆性更新：放弃 Rust 拥抱 TypeScript！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528637&amp;idx=1&amp;sn=5f5f89ee8c3595537740aabb35699e2a&amp;chksm=f992766ccee5ff7aa6767e4fadd07215c23e007826bc7919e58fd05c6b892e1b87f3a2621af0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528637&amp;idx=1&amp;sn=5f5f89ee8c3595537740aabb35699e2a&amp;chksm=f992766ccee5ff7aa6767e4fadd07215c23e007826bc7919e58fd05c6b892e1b87f3a2621af0#rd"/>
+        <updated>2025-12-19T00:00:00.000Z</updated>
+        <published>2025-12-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623546&amp;idx=2&amp;sn=77024551ec6cefcbbb14b4c9dec21081&amp;chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[SIGGRAPH Asia 2025 | 只用一部手机创建和渲染高质量3D数字人]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542140&amp;idx=1&amp;sn=32fd8a79d171fe34d273bc8cc91d00fa&amp;chksm=8390d824b4e75132fded65cf4c4be2cd0f11c7c18ed8c805388286e15780160ed8f1431df5df#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542140&amp;idx=1&amp;sn=32fd8a79d171fe34d273bc8cc91d00fa&amp;chksm=8390d824b4e75132fded65cf4c4be2cd0f11c7c18ed8c805388286e15780160ed8f1431df5df#rd"/>
+        <updated>2025-12-18T00:00:00.000Z</updated>
+        <published>2025-12-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大部分人都错了！这才是chrome插件多脚本通信的正确姿势]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528628&amp;idx=1&amp;sn=334353511bd29fc2a093f3dd4b8a646c&amp;chksm=f9927665cee5ff7312fbf085d9e02fb0085d6e145dc6973286096cbb8672d55caca9db27635d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528628&amp;idx=1&amp;sn=334353511bd29fc2a093f3dd4b8a646c&amp;chksm=f9927665cee5ff7312fbf085d9e02fb0085d6e145dc6973286096cbb8672d55caca9db27635d#rd"/>
         <updated>2025-12-18T00:00:00.000Z</updated>
         <published>2025-12-18T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Vite 8.0 来了，第一个换芯大版本！]]></title>
         <id>http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ</id>
         <link href="http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ"/>
-        <updated>2025-12-04T00:00:00.000Z</updated>
-        <published>2025-12-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nodejs 运行时被收购！半年营收十亿美元]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506798&amp;idx=1&amp;sn=0348bbb9cf58a9e2dbc2d1fb13336c65&amp;chksm=ce45cefff93247e91eef6a8284a38bf9bdc006cf064d4c65aaaa4f417f5a7a1c86d9799850fe#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506798&amp;idx=1&amp;sn=0348bbb9cf58a9e2dbc2d1fb13336c65&amp;chksm=ce45cefff93247e91eef6a8284a38bf9bdc006cf064d4c65aaaa4f417f5a7a1c86d9799850fe#rd"/>
-        <updated>2025-12-04T00:00:00.000Z</updated>
-        <published>2025-12-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用这 9 个 API，我把页面性能干到了 90+]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=2&amp;sn=438137b1ae67d3a54a3066d11c1d82c1&amp;chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623436&amp;idx=2&amp;sn=438137b1ae67d3a54a3066d11c1d82c1&amp;chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd"/>
         <updated>2025-12-04T00:00:00.000Z</updated>
         <published>2025-12-04T00:00:00.000Z</published>
     </entry>

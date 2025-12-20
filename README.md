@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-20 14:15:48，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-20 18:10:22，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -140,9 +140,9 @@
 </summary>
 
 
-- [2025-12-19-VS-Code-重磅更新：新增智能体管理功能，但是下架免费代码补全工具。网友：微软你倒是说清楚](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623546&idx=1&sn=29fb73b4f44ba07213642366500afb4b&chksm=802247bbb755ceade4d8f19c7eb53abbb126c1730ef4a3cb846354ef4e8491426ba2ff5cc72e#rd) ![](/assets/new.png)  
-- [2025-12-19-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623546&idx=2&sn=77024551ec6cefcbbb14b4c9dec21081&chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd) ![](/assets/new.png)  
-- [2025-12-17-JavaScript还能这样写？！ES2025新语法让代码优雅到极致](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623535&idx=1&sn=5af68161cc72150298ed4a84ac721bcc&chksm=802247aeb755ceb8ea11dc5ed4d56da6fa54091f5fb6edff71fbc6e93cdfc9211f95aab67f60#rd) ![](/assets/new.png)  
+- [2025-12-19-VS-Code-重磅更新：新增智能体管理功能，但是下架免费代码补全工具。网友：微软你倒是说清楚](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623546&idx=1&sn=29fb73b4f44ba07213642366500afb4b&chksm=802247bbb755ceade4d8f19c7eb53abbb126c1730ef4a3cb846354ef4e8491426ba2ff5cc72e#rd)  
+- [2025-12-19-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623546&idx=2&sn=77024551ec6cefcbbb14b4c9dec21081&chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd)  
+- [2025-12-17-JavaScript还能这样写？！ES2025新语法让代码优雅到极致](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623535&idx=1&sn=5af68161cc72150298ed4a84ac721bcc&chksm=802247aeb755ceb8ea11dc5ed4d56da6fa54091f5fb6edff71fbc6e93cdfc9211f95aab67f60#rd)  
 - [2025-12-16-离谱！裁员裁出新高度了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623529&idx=1&sn=34e4080b3ff7c1a816d37f73b608a31f&chksm=802247a8b755cebe660e09e4148a17637285c73419d72593cf2e1b5601430a15a5cd4dc593cb#rd)  
 - [2025-12-15-小扎忍痛！亲口宣告了元宇宙的死亡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623523&idx=1&sn=2fb040c113419defed12f9e12c97b98d&chksm=802247a2b755ceb4c6587da2bf19dfc7f16f77c68d90f25d229dd1a48f40efee4a51ddfbd280#rd)  
 - [2025-12-15-借助图片懒加载触发-JavaScript-动态导入](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623523&idx=2&sn=86651ed0be205cc4b86a6efc43d8b6cb&chksm=802247a2b755ceb46f45aa6a45820970a51646279140427f120b786a24fdfa5f82cebe0eade0#rd)  
@@ -264,6 +264,8 @@
 </summary>
 
 
+- [2025-12-19-性能暴涨-3-倍！Prisma-7-颠覆性更新：放弃-Rust-拥抱-TypeScript！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528637&idx=1&sn=5f5f89ee8c3595537740aabb35699e2a&chksm=f992766ccee5ff7aa6767e4fadd07215c23e007826bc7919e58fd05c6b892e1b87f3a2621af0#rd) ![](/assets/new.png)  
+- [2025-12-18-大部分人都错了！这才是chrome插件多脚本通信的正确姿势](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528628&idx=1&sn=334353511bd29fc2a093f3dd4b8a646c&chksm=f9927665cee5ff7312fbf085d9e02fb0085d6e145dc6973286096cbb8672d55caca9db27635d#rd) ![](/assets/new.png)  
 - [2025-12-16-可能是你极易忽略的Nginx知识点](http://mp.weixin.qq.com/s/z4hMKXM-ZgqFfz8_VRbZJA)  
 - [2025-12-15-为什么95%的前端开发人员在系统设计面试中失败](http://mp.weixin.qq.com/s/NMTKreY603pxg-pxSHBGNA)  
 - [2025-12-13-突发！软考空前大利好！恭喜所有程序员！](http://mp.weixin.qq.com/s/XjD1i2HZ_02SohEa3w-cfQ)  
@@ -282,8 +284,6 @@
 - [2025-11-24-常被忽视的-Node.js-功能，彻底改善了日志体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528397&idx=1&sn=127aa113e933093d4c2665fb198eb5b4&chksm=f992691ccee5e00a6efc0dc98a2e3399d2b82ce758ef438998c2589bf4e46fbb9e1646c9118a#rd)  
 - [2025-11-21-开源的SSR框架都是怎么实现的？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528389&idx=1&sn=ec2a5cb303c5cefd3d6c6893c18a1efd&chksm=f9926914cee5e002d8c2c0e5c5ee39e24c5b16b32a3160da5b3a59e258a4ba8ab667100f8c35#rd)  
 - [2025-11-20-高级前端开发人员最佳实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528371&idx=1&sn=cc4dffdca703c3065f53e20e2e9f6fa6&chksm=f9926962cee5e074e7038de358d2c969fe69428131c3e1893cbfefb8457dbf6564c8ff458bc2#rd)  
-- [2025-11-19-React-如何处理高频的实时数据？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528358&idx=1&sn=2f34394f5da438873ae967d829cf074c&chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd)  
-- [2025-11-18-大模型时代最讽刺的职业出现了：“大模型善后工程师”](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528344&idx=1&sn=0b51bdbdd34ef02821adc8ce530caebb&chksm=f9926949cee5e05fde052629f74f422d71148d223a15f8919cff3ce10e5548f2125f7a21a5ad#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
