@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-19T18:15:41.790Z</updated>
+    <updated>2025-12-20T03:08:05.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -34,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278210&amp;idx=1&amp;sn=64ba5c14880aae308f0e311a22024cc6&amp;chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&amp;scene=0#rd"/>
         <updated>2025-12-18T00:00:00.000Z</updated>
         <published>2025-12-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ant Design 发布 Markdown 渲染器 X-Markdown]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517491&amp;idx=1&amp;sn=b6389c0160f6f44bdbc55cc3a8f4d515&amp;chksm=eb07bd4adc70345ca84536074fbf0bb8e8cc39bf2b22c3fb9d1efec3bb900db131e2b34041df#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517491&amp;idx=1&amp;sn=b6389c0160f6f44bdbc55cc3a8f4d515&amp;chksm=eb07bd4adc70345ca84536074fbf0bb8e8cc39bf2b22c3fb9d1efec3bb900db131e2b34041df#rd"/>
+        <updated>2025-12-17T00:00:00.000Z</updated>
+        <published>2025-12-17T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[领导逼我做“前端架构师”，我直接提离职]]></title>
@@ -69,6 +76,13 @@
         <link href="https://nodeweekly.com/issues/605"/>
         <updated>2025-12-16T00:00:00.000Z</updated>
         <published>2025-12-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端工程化实践：打包工具的选择与思考]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517486&amp;idx=1&amp;sn=ef32142b678e11965c7f90e5fd695220&amp;chksm=eb07bd57dc70344176760a0e580545a9de9265ae06549798c659d2c3507696b98e2d5593f3fe#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517486&amp;idx=1&amp;sn=ef32142b678e11965c7f90e5fd695220&amp;chksm=eb07bd57dc70344176760a0e580545a9de9265ae06549798c659d2c3507696b98e2d5593f3fe#rd"/>
+        <updated>2025-12-15T00:00:00.000Z</updated>
+        <published>2025-12-15T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[尤雨溪亲自重构！Vite 速度提升 30 倍]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528474&amp;idx=1&amp;sn=681f4c61971b9b12a1cd3a51a1a78358&amp;chksm=f99276cbcee5ffddd8980918a34e9c4b1d3ffda7290cea0c20685dc321279c221175f35d698f#rd"/>
         <updated>2025-12-03T00:00:00.000Z</updated>
         <published>2025-12-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 Vue3 中更好地使用 Typescript]]></title>
-        <id>http://mp.weixin.qq.com/s/guwqleOvZk-2MPwuBr-CUA</id>
-        <link href="http://mp.weixin.qq.com/s/guwqleOvZk-2MPwuBr-CUA"/>
-        <updated>2025-12-03T00:00:00.000Z</updated>
-        <published>2025-12-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinia3.0 彻底放弃了 Vue2 了！]]></title>
-        <id>http://mp.weixin.qq.com/s/zm24kY4DIqCxFdTpNOyUeQ</id>
-        <link href="http://mp.weixin.qq.com/s/zm24kY4DIqCxFdTpNOyUeQ"/>
-        <updated>2025-12-02T00:00:00.000Z</updated>
-        <published>2025-12-02T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-20 02:15:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-20 11:08:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -536,6 +536,7 @@
 - [2025-03-05-智谱开源AI绘画CogView4，开源之火烧的更旺了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501516&idx=1&sn=01b3c07e29e1aa883c86e703676032eb&chksm=c2b30733f5c48e2518421fa837470fec0ddaffabfdfb6aa32e33167bb3ca0f771237d1768cc8#rd) 
 - [2023-08-02-泰裤辣！号称可替代Chrome的Arc浏览器发布-1.0-版本](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498425&idx=2&sn=7b172ff94d37d2307a81f204cb0dc27f&chksm=c2b33b46f5c4b25077b949874fd9fecff7d86d408ab5a47f81eb55520fd81d50a5ba19788e79#rd) 
 - [2023-07-20-Chrome-115-有哪些值得关注的新特性？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498365&idx=2&sn=4ca60b3841c66d05f9ccd90e9826f101&chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd) 
+- [2025-12-17-Ant-Design-发布-Markdown-渲染器-X-Markdown](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517491&idx=1&sn=b6389c0160f6f44bdbc55cc3a8f4d515&chksm=eb07bd4adc70345ca84536074fbf0bb8e8cc39bf2b22c3fb9d1efec3bb900db131e2b34041df#rd) 
 - [2025-08-21-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517386&idx=1&sn=600703f2da4eceac2bd9d8030cbd3bb3&chksm=eb07bcb3dc7035a50ebf76cb215d44d08b2bd2a2cd2ff45af67aea7a9ae8b4c0058656f7d5b0#rd) 
 - [2025-08-20-前端仔如何在公司搭建-AI-Review-系统](http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw) 
 - [2024-12-16-神了，Chrome-这个记录器简直是开发测试提效神器](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516915&idx=1&sn=a1bf03a53a8f54d4fe12654975188b9b&chksm=eb07ba8adc70339ce19596001f6d9620221cb899ee3bc3a0c43b431773653677927e14b345cb#rd) 

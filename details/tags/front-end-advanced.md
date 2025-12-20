@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-20 02:15:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-20 11:08:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -597,6 +597,7 @@
 - [2023-06-07-主流前端框架的响应式原理](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498204&idx=2&sn=44b3ad72ec64cbdc9efb3e0850d023f2&chksm=c2b33823f5c4b135f1949f78278404235817175fd75a794a5b4690928ae0cb78959315840ab0#rd) 
 - [2023-05-24-从-VSCode-源码中我学到了什么？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498025&idx=1&sn=7a81d807a8773a4113e95003744d8f8e&chksm=c2b338d6f5c4b1c061344505e38f8f38326a0964e24c1952f118d57a75f072a84edd96572c44#rd) 
 - [2023-01-28-前端食堂技术周刊第-68-期：Astro-2.0、Nuxt-3.1.0、Bun-0.5、Turborepo-1.7](https://mp.weixin.qq.com/s/BYZU3YHmgIj1LpIGcEIi_g) 
+- [2025-12-15-前端工程化实践：打包工具的选择与思考](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517486&idx=1&sn=ef32142b678e11965c7f90e5fd695220&chksm=eb07bd57dc70344176760a0e580545a9de9265ae06549798c659d2c3507696b98e2d5593f3fe#rd) 
 - [2025-10-30-vivo-前端三剑客发展历程及原理揭秘](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517456&idx=1&sn=849be7450825af5890f229d3956fe43f&chksm=eb07bd69dc70347f619c3c419c20ba4332b892973ad74beef41323490d34e8ce6b10d17e836f#rd) 
 - [2025-10-24-转转商品中心微前端升级之路](http://mp.weixin.qq.com/s/rCLPo6aEe42wI9Rhs1XoqA) 
 - [2025-08-15-别再瞎读源码了！高手都是这样拆解大型项目的](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517378&idx=1&sn=a8e9089d575260c7802d18272009744b&chksm=eb07bcbbdc7035adb1f5d53fdf3d49350d44c9eef40acb509b029ff790aab03986a4b0be18ad#rd) 
