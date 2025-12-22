@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-20T10:10:22.740Z</updated>
+    <updated>2025-12-22T03:23:23.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[补全不足，CSS锚点定位支持锚定容器回退检测了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/"/>
+        <updated>2025-12-22T00:00:00.000Z</updated>
+        <published>2025-12-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[性能暴涨 3 倍！Prisma 7 颠覆性更新：放弃 Rust 拥抱 TypeScript！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528637&amp;idx=1&amp;sn=5f5f89ee8c3595537740aabb35699e2a&amp;chksm=f992766ccee5ff7aa6767e4fadd07215c23e007826bc7919e58fd05c6b892e1b87f3a2621af0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[单IMG标签的图片内阴影效果实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/"/>
-        <updated>2025-12-04T00:00:00.000Z</updated>
-        <published>2025-12-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite 8.0 来了，第一个换芯大版本！]]></title>
-        <id>http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ</id>
-        <link href="http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ"/>
         <updated>2025-12-04T00:00:00.000Z</updated>
         <published>2025-12-04T00:00:00.000Z</published>
     </entry>

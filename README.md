@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-20 18:10:22，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-22 11:23:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,7 +25,7 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2025-12-19-性能暴涨-3-倍！Prisma-7-颠覆性更新：放弃-Rust-拥抱-TypeScript！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528637&idx=1&sn=5f5f89ee8c3595537740aabb35699e2a&chksm=f992766ccee5ff7aa6767e4fadd07215c23e007826bc7919e58fd05c6b892e1b87f3a2621af0#rd) ![](/assets/new.png)  
-- [2025-12-18-大部分人都错了！这才是chrome插件多脚本通信的正确姿势](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528628&idx=1&sn=334353511bd29fc2a093f3dd4b8a646c&chksm=f9927665cee5ff7312fbf085d9e02fb0085d6e145dc6973286096cbb8672d55caca9db27635d#rd) ![](/assets/new.png)  
+- [2025-12-19-性能暴涨-3-倍！Prisma-7-颠覆性更新：放弃-Rust-拥抱-TypeScript！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528637&idx=1&sn=5f5f89ee8c3595537740aabb35699e2a&chksm=f992766ccee5ff7aa6767e4fadd07215c23e007826bc7919e58fd05c6b892e1b87f3a2621af0#rd)  
+- [2025-12-18-大部分人都错了！这才是chrome插件多脚本通信的正确姿势](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528628&idx=1&sn=334353511bd29fc2a093f3dd4b8a646c&chksm=f9927665cee5ff7312fbf085d9e02fb0085d6e145dc6973286096cbb8672d55caca9db27635d#rd)  
 - [2025-12-16-可能是你极易忽略的Nginx知识点](http://mp.weixin.qq.com/s/z4hMKXM-ZgqFfz8_VRbZJA)  
 - [2025-12-15-为什么95%的前端开发人员在系统设计面试中失败](http://mp.weixin.qq.com/s/NMTKreY603pxg-pxSHBGNA)  
 - [2025-12-13-突发！软考空前大利好！恭喜所有程序员！](http://mp.weixin.qq.com/s/XjD1i2HZ_02SohEa3w-cfQ)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-12-22-补全不足，CSS锚点定位支持锚定容器回退检测了](https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/) ![](/assets/new.png)  
 - [2025-12-12-CSS-progress函数简介](https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/)  
 - [2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/)  
 - [2025-11-28-醒醒，该使用CookieStore新建和管理cookie了](https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/)  
@@ -531,7 +532,6 @@
 - [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)  
 - [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
-- [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
