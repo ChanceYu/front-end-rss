@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-22 11:23:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-29 11:07:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -15,6 +15,7 @@
 - [2021-02-24-【第2207期】为git仓库自动生成changelog-html页面](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244082&idx=2&sn=21f225224d71bb44169ac4b03e71749c&chksm=bd491fb68a3e96a083f40b1aa69f1ed1c7c34f1ce01356dfffe65cd059a3dd1b9a0a13fbd207&scene=27#wechat_redirect) 
 - [2020-06-02-【英】HTML-mailto-link](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237042&idx=3&sn=79cde14e9196fc85df190acb65b127f2&chksm=bd4973368a3efa206a38e18653ba4e24281c2694e19f660edf73fb40a98f5d33f20827167180&scene=27#wechat_redirect) 
 - [2020-02-16-【第1858期】通过HTML属性可改善用户的双重身份验证体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235715&idx=1&sn=a7e364236e694b774c671991d657f389&chksm=bd497c078a3ef5113a8d7a2b0d5fbeef13693d188978343b601701962a3086dbf5d7b4e70dce&scene=27#wechat_redirect) 
+- [2025-12-24-一种新HTML页面转换成-PDF-技术方案](http://mp.weixin.qq.com/s/IgttNByrz1_3ESzIY0Y4mQ) 
 - [2025-12-10-HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=2&sn=36dd6338dd0696f95fce0603d8a6f5d5&chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd) 
 - [2025-11-23-Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw) 
 - [2022-09-18-Adobe收购Figma；易联购预售iPhone卷款跑路；脉脉以旷工为由辞退员工，被判赔24万；Meta开源MemLab](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517964&idx=1&sn=fd812c4578cf63ba2924f7d0e5c8b48e&chksm=f952324fce25bb598f78f8a710d2fee125012a6ec4860e1e980b9308631c962c694fe5ab313d#rd) 
@@ -32,6 +33,7 @@
 - [2022-08-15-为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063920&idx=1&sn=799ef858a8d64804adbd5ebc25ad03b9&chksm=87c45d60b0b3d476af82360959df1c8c803b7d47b76cd1f416c0e2ed0e7923671fea8b77472e#rd) 
 - [2022-02-11-为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061006&idx=1&sn=0a6225ad1c7fa7db92f4f1421c56f704&chksm=87c4201eb0b3a908673b3ddcbeb562039935f2e5268e74903eb32a86afad6d3d5224009277b3#rd) 
 - [2022-01-05-为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=1&sn=ae23a10a1f0dfb3983bbca0c666f5e07&chksm=87c42138b0b3a82e5fe52bcfd5a68be0bbf3d0a2815c9fdf433448d686adc4f4528505eaacb0#rd) 
+- [2025-12-24-一种新HTML页面转换成-PDF-技术方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528681&idx=1&sn=c78a15d86c9379404c2c28f0c95c1f88&chksm=f9927638cee5ff2e1dfacb4ba7ca124f1a54b6112b6a67b0dd56c51852d43a1b7764c0064fac#rd) 
 - [2025-11-06-HTML-的隐藏宝藏：&lt;output&gt;-标签](http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA) 
 - [2025-09-12-为什么语义-HTML-仍然重要？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527814&idx=1&sn=f0d28c0419b2fa04fa24aaa122ec633c&chksm=f9926b57cee5e241e3ca3cfd8f71b34fbb2ede9caa87ca6b1932526faa9fb0d5447a093622e3#rd) 
 - [2025-08-26-还在用html2canvas？介绍一个比它快100倍的截图神器！](http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g) 
