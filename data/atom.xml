@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-29T03:07:26.040Z</updated>
+    <updated>2025-12-29T04:40:09.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[今日学习CSS style()样式查询及其range范围语法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/"/>
+        <updated>2025-12-29T00:00:00.000Z</updated>
+        <published>2025-12-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3632期】真相揭秘：JavaScript 中根本没有真正的“取消异步”]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278276&amp;idx=1&amp;sn=3f36efc7cba4f4d0e2108117f7d66f69&amp;chksm=bc032f9918cf025bb50e9bf1c45f46e8e89df5abb5982c78fbb71109ee4d914ed4e6586f5964&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278276&amp;idx=1&amp;sn=3f36efc7cba4f4d0e2108117f7d66f69&amp;chksm=bc032f9918cf025bb50e9bf1c45f46e8e89df5abb5982c78fbb71109ee4d914ed4e6586f5964&amp;scene=0#rd"/>
         <updated>2025-12-29T00:00:00.000Z</updated>
         <published>2025-12-29T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623480&amp;idx=1&amp;sn=071097771f25a51dd17534813531620e&amp;chksm=802247f9b755ceefac42fb267eb1afc8e225f821f7f2594926e6339c61815e274e8ff79e3db0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623480&amp;idx=1&amp;sn=071097771f25a51dd17534813531620e&amp;chksm=802247f9b755ceefac42fb267eb1afc8e225f821f7f2594926e6339c61815e274e8ff79e3db0#rd"/>
-        <updated>2025-12-09T00:00:00.000Z</updated>
-        <published>2025-12-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3623期】从混乱到纯净：用 Effect System 重塑你的 JS 架构]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278107&amp;idx=1&amp;sn=93a5e42214119670b46eb3168701e2d4&amp;chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278107&amp;idx=1&amp;sn=93a5e42214119670b46eb3168701e2d4&amp;chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&amp;scene=0#rd"/>
         <updated>2025-12-09T00:00:00.000Z</updated>
         <published>2025-12-09T00:00:00.000Z</published>
     </entry>
