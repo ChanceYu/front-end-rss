@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-29T04:40:09.890Z</updated>
+    <updated>2025-12-30T00:50:59.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[今日学习CSS style()样式查询及其range范围语法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/"/>
+        <updated>2025-12-29T00:00:00.000Z</updated>
+        <published>2025-12-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于微前端 qiankun 多实例保活的工程实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517497&amp;idx=1&amp;sn=edf562d56c8ca413ffe894bf20ee5e2d&amp;chksm=eb07bd40dc703456f1307436133b6c3d5c88536ff38cc7c8a3b94e26345db3ac6431146eeb41#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517497&amp;idx=1&amp;sn=edf562d56c8ca413ffe894bf20ee5e2d&amp;chksm=eb07bd40dc703456f1307436133b6c3d5c88536ff38cc7c8a3b94e26345db3ac6431146eeb41#rd"/>
         <updated>2025-12-29T00:00:00.000Z</updated>
         <published>2025-12-29T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我们可以使用 Local Storage 代替 Context-Redux-Zustand 吗？]]></title>
         <id>http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA</id>
         <link href="http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA"/>
-        <updated>2025-12-09T00:00:00.000Z</updated>
-        <published>2025-12-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623480&amp;idx=1&amp;sn=071097771f25a51dd17534813531620e&amp;chksm=802247f9b755ceefac42fb267eb1afc8e225f821f7f2594926e6339c61815e274e8ff79e3db0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623480&amp;idx=1&amp;sn=071097771f25a51dd17534813531620e&amp;chksm=802247f9b755ceefac42fb267eb1afc8e225f821f7f2594926e6339c61815e274e8ff79e3db0#rd"/>
         <updated>2025-12-09T00:00:00.000Z</updated>
         <published>2025-12-09T00:00:00.000Z</published>
     </entry>
