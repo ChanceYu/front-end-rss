@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-31 04:11:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-31 12:29:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-12-31-【第3633期】管理依赖，其实是管理工程思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278317&idx=1&sn=553ce6e2c4ea7e5969e1a05673b1e22a&chksm=bc095cc4e70c049805f7fb984d16991d21e21f93c23de5c43306e5064b872a8625cec7e6fbb5&scene=0#rd) ![](/assets/new.png)  
 - [2025-12-30-【早阅】技术债治理手册：五步作战计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278292&idx=1&sn=bf2044a51442a2d8090f5a78180b2a05&chksm=bceeb2eaa8cacbb3be658311bc880040751f56c9a94fe140efb9b60e41941b283f38128ed729&scene=0#rd)  
 - [2025-12-29-【第3632期】真相揭秘：JavaScript-中根本没有真正的“取消异步”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278276&idx=1&sn=3f36efc7cba4f4d0e2108117f7d66f69&chksm=bc032f9918cf025bb50e9bf1c45f46e8e89df5abb5982c78fbb71109ee4d914ed4e6586f5964&scene=0#rd)  
 - [2025-12-26-【早阅】谁才是你的-AI-职场搭档？这份数据告诉你答案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278272&idx=1&sn=7ca1a5f5d8554c86449b75c417c569e3&chksm=bc4b6552fa7a90475d7d7d7456fbdbf54929aae7dd2e5a6f88e993fe15337089f4d4a686d4aa&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-12-08-【早阅】深入理解-Web-Components：如何利用自定义元素和-Shadow-DOM-打造可复用表单组件？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278080&idx=1&sn=8c662524c3c1d64fff6d988898dbe8bd&chksm=bc3973b23de9ca62f3c7b9615bdb4d01651ae5305496415bde7b6d9b982082225f7b2364050a&scene=0#rd)  
 - [2025-12-05-【第3622期】深入浅出：用-URLPattern-打造轻量级-SPA-路由](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278071&idx=1&sn=3bc9e4bb8bdd2e318b79450b8779891c&chksm=bc88d5790df6abc16a00b3fbe3ad6bdd84c158f5821a8ccbf0f74b033edf00af06af00b0e27b&scene=0#rd)  
 - [2025-12-04-【早阅】10倍工程：生成式AI工具如何转团队生产力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278066&idx=1&sn=172add087fcbee6363473f6aa82f78ed&chksm=bc64338ecb90a06f11c002796c5e958bca86baf16288609f320fc11b40c0d70e7a5251db01ae&scene=0#rd)  
-- [2025-12-03-【第3621期】浅谈-AI-搜索前端打字机效果的实现方案演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278059&idx=1&sn=5a5447da3d7484b5b9d7178a3aa36ad9&chksm=bc2283ce0041555e78a46f2621b11e4bd39cf5dd0cc46a120ada05046a238937260368c6bc70&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,7 +202,7 @@
 </summary>
 
 
-- [2025-12-30-切记！程序员，千万不要碰-OA-项目！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507350&idx=1&sn=4ee6ddea34a2c526e8e22d08f9e0b385&chksm=ce45c807f9324111d198676b5e1a4ebdb3b216329fc3df702f44ce088b244b2d7349fd82bfa6#rd) ![](/assets/new.png)  
+- [2025-12-30-切记！程序员，千万不要碰-OA-项目！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507350&idx=1&sn=4ee6ddea34a2c526e8e22d08f9e0b385&chksm=ce45c807f9324111d198676b5e1a4ebdb3b216329fc3df702f44ce088b244b2d7349fd82bfa6#rd)  
 - [2025-12-29-VSCode-宣布改名！全面-AI-的时代到来！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507325&idx=1&sn=d51da71ecb4fda794053c1604314b8e1&chksm=ce45c8ecf93241fa60804be28bad8eadd0022b922fc46c857d11e6e9bcb4eb511620839f83eb#rd)  
 - [2025-12-27-又又又被领导辱骂了，这次我选择了反抗！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507265&idx=1&sn=027368c941554cd4314f189e504bf759&chksm=ce45c8d0f93241c6044e9e0d4ed8cfb45ea4e7e2998b97988063c399219d83926825c41e574d#rd)  
 - [2025-12-26-午休只有一小时的公司？我真不想干了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507257&idx=1&sn=3373eefbdced673c31c5168fdb42fca4&chksm=ce45c8a8f93241be8b425c788110198214831b567eefe403eb410d3e4ea47a8cc96e3f601e09#rd)  
