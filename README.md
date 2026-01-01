@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-01 22:10:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-02 02:15:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,14 +25,14 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2025-12-31-No-Vary-Search：用一个新-HTTP-头拯救你的缓存性能！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528775&idx=1&sn=1bcb1a325fdc8efb2c055fb79371b55f&chksm=f9927796cee5fe8068e37cf32398f8ea8cd343c03e6e197542d4254798c2c6329e78b9aae725#rd) ![](/assets/new.png)  
-- [2025-12-30-救火：一场递归树的性能突围战！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528767&idx=1&sn=71a84710fc40a8986554d463b7770285&chksm=f99277eecee5fef8c95d125e582f00d8021544db89e1547a105cfab8e5ef58e8e17094d3568b#rd) ![](/assets/new.png)  
+- [2025-12-31-No-Vary-Search：用一个新-HTTP-头拯救你的缓存性能！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528775&idx=1&sn=1bcb1a325fdc8efb2c055fb79371b55f&chksm=f9927796cee5fe8068e37cf32398f8ea8cd343c03e6e197542d4254798c2c6329e78b9aae725#rd)  
+- [2025-12-30-救火：一场递归树的性能突围战！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528767&idx=1&sn=71a84710fc40a8986554d463b7770285&chksm=f99277eecee5fef8c95d125e582f00d8021544db89e1547a105cfab8e5ef58e8e17094d3568b#rd)  
 - [2025-12-25-浅谈-AI-搜索前端打字机效果的实现方案演进](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528688&idx=1&sn=5c3c0721d61fc7af8293735ff46238b6&chksm=f9927621cee5ff372e1564cf058c1ef4cab92afa31e3c06b64de441a8f3260b564c847e21856#rd)  
 - [2025-12-24-一种新HTML页面转换成-PDF-技术方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528681&idx=1&sn=c78a15d86c9379404c2c28f0c95c1f88&chksm=f9927638cee5ff2e1dfacb4ba7ca124f1a54b6112b6a67b0dd56c51852d43a1b7764c0064fac#rd)  
 - [2025-12-23-CSS-if-函数上线啦！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528668&idx=1&sn=1587f30ba73cecbdff86eab41dbd110f&chksm=f992760dcee5ff1b18a895a5329e1bd79728201b2d3f34f3c214d91ac29eae14bd24df1dd7a2#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-12-31-AI架构师的诞生：AI+传统DDD模式-=-实现开发效率提升75%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542368&idx=1&sn=a3b1e5cd65b7987557a586d667a56568&chksm=8390d938b4e7502e18ffab7fe753245003d76ffc2aa7b32632dcb38a5d22e4f7058547a6fafa#rd) ![](/assets/new.png)  
 - [2025-12-29-天猫超市数据AI实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542344&idx=1&sn=0b99f66cdd7e0dc5224b751d9eda3628&chksm=8390d910b4e75006b44536cddcdb49b2eee3df4cdcedba726ec71e010b174bcaef4ea4b2e896#rd)  
 - [2025-12-24-AI-辅助前端动画开发](http://mp.weixin.qq.com/s/ag2W9-rpQEyQB9RmDkywCQ)  
 - [2025-12-22-从代码生成到自主决策：打造一个Coding驱动的“自我编程”Agent](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542164&idx=1&sn=6db14a557f822f58df04ade3d2121572&chksm=8390d84cb4e7515ae7f95e337c4b7ff6b5c5aae114aef826ec809386164fe0f67bc75a1b9b4b#rd)  
@@ -500,7 +501,6 @@
 - [2025-10-29-AI-Coding-长文分享：如何真正把工具用起来，从原理到实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541864&idx=1&sn=d8ee240222727bacf219646ed4e5b914&chksm=8390c730b4e74e26bfcb18d318c7da84c1df3693d34479b4751090c81d780486e9bcc3b2c68b#rd)  
 - [2025-10-27-我的研发实践：高准确率AICoding工作流设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541850&idx=1&sn=9daae921c01825c227809b4a3ad2208d&chksm=8390c702b4e74e149ff8cea93aa9922705b0851daf445194156403dc824873a07e68072705c9#rd)  
 - [2025-10-22-一次AI驱动的淘宝客户端需求开发实战](http://mp.weixin.qq.com/s/zuvEnIZ5avKhT29puoTS-A)  
-- [2025-10-20-天猫行业中后台前端研发Agent设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541806&idx=1&sn=f20df453b05fb4b7c52ffa77d166833e&chksm=8390c6f6b4e74fe0788b08290f3ab124ba88086801a8ed12da599b3c6a47e368c6064fa2aece#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
