@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-12-31T04:29:50.668Z</updated>
+    <updated>2026-01-01T14:10:50.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -13,7 +13,21 @@
     <link rel="self" href="https://fed.chanceyu.com/atom.xml"/>
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
-    <rights>All rights reserved 2025 by ChaneYu</rights>
+    <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[No-Vary-Search：用一个新 HTTP 头拯救你的缓存性能！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528775&amp;idx=1&amp;sn=1bcb1a325fdc8efb2c055fb79371b55f&amp;chksm=f9927796cee5fe8068e37cf32398f8ea8cd343c03e6e197542d4254798c2c6329e78b9aae725#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528775&amp;idx=1&amp;sn=1bcb1a325fdc8efb2c055fb79371b55f&amp;chksm=f9927796cee5fe8068e37cf32398f8ea8cd343c03e6e197542d4254798c2c6329e78b9aae725#rd"/>
+        <updated>2025-12-31T00:00:00.000Z</updated>
+        <published>2025-12-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[救火：一场递归树的性能突围战！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528767&amp;idx=1&amp;sn=71a84710fc40a8986554d463b7770285&amp;chksm=f99277eecee5fef8c95d125e582f00d8021544db89e1547a105cfab8e5ef58e8e17094d3568b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528767&amp;idx=1&amp;sn=71a84710fc40a8986554d463b7770285&amp;chksm=f99277eecee5fef8c95d125e582f00d8021544db89e1547a105cfab8e5ef58e8e17094d3568b#rd"/>
+        <updated>2025-12-30T00:00:00.000Z</updated>
+        <published>2025-12-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今日学习CSS style()样式查询及其range范围语法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506869&amp;idx=1&amp;sn=58e3ef1e731856a6406f5ed709072b9f&amp;chksm=ce45ce24f93247322f5e9544c193bd985605b7c07e4506eedea5f56c39d12528eb9812b70af7#rd"/>
         <updated>2025-12-10T00:00:00.000Z</updated>
         <published>2025-12-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML 的隐藏宝藏： 标签]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623494&amp;idx=2&amp;sn=36dd6338dd0696f95fce0603d8a6f5d5&amp;chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623494&amp;idx=2&amp;sn=36dd6338dd0696f95fce0603d8a6f5d5&amp;chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd"/>
-        <updated>2025-12-10T00:00:00.000Z</updated>
-        <published>2025-12-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们可以使用 Local Storage 代替 Context-Redux-Zustand 吗？]]></title>
-        <id>http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA</id>
-        <link href="http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA"/>
-        <updated>2025-12-09T00:00:00.000Z</updated>
-        <published>2025-12-09T00:00:00.000Z</published>
     </entry>
 </feed>

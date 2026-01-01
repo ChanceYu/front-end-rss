@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-12-31 12:29:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-01 22:10:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-12-31-【第3633期】管理依赖，其实是管理工程思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278317&idx=1&sn=553ce6e2c4ea7e5969e1a05673b1e22a&chksm=bc095cc4e70c049805f7fb984d16991d21e21f93c23de5c43306e5064b872a8625cec7e6fbb5&scene=0#rd) ![](/assets/new.png)  
+- [2025-12-31-【第3633期】管理依赖，其实是管理工程思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278317&idx=1&sn=553ce6e2c4ea7e5969e1a05673b1e22a&chksm=bc095cc4e70c049805f7fb984d16991d21e21f93c23de5c43306e5064b872a8625cec7e6fbb5&scene=0#rd)  
 - [2025-12-30-【早阅】技术债治理手册：五步作战计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278292&idx=1&sn=bf2044a51442a2d8090f5a78180b2a05&chksm=bceeb2eaa8cacbb3be658311bc880040751f56c9a94fe140efb9b60e41941b283f38128ed729&scene=0#rd)  
 - [2025-12-29-【第3632期】真相揭秘：JavaScript-中根本没有真正的“取消异步”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278276&idx=1&sn=3f36efc7cba4f4d0e2108117f7d66f69&chksm=bc032f9918cf025bb50e9bf1c45f46e8e89df5abb5982c78fbb71109ee4d914ed4e6586f5964&scene=0#rd)  
 - [2025-12-26-【早阅】谁才是你的-AI-职场搭档？这份数据告诉你答案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278272&idx=1&sn=7ca1a5f5d8554c86449b75c417c569e3&chksm=bc4b6552fa7a90475d7d7d7456fbdbf54929aae7dd2e5a6f88e993fe15337089f4d4a686d4aa&scene=0#rd)  
@@ -264,6 +264,8 @@
 </summary>
 
 
+- [2025-12-31-No-Vary-Search：用一个新-HTTP-头拯救你的缓存性能！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528775&idx=1&sn=1bcb1a325fdc8efb2c055fb79371b55f&chksm=f9927796cee5fe8068e37cf32398f8ea8cd343c03e6e197542d4254798c2c6329e78b9aae725#rd) ![](/assets/new.png)  
+- [2025-12-30-救火：一场递归树的性能突围战！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528767&idx=1&sn=71a84710fc40a8986554d463b7770285&chksm=f99277eecee5fef8c95d125e582f00d8021544db89e1547a105cfab8e5ef58e8e17094d3568b#rd) ![](/assets/new.png)  
 - [2025-12-25-浅谈-AI-搜索前端打字机效果的实现方案演进](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528688&idx=1&sn=5c3c0721d61fc7af8293735ff46238b6&chksm=f9927621cee5ff372e1564cf058c1ef4cab92afa31e3c06b64de441a8f3260b564c847e21856#rd)  
 - [2025-12-24-一种新HTML页面转换成-PDF-技术方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528681&idx=1&sn=c78a15d86c9379404c2c28f0c95c1f88&chksm=f9927638cee5ff2e1dfacb4ba7ca124f1a54b6112b6a67b0dd56c51852d43a1b7764c0064fac#rd)  
 - [2025-12-23-CSS-if-函数上线啦！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528668&idx=1&sn=1587f30ba73cecbdff86eab41dbd110f&chksm=f992760dcee5ff1b18a895a5329e1bd79728201b2d3f34f3c214d91ac29eae14bd24df1dd7a2#rd)  
@@ -282,8 +284,6 @@
 - [2025-12-03-让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528474&idx=1&sn=681f4c61971b9b12a1cd3a51a1a78358&chksm=f99276cbcee5ffddd8980918a34e9c4b1d3ffda7290cea0c20685dc321279c221175f35d698f#rd)  
 - [2025-12-02-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528464&idx=1&sn=c084dc23d23f92de05df673b682378dd&chksm=f99276c1cee5ffd73174c77f0cc350b4fe437af18b2c7a29ab684fe86a9d45b1b9bacfb18190#rd)  
 - [2025-12-01-用Demo理解Fiber](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528457&idx=1&sn=0dc4cecc85d377d00a29844c7eee6b4e&chksm=f99276d8cee5ffce0bc0e64c845960f9314f4efd3806f9a29472be15c6199eb1e38d4534662a#rd)  
-- [2025-11-27-Ant-Design-6.0-来了！这一次它终于想通了什么？](http://mp.weixin.qq.com/s/l8tS6pgqh1m5puxeO15w3w)  
-- [2025-11-26-当-AI-走进前端开发：代理插件的全流程开发实践](http://mp.weixin.qq.com/s/8jERE-l8BRTZeBw2mWkjxw)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
