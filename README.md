@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-02 02:15:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-02 06:10:38，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -140,26 +140,26 @@
 </summary>
 
 
+- [2025-12-31-“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623589&idx=1&sn=a16f484b141114904cd17bdb06366382&chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd) ![](/assets/new.png)  
+- [2025-12-31-前端一行代码生成数千页PDF，dompdf.js新增分页功能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623589&idx=2&sn=706fd8a7f0f83ea53281dded230e1241&chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd) ![](/assets/new.png)  
 - [2025-12-24-一种新HTML页面转换成-PDF-技术方案](http://mp.weixin.qq.com/s/IgttNByrz1_3ESzIY0Y4mQ)  
-- [2025-12-23-性能暴涨-3-倍！Prisma-7-颠覆性更新：放弃-Rust-拥抱-TypeScript！](http://mp.weixin.qq.com/s/bROMeTzXZ-Aup_QXZY41Fw)  
 - [2025-12-23-某度员工自称“滥竽充数-10-年”，精准躲过每次裁员。网友：他不是没能力，是没热情了](http://mp.weixin.qq.com/s/MOE79y6CuaUS_O3U8Ww9xg)  
-- [2025-12-22-1-天净赚-9.6-亿！字节火速给全员涨薪](http://mp.weixin.qq.com/s/Pl79btBKFgjfnkuwNCPSKg)  
+- [2025-12-23-性能暴涨-3-倍！Prisma-7-颠覆性更新：放弃-Rust-拥抱-TypeScript！](http://mp.weixin.qq.com/s/bROMeTzXZ-Aup_QXZY41Fw)  
 - [2025-12-22-如何用Claude-Code-生成顶级UI](http://mp.weixin.qq.com/s/CSj2oDCD_RxX2hkdLMt06w)  
-- [2025-12-19-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623546&idx=2&sn=77024551ec6cefcbbb14b4c9dec21081&chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd)  
+- [2025-12-22-1-天净赚-9.6-亿！字节火速给全员涨薪](http://mp.weixin.qq.com/s/Pl79btBKFgjfnkuwNCPSKg)  
 - [2025-12-19-VS-Code-重磅更新：新增智能体管理功能，但是下架免费代码补全工具。网友：微软你倒是说清楚](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623546&idx=1&sn=29fb73b4f44ba07213642366500afb4b&chksm=802247bbb755ceade4d8f19c7eb53abbb126c1730ef4a3cb846354ef4e8491426ba2ff5cc72e#rd)  
+- [2025-12-19-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623546&idx=2&sn=77024551ec6cefcbbb14b4c9dec21081&chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd)  
 - [2025-12-17-JavaScript还能这样写？！ES2025新语法让代码优雅到极致](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623535&idx=1&sn=5af68161cc72150298ed4a84ac721bcc&chksm=802247aeb755ceb8ea11dc5ed4d56da6fa54091f5fb6edff71fbc6e93cdfc9211f95aab67f60#rd)  
 - [2025-12-16-离谱！裁员裁出新高度了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623529&idx=1&sn=34e4080b3ff7c1a816d37f73b608a31f&chksm=802247a8b755cebe660e09e4148a17637285c73419d72593cf2e1b5601430a15a5cd4dc593cb#rd)  
-- [2025-12-15-借助图片懒加载触发-JavaScript-动态导入](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623523&idx=2&sn=86651ed0be205cc4b86a6efc43d8b6cb&chksm=802247a2b755ceb46f45aa6a45820970a51646279140427f120b786a24fdfa5f82cebe0eade0#rd)  
 - [2025-12-15-小扎忍痛！亲口宣告了元宇宙的死亡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623523&idx=1&sn=2fb040c113419defed12f9e12c97b98d&chksm=802247a2b755ceb4c6587da2bf19dfc7f16f77c68d90f25d229dd1a48f40efee4a51ddfbd280#rd)  
+- [2025-12-15-借助图片懒加载触发-JavaScript-动态导入](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623523&idx=2&sn=86651ed0be205cc4b86a6efc43d8b6cb&chksm=802247a2b755ceb46f45aa6a45820970a51646279140427f120b786a24fdfa5f82cebe0eade0#rd)  
 - [2025-12-12-JavaScript-性能提升-500%-的外挂！这是前端未来的趋势](http://mp.weixin.qq.com/s/zqIj9HxYz8vjXXPHXWwv-A)  
 - [2025-12-11-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623500&idx=1&sn=1957629b4e0b24f26b0de5b0d5a263da&chksm=8022478db755ce9b43662557ef38907509d1fbfd99c2558dfebaa2ac099e3209ad90384a3bd8#rd)  
-- [2025-12-10-HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=2&sn=36dd6338dd0696f95fce0603d8a6f5d5&chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd)  
 - [2025-12-10-库克告别苹果，“九子夺嫡”争夺CEO大战开始了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=1&sn=2ac196889f093d858b4fca74804178cf&chksm=80224787b755ce91fd753e3e93991a05640f5315b792193d038076541b0aee4600f80ffff3e3#rd)  
+- [2025-12-10-HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=2&sn=36dd6338dd0696f95fce0603d8a6f5d5&chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd)  
 - [2025-12-09-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623480&idx=1&sn=071097771f25a51dd17534813531620e&chksm=802247f9b755ceefac42fb267eb1afc8e225f821f7f2594926e6339c61815e274e8ff79e3db0#rd)  
-- [2025-12-08-就因为package.json里少了个^号，我们公司赔了客户十万块](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623475&idx=1&sn=99580c15cf25db76918e9e3142848f33&chksm=802247f2b755cee4c9263762629722e2a7955a95f2f5adcbb3a14e149cee15c127411f4ad845#rd)  
 - [2025-12-08-Cloudflare-被-React-坑了！两周内二次“翻车”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623475&idx=2&sn=502e8eea994a373f9f92d76582df70a2&chksm=802247f2b755cee49541e1c3585dfe2118a0f671503fe488f84397958ee769e6969444b89144#rd)  
-- [2025-12-06-面试：前端如何应对数百万个-API-请求而不会导致系统崩溃](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623461&idx=2&sn=ac0b16ad89afd9f061bc3c80d6a1666d&chksm=802247e4b755cef2b2315bb5e656ac8a19e7ca1891a5a12cab6b61cb324867a0fe4aad391291#rd)  
-- [2025-12-06-“豆包手机”使用了锤子科技Smartisan-OS祖传代码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623461&idx=1&sn=171d6a95e21420b9b6fd860aa2046246&chksm=802247e4b755cef2140790f778ad469cf4408dab92a9d353dd3ee84730b261d441f23e430214#rd)  
+- [2025-12-08-就因为package.json里少了个^号，我们公司赔了客户十万块](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623475&idx=1&sn=99580c15cf25db76918e9e3142848f33&chksm=802247f2b755cee4c9263762629722e2a7955a95f2f5adcbb3a14e149cee15c127411f4ad845#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-12-31-AI架构师的诞生：AI+传统DDD模式-=-实现开发效率提升75%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542368&idx=1&sn=a3b1e5cd65b7987557a586d667a56568&chksm=8390d938b4e7502e18ffab7fe753245003d76ffc2aa7b32632dcb38a5d22e4f7058547a6fafa#rd) ![](/assets/new.png)  
+- [2025-12-31-AI架构师的诞生：AI+传统DDD模式-=-实现开发效率提升75%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542368&idx=1&sn=a3b1e5cd65b7987557a586d667a56568&chksm=8390d938b4e7502e18ffab7fe753245003d76ffc2aa7b32632dcb38a5d22e4f7058547a6fafa#rd)  
 - [2025-12-29-天猫超市数据AI实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542344&idx=1&sn=0b99f66cdd7e0dc5224b751d9eda3628&chksm=8390d910b4e75006b44536cddcdb49b2eee3df4cdcedba726ec71e010b174bcaef4ea4b2e896#rd)  
 - [2025-12-24-AI-辅助前端动画开发](http://mp.weixin.qq.com/s/ag2W9-rpQEyQB9RmDkywCQ)  
 - [2025-12-22-从代码生成到自主决策：打造一个Coding驱动的“自我编程”Agent](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542164&idx=1&sn=6db14a557f822f58df04ade3d2121572&chksm=8390d84cb4e7515ae7f95e337c4b7ff6b5c5aae114aef826ec809386164fe0f67bc75a1b9b4b#rd)  

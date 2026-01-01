@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-02 02:15:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-02 06:10:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -36,6 +36,7 @@
 - [2019-02-17-【第1529期】GraphQL入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=1&sn=bd2dbaa1e192a63735b475b6a351ae99#wechat_redirect) 
 - [2019-01-30-【招聘】富途证券诚招前端开发-和-PHP开发（14k~28k）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=3&sn=f0c1e814148ea709f88d79976ecd136a#wechat_redirect) 
 - [2018-10-24-【招聘】深圳零一裂变招PHP、前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=2&sn=1f7932c8da5b94de4b9a92c655a642da#wechat_redirect) 
+- [2025-12-31-“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623589&idx=1&sn=a16f484b141114904cd17bdb06366382&chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd) 
 - [2025-11-14-前端到底用Nginx来做啥](http://mp.weixin.qq.com/s/Ogs24couSbJD6Db15eXxqw) 
 - [2025-07-22-快速掌握-Docker：前端开发者也能轻松玩转容器化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622815&idx=2&sn=61a9dd13983d41ca1e536ef52a3848f5&chksm=80225a5eb755d348eed1195e56ebd09aee148dee6311c4390c73722eb6ec7cf9b2d4c21aee05#rd) 
 - [2025-05-26-Java-之父怒斥：AI-是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622523&idx=1&sn=6d41ee9991b52c3a8dfbe51a783e01aa&chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd) 

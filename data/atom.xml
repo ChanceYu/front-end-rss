@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-01T18:15:49.479Z</updated>
+    <updated>2026-01-01T22:10:38.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,20 @@
         <title type="html"><![CDATA[No-Vary-Search：用一个新 HTTP 头拯救你的缓存性能！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528775&amp;idx=1&amp;sn=1bcb1a325fdc8efb2c055fb79371b55f&amp;chksm=f9927796cee5fe8068e37cf32398f8ea8cd343c03e6e197542d4254798c2c6329e78b9aae725#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528775&amp;idx=1&amp;sn=1bcb1a325fdc8efb2c055fb79371b55f&amp;chksm=f9927796cee5fe8068e37cf32398f8ea8cd343c03e6e197542d4254798c2c6329e78b9aae725#rd"/>
+        <updated>2025-12-31T00:00:00.000Z</updated>
+        <published>2025-12-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd"/>
+        <updated>2025-12-31T00:00:00.000Z</updated>
+        <published>2025-12-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd"/>
         <updated>2025-12-31T00:00:00.000Z</updated>
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278138&amp;idx=1&amp;sn=695b4035b94470500180e5e1215d108c&amp;chksm=bc98f2b1a736b5c91a656e34fedcec676dff2cf32a280d209632614af5e1d4a820237eb560bf&amp;scene=0#rd"/>
         <updated>2025-12-11T00:00:00.000Z</updated>
         <published>2025-12-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jimi：打造Java程序员专属的开源ClaudeCode]]></title>
-        <id>http://mp.weixin.qq.com/s/a6zOCKaBey0IQnywOd4xWg</id>
-        <link href="http://mp.weixin.qq.com/s/a6zOCKaBey0IQnywOd4xWg"/>
-        <updated>2025-12-10T00:00:00.000Z</updated>
-        <published>2025-12-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 性能提升 500% 的外挂！这是前端未来的趋势]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506869&amp;idx=1&amp;sn=58e3ef1e731856a6406f5ed709072b9f&amp;chksm=ce45ce24f93247322f5e9544c193bd985605b7c07e4506eedea5f56c39d12528eb9812b70af7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247506869&amp;idx=1&amp;sn=58e3ef1e731856a6406f5ed709072b9f&amp;chksm=ce45ce24f93247322f5e9544c193bd985605b7c07e4506eedea5f56c39d12528eb9812b70af7#rd"/>
-        <updated>2025-12-10T00:00:00.000Z</updated>
-        <published>2025-12-10T00:00:00.000Z</published>
     </entry>
 </feed>
