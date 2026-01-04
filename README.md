@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-05 02:14:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-05 06:10:02，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,9 +23,9 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -202,6 +202,10 @@
 </summary>
 
 
+- [2026-01-04-天塌了！DeepSeek-的-AI-域名被恶意抢占！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507472&idx=1&sn=8fb745a131ed9d9cee048302501f444e&chksm=ce45cb81f93242976b367dcfceabb114fb142a38afd6d6d29872b0507ef72d6ff1cce79e8ac5#rd) ![](/assets/new.png)  
+- [2026-01-03-年终奖到账！25薪+70%涨幅](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507446&idx=1&sn=cc3088a476c88cdc2d3281fefba97252&chksm=ce45c867f932417195570fcbdcf26556815fc35c3f9ba7f48986201e26f0a54907e9ff56f095#rd) ![](/assets/new.png)  
+- [2026-01-02-雷军团队宣布：小米正式开源！免费！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507426&idx=1&sn=bb041a6cec30b391f65c73c1ed4cabae&chksm=ce45c873f93241652f60f81512ddf7ab037d355407853f65d09310a7fbff581f771839aeec6e#rd) ![](/assets/new.png)  
+- [2026-01-01-罗永浩发布会翻车！现场大喊“退票”！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507413&idx=1&sn=9609b3e7ce458c8b8c6a52ef4ebc8783&chksm=ce45c844f9324152e8a8edf7b0a4dfd51ac20a6fd0b272adadefa021533d3a7ff91625cc437b#rd) ![](/assets/new.png)  
 - [2025-12-30-切记！程序员，千万不要碰-OA-项目！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507350&idx=1&sn=4ee6ddea34a2c526e8e22d08f9e0b385&chksm=ce45c807f9324111d198676b5e1a4ebdb3b216329fc3df702f44ce088b244b2d7349fd82bfa6#rd)  
 - [2025-12-29-VSCode-宣布改名！全面-AI-的时代到来！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507325&idx=1&sn=d51da71ecb4fda794053c1604314b8e1&chksm=ce45c8ecf93241fa60804be28bad8eadd0022b922fc46c857d11e6e9bcb4eb511620839f83eb#rd)  
 - [2025-12-27-又又又被领导辱骂了，这次我选择了反抗！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507265&idx=1&sn=027368c941554cd4314f189e504bf759&chksm=ce45c8d0f93241c6044e9e0d4ed8cfb45ea4e7e2998b97988063c399219d83926825c41e574d#rd)  
@@ -218,10 +222,6 @@
 - [2025-12-16-灾难性-BUG！React-团队正在连夜修复！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507037&idx=1&sn=ac0277713fdd3f5b5063e22ca9608b77&chksm=ce45c9ccf93240da8c4907c4df6ee1cdadcb06ab44691701f47020dbfdb8a3ea937dbf3c92a5#rd)  
 - [2025-12-15-尤雨溪亲自重构！Vite-速度提升-30-倍](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507016&idx=1&sn=56fe78f43e7819ed6ffea3d5df4b002c&chksm=ce45c9d9f93240cf593dd4f8dfb17d488a5b17fac7b7a5abdc4639a9ff2bdd8b5d2f84b62937#rd)  
 - [2025-12-14-刚刚！尤雨溪宣布-Vue-语言三大更新](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507001&idx=1&sn=bb7dd07f330f8f6a17fdd357cc107fa9&chksm=ce45c9a8f93240be421b6b8e8c01ec1281ef7b2934dd6442db543022fab5a153e5bcb0fc65aa#rd)  
-- [2025-12-12-2025-Vue-最全的生态工具组合推荐指南](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506913&idx=1&sn=5ad8d474b68a28520855f9beaae97b86&chksm=ce45ce70f93247667cdbc86267ac49edaae09fa5284c414a719a7a94c9a9163e8973fc6d2f20#rd)  
-- [2025-12-11-前端实现：微信的高性能拼音搜索！](http://mp.weixin.qq.com/s/zUBAxu5s1SglQWmzamVhhQ)  
-- [2025-12-10-JavaScript-性能提升-500%-的外挂！这是前端未来的趋势](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506869&idx=1&sn=58e3ef1e731856a6406f5ed709072b9f&chksm=ce45ce24f93247322f5e9544c193bd985605b7c07e4506eedea5f56c39d12528eb9812b70af7#rd)  
-- [2025-12-09-前端如何静悄悄录制用户的操作过程，静悄悄上传到服务器~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506863&idx=1&sn=d3e1b6631188f2df0436d9ce91612e1c&chksm=ce45ce3ef9324728a0603de56f624108eb455e20e0f66bd6ea80353d5201c9e9d7d57f100a84#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,7 +264,7 @@
 </summary>
 
 
-- [2026-01-04-写Tailwind-CSS像在写屎山？这锅该不该它背](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528781&idx=1&sn=f80e88a5d32b1ebda4632d7846412bd0&chksm=f992779ccee5fe8ab9915d3a73abc9f292ca6ba5b449f6eaace79e1db1b85ba61f0fd4207920#rd) ![](/assets/new.png)  
+- [2026-01-04-写Tailwind-CSS像在写屎山？这锅该不该它背](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528781&idx=1&sn=f80e88a5d32b1ebda4632d7846412bd0&chksm=f992779ccee5fe8ab9915d3a73abc9f292ca6ba5b449f6eaace79e1db1b85ba61f0fd4207920#rd)  
 - [2025-12-31-No-Vary-Search：用一个新-HTTP-头拯救你的缓存性能！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528775&idx=1&sn=1bcb1a325fdc8efb2c055fb79371b55f&chksm=f9927796cee5fe8068e37cf32398f8ea8cd343c03e6e197542d4254798c2c6329e78b9aae725#rd)  
 - [2025-12-30-救火：一场递归树的性能突围战！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528767&idx=1&sn=71a84710fc40a8986554d463b7770285&chksm=f99277eecee5fef8c95d125e582f00d8021544db89e1547a105cfab8e5ef58e8e17094d3568b#rd)  
 - [2025-12-25-浅谈-AI-搜索前端打字机效果的实现方案演进](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528688&idx=1&sn=5c3c0721d61fc7af8293735ff46238b6&chksm=f9927621cee5ff372e1564cf058c1ef4cab92afa31e3c06b64de441a8f3260b564c847e21856#rd)  
