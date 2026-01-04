@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-03T08:14:19.602Z</updated>
+    <updated>2026-01-04T04:41:03.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3634期】React Grab for Agents：让浏览器直接变成你的智能编码助手]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278322&amp;idx=1&amp;sn=c43cce27b410fbb89591247416026b52&amp;chksm=bcade6422588c9d2478ee099e5a845982be3fc422b77b6b6ea7270e951d3442f736400efd6d1&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278322&amp;idx=1&amp;sn=c43cce27b410fbb89591247416026b52&amp;chksm=bcade6422588c9d2478ee099e5a845982be3fc422b77b6b6ea7270e951d3442f736400efd6d1&amp;scene=0#rd"/>
+        <updated>2026-01-04T00:00:00.000Z</updated>
+        <published>2026-01-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[vue 难受了！solid.js 一个小改变，让 vue vapor 很尴尬]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517499&amp;idx=1&amp;sn=6c933f1e0cf2c0a78518513fabb9dd23&amp;chksm=eb07bd42dc7034542a7eb89914f2d8545c985a818e1662cdcafb120a175e7fa6072e77b95fad#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[从崩溃到优雅：Node.js 错误处理的正确姿势]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528526&amp;idx=1&amp;sn=4fd1d8ec5631d9e3da7e632569839185&amp;chksm=f992769fcee5ff8995420219b5d8fbdb0e4edd25a581d1fdea033825a6c3ea516ede8449e164#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528526&amp;idx=1&amp;sn=4fd1d8ec5631d9e3da7e632569839185&amp;chksm=f992769fcee5ff8995420219b5d8fbdb0e4edd25a581d1fdea033825a6c3ea516ede8449e164#rd"/>
-        <updated>2025-12-11T00:00:00.000Z</updated>
-        <published>2025-12-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端实现：微信的高性能拼音搜索！]]></title>
-        <id>http://mp.weixin.qq.com/s/zUBAxu5s1SglQWmzamVhhQ</id>
-        <link href="http://mp.weixin.qq.com/s/zUBAxu5s1SglQWmzamVhhQ"/>
         <updated>2025-12-11T00:00:00.000Z</updated>
         <published>2025-12-11T00:00:00.000Z</published>
     </entry>

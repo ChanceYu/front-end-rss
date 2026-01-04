@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-03 16:14:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-04 12:41:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2026-01-04-【第3634期】React-Grab-for-Agents：让浏览器直接变成你的智能编码助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278322&idx=1&sn=c43cce27b410fbb89591247416026b52&chksm=bcade6422588c9d2478ee099e5a845982be3fc422b77b6b6ea7270e951d3442f736400efd6d1&scene=0#rd) ![](/assets/new.png)  
 - [2025-12-31-【第3633期】管理依赖，其实是管理工程思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278317&idx=1&sn=553ce6e2c4ea7e5969e1a05673b1e22a&chksm=bc095cc4e70c049805f7fb984d16991d21e21f93c23de5c43306e5064b872a8625cec7e6fbb5&scene=0#rd)  
 - [2025-12-30-【早阅】技术债治理手册：五步作战计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278292&idx=1&sn=bf2044a51442a2d8090f5a78180b2a05&chksm=bceeb2eaa8cacbb3be658311bc880040751f56c9a94fe140efb9b60e41941b283f38128ed729&scene=0#rd)  
 - [2025-12-29-【第3632期】真相揭秘：JavaScript-中根本没有真正的“取消异步”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278276&idx=1&sn=3f36efc7cba4f4d0e2108117f7d66f69&chksm=bc032f9918cf025bb50e9bf1c45f46e8e89df5abb5982c78fbb71109ee4d914ed4e6586f5964&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-12-09-【第3623期】从混乱到纯净：用-Effect-System-重塑你的-JS-架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278107&idx=1&sn=93a5e42214119670b46eb3168701e2d4&chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&scene=0#rd)  
 - [2025-12-08-【早阅】深入理解-Web-Components：如何利用自定义元素和-Shadow-DOM-打造可复用表单组件？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278080&idx=1&sn=8c662524c3c1d64fff6d988898dbe8bd&chksm=bc3973b23de9ca62f3c7b9615bdb4d01651ae5305496415bde7b6d9b982082225f7b2364050a&scene=0#rd)  
 - [2025-12-05-【第3622期】深入浅出：用-URLPattern-打造轻量级-SPA-路由](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278071&idx=1&sn=3bc9e4bb8bdd2e318b79450b8779891c&chksm=bc88d5790df6abc16a00b3fbe3ad6bdd84c158f5821a8ccbf0f74b033edf00af06af00b0e27b&scene=0#rd)  
-- [2025-12-04-【早阅】10倍工程：生成式AI工具如何转团队生产力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278066&idx=1&sn=172add087fcbee6363473f6aa82f78ed&chksm=bc64338ecb90a06f11c002796c5e958bca86baf16288609f320fc11b40c0d70e7a5251db01ae&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -419,7 +419,7 @@
 </summary>
 
 
-- [2025-12-31-vue-难受了！solid.js-一个小改变，让-vue-vapor-很尴尬](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517499&idx=1&sn=6c933f1e0cf2c0a78518513fabb9dd23&chksm=eb07bd42dc7034542a7eb89914f2d8545c985a818e1662cdcafb120a175e7fa6072e77b95fad#rd) ![](/assets/new.png)  
+- [2025-12-31-vue-难受了！solid.js-一个小改变，让-vue-vapor-很尴尬](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517499&idx=1&sn=6c933f1e0cf2c0a78518513fabb9dd23&chksm=eb07bd42dc7034542a7eb89914f2d8545c985a818e1662cdcafb120a175e7fa6072e77b95fad#rd)  
 - [2025-12-29-基于微前端-qiankun-多实例保活的工程实践](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517497&idx=1&sn=edf562d56c8ca413ffe894bf20ee5e2d&chksm=eb07bd40dc703456f1307436133b6c3d5c88536ff38cc7c8a3b94e26345db3ac6431146eeb41#rd)  
 - [2025-12-26-尤雨溪：Vue-3.6-beta.1-正式发布！史诗级更新！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517495&idx=1&sn=f849a71324a1a34ce3fb1ab67afcd42e&chksm=eb07bd4edc7034581c367f1add585d1a1aeab84d3fbb37832aeee06958b6e7aa8c6d6c9c01c9#rd)  
 - [2025-12-23-为什么-next.js-也适合后台管理系统](http://mp.weixin.qq.com/s/o4vSfWPkdHDYq0NCRd9tNQ)  
