@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-04T22:10:03.233Z</updated>
+    <updated>2026-01-05T04:48:52.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3635期】用 JavaScript + JSDoc + tsc，优雅取代 TypeScript 的最佳实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278339&amp;idx=1&amp;sn=dbccbeb9b02e73028a780dc2543b8272&amp;chksm=bca0ffbe96b15621c40adabadaa7dea82c5c57e29ca920c903bd94b6cfcf87bb5afbb0002ccf&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278339&amp;idx=1&amp;sn=dbccbeb9b02e73028a780dc2543b8272&amp;chksm=bca0ffbe96b15621c40adabadaa7dea82c5c57e29ca920c903bd94b6cfcf87bb5afbb0002ccf&amp;scene=0#rd"/>
+        <updated>2026-01-05T00:00:00.000Z</updated>
+        <published>2026-01-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写Tailwind CSS像在写屎山？这锅该不该它背]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528781&amp;idx=1&amp;sn=f80e88a5d32b1ebda4632d7846412bd0&amp;chksm=f992779ccee5fe8ab9915d3a73abc9f292ca6ba5b449f6eaace79e1db1b85ba61f0fd4207920#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/765"/>
         <updated>2025-12-12T00:00:00.000Z</updated>
         <published>2025-12-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 性能提升 500% 的外挂！这是前端未来的趋势]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517475&amp;idx=1&amp;sn=0385e90aa0a8af54a8b1d217495ab9bc&amp;chksm=eb07bd5adc70344cf2b30c5276f35f048d447653788ec2c744f5b85fe1c1cdd9612fd70998ad#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517475&amp;idx=1&amp;sn=0385e90aa0a8af54a8b1d217495ab9bc&amp;chksm=eb07bd5adc70344cf2b30c5276f35f048d447653788ec2c744f5b85fe1c1cdd9612fd70998ad#rd"/>
-        <updated>2025-12-11T00:00:00.000Z</updated>
-        <published>2025-12-11T00:00:00.000Z</published>
     </entry>
 </feed>

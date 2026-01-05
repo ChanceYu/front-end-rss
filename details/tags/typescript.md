@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-05 06:10:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-05 12:48:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -29,6 +29,7 @@
 - [2022-10-07-Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609) 
 - [2022-09-30-How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608) 
 - [2022-03-04-TypeScript-2.6-released](https://javascriptweekly.com/issues/579) 
+- [2026-01-05-【第3635期】用-JavaScript-+-JSDoc-+-tsc，优雅取代-TypeScript-的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278339&idx=1&sn=dbccbeb9b02e73028a780dc2543b8272&chksm=bca0ffbe96b15621c40adabadaa7dea82c5c57e29ca920c903bd94b6cfcf87bb5afbb0002ccf&scene=0#rd) 
 - [2025-12-15-【第3625期】写-TypeScript-不等于安全：边界设计才是关键](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278175&idx=1&sn=2da60babc2929aa6137423c66bf21839&chksm=bc96ef2f0161c5a2625b5a196ade70001eaf73842718424ae3e5913e03e6594be6a724393df8&scene=0#rd) 
 - [2025-07-16-【第3551期】使用-Bun/TypeScript-在-10-秒内解析-10-亿行数据](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276991&idx=1&sn=1e374e8041e320a3c4de3a10f23edc7e&chksm=bc4cf84301586f6773ccc57e292b3366e41917c562baf9e1b3bb87e04f5e2e310dd88bd1a159&scene=0#rd) 
 - [2023-09-27-【第3071期】TypeScript纪录片---开创微软的开源之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266067&idx=1&sn=efd469afca51169b6a565a920b931585&chksm=bd48c5978a3f4c814012a15ca21ad57048219937ad898bd61c9ecc6a6dee53c1388a86420a62#rd) 

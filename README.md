@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-05 06:10:02，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-05 12:48:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2026-01-05-【第3635期】用-JavaScript-+-JSDoc-+-tsc，优雅取代-TypeScript-的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278339&idx=1&sn=dbccbeb9b02e73028a780dc2543b8272&chksm=bca0ffbe96b15621c40adabadaa7dea82c5c57e29ca920c903bd94b6cfcf87bb5afbb0002ccf&scene=0#rd) ![](/assets/new.png)  
 - [2026-01-04-【第3634期】React-Grab-for-Agents：让浏览器直接变成你的智能编码助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278322&idx=1&sn=c43cce27b410fbb89591247416026b52&chksm=bcade6422588c9d2478ee099e5a845982be3fc422b77b6b6ea7270e951d3442f736400efd6d1&scene=0#rd)  
 - [2025-12-31-【第3633期】管理依赖，其实是管理工程思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278317&idx=1&sn=553ce6e2c4ea7e5969e1a05673b1e22a&chksm=bc095cc4e70c049805f7fb984d16991d21e21f93c23de5c43306e5064b872a8625cec7e6fbb5&scene=0#rd)  
 - [2025-12-30-【早阅】技术债治理手册：五步作战计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278292&idx=1&sn=bf2044a51442a2d8090f5a78180b2a05&chksm=bceeb2eaa8cacbb3be658311bc880040751f56c9a94fe140efb9b60e41941b283f38128ed729&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-12-10-【早阅】复杂代码库中的AI提效秘籍：如何通过上下文工程避开大模型的“愚蠢区”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278125&idx=1&sn=689d86070f1fcdc4534398b94e55b494&chksm=bc7da969ce5e245b650b36a10d491c426490935f40f3a13e2ee7c8216f3663d3dc0b8d3d757e&scene=0#rd)  
 - [2025-12-09-【第3623期】从混乱到纯净：用-Effect-System-重塑你的-JS-架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278107&idx=1&sn=93a5e42214119670b46eb3168701e2d4&chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&scene=0#rd)  
 - [2025-12-08-【早阅】深入理解-Web-Components：如何利用自定义元素和-Shadow-DOM-打造可复用表单组件？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278080&idx=1&sn=8c662524c3c1d64fff6d988898dbe8bd&chksm=bc3973b23de9ca62f3c7b9615bdb4d01651ae5305496415bde7b6d9b982082225f7b2364050a&scene=0#rd)  
-- [2025-12-05-【第3622期】深入浅出：用-URLPattern-打造轻量级-SPA-路由](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278071&idx=1&sn=3bc9e4bb8bdd2e318b79450b8779891c&chksm=bc88d5790df6abc16a00b3fbe3ad6bdd84c158f5821a8ccbf0f74b033edf00af06af00b0e27b&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,10 +202,10 @@
 </summary>
 
 
-- [2026-01-04-天塌了！DeepSeek-的-AI-域名被恶意抢占！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507472&idx=1&sn=8fb745a131ed9d9cee048302501f444e&chksm=ce45cb81f93242976b367dcfceabb114fb142a38afd6d6d29872b0507ef72d6ff1cce79e8ac5#rd) ![](/assets/new.png)  
-- [2026-01-03-年终奖到账！25薪+70%涨幅](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507446&idx=1&sn=cc3088a476c88cdc2d3281fefba97252&chksm=ce45c867f932417195570fcbdcf26556815fc35c3f9ba7f48986201e26f0a54907e9ff56f095#rd) ![](/assets/new.png)  
-- [2026-01-02-雷军团队宣布：小米正式开源！免费！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507426&idx=1&sn=bb041a6cec30b391f65c73c1ed4cabae&chksm=ce45c873f93241652f60f81512ddf7ab037d355407853f65d09310a7fbff581f771839aeec6e#rd) ![](/assets/new.png)  
-- [2026-01-01-罗永浩发布会翻车！现场大喊“退票”！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507413&idx=1&sn=9609b3e7ce458c8b8c6a52ef4ebc8783&chksm=ce45c844f9324152e8a8edf7b0a4dfd51ac20a6fd0b272adadefa021533d3a7ff91625cc437b#rd) ![](/assets/new.png)  
+- [2026-01-04-天塌了！DeepSeek-的-AI-域名被恶意抢占！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507472&idx=1&sn=8fb745a131ed9d9cee048302501f444e&chksm=ce45cb81f93242976b367dcfceabb114fb142a38afd6d6d29872b0507ef72d6ff1cce79e8ac5#rd)  
+- [2026-01-03-年终奖到账！25薪+70%涨幅](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507446&idx=1&sn=cc3088a476c88cdc2d3281fefba97252&chksm=ce45c867f932417195570fcbdcf26556815fc35c3f9ba7f48986201e26f0a54907e9ff56f095#rd)  
+- [2026-01-02-雷军团队宣布：小米正式开源！免费！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507426&idx=1&sn=bb041a6cec30b391f65c73c1ed4cabae&chksm=ce45c873f93241652f60f81512ddf7ab037d355407853f65d09310a7fbff581f771839aeec6e#rd)  
+- [2026-01-01-罗永浩发布会翻车！现场大喊“退票”！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507413&idx=1&sn=9609b3e7ce458c8b8c6a52ef4ebc8783&chksm=ce45c844f9324152e8a8edf7b0a4dfd51ac20a6fd0b272adadefa021533d3a7ff91625cc437b#rd)  
 - [2025-12-30-切记！程序员，千万不要碰-OA-项目！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507350&idx=1&sn=4ee6ddea34a2c526e8e22d08f9e0b385&chksm=ce45c807f9324111d198676b5e1a4ebdb3b216329fc3df702f44ce088b244b2d7349fd82bfa6#rd)  
 - [2025-12-29-VSCode-宣布改名！全面-AI-的时代到来！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507325&idx=1&sn=d51da71ecb4fda794053c1604314b8e1&chksm=ce45c8ecf93241fa60804be28bad8eadd0022b922fc46c857d11e6e9bcb4eb511620839f83eb#rd)  
 - [2025-12-27-又又又被领导辱骂了，这次我选择了反抗！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507265&idx=1&sn=027368c941554cd4314f189e504bf759&chksm=ce45c8d0f93241c6044e9e0d4ed8cfb45ea4e7e2998b97988063c399219d83926825c41e574d#rd)  
