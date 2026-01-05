@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-05T10:14:27.931Z</updated>
+    <updated>2026-01-05T18:17:39.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278339&amp;idx=1&amp;sn=dbccbeb9b02e73028a780dc2543b8272&amp;chksm=bca0ffbe96b15621c40adabadaa7dea82c5c57e29ca920c903bd94b6cfcf87bb5afbb0002ccf&amp;scene=0#rd"/>
         <updated>2026-01-05T00:00:00.000Z</updated>
         <published>2026-01-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite8 官网、Logo 换新！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517501&amp;idx=1&amp;sn=cb25f81cde3bdf560d4dabca6b9cc872&amp;chksm=eb07bd44dc703452a3b052b36dd505cdf29373898ecd4e8491aed5051c275f367fb3b6ae465e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517501&amp;idx=1&amp;sn=cb25f81cde3bdf560d4dabca6b9cc872&amp;chksm=eb07bd44dc703452a3b052b36dd505cdf29373898ecd4e8491aed5051c275f367fb3b6ae465e#rd"/>
+        <updated>2026-01-04T00:00:00.000Z</updated>
+        <published>2026-01-04T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[写Tailwind CSS像在写屎山？这锅该不该它背]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[JavaScript 性能提升 500% 的外挂！这是前端未来的趋势]]></title>
         <id>http://mp.weixin.qq.com/s/zqIj9HxYz8vjXXPHXWwv-A</id>
         <link href="http://mp.weixin.qq.com/s/zqIj9HxYz8vjXXPHXWwv-A"/>
-        <updated>2025-12-12T00:00:00.000Z</updated>
-        <published>2025-12-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】LLM 时代的前端革命：React 不再是框架，而是平台]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278142&amp;idx=1&amp;sn=c310375429ed17ec469ff84e61e56d6f&amp;chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278142&amp;idx=1&amp;sn=c310375429ed17ec469ff84e61e56d6f&amp;chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&amp;scene=0#rd"/>
         <updated>2025-12-12T00:00:00.000Z</updated>
         <published>2025-12-12T00:00:00.000Z</published>
     </entry>
