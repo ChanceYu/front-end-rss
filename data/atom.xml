@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-07T14:14:49.543Z</updated>
+    <updated>2026-01-07T20:12:33.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[No-Vary-Search：用一个新 HTTP 头拯救你的缓存性能！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623680&amp;idx=2&amp;sn=0e51e6839802d84831699fa5c8a5bbce&amp;chksm=802246c1b755cfd7fc6a22a359a5489dc6bf5cce4165d75128a6ff7c1df7ead91142a405895a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623680&amp;idx=2&amp;sn=0e51e6839802d84831699fa5c8a5bbce&amp;chksm=802246c1b755cfd7fc6a22a359a5489dc6bf5cce4165d75128a6ff7c1df7ead91142a405895a#rd"/>
+        <updated>2026-01-07T00:00:00.000Z</updated>
+        <published>2026-01-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3637期】跨浏览器 Canvas 图像解码终极方案：让大图渲染也能丝滑不卡顿]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278364&amp;idx=1&amp;sn=0bbaa9b16eda03067396f840cdf1da4a&amp;chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&amp;scene=0#rd</id>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[公司 React 应用感觉很慢，我把没必要的重复渲染砍掉了 40%!]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528820&amp;idx=1&amp;sn=3df4c71c941a7b1670226aabf7c2ee64&amp;chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528820&amp;idx=1&amp;sn=3df4c71c941a7b1670226aabf7c2ee64&amp;chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd"/>
+        <updated>2026-01-05T00:00:00.000Z</updated>
+        <published>2026-01-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大多数开发者都错误地使用了Prettier]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623605&amp;idx=2&amp;sn=3ca7742a108174fccbb2a1d7efc89aea&amp;chksm=80224774b755ce62e37b9b2830d71c92e3bcd9e2f9841e42de39350ef796f38c930ac2d0c75f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623605&amp;idx=2&amp;sn=3ca7742a108174fccbb2a1d7efc89aea&amp;chksm=80224774b755ce62e37b9b2830d71c92e3bcd9e2f9841e42de39350ef796f38c930ac2d0c75f#rd"/>
         <updated>2026-01-05T00:00:00.000Z</updated>
         <published>2026-01-05T00:00:00.000Z</published>
     </entry>
@@ -92,16 +106,16 @@
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd"/>
+        <title type="html"><![CDATA[“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd"/>
         <updated>2025-12-31T00:00:00.000Z</updated>
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd"/>
+        <title type="html"><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd"/>
         <updated>2025-12-31T00:00:00.000Z</updated>
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278175&amp;idx=1&amp;sn=2da60babc2929aa6137423c66bf21839&amp;chksm=bc96ef2f0161c5a2625b5a196ade70001eaf73842718424ae3e5913e03e6594be6a724393df8&amp;scene=0#rd"/>
         <updated>2025-12-15T00:00:00.000Z</updated>
         <published>2025-12-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚！尤雨溪宣布 Vue 语言三大更新]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507001&amp;idx=1&amp;sn=bb7dd07f330f8f6a17fdd357cc107fa9&amp;chksm=ce45c9a8f93240be421b6b8e8c01ec1281ef7b2934dd6442db543022fab5a153e5bcb0fc65aa#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507001&amp;idx=1&amp;sn=bb7dd07f330f8f6a17fdd357cc107fa9&amp;chksm=ce45c9a8f93240be421b6b8e8c01ec1281ef7b2934dd6442db543022fab5a153e5bcb0fc65aa#rd"/>
-        <updated>2025-12-14T00:00:00.000Z</updated>
-        <published>2025-12-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526407&amp;idx=1&amp;sn=927074d89c3d51f41041e230de48c673&amp;chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526407&amp;idx=1&amp;sn=927074d89c3d51f41041e230de48c673&amp;chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd"/>
-        <updated>2025-12-14T00:00:00.000Z</updated>
-        <published>2025-12-14T00:00:00.000Z</published>
     </entry>
 </feed>

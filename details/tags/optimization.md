@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-07 22:14:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-08 04:12:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -83,6 +83,7 @@
 - [2018-11-04-【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect) 
 - [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect) 
 - [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) 
+- [2026-01-07-No-Vary-Search：用一个新-HTTP-头拯救你的缓存性能！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623680&idx=2&sn=0e51e6839802d84831699fa5c8a5bbce&chksm=802246c1b755cfd7fc6a22a359a5489dc6bf5cce4165d75128a6ff7c1df7ead91142a405895a#rd) 
 - [2025-12-04-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623436&idx=2&sn=438137b1ae67d3a54a3066d11c1d82c1&chksm=802247cdb755cedb0abf2190987ea07380ccc16d5907c5bd57867c3c78a2d5ea5adef73f9597#rd) 
 - [2025-11-20-用这-9-个-API，我把页面性能干到了-90+](http://mp.weixin.qq.com/s/8Ur3qZPzpgaCmdv6XUZv5A) 
 - [2025-10-17-裁裁裁！亚洲最大-IT-外包公司裁员-19755-人，后面还有“优化”大动作](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623197&idx=1&sn=2a59b8914c179e0305fb69b1b824b512&chksm=802258dcb755d1ca4c569f4f3de9d6b0335ea94a1add0fffbf0840385b0b4c22c17185a6a6e9#rd) 
