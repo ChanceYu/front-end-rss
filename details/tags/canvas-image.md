@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-07 11:22:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-07 12:31:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd) 
 - [2025-12-11-【第3624期】SVG-Filters---Clickjacking-2.0：一种全新的网络攻击技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278138&idx=1&sn=695b4035b94470500180e5e1215d108c&chksm=bc98f2b1a736b5c91a656e34fedcec676dff2cf32a280d209632614af5e1d4a820237eb560bf&scene=0#rd) 
 - [2024-01-28-【第3183期】神奇的-3D-卡片反光闪烁动效](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268973&idx=1&sn=081c8c6b75c91c1ed91d460e76e1759f&chksm=bd48fee98a3f77ff4a1a79c2b4b066b58ee19b5ddc91349227b42bfffce86f8975e6419bd092#rd) 
 - [2024-01-25-【第3180期】WebGL-Chromakey-实时绿幕抠图](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268890&idx=1&sn=9090c67708057c950d1b3cafa7f21433&chksm=bd48fe9e8a3f77887e4acc991a7b59ff15406fbddf453906e04ef3b8ad9f1a6e8a6679f4de7f#rd) 

@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-07 11:22:00，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-07 12:31:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd) ![](/assets/new.png)  
 - [2026-01-06-【第3636期】深度解读：React-+-Next.js打造高性能Web应用的实战经验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278350&idx=1&sn=b0ed516b541595cacb1742bf2aa5aedd&chksm=bc30ea23882499f970364b4a2de0efbb9a71343e4684ed5e07bd5cbd68a9390b9f6b541d17a5&scene=0#rd)  
 - [2026-01-05-【第3635期】用-JavaScript-+-JSDoc-+-tsc，优雅取代-TypeScript-的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278339&idx=1&sn=dbccbeb9b02e73028a780dc2543b8272&chksm=bca0ffbe96b15621c40adabadaa7dea82c5c57e29ca920c903bd94b6cfcf87bb5afbb0002ccf&scene=0#rd)  
 - [2026-01-04-【第3634期】React-Grab-for-Agents：让浏览器直接变成你的智能编码助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278322&idx=1&sn=c43cce27b410fbb89591247416026b52&chksm=bcade6422588c9d2478ee099e5a845982be3fc422b77b6b6ea7270e951d3442f736400efd6d1&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-12-12-【早阅】LLM-时代的前端革命：React-不再是框架，而是平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278142&idx=1&sn=c310375429ed17ec469ff84e61e56d6f&chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&scene=0#rd)  
 - [2025-12-11-【第3624期】SVG-Filters---Clickjacking-2.0：一种全新的网络攻击技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278138&idx=1&sn=695b4035b94470500180e5e1215d108c&chksm=bc98f2b1a736b5c91a656e34fedcec676dff2cf32a280d209632614af5e1d4a820237eb560bf&scene=0#rd)  
 - [2025-12-10-【早阅】复杂代码库中的AI提效秘籍：如何通过上下文工程避开大模型的“愚蠢区”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278125&idx=1&sn=689d86070f1fcdc4534398b94e55b494&chksm=bc7da969ce5e245b650b36a10d491c426490935f40f3a13e2ee7c8216f3663d3dc0b8d3d757e&scene=0#rd)  
-- [2025-12-09-【第3623期】从混乱到纯净：用-Effect-System-重塑你的-JS-架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278107&idx=1&sn=93a5e42214119670b46eb3168701e2d4&chksm=bc25b4ab867e26e6e3ecab673c3a593d8c089b6b22361c6a7c9c91237402f9ccf1dce748177f&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2026-01-06-因为淋过雨想给找前端开发工作的人提点建议](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528830&idx=1&sn=8ca9c6787ecd736e3e989d3de60c06a1&chksm=f99277afcee5feb92a9bce684c21dd5f5234d162081b8cf975c8fc07d02fb01765f3323f9d8b#rd) ![](/assets/new.png)  
-- [2026-01-05-公司-React-应用感觉很慢，我把没必要的重复渲染砍掉了-40%!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528820&idx=1&sn=3df4c71c941a7b1670226aabf7c2ee64&chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd) ![](/assets/new.png)  
+- [2026-01-06-因为淋过雨想给找前端开发工作的人提点建议](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528830&idx=1&sn=8ca9c6787ecd736e3e989d3de60c06a1&chksm=f99277afcee5feb92a9bce684c21dd5f5234d162081b8cf975c8fc07d02fb01765f3323f9d8b#rd)  
+- [2026-01-05-公司-React-应用感觉很慢，我把没必要的重复渲染砍掉了-40%!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528820&idx=1&sn=3df4c71c941a7b1670226aabf7c2ee64&chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd)  
 - [2026-01-04-写Tailwind-CSS像在写屎山？这锅该不该它背](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528781&idx=1&sn=f80e88a5d32b1ebda4632d7846412bd0&chksm=f992779ccee5fe8ab9915d3a73abc9f292ca6ba5b449f6eaace79e1db1b85ba61f0fd4207920#rd)  
 - [2025-12-31-No-Vary-Search：用一个新-HTTP-头拯救你的缓存性能！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528775&idx=1&sn=1bcb1a325fdc8efb2c055fb79371b55f&chksm=f9927796cee5fe8068e37cf32398f8ea8cd343c03e6e197542d4254798c2c6329e78b9aae725#rd)  
 - [2025-12-30-救火：一场递归树的性能突围战！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528767&idx=1&sn=71a84710fc40a8986554d463b7770285&chksm=f99277eecee5fef8c95d125e582f00d8021544db89e1547a105cfab8e5ef58e8e17094d3568b#rd)  

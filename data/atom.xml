@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-07T03:22:00.861Z</updated>
+    <updated>2026-01-07T04:31:27.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3637期】跨浏览器 Canvas 图像解码终极方案：让大图渲染也能丝滑不卡顿]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278364&amp;idx=1&amp;sn=0bbaa9b16eda03067396f840cdf1da4a&amp;chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278364&amp;idx=1&amp;sn=0bbaa9b16eda03067396f840cdf1da4a&amp;chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&amp;scene=0#rd"/>
+        <updated>2026-01-07T00:00:00.000Z</updated>
+        <published>2026-01-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3636期】深度解读：React + Next.js打造高性能Web应用的实战经验]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278350&amp;idx=1&amp;sn=b0ed516b541595cacb1742bf2aa5aedd&amp;chksm=bc30ea23882499f970364b4a2de0efbb9a71343e4684ed5e07bd5cbd68a9390b9f6b541d17a5&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526407&amp;idx=1&amp;sn=927074d89c3d51f41041e230de48c673&amp;chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd"/>
         <updated>2025-12-14T00:00:00.000Z</updated>
         <published>2025-12-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS progress()函数简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/"/>
-        <updated>2025-12-12T00:00:00.000Z</updated>
-        <published>2025-12-12T00:00:00.000Z</published>
     </entry>
 </feed>
