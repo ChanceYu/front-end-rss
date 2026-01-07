@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-06T18:16:13.777Z</updated>
+    <updated>2026-01-07T03:22:00.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[学会使用CSSStyleSheet构造CSS样式]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/"/>
+        <updated>2026-01-05T00:00:00.000Z</updated>
+        <published>2026-01-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公司 React 应用感觉很慢，我把没必要的重复渲染砍掉了 40%!]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528820&amp;idx=1&amp;sn=3df4c71c941a7b1670226aabf7c2ee64&amp;chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528820&amp;idx=1&amp;sn=3df4c71c941a7b1670226aabf7c2ee64&amp;chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd"/>
         <updated>2026-01-05T00:00:00.000Z</updated>
         <published>2026-01-05T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[CSS progress()函数简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/"/>
-        <updated>2025-12-12T00:00:00.000Z</updated>
-        <published>2025-12-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大多数开发者都错误地使用了Prettier]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528534&amp;idx=1&amp;sn=e3d953a3f8db95e42cc3405894d82fdc&amp;chksm=f9927687cee5ff910c5a5ef336dbd6feccb616695122b52bfa1010a0f3a3465750befdbd066a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528534&amp;idx=1&amp;sn=e3d953a3f8db95e42cc3405894d82fdc&amp;chksm=f9927687cee5ff910c5a5ef336dbd6feccb616695122b52bfa1010a0f3a3465750befdbd066a#rd"/>
         <updated>2025-12-12T00:00:00.000Z</updated>
         <published>2025-12-12T00:00:00.000Z</published>
     </entry>

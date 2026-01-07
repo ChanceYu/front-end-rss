@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-07 02:16:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-07 11:22:00，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767) ![](/assets/new.png)  
+- [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)  
 - [2025-12-19-The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)  
 - [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)  
 - [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)  
@@ -264,6 +264,8 @@
 </summary>
 
 
+- [2026-01-06-因为淋过雨想给找前端开发工作的人提点建议](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528830&idx=1&sn=8ca9c6787ecd736e3e989d3de60c06a1&chksm=f99277afcee5feb92a9bce684c21dd5f5234d162081b8cf975c8fc07d02fb01765f3323f9d8b#rd) ![](/assets/new.png)  
+- [2026-01-05-公司-React-应用感觉很慢，我把没必要的重复渲染砍掉了-40%!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528820&idx=1&sn=3df4c71c941a7b1670226aabf7c2ee64&chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd) ![](/assets/new.png)  
 - [2026-01-04-写Tailwind-CSS像在写屎山？这锅该不该它背](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528781&idx=1&sn=f80e88a5d32b1ebda4632d7846412bd0&chksm=f992779ccee5fe8ab9915d3a73abc9f292ca6ba5b449f6eaace79e1db1b85ba61f0fd4207920#rd)  
 - [2025-12-31-No-Vary-Search：用一个新-HTTP-头拯救你的缓存性能！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528775&idx=1&sn=1bcb1a325fdc8efb2c055fb79371b55f&chksm=f9927796cee5fe8068e37cf32398f8ea8cd343c03e6e197542d4254798c2c6329e78b9aae725#rd)  
 - [2025-12-30-救火：一场递归树的性能突围战！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528767&idx=1&sn=71a84710fc40a8986554d463b7770285&chksm=f99277eecee5fef8c95d125e582f00d8021544db89e1547a105cfab8e5ef58e8e17094d3568b#rd)  
@@ -282,8 +284,6 @@
 - [2025-12-09-我们可以使用-Local-Storage-代替-Context-Redux-Zustand-吗？](http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA)  
 - [2025-12-05-借助图片懒加载触发-JavaScript-动态导入](http://mp.weixin.qq.com/s/qyJSCitDnrHjASPXmFih7g)  
 - [2025-12-04-如何用隐形字符给公司内部文档加盲水印?抓内鬼神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528489&idx=1&sn=be47f1a844b05ee7064e970cdb6cfc95&chksm=f99276f8cee5ffeeb34aee7e4eaa0c1a06826b689127ea018b9a120334bfa17ef6a835b0c463#rd)  
-- [2025-12-03-让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528474&idx=1&sn=681f4c61971b9b12a1cd3a51a1a78358&chksm=f99276cbcee5ffddd8980918a34e9c4b1d3ffda7290cea0c20685dc321279c221175f35d698f#rd)  
-- [2025-12-02-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528464&idx=1&sn=c084dc23d23f92de05df673b682378dd&chksm=f99276c1cee5ffd73174c77f0cc350b4fe437af18b2c7a29ab684fe86a9d45b1b9bacfb18190#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
