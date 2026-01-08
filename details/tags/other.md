@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-01-08 16:16:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-09 00:15:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606) 
 - [2025-11-25-Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602) 
 - [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600) 
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591) 

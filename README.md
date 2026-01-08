@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-08 16:16:03，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-09 00:15:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606) ![](/assets/new.png)  
 - [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)  
 - [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)  
 - [2025-12-02-Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603)  
@@ -66,7 +67,6 @@
 - [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)  
 - [2025-07-29-An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)  
 - [2025-07-22-Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587)  
-- [2025-07-15-Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -204,7 +204,7 @@
 
 - [2026-01-08-那些实行-965-的良心公司（杭州）](http://mp.weixin.qq.com/s/BaOlPE_Xc6P9cWi9LRTECg)  
 - [2026-01-08-腾讯-AI-抽风辱骂前端，官方回应：不是外包干的！](http://mp.weixin.qq.com/s/dRPvxyrOfzko4ZzdqsumqQ)  
-- [2026-01-08-UI组件库排名出炉！ElementUI和AntDesign均未进前五！](http://mp.weixin.qq.com/s/tplpPH8Ph6MniAs33OUrPQ) ![](/assets/new.png)  
+- [2026-01-08-UI组件库排名出炉！ElementUI和AntDesign均未进前五！](http://mp.weixin.qq.com/s/tplpPH8Ph6MniAs33OUrPQ)  
 - [2026-01-07-OpenAI年终奖疯了！人均1050万元](http://mp.weixin.qq.com/s/9re4qjIsm2q7Uabt97oTrw)  
 - [2026-01-07-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/565m1pDAOsI6mRi7I3JM4g)  
 - [2026-01-07-那些实行-965-的良心公司（深圳）](http://mp.weixin.qq.com/s/Dj6QR-fzdL7--0NMSQRRSw)  
@@ -264,7 +264,7 @@
 </summary>
 
 
-- [2026-01-08-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528897&idx=1&sn=e2376b422982b6d06d72409e12feffde&chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd) ![](/assets/new.png)  
+- [2026-01-08-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528897&idx=1&sn=e2376b422982b6d06d72409e12feffde&chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd)  
 - [2026-01-07-从失败中重生：一个-AI-Agent-前端落地的真实复盘](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528838&idx=1&sn=61a2d1dc7d698b9f563b3de741301f10&chksm=f9927757cee5fe41c971cd869f2d22f7543423de7570ae26b1eac75011eb864e40c0eb9d6348#rd)  
 - [2026-01-06-因为淋过雨想给找前端开发工作的人提点建议](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528830&idx=1&sn=8ca9c6787ecd736e3e989d3de60c06a1&chksm=f99277afcee5feb92a9bce684c21dd5f5234d162081b8cf975c8fc07d02fb01765f3323f9d8b#rd)  
 - [2026-01-05-公司-React-应用感觉很慢，我把没必要的重复渲染砍掉了-40%!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528820&idx=1&sn=3df4c71c941a7b1670226aabf7c2ee64&chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd)  
