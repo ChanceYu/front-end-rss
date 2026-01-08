@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-08T06:18:11.356Z</updated>
+    <updated>2026-01-08T08:16:03.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[浅谈 import.meta.env 和 process.env 的区别]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528897&amp;idx=1&amp;sn=e2376b422982b6d06d72409e12feffde&amp;chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528897&amp;idx=1&amp;sn=e2376b422982b6d06d72409e12feffde&amp;chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd"/>
+        <updated>2026-01-08T00:00:00.000Z</updated>
+        <published>2026-01-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI组件库排名出炉！ElementUI和AntDesign均未进前五！]]></title>
+        <id>http://mp.weixin.qq.com/s/tplpPH8Ph6MniAs33OUrPQ</id>
+        <link href="http://mp.weixin.qq.com/s/tplpPH8Ph6MniAs33OUrPQ"/>
+        <updated>2026-01-08T00:00:00.000Z</updated>
+        <published>2026-01-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写Tailwind CSS像在写屎山？这锅该不该它背]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623696&amp;idx=2&amp;sn=6ccf82ea82fdb5cc6c2d91e6b389fcbc&amp;chksm=802246d1b755cfc7690b979a49514515abe09a6cb2047004f5f34eb34677f262cfe74e93c055#rd</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278180&amp;idx=1&amp;sn=ab00a72dd6627d4fe36b262652bb7412&amp;chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&amp;scene=0#rd"/>
         <updated>2025-12-16T00:00:00.000Z</updated>
         <published>2025-12-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Twas the Node before Christmas...]]></title>
-        <id>https://nodeweekly.com/issues/605</id>
-        <link href="https://nodeweekly.com/issues/605"/>
-        <updated>2025-12-16T00:00:00.000Z</updated>
-        <published>2025-12-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端工程化实践：打包工具的选择与思考]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517486&amp;idx=1&amp;sn=ef32142b678e11965c7f90e5fd695220&amp;chksm=eb07bd57dc70344176760a0e580545a9de9265ae06549798c659d2c3507696b98e2d5593f3fe#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517486&amp;idx=1&amp;sn=ef32142b678e11965c7f90e5fd695220&amp;chksm=eb07bd57dc70344176760a0e580545a9de9265ae06549798c659d2c3507696b98e2d5593f3fe#rd"/>
-        <updated>2025-12-15T00:00:00.000Z</updated>
-        <published>2025-12-15T00:00:00.000Z</published>
     </entry>
 </feed>
