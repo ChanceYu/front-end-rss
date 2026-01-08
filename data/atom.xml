@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-08T04:31:00.907Z</updated>
+    <updated>2026-01-08T06:18:11.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,25 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[写Tailwind CSS像在写屎山？这锅该不该它背]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623696&amp;idx=2&amp;sn=6ccf82ea82fdb5cc6c2d91e6b389fcbc&amp;chksm=802246d1b755cfc7690b979a49514515abe09a6cb2047004f5f34eb34677f262cfe74e93c055#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623696&amp;idx=2&amp;sn=6ccf82ea82fdb5cc6c2d91e6b389fcbc&amp;chksm=802246d1b755cfc7690b979a49514515abe09a6cb2047004f5f34eb34677f262cfe74e93c055#rd"/>
+        <updated>2026-01-08T00:00:00.000Z</updated>
+        <published>2026-01-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3638期】从 DevTools 到智能性能代理：用 AI 重塑前端性能分析的新方式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278368&amp;idx=1&amp;sn=2fc907be01c3b32ada38b3fa9a4d2108&amp;chksm=bc47e4400a8775b0ecda62fb1bc33a3a512999343456fa176c7f889028dbb0a0400260882e8f&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278368&amp;idx=1&amp;sn=2fc907be01c3b32ada38b3fa9a4d2108&amp;chksm=bc47e4400a8775b0ecda62fb1bc33a3a512999343456fa176c7f889028dbb0a0400260882e8f&amp;scene=0#rd"/>
         <updated>2026-01-08T00:00:00.000Z</updated>
         <published>2026-01-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端性能革命：200 行 JavaScript 代码实现 Streaming JSON]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517503&amp;idx=1&amp;sn=a26713fc5534e848ae8f2889a9252833&amp;chksm=eb07bd46dc7034503a81cfa77690f663e1513186917305282817a04f10be8bc1669275990876#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517503&amp;idx=1&amp;sn=a26713fc5534e848ae8f2889a9252833&amp;chksm=eb07bd46dc7034503a81cfa77690f663e1513186917305282817a04f10be8bc1669275990876#rd"/>
+        <updated>2026-01-07T00:00:00.000Z</updated>
+        <published>2026-01-07T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[No-Vary-Search：用一个新 HTTP 头拯救你的缓存性能！]]></title>
@@ -113,16 +127,16 @@
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd"/>
+        <title type="html"><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd"/>
         <updated>2025-12-31T00:00:00.000Z</updated>
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd"/>
+        <title type="html"><![CDATA[“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd"/>
         <updated>2025-12-31T00:00:00.000Z</updated>
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[前端工程化实践：打包工具的选择与思考]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517486&amp;idx=1&amp;sn=ef32142b678e11965c7f90e5fd695220&amp;chksm=eb07bd57dc70344176760a0e580545a9de9265ae06549798c659d2c3507696b98e2d5593f3fe#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517486&amp;idx=1&amp;sn=ef32142b678e11965c7f90e5fd695220&amp;chksm=eb07bd57dc70344176760a0e580545a9de9265ae06549798c659d2c3507696b98e2d5593f3fe#rd"/>
-        <updated>2025-12-15T00:00:00.000Z</updated>
-        <published>2025-12-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪亲自重构！Vite 速度提升 30 倍]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507016&amp;idx=1&amp;sn=56fe78f43e7819ed6ffea3d5df4b002c&amp;chksm=ce45c9d9f93240cf593dd4f8dfb17d488a5b17fac7b7a5abdc4639a9ff2bdd8b5d2f84b62937#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507016&amp;idx=1&amp;sn=56fe78f43e7819ed6ffea3d5df4b002c&amp;chksm=ce45c9d9f93240cf593dd4f8dfb17d488a5b17fac7b7a5abdc4639a9ff2bdd8b5d2f84b62937#rd"/>
-        <updated>2025-12-15T00:00:00.000Z</updated>
-        <published>2025-12-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[借助图片懒加载触发 JavaScript 动态导入]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623523&amp;idx=2&amp;sn=86651ed0be205cc4b86a6efc43d8b6cb&amp;chksm=802247a2b755ceb46f45aa6a45820970a51646279140427f120b786a24fdfa5f82cebe0eade0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623523&amp;idx=2&amp;sn=86651ed0be205cc4b86a6efc43d8b6cb&amp;chksm=802247a2b755ceb46f45aa6a45820970a51646279140427f120b786a24fdfa5f82cebe0eade0#rd"/>
         <updated>2025-12-15T00:00:00.000Z</updated>
         <published>2025-12-15T00:00:00.000Z</published>
     </entry>
