@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-09 00:15:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-09 12:31:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606) ![](/assets/new.png)  
+- [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)  
 - [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)  
 - [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)  
 - [2025-12-02-Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2026-01-09-【第3639期】反框架主义：选择原生-Web-API，而非前端框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278377&idx=1&sn=d54a67c477bc62b3db88b4dad9d6483a&chksm=bcd0883b844c565a0b22d621aca75383f032f9d82bc785f0b83efe5f833cd6c0618458f374ee&scene=0#rd) ![](/assets/new.png)  
 - [2026-01-08-【第3638期】从-DevTools-到智能性能代理：用-AI-重塑前端性能分析的新方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278368&idx=1&sn=2fc907be01c3b32ada38b3fa9a4d2108&chksm=bc47e4400a8775b0ecda62fb1bc33a3a512999343456fa176c7f889028dbb0a0400260882e8f&scene=0#rd)  
 - [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd)  
 - [2026-01-06-【第3636期】深度解读：React-+-Next.js打造高性能Web应用的实战经验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278350&idx=1&sn=b0ed516b541595cacb1742bf2aa5aedd&chksm=bc30ea23882499f970364b4a2de0efbb9a71343e4684ed5e07bd5cbd68a9390b9f6b541d17a5&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-12-16-【第3626期】2025-CSS-年终盘点：22个重磅新特性，助你雕刻动态网页！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278180&idx=1&sn=ab00a72dd6627d4fe36b262652bb7412&chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&scene=0#rd)  
 - [2025-12-15-【第3625期】写-TypeScript-不等于安全：边界设计才是关键](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278175&idx=1&sn=2da60babc2929aa6137423c66bf21839&chksm=bc96ef2f0161c5a2625b5a196ade70001eaf73842718424ae3e5913e03e6594be6a724393df8&scene=0#rd)  
 - [2025-12-12-【早阅】LLM-时代的前端革命：React-不再是框架，而是平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278142&idx=1&sn=c310375429ed17ec469ff84e61e56d6f&chksm=bca182cd3cf5742b33e7acf11a7881f46b297aed860a334899a21da3857da8c2794211f8ac46&scene=0#rd)  
-- [2025-12-11-【第3624期】SVG-Filters---Clickjacking-2.0：一种全新的网络攻击技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278138&idx=1&sn=695b4035b94470500180e5e1215d108c&chksm=bc98f2b1a736b5c91a656e34fedcec676dff2cf32a280d209632614af5e1d4a820237eb560bf&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
