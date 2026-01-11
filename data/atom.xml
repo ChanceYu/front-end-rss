@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-11T00:57:31.765Z</updated>
+    <updated>2026-01-11T18:14:52.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[浅谈 import.meta.env 和 process.env 的区别]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623769&amp;idx=2&amp;sn=c23242a271497304d0d5ff9d361ce275&amp;chksm=80224698b755cf8eddce39ab19042ffd417cecabac343d742537ada4053fe77e931bba804730#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623769&amp;idx=2&amp;sn=c23242a271497304d0d5ff9d361ce275&amp;chksm=80224698b755cf8eddce39ab19042ffd417cecabac343d742537ada4053fe77e931bba804730#rd"/>
+        <updated>2026-01-11T00:00:00.000Z</updated>
+        <published>2026-01-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抱歉，Vue3 已经跌出第一梯队！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623731&amp;idx=1&amp;sn=20186dbb3054ceb68f44812f2792a1c5&amp;chksm=802246f2b755cfe407176c2ea6a43169ccfdec714e53114f74d18ad64dd8a56f0aee6219bf9e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623731&amp;idx=1&amp;sn=20186dbb3054ceb68f44812f2792a1c5&amp;chksm=802246f2b755cfe407176c2ea6a43169ccfdec714e53114f74d18ad64dd8a56f0aee6219bf9e#rd"/>
+        <updated>2026-01-09T00:00:00.000Z</updated>
+        <published>2026-01-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浅谈 import.meta.env 和 process.env 的区别]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528897&amp;idx=1&amp;sn=e2376b422982b6d06d72409e12feffde&amp;chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd</id>
@@ -141,16 +155,16 @@
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd"/>
+        <title type="html"><![CDATA[“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd"/>
         <updated>2025-12-31T00:00:00.000Z</updated>
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd"/>
+        <title type="html"><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd"/>
         <updated>2025-12-31T00:00:00.000Z</updated>
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[可能是你极易忽略的Nginx知识点]]></title>
         <id>http://mp.weixin.qq.com/s/z4hMKXM-ZgqFfz8_VRbZJA</id>
         <link href="http://mp.weixin.qq.com/s/z4hMKXM-ZgqFfz8_VRbZJA"/>
-        <updated>2025-12-16T00:00:00.000Z</updated>
-        <published>2025-12-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[灾难性 BUG！React 团队正在连夜修复！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507037&amp;idx=1&amp;sn=ac0277713fdd3f5b5063e22ca9608b77&amp;chksm=ce45c9ccf93240da8c4907c4df6ee1cdadcb06ab44691701f47020dbfdb8a3ea937dbf3c92a5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507037&amp;idx=1&amp;sn=ac0277713fdd3f5b5063e22ca9608b77&amp;chksm=ce45c9ccf93240da8c4907c4df6ee1cdadcb06ab44691701f47020dbfdb8a3ea937dbf3c92a5#rd"/>
-        <updated>2025-12-16T00:00:00.000Z</updated>
-        <published>2025-12-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3626期】2025 CSS 年终盘点：22个重磅新特性，助你雕刻动态网页！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278180&amp;idx=1&amp;sn=ab00a72dd6627d4fe36b262652bb7412&amp;chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278180&amp;idx=1&amp;sn=ab00a72dd6627d4fe36b262652bb7412&amp;chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&amp;scene=0#rd"/>
         <updated>2025-12-16T00:00:00.000Z</updated>
         <published>2025-12-16T00:00:00.000Z</published>
     </entry>
