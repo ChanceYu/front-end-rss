@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-12 02:14:52，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-12 04:11:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -140,9 +140,9 @@
 </summary>
 
 
-- [2026-01-11-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623769&idx=2&sn=c23242a271497304d0d5ff9d361ce275&chksm=80224698b755cf8eddce39ab19042ffd417cecabac343d742537ada4053fe77e931bba804730#rd) ![](/assets/new.png)  
-- [2026-01-11-李彦宏第-2-家上市公司来了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623769&idx=1&sn=1e7c434edb5a47362632bc0e1d46d4dd&chksm=80224698b755cf8eda640fe2a3c1785538cf0c49c9f11fbd3fd2fe9836e45bdaa6586a137c2e#rd) ![](/assets/new.png)  
-- [2026-01-09-抱歉，Vue3-已经跌出第一梯队！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623731&idx=1&sn=20186dbb3054ceb68f44812f2792a1c5&chksm=802246f2b755cfe407176c2ea6a43169ccfdec714e53114f74d18ad64dd8a56f0aee6219bf9e#rd) ![](/assets/new.png)  
+- [2026-01-11-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623769&idx=2&sn=c23242a271497304d0d5ff9d361ce275&chksm=80224698b755cf8eddce39ab19042ffd417cecabac343d742537ada4053fe77e931bba804730#rd)  
+- [2026-01-11-李彦宏第-2-家上市公司来了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623769&idx=1&sn=1e7c434edb5a47362632bc0e1d46d4dd&chksm=80224698b755cf8eda640fe2a3c1785538cf0c49c9f11fbd3fd2fe9836e45bdaa6586a137c2e#rd)  
+- [2026-01-09-抱歉，Vue3-已经跌出第一梯队！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623731&idx=1&sn=20186dbb3054ceb68f44812f2792a1c5&chksm=802246f2b755cfe407176c2ea6a43169ccfdec714e53114f74d18ad64dd8a56f0aee6219bf9e#rd)  
 - [2026-01-08-写Tailwind-CSS像在写屎山？这锅该不该它背](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623696&idx=2&sn=6ccf82ea82fdb5cc6c2d91e6b389fcbc&chksm=802246d1b755cfc7690b979a49514515abe09a6cb2047004f5f34eb34677f262cfe74e93c055#rd)  
 - [2026-01-08-1-盒内存条堪比上海-1-套房](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623696&idx=1&sn=d5f12d14fbfe7cca54625848639b480c&chksm=802246d1b755cfc709273a6500536c28d2cb8c83b1c89f954c66ef1d28a23635f47bf51a268a#rd)  
 - [2026-01-07-No-Vary-Search：用一个新-HTTP-头拯救你的缓存性能！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623680&idx=2&sn=0e51e6839802d84831699fa5c8a5bbce&chksm=802246c1b755cfd7fc6a22a359a5489dc6bf5cce4165d75128a6ff7c1df7ead91142a405895a#rd)  
@@ -264,6 +264,7 @@
 </summary>
 
 
+- [2026-01-09-Agent开发必学-8000字长文带你了解下LangChain-生态系统](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528899&idx=1&sn=ba5011b805230ca2b38c6e5a9d215c41&chksm=f9927712cee5fe04df282f43a1522099318965c4d68dcb8b55e6c259026823b5602164cd9c50#rd) ![](/assets/new.png)  
 - [2026-01-08-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528897&idx=1&sn=e2376b422982b6d06d72409e12feffde&chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd)  
 - [2026-01-07-从失败中重生：一个-AI-Agent-前端落地的真实复盘](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528838&idx=1&sn=61a2d1dc7d698b9f563b3de741301f10&chksm=f9927757cee5fe41c971cd869f2d22f7543423de7570ae26b1eac75011eb864e40c0eb9d6348#rd)  
 - [2026-01-06-因为淋过雨想给找前端开发工作的人提点建议](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528830&idx=1&sn=8ca9c6787ecd736e3e989d3de60c06a1&chksm=f99277afcee5feb92a9bce684c21dd5f5234d162081b8cf975c8fc07d02fb01765f3323f9d8b#rd)  
@@ -283,7 +284,6 @@
 - [2025-12-12-大多数开发者都错误地使用了Prettier](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528534&idx=1&sn=e3d953a3f8db95e42cc3405894d82fdc&chksm=f9927687cee5ff910c5a5ef336dbd6feccb616695122b52bfa1010a0f3a3465750befdbd066a#rd)  
 - [2025-12-11-从崩溃到优雅：Node.js-错误处理的正确姿势](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528526&idx=1&sn=4fd1d8ec5631d9e3da7e632569839185&chksm=f992769fcee5ff8995420219b5d8fbdb0e4edd25a581d1fdea033825a6c3ea516ede8449e164#rd)  
 - [2025-12-10-学了那么多-AI，却还是不会落地？](http://mp.weixin.qq.com/s/x-RYu0QK-RSTtQNYtH5oVg)  
-- [2025-12-09-我们可以使用-Local-Storage-代替-Context-Redux-Zustand-吗？](http://mp.weixin.qq.com/s/HOiaiuA4ek3cmTYxHshRJA)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
