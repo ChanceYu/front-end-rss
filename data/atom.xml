@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-11T20:11:24.263Z</updated>
+    <updated>2026-01-12T04:40:57.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】从技术到体验：用“摩擦与流畅”重新定义网站性能]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278385&amp;idx=1&amp;sn=cead4151e92dacd2928c74de20fd6e56&amp;chksm=bc16a547fed661ed1491302f324063c1b997492f43a2d5545f40306c03f549bfb7d0cc70f6a4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278385&amp;idx=1&amp;sn=cead4151e92dacd2928c74de20fd6e56&amp;chksm=bc16a547fed661ed1491302f324063c1b997492f43a2d5545f40306c03f549bfb7d0cc70f6a4&amp;scene=0#rd"/>
+        <updated>2026-01-12T00:00:00.000Z</updated>
+        <published>2026-01-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浅谈 import.meta.env 和 process.env 的区别]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623769&amp;idx=2&amp;sn=c23242a271497304d0d5ff9d361ce275&amp;chksm=80224698b755cf8eddce39ab19042ffd417cecabac343d742537ada4053fe77e931bba804730#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623535&amp;idx=1&amp;sn=5af68161cc72150298ed4a84ac721bcc&amp;chksm=802247aeb755ceb8ea11dc5ed4d56da6fa54091f5fb6edff71fbc6e93cdfc9211f95aab67f60#rd"/>
         <updated>2025-12-17T00:00:00.000Z</updated>
         <published>2025-12-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可能是你极易忽略的Nginx知识点]]></title>
-        <id>http://mp.weixin.qq.com/s/z4hMKXM-ZgqFfz8_VRbZJA</id>
-        <link href="http://mp.weixin.qq.com/s/z4hMKXM-ZgqFfz8_VRbZJA"/>
-        <updated>2025-12-16T00:00:00.000Z</updated>
-        <published>2025-12-16T00:00:00.000Z</published>
     </entry>
 </feed>
