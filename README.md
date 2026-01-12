@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-12 12:40:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-13 06:10:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2026-01-12-【早阅】从技术到体验：用“摩擦与流畅”重新定义网站性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278385&idx=1&sn=cead4151e92dacd2928c74de20fd6e56&chksm=bc16a547fed661ed1491302f324063c1b997492f43a2d5545f40306c03f549bfb7d0cc70f6a4&scene=0#rd) ![](/assets/new.png)  
+- [2026-01-12-【早阅】从技术到体验：用“摩擦与流畅”重新定义网站性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278385&idx=1&sn=cead4151e92dacd2928c74de20fd6e56&chksm=bc16a547fed661ed1491302f324063c1b997492f43a2d5545f40306c03f549bfb7d0cc70f6a4&scene=0#rd)  
 - [2026-01-09-【第3639期】反框架主义：选择原生-Web-API，而非前端框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278377&idx=1&sn=d54a67c477bc62b3db88b4dad9d6483a&chksm=bcd0883b844c565a0b22d621aca75383f032f9d82bc785f0b83efe5f833cd6c0618458f374ee&scene=0#rd)  
 - [2026-01-08-【第3638期】从-DevTools-到智能性能代理：用-AI-重塑前端性能分析的新方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278368&idx=1&sn=2fc907be01c3b32ada38b3fa9a4d2108&chksm=bc47e4400a8775b0ecda62fb1bc33a3a512999343456fa176c7f889028dbb0a0400260882e8f&scene=0#rd)  
 - [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2026-01-12-Chrome-新-API：仅-6-行-HTML！页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517507&idx=1&sn=a6f4ad2cc56005263c666f6dbce84219&chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd) ![](/assets/new.png)  
 - [2026-01-10-使用量暴涨的同时，这个全球最火前端工具宣布大裁员！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517505&idx=1&sn=eaf4f1b691096f5df752f8c96b0f1e60&chksm=eb07bd38dc70342ec3aca88fc29c054dfeff70ebc54d00649528a6d2b75fc6842dd3a40ddf61#rd)  
 - [2026-01-07-前端性能革命：200-行-JavaScript-代码实现-Streaming-JSON](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517503&idx=1&sn=a26713fc5534e848ae8f2889a9252833&chksm=eb07bd46dc7034503a81cfa77690f663e1513186917305282817a04f10be8bc1669275990876#rd)  
 - [2026-01-04-Vite8-官网、Logo-换新！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517501&idx=1&sn=cb25f81cde3bdf560d4dabca6b9cc872&chksm=eb07bd44dc703452a3b052b36dd505cdf29373898ecd4e8491aed5051c275f367fb3b6ae465e#rd)  
@@ -438,7 +439,6 @@
 - [2025-11-20-这-10-个被严重低估的-JS-API，效率提升-100%](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517460&idx=1&sn=f4943078661f669578c87248b1a9df85&chksm=eb07bd6ddc70347b43743b8a8b53274a782172badbaf646f204c366ac7113467ccf7ce887cff#rd)  
 - [2025-10-31-尤雨溪前端公司获得-1250-万美元-A-轮融资！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517458&idx=1&sn=15fb7aaae27bde0d7b9eaee83b6ffff7&chksm=eb07bd6bdc70347de38cf87a0d809de85ac7cfda61365fb9f33dfbfde84bf9c677e7add413bc#rd)  
 - [2025-10-30-vivo-前端三剑客发展历程及原理揭秘](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517456&idx=1&sn=849be7450825af5890f229d3956fe43f&chksm=eb07bd69dc70347f619c3c419c20ba4332b892973ad74beef41323490d34e8ce6b10d17e836f#rd)  
-- [2025-10-28-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517454&idx=1&sn=f72e5a0ba75a92df259ccab9724f88b2&chksm=eb07bd77dc70346134f56954e5fb9d9ae56fd3c6febeafb3530139565ac021bfc0a7da131daa#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-12 12:40:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-13 06:10:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -47,6 +47,7 @@
 - [2025-02-19-2025，重新认识-HTML！](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499414&idx=1&sn=3685ff0fe846d50843519f482f8f4029&chksm=ce269d60f951147662e21de956a80781f52c29d85c14d765f13d93726d4d97c648d408add397#rd) 
 - [2023-06-20-Amazing！！单标签下的日间/黑夜模式切换按钮效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495893&idx=1&sn=4585f6741ef2bcb1330b1131533e4899&chksm=ce269323f9511a35c1425715f4d0d2553ef039a10f32ab29f4dac0097820cda7262554625def#rd) 
 - [2023-02-14-现代图片性能优化及体验优化指南---图片类型及-Picture-标签的使用](https://mp.weixin.qq.com/s/LZ86LkmGwmZMUFLCLjDa4g) 
+- [2026-01-12-Chrome-新-API：仅-6-行-HTML！页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517507&idx=1&sn=a6f4ad2cc56005263c666f6dbce84219&chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd) 
 - [2025-09-01-Chrome-全新-API：仅-6-行-HTML！让页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517394&idx=1&sn=04a789c65347a9830448b7ab63da3cc7&chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd) 
 - [2025-07-04-弃用-html2canvas！快-93-倍的截图神器！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517319&idx=1&sn=17d9a16e0f3350c7c23290a961eea7c0&chksm=eb07bcfedc7035e88353d88396bce029044bfbb66b3947bd513a038afb795fde774e16051017#rd) 
 - [2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/) 

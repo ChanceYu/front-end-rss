@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-12T04:40:57.838Z</updated>
+    <updated>2026-01-12T22:10:34.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Chrome 新 API：仅 6 行 HTML！页面秒开！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517507&amp;idx=1&amp;sn=a6f4ad2cc56005263c666f6dbce84219&amp;chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517507&amp;idx=1&amp;sn=a6f4ad2cc56005263c666f6dbce84219&amp;chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd"/>
+        <updated>2026-01-12T00:00:00.000Z</updated>
+        <published>2026-01-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】从技术到体验：用“摩擦与流畅”重新定义网站性能]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278385&amp;idx=1&amp;sn=cead4151e92dacd2928c74de20fd6e56&amp;chksm=bc16a547fed661ed1491302f324063c1b997492f43a2d5545f40306c03f549bfb7d0cc70f6a4&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[领导逼我做“前端架构师”，我直接提离职]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507039&amp;idx=1&amp;sn=465cfe81f4ffbb0c7dc9bd9ba640592c&amp;chksm=ce45c9cef93240d8124eaa16de71774f6bbd3d4ad820d4d0fa9bb9059ebd41c39ea773bf6b80#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247507039&amp;idx=1&amp;sn=465cfe81f4ffbb0c7dc9bd9ba640592c&amp;chksm=ce45c9cef93240d8124eaa16de71774f6bbd3d4ad820d4d0fa9bb9059ebd41c39ea773bf6b80#rd"/>
-        <updated>2025-12-17T00:00:00.000Z</updated>
-        <published>2025-12-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript还能这样写？！ES2025新语法让代码优雅到极致]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623535&amp;idx=1&amp;sn=5af68161cc72150298ed4a84ac721bcc&amp;chksm=802247aeb755ceb8ea11dc5ed4d56da6fa54091f5fb6edff71fbc6e93cdfc9211f95aab67f60#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623535&amp;idx=1&amp;sn=5af68161cc72150298ed4a84ac721bcc&amp;chksm=802247aeb755ceb8ea11dc5ed4d56da6fa54091f5fb6edff71fbc6e93cdfc9211f95aab67f60#rd"/>
         <updated>2025-12-17T00:00:00.000Z</updated>
         <published>2025-12-17T00:00:00.000Z</published>
     </entry>
