@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-14 02:18:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-14 06:11:34，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768) ![](/assets/new.png)  
+- [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768)  
 - [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)  
 - [2025-12-19-The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)  
 - [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)  
@@ -202,12 +202,17 @@
 </summary>
 
 
-- [2026-01-08-那些实行-965-的良心公司（杭州）](http://mp.weixin.qq.com/s/BaOlPE_Xc6P9cWi9LRTECg)  
-- [2026-01-08-腾讯-AI-抽风辱骂前端，官方回应：不是外包干的！](http://mp.weixin.qq.com/s/dRPvxyrOfzko4ZzdqsumqQ)  
+- [2026-01-13-Pinia-推倒，重做！Vue开发者有福了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508011&idx=1&sn=d9b1581d79f7380d3957ae99f6d2c6be&chksm=ce45b5baf9323cac41e1bbadca3b197861012a4b5540697b7c145d4340a5907972f3c937036f#rd) ![](/assets/new.png)  
+- [2026-01-12-打骨折了...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507809&idx=1&sn=bd25d615f3686c6a7c3d8ad97181c59f&chksm=ce45caf0f93243e613764dcd2303e278ff75bce2dffbfc7e5babbbb963b9553ee0f58eed1c5c#rd) ![](/assets/new.png)  
+- [2026-01-11-想钱想疯了！Tailwind又放狠话：不收购我，就搞崩你们！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507902&idx=1&sn=e4d0e4ba29921939a3491f4ecaf05bd7&chksm=ce45ca2ff932433951a17744232563b7bd5840729a25652f238e9064c993f050ee411e590994#rd) ![](/assets/new.png)  
+- [2026-01-10-反击！多益网络“封杀”全校毕业生！并吐槽“颠倒是非”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507870&idx=1&sn=c6ff3c9ea461e0e54ff80be7f4127556&chksm=ce45ca0ff932431919b8d0a5ec562b31ed30b1f0286f0f654582346cce3f0ea70587839ac3bb#rd) ![](/assets/new.png)  
+- [2026-01-09-Tailwind即将下架？创始人：裁员75%，团队快坚持不下去了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507830&idx=1&sn=31955d8adf2caf697372804be84f6b82&chksm=ce45cae7f93243f15af938fbd5c1c37d16b09d7ab4bb5ebd690157f5d8ecff992a90fc5280a9#rd) ![](/assets/new.png)  
 - [2026-01-08-UI组件库排名出炉！ElementUI和AntDesign均未进前五！](http://mp.weixin.qq.com/s/tplpPH8Ph6MniAs33OUrPQ)  
-- [2026-01-07-OpenAI年终奖疯了！人均1050万元](http://mp.weixin.qq.com/s/9re4qjIsm2q7Uabt97oTrw)  
-- [2026-01-07-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/565m1pDAOsI6mRi7I3JM4g)  
+- [2026-01-08-腾讯-AI-抽风辱骂前端，官方回应：不是外包干的！](http://mp.weixin.qq.com/s/dRPvxyrOfzko4ZzdqsumqQ)  
+- [2026-01-08-那些实行-965-的良心公司（杭州）](http://mp.weixin.qq.com/s/BaOlPE_Xc6P9cWi9LRTECg)  
 - [2026-01-07-那些实行-965-的良心公司（深圳）](http://mp.weixin.qq.com/s/Dj6QR-fzdL7--0NMSQRRSw)  
+- [2026-01-07-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/565m1pDAOsI6mRi7I3JM4g)  
+- [2026-01-07-OpenAI年终奖疯了！人均1050万元](http://mp.weixin.qq.com/s/9re4qjIsm2q7Uabt97oTrw)  
 - [2026-01-06-2026年值得去的公司排名（结果令人意外）](http://mp.weixin.qq.com/s/24xdahpdHlv3ygXSfAAYvQ)  
 - [2026-01-04-天塌了！DeepSeek-的-AI-域名被恶意抢占！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507472&idx=1&sn=8fb745a131ed9d9cee048302501f444e&chksm=ce45cb81f93242976b367dcfceabb114fb142a38afd6d6d29872b0507ef72d6ff1cce79e8ac5#rd)  
 - [2026-01-03-年终奖到账！25薪+70%涨幅](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507446&idx=1&sn=cc3088a476c88cdc2d3281fefba97252&chksm=ce45c867f932417195570fcbdcf26556815fc35c3f9ba7f48986201e26f0a54907e9ff56f095#rd)  
@@ -217,11 +222,6 @@
 - [2025-12-29-VSCode-宣布改名！全面-AI-的时代到来！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507325&idx=1&sn=d51da71ecb4fda794053c1604314b8e1&chksm=ce45c8ecf93241fa60804be28bad8eadd0022b922fc46c857d11e6e9bcb4eb511620839f83eb#rd)  
 - [2025-12-27-又又又被领导辱骂了，这次我选择了反抗！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507265&idx=1&sn=027368c941554cd4314f189e504bf759&chksm=ce45c8d0f93241c6044e9e0d4ed8cfb45ea4e7e2998b97988063c399219d83926825c41e574d#rd)  
 - [2025-12-26-午休只有一小时的公司？我真不想干了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507257&idx=1&sn=3373eefbdced673c31c5168fdb42fca4&chksm=ce45c8a8f93241be8b425c788110198214831b567eefe403eb410d3e4ea47a8cc96e3f601e09#rd)  
-- [2025-12-25-愤怒！外包员工被侮辱“外包跟正编有生殖隔离，不能跟正编谈恋爱”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507238&idx=1&sn=5e852f7d3800d5f085879d52805df8fe&chksm=ce45c8b7f93241a1071b65f1791ab14f138884287d7fb1a53333c97186f6a79ef6ab17654eb9#rd)  
-- [2025-12-24-尤雨溪：Vue-3.6-beta.1-正式发布！史诗级更新！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507232&idx=1&sn=5160e161d753167501e2ce142b76f8f7&chksm=ce45c8b1f93241a79577327762d863519ddb52d37b2bb8f78a99c3ca72cfdfbb15a9f448192b#rd)  
-- [2025-12-23-荒唐！一夜之间，快手满屏的不堪入目内容](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507212&idx=1&sn=54ae5389e2377b957359cfa98c687a2e&chksm=ce45c89df932418b6e2e1f43ea9d691e46c1d70912c6644ef9c46db2d07b141ff2df931db28b#rd)  
-- [2025-12-22-避雷这家公司！用“抓阄”来决定裁员？我qnm的资本家！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507167&idx=1&sn=ac1740f877af592af4dbd5d52c6a0bc7&chksm=ce45c94ef93240589ea27e103849f91706af2c9769aaebe3642b6f7d0f828683868ce773b77d#rd)  
-- [2025-12-21-滥用...拓展运算符导致崩掉，被老板娘约谈了3小时](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507151&idx=1&sn=56e56f12b5dcd29ced2c54e8d1251cb9&chksm=ce45c95ef932404886fe68ccc93cdea2013f8e64cbfbbdc59b55020b9d49921f621d76d60a70#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
