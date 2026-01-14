@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-14 16:16:02，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-14 20:21:39，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -140,12 +140,12 @@
 </summary>
 
 
-- [2026-01-14-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623831&idx=2&sn=b368ddd2b32d75b14a65bfb1fe995df0&chksm=80224656b755cf406d6159786d69cfb21a5741d25d54cd28a3c4d73dd0cd1b1c1cc9afbb93f4#rd) ![](/assets/new.png)  
-- [2026-01-14-携程-HR-误发全员离职信，数百员工连夜改简历](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623831&idx=1&sn=7a33480ad2c39b1bdaf84e9bb343d218&chksm=80224656b755cf40b2b5731a453a900768dc92079e6a78e0a0ab3d73b83aa5b9b7bffb3c06d2#rd) ![](/assets/new.png)  
-- [2026-01-13-“同事加班猝死，1个月后就被遗忘”！40+岁大厂老兵「主动被裁」：年薪百万、常春藤毕业，却被彻底榨干](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623815&idx=1&sn=3c0b643f6524af80a1195581a762dea8&chksm=80224646b755cf502a74cbfc70f6811645cded0720380b696b97759e456bc3bd911f381bd935#rd) ![](/assets/new.png)  
-- [2026-01-13-面试官：如果-100-个请求，你怎么用-Promise-去控制并发？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623815&idx=2&sn=cb533b7be11d6ca4cfd983afdb259870&chksm=80224646b755cf504ba6a52959924e88aa0029c242b3263df209f394625e5b92d73e091e791a#rd) ![](/assets/new.png)  
-- [2026-01-12-常被忽视的-Node.js-功能，彻底改善了日志体验](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623789&idx=2&sn=ac04573daaee6ca8ff6399f774435419&chksm=802246acb755cfba4af86352b0c5719a05287877999a49fbb1c0f8a1d5afe35d6bb46037b70c#rd) ![](/assets/new.png)  
-- [2026-01-12-热搜都爆了！“死了么”开发成本-1000-多元，拟-100-万出售-10%-股份](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623789&idx=1&sn=36acf9df6822ed65cf10ae774c4bf93c&chksm=802246acb755cfba46492292e5ae85d82ced81a7a69cf89bb9a2b201fb3e16f77cb994b9f4be#rd) ![](/assets/new.png)  
+- [2026-01-14-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623831&idx=2&sn=b368ddd2b32d75b14a65bfb1fe995df0&chksm=80224656b755cf406d6159786d69cfb21a5741d25d54cd28a3c4d73dd0cd1b1c1cc9afbb93f4#rd)  
+- [2026-01-14-携程-HR-误发全员离职信，数百员工连夜改简历](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623831&idx=1&sn=7a33480ad2c39b1bdaf84e9bb343d218&chksm=80224656b755cf40b2b5731a453a900768dc92079e6a78e0a0ab3d73b83aa5b9b7bffb3c06d2#rd)  
+- [2026-01-13-“同事加班猝死，1个月后就被遗忘”！40+岁大厂老兵「主动被裁」：年薪百万、常春藤毕业，却被彻底榨干](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623815&idx=1&sn=3c0b643f6524af80a1195581a762dea8&chksm=80224646b755cf502a74cbfc70f6811645cded0720380b696b97759e456bc3bd911f381bd935#rd)  
+- [2026-01-13-面试官：如果-100-个请求，你怎么用-Promise-去控制并发？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623815&idx=2&sn=cb533b7be11d6ca4cfd983afdb259870&chksm=80224646b755cf504ba6a52959924e88aa0029c242b3263df209f394625e5b92d73e091e791a#rd)  
+- [2026-01-12-常被忽视的-Node.js-功能，彻底改善了日志体验](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623789&idx=2&sn=ac04573daaee6ca8ff6399f774435419&chksm=802246acb755cfba4af86352b0c5719a05287877999a49fbb1c0f8a1d5afe35d6bb46037b70c#rd)  
+- [2026-01-12-热搜都爆了！“死了么”开发成本-1000-多元，拟-100-万出售-10%-股份](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623789&idx=1&sn=36acf9df6822ed65cf10ae774c4bf93c&chksm=802246acb755cfba46492292e5ae85d82ced81a7a69cf89bb9a2b201fb3e16f77cb994b9f4be#rd)  
 - [2026-01-11-李彦宏第-2-家上市公司来了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623769&idx=1&sn=1e7c434edb5a47362632bc0e1d46d4dd&chksm=80224698b755cf8eda640fe2a3c1785538cf0c49c9f11fbd3fd2fe9836e45bdaa6586a137c2e#rd)  
 - [2026-01-11-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623769&idx=2&sn=c23242a271497304d0d5ff9d361ce275&chksm=80224698b755cf8eddce39ab19042ffd417cecabac343d742537ada4053fe77e931bba804730#rd)  
 - [2026-01-09-抱歉，Vue3-已经跌出第一梯队！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623731&idx=1&sn=20186dbb3054ceb68f44812f2792a1c5&chksm=802246f2b755cfe407176c2ea6a43169ccfdec714e53114f74d18ad64dd8a56f0aee6219bf9e#rd)  
@@ -264,6 +264,9 @@
 </summary>
 
 
+- [2026-01-14-前端缓存：最被低估的性能优化技巧](http://mp.weixin.qq.com/s/Arb2EeIrnrCHC_84oMmDmw) ![](/assets/new.png)  
+- [2026-01-13-强烈建议尽快搞个软考证！（政策红利）](http://mp.weixin.qq.com/s/-R_qKZLEmf2dpq6NgoXG_Q) ![](/assets/new.png)  
+- [2026-01-12-从-DevTools-到智能性能代理：用-AI-重塑前端性能分析的新方式](http://mp.weixin.qq.com/s/B78gtRo_mia3ppretcCkVQ) ![](/assets/new.png)  
 - [2026-01-09-Agent开发必学-8000字长文带你了解下LangChain-生态系统](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528899&idx=1&sn=ba5011b805230ca2b38c6e5a9d215c41&chksm=f9927712cee5fe04df282f43a1522099318965c4d68dcb8b55e6c259026823b5602164cd9c50#rd)  
 - [2026-01-08-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528897&idx=1&sn=e2376b422982b6d06d72409e12feffde&chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd)  
 - [2026-01-07-从失败中重生：一个-AI-Agent-前端落地的真实复盘](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528838&idx=1&sn=61a2d1dc7d698b9f563b3de741301f10&chksm=f9927757cee5fe41c971cd869f2d22f7543423de7570ae26b1eac75011eb864e40c0eb9d6348#rd)  
@@ -281,9 +284,6 @@
 - [2025-12-16-可能是你极易忽略的Nginx知识点](http://mp.weixin.qq.com/s/z4hMKXM-ZgqFfz8_VRbZJA)  
 - [2025-12-15-为什么95%的前端开发人员在系统设计面试中失败](http://mp.weixin.qq.com/s/NMTKreY603pxg-pxSHBGNA)  
 - [2025-12-13-突发！软考空前大利好！恭喜所有程序员！](http://mp.weixin.qq.com/s/XjD1i2HZ_02SohEa3w-cfQ)  
-- [2025-12-12-大多数开发者都错误地使用了Prettier](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528534&idx=1&sn=e3d953a3f8db95e42cc3405894d82fdc&chksm=f9927687cee5ff910c5a5ef336dbd6feccb616695122b52bfa1010a0f3a3465750befdbd066a#rd)  
-- [2025-12-11-从崩溃到优雅：Node.js-错误处理的正确姿势](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528526&idx=1&sn=4fd1d8ec5631d9e3da7e632569839185&chksm=f992769fcee5ff8995420219b5d8fbdb0e4edd25a581d1fdea033825a6c3ea516ede8449e164#rd)  
-- [2025-12-10-学了那么多-AI，却还是不会落地？](http://mp.weixin.qq.com/s/x-RYu0QK-RSTtQNYtH5oVg)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

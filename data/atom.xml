@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-14T08:16:03.015Z</updated>
+    <updated>2026-01-14T12:21:40.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端缓存：最被低估的性能优化技巧]]></title>
+        <id>http://mp.weixin.qq.com/s/Arb2EeIrnrCHC_84oMmDmw</id>
+        <link href="http://mp.weixin.qq.com/s/Arb2EeIrnrCHC_84oMmDmw"/>
+        <updated>2026-01-14T00:00:00.000Z</updated>
+        <published>2026-01-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pinia 推倒，重做！Vue开发者有福了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508011&amp;idx=1&amp;sn=d9b1581d79f7380d3957ae99f6d2c6be&amp;chksm=ce45b5baf9323cac41e1bbadca3b197861012a4b5540697b7c145d4340a5907972f3c937036f#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[Chrome 新 API：仅 6 行 HTML！页面秒开！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517507&amp;idx=1&amp;sn=a6f4ad2cc56005263c666f6dbce84219&amp;chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517507&amp;idx=1&amp;sn=a6f4ad2cc56005263c666f6dbce84219&amp;chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd"/>
+        <updated>2026-01-12T00:00:00.000Z</updated>
+        <published>2026-01-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 DevTools 到智能性能代理：用 AI 重塑前端性能分析的新方式]]></title>
+        <id>http://mp.weixin.qq.com/s/B78gtRo_mia3ppretcCkVQ</id>
+        <link href="http://mp.weixin.qq.com/s/B78gtRo_mia3ppretcCkVQ"/>
         <updated>2026-01-12T00:00:00.000Z</updated>
         <published>2026-01-12T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://javascriptweekly.com/issues/766"/>
         <updated>2025-12-19T00:00:00.000Z</updated>
         <published>2025-12-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIGGRAPH Asia 2025 | 只用一部手机创建和渲染高质量3D数字人]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542140&amp;idx=1&amp;sn=32fd8a79d171fe34d273bc8cc91d00fa&amp;chksm=8390d824b4e75132fded65cf4c4be2cd0f11c7c18ed8c805388286e15780160ed8f1431df5df#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542140&amp;idx=1&amp;sn=32fd8a79d171fe34d273bc8cc91d00fa&amp;chksm=8390d824b4e75132fded65cf4c4be2cd0f11c7c18ed8c805388286e15780160ed8f1431df5df#rd"/>
-        <updated>2025-12-18T00:00:00.000Z</updated>
-        <published>2025-12-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大部分人都错了！这才是chrome插件多脚本通信的正确姿势]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528628&amp;idx=1&amp;sn=334353511bd29fc2a093f3dd4b8a646c&amp;chksm=f9927665cee5ff7312fbf085d9e02fb0085d6e145dc6973286096cbb8672d55caca9db27635d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528628&amp;idx=1&amp;sn=334353511bd29fc2a093f3dd4b8a646c&amp;chksm=f9927665cee5ff7312fbf085d9e02fb0085d6e145dc6973286096cbb8672d55caca9db27635d#rd"/>
-        <updated>2025-12-18T00:00:00.000Z</updated>
-        <published>2025-12-18T00:00:00.000Z</published>
     </entry>
 </feed>
