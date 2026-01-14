@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-14 06:11:34，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-14 12:38:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2026-01-14-【早阅】别被反AI的热潮带偏了：Antirez的AI编程实践与思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278399&idx=1&sn=fd94d1337290b65910c2eb59423f65a6&chksm=bcf84bc024f5f88e63cbc89b6f9922402bea57c00234497cf6b21b720426016950d34f91c671&scene=0#rd) ![](/assets/new.png)  
 - [2026-01-13-【第3640期】用-Range-语法让样式查询更灵活](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278392&idx=1&sn=2c0b7c3798f0de16ddca232c4c674017&chksm=bc35afbb64e3784e92d27ad6c62c3d81392a5700cc505e7afe5b141c84c12b0a24155616cb2f&scene=0#rd)  
 - [2026-01-12-【早阅】从技术到体验：用“摩擦与流畅”重新定义网站性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278385&idx=1&sn=cead4151e92dacd2928c74de20fd6e56&chksm=bc16a547fed661ed1491302f324063c1b997492f43a2d5545f40306c03f549bfb7d0cc70f6a4&scene=0#rd)  
 - [2026-01-09-【第3639期】反框架主义：选择原生-Web-API，而非前端框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278377&idx=1&sn=d54a67c477bc62b3db88b4dad9d6483a&chksm=bcd0883b844c565a0b22d621aca75383f032f9d82bc785f0b83efe5f833cd6c0618458f374ee&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-12-19-【早阅】从Vibe-Coding到Vibe-Engineering：LLM时代开发者的生存法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278216&idx=1&sn=a35f1a3a919a834c82c3e2e8faa1d8c4&chksm=bc9bf757b71c91dca87f91dd67d2d040c0040c34bab60689a9358b3dee897b4769289990a24e&scene=0#rd)  
 - [2025-12-18-【第3627期】从媒体查询到样式查询：Chrome-142-如何让-CSS-更懂“数值”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278210&idx=1&sn=64ba5c14880aae308f0e311a22024cc6&chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&scene=0#rd)  
 - [2025-12-17-【早阅】氛围编程：AI-幻觉让你错失-20%-实际生产力，并累积巨额技术债务！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278196&idx=1&sn=6f699934e9709252fde77db6624a3065&chksm=bcf73edb56d06e6db163596073e45e32c908cad797321c49b8714cbcab0898e6688995916cc6&scene=0#rd)  
-- [2025-12-16-【第3626期】2025-CSS-年终盘点：22个重磅新特性，助你雕刻动态网页！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278180&idx=1&sn=ab00a72dd6627d4fe36b262652bb7412&chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,11 +202,11 @@
 </summary>
 
 
-- [2026-01-13-Pinia-推倒，重做！Vue开发者有福了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508011&idx=1&sn=d9b1581d79f7380d3957ae99f6d2c6be&chksm=ce45b5baf9323cac41e1bbadca3b197861012a4b5540697b7c145d4340a5907972f3c937036f#rd) ![](/assets/new.png)  
-- [2026-01-12-打骨折了...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507809&idx=1&sn=bd25d615f3686c6a7c3d8ad97181c59f&chksm=ce45caf0f93243e613764dcd2303e278ff75bce2dffbfc7e5babbbb963b9553ee0f58eed1c5c#rd) ![](/assets/new.png)  
-- [2026-01-11-想钱想疯了！Tailwind又放狠话：不收购我，就搞崩你们！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507902&idx=1&sn=e4d0e4ba29921939a3491f4ecaf05bd7&chksm=ce45ca2ff932433951a17744232563b7bd5840729a25652f238e9064c993f050ee411e590994#rd) ![](/assets/new.png)  
-- [2026-01-10-反击！多益网络“封杀”全校毕业生！并吐槽“颠倒是非”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507870&idx=1&sn=c6ff3c9ea461e0e54ff80be7f4127556&chksm=ce45ca0ff932431919b8d0a5ec562b31ed30b1f0286f0f654582346cce3f0ea70587839ac3bb#rd) ![](/assets/new.png)  
-- [2026-01-09-Tailwind即将下架？创始人：裁员75%，团队快坚持不下去了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507830&idx=1&sn=31955d8adf2caf697372804be84f6b82&chksm=ce45cae7f93243f15af938fbd5c1c37d16b09d7ab4bb5ebd690157f5d8ecff992a90fc5280a9#rd) ![](/assets/new.png)  
+- [2026-01-13-Pinia-推倒，重做！Vue开发者有福了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508011&idx=1&sn=d9b1581d79f7380d3957ae99f6d2c6be&chksm=ce45b5baf9323cac41e1bbadca3b197861012a4b5540697b7c145d4340a5907972f3c937036f#rd)  
+- [2026-01-12-打骨折了...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507809&idx=1&sn=bd25d615f3686c6a7c3d8ad97181c59f&chksm=ce45caf0f93243e613764dcd2303e278ff75bce2dffbfc7e5babbbb963b9553ee0f58eed1c5c#rd)  
+- [2026-01-11-想钱想疯了！Tailwind又放狠话：不收购我，就搞崩你们！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507902&idx=1&sn=e4d0e4ba29921939a3491f4ecaf05bd7&chksm=ce45ca2ff932433951a17744232563b7bd5840729a25652f238e9064c993f050ee411e590994#rd)  
+- [2026-01-10-反击！多益网络“封杀”全校毕业生！并吐槽“颠倒是非”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507870&idx=1&sn=c6ff3c9ea461e0e54ff80be7f4127556&chksm=ce45ca0ff932431919b8d0a5ec562b31ed30b1f0286f0f654582346cce3f0ea70587839ac3bb#rd)  
+- [2026-01-09-Tailwind即将下架？创始人：裁员75%，团队快坚持不下去了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507830&idx=1&sn=31955d8adf2caf697372804be84f6b82&chksm=ce45cae7f93243f15af938fbd5c1c37d16b09d7ab4bb5ebd690157f5d8ecff992a90fc5280a9#rd)  
 - [2026-01-08-UI组件库排名出炉！ElementUI和AntDesign均未进前五！](http://mp.weixin.qq.com/s/tplpPH8Ph6MniAs33OUrPQ)  
 - [2026-01-08-腾讯-AI-抽风辱骂前端，官方回应：不是外包干的！](http://mp.weixin.qq.com/s/dRPvxyrOfzko4ZzdqsumqQ)  
 - [2026-01-08-那些实行-965-的良心公司（杭州）](http://mp.weixin.qq.com/s/BaOlPE_Xc6P9cWi9LRTECg)  
