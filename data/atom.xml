@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-14T04:38:44.502Z</updated>
+    <updated>2026-01-14T08:16:03.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,23 @@
         <published>2026-01-13T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[面试官：如果 100 个请求，你怎么用 Promise 去控制并发？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623815&amp;idx=2&amp;sn=cb533b7be11d6ca4cfd983afdb259870&amp;chksm=80224646b755cf504ba6a52959924e88aa0029c242b3263df209f394625e5b92d73e091e791a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623815&amp;idx=2&amp;sn=cb533b7be11d6ca4cfd983afdb259870&amp;chksm=80224646b755cf504ba6a52959924e88aa0029c242b3263df209f394625e5b92d73e091e791a#rd"/>
+        <updated>2026-01-13T00:00:00.000Z</updated>
+        <published>2026-01-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chrome 新 API：仅 6 行 HTML！页面秒开！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517507&amp;idx=1&amp;sn=a6f4ad2cc56005263c666f6dbce84219&amp;chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517507&amp;idx=1&amp;sn=a6f4ad2cc56005263c666f6dbce84219&amp;chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd"/>
+        <updated>2026-01-12T00:00:00.000Z</updated>
+        <published>2026-01-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[常被忽视的 Node.js 功能，彻底改善了日志体验]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623789&amp;idx=2&amp;sn=ac04573daaee6ca8ff6399f774435419&amp;chksm=802246acb755cfba4af86352b0c5719a05287877999a49fbb1c0f8a1d5afe35d6bb46037b70c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623789&amp;idx=2&amp;sn=ac04573daaee6ca8ff6399f774435419&amp;chksm=802246acb755cfba4af86352b0c5719a05287877999a49fbb1c0f8a1d5afe35d6bb46037b70c#rd"/>
         <updated>2026-01-12T00:00:00.000Z</updated>
         <published>2026-01-12T00:00:00.000Z</published>
     </entry>
@@ -176,16 +190,16 @@
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd"/>
+        <title type="html"><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd"/>
         <updated>2025-12-31T00:00:00.000Z</updated>
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=2&amp;sn=706fd8a7f0f83ea53281dded230e1241&amp;chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd"/>
+        <title type="html"><![CDATA[“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623589&amp;idx=1&amp;sn=a16f484b141114904cd17bdb06366382&amp;chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd"/>
         <updated>2025-12-31T00:00:00.000Z</updated>
         <published>2025-12-31T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528628&amp;idx=1&amp;sn=334353511bd29fc2a093f3dd4b8a646c&amp;chksm=f9927665cee5ff7312fbf085d9e02fb0085d6e145dc6973286096cbb8672d55caca9db27635d#rd"/>
         <updated>2025-12-18T00:00:00.000Z</updated>
         <published>2025-12-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3627期】从媒体查询到样式查询：Chrome 142 如何让 CSS 更懂“数值”]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278210&amp;idx=1&amp;sn=64ba5c14880aae308f0e311a22024cc6&amp;chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278210&amp;idx=1&amp;sn=64ba5c14880aae308f0e311a22024cc6&amp;chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&amp;scene=0#rd"/>
-        <updated>2025-12-18T00:00:00.000Z</updated>
-        <published>2025-12-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ant Design 发布 Markdown 渲染器 X-Markdown]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517491&amp;idx=1&amp;sn=b6389c0160f6f44bdbc55cc3a8f4d515&amp;chksm=eb07bd4adc70345ca84536074fbf0bb8e8cc39bf2b22c3fb9d1efec3bb900db131e2b34041df#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517491&amp;idx=1&amp;sn=b6389c0160f6f44bdbc55cc3a8f4d515&amp;chksm=eb07bd4adc70345ca84536074fbf0bb8e8cc39bf2b22c3fb9d1efec3bb900db131e2b34041df#rd"/>
-        <updated>2025-12-17T00:00:00.000Z</updated>
-        <published>2025-12-17T00:00:00.000Z</published>
     </entry>
 </feed>

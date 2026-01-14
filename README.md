@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-14 12:38:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-14 16:16:02，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2026-01-14-【早阅】别被反AI的热潮带偏了：Antirez的AI编程实践与思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278399&idx=1&sn=fd94d1337290b65910c2eb59423f65a6&chksm=bcf84bc024f5f88e63cbc89b6f9922402bea57c00234497cf6b21b720426016950d34f91c671&scene=0#rd) ![](/assets/new.png)  
+- [2026-01-14-【早阅】别被反AI的热潮带偏了：Antirez的AI编程实践与思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278399&idx=1&sn=fd94d1337290b65910c2eb59423f65a6&chksm=bcf84bc024f5f88e63cbc89b6f9922402bea57c00234497cf6b21b720426016950d34f91c671&scene=0#rd)  
 - [2026-01-13-【第3640期】用-Range-语法让样式查询更灵活](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278392&idx=1&sn=2c0b7c3798f0de16ddca232c4c674017&chksm=bc35afbb64e3784e92d27ad6c62c3d81392a5700cc505e7afe5b141c84c12b0a24155616cb2f&scene=0#rd)  
 - [2026-01-12-【早阅】从技术到体验：用“摩擦与流畅”重新定义网站性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278385&idx=1&sn=cead4151e92dacd2928c74de20fd6e56&chksm=bc16a547fed661ed1491302f324063c1b997492f43a2d5545f40306c03f549bfb7d0cc70f6a4&scene=0#rd)  
 - [2026-01-09-【第3639期】反框架主义：选择原生-Web-API，而非前端框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278377&idx=1&sn=d54a67c477bc62b3db88b4dad9d6483a&chksm=bcd0883b844c565a0b22d621aca75383f032f9d82bc785f0b83efe5f833cd6c0618458f374ee&scene=0#rd)  
@@ -140,26 +140,26 @@
 </summary>
 
 
-- [2026-01-11-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623769&idx=2&sn=c23242a271497304d0d5ff9d361ce275&chksm=80224698b755cf8eddce39ab19042ffd417cecabac343d742537ada4053fe77e931bba804730#rd)  
+- [2026-01-14-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623831&idx=2&sn=b368ddd2b32d75b14a65bfb1fe995df0&chksm=80224656b755cf406d6159786d69cfb21a5741d25d54cd28a3c4d73dd0cd1b1c1cc9afbb93f4#rd) ![](/assets/new.png)  
+- [2026-01-14-携程-HR-误发全员离职信，数百员工连夜改简历](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623831&idx=1&sn=7a33480ad2c39b1bdaf84e9bb343d218&chksm=80224656b755cf40b2b5731a453a900768dc92079e6a78e0a0ab3d73b83aa5b9b7bffb3c06d2#rd) ![](/assets/new.png)  
+- [2026-01-13-“同事加班猝死，1个月后就被遗忘”！40+岁大厂老兵「主动被裁」：年薪百万、常春藤毕业，却被彻底榨干](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623815&idx=1&sn=3c0b643f6524af80a1195581a762dea8&chksm=80224646b755cf502a74cbfc70f6811645cded0720380b696b97759e456bc3bd911f381bd935#rd) ![](/assets/new.png)  
+- [2026-01-13-面试官：如果-100-个请求，你怎么用-Promise-去控制并发？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623815&idx=2&sn=cb533b7be11d6ca4cfd983afdb259870&chksm=80224646b755cf504ba6a52959924e88aa0029c242b3263df209f394625e5b92d73e091e791a#rd) ![](/assets/new.png)  
+- [2026-01-12-常被忽视的-Node.js-功能，彻底改善了日志体验](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623789&idx=2&sn=ac04573daaee6ca8ff6399f774435419&chksm=802246acb755cfba4af86352b0c5719a05287877999a49fbb1c0f8a1d5afe35d6bb46037b70c#rd) ![](/assets/new.png)  
+- [2026-01-12-热搜都爆了！“死了么”开发成本-1000-多元，拟-100-万出售-10%-股份](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623789&idx=1&sn=36acf9df6822ed65cf10ae774c4bf93c&chksm=802246acb755cfba46492292e5ae85d82ced81a7a69cf89bb9a2b201fb3e16f77cb994b9f4be#rd) ![](/assets/new.png)  
 - [2026-01-11-李彦宏第-2-家上市公司来了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623769&idx=1&sn=1e7c434edb5a47362632bc0e1d46d4dd&chksm=80224698b755cf8eda640fe2a3c1785538cf0c49c9f11fbd3fd2fe9836e45bdaa6586a137c2e#rd)  
+- [2026-01-11-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623769&idx=2&sn=c23242a271497304d0d5ff9d361ce275&chksm=80224698b755cf8eddce39ab19042ffd417cecabac343d742537ada4053fe77e931bba804730#rd)  
 - [2026-01-09-抱歉，Vue3-已经跌出第一梯队！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623731&idx=1&sn=20186dbb3054ceb68f44812f2792a1c5&chksm=802246f2b755cfe407176c2ea6a43169ccfdec714e53114f74d18ad64dd8a56f0aee6219bf9e#rd)  
-- [2026-01-08-写Tailwind-CSS像在写屎山？这锅该不该它背](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623696&idx=2&sn=6ccf82ea82fdb5cc6c2d91e6b389fcbc&chksm=802246d1b755cfc7690b979a49514515abe09a6cb2047004f5f34eb34677f262cfe74e93c055#rd)  
 - [2026-01-08-1-盒内存条堪比上海-1-套房](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623696&idx=1&sn=d5f12d14fbfe7cca54625848639b480c&chksm=802246d1b755cfc709273a6500536c28d2cb8c83b1c89f954c66ef1d28a23635f47bf51a268a#rd)  
-- [2026-01-07-No-Vary-Search：用一个新-HTTP-头拯救你的缓存性能！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623680&idx=2&sn=0e51e6839802d84831699fa5c8a5bbce&chksm=802246c1b755cfd7fc6a22a359a5489dc6bf5cce4165d75128a6ff7c1df7ead91142a405895a#rd)  
+- [2026-01-08-写Tailwind-CSS像在写屎山？这锅该不该它背](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623696&idx=2&sn=6ccf82ea82fdb5cc6c2d91e6b389fcbc&chksm=802246d1b755cfc7690b979a49514515abe09a6cb2047004f5f34eb34677f262cfe74e93c055#rd)  
 - [2026-01-07-全网380万人围观！连代码都不看，4个月“烧掉”30亿Token，不懂编程的他却做出了50+个产品……](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623680&idx=1&sn=685d8c0fc4968e2329c2340b410a74b6&chksm=802246c1b755cfd7267f921f2aecf806a01e32324f7c450c1cbd1ae29db3cd06a7af5b80cdbb#rd)  
-- [2026-01-06-2-亿-PornHub-会员数据“裸奔”，观看记录全曝光，社死警告！就问你怕不怕？国内网友：还好我是游客](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623629&idx=1&sn=6e98f66cd91ce44a63f20c1fb0a734bd&chksm=8022470cb755ce1a65c4a132766d81c04b839023488e1552676a4f2b73430138649993d1f0fc#rd)  
+- [2026-01-07-No-Vary-Search：用一个新-HTTP-头拯救你的缓存性能！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623680&idx=2&sn=0e51e6839802d84831699fa5c8a5bbce&chksm=802246c1b755cfd7fc6a22a359a5489dc6bf5cce4165d75128a6ff7c1df7ead91142a405895a#rd)  
 - [2026-01-06-为什么95%的前端开发人员在系统设计面试中失败](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623629&idx=2&sn=21381c14af348a3bd3612ae3260a0169&chksm=8022470cb755ce1a01db24873b423ba1ff5aafb4e09c60859256f291ed7b88badc058570612b#rd)  
-- [2026-01-05-“老婆在小公司，工作繁琐常加班，我常写些小工具给她用。老婆提离职，老板却要求必须留下工具，这合理么？”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623605&idx=1&sn=bbe3d597d631cc671b3aaa809aef4d33&chksm=80224774b755ce62dcaea91ec483457741e7ca9829fe9a2dafe31bfa828cbbfbe361bb87adca#rd)  
+- [2026-01-06-2-亿-PornHub-会员数据“裸奔”，观看记录全曝光，社死警告！就问你怕不怕？国内网友：还好我是游客](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623629&idx=1&sn=6e98f66cd91ce44a63f20c1fb0a734bd&chksm=8022470cb755ce1a65c4a132766d81c04b839023488e1552676a4f2b73430138649993d1f0fc#rd)  
 - [2026-01-05-大多数开发者都错误地使用了Prettier](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623605&idx=2&sn=3ca7742a108174fccbb2a1d7efc89aea&chksm=80224774b755ce62e37b9b2830d71c92e3bcd9e2f9841e42de39350ef796f38c930ac2d0c75f#rd)  
+- [2026-01-05-“老婆在小公司，工作繁琐常加班，我常写些小工具给她用。老婆提离职，老板却要求必须留下工具，这合理么？”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623605&idx=1&sn=bbe3d597d631cc671b3aaa809aef4d33&chksm=80224774b755ce62dcaea91ec483457741e7ca9829fe9a2dafe31bfa828cbbfbe361bb87adca#rd)  
 - [2026-01-04-天才用户取用户名为-null，害我熬夜查到两点…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623595&idx=1&sn=06464a6e12ab4fd3d5284db3ac99987a&chksm=8022476ab755ce7cc8b8053f37afc39e5b9c11fe426128cb584d154c4f1aa418160b272eb0c4#rd)  
-- [2025-12-31-前端一行代码生成数千页PDF，dompdf.js新增分页功能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623589&idx=2&sn=706fd8a7f0f83ea53281dded230e1241&chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd)  
 - [2025-12-31-“去你X的！”Go语言之父罕见爆粗，网友却一边倒支持。Python之父也收到，只有一字回应！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623589&idx=1&sn=a16f484b141114904cd17bdb06366382&chksm=80224764b755ce72978542058ed8b9d6acf63182ea2d65a70b257f1885dc2c5ff37039267e37#rd)  
-- [2025-12-24-一种新HTML页面转换成-PDF-技术方案](http://mp.weixin.qq.com/s/IgttNByrz1_3ESzIY0Y4mQ)  
-- [2025-12-23-性能暴涨-3-倍！Prisma-7-颠覆性更新：放弃-Rust-拥抱-TypeScript！](http://mp.weixin.qq.com/s/bROMeTzXZ-Aup_QXZY41Fw)  
-- [2025-12-23-某度员工自称“滥竽充数-10-年”，精准躲过每次裁员。网友：他不是没能力，是没热情了](http://mp.weixin.qq.com/s/MOE79y6CuaUS_O3U8Ww9xg)  
-- [2025-12-22-1-天净赚-9.6-亿！字节火速给全员涨薪](http://mp.weixin.qq.com/s/Pl79btBKFgjfnkuwNCPSKg)  
-- [2025-12-22-如何用Claude-Code-生成顶级UI](http://mp.weixin.qq.com/s/CSj2oDCD_RxX2hkdLMt06w)  
-- [2025-12-19-使用-Chrome-DevTools-MCP-进行调试：让-AI-在浏览器中“拥有双眼”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623546&idx=2&sn=77024551ec6cefcbbb14b4c9dec21081&chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd)  
+- [2025-12-31-前端一行代码生成数千页PDF，dompdf.js新增分页功能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623589&idx=2&sn=706fd8a7f0f83ea53281dded230e1241&chksm=80224764b755ce72851f359dfe63c7dd224e7996db06a8da344ebc9f4f5fc156fae6fadc5b3b#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
