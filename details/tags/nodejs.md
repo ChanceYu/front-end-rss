@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-15 12:33:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-16 00:20:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607) 
 - [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605) 
 - [2025-12-02-Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603) 
 - [2025-11-18-Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601) 

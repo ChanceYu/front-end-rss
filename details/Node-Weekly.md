@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-01-09 00:15:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-16 00:20:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607) 
 - [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606) 
 - [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605) 
 - [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604) 

@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-15 12:33:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-16 00:20:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607) ![](/assets/new.png)  
 - [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)  
 - [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)  
 - [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)  
@@ -66,7 +67,6 @@
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
 - [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)  
 - [2025-07-29-An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)  
-- [2025-07-22-Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2026-01-15-【第3641期】AI-在编写-React-代码方面到底有多强？Addy-Osmani的实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278442&idx=1&sn=d5a2eae3672d1efbd822968c21d5df05&chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&scene=0#rd) ![](/assets/new.png)  
+- [2026-01-15-【第3641期】AI-在编写-React-代码方面到底有多强？Addy-Osmani的实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278442&idx=1&sn=d5a2eae3672d1efbd822968c21d5df05&chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&scene=0#rd)  
 - [2026-01-14-【早阅】别被反AI的热潮带偏了：Antirez的AI编程实践与思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278399&idx=1&sn=fd94d1337290b65910c2eb59423f65a6&chksm=bcf84bc024f5f88e63cbc89b6f9922402bea57c00234497cf6b21b720426016950d34f91c671&scene=0#rd)  
 - [2026-01-13-【第3640期】用-Range-语法让样式查询更灵活](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278392&idx=1&sn=2c0b7c3798f0de16ddca232c4c674017&chksm=bc35afbb64e3784e92d27ad6c62c3d81392a5700cc505e7afe5b141c84c12b0a24155616cb2f&scene=0#rd)  
 - [2026-01-12-【早阅】从技术到体验：用“摩擦与流畅”重新定义网站性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278385&idx=1&sn=cead4151e92dacd2928c74de20fd6e56&chksm=bc16a547fed661ed1491302f324063c1b997492f43a2d5545f40306c03f549bfb7d0cc70f6a4&scene=0#rd)  
