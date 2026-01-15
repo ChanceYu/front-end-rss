@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-14 20:21:39，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-15 08:50:36，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,14 +25,14 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -264,9 +264,9 @@
 </summary>
 
 
-- [2026-01-14-前端缓存：最被低估的性能优化技巧](http://mp.weixin.qq.com/s/Arb2EeIrnrCHC_84oMmDmw) ![](/assets/new.png)  
-- [2026-01-13-强烈建议尽快搞个软考证！（政策红利）](http://mp.weixin.qq.com/s/-R_qKZLEmf2dpq6NgoXG_Q) ![](/assets/new.png)  
-- [2026-01-12-从-DevTools-到智能性能代理：用-AI-重塑前端性能分析的新方式](http://mp.weixin.qq.com/s/B78gtRo_mia3ppretcCkVQ) ![](/assets/new.png)  
+- [2026-01-14-前端缓存：最被低估的性能优化技巧](http://mp.weixin.qq.com/s/Arb2EeIrnrCHC_84oMmDmw)  
+- [2026-01-13-强烈建议尽快搞个软考证！（政策红利）](http://mp.weixin.qq.com/s/-R_qKZLEmf2dpq6NgoXG_Q)  
+- [2026-01-12-从-DevTools-到智能性能代理：用-AI-重塑前端性能分析的新方式](http://mp.weixin.qq.com/s/B78gtRo_mia3ppretcCkVQ)  
 - [2026-01-09-Agent开发必学-8000字长文带你了解下LangChain-生态系统](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528899&idx=1&sn=ba5011b805230ca2b38c6e5a9d215c41&chksm=f9927712cee5fe04df282f43a1522099318965c4d68dcb8b55e6c259026823b5602164cd9c50#rd)  
 - [2026-01-08-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528897&idx=1&sn=e2376b422982b6d06d72409e12feffde&chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd)  
 - [2026-01-07-从失败中重生：一个-AI-Agent-前端落地的真实复盘](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528838&idx=1&sn=61a2d1dc7d698b9f563b3de741301f10&chksm=f9927757cee5fe41c971cd869f2d22f7543423de7570ae26b1eac75011eb864e40c0eb9d6348#rd)  
@@ -481,6 +481,8 @@
 </summary>
 
 
+- [2026-01-14-支配树算法原理及鸿蒙工具实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542401&idx=1&sn=dce712be10c396be13745be4edd757e8&chksm=8390d959b4e7504f3861072f2195d3e9ce345c219eb9eff9a59f8bb5b4c8dac675cc86550a83#rd) ![](/assets/new.png)  
+- [2026-01-12-淘天业务技术2025年度热门文章盘点](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542379&idx=1&sn=3986311d586456a8d69ffeddddbc30b7&chksm=8390d933b4e750252e5a50ba180d0827a484659e5f284d17ed07535e6244136740460a7dc7c2#rd) ![](/assets/new.png)  
 - [2026-01-07-GenAI输出内容控制的5种设计模式](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542372&idx=1&sn=2ce340a20243f07f5e8ff950539e7d61&chksm=8390d93cb4e7502a6fbdce1318fafe0c71bf092c8bc3ff3c393938f8ce535ba559620545bdb8#rd)  
 - [2026-01-05-AI工程vs传统工程-—「道法术」中的变与不变](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542371&idx=1&sn=5db3c1ed73f2c5fe06eb0e3c3cb665a1&chksm=8390d93bb4e7502d5493ff01603a3f0be0eb618e36e576a6329bd05c5f0fb69e32c0d6115acd#rd)  
 - [2025-12-31-AI架构师的诞生：AI+传统DDD模式-=-实现开发效率提升75%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542368&idx=1&sn=a3b1e5cd65b7987557a586d667a56568&chksm=8390d938b4e7502e18ffab7fe753245003d76ffc2aa7b32632dcb38a5d22e4f7058547a6fafa#rd)  
@@ -499,8 +501,6 @@
 - [2025-11-14-页面搭建方案TurboUIBuilder在穿搭星球的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541931&idx=1&sn=a1687e2bfec0083ce651f23407115543&chksm=8390c773b4e74e65c579848f5f489ee9520f678265794ee84f1d63f2cf67d702fcb36977612b#rd)  
 - [2025-11-10-从0到1：天猫AI测试用例生成的实践与突破](http://mp.weixin.qq.com/s/XTKbyk0ZHYYdpY5Hvn4PLw)  
 - [2025-11-07-让AI打出丝滑连招：编码-部署-自测-改bug](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541895&idx=1&sn=6f5f8af100dba54c4675b2c2db62e416&chksm=8390c75fb4e74e49a468adbc1def8010715922b10642a4080feacde2802811377e1238109d52#rd)  
-- [2025-11-03-别让故障复盘流于形式：用AI挖掘每一次“跌倒”的价值](http://mp.weixin.qq.com/s/1bEFbt_y36b86405YzukjA)  
-- [2025-10-29-AI-Coding-长文分享：如何真正把工具用起来，从原理到实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541864&idx=1&sn=d8ee240222727bacf219646ed4e5b914&chksm=8390c730b4e74e26bfcb18d318c7da84c1df3693d34479b4751090c81d780486e9bcc3b2c68b#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

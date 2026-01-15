@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-14T12:21:40.338Z</updated>
+    <updated>2026-01-15T00:50:36.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[支配树算法原理及鸿蒙工具实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542401&amp;idx=1&amp;sn=dce712be10c396be13745be4edd757e8&amp;chksm=8390d959b4e7504f3861072f2195d3e9ce345c219eb9eff9a59f8bb5b4c8dac675cc86550a83#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542401&amp;idx=1&amp;sn=dce712be10c396be13745be4edd757e8&amp;chksm=8390d959b4e7504f3861072f2195d3e9ce345c219eb9eff9a59f8bb5b4c8dac675cc86550a83#rd"/>
+        <updated>2026-01-14T00:00:00.000Z</updated>
+        <published>2026-01-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端缓存：最被低估的性能优化技巧]]></title>
         <id>http://mp.weixin.qq.com/s/Arb2EeIrnrCHC_84oMmDmw</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623546&amp;idx=2&amp;sn=77024551ec6cefcbbb14b4c9dec21081&amp;chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623546&amp;idx=2&amp;sn=77024551ec6cefcbbb14b4c9dec21081&amp;chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd"/>
-        <updated>2025-12-19T00:00:00.000Z</updated>
-        <published>2025-12-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript Bundler Grand Prix]]></title>
-        <id>https://javascriptweekly.com/issues/766</id>
-        <link href="https://javascriptweekly.com/issues/766"/>
         <updated>2025-12-19T00:00:00.000Z</updated>
         <published>2025-12-19T00:00:00.000Z</published>
     </entry>
