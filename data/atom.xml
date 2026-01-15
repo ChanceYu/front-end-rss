@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-15T00:50:36.738Z</updated>
+    <updated>2026-01-15T04:33:29.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3641期】AI 在编写 React 代码方面到底有多强？Addy Osmani的实战指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278442&amp;idx=1&amp;sn=d5a2eae3672d1efbd822968c21d5df05&amp;chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278442&amp;idx=1&amp;sn=d5a2eae3672d1efbd822968c21d5df05&amp;chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&amp;scene=0#rd"/>
+        <updated>2026-01-15T00:00:00.000Z</updated>
+        <published>2026-01-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[支配树算法原理及鸿蒙工具实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542401&amp;idx=1&amp;sn=dce712be10c396be13745be4edd757e8&amp;chksm=8390d959b4e7504f3861072f2195d3e9ce345c219eb9eff9a59f8bb5b4c8dac675cc86550a83#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[性能暴涨 3 倍！Prisma 7 颠覆性更新：放弃 Rust 拥抱 TypeScript！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528637&amp;idx=1&amp;sn=5f5f89ee8c3595537740aabb35699e2a&amp;chksm=f992766ccee5ff7aa6767e4fadd07215c23e007826bc7919e58fd05c6b892e1b87f3a2621af0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528637&amp;idx=1&amp;sn=5f5f89ee8c3595537740aabb35699e2a&amp;chksm=f992766ccee5ff7aa6767e4fadd07215c23e007826bc7919e58fd05c6b892e1b87f3a2621af0#rd"/>
-        <updated>2025-12-19T00:00:00.000Z</updated>
-        <published>2025-12-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623546&amp;idx=2&amp;sn=77024551ec6cefcbbb14b4c9dec21081&amp;chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623546&amp;idx=2&amp;sn=77024551ec6cefcbbb14b4c9dec21081&amp;chksm=802247bbb755ceadebf0ba8f5860b8ce42db1d1a064852861229228c2690ddf6241a8b1d85a9#rd"/>
         <updated>2025-12-19T00:00:00.000Z</updated>
         <published>2025-12-19T00:00:00.000Z</published>
     </entry>

@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-15 08:50:36，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-15 12:33:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2026-01-15-【第3641期】AI-在编写-React-代码方面到底有多强？Addy-Osmani的实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278442&idx=1&sn=d5a2eae3672d1efbd822968c21d5df05&chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&scene=0#rd) ![](/assets/new.png)  
 - [2026-01-14-【早阅】别被反AI的热潮带偏了：Antirez的AI编程实践与思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278399&idx=1&sn=fd94d1337290b65910c2eb59423f65a6&chksm=bcf84bc024f5f88e63cbc89b6f9922402bea57c00234497cf6b21b720426016950d34f91c671&scene=0#rd)  
 - [2026-01-13-【第3640期】用-Range-语法让样式查询更灵活](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278392&idx=1&sn=2c0b7c3798f0de16ddca232c4c674017&chksm=bc35afbb64e3784e92d27ad6c62c3d81392a5700cc505e7afe5b141c84c12b0a24155616cb2f&scene=0#rd)  
 - [2026-01-12-【早阅】从技术到体验：用“摩擦与流畅”重新定义网站性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278385&idx=1&sn=cead4151e92dacd2928c74de20fd6e56&chksm=bc16a547fed661ed1491302f324063c1b997492f43a2d5545f40306c03f549bfb7d0cc70f6a4&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2025-12-22-【第3628期】默认参数：写出更简洁、更安全的函数代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278223&idx=1&sn=f7fa67b2ad3477766a8df709d3ee5789&chksm=bc192b150bc7f3107b9eecb4ec4b76cfb453633a873cb60ee1e1e65ccbf8795c57c93f38380b&scene=0#rd)  
 - [2025-12-19-【早阅】从Vibe-Coding到Vibe-Engineering：LLM时代开发者的生存法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278216&idx=1&sn=a35f1a3a919a834c82c3e2e8faa1d8c4&chksm=bc9bf757b71c91dca87f91dd67d2d040c0040c34bab60689a9358b3dee897b4769289990a24e&scene=0#rd)  
 - [2025-12-18-【第3627期】从媒体查询到样式查询：Chrome-142-如何让-CSS-更懂“数值”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278210&idx=1&sn=64ba5c14880aae308f0e311a22024cc6&chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&scene=0#rd)  
-- [2025-12-17-【早阅】氛围编程：AI-幻觉让你错失-20%-实际生产力，并累积巨额技术债务！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278196&idx=1&sn=6f699934e9709252fde77db6624a3065&chksm=bcf73edb56d06e6db163596073e45e32c908cad797321c49b8714cbcab0898e6688995916cc6&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,8 +481,8 @@
 </summary>
 
 
-- [2026-01-14-支配树算法原理及鸿蒙工具实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542401&idx=1&sn=dce712be10c396be13745be4edd757e8&chksm=8390d959b4e7504f3861072f2195d3e9ce345c219eb9eff9a59f8bb5b4c8dac675cc86550a83#rd) ![](/assets/new.png)  
-- [2026-01-12-淘天业务技术2025年度热门文章盘点](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542379&idx=1&sn=3986311d586456a8d69ffeddddbc30b7&chksm=8390d933b4e750252e5a50ba180d0827a484659e5f284d17ed07535e6244136740460a7dc7c2#rd) ![](/assets/new.png)  
+- [2026-01-14-支配树算法原理及鸿蒙工具实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542401&idx=1&sn=dce712be10c396be13745be4edd757e8&chksm=8390d959b4e7504f3861072f2195d3e9ce345c219eb9eff9a59f8bb5b4c8dac675cc86550a83#rd)  
+- [2026-01-12-淘天业务技术2025年度热门文章盘点](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542379&idx=1&sn=3986311d586456a8d69ffeddddbc30b7&chksm=8390d933b4e750252e5a50ba180d0827a484659e5f284d17ed07535e6244136740460a7dc7c2#rd)  
 - [2026-01-07-GenAI输出内容控制的5种设计模式](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542372&idx=1&sn=2ce340a20243f07f5e8ff950539e7d61&chksm=8390d93cb4e7502a6fbdce1318fafe0c71bf092c8bc3ff3c393938f8ce535ba559620545bdb8#rd)  
 - [2026-01-05-AI工程vs传统工程-—「道法术」中的变与不变](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542371&idx=1&sn=5db3c1ed73f2c5fe06eb0e3c3cb665a1&chksm=8390d93bb4e7502d5493ff01603a3f0be0eb618e36e576a6329bd05c5f0fb69e32c0d6115acd#rd)  
 - [2025-12-31-AI架构师的诞生：AI+传统DDD模式-=-实现开发效率提升75%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542368&idx=1&sn=a3b1e5cd65b7987557a586d667a56568&chksm=8390d938b4e7502e18ffab7fe753245003d76ffc2aa7b32632dcb38a5d22e4f7058547a6fafa#rd)  
