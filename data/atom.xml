@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-15T16:20:54.883Z</updated>
+    <updated>2026-01-16T00:54:00.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[前端缓存：最被低估的性能优化技巧]]></title>
         <id>http://mp.weixin.qq.com/s/Arb2EeIrnrCHC_84oMmDmw</id>
         <link href="http://mp.weixin.qq.com/s/Arb2EeIrnrCHC_84oMmDmw"/>
+        <updated>2026-01-14T00:00:00.000Z</updated>
+        <published>2026-01-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪联手Shadcn！发布全新最强 AI 组件库！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508056&amp;idx=1&amp;sn=bb1726f9cc7c911c7be1555d753a1e91&amp;chksm=ce45b5c9f9323cdf400ad0c6921bb199bd46e7a0bd632248cbf60db1bde51f576b5552003187#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508056&amp;idx=1&amp;sn=bb1726f9cc7c911c7be1555d753a1e91&amp;chksm=ce45b5c9f9323cdf400ad0c6921bb199bd46e7a0bd632248cbf60db1bde51f576b5552003187#rd"/>
         <updated>2026-01-14T00:00:00.000Z</updated>
         <published>2026-01-14T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我写了一个超级简单的浏览器插件Vue开发模板]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528659&amp;idx=1&amp;sn=9e055a98475aa14ba0189323b96e0483&amp;chksm=f9927602cee5ff141c026c9c66ffeb8e4a2d3c848fc8887cff23d25f4b6f69726ef75c82dfdd#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528659&amp;idx=1&amp;sn=9e055a98475aa14ba0189323b96e0483&amp;chksm=f9927602cee5ff141c026c9c66ffeb8e4a2d3c848fc8887cff23d25f4b6f69726ef75c82dfdd#rd"/>
-        <updated>2025-12-22T00:00:00.000Z</updated>
-        <published>2025-12-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3628期】默认参数：写出更简洁、更安全的函数代码]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278223&amp;idx=1&amp;sn=f7fa67b2ad3477766a8df709d3ee5789&amp;chksm=bc192b150bc7f3107b9eecb4ec4b76cfb453633a873cb60ee1e1e65ccbf8795c57c93f38380b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278223&amp;idx=1&amp;sn=f7fa67b2ad3477766a8df709d3ee5789&amp;chksm=bc192b150bc7f3107b9eecb4ec4b76cfb453633a873cb60ee1e1e65ccbf8795c57c93f38380b&amp;scene=0#rd"/>
         <updated>2025-12-22T00:00:00.000Z</updated>
         <published>2025-12-22T00:00:00.000Z</published>
     </entry>
