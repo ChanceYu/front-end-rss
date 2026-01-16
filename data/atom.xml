@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-16T04:31:00.508Z</updated>
+    <updated>2026-01-16T14:13:56.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[纯CSS实现折线连接两个任意元素效果]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/"/>
+        <updated>2026-01-16T00:00:00.000Z</updated>
+        <published>2026-01-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3642期】document.currentScript：被忽视却超实用的前端小技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278454&amp;idx=1&amp;sn=ddabfeba4caf5df58de80e05fc4d1a22&amp;chksm=bc34b5159ca9f5b5a37eacdc08d5ce0d2e5a7f83738964a1a5a4302180a89ecbb6212e09e7b4&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278227&amp;idx=1&amp;sn=15f7d73db285cdb284e2a5bfd0aee702&amp;chksm=bc5dc1e373c4cd90799524d0ffa1fef4d2b478da982e8164ffe2aca49bcb446c319715c2c53a&amp;scene=0#rd"/>
         <updated>2025-12-23T00:00:00.000Z</updated>
         <published>2025-12-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[补全不足，CSS锚点定位支持锚定容器回退检测了]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/"/>
-        <updated>2025-12-22T00:00:00.000Z</updated>
-        <published>2025-12-22T00:00:00.000Z</published>
     </entry>
 </feed>
