@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-16 08:53:59，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-16 12:31:00，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,6 +109,8 @@
 </summary>
 
 
+- [2026-01-16-【招聘】杭州古茗招P6前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=2&sn=5dfc313b9d4fc13cbc9179258c2a65b0&chksm=bc7e55c34604a19d3ddc2c0b1ee5aa26dde6cd338b18dd37600e8344086f79d74371445c2baf&scene=0#rd) ![](/assets/new.png)  
+- [2026-01-16-【第3642期】document.currentScript：被忽视却超实用的前端小技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=1&sn=ddabfeba4caf5df58de80e05fc4d1a22&chksm=bc34b5159ca9f5b5a37eacdc08d5ce0d2e5a7f83738964a1a5a4302180a89ecbb6212e09e7b4&scene=0#rd) ![](/assets/new.png)  
 - [2026-01-15-【第3641期】AI-在编写-React-代码方面到底有多强？Addy-Osmani的实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278442&idx=1&sn=d5a2eae3672d1efbd822968c21d5df05&chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&scene=0#rd)  
 - [2026-01-14-【早阅】别被反AI的热潮带偏了：Antirez的AI编程实践与思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278399&idx=1&sn=fd94d1337290b65910c2eb59423f65a6&chksm=bcf84bc024f5f88e63cbc89b6f9922402bea57c00234497cf6b21b720426016950d34f91c671&scene=0#rd)  
 - [2026-01-13-【第3640期】用-Range-语法让样式查询更灵活](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278392&idx=1&sn=2c0b7c3798f0de16ddca232c4c674017&chksm=bc35afbb64e3784e92d27ad6c62c3d81392a5700cc505e7afe5b141c84c12b0a24155616cb2f&scene=0#rd)  
@@ -127,8 +129,6 @@
 - [2025-12-24-【第3630期】从依赖到原生：15-个-Node.js-新特性提升开发效率与安全性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278232&idx=1&sn=d4c12993848286edfac7b9a0baa4c0ad&chksm=bc5a9538f69fe825d19e92b02aff91e8fb98a085583dd1082326ecb0187181313f8f4fff1c31&scene=0#rd)  
 - [2025-12-23-【第3629期】2025版现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278227&idx=1&sn=15f7d73db285cdb284e2a5bfd0aee702&chksm=bc5dc1e373c4cd90799524d0ffa1fef4d2b478da982e8164ffe2aca49bcb446c319715c2c53a&scene=0#rd)  
 - [2025-12-22-【第3628期】默认参数：写出更简洁、更安全的函数代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278223&idx=1&sn=f7fa67b2ad3477766a8df709d3ee5789&chksm=bc192b150bc7f3107b9eecb4ec4b76cfb453633a873cb60ee1e1e65ccbf8795c57c93f38380b&scene=0#rd)  
-- [2025-12-19-【早阅】从Vibe-Coding到Vibe-Engineering：LLM时代开发者的生存法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278216&idx=1&sn=a35f1a3a919a834c82c3e2e8faa1d8c4&chksm=bc9bf757b71c91dca87f91dd67d2d040c0040c34bab60689a9358b3dee897b4769289990a24e&scene=0#rd)  
-- [2025-12-18-【第3627期】从媒体查询到样式查询：Chrome-142-如何让-CSS-更懂“数值”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278210&idx=1&sn=64ba5c14880aae308f0e311a22024cc6&chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,8 +202,8 @@
 </summary>
 
 
-- [2026-01-15-VsCode推出-“橙色版”-“绿色版”-！一个像御姐一个像萝莉](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508096&idx=1&sn=5b343f3de22448dbb36ac2fc68e68aaa&chksm=ce45b511f9323c07e374c19e0bde5b6aa30c806405ef15428cb08a02dbe8eb8f28989a3824c9#rd) ![](/assets/new.png)  
-- [2026-01-14-尤雨溪联手Shadcn！发布全新最强-AI-组件库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508056&idx=1&sn=bb1726f9cc7c911c7be1555d753a1e91&chksm=ce45b5c9f9323cdf400ad0c6921bb199bd46e7a0bd632248cbf60db1bde51f576b5552003187#rd) ![](/assets/new.png)  
+- [2026-01-15-VsCode推出-“橙色版”-“绿色版”-！一个像御姐一个像萝莉](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508096&idx=1&sn=5b343f3de22448dbb36ac2fc68e68aaa&chksm=ce45b511f9323c07e374c19e0bde5b6aa30c806405ef15428cb08a02dbe8eb8f28989a3824c9#rd)  
+- [2026-01-14-尤雨溪联手Shadcn！发布全新最强-AI-组件库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508056&idx=1&sn=bb1726f9cc7c911c7be1555d753a1e91&chksm=ce45b5c9f9323cdf400ad0c6921bb199bd46e7a0bd632248cbf60db1bde51f576b5552003187#rd)  
 - [2026-01-13-Pinia-推倒，重做！Vue开发者有福了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508011&idx=1&sn=d9b1581d79f7380d3957ae99f6d2c6be&chksm=ce45b5baf9323cac41e1bbadca3b197861012a4b5540697b7c145d4340a5907972f3c937036f#rd)  
 - [2026-01-12-打骨折了...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507809&idx=1&sn=bd25d615f3686c6a7c3d8ad97181c59f&chksm=ce45caf0f93243e613764dcd2303e278ff75bce2dffbfc7e5babbbb963b9553ee0f58eed1c5c#rd)  
 - [2026-01-11-想钱想疯了！Tailwind又放狠话：不收购我，就搞崩你们！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507902&idx=1&sn=e4d0e4ba29921939a3491f4ecaf05bd7&chksm=ce45ca2ff932433951a17744232563b7bd5840729a25652f238e9064c993f050ee411e590994#rd)  
