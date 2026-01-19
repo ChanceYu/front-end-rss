@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-16T14:13:56.239Z</updated>
+    <updated>2026-01-19T04:42:44.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS text-decoration-inset属性首发简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/"/>
+        <updated>2026-01-19T00:00:00.000Z</updated>
+        <published>2026-01-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd"/>
+        <updated>2026-01-19T00:00:00.000Z</updated>
+        <published>2026-01-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【图书】JavaScript 高级编程权威指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd"/>
+        <updated>2026-01-19T00:00:00.000Z</updated>
+        <published>2026-01-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纯CSS实现折线连接两个任意元素效果]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/</id>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[为什么 next.js 也适合后台管理系统]]></title>
         <id>http://mp.weixin.qq.com/s/o4vSfWPkdHDYq0NCRd9tNQ</id>
         <link href="http://mp.weixin.qq.com/s/o4vSfWPkdHDYq0NCRd9tNQ"/>
-        <updated>2025-12-23T00:00:00.000Z</updated>
-        <published>2025-12-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS if() 函数上线啦！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528668&amp;idx=1&amp;sn=1587f30ba73cecbdff86eab41dbd110f&amp;chksm=f992760dcee5ff1b18a895a5329e1bd79728201b2d3f34f3c214d91ac29eae14bd24df1dd7a2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528668&amp;idx=1&amp;sn=1587f30ba73cecbdff86eab41dbd110f&amp;chksm=f992760dcee5ff1b18a895a5329e1bd79728201b2d3f34f3c214d91ac29eae14bd24df1dd7a2#rd"/>
-        <updated>2025-12-23T00:00:00.000Z</updated>
-        <published>2025-12-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[性能暴涨 3 倍！Prisma 7 颠覆性更新：放弃 Rust 拥抱 TypeScript！]]></title>
-        <id>http://mp.weixin.qq.com/s/bROMeTzXZ-Aup_QXZY41Fw</id>
-        <link href="http://mp.weixin.qq.com/s/bROMeTzXZ-Aup_QXZY41Fw"/>
-        <updated>2025-12-23T00:00:00.000Z</updated>
-        <published>2025-12-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3629期】2025版现代 Node.js 开发模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278227&amp;idx=1&amp;sn=15f7d73db285cdb284e2a5bfd0aee702&amp;chksm=bc5dc1e373c4cd90799524d0ffa1fef4d2b478da982e8164ffe2aca49bcb446c319715c2c53a&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278227&amp;idx=1&amp;sn=15f7d73db285cdb284e2a5bfd0aee702&amp;chksm=bc5dc1e373c4cd90799524d0ffa1fef4d2b478da982e8164ffe2aca49bcb446c319715c2c53a&amp;scene=0#rd"/>
         <updated>2025-12-23T00:00:00.000Z</updated>
         <published>2025-12-23T00:00:00.000Z</published>
     </entry>
