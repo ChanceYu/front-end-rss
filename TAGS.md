@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-01-22 22:21:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-01-23 00:20:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)
 - [【Node-Weekly】A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)
 - [【Node-Weekly】'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)
 - [【Node-Weekly】Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】Node.js-24-released](https://nodeweekly.com/issues/577)
 - [【Node-Weekly】Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)
 - [【Node-Weekly】Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)
-- [【Node-Weekly】Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
