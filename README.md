@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-22 16:16:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-22 22:21:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,10 +30,10 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -419,7 +419,7 @@
 </summary>
 
 
-- [2026-01-21-写给前端同学的-21-条职场教训](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517511&idx=1&sn=f1b281e31c824b625c8d0308ae4ed9f9&chksm=eb07bd3edc703428a8ed08712bf5125937a135bc513caf03c47aeb5e09a5116751676feeec02#rd) ![](/assets/new.png)  
+- [2026-01-21-写给前端同学的-21-条职场教训](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517511&idx=1&sn=f1b281e31c824b625c8d0308ae4ed9f9&chksm=eb07bd3edc703428a8ed08712bf5125937a135bc513caf03c47aeb5e09a5116751676feeec02#rd)  
 - [2026-01-19-十年首更！jQuery-4.0-全新发布，开启新篇章！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517509&idx=1&sn=17e33610195980e20120c34117097882&chksm=eb07bd3cdc70342a92684a29d264ed9ee4993a79caf262783f0bc90fda746fb4942c04192a76#rd)  
 - [2026-01-12-Chrome-新-API：仅-6-行-HTML！页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517507&idx=1&sn=a6f4ad2cc56005263c666f6dbce84219&chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd)  
 - [2026-01-10-使用量暴涨的同时，这个全球最火前端工具宣布大裁员！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517505&idx=1&sn=eaf4f1b691096f5df752f8c96b0f1e60&chksm=eb07bd38dc70342ec3aca88fc29c054dfeff70ebc54d00649528a6d2b75fc6842dd3a40ddf61#rd)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2026-01-22-Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/) ![](/assets/new.png)  
 - [2026-01-19-CSS-text-decoration-inset属性首发简介](https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/)  
 - [2026-01-16-纯CSS实现折线连接两个任意元素效果](https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/)  
 - [2026-01-05-学会使用CSSStyleSheet构造CSS样式](https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/)  
@@ -531,7 +532,6 @@
 - [2025-09-19-CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/)  
 - [2025-09-15-使用CSS-linear函数实现更逼真的物理动画效果](https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/)  
 - [2025-09-05-@function自定义函数让CSS支持编程啦](https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/)  
-- [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
