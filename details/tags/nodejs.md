@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-23 00:20:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-23 12:34:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -133,6 +133,7 @@
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701) 
 - [2022-10-14-Node-to-keep-an-eye-on-your-code](https://javascriptweekly.com/issues/610) 
 - [2022-04-22-Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586) 
+- [2026-01-23-【第3647期】在-Node.js-中使用requireesm：从实验到稳定](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278525&idx=1&sn=a0e5717714ffe5ebbda22a6eebd6df89&chksm=bc952882e028b06793c1579969bc5e7faf3d35997ef81d3d98dcf02d2269611517a583d19b96&scene=0#rd) 
 - [2025-12-24-【第3630期】从依赖到原生：15-个-Node.js-新特性提升开发效率与安全性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278232&idx=1&sn=d4c12993848286edfac7b9a0baa4c0ad&chksm=bc5a9538f69fe825d19e92b02aff91e8fb98a085583dd1082326ecb0187181313f8f4fff1c31&scene=0#rd) 
 - [2025-12-23-【第3629期】2025版现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278227&idx=1&sn=15f7d73db285cdb284e2a5bfd0aee702&chksm=bc5dc1e373c4cd90799524d0ffa1fef4d2b478da982e8164ffe2aca49bcb446c319715c2c53a&scene=0#rd) 
 - [2025-12-01-【第3620期】从崩溃到优雅：Node.js-错误处理的正确姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278024&idx=1&sn=60cc64389d04ede80e9340f888a8fc1a&chksm=bcdc7697e210077a76ec180c81cd513ba2784ea7f6ffaee5f805bce8fcd90d5253855ac62dae&scene=0#rd) 
@@ -154,8 +155,8 @@
 - [2022-09-19-【第2734期】JavaScript-&amp;-Node.js-的测试最佳实践---第二章：后端测试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257980&idx=1&sn=f39c7c5770c4e19e02f4f2e78830e0ed&chksm=bd4925f88a3eacee35c60ec32e4506c7b6afd00b5065d45ee6e80da8ff941bd5dcc944c881aa#rd) 
 - [2022-09-18-【第2733期】如何优化-Node.js-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257976&idx=1&sn=e2affd0e0ac9c9436e5feff963ffb6b9&chksm=bd4925fc8a3eaceaa8d60da6de86f7ed15df3d5fef43f8c9fa12aadc3f751d9dffcf1b23e9cf#rd) 
 - [2022-09-17-【第2732期】JavaScript-&amp;-Node.js-的测试最佳实践---第一章:-测试剖析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257972&idx=1&sn=cdbb6190c73ff3e99309b629001e26e1&chksm=bd4925f08a3eace6374abd34526a0bda55ce48c30c0b70d968699c1511aae43761fe0f36146e#rd) 
-- [2022-07-30-【活动】2022年8月8日，NodeParty-来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256915&idx=2&sn=05053d91f2698d1f5281137944f71a55&chksm=bd4921d78a3ea8c1ec9aa1253c0be2eceaa4ff6ebbd7b380bca6b644b864676fdcb6c1df68d4#rd) 
 - [2022-07-30-【第2686期】蚂蚁@天猪：我的Node.js-十年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256915&idx=1&sn=9b89cf88137cc70f3a3c2ae9cee1e07d&chksm=bd4921d78a3ea8c198f181c2b5246397f2a4aec8d2461c5ed0797f32f8e6591357bbdb49a428#rd) 
+- [2022-07-30-【活动】2022年8月8日，NodeParty-来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256915&idx=2&sn=05053d91f2698d1f5281137944f71a55&chksm=bd4921d78a3ea8c1ec9aa1253c0be2eceaa4ff6ebbd7b380bca6b644b864676fdcb6c1df68d4#rd) 
 - [2022-03-08-【招聘】字节跳动飞书文档Node中台团队前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253108&idx=2&sn=443526fde1dac28e457fddb13055e2fe&chksm=bd4930f08a3eb9e6c66c0f0b2c7e672b42bbbb0d1cc59a0fad1c2c2e671d97c65c75a570b114#rd) 
 - [2022-01-23-【第2520期】为什么你应该考虑将-node_modules-上传到远程仓库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252508&idx=1&sn=50b5adf24f9007a13e7471aefd480e85&chksm=bd493e988a3eb78e965b39b2d06c7715ce601f0e5d44fb89820239fc959a3f9293b4b7bd5d5a#rd) 
 - [2021-06-02-【第2297期】WebContainers简介：在你的浏览器中运行Node.js](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246542&idx=2&sn=af9d08bfa3990a4790a321ba70546331&chksm=bd49164a8a3e9f5c511de4a39454990902bc236d01bc2a01cbdf29c842af8c36e60ba0fc2674&scene=27#wechat_redirect) 
@@ -184,8 +185,8 @@
 - [2019-07-07-【第1661期】-Node.js环境性能监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=1&sn=a48d2243fb88f7e2a4677b87a22aaaa7#rd) 
 - [2019-06-27-【第1651期】如何分析-Node.js-中的内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=2&sn=949c22914887fe5b639f6ac7b9ec59c2#rd) 
 - [2019-06-26-【图书】狼书（卷1）：更了不起的Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=2&sn=cb47a5978f35475f19ae1403988f65d6#rd) 
-- [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd) 
 - [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd) 
+- [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd) 
 - [2019-04-14-【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd) 
 - [2019-03-23-【招聘】天猫技术部招2020届Web前端,Node.js,数据可视化方向实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231803&idx=2&sn=5455d9be2ba40774a77c775cc179107a#rd) 
 - [2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect) 
@@ -388,6 +389,7 @@
 - [2018-10-24-Node.js-11-发布，Node-10正式进入LTS](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489741&idx=1&sn=66fef72ecf1233bdc48ad44345183b4d#wechat_redirect) 
 - [2018-10-22-如何创建高性能、可扩展的Node.js应用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489726&idx=1&sn=01f914f1f9daba3a9bc116ac7d06dd50#wechat_redirect) 
 - [2018-09-23-Electron-3.0正式版发布，新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489563&idx=1&sn=143a32f20520df0a25651099e14e870c#wechat_redirect) 
+- [2026-01-22-😨震惊！NodeJS之父直言：人类编写代码的时代结束了😭](http://mp.weixin.qq.com/s/3mD3r-1z0QPuuGIeJfu44w) 
 - [2025-12-04-Nodejs-运行时被收购！半年营收十亿美元](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506798&idx=1&sn=0348bbb9cf58a9e2dbc2d1fb13336c65&chksm=ce45cefff93247e91eef6a8284a38bf9bdc006cf064d4c65aaaa4f417f5a7a1c86d9799850fe#rd) 
 - [2025-04-26-Nodejs-迎来了有史以来的最大的-9-个更新！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503897&idx=1&sn=42227c917008830541b510c90761bade&chksm=ce45c588f9324c9e1c2ca0b140f724d6f60c0efe0d7d55a5679f883c7bbd9feb83ff04deff0f#rd) 
 - [2025-04-04-前端神库！让你能在-Nodejs-里操作浏览器玩出花样！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503545&idx=1&sn=5df67b41ad7f5c2a2512502cb1867747&chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd) 

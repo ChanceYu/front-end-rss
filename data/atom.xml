@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-22T16:20:03.606Z</updated>
+    <updated>2026-01-23T04:34:10.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,30 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Chrome 新 API：仅 5 行代码！直接读写本地文件！]]></title>
+        <id>http://mp.weixin.qq.com/s/Tp1-Ov02QNGoYCDrugL0qg</id>
+        <link href="http://mp.weixin.qq.com/s/Tp1-Ov02QNGoYCDrugL0qg"/>
+        <updated>2026-01-23T00:00:00.000Z</updated>
+        <published>2026-01-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3647期】在 Node.js 中使用require(esm)：从实验到稳定]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278525&amp;idx=1&amp;sn=a0e5717714ffe5ebbda22a6eebd6df89&amp;chksm=bc952882e028b06793c1579969bc5e7faf3d35997ef81d3d98dcf02d2269611517a583d19b96&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278525&amp;idx=1&amp;sn=a0e5717714ffe5ebbda22a6eebd6df89&amp;chksm=bc952882e028b06793c1579969bc5e7faf3d35997ef81d3d98dcf02d2269611517a583d19b96&amp;scene=0#rd"/>
+        <updated>2026-01-23T00:00:00.000Z</updated>
+        <published>2026-01-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Promise.try()和Promise.withResolvers()作用速览]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/"/>
+        <updated>2026-01-22T00:00:00.000Z</updated>
+        <published>2026-01-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😨震惊！NodeJS之父直言：人类编写代码的时代结束了😭]]></title>
+        <id>http://mp.weixin.qq.com/s/3mD3r-1z0QPuuGIeJfu44w</id>
+        <link href="http://mp.weixin.qq.com/s/3mD3r-1z0QPuuGIeJfu44w"/>
         <updated>2026-01-22T00:00:00.000Z</updated>
         <published>2026-01-22T00:00:00.000Z</published>
     </entry>
@@ -34,6 +55,13 @@
         <link href="https://nodeweekly.com/issues/608"/>
         <updated>2026-01-22T00:00:00.000Z</updated>
         <published>2026-01-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？]]></title>
+        <id>http://mp.weixin.qq.com/s/aXhDQk7Wxa6rZg4ms0I3Tg</id>
+        <link href="http://mp.weixin.qq.com/s/aXhDQk7Wxa6rZg4ms0I3Tg"/>
+        <updated>2026-01-21T00:00:00.000Z</updated>
+        <published>2026-01-21T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3645期】如何在没有源码的情况下重建任意 React 组件]]></title>
@@ -106,16 +134,16 @@
         <published>2026-01-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】JavaScript 高级编程权威指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd"/>
         <updated>2026-01-19T00:00:00.000Z</updated>
         <published>2026-01-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】JavaScript 高级编程权威指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd"/>
         <updated>2026-01-19T00:00:00.000Z</updated>
         <published>2026-01-19T00:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="https://javascriptweekly.com/issues/767"/>
         <updated>2026-01-06T00:00:00.000Z</updated>
         <published>2026-01-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学会使用CSSStyleSheet构造CSS样式]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/"/>
-        <updated>2026-01-05T00:00:00.000Z</updated>
-        <published>2026-01-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公司 React 应用感觉很慢，我把没必要的重复渲染砍掉了 40%!]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528820&amp;idx=1&amp;sn=3df4c71c941a7b1670226aabf7c2ee64&amp;chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528820&amp;idx=1&amp;sn=3df4c71c941a7b1670226aabf7c2ee64&amp;chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd"/>
-        <updated>2026-01-05T00:00:00.000Z</updated>
-        <published>2026-01-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大多数开发者都错误地使用了Prettier]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623605&amp;idx=2&amp;sn=3ca7742a108174fccbb2a1d7efc89aea&amp;chksm=80224774b755ce62e37b9b2830d71c92e3bcd9e2f9841e42de39350ef796f38c930ac2d0c75f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623605&amp;idx=2&amp;sn=3ca7742a108174fccbb2a1d7efc89aea&amp;chksm=80224774b755ce62e37b9b2830d71c92e3bcd9e2f9841e42de39350ef796f38c930ac2d0c75f#rd"/>
-        <updated>2026-01-05T00:00:00.000Z</updated>
-        <published>2026-01-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3635期】用 JavaScript + JSDoc + tsc，优雅取代 TypeScript 的最佳实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278339&amp;idx=1&amp;sn=dbccbeb9b02e73028a780dc2543b8272&amp;chksm=bca0ffbe96b15621c40adabadaa7dea82c5c57e29ca920c903bd94b6cfcf87bb5afbb0002ccf&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278339&amp;idx=1&amp;sn=dbccbeb9b02e73028a780dc2543b8272&amp;chksm=bca0ffbe96b15621c40adabadaa7dea82c5c57e29ca920c903bd94b6cfcf87bb5afbb0002ccf&amp;scene=0#rd"/>
-        <updated>2026-01-05T00:00:00.000Z</updated>
-        <published>2026-01-05T00:00:00.000Z</published>
     </entry>
 </feed>

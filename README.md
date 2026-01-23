@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-23 00:20:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-23 12:34:10，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608) ![](/assets/new.png)  
+- [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)  
 - [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)  
 - [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)  
 - [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)  
@@ -109,13 +109,14 @@
 </summary>
 
 
+- [2026-01-23-【第3647期】在-Node.js-中使用requireesm：从实验到稳定](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278525&idx=1&sn=a0e5717714ffe5ebbda22a6eebd6df89&chksm=bc952882e028b06793c1579969bc5e7faf3d35997ef81d3d98dcf02d2269611517a583d19b96&scene=0#rd) ![](/assets/new.png)  
 - [2026-01-22-【第3646期】别再把一切都变成数组了！少做点无用功](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278501&idx=1&sn=4a13eb278c2f5ce66c4b46ede112eeb0&chksm=bcfe3e8d7aec66ee05e99fc7dfcbf318fbf02d2be88994d1ac9d92e9e9aca2ee9327c40c7211&scene=0#rd)  
 - [2026-01-21-【第3645期】如何在没有源码的情况下重建任意-React-组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278496&idx=1&sn=c5f31a8bd1651c1426d76f2f4ac462eb&chksm=bc784a3e6088ffede1add8317c39171990bddac7660e93d418c973edabec3b8fe7595ffdb589&scene=0#rd)  
 - [2026-01-20-【第3644期】构建类型安全的复合组件：让灵活与安全兼得的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278480&idx=1&sn=e8e4caef1b2b3253b6922cd7cd30e483&chksm=bc6e71e5b890a9047670d7455687099643d3800e442ab46f22542f0e2a066c89cd91e07c99e2&scene=0#rd)  
-- [2026-01-19-【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278475&idx=1&sn=35ee14939a0ca527fa6f651b32a78b26&chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&scene=0#rd)  
 - [2026-01-19-【图书】JavaScript-高级编程权威指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278475&idx=2&sn=0a316ad05505e05aa97532ac6ea655c1&chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&scene=0#rd)  
-- [2026-01-16-【招聘】杭州古茗招P6前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=2&sn=5dfc313b9d4fc13cbc9179258c2a65b0&chksm=bc7e55c34604a19d3ddc2c0b1ee5aa26dde6cd338b18dd37600e8344086f79d74371445c2baf&scene=0#rd)  
+- [2026-01-19-【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278475&idx=1&sn=35ee14939a0ca527fa6f651b32a78b26&chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&scene=0#rd)  
 - [2026-01-16-【第3642期】document.currentScript：被忽视却超实用的前端小技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=1&sn=ddabfeba4caf5df58de80e05fc4d1a22&chksm=bc34b5159ca9f5b5a37eacdc08d5ce0d2e5a7f83738964a1a5a4302180a89ecbb6212e09e7b4&scene=0#rd)  
+- [2026-01-16-【招聘】杭州古茗招P6前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=2&sn=5dfc313b9d4fc13cbc9179258c2a65b0&chksm=bc7e55c34604a19d3ddc2c0b1ee5aa26dde6cd338b18dd37600e8344086f79d74371445c2baf&scene=0#rd)  
 - [2026-01-15-【第3641期】AI-在编写-React-代码方面到底有多强？Addy-Osmani的实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278442&idx=1&sn=d5a2eae3672d1efbd822968c21d5df05&chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&scene=0#rd)  
 - [2026-01-14-【早阅】别被反AI的热潮带偏了：Antirez的AI编程实践与思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278399&idx=1&sn=fd94d1337290b65910c2eb59423f65a6&chksm=bcf84bc024f5f88e63cbc89b6f9922402bea57c00234497cf6b21b720426016950d34f91c671&scene=0#rd)  
 - [2026-01-13-【第3640期】用-Range-语法让样式查询更灵活](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278392&idx=1&sn=2c0b7c3798f0de16ddca232c4c674017&chksm=bc35afbb64e3784e92d27ad6c62c3d81392a5700cc505e7afe5b141c84c12b0a24155616cb2f&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2026-01-04-【第3634期】React-Grab-for-Agents：让浏览器直接变成你的智能编码助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278322&idx=1&sn=c43cce27b410fbb89591247416026b52&chksm=bcade6422588c9d2478ee099e5a845982be3fc422b77b6b6ea7270e951d3442f736400efd6d1&scene=0#rd)  
 - [2025-12-31-【第3633期】管理依赖，其实是管理工程思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278317&idx=1&sn=553ce6e2c4ea7e5969e1a05673b1e22a&chksm=bc095cc4e70c049805f7fb984d16991d21e21f93c23de5c43306e5064b872a8625cec7e6fbb5&scene=0#rd)  
 - [2025-12-30-【早阅】技术债治理手册：五步作战计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278292&idx=1&sn=bf2044a51442a2d8090f5a78180b2a05&chksm=bceeb2eaa8cacbb3be658311bc880040751f56c9a94fe140efb9b60e41941b283f38128ed729&scene=0#rd)  
-- [2025-12-29-【第3632期】真相揭秘：JavaScript-中根本没有真正的“取消异步”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278276&idx=1&sn=3f36efc7cba4f4d0e2108117f7d66f69&chksm=bc032f9918cf025bb50e9bf1c45f46e8e89df5abb5982c78fbb71109ee4d914ed4e6586f5964&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -171,9 +171,10 @@
 </summary>
 
 
+- [2026-01-21-烧掉数万亿-Token、数百-Agent-连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？](http://mp.weixin.qq.com/s/aXhDQk7Wxa6rZg4ms0I3Tg) ![](/assets/new.png)  
 - [2026-01-06-信息图的不可能三角，被这个开源项目打破了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526503&idx=1&sn=907c88cb06ac0b09dc308018d0fdc2d4&chksm=f952dd24ce25543252ddfdd3f62994fd95d30039f17040ec08c6837421e93021c397f6a990c2#rd)  
-- [2025-12-14-沙龙报名-|-AI领航，跨端技术新范式！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=2&sn=06a841bf0bdb146ac14499ea30a7ea60&chksm=f952dd44ce2554521db848180e92b2a624d93022b86ee8c20495a44f1f10a69102e927d9825d#rd)  
 - [2025-12-14-Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=1&sn=927074d89c3d51f41041e230de48c673&chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd)  
+- [2025-12-14-沙龙报名-|-AI领航，跨端技术新范式！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=2&sn=06a841bf0bdb146ac14499ea30a7ea60&chksm=f952dd44ce2554521db848180e92b2a624d93022b86ee8c20495a44f1f10a69102e927d9825d#rd)  
 - [2025-12-02-全球前端岗位招聘需求断崖下降-9.89%，前端的未来究竟在哪里？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526386&idx=1&sn=e67f786252a6b088d62c6994a014a8a2&chksm=f952d2b1ce255ba76066a1cf107e97324c8a910e331cf75ea4071717e82f9078bb121fa5fa65#rd)  
 - [2025-11-23-Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw)  
 - [2025-11-16-印度迎来AI工具“0元购”时代！OpenAI、谷歌等巨头内心os：别急，先让他们上瘾，我们再来收费](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526362&idx=1&sn=534112b862b7b641c0cbd3f86fa5d48f&chksm=f952d299ce255b8feffa5fc55414d7d748826d70a7cc4cfac0b8476d94c2e3bf2b87349cdb3f#rd)  
@@ -190,7 +191,6 @@
 - [2025-08-05-深度对话-Vue-与-Vite-之父尤雨溪：前端的未来、Rust、AI-与开源商业化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526222&idx=1&sn=c3d10bb5e590d96a47fb8564bed668c8&chksm=f952d20dce255b1ba43f48fb1c9a4e29e092bddf912e4734f278ff79f2c717d2512b212aaa3c#rd)  
 - [2025-07-30-Remix-3终结以React为中心的架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526200&idx=1&sn=fa6ce30ed5f115e239c6548a1f8adb54&chksm=f952d27bce255b6d0f086e500a0290f5efec791488e84294bf9883d81676fe7d0f5302797965#rd)  
 - [2025-07-18-GitHub-2.5万星！日本开发者打造的Hono火了：定义后React时代微框架的轻量未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526177&idx=1&sn=acde5cec1ba299efe633a3614de56bcd&chksm=f952d262ce255b74976e012d57d0fdbd2fcf2fc4540a3a875acc2888ead33dd0c5ee9df17c74#rd)  
-- [2025-07-10-16-年-macOS-程序员用-Claude-Code-搞副业：我只手敲了-1000-行，剩下-95%-代码靠自动生成](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526154&idx=1&sn=4b90107b67f10fea7bdc3fc38bcb03b6&chksm=f952d249ce255b5fb47b41b908f8a595e2940dd676003cf0a474a75cbe3f4319dbb6dd293512#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,6 +202,10 @@
 </summary>
 
 
+- [2026-01-23-Chrome-新-API：仅-5-行代码！直接读写本地文件！](http://mp.weixin.qq.com/s/Tp1-Ov02QNGoYCDrugL0qg) ![](/assets/new.png)  
+- [2026-01-22-痛心！32岁程序员猝死：抢救时被拉入工作群，死后仍收到任务，工伤申请已被受理](http://mp.weixin.qq.com/s/9KmB1i21QAKCc09UDdYQsw) ![](/assets/new.png)  
+- [2026-01-22-😨震惊！NodeJS之父直言：人类编写代码的时代结束了😭](http://mp.weixin.qq.com/s/3mD3r-1z0QPuuGIeJfu44w) ![](/assets/new.png)  
+- [2026-01-22-😲揪心！职业担心猝死排行榜，程序员排不进前二？](http://mp.weixin.qq.com/s/DHfnjZXm1dGzhM9FypKpRQ) ![](/assets/new.png)  
 - [2026-01-20-效率封神！Vue3这4个高性能Hooks库，直接抄作业](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508310&idx=1&sn=6587ce373f534ff2531cf0359b6d515b&chksm=ce45b4c7f9323dd164ae177294e9bebe6d91fc17990a69f83c223aeb1bdfafa77fb708bb5d8c#rd)  
 - [2026-01-19-十年首更！jQuery-4.0-全新发布，开启新篇章！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508266&idx=1&sn=e33a1efd6f6f1124f23c6d80699e2561&chksm=ce45b4bbf9323dad642e9dd76f03a5443feffb4ee7f99af953b709981151940b8c4eaa0a8b25#rd)  
 - [2026-01-18-封神了！美团宣布前端转全栈的八个神级工具！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508220&idx=1&sn=df3c7713e3d955ca45f9e2cc0bada19a&chksm=ce45b56df9323c7b76d38f04fdd470a0ce97f28a303c608434ffcf03027203209611fca262a3#rd)  
@@ -214,14 +218,10 @@
 - [2026-01-11-想钱想疯了！Tailwind又放狠话：不收购我，就搞崩你们！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507902&idx=1&sn=e4d0e4ba29921939a3491f4ecaf05bd7&chksm=ce45ca2ff932433951a17744232563b7bd5840729a25652f238e9064c993f050ee411e590994#rd)  
 - [2026-01-10-反击！多益网络“封杀”全校毕业生！并吐槽“颠倒是非”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507870&idx=1&sn=c6ff3c9ea461e0e54ff80be7f4127556&chksm=ce45ca0ff932431919b8d0a5ec562b31ed30b1f0286f0f654582346cce3f0ea70587839ac3bb#rd)  
 - [2026-01-09-Tailwind即将下架？创始人：裁员75%，团队快坚持不下去了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507830&idx=1&sn=31955d8adf2caf697372804be84f6b82&chksm=ce45cae7f93243f15af938fbd5c1c37d16b09d7ab4bb5ebd690157f5d8ecff992a90fc5280a9#rd)  
-- [2026-01-08-UI组件库排名出炉！ElementUI和AntDesign均未进前五！](http://mp.weixin.qq.com/s/tplpPH8Ph6MniAs33OUrPQ)  
-- [2026-01-08-腾讯-AI-抽风辱骂前端，官方回应：不是外包干的！](http://mp.weixin.qq.com/s/dRPvxyrOfzko4ZzdqsumqQ)  
 - [2026-01-08-那些实行-965-的良心公司（杭州）](http://mp.weixin.qq.com/s/BaOlPE_Xc6P9cWi9LRTECg)  
-- [2026-01-07-那些实行-965-的良心公司（深圳）](http://mp.weixin.qq.com/s/Dj6QR-fzdL7--0NMSQRRSw)  
-- [2026-01-07-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/565m1pDAOsI6mRi7I3JM4g)  
+- [2026-01-08-腾讯-AI-抽风辱骂前端，官方回应：不是外包干的！](http://mp.weixin.qq.com/s/dRPvxyrOfzko4ZzdqsumqQ)  
+- [2026-01-08-UI组件库排名出炉！ElementUI和AntDesign均未进前五！](http://mp.weixin.qq.com/s/tplpPH8Ph6MniAs33OUrPQ)  
 - [2026-01-07-OpenAI年终奖疯了！人均1050万元](http://mp.weixin.qq.com/s/9re4qjIsm2q7Uabt97oTrw)  
-- [2026-01-06-2026年值得去的公司排名（结果令人意外）](http://mp.weixin.qq.com/s/24xdahpdHlv3ygXSfAAYvQ)  
-- [2026-01-04-天塌了！DeepSeek-的-AI-域名被恶意抢占！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507472&idx=1&sn=8fb745a131ed9d9cee048302501f444e&chksm=ce45cb81f93242976b367dcfceabb114fb142a38afd6d6d29872b0507ef72d6ff1cce79e8ac5#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
