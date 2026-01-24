@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-23T06:18:18.665Z</updated>
+    <updated>2026-01-24T06:16:40.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -55,6 +55,13 @@
         <link href="https://nodeweekly.com/issues/608"/>
         <updated>2026-01-22T00:00:00.000Z</updated>
         <published>2026-01-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[还在无脑 .map().filter()？实测改用 Iterator Helpers 后，内存占用降低了 99%]]></title>
+        <id>http://mp.weixin.qq.com/s/SZJ3HIz9V3c_E6nZgbTwbw</id>
+        <link href="http://mp.weixin.qq.com/s/SZJ3HIz9V3c_E6nZgbTwbw"/>
+        <updated>2026-01-21T00:00:00.000Z</updated>
+        <published>2026-01-21T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3636期】深度解读：React + Next.js打造高性能Web应用的实战经验]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278350&amp;idx=1&amp;sn=b0ed516b541595cacb1742bf2aa5aedd&amp;chksm=bc30ea23882499f970364b4a2de0efbb9a71343e4684ed5e07bd5cbd68a9390b9f6b541d17a5&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278350&amp;idx=1&amp;sn=b0ed516b541595cacb1742bf2aa5aedd&amp;chksm=bc30ea23882499f970364b4a2de0efbb9a71343e4684ed5e07bd5cbd68a9390b9f6b541d17a5&amp;scene=0#rd"/>
-        <updated>2026-01-06T00:00:00.000Z</updated>
-        <published>2026-01-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new JavaScript engine from Fabrice Bellard]]></title>
-        <id>https://javascriptweekly.com/issues/767</id>
-        <link href="https://javascriptweekly.com/issues/767"/>
         <updated>2026-01-06T00:00:00.000Z</updated>
         <published>2026-01-06T00:00:00.000Z</published>
     </entry>
