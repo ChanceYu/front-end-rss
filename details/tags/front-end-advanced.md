@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-24 14:16:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-25 06:10:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -625,6 +625,7 @@
 - [2023-05-23-从-VSCode-源码中，我学到了绝世武功……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511576&idx=1&sn=5a27f1c47f1ffb6420d333b2b1b6687c&chksm=eb079661dc701f775273f93d565aaf973cebee2d25fe198c09f747e815500d25ac4a1c892cfc#rd) 
 - [2023-05-18-新来了一个卷王，八股文-算法张口就来，太卷了~](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511570&idx=1&sn=86b5708b1671cf0bfc4c43624f6a3ef5&chksm=eb07966bdc701f7d03aa4f5c11ee711a0a5369e710e63bd631ae86af0c8c11522125ee316ec3#rd) 
 - [2023-05-10-多窗口联动神器！BroadcastChannel-API-实战运用](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511480&idx=1&sn=ac6c080242c3d2929ae247306ba6f395&chksm=eb0795c1dc701cd7c3c44d9cf145a56f14064d60fa76496445160d1ce2c1f0c0e4c93a9cbf39#rd) 
+- [2026-01-23-ICCV25-|-淘宝人脸吸引力预测算法FPEM](http://mp.weixin.qq.com/s/vdwd_gOcuyWDF_K_U3j73Q) 
 - [2026-01-14-支配树算法原理及鸿蒙工具实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542401&idx=1&sn=dce712be10c396be13745be4edd757e8&chksm=8390d959b4e7504f3861072f2195d3e9ce345c219eb9eff9a59f8bb5b4c8dac675cc86550a83#rd) 
 - [2025-10-29-AI-Coding-长文分享：如何真正把工具用起来，从原理到实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541864&idx=1&sn=d8ee240222727bacf219646ed4e5b914&chksm=8390c730b4e74e26bfcb18d318c7da84c1df3693d34479b4751090c81d780486e9bcc3b2c68b#rd) 
 - [2025-09-01-AI-Agent工程化融合：分享我的实践经验和选型技巧](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541404&idx=1&sn=7cbcd6b92f9944226c48890129be0bec&chksm=8390c544b4e74c52003308152141ff2f9a59723d380eacdb31765bbfa66b8678d52b6fa97909#rd) 

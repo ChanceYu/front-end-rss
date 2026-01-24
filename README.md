@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-24 14:16:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-25 06:10:57，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,14 +25,14 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2026-01-22-AI辅助研发的落地实践：工具、效率与成长](http://mp.weixin.qq.com/s/IkyG70gCSNDXpZjCetV0Gg) ![](/assets/new.png)  
-- [2026-01-21-还在无脑-.map.filter？实测改用-Iterator-Helpers-后，内存占用降低了-99%](http://mp.weixin.qq.com/s/SZJ3HIz9V3c_E6nZgbTwbw) ![](/assets/new.png)  
+- [2026-01-22-AI辅助研发的落地实践：工具、效率与成长](http://mp.weixin.qq.com/s/IkyG70gCSNDXpZjCetV0Gg)  
+- [2026-01-21-还在无脑-.map.filter？实测改用-Iterator-Helpers-后，内存占用降低了-99%](http://mp.weixin.qq.com/s/SZJ3HIz9V3c_E6nZgbTwbw)  
 - [2026-01-20-Chrome-终于可以限制单个网络请求了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528972&idx=1&sn=1add66f52a03aa22a56459af50ca391b&chksm=f99274ddcee5fdcbd6654bef1254568407938e54ac4089ee3aa3f9132bee07d9c5a31ed00294#rd)  
 - [2026-01-19-JS中的内存管理是如何工作的](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528955&idx=1&sn=e61bb2927e1879444d70ad91c9b28dd6&chksm=f992772acee5fe3c54422d913107927bdad2b24b8e384d8d3530603b4e65a9dd68eb762af06f#rd)  
 - [2026-01-16-十条经过实战检验的-TypeScript-monorepo-约定](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528946&idx=1&sn=2f015af3de78ea7ed6b651445eba100c&chksm=f9927723cee5fe356f24ef1f187966a6a9359bbb799691d2c894e4ec7fcf56a2d376eab233d5#rd)  
@@ -481,6 +481,8 @@
 </summary>
 
 
+- [2026-01-23-ICCV25-|-淘宝人脸吸引力预测算法FPEM](http://mp.weixin.qq.com/s/vdwd_gOcuyWDF_K_U3j73Q) ![](/assets/new.png)  
+- [2026-01-21-AI+时代工程师的空间在哪儿——从范式演进看技术机会](http://mp.weixin.qq.com/s/gdMmkZ4A7ojTIdmrZ6IpgQ) ![](/assets/new.png)  
 - [2026-01-19-淘宝订单列表体验优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542407&idx=1&sn=fd453a0a0c183a786c465aecbeaecfdc&chksm=8390d95fb4e750491b7034d211cf019f20fde7478616f3d8b1120b74e6c5eb0e82344e284402#rd)  
 - [2026-01-16-AI-无障碍-CR-与自动适配实践：从问题洞察到效果验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542406&idx=1&sn=c89b4adb5deec25be5dc4ea1a457135a&chksm=8390d95eb4e750482af226d6188dc30f517e75f23da16eb97be227d774d61a4ff201d402b8aa#rd)  
 - [2026-01-14-支配树算法原理及鸿蒙工具实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542401&idx=1&sn=dce712be10c396be13745be4edd757e8&chksm=8390d959b4e7504f3861072f2195d3e9ce345c219eb9eff9a59f8bb5b4c8dac675cc86550a83#rd)  
@@ -499,8 +501,6 @@
 - [2025-11-28-重构一个类，JVM竟省下2.9G内存？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541985&idx=1&sn=0f17f4efa07a35c14c7a36873328e281&chksm=8390c7b9b4e74eaf067632eed7a8ea06278870bb4b30bb1f1c22b2760c44690ebdfb359ad370#rd)  
 - [2025-11-24-AI互动前端开发的思考和实践_](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541979&idx=1&sn=faf282e03be44adb359e802303d2b61d&chksm=8390c783b4e74e958515dec2e69f8d7229cda5c3c4d88cbeb7d31c6758d4cf2b68974a0f10c7#rd)  
 - [2025-11-21-代码染色&amp;无效代码清理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541978&idx=1&sn=bb0fa20811d46edcb07f11a9f19d1339&chksm=8390c782b4e74e9484c34f39b2759dd4d337512c378e3a4f55be551ef42fdad06a26a00c0831#rd)  
-- [2025-11-19-交易订单表如何做索引优化](http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g)  
-- [2025-11-14-页面搭建方案TurboUIBuilder在穿搭星球的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541931&idx=1&sn=a1687e2bfec0083ce651f23407115543&chksm=8390c773b4e74e65c579848f5f489ee9520f678265794ee84f1d63f2cf67d702fcb36977612b#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
