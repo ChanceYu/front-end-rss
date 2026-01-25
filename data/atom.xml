@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-24T22:10:57.607Z</updated>
+    <updated>2026-01-25T22:11:11.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[😨震惊！NodeJS之父直言：人类编写代码的时代结束了😭]]></title>
         <id>http://mp.weixin.qq.com/s/3mD3r-1z0QPuuGIeJfu44w</id>
         <link href="http://mp.weixin.qq.com/s/3mD3r-1z0QPuuGIeJfu44w"/>
+        <updated>2026-01-22T00:00:00.000Z</updated>
+        <published>2026-01-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nodejs 之父“宣布”：手搓代码的时代已经结束了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623934&amp;idx=2&amp;sn=7cc2b6f14991b789ed7b0d21538deb48&amp;chksm=8022463fb755cf299f734b086b4651964ab7eaa3ff9e29a8011894ca60de2c54d96efe0280d6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623934&amp;idx=2&amp;sn=7cc2b6f14991b789ed7b0d21538deb48&amp;chksm=8022463fb755cf299f734b086b4651964ab7eaa3ff9e29a8011894ca60de2c54d96efe0280d6#rd"/>
         <updated>2026-01-22T00:00:00.000Z</updated>
         <published>2026-01-22T00:00:00.000Z</published>
     </entry>
@@ -99,16 +106,16 @@
         <published>2026-01-20T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[炸锅了！腾讯突然给 GitHub 发函，下架 4000 多个微信聊天记录相关开源仓库。网友：自己的记录都不让导出？]]></title>
-        <id>http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA</id>
-        <link href="http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA"/>
+        <title type="html"><![CDATA[JS中的内存管理是如何工作的]]></title>
+        <id>http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ</id>
+        <link href="http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ"/>
         <updated>2026-01-20T00:00:00.000Z</updated>
         <published>2026-01-20T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS中的内存管理是如何工作的]]></title>
-        <id>http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ</id>
-        <link href="http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ"/>
+        <title type="html"><![CDATA[炸锅了！腾讯突然给 GitHub 发函，下架 4000 多个微信聊天记录相关开源仓库。网友：自己的记录都不让导出？]]></title>
+        <id>http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA</id>
+        <link href="http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA"/>
         <updated>2026-01-20T00:00:00.000Z</updated>
         <published>2026-01-20T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[No-Vary-Search：用一个新 HTTP 头拯救你的缓存性能！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623680&amp;idx=2&amp;sn=0e51e6839802d84831699fa5c8a5bbce&amp;chksm=802246c1b755cfd7fc6a22a359a5489dc6bf5cce4165d75128a6ff7c1df7ead91142a405895a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623680&amp;idx=2&amp;sn=0e51e6839802d84831699fa5c8a5bbce&amp;chksm=802246c1b755cfd7fc6a22a359a5489dc6bf5cce4165d75128a6ff7c1df7ead91142a405895a#rd"/>
-        <updated>2026-01-07T00:00:00.000Z</updated>
-        <published>2026-01-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3637期】跨浏览器 Canvas 图像解码终极方案：让大图渲染也能丝滑不卡顿]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278364&amp;idx=1&amp;sn=0bbaa9b16eda03067396f840cdf1da4a&amp;chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278364&amp;idx=1&amp;sn=0bbaa9b16eda03067396f840cdf1da4a&amp;chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&amp;scene=0#rd"/>
         <updated>2026-01-07T00:00:00.000Z</updated>
         <published>2026-01-07T00:00:00.000Z</published>
     </entry>
