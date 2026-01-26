@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-26T10:16:56.817Z</updated>
+    <updated>2026-01-26T12:24:14.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[情况有变！前端转 AI 全栈课程，我做了一个大改动...]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508494&amp;idx=1&amp;sn=66e87565b13330d1161b84112f91e956&amp;chksm=ce45b79ff9323e8999b8d9b99ced602db6aadcda40c97474b75097239af22aa767b031face84#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508494&amp;idx=1&amp;sn=66e87565b13330d1161b84112f91e956&amp;chksm=ce45b79ff9323e8999b8d9b99ced602db6aadcda40c97474b75097239af22aa767b031face84#rd"/>
+        <updated>2026-01-26T00:00:00.000Z</updated>
+        <published>2026-01-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[短短一周收获 1400 stars！前端的全栈神器！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508474&amp;idx=1&amp;sn=d88bc24ef82a459bdd66070397772e20&amp;chksm=ce45b46bf9323d7d23329e89b12d61015a6cbca0122d76eb53c1c31392186e8456ee775df9e2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508474&amp;idx=1&amp;sn=d88bc24ef82a459bdd66070397772e20&amp;chksm=ce45b46bf9323d7d23329e89b12d61015a6cbca0122d76eb53c1c31392186e8456ee775df9e2#rd"/>
+        <updated>2026-01-25T00:00:00.000Z</updated>
+        <published>2026-01-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uni-app 最受欢迎10个插件！涵盖“请求、工具、插件、路由”]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508437&amp;idx=1&amp;sn=fe7756a78380f9cfc032d50aba2e5edb&amp;chksm=ce45b444f9323d52219b03b28f5fb6670de8bc8e06eb9b0511a65bab57a0a40da2a2b7c443eb#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508437&amp;idx=1&amp;sn=fe7756a78380f9cfc032d50aba2e5edb&amp;chksm=ce45b444f9323d52219b03b28f5fb6670de8bc8e06eb9b0511a65bab57a0a40da2a2b7c443eb#rd"/>
+        <updated>2026-01-24T00:00:00.000Z</updated>
+        <published>2026-01-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICCV25 | 淘宝人脸吸引力预测算法FPEM]]></title>
         <id>http://mp.weixin.qq.com/s/vdwd_gOcuyWDF_K_U3j73Q</id>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623696&amp;idx=2&amp;sn=6ccf82ea82fdb5cc6c2d91e6b389fcbc&amp;chksm=802246d1b755cfc7690b979a49514515abe09a6cb2047004f5f34eb34677f262cfe74e93c055#rd"/>
         <updated>2026-01-08T00:00:00.000Z</updated>
         <published>2026-01-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3638期】从 DevTools 到智能性能代理：用 AI 重塑前端性能分析的新方式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278368&amp;idx=1&amp;sn=2fc907be01c3b32ada38b3fa9a4d2108&amp;chksm=bc47e4400a8775b0ecda62fb1bc33a3a512999343456fa176c7f889028dbb0a0400260882e8f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278368&amp;idx=1&amp;sn=2fc907be01c3b32ada38b3fa9a4d2108&amp;chksm=bc47e4400a8775b0ecda62fb1bc33a3a512999343456fa176c7f889028dbb0a0400260882e8f&amp;scene=0#rd"/>
-        <updated>2026-01-08T00:00:00.000Z</updated>
-        <published>2026-01-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端性能革命：200 行 JavaScript 代码实现 Streaming JSON]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517503&amp;idx=1&amp;sn=a26713fc5534e848ae8f2889a9252833&amp;chksm=eb07bd46dc7034503a81cfa77690f663e1513186917305282817a04f10be8bc1669275990876#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517503&amp;idx=1&amp;sn=a26713fc5534e848ae8f2889a9252833&amp;chksm=eb07bd46dc7034503a81cfa77690f663e1513186917305282817a04f10be8bc1669275990876#rd"/>
-        <updated>2026-01-07T00:00:00.000Z</updated>
-        <published>2026-01-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No-Vary-Search：用一个新 HTTP 头拯救你的缓存性能！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623680&amp;idx=2&amp;sn=0e51e6839802d84831699fa5c8a5bbce&amp;chksm=802246c1b755cfd7fc6a22a359a5489dc6bf5cce4165d75128a6ff7c1df7ead91142a405895a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623680&amp;idx=2&amp;sn=0e51e6839802d84831699fa5c8a5bbce&amp;chksm=802246c1b755cfd7fc6a22a359a5489dc6bf5cce4165d75128a6ff7c1df7ead91142a405895a#rd"/>
-        <updated>2026-01-07T00:00:00.000Z</updated>
-        <published>2026-01-07T00:00:00.000Z</published>
     </entry>
 </feed>
