@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-27 12:38:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-28 06:12:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2026-01-27-What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770) ![](/assets/new.png)  
 - [2026-01-20-A-big-week-for-jQuery](https://javascriptweekly.com/issues/769)  
 - [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768)  
 - [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)  
@@ -97,7 +98,6 @@
 - [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)  
 - [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)  
 - [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)  
-- [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2026-01-27-【第3648期】用-200-行-JS-实现“渐进式-JSON”——让网页加载速度快到飞起！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278535&idx=1&sn=74e108dbd7c5d4d957265752690614bf&chksm=bce236708c9513d6e7d56416b2d965290dd64dc7cd63febfc5d478a56957c08386e7b6c64452&scene=0#rd) ![](/assets/new.png)  
+- [2026-01-27-【第3648期】用-200-行-JS-实现“渐进式-JSON”——让网页加载速度快到飞起！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278535&idx=1&sn=74e108dbd7c5d4d957265752690614bf&chksm=bce236708c9513d6e7d56416b2d965290dd64dc7cd63febfc5d478a56957c08386e7b6c64452&scene=0#rd)  
 - [2026-01-26-【早阅】@Addy-Osmani：在-Google-工作-14-年得到的-21-条经验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278530&idx=1&sn=f3a8c152253f5dbdaff62bda2d91bbe5&chksm=bc16625cfafb5e1ce3c5819bfbb444354479357157845b920b43a4e7a7a2e6776abb1d4a16d6&scene=0#rd)  
 - [2026-01-23-【第3647期】在-Node.js-中使用requireesm：从实验到稳定](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278525&idx=1&sn=a0e5717714ffe5ebbda22a6eebd6df89&chksm=bc952882e028b06793c1579969bc5e7faf3d35997ef81d3d98dcf02d2269611517a583d19b96&scene=0#rd)  
 - [2026-01-22-【第3646期】别再把一切都变成数组了！少做点无用功](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278501&idx=1&sn=4a13eb278c2f5ce66c4b46ede112eeb0&chksm=bcfe3e8d7aec66ee05e99fc7dfcbf318fbf02d2be88994d1ac9d92e9e9aca2ee9327c40c7211&scene=0#rd)  
