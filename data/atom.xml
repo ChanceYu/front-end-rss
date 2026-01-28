@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-27T22:12:59.489Z</updated>
+    <updated>2026-01-28T04:37:01.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -190,16 +190,16 @@
         <published>2026-01-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】JavaScript 高级编程权威指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd"/>
         <updated>2026-01-19T00:00:00.000Z</updated>
         <published>2026-01-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】JavaScript 高级编程权威指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd"/>
         <updated>2026-01-19T00:00:00.000Z</updated>
         <published>2026-01-19T00:00:00.000Z</published>
     </entry>

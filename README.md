@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-28 06:12:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-28 12:37:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
-- [前端早读课](#前端早读课)  
+- [JavaScript-Weekly](#javascript-weekly)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2026-01-27-What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770) ![](/assets/new.png)  
+- [2026-01-27-What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770)  
 - [2026-01-20-A-big-week-for-jQuery](https://javascriptweekly.com/issues/769)  
 - [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768)  
 - [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)  
@@ -109,16 +109,17 @@
 </summary>
 
 
+- [2026-01-28-【第3649期】把-AI-当同事用：Rules、Commands、Skills-的清晰分工](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278545&idx=1&sn=1699ce9bb4053eb7788515d43c56953b&chksm=bcb646376c70ee74205a9acb0f23bbb4432754d02097dd65053d75cc6f13985c7857117b8f06&scene=0#rd) ![](/assets/new.png)  
 - [2026-01-27-【第3648期】用-200-行-JS-实现“渐进式-JSON”——让网页加载速度快到飞起！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278535&idx=1&sn=74e108dbd7c5d4d957265752690614bf&chksm=bce236708c9513d6e7d56416b2d965290dd64dc7cd63febfc5d478a56957c08386e7b6c64452&scene=0#rd)  
 - [2026-01-26-【早阅】@Addy-Osmani：在-Google-工作-14-年得到的-21-条经验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278530&idx=1&sn=f3a8c152253f5dbdaff62bda2d91bbe5&chksm=bc16625cfafb5e1ce3c5819bfbb444354479357157845b920b43a4e7a7a2e6776abb1d4a16d6&scene=0#rd)  
 - [2026-01-23-【第3647期】在-Node.js-中使用requireesm：从实验到稳定](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278525&idx=1&sn=a0e5717714ffe5ebbda22a6eebd6df89&chksm=bc952882e028b06793c1579969bc5e7faf3d35997ef81d3d98dcf02d2269611517a583d19b96&scene=0#rd)  
 - [2026-01-22-【第3646期】别再把一切都变成数组了！少做点无用功](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278501&idx=1&sn=4a13eb278c2f5ce66c4b46ede112eeb0&chksm=bcfe3e8d7aec66ee05e99fc7dfcbf318fbf02d2be88994d1ac9d92e9e9aca2ee9327c40c7211&scene=0#rd)  
 - [2026-01-21-【第3645期】如何在没有源码的情况下重建任意-React-组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278496&idx=1&sn=c5f31a8bd1651c1426d76f2f4ac462eb&chksm=bc784a3e6088ffede1add8317c39171990bddac7660e93d418c973edabec3b8fe7595ffdb589&scene=0#rd)  
 - [2026-01-20-【第3644期】构建类型安全的复合组件：让灵活与安全兼得的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278480&idx=1&sn=e8e4caef1b2b3253b6922cd7cd30e483&chksm=bc6e71e5b890a9047670d7455687099643d3800e442ab46f22542f0e2a066c89cd91e07c99e2&scene=0#rd)  
-- [2026-01-19-【图书】JavaScript-高级编程权威指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278475&idx=2&sn=0a316ad05505e05aa97532ac6ea655c1&chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&scene=0#rd)  
 - [2026-01-19-【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278475&idx=1&sn=35ee14939a0ca527fa6f651b32a78b26&chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&scene=0#rd)  
-- [2026-01-16-【第3642期】document.currentScript：被忽视却超实用的前端小技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=1&sn=ddabfeba4caf5df58de80e05fc4d1a22&chksm=bc34b5159ca9f5b5a37eacdc08d5ce0d2e5a7f83738964a1a5a4302180a89ecbb6212e09e7b4&scene=0#rd)  
+- [2026-01-19-【图书】JavaScript-高级编程权威指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278475&idx=2&sn=0a316ad05505e05aa97532ac6ea655c1&chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&scene=0#rd)  
 - [2026-01-16-【招聘】杭州古茗招P6前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=2&sn=5dfc313b9d4fc13cbc9179258c2a65b0&chksm=bc7e55c34604a19d3ddc2c0b1ee5aa26dde6cd338b18dd37600e8344086f79d74371445c2baf&scene=0#rd)  
+- [2026-01-16-【第3642期】document.currentScript：被忽视却超实用的前端小技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=1&sn=ddabfeba4caf5df58de80e05fc4d1a22&chksm=bc34b5159ca9f5b5a37eacdc08d5ce0d2e5a7f83738964a1a5a4302180a89ecbb6212e09e7b4&scene=0#rd)  
 - [2026-01-15-【第3641期】AI-在编写-React-代码方面到底有多强？Addy-Osmani的实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278442&idx=1&sn=d5a2eae3672d1efbd822968c21d5df05&chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&scene=0#rd)  
 - [2026-01-14-【早阅】别被反AI的热潮带偏了：Antirez的AI编程实践与思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278399&idx=1&sn=fd94d1337290b65910c2eb59423f65a6&chksm=bcf84bc024f5f88e63cbc89b6f9922402bea57c00234497cf6b21b720426016950d34f91c671&scene=0#rd)  
 - [2026-01-13-【第3640期】用-Range-语法让样式查询更灵活](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278392&idx=1&sn=2c0b7c3798f0de16ddca232c4c674017&chksm=bc35afbb64e3784e92d27ad6c62c3d81392a5700cc505e7afe5b141c84c12b0a24155616cb2f&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd)  
 - [2026-01-06-【第3636期】深度解读：React-+-Next.js打造高性能Web应用的实战经验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278350&idx=1&sn=b0ed516b541595cacb1742bf2aa5aedd&chksm=bc30ea23882499f970364b4a2de0efbb9a71343e4684ed5e07bd5cbd68a9390b9f6b541d17a5&scene=0#rd)  
 - [2026-01-05-【第3635期】用-JavaScript-+-JSDoc-+-tsc，优雅取代-TypeScript-的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278339&idx=1&sn=dbccbeb9b02e73028a780dc2543b8272&chksm=bca0ffbe96b15621c40adabadaa7dea82c5c57e29ca920c903bd94b6cfcf87bb5afbb0002ccf&scene=0#rd)  
-- [2026-01-04-【第3634期】React-Grab-for-Agents：让浏览器直接变成你的智能编码助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278322&idx=1&sn=c43cce27b410fbb89591247416026b52&chksm=bcade6422588c9d2478ee099e5a845982be3fc422b77b6b6ea7270e951d3442f736400efd6d1&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
