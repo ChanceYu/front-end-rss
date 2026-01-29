@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-29 18:25:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-30 02:29:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609) ![](/assets/new.png)  
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)  
 - [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)  
 - [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)  
@@ -66,7 +67,6 @@
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
-- [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -143,8 +143,8 @@
 - [2026-01-28-强烈建议尽快搞个软考证！（政策风口）](http://mp.weixin.qq.com/s/yYT9fXQPJCWe5IVU4fGbyA)  
 - [2026-01-27-7×24h「全职AI员工」爆火硅谷！](http://mp.weixin.qq.com/s/pcnWR8C--3YQylA0HNbLZw)  
 - [2026-01-27-公司-React-应用感觉很慢，我把没必要的重复渲染砍掉了-40%!](http://mp.weixin.qq.com/s/av1ijqRvNgf-srwr5p7rfw)  
-- [2026-01-26-趣图：美女同事离职了，程序员常对着她工位发呆，我仿佛明白了什么，于是告诉他…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623982&idx=2&sn=009f9330bdf4da9c446028ce8c2ce75f&chksm=802245efb755ccf90f83090613fcb8b7e6111514a171840eca9936f574d3c8dfdd824254320d#rd) ![](/assets/new.png)  
-- [2026-01-26-还在无脑-.map.filter？实测改用-Iterator-Helpers-后，内存占用降低了-99%](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623982&idx=1&sn=cb72d576ce14de961889f0470aec32bb&chksm=802245efb755ccf91f6d6b41e14ef93a40e846b5c1327cfb54db32d18db885866e1bd46d0281#rd) ![](/assets/new.png)  
+- [2026-01-26-趣图：美女同事离职了，程序员常对着她工位发呆，我仿佛明白了什么，于是告诉他…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623982&idx=2&sn=009f9330bdf4da9c446028ce8c2ce75f&chksm=802245efb755ccf90f83090613fcb8b7e6111514a171840eca9936f574d3c8dfdd824254320d#rd)  
+- [2026-01-26-还在无脑-.map.filter？实测改用-Iterator-Helpers-后，内存占用降低了-99%](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623982&idx=1&sn=cb72d576ce14de961889f0470aec32bb&chksm=802245efb755ccf91f6d6b41e14ef93a40e846b5c1327cfb54db32d18db885866e1bd46d0281#rd)  
 - [2026-01-25-全网380万人围观！连代码都不看，4个月“烧掉”30亿Token，不懂编程的他却做出了50+个产品……](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623972&idx=1&sn=11ede66c06e31f39e8333896cf81b6f4&chksm=802245e5b755ccf30dd93388b54b39f3e1023840bff519a70fceb2694c7ba8daf68133bd13cd#rd)  
 - [2026-01-25-天天叫-AI-编程多厉害，真用起来气死人啊](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623972&idx=2&sn=b90dcd31828c7ecfdd27c782a0610acb&chksm=802245e5b755ccf382adfd16640178771e23a5ce69ad32a27e99e3e506b8e3153c1d0d9b90df#rd)  
 - [2026-01-24-元宇宙，正式谢幕！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623961&idx=1&sn=b2c80a1ab5bcfc373949df28e849e92f&chksm=802245d8b755ccce4a0d07cb00b3f90246e9e71c8d24464202124890d87a5aa552e059c99d68#rd)  

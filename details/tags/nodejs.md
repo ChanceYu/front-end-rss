@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-29 18:25:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-30 02:29:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609) 
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608) 
 - [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607) 
 - [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605) 

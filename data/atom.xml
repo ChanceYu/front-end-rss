@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-29T10:25:47.318Z</updated>
+    <updated>2026-01-29T18:29:30.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[A smoother way to ship Node apps]]></title>
+        <id>https://nodeweekly.com/issues/609</id>
+        <link href="https://nodeweekly.com/issues/609"/>
+        <updated>2026-01-29T00:00:00.000Z</updated>
+        <published>2026-01-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vueuse Skills 发布！首个拥抱AI的Hooks神库！]]></title>
         <id>http://mp.weixin.qq.com/s/RzDdlwScif1qyEgfZV5Okg</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Chrome 新 API：仅 6 行 HTML！页面秒开！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517507&amp;idx=1&amp;sn=a6f4ad2cc56005263c666f6dbce84219&amp;chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517507&amp;idx=1&amp;sn=a6f4ad2cc56005263c666f6dbce84219&amp;chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd"/>
-        <updated>2026-01-12T00:00:00.000Z</updated>
-        <published>2026-01-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 DevTools 到智能性能代理：用 AI 重塑前端性能分析的新方式]]></title>
-        <id>http://mp.weixin.qq.com/s/B78gtRo_mia3ppretcCkVQ</id>
-        <link href="http://mp.weixin.qq.com/s/B78gtRo_mia3ppretcCkVQ"/>
         <updated>2026-01-12T00:00:00.000Z</updated>
         <published>2026-01-12T00:00:00.000Z</published>
     </entry>
