@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-31 02:26:54，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-31 04:16:57，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,9 +23,9 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -202,26 +202,26 @@
 </summary>
 
 
-- [2026-01-28-Vueuse-Skills-发布！首个拥抱AI的Hooks神库！](http://mp.weixin.qq.com/s/RzDdlwScif1qyEgfZV5Okg)  
-- [2026-01-28-公司称“猝死程序员未按要求做体检”，家属：每年都体检，但公司不认三甲医院报告](http://mp.weixin.qq.com/s/kvvWyfQeF8BKZAZ1AZtDPg)  
+- [2026-01-30-出圈了？JS的try...catch新写法，被质疑抄袭Go语言！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508595&idx=1&sn=411032c33ea7ad74c5cbf9be85b6d7d4&chksm=ce45b7e2f9323ef4692897ea57b48ae7461f4ed7e8b7649e7ecebc62037e494f2dfa9982fa49#rd) ![](/assets/new.png)  
+- [2026-01-29-出事了！卸载Notepad++](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508583&idx=1&sn=fd4d58096c955c11bed11986c31df99f&chksm=ce45b7f6f9323ee0c3e978bbcc84ef63ded6f350bcdf5ba300117acf4afbbb87d04856be6f26#rd) ![](/assets/new.png)  
+- [2026-01-29-Apifox-和-Postman-开源平替！新API工具内置-AI-agent-，调试效率飙升！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508583&idx=2&sn=d2a73ee7eb526fc5bb56ac628d9e6e12&chksm=ce45b7f6f9323ee0273053b0634e6740b88645e786d690c006d283f6b075adc8475654ee0566#rd) ![](/assets/new.png)  
 - [2026-01-28-各个大厂工时排行，最卷的公司一目了然！](http://mp.weixin.qq.com/s/AF4USCzgXHCrPdgPqcZcQA)  
-- [2026-01-27-VS-Code-正式集成-Claude-Code-插件，前端开发效率大提升！](http://mp.weixin.qq.com/s/lHfNw5bpprWEAPQQ9wi6Rw)  
+- [2026-01-28-公司称“猝死程序员未按要求做体检”，家属：每年都体检，但公司不认三甲医院报告](http://mp.weixin.qq.com/s/kvvWyfQeF8BKZAZ1AZtDPg)  
+- [2026-01-28-Vueuse-Skills-发布！首个拥抱AI的Hooks神库！](http://mp.weixin.qq.com/s/RzDdlwScif1qyEgfZV5Okg)  
 - [2026-01-27-又倒下一位！29-岁程序员加班猝死，留下怀孕-5-个月的妻子和-5-岁女儿](http://mp.weixin.qq.com/s/0iZMQqwpiLWHUfqsz2mDjA)  
+- [2026-01-27-VS-Code-正式集成-Claude-Code-插件，前端开发效率大提升！](http://mp.weixin.qq.com/s/lHfNw5bpprWEAPQQ9wi6Rw)  
 - [2026-01-26-情况有变！前端转-AI-全栈课程，我做了一个大改动...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508494&idx=1&sn=66e87565b13330d1161b84112f91e956&chksm=ce45b79ff9323e8999b8d9b99ced602db6aadcda40c97474b75097239af22aa767b031face84#rd)  
 - [2026-01-25-短短一周收获-1400-stars！前端的全栈神器！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508474&idx=1&sn=d88bc24ef82a459bdd66070397772e20&chksm=ce45b46bf9323d7d23329e89b12d61015a6cbca0122d76eb53c1c31392186e8456ee775df9e2#rd)  
 - [2026-01-24-uni-app-最受欢迎10个插件！涵盖“请求、工具、插件、路由”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508437&idx=1&sn=fe7756a78380f9cfc032d50aba2e5edb&chksm=ce45b444f9323d52219b03b28f5fb6670de8bc8e06eb9b0511a65bab57a0a40da2a2b7c443eb#rd)  
-- [2026-01-23-Chrome-新-API：仅-5-行代码！直接读写本地文件！](http://mp.weixin.qq.com/s/Tp1-Ov02QNGoYCDrugL0qg)  
 - [2026-01-23-32岁猝死程序员，公司被曝光，底薪3千24小时待岗，公司要求“抗压能力强”](http://mp.weixin.qq.com/s/uGzGSipAZk-KSt-UOvdcXg)  
-- [2026-01-22-😲揪心！职业担心猝死排行榜，程序员排不进前二？](http://mp.weixin.qq.com/s/DHfnjZXm1dGzhM9FypKpRQ)  
-- [2026-01-22-😨震惊！NodeJS之父直言：人类编写代码的时代结束了😭](http://mp.weixin.qq.com/s/3mD3r-1z0QPuuGIeJfu44w)  
+- [2026-01-23-Chrome-新-API：仅-5-行代码！直接读写本地文件！](http://mp.weixin.qq.com/s/Tp1-Ov02QNGoYCDrugL0qg)  
 - [2026-01-22-痛心！32岁程序员猝死：抢救时被拉入工作群，死后仍收到任务，工伤申请已被受理](http://mp.weixin.qq.com/s/9KmB1i21QAKCc09UDdYQsw)  
+- [2026-01-22-😨震惊！NodeJS之父直言：人类编写代码的时代结束了😭](http://mp.weixin.qq.com/s/3mD3r-1z0QPuuGIeJfu44w)  
+- [2026-01-22-😲揪心！职业担心猝死排行榜，程序员排不进前二？](http://mp.weixin.qq.com/s/DHfnjZXm1dGzhM9FypKpRQ)  
 - [2026-01-20-效率封神！Vue3这4个高性能Hooks库，直接抄作业](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508310&idx=1&sn=6587ce373f534ff2531cf0359b6d515b&chksm=ce45b4c7f9323dd164ae177294e9bebe6d91fc17990a69f83c223aeb1bdfafa77fb708bb5d8c#rd)  
 - [2026-01-19-十年首更！jQuery-4.0-全新发布，开启新篇章！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508266&idx=1&sn=e33a1efd6f6f1124f23c6d80699e2561&chksm=ce45b4bbf9323dad642e9dd76f03a5443feffb4ee7f99af953b709981151940b8c4eaa0a8b25#rd)  
 - [2026-01-18-封神了！美团宣布前端转全栈的八个神级工具！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508220&idx=1&sn=df3c7713e3d955ca45f9e2cc0bada19a&chksm=ce45b56df9323c7b76d38f04fdd470a0ce97f28a303c608434ffcf03027203209611fca262a3#rd)  
 - [2026-01-17-Vue-Native-终于到来！Vue-移动端开发终极方案！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508167&idx=1&sn=e161f14cc6357183bc3dbddfb453f156&chksm=ce45b556f9323c40e22fd470a10c718586b926aade2a5e45b0ed86f01300121bccdf54cac946#rd)  
-- [2026-01-16-抛弃-Axios！这个轻量化请求库，前端性能直接起飞](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508158&idx=1&sn=0df31b9eabac1b7bc2c67577558b3160&chksm=ce45b52ff9323c39b8ffa2cc6da92c321b4a75e6a1413511663439fb1d2ad602a1c8bdde2c26#rd)  
-- [2026-01-15-VsCode推出-“橙色版”-“绿色版”-！一个像御姐一个像萝莉](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508096&idx=1&sn=5b343f3de22448dbb36ac2fc68e68aaa&chksm=ce45b511f9323c07e374c19e0bde5b6aa30c806405ef15428cb08a02dbe8eb8f28989a3824c9#rd)  
-- [2026-01-14-尤雨溪联手Shadcn！发布全新最强-AI-组件库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508056&idx=1&sn=bb1726f9cc7c911c7be1555d753a1e91&chksm=ce45b5c9f9323cdf400ad0c6921bb199bd46e7a0bd632248cbf60db1bde51f576b5552003187#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2026-01-30-CSS-技巧：完美居中任何元素（不再烦恼！）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529104&idx=1&sn=18e6d1f2bf7497aebbe262f228e05e54&chksm=f9927441cee5fd57330c27427336898c1ae182576edb1abbb1fc04417dfd9d3768a4a7adf9f5#rd) ![](/assets/new.png)  
-- [2026-01-29-Clawdbot-空前爆火！github-一天涨-5w+-Star！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529096&idx=1&sn=9013f71a4c3a8ead2f6cd6a76993c29b&chksm=f9927459cee5fd4f964e0208d3a29163b45f609276e841023d9d717cdd1823ca0a241bb8a45c#rd) ![](/assets/new.png)  
+- [2026-01-30-CSS-技巧：完美居中任何元素（不再烦恼！）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529104&idx=1&sn=18e6d1f2bf7497aebbe262f228e05e54&chksm=f9927441cee5fd57330c27427336898c1ae182576edb1abbb1fc04417dfd9d3768a4a7adf9f5#rd)  
+- [2026-01-29-Clawdbot-空前爆火！github-一天涨-5w+-Star！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529096&idx=1&sn=9013f71a4c3a8ead2f6cd6a76993c29b&chksm=f9927459cee5fd4f964e0208d3a29163b45f609276e841023d9d717cdd1823ca0a241bb8a45c#rd)  
 - [2026-01-28-别再像新手一样使用-Tailwind-了！](http://mp.weixin.qq.com/s/ikIFRP19KJZJFu78_eqwrw)  
 - [2026-01-27-Vercel-把自己-10-年-React-秘籍做成-Skill-开源了！](http://mp.weixin.qq.com/s/_jGhBJFLwVaSKtFSUzfl4w)  
 - [2026-01-26-前端指纹技术是如何实现的？（Canvas、Audio、硬件API-核心原理解密）](http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA)  
