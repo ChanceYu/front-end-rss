@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-30T05:06:44.245Z</updated>
+    <updated>2026-01-30T08:25:28.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[告别insertBefore，使用moveBefore移动DOM元素]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/"/>
+        <updated>2026-01-30T00:00:00.000Z</updated>
+        <published>2026-01-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A smoother way to ship Node apps]]></title>
         <id>https://nodeweekly.com/issues/609</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623815&amp;idx=2&amp;sn=cb533b7be11d6ca4cfd983afdb259870&amp;chksm=80224646b755cf504ba6a52959924e88aa0029c242b3263df209f394625e5b92d73e091e791a#rd"/>
         <updated>2026-01-13T00:00:00.000Z</updated>
         <published>2026-01-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 新 API：仅 6 行 HTML！页面秒开！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517507&amp;idx=1&amp;sn=a6f4ad2cc56005263c666f6dbce84219&amp;chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517507&amp;idx=1&amp;sn=a6f4ad2cc56005263c666f6dbce84219&amp;chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd"/>
-        <updated>2026-01-12T00:00:00.000Z</updated>
-        <published>2026-01-12T00:00:00.000Z</published>
     </entry>
 </feed>

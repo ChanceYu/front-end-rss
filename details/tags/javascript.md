@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-30 13:06:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-30 16:25:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1635,6 +1635,7 @@
 - [2018-05-31-基于-BindingX-的富交互解决方案](https://fed.taobao.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/) 
 - [2018-01-23-实现一个-JavaScriptCore-的-debugger-——-iOS-篇](https://fed.taobao.org/blog/2018/01/23/implement-javascriptcore-debugger-ios/) 
 - [2017-12-07-机器学习，Hello-World-from-Javascript!](https://fed.taobao.org/blog/2017/12/07/machine-learning/) 
+- [2026-01-30-告别insertBefore，使用moveBefore移动DOM元素](https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/) 
 - [2026-01-22-Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/) 
 - [2026-01-19-CSS-text-decoration-inset属性首发简介](https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/) 
 - [2025-11-17-介绍下与CSS自定义组件相关的:state函数](https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/) 
@@ -1754,11 +1755,11 @@
 - [2019-04-05-如何disabled禁用所有表单input输入框元素](https://www.zhangxinxu.com/wordpress/2019/04/disabled-all-form-elements/) 
 - [2019-03-02-DOM小测28期-–-DOM节点文档前后位置判断](https://www.zhangxinxu.com/wordpress/2019/03/dom-contains-comparedocumentposition/) 
 - [2019-02-22-使用document.scrollingElement控制窗体滚动高度](https://www.zhangxinxu.com/wordpress/2019/02/document-scrollingelement/) 
-- [2019-01-26-CSS-var变量的局部作用域特性](https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/) 
 - [2019-01-26-DOM基础小测27期答疑文字版-窗体滚动二三事](https://www.zhangxinxu.com/wordpress/2019/01/dom-quiz-27-window-scroll/) 
+- [2019-01-26-CSS-var变量的局部作用域特性](https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/) 
 - [2019-01-20-粉丝群第27期JS基础小测答疑文字版](https://www.zhangxinxu.com/wordpress/2019/01/js-quiz-27/) 
-- [2018-12-09-CSS-font-feature-settings-50+关键字属性值完整介绍](https://www.zhangxinxu.com/wordpress/2018/12/css-font-feature-settings-keyword-value/) 
 - [2018-12-09-使用wavesurfer.js显示mp3-audio音频的波形图](https://www.zhangxinxu.com/wordpress/2018/12/wavesurfer-js-mp3-audio-wave/) 
+- [2018-12-09-CSS-font-feature-settings-50+关键字属性值完整介绍](https://www.zhangxinxu.com/wordpress/2018/12/css-font-feature-settings-keyword-value/) 
 - [2018-12-02-HTML5-video视频播放Picture-in-Picture画中画技术](https://www.zhangxinxu.com/wordpress/2018/12/html5-video-play-picture-in-picture/) 
 - [2018-11-28-大侠，请留步，要不过来了解下CSS-Scroll-Snap？](https://www.zhangxinxu.com/wordpress/2018/11/know-css-scroll-snap/) 
 - [2018-11-16-小tips:-如何HTML标签和JS中设置CSS3-var变量](https://www.zhangxinxu.com/wordpress/2018/11/html-js-set-css-css3-var%e5%8f%98%e9%87%8f/) 
