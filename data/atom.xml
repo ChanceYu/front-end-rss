@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-30T08:25:28.539Z</updated>
+    <updated>2026-01-30T18:26:55.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,20 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/"/>
         <updated>2026-01-30T00:00:00.000Z</updated>
         <published>2026-01-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS 技巧：完美居中任何元素（不再烦恼！）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529104&amp;idx=1&amp;sn=18e6d1f2bf7497aebbe262f228e05e54&amp;chksm=f9927441cee5fd57330c27427336898c1ae182576edb1abbb1fc04417dfd9d3768a4a7adf9f5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529104&amp;idx=1&amp;sn=18e6d1f2bf7497aebbe262f228e05e54&amp;chksm=f9927441cee5fd57330c27427336898c1ae182576edb1abbb1fc04417dfd9d3768a4a7adf9f5#rd"/>
+        <updated>2026-01-30T00:00:00.000Z</updated>
+        <published>2026-01-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clawdbot 空前爆火！github 一天涨 5w+ Star！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529096&amp;idx=1&amp;sn=9013f71a4c3a8ead2f6cd6a76993c29b&amp;chksm=f9927459cee5fd4f964e0208d3a29163b45f609276e841023d9d717cdd1823ca0a241bb8a45c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529096&amp;idx=1&amp;sn=9013f71a4c3a8ead2f6cd6a76993c29b&amp;chksm=f9927459cee5fd4f964e0208d3a29163b45f609276e841023d9d717cdd1823ca0a241bb8a45c#rd"/>
+        <updated>2026-01-29T00:00:00.000Z</updated>
+        <published>2026-01-29T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[A smoother way to ship Node apps]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508056&amp;idx=1&amp;sn=bb1726f9cc7c911c7be1555d753a1e91&amp;chksm=ce45b5c9f9323cdf400ad0c6921bb199bd46e7a0bd632248cbf60db1bde51f576b5552003187#rd"/>
         <updated>2026-01-14T00:00:00.000Z</updated>
         <published>2026-01-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinia 推倒，重做！Vue开发者有福了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508011&amp;idx=1&amp;sn=d9b1581d79f7380d3957ae99f6d2c6be&amp;chksm=ce45b5baf9323cac41e1bbadca3b197861012a4b5540697b7c145d4340a5907972f3c937036f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508011&amp;idx=1&amp;sn=d9b1581d79f7380d3957ae99f6d2c6be&amp;chksm=ce45b5baf9323cac41e1bbadca3b197861012a4b5540697b7c145d4340a5907972f3c937036f#rd"/>
-        <updated>2026-01-13T00:00:00.000Z</updated>
-        <published>2026-01-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官：如果 100 个请求，你怎么用 Promise 去控制并发？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623815&amp;idx=2&amp;sn=cb533b7be11d6ca4cfd983afdb259870&amp;chksm=80224646b755cf504ba6a52959924e88aa0029c242b3263df209f394625e5b92d73e091e791a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623815&amp;idx=2&amp;sn=cb533b7be11d6ca4cfd983afdb259870&amp;chksm=80224646b755cf504ba6a52959924e88aa0029c242b3263df209f394625e5b92d73e091e791a#rd"/>
-        <updated>2026-01-13T00:00:00.000Z</updated>
-        <published>2026-01-13T00:00:00.000Z</published>
     </entry>
 </feed>
