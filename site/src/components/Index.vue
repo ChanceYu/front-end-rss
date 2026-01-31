@@ -102,7 +102,7 @@
         </a>
 
         <van-loading v-if="results.length && !isBusy && isLoad">加载中...</van-loading>
-        <van-divider v-if="results.length && isBusy">没有更多了~</van-divider>
+        <van-divider v-if="results.length && isBusy && !isSearching">没有更多了~</van-divider>
 
      </div>
 
@@ -146,12 +146,10 @@ const ranges = [{
 
 const rss = window.RSS_DATA
 const tags = window.TAGS_DATA
-const files = window.LIST_FILES
+const PAGE_SIZE = window.PAGE_SIZE || 200
+const PAGE_COUNT = window.PAGE_COUNT || 1
 
 let results = []
-let datesMap = {}
-let rssMap = {}
-let tagsMap = {}
 
 export default {
   name: 'Index',
@@ -159,99 +157,148 @@ export default {
     return {
       searchValue: '',
       showCate: false,
-      // 默认只展示技能相关文章
       matchSkill: !!localStorage.getItem('matchSkill'),
       hotwords,
       ranges,
-      rss: [],
-      tags: [],
+      rss: rss || [],
+      tags: tags || [],
       pageNo: 1,
       pageSize: 20,
       isBusy: true,
       allList: [],
       results: [],
       isLoad: false,
-      skeletons: [1, 2, 3, 4, 5, 6, 7, 8]
+      isSearching: false,
+      skeletons: [1, 2, 3, 4, 5, 6, 7, 8],
+      // 分页加载相关
+      currentDataPage: 0,
+      loadedPages: new Set(),
+      // 索引缓存
+      textIndex: null,
+      sourceIndex: null,
+      categoryIndex: null,
+      timeIndex: null
     }
   },
   watch: {
     matchSkill () {
-      this.initLoadData()
-      this.handlerSearch()
+      if (this.searchValue) {
+        // 有搜索词时重新搜索
+        this.handlerSearch(false)
+      } else {
+        // 无搜索词时重新过滤
+        this.filterBySkill()
+      }
     }
   },
   methods: {
     toTop () {
       window.scrollTo(0, 0)
     },
-    initLoadData (clear = true, list = window.LIST_DATA) {
-      if (clear) {
-        results = []
-        datesMap = {}
-        rssMap = {}
-        tagsMap = {}
+
+    // 加载指定页的数据
+    async loadDataPage (pageNum) {
+      if (this.loadedPages.has(pageNum) || pageNum >= PAGE_COUNT) {
+        return []
       }
 
-      let rssArticle = {}
-
-      const articles = list.reduce((prev, item) => {
-        let isInTag = false
-        let isFilter = !this.matchSkill
-
-        rssArticle[item.rssTitle] = rssArticle[item.rssTitle] || []
-        rssArticle[item.rssTitle].push(item)
-
-        tags.forEach((tagItem) => {
-          const isMatchSkill = this.matchSkill ? tagItem.skill : true
-          if (tagItem.keywords && (new RegExp(tagItem.keywords, 'gi')).test(item.title)) {
-            isInTag = true
-            if (isMatchSkill) {
-              isFilter = true
-              tagsMap[tagItem.tag] = tagsMap[tagItem.tag] || []
-              tagsMap[tagItem.tag].push(item)
-              tagsMap[tagItem.tag] = sortArray(tagsMap[tagItem.tag])
-            }
-          }
-        })
-
-        if (!isInTag) {
-          tagsMap['其它'] = tagsMap['其它'] || []
-          tagsMap['其它'].push(item)
-          tagsMap['其它'] = sortArray(tagsMap['其它'])
-        }
-
-        ranges.forEach((rangeItem) => {
-          const dates = rangeItem.dates
-
-          if ((typeof dates === 'string' && item.date === dates) || (typeof dates !== 'string' && item.date >= dates[0] && item.date <= dates[1])) {
-            datesMap[rangeItem.title] = datesMap[rangeItem.title] || []
-            datesMap[rangeItem.title].push(item)
-            datesMap[rangeItem.title] = sortArray(datesMap[rangeItem.title])
-          }
-        })
-
-        if (isFilter) {
-          return [
-            ...prev,
-            item
-          ]
-        }
-
-        return prev
-      }, [])
-
-      Object.keys(rssArticle).forEach((rssTitle) => {
-        rssMap[rssTitle] = sortArray([...(rssMap[rssTitle] || []), ...rssArticle[rssTitle]])
-      })
-
-      results = results.concat(articles)
-
-      results = sortArray(results)
-
-      this.rss = rss
-      this.tags = tags
-      this.isLoad = true
+      try {
+        const data = await fetch(`/list/page-${pageNum}.json`, { cache: 'default' })
+          .then(r => r.json())
+        this.loadedPages.add(pageNum)
+        return data
+      } catch (e) {
+        console.error(`Failed to load page ${pageNum}:`, e)
+        return []
+      }
     },
+
+    // 初始化加载第一页数据
+    async initLoad () {
+      const firstPageData = await this.loadDataPage(0)
+      this.allList = firstPageData
+      results = [...firstPageData]
+      this.filterBySkill()
+      this.isLoad = true
+
+      // 预加载搜索索引
+      this.preloadIndexes()
+
+      // 后台加载更多数据页
+      this.backgroundLoadPages()
+    },
+
+    // 后台逐步加载更多数据页（静默加载，不更新显示列表）
+    async backgroundLoadPages () {
+      for (let i = 1; i < PAGE_COUNT; i++) {
+        await new Promise(resolve => setTimeout(resolve, 300))
+        const pageData = await this.loadDataPage(i)
+        if (pageData.length > 0) {
+          // 数据已在构建时按时间排序，直接追加即可
+          results = [...results, ...pageData]
+          // 静默更新 allList，不重置分页（让 loadMore 自然获取更多数据）
+          if (!this.isSearching && !this.searchValue) {
+            this.updateAllListSilently()
+          }
+        }
+      }
+    },
+
+    // 静默更新 allList，不重置分页状态
+    updateAllListSilently () {
+      if (!this.matchSkill) {
+        this.allList = [...results]
+      } else {
+        this.allList = results.filter(item => {
+          return tags.some(tag => {
+            if (tag.skill && tag.keywords) {
+              return new RegExp(tag.keywords, 'gi').test(item.title)
+            }
+            return false
+          })
+        })
+      }
+      // 不重置 pageNo 和 this.results，让无限滚动自然加载更多
+    },
+
+    // 预加载索引
+    async preloadIndexes () {
+      try {
+        // 并行加载所有索引
+        const [sourceIdx, categoryIdx, timeIdx] = await Promise.all([
+          fetch('/index/source-index.json', { cache: 'default' }).then(r => r.json()).catch(() => null),
+          fetch('/index/category-index.json', { cache: 'default' }).then(r => r.json()).catch(() => null),
+          fetch('/index/time-index.json', { cache: 'default' }).then(r => r.json()).catch(() => null)
+        ])
+        this.sourceIndex = sourceIdx
+        this.categoryIndex = categoryIdx
+        this.timeIndex = timeIdx
+      } catch (e) {
+        console.error('Failed to preload indexes:', e)
+      }
+    },
+
+    // 根据技能筛选过滤数据
+    filterBySkill () {
+      if (!this.matchSkill) {
+        this.allList = [...results]
+      } else {
+        // 只展示技术相关文章
+        this.allList = results.filter(item => {
+          return tags.some(tag => {
+            if (tag.skill && tag.keywords) {
+              return new RegExp(tag.keywords, 'gi').test(item.title)
+            }
+            return false
+          })
+        })
+      }
+      // 重置分页并加载更多
+      this.pageNo = 1
+      this.results = []
+      this.loadMore()
+    },
+
     loadMore () {
       const allLen = this.allList.length
       const resultsLen = this.results.length
@@ -260,6 +307,7 @@ export default {
       this.results = this.allList.slice(0, this.pageNo * this.pageSize)
       this.pageNo += 1
     },
+
     handlerCate (item) {
       let label = ''
       if (item.dates) {
@@ -279,55 +327,45 @@ export default {
       this.handlerSearch()
       this.showCate = false
     },
-    handlerSearch (reset = true) {
+
+    async handlerSearch (reset = true) {
       const value = this.searchValue
       const matches = value.match(/^\[(时间|来源|分类)\]\s(.+)/)
+      const matchType = matches && matches[1]
       const matchValue = matches && matches[2]
+
+      this.isSearching = !!value
 
       if (value) {
         let arr = []
 
-        if (matches && datesMap[matchValue]) {
-          arr = datesMap[matchValue]
-        } else if (matches && rssMap[matchValue]) {
-          arr = rssMap[matchValue]
-        } else if (matches && tagsMap[matchValue]) {
-          arr = tagsMap[matchValue]
+        if (matchType === '时间') {
+          arr = await this.searchByTime(matchValue)
+        } else if (matchType === '来源') {
+          arr = await this.searchBySource(matchValue)
+        } else if (matchType === '分类') {
+          arr = await this.searchByCategory(matchValue)
         } else {
-          results.forEach((item) => {
-            let reg = null
-            try {
-            // eslint-disable-next-line
-              reg = new RegExp('(' + value.replace(/([?\[\]])/g, '\\$1') + ')', 'gi')
-            } catch (e) {}
-
-            const matchSplit = (val) => {
-              const exist = item.title.split(val)
-
-              if (exist.length > 1) {
-                arr.push({
-                  ...item,
-                  sotitle: exist.join(`<span class="red">${val}</span>`)
-                })
-                return true
-              }
-            }
-
-            if (reg && reg.test(item.title)) {
-              arr.push({
-                ...item,
-                sotitle: item.title.replace(reg, `<span class="red">$1</span>`)
-              })
-            } else if (matchSplit(value)) {
-            } else if (matchSplit(value.toLowerCase())) {
-            } else if (matchSplit(value.toUpperCase())) {
-            }
-          })
+          // 文本搜索
+          arr = this.searchByText(value)
         }
 
         this.allList = [...arr]
       } else {
-        this.allList = [...results]
+        this.isSearching = false
+        // 无搜索词时，重新应用技能过滤
+        if (!this.matchSkill) {
+          this.allList = [...results]
+        } else {
+          this.allList = results.filter(item => {
+            return tags.some(tag => {
+              if (tag.skill && tag.keywords) {
+                return new RegExp(tag.keywords, 'gi').test(item.title)
+              }
+              return false
+            })
+          })
+        }
       }
 
       if (reset) {
@@ -347,6 +385,88 @@ export default {
         this.loadMore()
       }
     },
+
+    // 按时间搜索
+    async searchByTime (rangeName) {
+      if (this.timeIndex && this.timeIndex[rangeName]) {
+        return this.timeIndex[rangeName]
+      }
+      // 降级到本地搜索
+      const rangeItem = ranges.find(r => r.title === rangeName)
+      if (!rangeItem) return []
+
+      const dates = rangeItem.dates
+      return results.filter(item => {
+        if (typeof dates === 'string') {
+          return item.date === dates
+        }
+        return item.date >= dates[0] && item.date <= dates[1]
+      })
+    },
+
+    // 按来源搜索
+    async searchBySource (sourceName) {
+      if (this.sourceIndex && this.sourceIndex[sourceName]) {
+        return this.sourceIndex[sourceName]
+      }
+      // 降级到本地搜索
+      return results.filter(item => item.rssTitle === sourceName)
+    },
+
+    // 按分类搜索
+    async searchByCategory (categoryName) {
+      if (this.categoryIndex && this.categoryIndex[categoryName]) {
+        return this.categoryIndex[categoryName]
+      }
+      // 降级到本地搜索
+      const tagItem = tags.find(t => t.tag === categoryName)
+      if (!tagItem || !tagItem.keywords) {
+        return categoryName === '其它'
+          ? results.filter(item => !tags.some(t => t.keywords && new RegExp(t.keywords, 'gi').test(item.title)))
+          : []
+      }
+      const regex = new RegExp(tagItem.keywords, 'gi')
+      return results.filter(item => regex.test(item.title))
+    },
+
+    // 文本搜索
+    searchByText (keyword) {
+      const arr = []
+      const searchData = this.matchSkill ? this.allList : results
+
+      searchData.forEach((item) => {
+        let reg = null
+        try {
+          // eslint-disable-next-line
+          reg = new RegExp('(' + keyword.replace(/([?\[\]])/g, '\\$1') + ')', 'gi')
+        } catch (e) {}
+
+        const matchSplit = (val) => {
+          const exist = item.title.split(val)
+
+          if (exist.length > 1) {
+            arr.push({
+              ...item,
+              sotitle: exist.join(`<span class="red">${val}</span>`)
+            })
+            return true
+          }
+        }
+
+        if (reg && reg.test(item.title)) {
+          arr.push({
+            ...item,
+            sotitle: item.title.replace(reg, `<span class="red">$1</span>`)
+          })
+        } else if (matchSplit(keyword)) {
+        } else if (matchSplit(keyword.toLowerCase())) {
+        } else if (matchSplit(keyword.toUpperCase())) {
+        }
+      })
+
+      return arr
+    },
+
     onSearch () {
       this.handlerSearch()
     },
@@ -360,34 +480,20 @@ export default {
       } else {
         localStorage.removeItem('matchSkill')
       }
-    },
-    async preloadList () {
-      if (!files.length) return
-      const tasks = await Promise.all(
-        files.splice(0, 2).map((name) => fetch(name, { cache: 'no-store' }).then((response) => response.json()))
-      )
-
-      const items = tasks.reduce((prev, curr) => [...prev, ...curr], [])
-
-      window.LIST_DATA = window.LIST_DATA.concat(items)
-      this.initLoadData(false, items)
-      this.handlerSearch(false)
-
-      setTimeout(() => {
-        this.preloadList()
-      }, 200)
     }
   },
-  mounted () {
+  async mounted () {
     const { q } = this.$route.query
 
     this.searchValue = q || ''
-    this.initLoadData()
-    this.handlerSearch()
 
-    setTimeout(() => {
-      this.preloadList()
-    }, 1000)
+    // 异步加载第一页数据
+    await this.initLoad()
+
+    // 如果有搜索参数，执行搜索
+    if (this.searchValue) {
+      this.handlerSearch()
+    }
   }
 }
 </script>

@@ -46,9 +46,18 @@ const devWebpackConfig = merge(baseWebpackConfig, {
       poll: config.dev.poll
     },
     before(app) {
+      // 服务分页数据
       app.get('/list/:name', (req, res) => {
         const { name } = req.params
         const file = `/list/${name}`
+        const filePath = path.join(__dirname, `../dist${file}`)
+        res.setHeader('Content-Type', 'application/json')
+        res.sendFile(filePath)
+      })
+      // 服务索引数据
+      app.get('/index/:name', (req, res) => {
+        const { name } = req.params
+        const file = `/index/${name}`
         const filePath = path.join(__dirname, `../dist${file}`)
         res.setHeader('Content-Type', 'application/json')
         res.sendFile(filePath)
