@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-02T06:49:28.587Z</updated>
+    <updated>2026-02-03T06:36:28.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[50万行代码不敢交给AI？TypeScript之父直言：它就像是个“高级复读机”]]></title>
+        <id>http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA</id>
+        <link href="http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA"/>
+        <updated>2026-02-02T00:00:00.000Z</updated>
+        <published>2026-02-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3652期】告别 dotenv？Node.js 原生支持 .env 文件加载了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278565&amp;idx=1&amp;sn=8fad43e39b148409f33d76e2510ec82d&amp;chksm=bc8319b363047c43cdfea2d5ea7e500679426fc3fc229b4a7d4ad9d9de353458256466835113&amp;scene=0#rd</id>
@@ -39,6 +46,13 @@
         <title type="html"><![CDATA[出圈了？JS的try...catch新写法，被质疑抄袭Go语言！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508595&amp;idx=1&amp;sn=411032c33ea7ad74c5cbf9be85b6d7d4&amp;chksm=ce45b7e2f9323ef4692897ea57b48ae7461f4ed7e8b7649e7ecebc62037e494f2dfa9982fa49#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508595&amp;idx=1&amp;sn=411032c33ea7ad74c5cbf9be85b6d7d4&amp;chksm=ce45b7e2f9323ef4692897ea57b48ae7461f4ed7e8b7649e7ecebc62037e494f2dfa9982fa49#rd"/>
+        <updated>2026-01-30T00:00:00.000Z</updated>
+        <published>2026-01-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一行Rust没写过！仅1个月，他用Claude迁移了10万行JavaScript代码]]></title>
+        <id>http://mp.weixin.qq.com/s/lKe3M8oU0G64qMd4w5JBhA</id>
+        <link href="http://mp.weixin.qq.com/s/lKe3M8oU0G64qMd4w5JBhA"/>
         <updated>2026-01-30T00:00:00.000Z</updated>
         <published>2026-01-30T00:00:00.000Z</published>
     </entry>
@@ -225,16 +239,16 @@
         <published>2026-01-20T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS中的内存管理是如何工作的]]></title>
-        <id>http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ</id>
-        <link href="http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ"/>
+        <title type="html"><![CDATA[炸锅了！腾讯突然给 GitHub 发函，下架 4000 多个微信聊天记录相关开源仓库。网友：自己的记录都不让导出？]]></title>
+        <id>http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA</id>
+        <link href="http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA"/>
         <updated>2026-01-20T00:00:00.000Z</updated>
         <published>2026-01-20T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[炸锅了！腾讯突然给 GitHub 发函，下架 4000 多个微信聊天记录相关开源仓库。网友：自己的记录都不让导出？]]></title>
-        <id>http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA</id>
-        <link href="http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA"/>
+        <title type="html"><![CDATA[JS中的内存管理是如何工作的]]></title>
+        <id>http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ</id>
+        <link href="http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ"/>
         <updated>2026-01-20T00:00:00.000Z</updated>
         <published>2026-01-20T00:00:00.000Z</published>
     </entry>
@@ -274,16 +288,16 @@
         <published>2026-01-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】JavaScript 高级编程权威指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd"/>
         <updated>2026-01-19T00:00:00.000Z</updated>
         <published>2026-01-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】JavaScript 高级编程权威指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=2&amp;sn=0a316ad05505e05aa97532ac6ea655c1&amp;chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd"/>
         <updated>2026-01-19T00:00:00.000Z</updated>
         <published>2026-01-19T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278454&amp;idx=1&amp;sn=ddabfeba4caf5df58de80e05fc4d1a22&amp;chksm=bc34b5159ca9f5b5a37eacdc08d5ce0d2e5a7f83738964a1a5a4302180a89ecbb6212e09e7b4&amp;scene=0#rd"/>
         <updated>2026-01-16T00:00:00.000Z</updated>
         <published>2026-01-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3641期】AI 在编写 React 代码方面到底有多强？Addy Osmani的实战指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278442&amp;idx=1&amp;sn=d5a2eae3672d1efbd822968c21d5df05&amp;chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278442&amp;idx=1&amp;sn=d5a2eae3672d1efbd822968c21d5df05&amp;chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&amp;scene=0#rd"/>
-        <updated>2026-01-15T00:00:00.000Z</updated>
-        <published>2026-01-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new guide to configuring Node packages]]></title>
-        <id>https://nodeweekly.com/issues/607</id>
-        <link href="https://nodeweekly.com/issues/607"/>
-        <updated>2026-01-15T00:00:00.000Z</updated>
-        <published>2026-01-15T00:00:00.000Z</published>
     </entry>
 </feed>
