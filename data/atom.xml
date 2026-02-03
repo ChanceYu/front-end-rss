@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-03T06:36:28.062Z</updated>
+    <updated>2026-02-03T18:40:19.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Babel 8 RC Arrives, Gatsby Lives, Lodash Resets]]></title>
+        <id>https://javascriptweekly.com/issues/771</id>
+        <link href="https://javascriptweekly.com/issues/771"/>
+        <updated>2026-02-03T00:00:00.000Z</updated>
+        <published>2026-02-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50万行代码不敢交给AI？TypeScript之父直言：它就像是个“高级复读机”]]></title>
         <id>http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[抛弃 Axios！这个轻量化请求库，前端性能直接起飞]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508158&amp;idx=1&amp;sn=0df31b9eabac1b7bc2c67577558b3160&amp;chksm=ce45b52ff9323c39b8ffa2cc6da92c321b4a75e6a1413511663439fb1d2ad602a1c8bdde2c26#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508158&amp;idx=1&amp;sn=0df31b9eabac1b7bc2c67577558b3160&amp;chksm=ce45b52ff9323c39b8ffa2cc6da92c321b4a75e6a1413511663439fb1d2ad602a1c8bdde2c26#rd"/>
-        <updated>2026-01-16T00:00:00.000Z</updated>
-        <published>2026-01-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3642期】document.currentScript：被忽视却超实用的前端小技巧]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278454&amp;idx=1&amp;sn=ddabfeba4caf5df58de80e05fc4d1a22&amp;chksm=bc34b5159ca9f5b5a37eacdc08d5ce0d2e5a7f83738964a1a5a4302180a89ecbb6212e09e7b4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278454&amp;idx=1&amp;sn=ddabfeba4caf5df58de80e05fc4d1a22&amp;chksm=bc34b5159ca9f5b5a37eacdc08d5ce0d2e5a7f83738964a1a5a4302180a89ecbb6212e09e7b4&amp;scene=0#rd"/>
         <updated>2026-01-16T00:00:00.000Z</updated>
         <published>2026-01-16T00:00:00.000Z</published>
     </entry>
