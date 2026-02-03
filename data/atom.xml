@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-03T18:40:19.712Z</updated>
+    <updated>2026-02-03T22:19:03.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[全栈神器！前端可以在CSS里写SQL语句啦！以后不需要后端了？]]></title>
+        <id>http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A</id>
+        <link href="http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A"/>
+        <updated>2026-02-03T00:00:00.000Z</updated>
+        <published>2026-02-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Babel 8 RC Arrives, Gatsby Lives, Lodash Resets]]></title>
         <id>https://javascriptweekly.com/issues/771</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[十条经过实战检验的 TypeScript monorepo 约定]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528946&amp;idx=1&amp;sn=2f015af3de78ea7ed6b651445eba100c&amp;chksm=f9927723cee5fe356f24ef1f187966a6a9359bbb799691d2c894e4ec7fcf56a2d376eab233d5#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247528946&amp;idx=1&amp;sn=2f015af3de78ea7ed6b651445eba100c&amp;chksm=f9927723cee5fe356f24ef1f187966a6a9359bbb799691d2c894e4ec7fcf56a2d376eab233d5#rd"/>
-        <updated>2026-01-16T00:00:00.000Z</updated>
-        <published>2026-01-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抛弃 Axios！这个轻量化请求库，前端性能直接起飞]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508158&amp;idx=1&amp;sn=0df31b9eabac1b7bc2c67577558b3160&amp;chksm=ce45b52ff9323c39b8ffa2cc6da92c321b4a75e6a1413511663439fb1d2ad602a1c8bdde2c26#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508158&amp;idx=1&amp;sn=0df31b9eabac1b7bc2c67577558b3160&amp;chksm=ce45b52ff9323c39b8ffa2cc6da92c321b4a75e6a1413511663439fb1d2ad602a1c8bdde2c26#rd"/>
         <updated>2026-01-16T00:00:00.000Z</updated>
         <published>2026-01-16T00:00:00.000Z</published>
     </entry>
