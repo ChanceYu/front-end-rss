@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-04 06:19:03，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-04 09:00:34，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,7 +23,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -202,9 +202,9 @@
 </summary>
 
 
-- [2026-02-03-全栈神器！前端可以在CSS里写SQL语句啦！以后不需要后端了？](http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A) ![](/assets/new.png)  
-- [2026-02-03-猝死程序员妻子：他-10-年只休过-1-次年假。公司回应：5-年休年假-26-天。网友：休而不息是常态](http://mp.weixin.qq.com/s/AfKZDAXrhLoBzITJWDGWtQ) ![](/assets/new.png)  
-- [2026-02-03-2026财务自由对照表，躺平需要多少钱](http://mp.weixin.qq.com/s/FAZcfMqP6xK3sYWp0E0UqQ) ![](/assets/new.png)  
+- [2026-02-03-全栈神器！前端可以在CSS里写SQL语句啦！以后不需要后端了？](http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A)  
+- [2026-02-03-猝死程序员妻子：他-10-年只休过-1-次年假。公司回应：5-年休年假-26-天。网友：休而不息是常态](http://mp.weixin.qq.com/s/AfKZDAXrhLoBzITJWDGWtQ)  
+- [2026-02-03-2026财务自由对照表，躺平需要多少钱](http://mp.weixin.qq.com/s/FAZcfMqP6xK3sYWp0E0UqQ)  
 - [2026-01-30-出圈了？JS的try...catch新写法，被质疑抄袭Go语言！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508595&idx=1&sn=411032c33ea7ad74c5cbf9be85b6d7d4&chksm=ce45b7e2f9323ef4692897ea57b48ae7461f4ed7e8b7649e7ecebc62037e494f2dfa9982fa49#rd)  
 - [2026-01-29-Apifox-和-Postman-开源平替！新API工具内置-AI-agent-，调试效率飙升！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508583&idx=2&sn=d2a73ee7eb526fc5bb56ac628d9e6e12&chksm=ce45b7f6f9323ee0273053b0634e6740b88645e786d690c006d283f6b075adc8475654ee0566#rd)  
 - [2026-01-29-出事了！卸载Notepad++](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508583&idx=1&sn=fd4d58096c955c11bed11986c31df99f&chksm=ce45b7f6f9323ee0c3e978bbcc84ef63ded6f350bcdf5ba300117acf4afbbb87d04856be6f26#rd)  
@@ -481,6 +481,10 @@
 </summary>
 
 
+- [2026-02-02-淘天集团自营技术运营算法团队4年2次荣膺-INFORMS“杰出实践奖”决选荣誉：以策略正则化突破DRL在库存管理中的落地瓶颈](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542682&idx=1&sn=4a56846c13628675c01337e79b01d614&chksm=8390da42b4e753547975ab94ed9e40a4f4524a989918423bba32591249c891bf11f0c5f16121#rd) ![](/assets/new.png)  
+- [2026-01-30-【淘宝直播数字人互动LLM】告别AI感：基于真人ASR数据的拟人化探索](http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg) ![](/assets/new.png)  
+- [2026-01-28-Agentic-Coding场景下基于职责分离的上下文管理思路分享](http://mp.weixin.qq.com/s/sLTlZZnAratkUTAJiG2uMg) ![](/assets/new.png)  
+- [2026-01-26-如何设计一个AI-Agent系统](http://mp.weixin.qq.com/s/8ArJk0vpGP0o97kEtqscqA) ![](/assets/new.png)  
 - [2026-01-23-ICCV25-|-淘宝人脸吸引力预测算法FPEM](http://mp.weixin.qq.com/s/vdwd_gOcuyWDF_K_U3j73Q)  
 - [2026-01-21-AI+时代工程师的空间在哪儿——从范式演进看技术机会](http://mp.weixin.qq.com/s/gdMmkZ4A7ojTIdmrZ6IpgQ)  
 - [2026-01-19-淘宝订单列表体验优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542407&idx=1&sn=fd453a0a0c183a786c465aecbeaecfdc&chksm=8390d95fb4e750491b7034d211cf019f20fde7478616f3d8b1120b74e6c5eb0e82344e284402#rd)  
@@ -497,10 +501,6 @@
 - [2025-12-15-AI编码实践：从Vibe-Coding到SDD](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542043&idx=1&sn=2da4173e8fc94e55f31ffd01f4f8f67a&chksm=8390c7c3b4e74ed58f454c08b63b7ab674c672e0432a0b9ebac6bc4819024196d4d9712bc726#rd)  
 - [2025-12-10-Jimi：打造Java程序员专属的开源ClaudeCode](http://mp.weixin.qq.com/s/a6zOCKaBey0IQnywOd4xWg)  
 - [2025-12-08-2025淘宝直播双11花花乐动画实现方案思考&amp;分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542021&idx=1&sn=7a6602a2f66c962b2d69934938727815&chksm=8390c7ddb4e74ecb7260738532c8257c0dde2b6a491ac68acddcf475b0bcab9abf3d75a88202#rd)  
-- [2025-12-01-复杂任务AI处理实践：淘宝工程师的实战手记](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541986&idx=1&sn=b6fd90b2a69aa47bbf1b5c3e5f0200c8&chksm=8390c7bab4e74eac9964bbd80d074e6687862b2ca3562c2f716afa88d8e5de8fc9ce26855a61#rd)  
-- [2025-11-28-重构一个类，JVM竟省下2.9G内存？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541985&idx=1&sn=0f17f4efa07a35c14c7a36873328e281&chksm=8390c7b9b4e74eaf067632eed7a8ea06278870bb4b30bb1f1c22b2760c44690ebdfb359ad370#rd)  
-- [2025-11-24-AI互动前端开发的思考和实践_](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541979&idx=1&sn=faf282e03be44adb359e802303d2b61d&chksm=8390c783b4e74e958515dec2e69f8d7229cda5c3c4d88cbeb7d31c6758d4cf2b68974a0f10c7#rd)  
-- [2025-11-21-代码染色&amp;无效代码清理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541978&idx=1&sn=bb0fa20811d46edcb07f11a9f19d1339&chksm=8390c782b4e74e9484c34f39b2759dd4d337512c378e3a4f55be551ef42fdad06a26a00c0831#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
