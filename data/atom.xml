@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-04T06:36:42.565Z</updated>
+    <updated>2026-02-04T08:27:45.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[v-model 淘汰！ Vue3 新玩法代码量减少 60%！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508687&amp;idx=1&amp;sn=1bc02b0bb9179310c90507c7544b4ea0&amp;chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508687&amp;idx=1&amp;sn=1bc02b0bb9179310c90507c7544b4ea0&amp;chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd"/>
+        <updated>2026-02-04T00:00:00.000Z</updated>
+        <published>2026-02-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全栈神器！前端可以在CSS里写SQL语句啦！以后不需要后端了？]]></title>
         <id>http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A</id>
@@ -36,6 +43,13 @@
         <published>2026-02-02T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[uni-app淘汰！Vue3 原生开发最佳方案]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508643&amp;idx=1&amp;sn=138c5397dd9821bc8db743647c939209&amp;chksm=ce45b732f9323e24631aab260c1a7c0326bff6abc6f5ce39e2ed07ff514823c0bdc3cf2e85ac#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508643&amp;idx=1&amp;sn=138c5397dd9821bc8db743647c939209&amp;chksm=ce45b732f9323e24631aab260c1a7c0326bff6abc6f5ce39e2ed07ff514823c0bdc3cf2e85ac#rd"/>
+        <updated>2026-02-02T00:00:00.000Z</updated>
+        <published>2026-02-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[50万行代码不敢交给AI？TypeScript之父直言：它就像是个“高级复读机”]]></title>
         <id>http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA</id>
         <link href="http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA"/>
@@ -48,6 +62,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278565&amp;idx=1&amp;sn=8fad43e39b148409f33d76e2510ec82d&amp;chksm=bc8319b363047c43cdfea2d5ea7e500679426fc3fc229b4a7d4ad9d9de353458256466835113&amp;scene=0#rd"/>
         <updated>2026-02-02T00:00:00.000Z</updated>
         <published>2026-02-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[stars 高达50w+！Github 爆火的 10 个值得学习的 AI 项目！学到了好多！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508610&amp;idx=1&amp;sn=37f34326e37f4855cf0b606a2cc4f458&amp;chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508610&amp;idx=1&amp;sn=37f34326e37f4855cf0b606a2cc4f458&amp;chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd"/>
+        <updated>2026-01-31T00:00:00.000Z</updated>
+        <published>2026-01-31T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[告别insertBefore，使用moveBefore移动DOM元素]]></title>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/zzG0u5XiRYOn5I-8sGyB7g"/>
         <updated>2026-01-18T00:00:00.000Z</updated>
         <published>2026-01-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue Native 终于到来！Vue 移动端开发终极方案！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508167&amp;idx=1&amp;sn=e161f14cc6357183bc3dbddfb453f156&amp;chksm=ce45b556f9323c40e22fd470a10c718586b926aade2a5e45b0ed86f01300121bccdf54cac946#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508167&amp;idx=1&amp;sn=e161f14cc6357183bc3dbddfb453f156&amp;chksm=ce45b556f9323c40e22fd470a10c718586b926aade2a5e45b0ed86f01300121bccdf54cac946#rd"/>
-        <updated>2026-01-17T00:00:00.000Z</updated>
-        <published>2026-01-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十条经过实战检验的 TypeScript monorepo 约定]]></title>
-        <id>http://mp.weixin.qq.com/s/MPf5ZZ0bGyjlzOsrnfTrCQ</id>
-        <link href="http://mp.weixin.qq.com/s/MPf5ZZ0bGyjlzOsrnfTrCQ"/>
-        <updated>2026-01-17T00:00:00.000Z</updated>
-        <published>2026-01-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯CSS实现折线连接两个任意元素效果]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/"/>
-        <updated>2026-01-16T00:00:00.000Z</updated>
-        <published>2026-01-16T00:00:00.000Z</published>
     </entry>
 </feed>
