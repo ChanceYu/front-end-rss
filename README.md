@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-05 14:43:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-05 22:37:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2026-02-05-Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610) ![](/assets/new.png)  
 - [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609)  
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)  
 - [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)  
@@ -66,7 +67,6 @@
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
-- [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2026-02-05-【第3654期】不再重置！在-React-/-Next.js-中实现跨页面“持续进化”的动画效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278586&idx=1&sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&scene=0#rd) ![](/assets/new.png)  
+- [2026-02-05-【第3654期】不再重置！在-React-/-Next.js-中实现跨页面“持续进化”的动画效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278586&idx=1&sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&scene=0#rd)  
 - [2026-02-04-【早阅】Agent-Trace：给-AI-写的代码留下一条“来龙去脉”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278580&idx=1&sn=a403b60c4548ca106722bb492ed6f504&chksm=bc4466a6eee1321819c1f83cb706680a89d694d04d63131c48266839ff096964e8b396ddbb96&scene=0#rd)  
 - [2026-02-03-【第3653期】一个-CLAUDE.md，让-AI-真正懂你的项目：从配置到长期提效的完整指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278571&idx=1&sn=66e4f199ff6c325a9415c9c4bf3dcaad&chksm=bceeb354069809f66f10e42dd77ee53ddd2fe6b4bd73767e65eb964d87b7d2e268380ae6d6c9&scene=0#rd)  
 - [2026-02-02-【第3652期】告别-dotenv？Node.js-原生支持-.env-文件加载了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278565&idx=1&sn=8fad43e39b148409f33d76e2510ec82d&chksm=bc8319b363047c43cdfea2d5ea7e500679426fc3fc229b4a7d4ad9d9de353458256466835113&scene=0#rd)  

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-05T06:43:22.335Z</updated>
+    <updated>2026-02-05T14:37:14.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3654期】不再重置！在 React / Next.js 中实现跨页面“持续进化”的动画效果]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278586&amp;idx=1&amp;sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&amp;chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278586&amp;idx=1&amp;sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&amp;chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&amp;scene=0#rd"/>
+        <updated>2026-02-05T00:00:00.000Z</updated>
+        <published>2026-02-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hono tops developer satisfaction, but Express still leads]]></title>
+        <id>https://nodeweekly.com/issues/610</id>
+        <link href="https://nodeweekly.com/issues/610"/>
         <updated>2026-02-05T00:00:00.000Z</updated>
         <published>2026-02-05T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd"/>
         <updated>2026-01-19T00:00:00.000Z</updated>
         <published>2026-01-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[封神了！美团宣布前端转全栈的八个神级工具！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508220&amp;idx=1&amp;sn=df3c7713e3d955ca45f9e2cc0bada19a&amp;chksm=ce45b56df9323c7b76d38f04fdd470a0ce97f28a303c608434ffcf03027203209611fca262a3#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508220&amp;idx=1&amp;sn=df3c7713e3d955ca45f9e2cc0bada19a&amp;chksm=ce45b56df9323c7b76d38f04fdd470a0ce97f28a303c608434ffcf03027203209611fca262a3#rd"/>
-        <updated>2026-01-18T00:00:00.000Z</updated>
-        <published>2026-01-18T00:00:00.000Z</published>
     </entry>
 </feed>
