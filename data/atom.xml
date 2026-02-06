@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-06T06:39:12.577Z</updated>
+    <updated>2026-02-06T12:31:36.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS text-box属性又是干嘛用的？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <published>2026-02-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3655期】浏览器即运行时：一个零后端 AI 应用的前端架构实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278596&amp;idx=1&amp;sn=dea55dba00065e03f83445a08be9f33e&amp;chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Cursor一夜翻车，AI 300万代码写浏览器被打假！全网群嘲「AI泔水」]]></title>
         <id>http://mp.weixin.qq.com/s/3cFHuP9UZRkEIBe5X3rBCw</id>
         <link href="http://mp.weixin.qq.com/s/3cFHuP9UZRkEIBe5X3rBCw"/>
-        <updated>2026-01-19T00:00:00.000Z</updated>
-        <published>2026-01-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278475&amp;idx=1&amp;sn=35ee14939a0ca527fa6f651b32a78b26&amp;chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&amp;scene=0#rd"/>
         <updated>2026-01-19T00:00:00.000Z</updated>
         <published>2026-01-19T00:00:00.000Z</published>
     </entry>
