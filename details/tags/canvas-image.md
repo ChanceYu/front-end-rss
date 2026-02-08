@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-08 04:14:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-08 12:24:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -39,6 +39,7 @@
 - [2019-01-18-【英】A-UX-Guide-For-Designing-Error-Pages](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=3&sn=5b7ea3d6273a1ffac515a22caffe404a#wechat_redirect) 
 - [2019-01-12-【英】A-guide-to-color-accessibility-in-product-design](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=3&sn=781f83ae87cd14985fb715444230648f#wechat_redirect) 
 - [2019-01-10-【第1502期】An-English-Guide-for-Programmers---专为程序员编写的英语学习指南。](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=2&sn=998a8cad9d49ab1ebfb036300bf4a89c#wechat_redirect) 
+- [2026-02-05-前端指纹技术是如何实现的？（Canvas、Audio、硬件API-核心原理解密）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624063&idx=2&sn=c1ebcf9c38f9370e5b91b1dd25f2811a&chksm=802245beb755cca85a464a3fe9042ef36cefeff901bf92391db1448949ee722ac4bb3515f510#rd) 
 - [2023-06-27-原生-canvas-如何实现大屏?](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615327&idx=2&sn=54df4d81cc4532039649676a6aa9ea72&chksm=8022a79eb7552e881f0adc22e0961c37430089b4ae2524e0283c684e68f5a4072b40a8340837#rd) 
 - [2021-03-11-设计灵感：网页里的3D插画！立体风格的创意表达](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651572576&idx=4&sn=7694b785969db5cec8e813360f0c99bd&chksm=80251ea1b75297b7c081a1701722650a86eb7bb7841a40427a3fd27a51faf42e7666d0b5c8c7&scene=27#wechat_redirect) 
 - [2020-12-21-设计灵感：把-3D-图案应用到网页界面设计中](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564868&idx=3&sn=d6909961ce1ec90f54ba0e94e0971723&chksm=80257c85b752f593ab5cfde2eb69fa6f87d2a0526b62ff972157d4e6659c420b0a3c7c99c2d7&scene=27#wechat_redirect) 

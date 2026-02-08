@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-07T20:14:30.176Z</updated>
+    <updated>2026-02-08T04:24:59.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,6 +43,13 @@
         <published>2026-02-05T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[前端指纹技术是如何实现的？（Canvas、Audio、硬件API 核心原理解密）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624063&amp;idx=2&amp;sn=c1ebcf9c38f9370e5b91b1dd25f2811a&amp;chksm=802245beb755cca85a464a3fe9042ef36cefeff901bf92391db1448949ee722ac4bb3515f510#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624063&amp;idx=2&amp;sn=c1ebcf9c38f9370e5b91b1dd25f2811a&amp;chksm=802245beb755cca85a464a3fe9042ef36cefeff901bf92391db1448949ee722ac4bb3515f510#rd"/>
+        <updated>2026-02-05T00:00:00.000Z</updated>
+        <published>2026-02-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3654期】不再重置！在 React / Next.js 中实现跨页面“持续进化”的动画效果]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278586&amp;idx=1&amp;sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&amp;chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278586&amp;idx=1&amp;sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&amp;chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&amp;scene=0#rd"/>
@@ -60,6 +67,13 @@
         <title type="html"><![CDATA[v-model 淘汰！ Vue3 新玩法代码量减少 60%！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508687&amp;idx=1&amp;sn=1bc02b0bb9179310c90507c7544b4ea0&amp;chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508687&amp;idx=1&amp;sn=1bc02b0bb9179310c90507c7544b4ea0&amp;chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd"/>
+        <updated>2026-02-04T00:00:00.000Z</updated>
+        <published>2026-02-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌Chrome觉醒！Gemini 3全面接管，38亿用户一夜进入Agent时代]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=2&amp;sn=37c808ca69f24f963618f33854406d88&amp;chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=2&amp;sn=37c808ca69f24f963618f33854406d88&amp;chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd"/>
         <updated>2026-02-04T00:00:00.000Z</updated>
         <published>2026-02-04T00:00:00.000Z</published>
     </entry>
@@ -330,16 +344,16 @@
         <published>2026-01-20T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS中的内存管理是如何工作的]]></title>
-        <id>http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ</id>
-        <link href="http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ"/>
+        <title type="html"><![CDATA[炸锅了！腾讯突然给 GitHub 发函，下架 4000 多个微信聊天记录相关开源仓库。网友：自己的记录都不让导出？]]></title>
+        <id>http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA</id>
+        <link href="http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA"/>
         <updated>2026-01-20T00:00:00.000Z</updated>
         <published>2026-01-20T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[炸锅了！腾讯突然给 GitHub 发函，下架 4000 多个微信聊天记录相关开源仓库。网友：自己的记录都不让导出？]]></title>
-        <id>http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA</id>
-        <link href="http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA"/>
+        <title type="html"><![CDATA[JS中的内存管理是如何工作的]]></title>
+        <id>http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ</id>
+        <link href="http://mp.weixin.qq.com/s/u-FEI-TUnWUsFNOtHOR9CQ"/>
         <updated>2026-01-20T00:00:00.000Z</updated>
         <published>2026-01-20T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278480&amp;idx=1&amp;sn=e8e4caef1b2b3253b6922cd7cd30e483&amp;chksm=bc6e71e5b890a9047670d7455687099643d3800e442ab46f22542f0e2a066c89cd91e07c99e2&amp;scene=0#rd"/>
         <updated>2026-01-20T00:00:00.000Z</updated>
         <published>2026-01-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS text-decoration-inset属性首发简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/"/>
-        <updated>2026-01-19T00:00:00.000Z</updated>
-        <published>2026-01-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝订单列表体验优化实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542407&amp;idx=1&amp;sn=fd453a0a0c183a786c465aecbeaecfdc&amp;chksm=8390d95fb4e750491b7034d211cf019f20fde7478616f3d8b1120b74e6c5eb0e82344e284402#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542407&amp;idx=1&amp;sn=fd453a0a0c183a786c465aecbeaecfdc&amp;chksm=8390d95fb4e750491b7034d211cf019f20fde7478616f3d8b1120b74e6c5eb0e82344e284402#rd"/>
-        <updated>2026-01-19T00:00:00.000Z</updated>
-        <published>2026-01-19T00:00:00.000Z</published>
     </entry>
 </feed>
