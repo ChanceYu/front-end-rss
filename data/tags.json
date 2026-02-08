@@ -24,39 +24,15 @@
     "skill": true
   },
   {
-    "tag": "Webpack、NPM、构建相关",
-    "filename": "pack-build",
-    "keywords": "Webpack|Lerna|Rollup|Vite|NPM|NPX|Yarn|Gulp|Grunt|Babel|ESLint|TSLint|Polyfill|Jenkins|构建|monorepo",
+    "tag": "JavaScript",
+    "filename": "javascript",
+    "keywords": "JavaScript|ECMAScript|JS|ES6|ES7|ES8|ES9|ES10|Promise|document|await|async|decorator|module|import|catch|typeof|console|setInterval|setTimeout|Worker|Object|fetch|Map|Set|reduce|this|bind|DataTransfer|Array|ArrayBuffer|Component|DOM|H5|HTML5|Proxy|Reflect|组件|正则|数组|事件|深拷贝|数据代理|变量|函数式|声明式|异步|表单|滚动|scroll|防抖|适配|路由|模块化",
     "skill": true
   },
   {
     "tag": "NodeJS",
     "filename": "nodejs",
     "keywords": "Node|Node.?js|Deno|Express|Koa|egg.?js|pandora.?js|Electron|Puppeteer|V8",
-    "skill": true
-  },
-  {
-    "tag": "小程序",
-    "filename": "miniprogram",
-    "keywords": "小程序|Taro|MPVue|Wepy|Chameleon",
-    "skill": true
-  },
-  {
-    "tag": "移动开发、Flutter相关",
-    "filename": "dev-mobile",
-    "keywords": "Flutter|PWA|移动开发",
-    "skill": true
-  },
-  {
-    "tag": "游戏开发",
-    "filename": "dev-game",
-    "keywords": "游戏|Three.?js|Create.?js|Matter.?js",
-    "skill": true
-  },
-  {
-    "tag": "JavaScript",
-    "filename": "javascript",
-    "keywords": "JavaScript|ECMAScript|JS|ES6|ES7|ES8|ES9|ES10|Promise|document|await|async|decorator|module|import|catch|typeof|console|setInterval|setTimeout|Worker|Object|fetch|Map|Set|reduce|this|bind|DataTransfer|Array|ArrayBuffer|Component|DOM|H5|HTML5|Proxy|Reflect|组件|正则|数组|事件|深拷贝|数据代理|变量|函数式|声明式|异步|表单|滚动|scroll|防抖|适配|路由|模块化",
     "skill": true
   },
   {
@@ -72,13 +48,49 @@
     "skill": true
   },
   {
-    "tag": "Canvas、SVG、图像",
-    "filename": "canvas-image",
-    "keywords": "Canvas|SVG|WebGL|3D|PNG|WebP|RGB|GUI",
+    "tag": "构建打包",
+    "filename": "pack-build",
+    "keywords": "Webpack|Lerna|Rollup|Vite|NPM|NPX|Yarn|Gulp|Grunt|Babel|ESLint|TSLint|Polyfill|Jenkins|构建|monorepo",
     "skill": true
   },
   {
-    "tag": "音视频相关",
+    "tag": "小程序",
+    "filename": "miniprogram",
+    "keywords": "小程序|Taro|MPVue|Wepy|Chameleon",
+    "skill": true
+  },
+  {
+    "tag": "手机应用",
+    "filename": "dev-mobile",
+    "keywords": "Flutter|React-Native|Android|iOS|鸿蒙|手机应用|手机APP",
+    "skill": true
+  },
+  {
+    "tag": "桌面应用",
+    "filename": "dev-desktop",
+    "keywords": "Electron|NW.?js|Tauri",
+    "skill": true
+  },
+  {
+    "tag": "浏览器",
+    "filename": "browser",
+    "keywords": "Chrome|Chromium|IE|Firefox|Safari|Webkit|Edge|WebSocket|localStorage|sessionStorage|navigator|GET|POST|CORS|CORB|URL|浏览器|调试|缓存|跨域|请求|安全|状态码|重绘|重排|渲染",
+    "skill": true
+  },
+  {
+    "tag": "游戏开发",
+    "filename": "dev-game",
+    "keywords": "游戏|Three.?js|Create.?js|Matter.?js|Cocos|Unity|Unreal|Godot|Laya|Egret|白鹭",
+    "skill": true
+  },
+  {
+    "tag": "图形图像",
+    "filename": "canvas-image",
+    "keywords": "Canvas|SVG|WebGL|2D|3D|PNG|WebP|RGB|GUI",
+    "skill": true
+  },
+  {
+    "tag": "音视频",
     "filename": "audio-video",
     "keywords": "WebVR|WebRTC|Video|Audio|图像|音频|视频|直播|摄像头|播放器",
     "skill": true
@@ -90,25 +102,19 @@
     "skill": true
   },
   {
-    "tag": "浏览器相关",
-    "filename": "browser",
-    "keywords": "Chrome|Chromium|IE|Firefox|Safari|Webkit|Edge|WebSocket|localStorage|sessionStorage|navigator|GET|POST|CORS|CORB|URL|浏览器|调试|缓存|跨域|请求|安全|状态码|重绘|重排|渲染",
-    "skill": true
-  },
-  {
-    "tag": "前端进阶相关",
+    "tag": "前端进阶",
     "filename": "front-end-advanced",
     "keywords": "AST|GPU|WebAssembly|Vim|HTTP|算法|全栈|工程化|可视化|微前端|源码|原理|前端架构|大前端|低代码|编辑器",
     "skill": true
   },
   {
-    "tag": "服务端相关",
+    "tag": "服务端",
     "filename": "server",
     "keywords": "Nginx|Docker|Server|GraphQL|REST|gRPC|Rust|Java|Python|PHP|Golang|Django|SSR|SSG|MongoDB|JWT|SSH|rsync|Bash|Tmux|命令|数据库",
     "skill": true
   },
   {
-    "tag": "Git、SVN",
+    "tag": "版本控制",
     "filename": "git-svn",
     "keywords": "Git|SVN",
     "skill": true
