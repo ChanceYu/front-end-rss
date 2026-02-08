@@ -1,5 +1,11 @@
 [
   {
+    "tag": "AI",
+    "filename": "ai",
+    "keywords": "AI|LLM|GPT|大模型|人工智能|机器学习|深度学习|神经网络|ChatGPT|Cursor|Claude|Copilot|Agent|Gemini|Llama|RAG|Prompt|提示词|向量数据库|Embedding|LangChain|LlamaIndex|AIGC|多模态|微调|自然语言处理|NLP|大语言模型|智能体",
+    "skill": true
+  },
+  {
     "tag": "React",
     "filename": "react",
     "keywords": "React|Rax|Nerv|Redux|useState|useEffect|useCallback|useRef|useMemo|Hooks?|Suspense",

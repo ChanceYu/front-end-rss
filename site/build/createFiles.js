@@ -5,7 +5,7 @@ const dayjs = require('dayjs')
 
 const data = require('./data')
 
-const { RSS_DATA, TAGS_DATA, LINKS_DATA } = data
+const { RSS_DATA, TAGS_DATA, LINKS_DATA, HOTWORDS_DATA } = data
 
 // 配置常量
 const PAGE_SIZE = 200
@@ -77,9 +77,11 @@ function generateTextIndex(articles) {
     }
   })
 
-  // 热门搜索词
-  const hotwords = ['react', 'vue', 'javascript', 'webpack', 'typescript', 'node', 'css', 'canvas', 'flutter', 'es6', '小程序', '浏览器']
-  hotwords.forEach(word => tagKeywords.add(word.toLowerCase()))
+  // 热门搜索词（来自 data/hotwords.json）
+  ;(HOTWORDS_DATA || []).forEach(word => {
+    const k = String(word).toLowerCase().trim()
+    if (k) tagKeywords.add(k)
+  })
 
   articles.forEach((article, idx) => {
     const title = article.title.toLowerCase()
@@ -198,13 +200,10 @@ function generateTimeIndex(articles) {
   fs.ensureDirSync(indexDir)
 
   const today = dayjs().format('YYYY-MM-DD')
-  const twoDaysAgo = dayjs().subtract(2, 'days').format('YYYY-MM-DD')
   const oneWeekAgo = dayjs().subtract(7, 'days').format('YYYY-MM-DD')
   const oneMonthAgo = dayjs().subtract(31, 'days').format('YYYY-MM-DD')
 
   const timeIndex = {
-    '今天': [],
-    '最近两天': [],
     '最近一周': [],
     '最近一月': []
   }
@@ -212,12 +211,6 @@ function generateTimeIndex(articles) {
   articles.forEach(article => {
     const date = article.date
 
-    if (date === today) {
-      timeIndex['今天'].push(article)
-    }
-    if (date >= twoDaysAgo && date <= today) {
-      timeIndex['最近两天'].push(article)
-    }
     if (date >= oneWeekAgo && date <= today) {
       timeIndex['最近一周'].push(article)
     }
@@ -228,7 +221,7 @@ function generateTimeIndex(articles) {
 
   const filePath = path.join(indexDir, 'time-index.json')
   fs.outputJsonSync(filePath, timeIndex)
-  console.log(`Generated time index with counts: 今天(${timeIndex['今天'].length}), 最近两天(${timeIndex['最近两天'].length}), 最近一周(${timeIndex['最近一周'].length}), 最近一月(${timeIndex['最近一月'].length})`)
+  console.log(`Generated time index with counts: 最近一周(${timeIndex['最近一周'].length}), 最近一月(${timeIndex['最近一月'].length})`)
 }
 
 /**

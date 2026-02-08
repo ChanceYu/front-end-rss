@@ -21,6 +21,11 @@ import infiniteScroll from 'vue-infinite-scroll'
 import App from './App'
 import router from './router'
 
+// 防止被第三方网站用 iframe 嵌入，若被嵌入则替换为当前页地址
+if (typeof window !== 'undefined' && window.self !== window.top) {
+  window.top.location.href = window.location.href
+}
+
 Vue.config.productionTip = false
 
 Vue

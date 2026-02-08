@@ -8,7 +8,8 @@ module.exports = {
   // 保留：用于筛选菜单显示
   RSS_DATA: JSON.stringify(data.RSS_DATA),
   TAGS_DATA: JSON.stringify(data.TAGS_DATA),
-  
+  HOTWORDS_DATA: JSON.stringify(data.HOTWORDS_DATA),
+
   // 新增：分页配置常量
   TOTAL_COUNT: config.totalCount,
   PAGE_SIZE: config.pageSize,
