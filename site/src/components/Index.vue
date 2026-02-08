@@ -136,13 +136,16 @@ const sortArray = (arr) => {
   })
 }
 
-const TODAY = dayjs().format('YYYY-MM-DD')
+const today = dayjs().valueOf()
 const ranges = [{
+  title: '最近三天',
+  dates: [dayjs().subtract(3, 'days').startOf('day').valueOf(), today]
+}, {
   title: '最近一周',
-  dates: [dayjs().subtract(7, 'days').format('YYYY-MM-DD'), TODAY]
+  dates: [dayjs().subtract(7, 'days').startOf('day').valueOf(), today]
 }, {
   title: '最近一月',
-  dates: [dayjs().subtract(31, 'days').format('YYYY-MM-DD'), TODAY]
+  dates: [dayjs().subtract(31, 'days').startOf('day').valueOf(), today]
 }]
 
 const rss = window.RSS_DATA
@@ -179,8 +182,7 @@ export default {
       // 索引缓存
       textIndex: null,
       sourceIndex: null,
-      categoryIndex: null,
-      timeIndex: null
+      categoryIndex: null
     }
   },
   watch: {
@@ -271,15 +273,13 @@ export default {
     // 预加载索引（含文本索引，用于热门词等即时展示）
     async preloadIndexes () {
       try {
-        const [sourceIdx, categoryIdx, timeIdx, textIdx] = await Promise.all([
+        const [sourceIdx, categoryIdx, textIdx] = await Promise.all([
           fetch('/index/source-index.json', { cache: 'default' }).then(r => r.json()).catch(() => null),
           fetch('/index/category-index.json', { cache: 'default' }).then(r => r.json()).catch(() => null),
-          fetch('/index/time-index.json', { cache: 'default' }).then(r => r.json()).catch(() => null),
           fetch('/index/text-index.json', { cache: 'default' }).then(r => r.json()).catch(() => null)
         ])
         this.sourceIndex = sourceIdx
         this.categoryIndex = categoryIdx
-        this.timeIndex = timeIdx
         this.textIndex = textIdx
       } catch (e) {
         console.error('Failed to preload indexes:', e)
@@ -311,9 +311,12 @@ export default {
       const allLen = this.allList.length
       const resultsLen = this.results.length
       const reachedEnd = resultsLen > 0 && allLen > 0 && this.results[resultsLen - 1].link === this.allList[allLen - 1].link
-      const noData = allLen < this.pageSize
 
-      if (noData || reachedEnd) {
+      if (allLen === 0) {
+        this.isBusy = true
+        return
+      }
+      if (reachedEnd) {
         this.isBusy = true
         return
       }
@@ -402,21 +405,27 @@ export default {
       this.loadMore()
     },
 
-    // 按时间搜索
+    // 按时间搜索（按时间戳比较，范围开始为当天 00:00:00，结束为今天 23:59:59.999）
     async searchByTime (rangeName) {
-      if (this.timeIndex && this.timeIndex[rangeName]) {
-        return this.timeIndex[rangeName]
-      }
-      // 降级到本地搜索
       const rangeItem = ranges.find(r => r.title === rangeName)
       if (!rangeItem) return []
 
-      const dates = rangeItem.dates
+      const [startDate, endDate] = rangeItem.dates
+
+      if (startDate == null) return []
+      const rangeStartTs = startDate
+      const rangeEndTs = endDate
+      console.log(rangeName)
+      console.log(ranges)
+      console.log(startDate)
+      console.log(endDate)
+      console.log(results.filter(item => {
+        const itemTs = dayjs(item.date).valueOf()
+        return itemTs >= rangeStartTs && itemTs <= rangeEndTs
+      }))
       return results.filter(item => {
-        if (typeof dates === 'string') {
-          return item.date === dates
-        }
-        return item.date >= dates[0] && item.date <= dates[1]
+        const itemTs = dayjs(item.date).valueOf()
+        return itemTs >= rangeStartTs && itemTs <= rangeEndTs
       })
     },
 

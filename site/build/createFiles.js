@@ -192,39 +192,6 @@ function generateCategoryIndex(articles) {
 }
 
 /**
- * 生成时间范围索引
- * 结构: { rangeName: [article1, article2, ...] }
- */
-function generateTimeIndex(articles) {
-  const indexDir = path.join(DIST_PATH, 'index')
-  fs.ensureDirSync(indexDir)
-
-  const today = dayjs().format('YYYY-MM-DD')
-  const oneWeekAgo = dayjs().subtract(7, 'days').format('YYYY-MM-DD')
-  const oneMonthAgo = dayjs().subtract(31, 'days').format('YYYY-MM-DD')
-
-  const timeIndex = {
-    '最近一周': [],
-    '最近一月': []
-  }
-
-  articles.forEach(article => {
-    const date = article.date
-
-    if (date >= oneWeekAgo && date <= today) {
-      timeIndex['最近一周'].push(article)
-    }
-    if (date >= oneMonthAgo && date <= today) {
-      timeIndex['最近一月'].push(article)
-    }
-  })
-
-  const filePath = path.join(indexDir, 'time-index.json')
-  fs.outputJsonSync(filePath, timeIndex)
-  console.log(`Generated time index with counts: 最近一周(${timeIndex['最近一周'].length}), 最近一月(${timeIndex['最近一月'].length})`)
-}
-
-/**
  * 生成旧版 data.json 用于兼容
  */
 function generateLegacyDataFile() {
@@ -268,7 +235,6 @@ function createFiles() {
   generateTextIndex(articles)
   generateSourceIndex(articles)
   generateCategoryIndex(articles)
-  generateTimeIndex(articles)
 
   // 生成旧版兼容文件
   generateLegacyDataFile()
