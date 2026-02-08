@@ -579,6 +579,8 @@ export default {
     position: fixed;
     left: max(0px, calc((100vw - 260px - 720px - .5rem) / 2));
     top: 0;
+    padding-top: env(safe-area-inset-top, 0);
+    box-sizing: border-box;
     z-index: 8
 }
 
@@ -763,7 +765,7 @@ export default {
 }
 
 .result-box {
-    padding: 4.25rem 0 2rem;
+    padding: calc(4.25rem + env(safe-area-inset-top, 0)) 0 2rem;
     background: transparent;
     min-height: 80vh;
     box-sizing: border-box;
@@ -893,7 +895,7 @@ export default {
 
 .search-box {
     position: fixed;
-    top: 0;
+    top: env(safe-area-inset-top, 0);
     left: max(.5rem, calc((100vw - 260px - 720px - .5rem) / 2 + 260px + .5rem + .75rem));
     width: calc(720px - 1.5rem);
     max-width: calc(100vw - 260px - .5rem - 1rem - 1.5rem);
@@ -1066,6 +1068,7 @@ export default {
 
     .search-box {
         position: fixed;
+        top: env(safe-area-inset-top, 0);
         left: 0;
         right: 0;
         width: 100%;
@@ -1092,7 +1095,7 @@ export default {
     }
 
     .result-box {
-        padding: 4rem 0 1.5rem
+        padding: calc(4rem + env(safe-area-inset-top, 0)) 0 1.5rem
     }
 
     .result-box .skeleton-item .van-skeleton {
