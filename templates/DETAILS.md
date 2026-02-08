@@ -3,7 +3,7 @@
 ## <%= obj.title %>
 
 <% if(obj.keywords){ %>
-> 关键字：`<%= obj.keywords.replace(/(\?)|([：])/g, '').split('|').join('`、`') %>`
+> 关键字：`<%= obj.keywords.replace(/(\?)|([：])|(\)?\\b\(?)?/g, '').split('|').join('`、`') %>`
 <% } %>
 
 <% _.each(obj.items, function(item){ var itemTitle = obj.formatTitle(item.title); %>

@@ -62,7 +62,7 @@
   {
     "tag": "手机应用",
     "filename": "dev-mobile",
-    "keywords": "Flutter|React-Native|Android|iOS|鸿蒙|手机应用|手机APP",
+    "keywords": "\\b(Flutter|ReactNative|Native|Android|iOS|鸿蒙|手机应用|手机APP)\\b",
     "skill": true
   },
   {

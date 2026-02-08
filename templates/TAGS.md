@@ -15,7 +15,7 @@
 <p></p>
 
 <% if(e.keywords){ %>
-> 关键字：`<%= e.keywords.replace(/(\?)|([：])/g, '').split('|').join('`、`') %>`
+> 关键字：`<%= e.keywords.replace(/(\?)|([：])|(\)?\\b\(?)?/g, '').split('|').join('`、`') %>`
 <% } %>
 
 <% _.each(e.items.slice(0,20), function(item){ var itemTitle = obj.formatTitle(item.title); %>
