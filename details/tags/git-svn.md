@@ -1,6 +1,6 @@
-:alarm_clock: 更新时间: 2026-02-08 12:24:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-09 12:14:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
-## Git、SVN
+## 版本控制
 
 
 > 关键字：`Git`、`SVN`
@@ -8,14 +8,8 @@
 
 
 - [2025-09-19-【第3591期】GitHub-Spec-Kit：规范驱动开发走在正确的方向上---严谨、渐进式的-Vibe-Coding](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277468&idx=1&sn=555fad29ddf6adaed65dd6b2032b9ec7&chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&scene=0#rd) 
-- [2025-09-01-【第3579期】OODA-循环与-Git-Worktrees：来自-AI-辅助开发的九个启示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277328&idx=1&sn=36651ba5d2e57954793aadc84c1c434c&chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&scene=0#rd) 
 - [2025-08-11-【第3568期】使用-Git-Worktree-进行开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277197&idx=1&sn=2e8ebe9823216531c8e5b28581ccf48d&chksm=bcd0bf2c406b54d67bca607fbe168579b019371f1ab6283e51060ab5d6e5d334419ecc1f9aae&scene=0#rd) 
 - [2025-07-14-【第3549期】GitHub-Actions-全面解析：工作流结构完整指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276930&idx=1&sn=30b1310665cc50bd4ac0f54b9073d10d&chksm=bc42509f4ecfc49daf7bcf0bab5383b8ef3436450b42f41fe242ffb0954fe35fe32e1b934179&scene=0#rd) 
-- [2024-12-21-【早阅】GitHub-Copilot最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274819&idx=1&sn=34b6439cdc3fd7777ef9695072af43b2&chksm=bc480f32541ab5c4cb63657df3571478adac3738b49a56d07f408571896dcaebb9c4ca3adacc&scene=0#rd) 
-- [2024-12-20-【第3434期】VSCode-推出-GitHub-Copilot-免费版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274815&idx=1&sn=48396b04209610b2765f1b34e39eee50&chksm=bc5ceb104c8ee364b58e2e9187ceacde103260c5ddf542b16fc2d801d6691e0332ea286d4630&scene=0#rd) 
-- [2024-11-28-【图书】AI辅助编程入门：使用GitHub-Copilot零基础开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=2&sn=ab76c1332d66d7e3be3b80a6a6ef3862&chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&scene=0#rd) 
-- [2024-11-28-【早阅】GitHub-Copilot-Edits-功能详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=1&sn=31332b42ef6891c28cd065e0cf5fe77a&chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&scene=0#rd) 
-- [2023-07-14-【第2998期】逆向分析了Github-Copilot](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263858&idx=1&sn=b701da3cdb53378c14a1edd286a15a68&chksm=bd48caf68a3f43e0a1668df432413adef02a255ae08066376bbd9ee3d2e419009c5025c08461#rd) 
 - [2023-06-08-【第2965期】Github-Copiolt：如何提升开发者的生产力和幸福感？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263037&idx=1&sn=c598ff09475d448d3a52b073208c1a7b&chksm=bd48c9b98a3f40aff5ba4873319c8311dc38d454dded01bfcb724dd42922a702877999245894#rd) 
 - [2023-05-08-【第2934期】利用好-git-bisect-这把利器，帮助你快速定位疑难-bug](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262437&idx=1&sn=2d3570a4e3f021792fc2f07dde2f4c7b&chksm=bd48d4618a3f5d7770409a8c3f1b756c45c002b9b0aa6c39c98bc709ae4f72411b9b7bab9377#rd) 
 - [2023-04-12-【图书】GitLab-CI/CD：从入门到实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261833&idx=2&sn=1b336341c087808e461ec82be1b4482a&chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd) 
@@ -47,11 +41,10 @@
 - [2021-04-30-摸鱼社区炒饭前端开源，大家快来-GitHub-Star-一波呀](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651575234&idx=2&sn=f617874affcb39bed8d4beaf9d1179e5&chksm=80250403b7528d158d6cabccb61ac521b06a5b10e7923412f0bafdb7457fabcc5b5d8da8e131&scene=27#wechat_redirect) 
 - [2020-12-31-两天狂揽-4k+-Star，抢茅台脚本霸榜-GitHub](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651566154&idx=1&sn=497bfe3f734122bc1b559d4370e25ef1&chksm=8025678bb752ee9d9996c8c196f969e90a12b6e6c49a0f54c26164602454a32f96b8ac3c92f4&scene=27#wechat_redirect) 
 - [2020-12-16-下载神器被-Github-下架后，作者写下了这篇回应](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564617&idx=3&sn=8deb0c7004074cde3859c5ca5e76ba24&chksm=80257d88b752f49eed1ba28b3012dcd6d14d135b4b3aea93176ec63d4f861cbca3db5d99a82e&scene=27#wechat_redirect) 
-- [2020-12-13-GitHub-月榜第-3，微软的老照片修复工具火了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564551&idx=2&sn=33a732e8f1a2b61406611da250e0b64e&chksm=80257dc6b752f4d0368924c9ba496a19ee67451e06901db36be8671f0dc3b9984d7aa9bc520b&scene=27#wechat_redirect) 
 - [2020-12-08-GitHub-月榜第-3，微软的老照片修复工具火了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564352&idx=2&sn=fce66dc465f2f210170146cb5c0d7893&chksm=80257e81b752f797696aeac85e849f022cc1fdd21e61475ffa8c5ae9efe265a1cc7ca3292036&scene=27#wechat_redirect) 
 - [2020-11-24-GitHub-霸榜！比-ping-强大的-gping-一天拿下-2.5k-Star](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651563906&idx=2&sn=aff0aa804ddf824c79d362ec4755c8bc&chksm=80257043b752f955b3d195635f037d5f43c8b4b70f69bc2a7fc335d127da93c70b4983fc0088&scene=27#wechat_redirect) 
-- [2020-06-02-Github系列，是道全选题么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559033&idx=2&sn=c7ce511ae2f9762579aa932b6701a7bd&chksm=802543b8b752caae44fabab1c892ceeae30efe067b1ebe63832610f805eba0331b8c34fb7d50&scene=27#wechat_redirect) 
 - [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559033&idx=1&sn=7cb2b0d10d3306c689707acaa64d7d0e&chksm=802543b8b752caaec8923f4d4f8edbf61aeeacf62f4fabf67d569cbdec28c2bc7a1c461f5622&scene=27#wechat_redirect) 
+- [2020-06-02-Github系列，是道全选题么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559033&idx=2&sn=c7ce511ae2f9762579aa932b6701a7bd&chksm=802543b8b752caae44fabab1c892ceeae30efe067b1ebe63832610f805eba0331b8c34fb7d50&scene=27#wechat_redirect) 
 - [2020-05-11-你可能已经忽略的-git-commit-规范](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558392&idx=2&sn=44aef758d7538a00e48ebb0ed2751dc9&chksm=80254639b752cf2fcfb0b6e3bc5bcabb07a26d322a031a74a3c317a1db59b9c17103121e5b3d&scene=27#wechat_redirect) 
 - [2022-05-22-jQuery已“死”？Gitee关闭部分开源仓库；微软宣布为员工加薪应对通胀；蔚来又上市了；小鹏回应解约应届生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514799&idx=1&sn=d41eee6fa0003633218c783cf5136f44&chksm=f9520fecce2586fa340d5649a74f4d0f2f3aced661634165967469664283128793d6d15137b6#rd) 
 - [2021-05-02-GitHub使用新标头屏蔽谷歌的FLoC追踪；腾讯被南山法院强制执行25元；明尼苏达大学教授向Lin](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247508985&idx=1&sn=1e021e7bd352729a6876c76b5d3bf9bc&chksm=f95216bace259fac06c37f9c54d68928b46d97fee4183e1badea992a78c98820ee2ec581dc0c&scene=27#wechat_redirect) 
@@ -63,15 +56,12 @@
 - [2020-05-15-开源项目被-GitHub-要求下架：上游项目闭源了？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494738&idx=2&sn=daaac9cedd50a63d5c804746505036c9&chksm=f9525911ce25d0076915eed31e53fccbbc9b1d6f28c9b896bbff00bae2c9b60b7f641c020aa0&scene=27#wechat_redirect) 
 - [2020-02-10-中国开源前端为王？GitHub-5.4亿条日志背后的数据故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493720&idx=1&sn=10bb747764cb1e1cec2ab9ee279bfd3d&chksm=f9525d1bce25d40ddfffe101f59612538a5e95dcdf38e70545dbeb23a83a57c8f80afc037b88&scene=27#wechat_redirect) 
 - [2018-11-09-GitHub-仓库数量破亿了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489835&idx=1&sn=9f5a5364a107102847380bfcd29f5395#wechat_redirect) 
-- [2026-01-31-stars-高达50w+！Github-爆火的-10-个值得学习的-AI-项目！学到了好多！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508610&idx=1&sn=37f34326e37f4855cf0b606a2cc4f458&chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd) 
 - [2025-06-02-2025年04月-GitHub-十大热门项目](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504545&idx=1&sn=514cef4c05f796dd70769da446c56778&chksm=ce45c730f9324e26828d145bb54917ee50e40f4e53a32d82a5f06b47fad538c7c9327cf97006#rd) 
 - [2023-07-31-10分钟带你体验github-actions，以后简历可以写-CI/CD-了~亮点！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489814&idx=1&sn=c4e11cac6d52fa01604a9c385af134e9&chksm=ce460c87f931859137ac93b0b2bb308895c251f5e84198d2fb00df208fef51d8d035e0f96956#rd) 
-- [2023-07-05-这个前端应用在GitHub7.7K-Star，竟是AI编程做出来的](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489327&idx=1&sn=39f18d52f6d67514c5767cb441422de0&chksm=ce4602bef9318ba8f7b7ffae11ef1d201e5a14b684269ec70ab3d3ea48a19bc04bad98837283#rd) 
 - [2022-11-18-工作中如何使用-Git](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487425&idx=1&sn=c522a7efd73837e02f5c2fb6e6560484&chksm=ce461a50f93193465f097f6e95810bfaef66da69eb262b763bb66288eb11d15a05717cefd38d#rd) 
 - [2022-04-09-三心给大家分享一个阅读Github项目代码的小技巧~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486076&idx=1&sn=46ae2cd78ca5803765ec848724558317&chksm=ce461fedf93196fb4ce8ed281f42b490859c4d288e977c71940369a7365f4bf270b4a353b3d4#rd) 
 - [2022-11-15-Git-是如何工作的](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451064549&idx=1&sn=3922357763a2ef0c346cb4c792f1f523&chksm=87c45ff5b0b3d6e3491a22c1e0c6acab926ad5c7f2457967a81973e67e96c6bdf150c1dd9de5#rd) 
 - [2026-01-29-Clawdbot-空前爆火！github-一天涨-5w+-Star！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529096&idx=1&sn=9013f71a4c3a8ead2f6cd6a76993c29b&chksm=f9927459cee5fd4f964e0208d3a29163b45f609276e841023d9d717cdd1823ca0a241bb8a45c#rd) 
-- [2024-12-19-好家伙,-GitHub-Copilot-今天免费了!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524740&idx=1&sn=c3d9c7d298a168b7736382558b4d574f&chksm=f9926755cee5ee435ac6832136f74265713938284989d69a26299634a0eed51c16c6f6531458#rd) 
 - [2023-11-16-git-面试字节时，老师问：合并分支中rebase和merge的区别](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517533&idx=1&sn=a4486a878f99eebb54a7d0bef0ea93f8&chksm=f992838ccee50a9a641e398e3d3f2173e4f0510b8f35c2deb01e037803981e1ad47d8fdfe3e9#rd) 
 - [2022-05-19-如何编写-Git-提交消息](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506957&idx=2&sn=02966fa0aa9884da75a2c7b8b1bcd85e&chksm=f992dadccee553ca93b5bd77bd4223afb74a9dce1cfdca7396986a453debd32f7ab1a2cefa27#rd) 
 - [2022-05-10-Git-各指令的本质，真是通俗易懂啊](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506726&idx=1&sn=2d28fac0728a15939fe823aeb76a0342&chksm=f992ddf7cee554e1a43c3d4d0ffc7d62e019e99c1919546741e5646aad90e50df2f201357006#rd) 
@@ -84,7 +74,6 @@
 - [2017-05-18-如何实现一个-Git-Diff-解析器](https://fed.taobao.org/blog/2017/05/18/how-to-display-git-diff/) 
 - [2022-08-31-gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/) 
 - [2025-06-06-科技爱好者周刊（第-351-期）：GitHub-Issues（几乎）是最好的笔记应用](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html) 
-- [2024-07-03-AI-编程助手测评：GitHub-Copilot-vs-豆包-MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html) 
 - [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html) 
 - [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html) 
 - [2019-12-24-如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html) 
