@@ -5,14 +5,28 @@ const dayjs = require('dayjs')
 
 const data = require('./data')
 
+/** 使用 @node-rs/jieba 分词，失败则用正则回退 */
+function loadJieba() {
+  try {
+    const { Jieba } = require('@node-rs/jieba')
+    const { dict } = require('@node-rs/jieba/dict')
+    const jieba = Jieba.withDict(dict)
+    return (text) => (jieba.cut(text, false) || []).filter(Boolean)
+  } catch (e) {
+    console.warn('@node-rs/jieba not available, using regex fallback:', e.message)
+    return null
+  }
+}
+
 const { RSS_DATA, TAGS_DATA, LINKS_DATA, HOTWORDS_DATA } = data
 
-// 配置常量
+// 配置常量：所有 JSON 输出到 dist/data
 const PAGE_SIZE = 200
 const DIST_PATH = path.join(__dirname, '../dist')
+const DATA_DIR = path.join(DIST_PATH, 'data')
 
 /**
- * 对文章列表按日期排序并添加索引ID
+ * 对文章列表按日期排序，返回完整对象数组（含 id = 下标）
  */
 function prepareArticles() {
   const articles = LINKS_DATA.reduce((prev, curr) => {
@@ -27,7 +41,6 @@ function prepareArticles() {
     return a.date < b.date ? 1 : -1
   })
 
-  // 添加唯一ID用于索引
   return articles.map((item, index) => ({
     ...item,
     id: index
@@ -35,168 +48,138 @@ function prepareArticles() {
 }
 
 /**
- * 生成分页数据文件
+ * 将所有文章按最新顺序保存为纯二维数组
+ * 格式: [[title, rssTitle, link, date], ...]，下标即文章 index
  */
-function generatePaginatedList(articles) {
-  const listDir = path.join(DIST_PATH, 'list')
-  fs.ensureDirSync(listDir)
-
-  const pageCount = Math.ceil(articles.length / PAGE_SIZE)
-  
-  for (let i = 0; i < pageCount; i++) {
-    const start = i * PAGE_SIZE
-    const end = start + PAGE_SIZE
-    const pageData = articles.slice(start, end)
-    const filePath = path.join(listDir, `page-${i}.json`)
-    fs.outputJsonSync(filePath, pageData)
-  }
-
-  console.log(`Generated ${pageCount} paginated list files`)
-  return pageCount
+function generateArticlesJson(articles) {
+  const rows = articles.map((a) => [a.title, a.rssTitle, a.link, a.date])
+  fs.ensureDirSync(DATA_DIR)
+  const filePath = path.join(DATA_DIR, 'articles.json')
+  fs.outputJsonSync(filePath, rows)
+  console.log(`Generated data/articles.json with ${rows.length} rows`)
 }
 
 /**
- * 生成文本搜索倒排索引
- * 结构: { keyword: [articleId1, articleId2, ...] }
+ * 生成文本搜索倒排索引（只保存文章在 articles 数组中的下标）
+ * 分词使用 @node-rs/jieba，不可用时用正则回退，结构: { keyword: [index1, index2, ...] }
  */
 function generateTextIndex(articles) {
-  const indexDir = path.join(DIST_PATH, 'index')
-  fs.ensureDirSync(indexDir)
+  fs.ensureDirSync(DATA_DIR)
 
-  // 使用 Object.create(null) 避免原型属性冲突
+  const cut = loadJieba()
+  const segmentTitle = (title) => {
+    if (cut) return cut(title)
+    const words = title.match(/[\u4e00-\u9fa5]+|[a-zA-Z0-9]+/g) || []
+    return words
+  }
+
   const textIndex = Object.create(null)
-  
-  // 从标签中提取关键词
+
   const tagKeywords = new Set()
   TAGS_DATA.forEach(tag => {
     if (tag.keywords) {
-      tag.keywords.split('|').forEach(kw => {
+      tag.keywords.replace(/(\?)|([：])|(\)?\\b\(?)?/g, '').split('|').forEach(kw => {
         const k = kw.toLowerCase().trim()
         if (k) tagKeywords.add(k)
       })
     }
   })
 
-  // 热门搜索词（来自 data/hotwords.json）
   ;(HOTWORDS_DATA || []).forEach(word => {
     const k = String(word).toLowerCase().trim()
     if (k) tagKeywords.add(k)
   })
 
+  // 只索引纯中文/字母/数字，至少 3 字符，排除 emoji、特殊符号、纯数字
+  const indexableWord = /^[\u4e00-\u9fa5a-zA-Z0-9]{3,}$/
+  const pureDigits = /^\d+$/
+  const addToIndex = (keyword, idx) => {
+    if (!keyword) return
+    const key = keyword.toLowerCase().trim()
+    if (!key || !indexableWord.test(key) || pureDigits.test(key)) return
+    if (!textIndex[key]) textIndex[key] = []
+    if (!textIndex[key].includes(idx)) textIndex[key].push(idx)
+  }
+
   articles.forEach((article, idx) => {
-    const title = article.title.toLowerCase()
-    
-    // 对每个关键词检查是否匹配
+    const title = article.title
+
     tagKeywords.forEach(keyword => {
-      if (keyword && title.includes(keyword)) {
-        if (!textIndex[keyword]) {
-          textIndex[keyword] = []
-        }
-        if (!textIndex[keyword].includes(idx)) {
-          textIndex[keyword].push(idx)
-        }
+      if (keyword && title.toLowerCase().includes(keyword)) {
+        addToIndex(keyword, idx)
       }
     })
 
-    // 提取标题中的单词作为索引（中文按字符，英文按单词）
-    const words = title.match(/[\u4e00-\u9fa5]+|[a-zA-Z0-9]+/g) || []
-    words.forEach(word => {
-      const lowerWord = word.toLowerCase()
-      if (lowerWord.length >= 2) { // 至少2个字符
-        if (!textIndex[lowerWord]) {
-          textIndex[lowerWord] = []
-        }
-        if (!textIndex[lowerWord].includes(idx)) {
-          textIndex[lowerWord].push(idx)
-        }
-      }
-    })
+    const words = segmentTitle(title)
+    words.forEach(word => addToIndex(word, idx))
   })
 
-  const filePath = path.join(indexDir, 'text-index.json')
+  const filePath = path.join(DATA_DIR, 'text-index.json')
   fs.outputJsonSync(filePath, textIndex)
-  console.log(`Generated text index with ${Object.keys(textIndex).length} keywords`)
+  console.log(`Generated data/text-index.json with ${Object.keys(textIndex).length} keywords`)
 }
 
 /**
- * 生成来源索引
- * 结构: { sourceName: [article1, article2, ...] }
+ * 生成来源索引（只保存文章在 articles 数组中的下标）
+ * 结构: { sourceName: [index1, index2, ...] }，同一来源内按日期新到旧
  */
 function generateSourceIndex(articles) {
-  const indexDir = path.join(DIST_PATH, 'index')
-  fs.ensureDirSync(indexDir)
+  fs.ensureDirSync(DATA_DIR)
 
   const sourceIndex = Object.create(null)
-  
-  articles.forEach(article => {
+
+  articles.forEach((article, idx) => {
     const source = article.rssTitle
-    if (!sourceIndex[source]) {
-      sourceIndex[source] = []
-    }
-    sourceIndex[source].push(article)
+    if (!sourceIndex[source]) sourceIndex[source] = []
+    sourceIndex[source].push(idx)
   })
 
-  // 确保每个来源的文章按日期排序
-  Object.keys(sourceIndex).forEach(source => {
-    sourceIndex[source].sort((a, b) => a.date < b.date ? 1 : -1)
-  })
-
-  const filePath = path.join(indexDir, 'source-index.json')
+  const filePath = path.join(DATA_DIR, 'source-index.json')
   fs.outputJsonSync(filePath, sourceIndex)
-  console.log(`Generated source index with ${Object.keys(sourceIndex).length} sources`)
+  console.log(`Generated data/source-index.json with ${Object.keys(sourceIndex).length} sources`)
 }
 
 /**
- * 生成分类索引
- * 结构: { categoryName: [article1, article2, ...] }
+ * 生成分类索引（只保存文章在 articles 数组中的下标）
+ * 结构: { categoryName: [index1, index2, ...] }，同一分类内按日期新到旧
  */
 function generateCategoryIndex(articles) {
-  const indexDir = path.join(DIST_PATH, 'index')
-  fs.ensureDirSync(indexDir)
+  fs.ensureDirSync(DATA_DIR)
 
   const categoryIndex = Object.create(null)
-  
-  articles.forEach(article => {
+
+  articles.forEach((article, idx) => {
     let matched = false
-    
+
     TAGS_DATA.forEach(tag => {
       if (tag.keywords) {
         const regex = new RegExp(tag.keywords, 'gi')
         if (regex.test(article.title)) {
-          if (!categoryIndex[tag.tag]) {
-            categoryIndex[tag.tag] = []
-          }
-          categoryIndex[tag.tag].push(article)
+          if (!categoryIndex[tag.tag]) categoryIndex[tag.tag] = []
+          categoryIndex[tag.tag].push(idx)
           matched = true
         }
       }
     })
 
-    // 未匹配任何分类的归入"其它"
     if (!matched) {
-      if (!categoryIndex['其它']) {
-        categoryIndex['其它'] = []
-      }
-      categoryIndex['其它'].push(article)
+      if (!categoryIndex['其它']) categoryIndex['其它'] = []
+      categoryIndex['其它'].push(idx)
     }
   })
 
-  // 确保每个分类的文章按日期排序
-  Object.keys(categoryIndex).forEach(cat => {
-    categoryIndex[cat].sort((a, b) => a.date < b.date ? 1 : -1)
-  })
-
-  const filePath = path.join(indexDir, 'category-index.json')
+  const filePath = path.join(DATA_DIR, 'category-index.json')
   fs.outputJsonSync(filePath, categoryIndex)
-  console.log(`Generated category index with ${Object.keys(categoryIndex).length} categories`)
+  console.log(`Generated data/category-index.json with ${Object.keys(categoryIndex).length} categories`)
 }
 
 /**
  * 生成旧版 data.json 用于兼容
  */
 function generateLegacyDataFile() {
-  const filePath = path.join(DIST_PATH, 'data.json')
-  
+  fs.ensureDirSync(DATA_DIR)
+  const filePath = path.join(DATA_DIR, 'data.json')
+
   fs.outputJsonSync(filePath, {
     updateTime: dayjs().format('YYYY-MM-DD HH:mm'),
     rss: RSS_DATA,
@@ -224,14 +207,14 @@ function compress(filePath, ext) {
 function createFiles() {
   console.log('Starting file generation...')
   
-  // 准备文章数据
+  // 准备文章数据（按日期最新排序）
   const articles = prepareArticles()
   console.log(`Total articles: ${articles.length}`)
 
-  // 生成分页列表
-  const pageCount = generatePaginatedList(articles)
+  // 全量文章二维数组 [[title, rssTitle, link, date], ...]，下标即 index
+  generateArticlesJson(articles)
 
-  // 生成各类索引
+  // 索引文件只保存文章 index
   generateTextIndex(articles)
   generateSourceIndex(articles)
   generateCategoryIndex(articles)
@@ -241,11 +224,11 @@ function createFiles() {
 
   console.log('File generation completed!')
 
-  // 返回配置信息供 template-parameters.js 使用
+  const pageCount = Math.ceil(articles.length / PAGE_SIZE)
   return {
     totalCount: articles.length,
     pageSize: PAGE_SIZE,
-    pageCount: pageCount
+    pageCount
   }
 }
 

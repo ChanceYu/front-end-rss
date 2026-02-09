@@ -40,6 +40,23 @@ function handleCommit() {
     .push(['-u', 'origin', 'master'], () => utils.logSuccess('完成抓取和上传！'))
 }
 
+/** 文章日期是否在最近 7 天内（仅传 dateStr 时） */
+function isDateInLast7Days(dateStr) {
+  if (!dateStr) return false
+  const d = moment(dateStr, 'YYYY-MM-DD', true)
+  if (!d.isValid()) return false
+  const daysAgo = moment().subtract(7, 'days').startOf('day')
+  return !d.isBefore(daysAgo)
+}
+
+/** 一次遍历判断 curr 是否应视为重复：同标题且（已有条目标题在七天内 或 当前标题长度>30） */
+function isDuplicateOfExisting(curr, allExistingItems) {
+  return allExistingItems.some((el) =>
+    el.title === curr.title &&
+    (isDateInLast7Days(el.date) || curr.title.length > 30)
+  )
+}
+
 /**
  * 处理订阅源
  */
@@ -54,6 +71,8 @@ function handleFeed() {
     links: {}
   }
 
+  const allExistingItems = (linksExist || []).flatMap((el) => el.items || [])
+
   const tasks = rssJson.map((rssItem, rssIndex) => ((callback) => {
     ((async () => {
       const feed = await fetch(rssItem)
@@ -62,22 +81,23 @@ function handleFeed() {
         const exist = items.find((el) => utils.isSameLink(el.link, curr.link))
         if (exist) {
           return prev
-        } else {
-          let date = utils.getNowDate('YYYY-MM-DD')
-
-          try {
-            date = utils.formatDate(curr.isoDate, 'YYYY-MM-DD')
-          } catch (e) {}
-
-          newData.rss[rssItem.title] = true
-          newData.links[curr.link] = true
-
-          return [...prev, {
-            title: curr.title,
-            link: curr.link,
-            date
-          }]
         }
+        if (isDuplicateOfExisting(curr, allExistingItems)) {
+          return prev
+        }
+        let date = utils.getNowDate('YYYY-MM-DD')
+        try {
+          date = utils.formatDate(curr.isoDate, 'YYYY-MM-DD')
+        } catch (e) {}
+
+        newData.rss[rssItem.title] = true
+        newData.links[curr.link] = true
+
+        return [...prev, {
+          title: curr.title,
+          link: curr.link,
+          date
+        }]
       }, [])
 
       let allItems = items

@@ -13,7 +13,7 @@
         </div>
       </van-cell-group>
       <van-cell-group class="tag-group">
-        <div slot="title" class="title-box"><van-icon name="hot-o" />热门搜索</div>
+        <div slot="title" class="title-box"><van-icon name="hot-o" />热词搜索</div>
         <van-tag
           v-for="(item, index) in hotwords"
           :key="index"
@@ -175,14 +175,11 @@ export default {
       isLoad: false,
       isSearching: false,
       skeletons: [1, 2, 3, 4, 5, 6, 7, 8],
-      // 分页加载相关
-      currentDataPage: 0,
-      loadedPages: new Set(),
-      loadedPageData: null,
-      // 索引缓存
+      // 索引与全量数据
       textIndex: null,
       sourceIndex: null,
-      categoryIndex: null
+      categoryIndex: null,
+      articlesData: null
     }
   },
   watch: {
@@ -201,51 +198,39 @@ export default {
       window.scrollTo(0, 0)
     },
 
-    // 加载指定页的数据（已加载页从缓存返回，供索引搜索用）
-    async loadDataPage (pageNum) {
-      if (pageNum >= PAGE_COUNT) return []
-      if (this.loadedPageData && this.loadedPageData.has(pageNum)) {
-        return this.loadedPageData.get(pageNum)
-      }
-      if (this.loadedPages.has(pageNum)) return []
-
-      try {
-        const data = await fetch(`/list/page-${pageNum}.json`, { cache: 'default' })
-          .then(r => r.json())
-        this.loadedPages.add(pageNum)
-        if (!this.loadedPageData) this.loadedPageData = new Map()
-        this.loadedPageData.set(pageNum, data)
-        return data
-      } catch (e) {
-        console.error(`Failed to load page ${pageNum}:`, e)
-        return []
-      }
+    // 从 articlesData 取第 pageNum 页的文章对象（用于列表与后台追加）
+    getPageArticles (pageNum) {
+      if (!this.articlesData || pageNum < 0) return []
+      const start = pageNum * PAGE_SIZE
+      if (start >= this.articlesData.length) return []
+      const end = Math.min(start + PAGE_SIZE, this.articlesData.length)
+      return this.articlesData.slice(start, end).map((row, i) => ({
+        title: row[0],
+        rssTitle: row[1],
+        link: row[2],
+        date: row[3],
+        id: start + i
+      }))
     },
 
-    // 初始化加载第一页数据（与索引并行，以便带 q 参数打开时能用索引立即出结果）
+    // 初始化：先拉取 articles.json 与索引，再渲染第一页
     async initLoad () {
-      const [firstPageData] = await Promise.all([
-        this.loadDataPage(0),
-        this.preloadIndexes()
-      ])
+      await this.preloadIndexes()
+      const firstPageData = this.getPageArticles(0)
       this.allList = firstPageData
       results = [...firstPageData]
       this.filterBySkill()
       this.isLoad = true
-
-      // 后台加载更多数据页
       this.backgroundLoadPages()
     },
 
-    // 后台逐步加载更多数据页（静默加载，不更新显示列表）
+    // 后台按页追加到 results（静默加载，不重置分页）
     async backgroundLoadPages () {
       for (let i = 1; i < PAGE_COUNT; i++) {
         await new Promise(resolve => setTimeout(resolve, 300))
-        const pageData = await this.loadDataPage(i)
+        const pageData = this.getPageArticles(i)
         if (pageData.length > 0) {
-          // 数据已在构建时按时间排序，直接追加即可
           results = [...results, ...pageData]
-          // 静默更新 allList，不重置分页（让 loadMore 自然获取更多数据）
           if (!this.isSearching && !this.searchValue) {
             this.updateAllListSilently()
           }
@@ -270,20 +255,29 @@ export default {
       // 不重置 pageNo 和 this.results，让无限滚动自然加载更多
     },
 
-    // 预加载索引（含文本索引，用于热门词等即时展示）
+    // 预加载索引与全量文章二维数组 [[title, rssTitle, link, date], ...]
     async preloadIndexes () {
       try {
-        const [sourceIdx, categoryIdx, textIdx] = await Promise.all([
-          fetch('/index/source-index.json', { cache: 'default' }).then(r => r.json()).catch(() => null),
-          fetch('/index/category-index.json', { cache: 'default' }).then(r => r.json()).catch(() => null),
-          fetch('/index/text-index.json', { cache: 'default' }).then(r => r.json()).catch(() => null)
+        const [sourceIdx, categoryIdx, textIdx, articlesRows] = await Promise.all([
+          fetch('/data/source-index.json', { cache: 'no-store' }).then(r => r.json()).catch(() => null),
+          fetch('/data/category-index.json', { cache: 'no-store' }).then(r => r.json()).catch(() => null),
+          fetch('/data/text-index.json', { cache: 'no-store' }).then(r => r.json()).catch(() => null),
+          fetch('/data/articles.json', { cache: 'no-store' }).then(r => r.json()).catch(() => null)
         ])
         this.sourceIndex = sourceIdx
         this.categoryIndex = categoryIdx
         this.textIndex = textIdx
+        this.articlesData = Array.isArray(articlesRows) ? articlesRows : null
       } catch (e) {
         console.error('Failed to preload indexes:', e)
       }
+    },
+
+    // 根据文章在 articles 数组中的下标转为 { title, rssTitle, link, date, id }
+    indexToArticle (i) {
+      if (!this.articlesData || !this.articlesData[i]) return null
+      const [title, rssTitle, link, date] = this.articlesData[i]
+      return { title, rssTitle, link, date, id: i }
     },
 
     // 根据技能筛选过滤数据
@@ -429,21 +423,21 @@ export default {
       })
     },
 
-    // 按来源搜索
+    // 按来源搜索（索引中为 index 数组，需从 articlesData 解析为文章对象）
     async searchBySource (sourceName) {
-      if (this.sourceIndex && this.sourceIndex[sourceName]) {
-        return this.sourceIndex[sourceName]
+      if (this.sourceIndex && this.sourceIndex[sourceName] && this.articlesData) {
+        const indices = this.sourceIndex[sourceName]
+        return indices.map(i => this.indexToArticle(i)).filter(Boolean)
       }
-      // 降级到本地搜索
       return results.filter(item => item.rssTitle === sourceName)
     },
 
-    // 按分类搜索
+    // 按分类搜索（索引中为 index 数组，需从 articlesData 解析为文章对象）
     async searchByCategory (categoryName) {
-      if (this.categoryIndex && this.categoryIndex[categoryName]) {
-        return this.categoryIndex[categoryName]
+      if (this.categoryIndex && this.categoryIndex[categoryName] && this.articlesData) {
+        const indices = this.categoryIndex[categoryName]
+        return indices.map(i => this.indexToArticle(i)).filter(Boolean)
       }
-      // 降级到本地搜索
       const tagItem = tags.find(t => t.tag === categoryName)
       if (!tagItem || !tagItem.keywords) {
         return categoryName === '其它'
@@ -454,35 +448,25 @@ export default {
       return results.filter(item => regex.test(item.title))
     },
 
-    // 文本搜索：优先用 text-index 立即返回结果，否则降级为当前已加载数据内搜索
+    // 文本搜索：优先 text-index 整词；无则用索引分词取并集；再无则在全量 articlesData 上按关键词匹配，避免只搜首屏导致无结果
     async searchByText (keyword) {
       const key = keyword.toLowerCase().trim()
       const addHighlight = (item, val) => {
         let reg = null
         try {
           // eslint-disable-next-line
-          reg = new RegExp('(' + String(val).replace(/([?\[\]])/g, '\\$1') + ')', 'gi')
+          reg = new RegExp('(' + String(val).replace(/([?[\]])/g, '\\$1') + ')', 'gi')
         } catch (e) { return item }
         return reg && reg.test(item.title)
           ? { ...item, sotitle: item.title.replace(reg, '<span class="red">$1</span>') }
           : item
       }
 
-      if (this.textIndex && key && Array.isArray(this.textIndex[key])) {
+      if (this.textIndex && key && Array.isArray(this.textIndex[key]) && this.articlesData) {
         const indices = this.textIndex[key]
         if (indices.length === 0) return []
-        const pageNumbers = [...new Set(indices.map(i => Math.floor(i / PAGE_SIZE)))]
-        const pages = await Promise.all(
-          pageNumbers.map(p => this.loadDataPage(p))
-        )
-        const pageMap = new Map(pageNumbers.map((p, i) => [p, pages[i]]))
         const articles = indices
-          .map(i => {
-            const p = Math.floor(i / PAGE_SIZE)
-            const offset = i % PAGE_SIZE
-            const page = pageMap.get(p) || []
-            return page[offset]
-          })
+          .map(i => this.indexToArticle(i))
           .filter(Boolean)
         articles.sort((a, b) => (a.date < b.date ? 1 : -1))
         if (this.matchSkill) {
@@ -492,14 +476,34 @@ export default {
         return articles.map(item => addHighlight(item, keyword))
       }
 
+      if (this.articlesData && this.articlesData.length) {
+        let reg = null
+        try {
+          reg = new RegExp('(' + keyword.replace(/([?[\]])/g, '\\$1') + ')', 'gi')
+        } catch (e) {}
+        const arr = []
+        this.articlesData.forEach((row, i) => {
+          const title = row[0]
+          if (!title) return
+          if (reg && reg.test(title)) {
+            const item = this.indexToArticle(i)
+            if (item) arr.push({ ...item, sotitle: title.replace(reg, '<span class="red">$1</span>') })
+          }
+        })
+        arr.sort((a, b) => (a.date < b.date ? 1 : -1))
+        if (this.matchSkill && arr.length) {
+          const skillFilter = (item) => tags.some(tag => tag.skill && tag.keywords && new RegExp(tag.keywords, 'gi').test(item.title))
+          return arr.filter(skillFilter).map(item => addHighlight(item, keyword))
+        }
+        return arr.map(item => addHighlight(item, keyword))
+      }
+
       const arr = []
       const searchData = this.matchSkill ? this.allList : results
       let reg = null
       try {
-        // eslint-disable-next-line
-        reg = new RegExp('(' + keyword.replace(/([?\[\]])/g, '\\$1') + ')', 'gi')
+        reg = new RegExp('(' + keyword.replace(/([?[\]])/g, '\\$1') + ')', 'gi')
       } catch (e) {}
-
       const matchSplit = (item, val) => {
         const exist = item.title.split(val)
         if (exist.length > 1) {
@@ -508,7 +512,6 @@ export default {
         }
         return false
       }
-
       searchData.forEach((item) => {
         if (reg && reg.test(item.title)) {
           arr.push({ ...item, sotitle: item.title.replace(reg, '<span class="red">$1</span>') })
@@ -541,12 +544,11 @@ export default {
 
     this.searchValue = q || ''
 
-    // 异步加载第一页数据
+    // 先加载数据和索引，再执行带 q 的搜索，避免索引未就绪时搜索结果为空
     await this.initLoad()
 
-    // 如果有搜索参数，执行搜索
     if (this.searchValue) {
-      this.handlerSearch()
+      await this.handlerSearch()
     }
   }
 }
