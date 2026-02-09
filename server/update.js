@@ -118,7 +118,6 @@ function handleFeed() {
   }))
 
   Async.parallelLimit(tasks, 5, async () => {
-    await writemd(newData, linksJson)
     if (newData.length) {
       fs.outputJsonSync(LINKS_PATH, linksJson)
       await writemd(newData, linksJson)
