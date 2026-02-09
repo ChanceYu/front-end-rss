@@ -74,7 +74,10 @@
   },
   {
     "title": "阮一峰的网络日志",
-    "rss": "http://www.ruanyifeng.com/blog/atom.xml"
+    "rss": [
+      "http://feeds.feedburner.com/ruanyifeng",
+      "http://www.ruanyifeng.com/blog/atom.xml"
+    ]
   },
   {
     "title": "前端里",
