@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-09 12:14:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-09 13:41:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -718,6 +718,7 @@
 - [2022-09-27-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/) 
 - [2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/) 
 - [2018-11-26-CSS届的绘图板CSS-Paint-API简介](https://www.zhangxinxu.com/wordpress/2018/11/css-paint-api-canvas/) 
+- [2026-01-30-科技爱好者周刊（第-383-期）：你是第几级-AI-编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html) 
 - [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) 
 - [2024-10-31-AI-开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html) 
 - [2024-10-10-后面试时代与-AI-刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html) 

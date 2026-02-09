@@ -48,7 +48,7 @@ function handleTags(newData, linksJson) {
 
     linksJson.forEach((o) => {
       o.items.forEach((item) => {
-        if (!item.rssTitle && (new RegExp(tag.keywords, 'gi')).test(item.title)) {
+        if ((new RegExp(tag.keywords, 'gi')).test(item.title)) {
           item.rssTitle = o.title
           tags[i].items.push(item)
         }
