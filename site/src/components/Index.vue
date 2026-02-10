@@ -4,7 +4,7 @@
     <div class="layout-center">
     <!-- 左侧筛选：PC 常驻左列，移动端为抽屉，复用同一 DOM -->
     <aside class="sidebar search-modal" :class="{ 'sidebar-open': showCate }">
-      <van-cell-group class="tag-group" :class="{ 'filter-row-sticky': matchSkill }">
+      <van-cell-group class="tag-group filter-tag-group" :class="{ 'filter-row-sticky': matchSkill }">
         <div class="filter-row">
           <div class="filter-cell" @click="changeSkill($event)">
             <van-switch v-model="matchSkill" size="14" />
@@ -564,8 +564,8 @@ export default {
 /* PC：左右两列在页面中间，中间留出与 fixed-box 一致的间距 */
 .layout-center {
     display: flex;
-    gap: .5rem;
-    max-width: calc(260px + .5rem + 720px);
+    gap: .75rem;
+    max-width: calc(260px + .75rem + 720px);
     width: 100%;
     margin: 0 auto;
     min-height: 100vh
@@ -579,11 +579,30 @@ export default {
     max-height: 100vh;
     overflow-y: auto;
     position: fixed;
-    left: max(0px, calc((100vw - 260px - 720px - .5rem) / 2));
+    left: max(0px, calc((100vw - 260px - 720px - .75rem) / 2));
     top: 0;
     padding-top: env(safe-area-inset-top, 0);
     box-sizing: border-box;
-    z-index: 8
+    z-index: 8;
+    scrollbar-width: thin;
+    scrollbar-color: #cbd5e1 transparent;
+}
+
+.sidebar.search-modal::-webkit-scrollbar {
+    width: 6px;
+}
+
+.sidebar.search-modal::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.sidebar.search-modal::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 3px;
+}
+
+.sidebar.search-modal::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
 }
 
 .sidebar-overlay {
@@ -595,7 +614,7 @@ export default {
     min-width: 0;
     display: flex;
     justify-content: center;
-    margin-left: calc(260px + .5rem)
+    margin-left: calc(260px + .75rem)
 }
 
 .container {
@@ -603,7 +622,7 @@ export default {
     margin: 0 auto;
     max-width: 720px;
     box-sizing: border-box;
-    padding: 0 .75rem
+    padding: 0 .125rem
 }
 
 .fixed-box {
@@ -689,6 +708,10 @@ export default {
     padding: .5rem 0
 }
 
+.search-modal .filter-tag-group {
+    padding: .1rem .5rem;
+}
+
 .search-modal .van-tag {
     background: #e2e8f0;
     color: #475569;
@@ -748,9 +771,9 @@ export default {
     font-size: .875rem;
     background: #fff;
     padding: .5rem 1rem;
-    display: flex;
-    align-items: center;
-    text-align: left;
+  display: flex;
+  align-items: center;
+  text-align: left;
     cursor: pointer;
     gap: .75rem
 }
@@ -898,13 +921,16 @@ export default {
 .search-box {
     position: fixed;
     top: env(safe-area-inset-top, 0);
-    left: max(.5rem, calc((100vw - 260px - 720px - .5rem) / 2 + 260px + .5rem + .75rem));
-    width: calc(720px - 1.5rem);
-    max-width: calc(100vw - 260px - .5rem - 1rem - 1.5rem);
+    left: max(.5rem, calc((100vw - 260px - 720px - .75rem) / 2 + 260px + .75rem + .125rem));
+    width: calc(720px - .25rem);
+    max-width: calc(100vw - 260px - .75rem - 1rem - .25rem);
     z-index: 9;
     padding: .5rem 0;
     background: #fff;
-    border-radius: 12px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
     box-shadow: 0 1px 3px rgba(0,0,0,.06);
     box-sizing: border-box
 }
@@ -914,7 +940,7 @@ export default {
 }
 
 .search-box .van-cell .van-icon {
-    font-size: 1.125rem
+    font-size: 1rem
 }
 
 .search-box .van-cell .van-icon-clear {
@@ -987,21 +1013,21 @@ export default {
         padding-left: .5rem
     }
     .fixed-box {
-        right: max(.5rem, calc((100vw - 260px - 720px - .5rem) / 2 - .5rem - 2.25rem))
+        right: max(.5rem, calc((100vw - 260px - 720px - .75rem) / 2 - .5rem - 2.25rem))
     }
 }
 
 @media screen and (max-width: 1200px) and (min-width: 801px) {
     .sidebar.search-modal {
         width: 220px;
-        left: max(0px, calc((100vw - 220px - 720px - .5rem) / 2))
+        left: max(0px, calc((100vw - 220px - 720px - .75rem) / 2))
     }
     .main {
-        margin-left: calc(220px + .5rem)
+        margin-left: calc(220px + .75rem)
     }
     .search-box {
-        left: max(.5rem, calc((100vw - 220px - 720px - .5rem) / 2 + 220px + .5rem + .75rem));
-        width: calc(720px - 1.5rem)
+        left: max(.5rem, calc((100vw - 220px - 720px - .75rem) / 2 + 220px + .75rem + .125rem));
+        width: calc(720px - .25rem)
     }
 }
 
@@ -1050,13 +1076,13 @@ export default {
         width: 100%;
         max-width: 100%;
         margin: 0;
-        padding: 0 .75rem;
+        padding: 0 .5rem;
         overflow-x: clip
     }
 
     .fixed-box {
         bottom: 3rem;
-        right: .75rem
+        right: .5rem
     }
 
     .fixed-box .action-feed,.fixed-box .action-github,.fixed-box .action-top {
@@ -1077,7 +1103,7 @@ export default {
         max-width: 100%;
         margin: 0;
         transform: none;
-        padding: .5rem .75rem;
+        padding: .5rem .5rem;
         border-radius: 0
     }
 
@@ -1091,6 +1117,10 @@ export default {
         padding: .5rem 0
     }
 
+    .search-box .van-field__left-icon {
+      margin-left: 0;
+    }
+
     .search-box input {
         font-size: .875rem;
         min-width: 0
@@ -1101,7 +1131,7 @@ export default {
     }
 
     .result-box .skeleton-item .van-skeleton {
-        padding: .5rem .75rem
+        padding: .5rem .5rem
     }
 
     .result-box .van-cell {
