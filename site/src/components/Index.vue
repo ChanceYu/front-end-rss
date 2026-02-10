@@ -4,7 +4,7 @@
     <div class="layout-center">
     <!-- 左侧筛选：PC 常驻左列，移动端为抽屉，复用同一 DOM -->
     <aside class="sidebar search-modal" :class="{ 'sidebar-open': showCate }">
-      <van-cell-group class="tag-group filter-tag-group" :class="{ 'filter-row-sticky': matchSkill }">
+      <van-cell-group class="tag-group filter-tag-group" :class="{ 'filter-row-sticky': true }">
         <div class="filter-row">
           <div class="filter-cell" @click="changeSkill($event)">
             <van-switch v-model="matchSkill" size="14" />
@@ -92,7 +92,7 @@
 
        <div class="empty" v-if="isLoad && !results.length">
          <van-icon name="info-o" />
-         <div class="title">没有搜索到文章，换个关键词试试<br />或者<span class="cate" @click="showCate = true">手动筛选</span></div>
+         <div class="title">没有搜索到文章<br /><span class="cate" @click="showCate = true">手动筛选</span></div>
        </div>
 
         <a
@@ -319,7 +319,7 @@ export default {
       this.isBusy = this.pageNo * this.pageSize >= allLen && (this.results[this.results.length - 1].link === this.allList[allLen - 1].link)
     },
 
-    handlerCate (item) {
+    async handlerCate (item) {
       let label = ''
       if (item.dates) {
         label = '[时间] ' + item.title
@@ -335,8 +335,15 @@ export default {
         this.searchValue = label
       }
 
-      this.handlerSearch()
+      if (item.tag && item.filename === 'other') {
+        this.matchSkill = false
+        localStorage.removeItem('matchSkill')
+      }
+
       this.showCate = false
+      await this.handlerSearch()
+      await this.$nextTick()
+      this.focusInput()
     },
 
     async handlerSearch (reset = true) {
@@ -522,15 +529,23 @@ export default {
       })
       return arr
     },
-
-    onSearch () {
-      this.handlerSearch()
+    focusInput () {
+      const searchInput = document.querySelector('.search-box input')
+      if (searchInput) {
+        searchInput.focus()
+      }
+    },
+    async onSearch () {
+      await this.handlerSearch()
+      await this.$nextTick()
+      this.focusInput()
     },
     onClear () {
       this.handlerSearch()
     },
     changeSkill (e) {
       if (e && e.target && e.target.closest && e.target.closest('.van-switch')) return
+      window.scrollTo(0, 0)
       this.matchSkill = !this.matchSkill
       if (this.matchSkill) {
         localStorage.setItem('matchSkill', 'true')
@@ -558,7 +573,7 @@ export default {
 /* 整页：PC 左右两列居中，移动端单列 + 抽屉 */
 .page-wrap {
     min-height: 100vh;
-    width: 100%
+    width: 100%;
 }
 
 /* PC：左右两列在页面中间，中间留出与 fixed-box 一致的间距 */
@@ -645,12 +660,15 @@ export default {
     overflow: hidden;
     position: relative;
     left: 0;
-    background-color: #fff;
-    box-shadow: 0 1px 3px rgba(0,0,0,.08)
+    background-color: #ffffff;
+    box-shadow: 0 2px 8px rgba(0,0,0,.1);
+    transition: all 0.2s
 }
 
 .fixed-box .action-feed:hover,.fixed-box .action-github:hover,.fixed-box .action-top:hover {
-    background-color: #f1f5f9
+    background-color: #f1f5f9;
+    box-shadow: 0 4px 12px rgba(0,0,0,.12);
+    transform: translateY(-2px)
 }
 
 .fixed-box .action-feed {
@@ -679,7 +697,7 @@ export default {
 }
 
 .search-modal {
-    background: #fff
+    background: #fff;
 }
 
 .search-modal .title-box {
@@ -690,9 +708,9 @@ export default {
     margin: 0;
     font-size: .8125rem;
     font-weight: 600;
-    color: #334155;
-    background: #f1f5f9;
-    line-height: 1
+    color: #1f2937;
+    background: #f3f4f6;
+    line-height: 1;
 }
 
 .search-modal .title-box .van-icon {
@@ -705,26 +723,30 @@ export default {
 }
 
 .search-modal .tag-group {
-    padding: .5rem 0
+    padding: .5rem 0 .5rem 1rem
 }
 
 .search-modal .filter-tag-group {
-    padding: .1rem .5rem;
+    padding: .1rem .5rem .1rem 1rem;
 }
 
 .search-modal .van-tag {
-    background: #e2e8f0;
-    color: #475569;
-    margin: .25rem;
+    background: #fff;
+    color: #374151;
+    margin: .25rem .25rem .25rem 0;
     cursor: pointer;
-    padding: .25rem .5rem;
+    padding: .3rem .6rem;
     font-size: .8125rem;
-    border: none
+    border: 0.0625rem solid #f3f4f6;
+    border-radius: 6px;
+    transition: all 0.2s
 }
 
 .search-modal .van-tag:hover {
-    background: #cbd5e1;
-    color: #334155
+    background: #f8fafc;
+    border-color: #f8fafc;
+    color: #1a89fa;
+    transform: translateY(-1px)
 }
 
 .search-modal .van-cell-group__title {
@@ -734,14 +756,17 @@ export default {
 
 .search-modal .van-cell {
     font-size: .8125rem;
-    color: #334155;
+    color: #1f2937;
     text-align: left;
     cursor: pointer;
-    background: #fff
+    background: transparent;
+    transition: background 0.2s;
+    padding: 0.5rem 1rem;
 }
 
 .search-modal .van-cell:active,.search-modal .van-cell:hover {
-    background: #f8fafc
+    background: #f8fafc;
+    color: #1a89fa;
 }
 
 .search-modal .van-cell:not(:last-child):after {
@@ -763,19 +788,18 @@ export default {
   position: sticky;
   top: 0;
   z-index: 2;
-  background: #fff;
-  box-shadow: 0 1px 0 rgba(0,0,0,.06)
+  box-shadow: 0 1px 3px rgba(0,0,0,.06);
 }
 
 .filter-cell {
-    font-size: .875rem;
-    background: #fff;
-    padding: .5rem 1rem;
+  font-size: .875rem;
+  padding: .5rem 0;
   display: flex;
   align-items: center;
   text-align: left;
-    cursor: pointer;
-    gap: .75rem
+  cursor: pointer;
+  gap: .75rem;
+  flex: 1;
 }
 
 .filter-cell .lbl {
@@ -807,10 +831,10 @@ export default {
 
 .result-box .skeleton-item {
     margin-bottom: .5rem;
-    background: #fff;
+    background: #ffffff;
     border-radius: 8px;
-    box-shadow: 0 1px 2px rgba(0,0,0,.04);
-    overflow: hidden
+    box-shadow: 0 1px 3px rgba(0,0,0,.06);
+    overflow: hidden;
 }
 
 .result-box .skeleton-item .van-skeleton {
@@ -818,14 +842,15 @@ export default {
 }
 
 .result-box .skeleton-item .van-skeleton__title {
-    height: .875rem;
-    margin-bottom: .5rem;
+    height: 1.25rem;
+    margin-bottom: .25rem;
     border-radius: 4px
 }
 
 .result-box .skeleton-item .van-skeleton__row {
-    height: .75rem;
-    border-radius: 4px
+    height: 1rem;
+    border-radius: 4px;
+    margin-top: .5rem;
 }
 
 .result-box .empty {
@@ -853,7 +878,8 @@ export default {
 .result-box .empty .cate {
     cursor: pointer;
     color: #475569;
-    text-decoration: underline
+    text-decoration: underline;
+    display: none;
 }
 
 .result-box .item-order {
@@ -866,7 +892,8 @@ export default {
     font-weight: 500;
     color: #334155;
     word-break: break-word;
-    overflow-wrap: break-word
+    overflow-wrap: break-word;
+    line-height: 1.5
 }
 
 .result-box .item-from {
@@ -886,17 +913,24 @@ export default {
     text-align: left;
     border-bottom: none;
     cursor: pointer;
-    background: #fff;
+    background: #ffffff;
     border-radius: 8px;
     margin-bottom: .5rem;
-    box-shadow: 0 1px 2px rgba(0,0,0,.04);
+    box-shadow: 0 1px 3px rgba(0,0,0,.06);
     box-sizing: border-box;
     min-width: 0;
-    overflow: hidden
+    overflow: hidden;
+    transition: all 0.2s
 }
 
 .result-box .van-cell:active,.result-box .van-cell:hover {
-    background: #f8fafc
+    background: #f8fafc;
+    box-shadow: 0 2px 6px rgba(0,0,0,.08);
+    transform: translateY(-1px)
+}
+
+.result-box .van-cell:active .item-title,.result-box .van-cell:hover .item-title {
+    color: #1a89fa;
 }
 
 .result-box .item-link:last-of-type .van-cell {
@@ -926,13 +960,13 @@ export default {
     max-width: calc(100vw - 260px - .75rem - 1rem - .25rem);
     z-index: 9;
     padding: .5rem 0;
-    background: #fff;
+    background: #ffffff;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
-    border-bottom-left-radius: 6px;
-    border-bottom-right-radius: 6px;
-    box-shadow: 0 1px 3px rgba(0,0,0,.06);
-    box-sizing: border-box
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,.08);
+    box-sizing: border-box;
 }
 
 .search-box .van-cell {
@@ -959,8 +993,9 @@ export default {
 
 .search-box .van-search__content {
     padding: 0;
-    background: #f8fafc;
-    border-radius: 8px
+    background: #f9fafb;
+    border-radius: 8px;
+    border: none
 }
 
 .search-box .van-field__left-icon {
@@ -1142,6 +1177,10 @@ export default {
         font-size: .75rem;
         word-break: break-word;
         overflow-wrap: break-word
+    }
+
+    .result-box .empty .cate {
+      display: block
     }
 }
 </style>
