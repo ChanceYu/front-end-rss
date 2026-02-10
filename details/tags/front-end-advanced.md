@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-10 09:14:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-11 00:51:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -15,6 +15,7 @@
 - [2023-05-23-Node.js-20-is-faster](https://nodeweekly.com/issues/487) 
 - [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441) 
 - [2022-02-24-Node-gains-HTTPS-module-import-support](https://nodeweekly.com/issues/426) 
+- [2026-02-10-A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772) 
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746) 
 - [2025-07-11-The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744) 
 - [2025-01-31-A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721) 

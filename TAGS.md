@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-02-10 09:14:49。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-02-11 00:51:44。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -345,9 +345,9 @@
 - [【Node-Weekly】Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)
 - [【Node-Weekly】Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)
 - [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
+- [【JavaScript-Weekly】A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772)
 - [【JavaScript-Weekly】Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)
 - [【JavaScript-Weekly】Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)
-- [【JavaScript-Weekly】Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)
 - [查看更多 >](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -660,6 +660,7 @@
 - [【Node-Weekly】Node.js-20-is-faster](https://nodeweekly.com/issues/487)
 - [【Node-Weekly】A-big-week-for-Fastify](https://nodeweekly.com/issues/441)
 - [【Node-Weekly】Node-gains-HTTPS-module-import-support](https://nodeweekly.com/issues/426)
+- [【JavaScript-Weekly】A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772)
 - [【JavaScript-Weekly】Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)
 - [【JavaScript-Weekly】The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744)
 - [【JavaScript-Weekly】A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)
@@ -671,7 +672,6 @@
 - [【JavaScript-Weekly】Is-Turbopack-really-10x-faster-than-Vite?](https://javascriptweekly.com/issues/613)
 - [【JavaScript-Weekly】Airbnb's-uncommon-route-to-faster-JS-builds](https://javascriptweekly.com/issues/591)
 - [【JavaScript-Weekly】Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586)
-- [【前端早读课】【第3655期】浏览器即运行时：一个零后端-AI-应用的前端架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278596&idx=1&sn=dea55dba00065e03f83445a08be9f33e&chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&scene=0#rd)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
