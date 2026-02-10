@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-09 22:45:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-10 09:14:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端
 
@@ -879,6 +879,7 @@
 - [2023-06-20-前端，这些运维命令你需要懂](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511884&idx=2&sn=2d578e7d471ee0678d172cbfc42e9f84&chksm=eb079735dc701e23fb14715313cb09719960c29f12fb7714a122756f9b9767d04a28f1f55863#rd) 
 - [2023-05-16-在JavaScript中-4-种创建枚举方式](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511535&idx=1&sn=358cf70c6fac6fdf1a379107774b5e30&chksm=eb079596dc701c80fc5b7b83a111a78e6067c0fdf92786dd9d061a113b7edbddf5c38ea6e649#rd) 
 - [2023-05-05-Vercel-推出前端直连数据库，回归-or-进步！？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511468&idx=1&sn=3b735276f3b4ce6e4c584a2e5ac9f7f2&chksm=eb0795d5dc701cc31f69e00e2dbc4468620bba049dee8db92ed450cdbce6f317094e17c7fcc3#rd) 
+- [2026-02-09-设计模式Trustworthy-Generation：提升RAG信赖度](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542871&idx=1&sn=30f0fa05c0a2129017f6f3f19812a491&chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd) 
 - [2025-12-10-Jimi：打造Java程序员专属的开源ClaudeCode](http://mp.weixin.qq.com/s/a6zOCKaBey0IQnywOd4xWg) 
 - [2025-07-23-面向互联网2C业务的分布式类Manus-Java框架](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540954&idx=1&sn=c410728ed2bbd65603b02ee1130089ef&chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&scene=0#rd) 
 - [2025-05-23-淘宝Java工程师的LLM开发实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540249&idx=1&sn=1c8a9137594bc9772f863bc0e4dc972d&chksm=826307b256b557840c679d626771c1b3f5f861c8b60de62b82f06628a10f0347e7c729d55c1e&scene=0#rd) 

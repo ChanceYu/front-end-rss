@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-09 22:45:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-10 09:14:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -543,6 +543,7 @@
 - [2023-08-22-2017---2023-的JavaScript-性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513518&idx=1&sn=3c1624839858cc808eccf22027c28605&chksm=eb078dd7dc7004c101dc11881e1a77ddc376cbe0529953f659619f40f05b88ccca55c038a1e4#rd) 
 - [2023-08-01-油管性能拉跨，Chrome-团队出手相助…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512840&idx=1&sn=3aebfaf8a644cf5cb16ba4461247ee54&chksm=eb078b71dc700267229c85378f0f254d14e01a3c5035b9d4be1f427c226d06c3fce5ef2ee1bc#rd) 
 - [2023-05-15-Rspack-迁移好简单，性能提升好多！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511530&idx=1&sn=ffc0aac34a0e5872668b130a6e080c99&chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd) 
+- [2026-02-04-一次大文件处理性能优化实录](http://mp.weixin.qq.com/s/iVLS1iK_RtWpca3qzUtQ0w) 
 - [2026-01-19-淘宝订单列表体验优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542407&idx=1&sn=fd453a0a0c183a786c465aecbeaecfdc&chksm=8390d95fb4e750491b7034d211cf019f20fde7478616f3d8b1120b74e6c5eb0e82344e284402#rd) 
 - [2025-11-19-交易订单表如何做索引优化](http://mp.weixin.qq.com/s/kW-s-WiZHWtXKBWfz8611g) 
 - [2025-08-15-MNN-LLM-Chat-iOS-流式输出优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541282&idx=1&sn=c7e80789f8a1e4ebaebc8e34c55a9829&chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&scene=0#rd) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-09T14:45:04.193Z</updated>
+    <updated>2026-02-10T01:14:49.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[设计模式Trustworthy Generation：提升RAG信赖度]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542871&amp;idx=1&amp;sn=30f0fa05c0a2129017f6f3f19812a491&amp;chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542871&amp;idx=1&amp;sn=30f0fa05c0a2129017f6f3f19812a491&amp;chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd"/>
+        <updated>2026-02-09T00:00:00.000Z</updated>
+        <published>2026-02-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[猎头密件：2026年缺口最大的AI岗位竟是它？]]></title>
         <id>http://mp.weixin.qq.com/s/oBdI2LbYZRPSOdJ86wz23w</id>
         <link href="http://mp.weixin.qq.com/s/oBdI2LbYZRPSOdJ86wz23w"/>
@@ -25,6 +32,13 @@
         <title type="html"><![CDATA[CSS text-box属性又是干嘛用的？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <published>2026-02-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AI Coding】借助cursor实现业务需求全栈交付实践]]></title>
+        <id>http://mp.weixin.qq.com/s/wf3l4ngPTENl7rk88piRLg</id>
+        <link href="http://mp.weixin.qq.com/s/wf3l4ngPTENl7rk88piRLg"/>
         <updated>2026-02-06T00:00:00.000Z</updated>
         <published>2026-02-06T00:00:00.000Z</published>
     </entry>
@@ -76,6 +90,13 @@
         <link href="https://nodeweekly.com/issues/610"/>
         <updated>2026-02-05T00:00:00.000Z</updated>
         <published>2026-02-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次大文件处理性能优化实录]]></title>
+        <id>http://mp.weixin.qq.com/s/iVLS1iK_RtWpca3qzUtQ0w</id>
+        <link href="http://mp.weixin.qq.com/s/iVLS1iK_RtWpca3qzUtQ0w"/>
+        <updated>2026-02-04T00:00:00.000Z</updated>
+        <published>2026-02-04T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[v-model 淘汰！ Vue3 新玩法代码量减少 60%！]]></title>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508437&amp;idx=1&amp;sn=fe7756a78380f9cfc032d50aba2e5edb&amp;chksm=ce45b444f9323d52219b03b28f5fb6670de8bc8e06eb9b0511a65bab57a0a40da2a2b7c443eb#rd"/>
         <updated>2026-01-24T00:00:00.000Z</updated>
         <published>2026-01-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICCV25 | 淘宝人脸吸引力预测算法FPEM]]></title>
-        <id>http://mp.weixin.qq.com/s/vdwd_gOcuyWDF_K_U3j73Q</id>
-        <link href="http://mp.weixin.qq.com/s/vdwd_gOcuyWDF_K_U3j73Q"/>
-        <updated>2026-01-23T00:00:00.000Z</updated>
-        <published>2026-01-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 新 API：仅 5 行代码！直接读写本地文件！]]></title>
-        <id>http://mp.weixin.qq.com/s/Tp1-Ov02QNGoYCDrugL0qg</id>
-        <link href="http://mp.weixin.qq.com/s/Tp1-Ov02QNGoYCDrugL0qg"/>
-        <updated>2026-01-23T00:00:00.000Z</updated>
-        <published>2026-01-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3647期】在 Node.js 中使用require(esm)：从实验到稳定]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278525&amp;idx=1&amp;sn=a0e5717714ffe5ebbda22a6eebd6df89&amp;chksm=bc952882e028b06793c1579969bc5e7faf3d35997ef81d3d98dcf02d2269611517a583d19b96&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278525&amp;idx=1&amp;sn=a0e5717714ffe5ebbda22a6eebd6df89&amp;chksm=bc952882e028b06793c1579969bc5e7faf3d35997ef81d3d98dcf02d2269611517a583d19b96&amp;scene=0#rd"/>
-        <updated>2026-01-23T00:00:00.000Z</updated>
-        <published>2026-01-23T00:00:00.000Z</published>
     </entry>
 </feed>
