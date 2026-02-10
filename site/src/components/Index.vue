@@ -13,7 +13,7 @@
         </div>
       </van-cell-group>
       <van-cell-group class="tag-group">
-        <div slot="title" class="title-box"><van-icon name="hot-o" />热词搜索</div>
+        <div slot="title" class="title-box">热词搜索</div>
         <van-tag
           v-for="(item, index) in hotwords"
           :key="index"
@@ -23,7 +23,7 @@
         </van-tag>
       </van-cell-group>
       <van-cell-group>
-        <div slot="title" class="title-box"><van-icon name="underway-o" />发布时间</div>
+        <div slot="title" class="title-box">发布时间</div>
         <van-cell
           v-for="(item, index) in ranges"
           :key="index"
@@ -33,7 +33,7 @@
         />
       </van-cell-group>
       <van-cell-group title="文章分类">
-        <div slot="title" class="title-box"><van-icon name="bar-chart-o" />文章分类</div>
+        <div slot="title" class="title-box">文章分类</div>
         <van-cell
           v-for="(item, index) in tags"
           :key="index"
@@ -43,7 +43,7 @@
         />
       </van-cell-group>
       <van-cell-group title="文章来源">
-        <div slot="title" class="title-box"><van-icon name="records" />文章来源</div>
+        <div slot="title" class="title-box">文章来源</div>
         <van-cell
           v-for="(item, index) in rss"
           :key="index"
