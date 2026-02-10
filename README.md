@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-10 09:14:48，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-11 00:51:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2026-02-10-A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772) ![](/assets/new.png)  
 - [2026-02-03-Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)  
 - [2026-01-27-What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770)  
 - [2026-01-20-A-big-week-for-jQuery](https://javascriptweekly.com/issues/769)  
@@ -97,7 +98,6 @@
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)  
 - [2025-09-26-The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)  
 - [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)  
-- [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,9 +481,9 @@
 </summary>
 
 
-- [2026-02-09-设计模式Trustworthy-Generation：提升RAG信赖度](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542871&idx=1&sn=30f0fa05c0a2129017f6f3f19812a491&chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd) ![](/assets/new.png)  
-- [2026-02-06-【AI-Coding】借助cursor实现业务需求全栈交付实践](http://mp.weixin.qq.com/s/wf3l4ngPTENl7rk88piRLg) ![](/assets/new.png)  
-- [2026-02-04-一次大文件处理性能优化实录](http://mp.weixin.qq.com/s/iVLS1iK_RtWpca3qzUtQ0w) ![](/assets/new.png)  
+- [2026-02-09-设计模式Trustworthy-Generation：提升RAG信赖度](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542871&idx=1&sn=30f0fa05c0a2129017f6f3f19812a491&chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd)  
+- [2026-02-06-【AI-Coding】借助cursor实现业务需求全栈交付实践](http://mp.weixin.qq.com/s/wf3l4ngPTENl7rk88piRLg)  
+- [2026-02-04-一次大文件处理性能优化实录](http://mp.weixin.qq.com/s/iVLS1iK_RtWpca3qzUtQ0w)  
 - [2026-02-02-淘天集团自营技术运营算法团队4年2次荣膺-INFORMS“杰出实践奖”决选荣誉：以策略正则化突破DRL在库存管理中的落地瓶颈](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542682&idx=1&sn=4a56846c13628675c01337e79b01d614&chksm=8390da42b4e753547975ab94ed9e40a4f4524a989918423bba32591249c891bf11f0c5f16121#rd)  
 - [2026-01-30-【淘宝直播数字人互动LLM】告别AI感：基于真人ASR数据的拟人化探索](http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg)  
 - [2026-01-28-Agentic-Coding场景下基于职责分离的上下文管理思路分享](http://mp.weixin.qq.com/s/sLTlZZnAratkUTAJiG2uMg)  
