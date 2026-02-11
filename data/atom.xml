@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-10T16:51:44.601Z</updated>
+    <updated>2026-02-11T01:13:00.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -113,6 +113,13 @@
         <published>2026-02-04T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI Skills 正在重构前端开发]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=1&amp;sn=13babe9ddebc8bead1645f6c0848cc30&amp;chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=1&amp;sn=13babe9ddebc8bead1645f6c0848cc30&amp;chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd"/>
+        <updated>2026-02-04T00:00:00.000Z</updated>
+        <published>2026-02-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[谷歌Chrome觉醒！Gemini 3全面接管，38亿用户一夜进入Agent时代]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=2&amp;sn=37c808ca69f24f963618f33854406d88&amp;chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=2&amp;sn=37c808ca69f24f963618f33854406d88&amp;chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd"/>
@@ -141,16 +148,16 @@
         <published>2026-02-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[别再像新手一样使用 Tailwind 了！]]></title>
-        <id>http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg</id>
-        <link href="http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg"/>
+        <title type="html"><![CDATA[底裤被扒！Moltbook 150 万 AI 用户几乎全是水军。网友：人骗人全是自导自演]]></title>
+        <id>http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw</id>
+        <link href="http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw"/>
         <updated>2026-02-03T00:00:00.000Z</updated>
         <published>2026-02-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[底裤被扒！Moltbook 150 万 AI 用户几乎全是水军。网友：人骗人全是自导自演]]></title>
-        <id>http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw</id>
-        <link href="http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw"/>
+        <title type="html"><![CDATA[别再像新手一样使用 Tailwind 了！]]></title>
+        <id>http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg</id>
+        <link href="http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg"/>
         <updated>2026-02-03T00:00:00.000Z</updated>
         <published>2026-02-03T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[短短一周收获 1400 stars！前端的全栈神器！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508474&amp;idx=1&amp;sn=d88bc24ef82a459bdd66070397772e20&amp;chksm=ce45b46bf9323d7d23329e89b12d61015a6cbca0122d76eb53c1c31392186e8456ee775df9e2#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508474&amp;idx=1&amp;sn=d88bc24ef82a459bdd66070397772e20&amp;chksm=ce45b46bf9323d7d23329e89b12d61015a6cbca0122d76eb53c1c31392186e8456ee775df9e2#rd"/>
-        <updated>2026-01-25T00:00:00.000Z</updated>
-        <published>2026-01-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天天叫 AI 编程多厉害，真用起来气死人啊]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623972&amp;idx=2&amp;sn=b90dcd31828c7ecfdd27c782a0610acb&amp;chksm=802245e5b755ccf382adfd16640178771e23a5ce69ad32a27e99e3e506b8e3153c1d0d9b90df#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623972&amp;idx=2&amp;sn=b90dcd31828c7ecfdd27c782a0610acb&amp;chksm=802245e5b755ccf382adfd16640178771e23a5ce69ad32a27e99e3e506b8e3153c1d0d9b90df#rd"/>
         <updated>2026-01-25T00:00:00.000Z</updated>
         <published>2026-01-25T00:00:00.000Z</published>
     </entry>
