@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-11T01:13:00.026Z</updated>
+    <updated>2026-02-11T14:45:27.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -113,16 +113,16 @@
         <published>2026-02-04T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Skills 正在重构前端开发]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=1&amp;sn=13babe9ddebc8bead1645f6c0848cc30&amp;chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=1&amp;sn=13babe9ddebc8bead1645f6c0848cc30&amp;chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd"/>
+        <title type="html"><![CDATA[谷歌Chrome觉醒！Gemini 3全面接管，38亿用户一夜进入Agent时代]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=2&amp;sn=37c808ca69f24f963618f33854406d88&amp;chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=2&amp;sn=37c808ca69f24f963618f33854406d88&amp;chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd"/>
         <updated>2026-02-04T00:00:00.000Z</updated>
         <published>2026-02-04T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谷歌Chrome觉醒！Gemini 3全面接管，38亿用户一夜进入Agent时代]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=2&amp;sn=37c808ca69f24f963618f33854406d88&amp;chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=2&amp;sn=37c808ca69f24f963618f33854406d88&amp;chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd"/>
+        <title type="html"><![CDATA[AI Skills 正在重构前端开发]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=1&amp;sn=13babe9ddebc8bead1645f6c0848cc30&amp;chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=1&amp;sn=13babe9ddebc8bead1645f6c0848cc30&amp;chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd"/>
         <updated>2026-02-04T00:00:00.000Z</updated>
         <published>2026-02-04T00:00:00.000Z</published>
     </entry>
@@ -148,16 +148,16 @@
         <published>2026-02-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[底裤被扒！Moltbook 150 万 AI 用户几乎全是水军。网友：人骗人全是自导自演]]></title>
-        <id>http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw</id>
-        <link href="http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw"/>
+        <title type="html"><![CDATA[别再像新手一样使用 Tailwind 了！]]></title>
+        <id>http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg</id>
+        <link href="http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg"/>
         <updated>2026-02-03T00:00:00.000Z</updated>
         <published>2026-02-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[别再像新手一样使用 Tailwind 了！]]></title>
-        <id>http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg</id>
-        <link href="http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg"/>
+        <title type="html"><![CDATA[底裤被扒！Moltbook 150 万 AI 用户几乎全是水军。网友：人骗人全是自导自演]]></title>
+        <id>http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw</id>
+        <link href="http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw"/>
         <updated>2026-02-03T00:00:00.000Z</updated>
         <published>2026-02-03T00:00:00.000Z</published>
     </entry>

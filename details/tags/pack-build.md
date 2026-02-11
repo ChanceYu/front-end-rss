@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-11 09:12:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-11 22:45:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -160,16 +160,16 @@
 - [2023-10-19-深度剖析-Vite-配置文件](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617049&idx=2&sn=2476675828c70c22035eb3ac1f66ec1d&chksm=8022a0d8b75529cebf36439b0a4fb04385fdd2436511af77833c3a28223b1aab7d0d125456fc#rd) 
 - [2023-10-17-DHH锐评-“打包工具”：前端根本不需要构建-No-Build](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617025&idx=2&sn=b684f1a353b88dca95e4a636654b8aa9&chksm=8022a0c0b75529d6293d7a3cabdc6d5e7b78460469b05a91136098f0940dee4f470826bf319f#rd) 
 - [2023-09-19-前端工程化到底是啥？可不止Webpack哦~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616836&idx=1&sn=46a5d4739ef5c4aa3c5bc2a43805f49b&chksm=8022a185b75528938f2e880ab7df810365eec8c310094914ce6a0626e6c65e2c08a3b98a5eb1#rd) 
-- [2023-08-05-谈谈你对-vite-的了解](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616336&idx=2&sn=d9c6ba3318e9cf59bc294e6ca0b53d80&chksm=8022a391b7552a87101c23345f0b0c4c3d48771bb7e7e4a3405b6bbcf7ea22ec89edcd03a4fe#rd) 
 - [2023-08-05-完美搭配，微前端与-Monorepo-的架构设计](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616336&idx=1&sn=118c800d17a6dc34fb504f5d2f297ead&chksm=8022a391b7552a87cccb06288771740421c0e3e82722fe94867d4daa4a7139b72ae3123a0ea4#rd) 
+- [2023-08-05-谈谈你对-vite-的了解](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616336&idx=2&sn=d9c6ba3318e9cf59bc294e6ca0b53d80&chksm=8022a391b7552a87101c23345f0b0c4c3d48771bb7e7e4a3405b6bbcf7ea22ec89edcd03a4fe#rd) 
 - [2023-06-30-Babel？No！AST！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615329&idx=2&sn=7f62321f923ac426930e3f36c9c8b7bb&chksm=8022a7a0b7552eb66e1b90aaaac48e217e73caeea583ba6acb6df28ddd617c997c1f2c579248#rd) 
 - [2023-05-29-【webpack核心库】耗时7个小时，用近50张图来学习enhance-resolve中的数据流动和插件调度机制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614794&idx=2&sn=2cd6440d7d0e77f3a8f17a72c9481841&chksm=8022b98bb755309d2fab8a1cb966525935b34b50513840f6bc520f6d0bb8824ad29e74a2170a#rd) 
 - [2023-03-29-告别“复制粘贴”，带你自己配一个-Babel](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651613100&idx=1&sn=6b18a82ef26b4bfb4124841fc43597a6&chksm=8022b06db755397ba4884f54ccc71c622a65e23b60ae006572c4fef88786e45e1874738b40f8#rd) 
-- [2023-03-15-使用发布订阅，构建多功能、多方向的全新-Message](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651612925&idx=2&sn=7b6d154341234162795f864e7dd6512a&chksm=8022b13cb755382a4eabaadccb9ac3249d27d10be1190d7d069078a30863207af30a1f920049#rd) 
 - [2023-03-15-vite3+vue3+ts+pinia-+-Naive-UI-项目实战-——-国际化配置](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651612925&idx=1&sn=9ec47878af19270e0b13de620662f639&chksm=8022b13cb755382a9861dd7c75f9d82ce7ad1dfdddc25cae7299493b63ee65da2678fb07b502#rd) 
+- [2023-03-15-使用发布订阅，构建多功能、多方向的全新-Message](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651612925&idx=2&sn=7b6d154341234162795f864e7dd6512a&chksm=8022b13cb755382a4eabaadccb9ac3249d27d10be1190d7d069078a30863207af30a1f920049#rd) 
 - [2022-10-17-为什么有人说-vite-快，有人却说-vite-慢？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651609717&idx=2&sn=dc79b581cbe83a9ff89a7afe76af8812&chksm=80228db4b75504a2d5298f8656cc97b2afb5a75a79192eaf6999f8aa76d5b16d30b53347e119#rd) 
-- [2022-10-14-加-3-行代码减少-80%-构建时间](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651609643&idx=2&sn=a80b0a793d9722107978c4d4cfd8e28c&chksm=80228deab75504fcd583c18483ad186e64452e51e921eb272f4e222ed04c2dc1104c7cbf5ed0#rd) 
 - [2022-10-14-调研报告-新一代前端构建工具汇总](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651609643&idx=1&sn=8de77823e41ad9fd3643f83eaad1dc2f&chksm=80228deab75504fc19361bbbc32973a25894f4bda23a0761d9372d7900c3a53bb6b4f3374828#rd) 
+- [2022-10-14-加-3-行代码减少-80%-构建时间](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651609643&idx=2&sn=a80b0a793d9722107978c4d4cfd8e28c&chksm=80228deab75504fcd583c18483ad186e64452e51e921eb272f4e222ed04c2dc1104c7cbf5ed0#rd) 
 - [2022-08-28-编译-ts-代码用-tsc-还是-babel？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608468&idx=2&sn=7414322b0400af125f491d4724b0010d&chksm=80228255b7550b43d1490a45a214b71a59b2d32259a431ba6b7f539f599d778f159caf4e0c38#rd) 
 - [2022-08-19-Vite-约定式路由的最佳实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608181&idx=2&sn=6e7932ccd02921fbb746818a2f5371f4&chksm=802283b4b7550aa25c8275694a1861bb7d78e2325f30502f59f7ca48b2c7d2b4351e40a3d8fc#rd) 
 - [2022-07-27-2022-年，Babel-vs-TypeScript，谁更适合代码编译](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607771&idx=2&sn=56969ce59ee9a45909f9e9ab9562cac5&chksm=8022851ab7550c0c1c327752d991a6676e1ffead74e7419de76cac0b1146533fbe95a2c7bef1#rd) 
