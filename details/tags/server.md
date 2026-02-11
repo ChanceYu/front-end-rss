@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-11 22:45:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-12 02:46:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端
 
@@ -714,6 +714,8 @@
 - [2018-10-11-JavaScript私有属性要来了，但实现方式惹争议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489655&idx=1&sn=7a646d19629ea768f73b9bb982929354#wechat_redirect) 
 - [2018-10-10-这三个新特性可能改变JavaScript未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489645&idx=1&sn=11872a598c8d44be59d97fc8c6d73c25#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
+- [2026-02-09-无可救药？美团、字节接连放弃-JavaScript！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508715&idx=1&sn=a0256be1aef862475db9823e3a89fb7f&chksm=ce45b77af9323e6ccd12acbe133ea2b90ce29e0b75720f64ec8a10844dbe033fc81d06fc7263#rd) 
+- [2026-02-08-JavaScript-之父怒喷-Electron：性能差，太臃肿！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508709&idx=1&sn=575c447d40543fcd9a79c122dcebba76&chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd) 
 - [2025-12-10-JavaScript-性能提升-500%-的外挂！这是前端未来的趋势](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506869&idx=1&sn=58e3ef1e731856a6406f5ed709072b9f&chksm=ce45ce24f93247322f5e9544c193bd985605b7c07e4506eedea5f56c39d12528eb9812b70af7#rd) 
 - [2025-11-22-JavaScript-的-10-种设计模式和应用场景](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506565&idx=1&sn=d22eb19dd8d19e6308f59be191459c03&chksm=ce45cf14f932460220796abb5e56d0b331d637e8812c0cabf311d7f3d16960ec3026c63ff9e8#rd) 
 - [2025-09-29-JavaScript-原生深拷贝方法来啦！structuredClone-闪耀登场~](http://mp.weixin.qq.com/s/MxaGzd49wgQvjQXJ2_Ml8Q) 

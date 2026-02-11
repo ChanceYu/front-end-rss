@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-11 22:45:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-12 02:46:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 桌面应用
 
@@ -39,6 +39,7 @@
 - [2018-12-19-桌面上的Flutter：Electron又多了个对手](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490130&idx=1&sn=94faa075b40ed8039cc0be7fe5d53b82#wechat_redirect) 
 - [2018-10-21-基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect) 
 - [2018-09-23-Electron-3.0正式版发布，新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489563&idx=1&sn=143a32f20520df0a25651099e14e870c#wechat_redirect) 
+- [2026-02-08-JavaScript-之父怒喷-Electron：性能差，太臃肿！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508709&idx=1&sn=575c447d40543fcd9a79c122dcebba76&chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd) 
 - [2025-04-25-Tauri-vs.-Electron：性能、体积与真实权衡](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526089&idx=1&sn=5724d9630ea2caf402b25eb5c2d75c96&chksm=f9926018cee5e90ec675bb678c336924aa66da467bb92a9f59fd873fb922874440ece515f990#rd) 
 - [2023-07-10-tauri会是-Electron-的替代方案？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515202&idx=1&sn=ca214c0df64ab78d823e962ba00659ae&chksm=f992ba93cee53385ffbfbfaf003d737002c9a5f934b47a7b5a093839c83fddd1d657c427598f#rd) 
 - [2022-12-26-electron-应用开发优秀实践](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512303&idx=1&sn=c7a5220a4d0891b5fc6dd48c6d90b5e9&chksm=f992b63ecee53f280374d1a8ce2150b3078c22b61f69cdd6e1bdd92d21468633a820ae48df40#rd) 

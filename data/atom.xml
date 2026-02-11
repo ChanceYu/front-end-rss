@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-11T14:45:27.210Z</updated>
+    <updated>2026-02-11T18:46:26.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,20 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542871&amp;idx=1&amp;sn=30f0fa05c0a2129017f6f3f19812a491&amp;chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd"/>
         <updated>2026-02-09T00:00:00.000Z</updated>
         <published>2026-02-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无可救药？美团、字节接连放弃 JavaScript！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508715&amp;idx=1&amp;sn=a0256be1aef862475db9823e3a89fb7f&amp;chksm=ce45b77af9323e6ccd12acbe133ea2b90ce29e0b75720f64ec8a10844dbe033fc81d06fc7263#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508715&amp;idx=1&amp;sn=a0256be1aef862475db9823e3a89fb7f&amp;chksm=ce45b77af9323e6ccd12acbe133ea2b90ce29e0b75720f64ec8a10844dbe033fc81d06fc7263#rd"/>
+        <updated>2026-02-09T00:00:00.000Z</updated>
+        <published>2026-02-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 之父怒喷 Electron：性能差，太臃肿！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508709&amp;idx=1&amp;sn=575c447d40543fcd9a79c122dcebba76&amp;chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508709&amp;idx=1&amp;sn=575c447d40543fcd9a79c122dcebba76&amp;chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd"/>
+        <updated>2026-02-08T00:00:00.000Z</updated>
+        <published>2026-02-08T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[猎头密件：2026年缺口最大的AI岗位竟是它？]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA"/>
         <updated>2026-01-26T00:00:00.000Z</updated>
         <published>2026-01-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[情况有变！前端转 AI 全栈课程，我做了一个大改动...]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508494&amp;idx=1&amp;sn=66e87565b13330d1161b84112f91e956&amp;chksm=ce45b79ff9323e8999b8d9b99ced602db6aadcda40c97474b75097239af22aa767b031face84#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508494&amp;idx=1&amp;sn=66e87565b13330d1161b84112f91e956&amp;chksm=ce45b79ff9323e8999b8d9b99ced602db6aadcda40c97474b75097239af22aa767b031face84#rd"/>
-        <updated>2026-01-26T00:00:00.000Z</updated>
-        <published>2026-01-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[短短一周收获 1400 stars！前端的全栈神器！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508474&amp;idx=1&amp;sn=d88bc24ef82a459bdd66070397772e20&amp;chksm=ce45b46bf9323d7d23329e89b12d61015a6cbca0122d76eb53c1c31392186e8456ee775df9e2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508474&amp;idx=1&amp;sn=d88bc24ef82a459bdd66070397772e20&amp;chksm=ce45b46bf9323d7d23329e89b12d61015a6cbca0122d76eb53c1c31392186e8456ee775df9e2#rd"/>
-        <updated>2026-01-25T00:00:00.000Z</updated>
-        <published>2026-01-25T00:00:00.000Z</published>
     </entry>
 </feed>

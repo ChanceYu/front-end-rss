@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-11 22:45:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-12 02:46:26，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -140,7 +140,7 @@
 </summary>
 
 
-- [2026-02-10-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624071&idx=1&sn=6bd3ec5a79da559646dd1622067c4a7d&chksm=80224546b755cc50ca0166514d46e5106802f8b0c9ca9a26033e00b03ee7d068f8a457359af4#rd) ![](/assets/new.png)  
+- [2026-02-10-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624071&idx=1&sn=6bd3ec5a79da559646dd1622067c4a7d&chksm=80224546b755cc50ca0166514d46e5106802f8b0c9ca9a26033e00b03ee7d068f8a457359af4#rd)  
 - [2026-02-05-20-年-IT-老兵转行“收废品”！200+-场面试无果](http://mp.weixin.qq.com/s/oj2b_Sx2XVYOc4jC-gvpPA)  
 - [2026-02-04-AI-Skills-正在重构前端开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=1&sn=13babe9ddebc8bead1645f6c0848cc30&chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd)  
 - [2026-02-04-谷歌Chrome觉醒！Gemini-3全面接管，38亿用户一夜进入Agent时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd)  
@@ -202,26 +202,26 @@
 </summary>
 
 
-- [2026-02-10-你发现了吗？前端这五个技术快“死”了](http://mp.weixin.qq.com/s/_0Vu_MUOB-fpcnem9-ndeA)  
-- [2026-02-10-新招的外包，每天先带薪如厕-30-分钟，早会后各种摸鱼晃到-11:20-就去干饭。经理提醒多熟悉业务，他回怼“这咋了？活干完就行了”](http://mp.weixin.qq.com/s/xOcF_LTVOPcSZLKfgei7LA)  
+- [2026-02-11-Pinia-超进化！从此不需要-Axios！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508754&idx=1&sn=14e7a5bfc29c7be4eb24f07ea07fe70c&chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd) ![](/assets/new.png)  
 - [2026-02-10-心寒！公司年会抽奖程序设置：外包一定不能中奖，概率为0](http://mp.weixin.qq.com/s/ecUqYe_GCOLKwAEA7Vapvg)  
-- [2026-02-09-拼多多实行双休！引起员工强烈反对！啊？双休了还不开心了？](http://mp.weixin.qq.com/s/nax0aDhMJm7vUziOqaDmSA)  
+- [2026-02-10-新招的外包，每天先带薪如厕-30-分钟，早会后各种摸鱼晃到-11:20-就去干饭。经理提醒多熟悉业务，他回怼“这咋了？活干完就行了”](http://mp.weixin.qq.com/s/xOcF_LTVOPcSZLKfgei7LA)  
+- [2026-02-10-你发现了吗？前端这五个技术快“死”了](http://mp.weixin.qq.com/s/_0Vu_MUOB-fpcnem9-ndeA)  
 - [2026-02-09-中国最难入职的IT公司](http://mp.weixin.qq.com/s/6VCCjprUCRqn91IrEoAiaQ)  
+- [2026-02-09-拼多多实行双休！引起员工强烈反对！啊？双休了还不开心了？](http://mp.weixin.qq.com/s/nax0aDhMJm7vUziOqaDmSA)  
+- [2026-02-09-无可救药？美团、字节接连放弃-JavaScript！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508715&idx=1&sn=a0256be1aef862475db9823e3a89fb7f&chksm=ce45b77af9323e6ccd12acbe133ea2b90ce29e0b75720f64ec8a10844dbe033fc81d06fc7263#rd) ![](/assets/new.png)  
+- [2026-02-08-JavaScript-之父怒喷-Electron：性能差，太臃肿！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508709&idx=1&sn=575c447d40543fcd9a79c122dcebba76&chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd) ![](/assets/new.png)  
 - [2026-02-06-JSON-淘汰！新的数据格式性能飙升-272%](http://mp.weixin.qq.com/s/N_7D_fL6sk6TyueEaot1Kg)  
 - [2026-02-05-只需几行代码！Vue和React终于可以一起使用了！](http://mp.weixin.qq.com/s/Mp_WQBo6PUjrwuBxZkXbOg)  
-- [2026-02-04-突发！微信把元宝“封了”，屏蔽了红包链接，官方紧急回应](http://mp.weixin.qq.com/s/exfKVLklTdoTNtEGslrxmg)  
 - [2026-02-04-v-model-淘汰！-Vue3-新玩法代码量减少-60%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508687&idx=1&sn=1bc02b0bb9179310c90507c7544b4ea0&chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd)  
-- [2026-02-03-2026财务自由对照表，躺平需要多少钱](http://mp.weixin.qq.com/s/FAZcfMqP6xK3sYWp0E0UqQ)  
-- [2026-02-03-猝死程序员妻子：他-10-年只休过-1-次年假。公司回应：5-年休年假-26-天。网友：休而不息是常态](http://mp.weixin.qq.com/s/AfKZDAXrhLoBzITJWDGWtQ)  
+- [2026-02-04-突发！微信把元宝“封了”，屏蔽了红包链接，官方紧急回应](http://mp.weixin.qq.com/s/exfKVLklTdoTNtEGslrxmg)  
 - [2026-02-03-全栈神器！前端可以在CSS里写SQL语句啦！以后不需要后端了？](http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A)  
+- [2026-02-03-猝死程序员妻子：他-10-年只休过-1-次年假。公司回应：5-年休年假-26-天。网友：休而不息是常态](http://mp.weixin.qq.com/s/AfKZDAXrhLoBzITJWDGWtQ)  
+- [2026-02-03-2026财务自由对照表，躺平需要多少钱](http://mp.weixin.qq.com/s/FAZcfMqP6xK3sYWp0E0UqQ)  
 - [2026-02-02-uni-app淘汰！Vue3-原生开发最佳方案](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508643&idx=1&sn=138c5397dd9821bc8db743647c939209&chksm=ce45b732f9323e24631aab260c1a7c0326bff6abc6f5ce39e2ed07ff514823c0bdc3cf2e85ac#rd)  
 - [2026-02-01-来，做个测试，达到70分就别辞职](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508625&idx=1&sn=80e61663446b6a93afe3906b35722ac3&chksm=ce45b700f9323e167e87dd7b16e64ed4dc576b5cc232a1a81f56db5a3240658591d8ba8ba728#rd)  
 - [2026-01-31-stars-高达50w+！Github-爆火的-10-个值得学习的-AI-项目！学到了好多！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508610&idx=1&sn=37f34326e37f4855cf0b606a2cc4f458&chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd)  
 - [2026-01-30-出圈了？JS的try...catch新写法，被质疑抄袭Go语言！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508595&idx=1&sn=411032c33ea7ad74c5cbf9be85b6d7d4&chksm=ce45b7e2f9323ef4692897ea57b48ae7461f4ed7e8b7649e7ecebc62037e494f2dfa9982fa49#rd)  
-- [2026-01-29-出事了！卸载Notepad++](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508583&idx=1&sn=fd4d58096c955c11bed11986c31df99f&chksm=ce45b7f6f9323ee0c3e978bbcc84ef63ded6f350bcdf5ba300117acf4afbbb87d04856be6f26#rd)  
 - [2026-01-29-Apifox-和-Postman-开源平替！新API工具内置-AI-agent-，调试效率飙升！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508583&idx=2&sn=d2a73ee7eb526fc5bb56ac628d9e6e12&chksm=ce45b7f6f9323ee0273053b0634e6740b88645e786d690c006d283f6b075adc8475654ee0566#rd)  
-- [2026-01-28-各个大厂工时排行，最卷的公司一目了然！](http://mp.weixin.qq.com/s/AF4USCzgXHCrPdgPqcZcQA)  
-- [2026-01-28-公司称“猝死程序员未按要求做体检”，家属：每年都体检，但公司不认三甲医院报告](http://mp.weixin.qq.com/s/kvvWyfQeF8BKZAZ1AZtDPg)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

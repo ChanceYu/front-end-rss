@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-11 22:45:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-12 02:46:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -370,6 +370,7 @@
 - [2018-11-12-Netflix-网页性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489850&idx=1&sn=d93f40ba6ded642073017eae63a0096f#wechat_redirect) 
 - [2018-10-22-如何创建高性能、可扩展的Node.js应用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489726&idx=1&sn=01f914f1f9daba3a9bc116ac7d06dd50#wechat_redirect) 
 - [2018-10-15-Vue-CLI-2&amp;3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect) 
+- [2026-02-08-JavaScript-之父怒喷-Electron：性能差，太臃肿！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508709&idx=1&sn=575c447d40543fcd9a79c122dcebba76&chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd) 
 - [2026-02-06-JSON-淘汰！新的数据格式性能飙升-272%](http://mp.weixin.qq.com/s/N_7D_fL6sk6TyueEaot1Kg) 
 - [2026-01-20-效率封神！Vue3这4个高性能Hooks库，直接抄作业](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508310&idx=1&sn=6587ce373f534ff2531cf0359b6d515b&chksm=ce45b4c7f9323dd164ae177294e9bebe6d91fc17990a69f83c223aeb1bdfafa77fb708bb5d8c#rd) 
 - [2026-01-16-抛弃-Axios！这个轻量化请求库，前端性能直接起飞](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508158&idx=1&sn=0df31b9eabac1b7bc2c67577558b3160&chksm=ce45b52ff9323c39b8ffa2cc6da92c321b4a75e6a1413511663439fb1d2ad602a1c8bdde2c26#rd) 

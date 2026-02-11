@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-11 22:45:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-12 02:46:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -431,6 +431,7 @@
 - [2018-10-21-基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect) 
 - [2018-10-05-Create-React-App-2.0正式版发布，不再支持-Node-6](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489634&idx=1&sn=602dfc889a099a22d01f02b5b7c6c2dc#wechat_redirect) 
 - [2018-09-23-Electron-3.0正式版发布，新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489563&idx=1&sn=143a32f20520df0a25651099e14e870c#wechat_redirect) 
+- [2026-02-08-JavaScript-之父怒喷-Electron：性能差，太臃肿！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508709&idx=1&sn=575c447d40543fcd9a79c122dcebba76&chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd) 
 - [2026-01-22-😨震惊！NodeJS之父直言：人类编写代码的时代结束了😭](http://mp.weixin.qq.com/s/3mD3r-1z0QPuuGIeJfu44w) 
 - [2025-12-04-Nodejs-运行时被收购！半年营收十亿美元](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506798&idx=1&sn=0348bbb9cf58a9e2dbc2d1fb13336c65&chksm=ce45cefff93247e91eef6a8284a38bf9bdc006cf064d4c65aaaa4f417f5a7a1c86d9799850fe#rd) 
 - [2025-08-25-Vue-团队成员新作：node-modules-可视化神器！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505436&idx=1&sn=59194420ef541688f91dacb8b968ce6d&chksm=ce45c38df9324a9b95691223ca44a6f417acf9d2973598af4edd12bde7c991845860fa0b9c9b#rd) 
