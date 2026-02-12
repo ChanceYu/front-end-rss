@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-12 18:33:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-13 02:44:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -30,10 +30,10 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2026-02-12-An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611) ![](/assets/new.png)  
 - [2026-02-05-Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610)  
 - [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609)  
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)  
@@ -66,7 +67,6 @@
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
-- [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2026-02-12-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ) ![](/assets/new.png)  
 - [2026-02-09-尤雨溪又又又赢麻了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517519&idx=1&sn=2cbaef11db6fc94c98dcb4fd53afbc0a&chksm=eb07bd36dc703420fcf4a43a732fd1b2c98fd2e18381fbe735247459ebe11dad4e57cefd33de#rd)  
 - [2026-02-06-基于-AI-生成高质量-Mock-数据的实践](http://mp.weixin.qq.com/s/ASg4d4P9tneHQRKgodq9BA)  
 - [2026-01-28-前端苦它久已，终于重写，速度-×20](http://mp.weixin.qq.com/s/ezivowcLaUCKYbPEN8PK5g)  
@@ -438,7 +439,6 @@
 - [2025-12-10-VSCode-推出-绿色版！更强！更智能！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517473&idx=1&sn=e74031c2deb0b861f2855ff00e071fb2&chksm=eb07bd58dc70344ee3e61c9bfcd81e3bc7d713991b19f85a860f8a493ba168f1965ae1c59329#rd)  
 - [2025-12-04-Vite-8.0-来了，第一个换芯大版本！](http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ)  
 - [2025-11-28-前端"新玩具"：效率又提升-300%！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517469&idx=1&sn=a0e12cf9dea085371c9e1c6dd5a505b9&chksm=eb07bd64dc703472b754c73c2880138c78aa893478420e7a826546f2fced79eed27713916300#rd)  
-- [2025-11-25-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517467&idx=1&sn=c4b5a22ba9539b206964b695e5e62403&chksm=eb07bd62dc70347413a0ea10c6ebe55816cd808e0b485e9a889b9f723a72601b3b2daf7eae44#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/) ![](/assets/new.png)  
+- [2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/)  
 - [2026-02-06-CSS-text-box属性又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/)  
 - [2026-01-30-告别insertBefore，使用moveBefore移动DOM元素](https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/)  
 - [2026-01-22-Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/)  

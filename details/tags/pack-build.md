@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-12 18:33:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-13 02:44:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -579,6 +579,7 @@
 - [2023-04-03-前端食堂技术周刊第-77-期：三月登陆浏览器的新功能、Nuxt-DevTools、pnpm-v8、重新思考-React-最佳实践](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497824&idx=1&sn=5eda6616fa99854627221694fd72a938&chksm=c2b3399ff5c4b0896a6b19554661467dfeb57671a3e9e64c8f2015c5caa9940d56cfdb74f19e#rd) 
 - [2023-01-28-前端食堂技术周刊第-68-期：Astro-2.0、Nuxt-3.1.0、Bun-0.5、Turborepo-1.7](https://mp.weixin.qq.com/s/BYZU3YHmgIj1LpIGcEIi_g) 
 - [2023-01-17-前端食堂技术周刊第-67-期：-2022-State-of-JS、ESLint-2022、pnpm-2022、大淘宝Web端技术](https://mp.weixin.qq.com/s/yoLG2uKs7kheR9t5NLLUdg) 
+- [2026-02-12-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ) 
 - [2026-01-04-Vite8-官网、Logo-换新！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517501&idx=1&sn=cb25f81cde3bdf560d4dabca6b9cc872&chksm=eb07bd44dc703452a3b052b36dd505cdf29373898ecd4e8491aed5051c275f367fb3b6ae465e#rd) 
 - [2025-12-15-前端工程化实践：打包工具的选择与思考](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517486&idx=1&sn=ef32142b678e11965c7f90e5fd695220&chksm=eb07bd57dc70344176760a0e580545a9de9265ae06549798c659d2c3507696b98e2d5593f3fe#rd) 
 - [2025-12-04-Vite-8.0-来了，第一个换芯大版本！](http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ) 

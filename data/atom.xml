@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-12T10:33:49.960Z</updated>
+    <updated>2026-02-12T18:44:52.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,20 @@
         <title type="html"><![CDATA[JS正则表达式y标识符之粘性匹配]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/"/>
+        <updated>2026-02-12T00:00:00.000Z</updated>
+        <published>2026-02-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚刚，Webpack 官宣 2026 年大动作！]]></title>
+        <id>http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ</id>
+        <link href="http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ"/>
+        <updated>2026-02-12T00:00:00.000Z</updated>
+        <published>2026-02-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An experimental Node environment in the browser]]></title>
+        <id>https://nodeweekly.com/issues/611</id>
+        <link href="https://nodeweekly.com/issues/611"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <published>2026-02-12T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278545&amp;idx=1&amp;sn=1699ce9bb4053eb7788515d43c56953b&amp;chksm=bcb646376c70ee74205a9acb0f23bbb4432754d02097dd65053d75cc6f13985c7857117b8f06&amp;scene=0#rd"/>
         <updated>2026-01-28T00:00:00.000Z</updated>
         <published>2026-01-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vercel 把自己 10 年 React 秘籍做成 Skill 开源了！]]></title>
-        <id>http://mp.weixin.qq.com/s/_jGhBJFLwVaSKtFSUzfl4w</id>
-        <link href="http://mp.weixin.qq.com/s/_jGhBJFLwVaSKtFSUzfl4w"/>
-        <updated>2026-01-27T00:00:00.000Z</updated>
-        <published>2026-01-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code 正式集成 Claude Code 插件，前端开发效率大提升！]]></title>
-        <id>http://mp.weixin.qq.com/s/lHfNw5bpprWEAPQQ9wi6Rw</id>
-        <link href="http://mp.weixin.qq.com/s/lHfNw5bpprWEAPQQ9wi6Rw"/>
-        <updated>2026-01-27T00:00:00.000Z</updated>
-        <published>2026-01-27T00:00:00.000Z</published>
     </entry>
 </feed>
