@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-12T06:48:32.690Z</updated>
+    <updated>2026-02-12T10:33:49.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,20 @@
         <link href="http://www.ruanyifeng.com/blog/2026/02/glm-5.html"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <published>2026-02-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS正则表达式y标识符之粘性匹配]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/"/>
+        <updated>2026-02-12T00:00:00.000Z</updated>
+        <published>2026-02-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinia 超进化！从此不需要 Axios！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508754&amp;idx=1&amp;sn=14e7a5bfc29c7be4eb24f07ea07fe70c&amp;chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508754&amp;idx=1&amp;sn=14e7a5bfc29c7be4eb24f07ea07fe70c&amp;chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd"/>
+        <updated>2026-02-11T00:00:00.000Z</updated>
+        <published>2026-02-11T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[A fast, modern way to browse and compare npm packages]]></title>
@@ -225,6 +239,13 @@
         <published>2026-02-02T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[来，做个测试，达到70分就别辞职]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508625&amp;idx=1&amp;sn=80e61663446b6a93afe3906b35722ac3&amp;chksm=ce45b700f9323e167e87dd7b16e64ed4dc576b5cc232a1a81f56db5a3240658591d8ba8ba728#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508625&amp;idx=1&amp;sn=80e61663446b6a93afe3906b35722ac3&amp;chksm=ce45b700f9323e167e87dd7b16e64ed4dc576b5cc232a1a81f56db5a3240658591d8ba8ba728#rd"/>
+        <updated>2026-02-01T00:00:00.000Z</updated>
+        <published>2026-02-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[stars 高达50w+！Github 爆火的 10 个值得学习的 AI 项目！学到了好多！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508610&amp;idx=1&amp;sn=37f34326e37f4855cf0b606a2cc4f458&amp;chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508610&amp;idx=1&amp;sn=37f34326e37f4855cf0b606a2cc4f458&amp;chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd"/>
@@ -302,6 +323,13 @@
         <published>2026-01-28T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[前端苦它久已，终于重写，速度 ×20]]></title>
+        <id>http://mp.weixin.qq.com/s/ezivowcLaUCKYbPEN8PK5g</id>
+        <link href="http://mp.weixin.qq.com/s/ezivowcLaUCKYbPEN8PK5g"/>
+        <updated>2026-01-28T00:00:00.000Z</updated>
+        <published>2026-01-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[别再像新手一样使用 Tailwind 了！]]></title>
         <id>http://mp.weixin.qq.com/s/ikIFRP19KJZJFu78_eqwrw</id>
         <link href="http://mp.weixin.qq.com/s/ikIFRP19KJZJFu78_eqwrw"/>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/lHfNw5bpprWEAPQQ9wi6Rw"/>
         <updated>2026-01-27T00:00:00.000Z</updated>
         <published>2026-01-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7×24h「全职AI员工」爆火硅谷！]]></title>
-        <id>http://mp.weixin.qq.com/s/pcnWR8C--3YQylA0HNbLZw</id>
-        <link href="http://mp.weixin.qq.com/s/pcnWR8C--3YQylA0HNbLZw"/>
-        <updated>2026-01-27T00:00:00.000Z</updated>
-        <published>2026-01-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3648期】用 200 行 JS 实现“渐进式 JSON”——让网页加载速度快到飞起！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278535&amp;idx=1&amp;sn=74e108dbd7c5d4d957265752690614bf&amp;chksm=bce236708c9513d6e7d56416b2d965290dd64dc7cd63febfc5d478a56957c08386e7b6c64452&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278535&amp;idx=1&amp;sn=74e108dbd7c5d4d957265752690614bf&amp;chksm=bce236708c9513d6e7d56416b2d965290dd64dc7cd63febfc5d478a56957c08386e7b6c64452&amp;scene=0#rd"/>
-        <updated>2026-01-27T00:00:00.000Z</updated>
-        <published>2026-01-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's next for JavaScript frameworks in 2026]]></title>
-        <id>https://javascriptweekly.com/issues/770</id>
-        <link href="https://javascriptweekly.com/issues/770"/>
-        <updated>2026-01-27T00:00:00.000Z</updated>
-        <published>2026-01-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何设计一个AI Agent系统]]></title>
-        <id>http://mp.weixin.qq.com/s/8ArJk0vpGP0o97kEtqscqA</id>
-        <link href="http://mp.weixin.qq.com/s/8ArJk0vpGP0o97kEtqscqA"/>
-        <updated>2026-01-26T00:00:00.000Z</updated>
-        <published>2026-01-26T00:00:00.000Z</published>
     </entry>
 </feed>

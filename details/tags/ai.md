@@ -1,9 +1,9 @@
-:alarm_clock: 更新时间: 2026-02-12 14:48:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-12 18:33:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
 
-> 关键字：`AI`、`LLM`、`GPT`、`大模型`、`人工智能`、`机器学习`、`深度学习`、`神经网络`、`ChatGPT`、`Cursor`、`Claude`、`Copilot`、`Agent`、`Gemini`、`Llama`、`RAG`、`Prompt`、`提示词`、`向量数据库`、`Embedding`、`LangChain`、`LlamaIndex`、`AIGC`、`多模态`、`微调`、`自然语言处理`、`NLP`、`大语言模型`、`智能体`
+> 关键字：`AI`、`LLM`、`GPT`、`GLM`、`大模型`、`人工智能`、`机器学习`、`深度学习`、`神经网络`、`ChatGPT`、`Cursor`、`Claude`、`Copilot`、`Agent`、`Gemini`、`Llama`、`RAG`、`Prompt`、`提示词`、`向量数据库`、`Embedding`、`LangChain`、`LlamaIndex`、`AIGC`、`多模态`、`微调`、`自然语言处理`、`NLP`、`大语言模型`、`智能体`
 
 
 
@@ -515,8 +515,10 @@
 - [2025-09-14-美团上线生活Agent小美，这次真掀桌子了](http://mp.weixin.qq.com/s/FO7ZXmwEQTd4t9cFU7XyTg) 
 - [2025-09-09-再见Claude，国产平替真香](http://mp.weixin.qq.com/s/_KEDZrwqn7gr7GZo9mC5AA) 
 - [2025-08-28-一文看懂“人工智能+”的未来10年](http://mp.weixin.qq.com/s/nKNsRcndD1tzqO22ZFcpmg) 
+- [2025-08-20-AutoGLM-2.0，手机开始替人类上班了](http://mp.weixin.qq.com/s/ZY6g_sPb9nUL3tTwMrF48g) 
 - [2025-08-19-别的AI教你做工具人，她却帮你活得更好](http://mp.weixin.qq.com/s/oHqZNUnpArdL5yRc5LRKKw) 
 - [2025-08-14-一个用AI起号的邪修方法](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503729&idx=1&sn=c536bf27c884ff146309bcbdf4948d50&chksm=c2b30e8ef5c48798663533131be4d2d4afb1b3af6df4ce725f70cb3c1f4feb1bf87aeafe7b4d#rd) 
+- [2025-08-12-GLM-4.5V刚刚开源，智谱要飞上天](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503679&idx=1&sn=34cdb16925ef9bb1473538c5aafaefe7&chksm=c2b30ec0f5c487d6531f58fe26daca8a42cdde4906a9e7108ba9fed83eaf44ba14129b43f7c8#rd) 
 - [2025-08-08-OpenAI-GPT-5来了，但AGI没来](http://mp.weixin.qq.com/s/FmtSWG-qcbPNIjM_Uvt8bw) 
 - [2025-08-07-Claude-4.1-Opus实测，这是程序员真正的神](http://mp.weixin.qq.com/s/TYUnl9I85aV9DyQBVeBzAA) 
 - [2025-08-06-OpenAI开源2款模型，实测有点离谱](http://mp.weixin.qq.com/s/Lrckf5a0WsuVeSRfB7FbeQ) 

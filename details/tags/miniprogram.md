@@ -1,9 +1,9 @@
-:alarm_clock: 更新时间: 2026-02-12 14:48:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-12 18:33:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
 
-> 关键字：`小程序`、`Taro`、`MPVue`、`Wepy`、`Chameleon`
+> 关键字：`小程序`、`Taro`、`Uni-app`、`MPVue`、`Wepy`、`Chameleon`、`Remax`、`Kbone`
 
 
 
@@ -18,6 +18,7 @@
 - [2023-12-03-【第3130期】Taro高性能小程序的最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267773&idx=1&sn=04338bb73efcb48a7a2eca2d23245cef&chksm=bd48fb398a3f722f5fb3341be0895c067351cff54d18e59fb48fd7857aa30810ea74271b8a1f#rd) 
 - [2023-11-12-【第3109期】微盟小程序-UI-自动化截图对比实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267263&idx=1&sn=935678fb37ae62a6aba82fd6c666d52c&chksm=bd48f93b8a3f702d2f900626cd076ed33718630b1b03a5ca675eb0403dc0084157928b1399ec#rd) 
 - [2023-08-10-【第3023期】哈啰Dora：深度解析Taro多业务线小程序协作构建工具与前端协作流](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264559&idx=1&sn=83c7fab008b86418951ec6dd014b7e26&chksm=bd48cfab8a3f46bd43ef8c9971a9b8c53c93ba8cd108020cc3121f10a693ee757c19ee4e45a0#rd) 
+- [2023-07-11-【招聘】uni-app团队招聘应届前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263806&idx=2&sn=3476777ba56a5ce957f5e0631d103527&chksm=bd48caba8a3f43ac576317d750eab4cfecfb35b9611fab138b4fad592d86e69bae5d471e836e#rd) 
 - [2023-04-27-【第2928期】运用小程序Skyline技术构建无缝用户体验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262327&idx=1&sn=9669c1309d2177ac3db538cfd14304b5&chksm=bd48d4f38a3f5de5f946008527bcd44af16e950c48d9a052eaf92a1d0e4473d0f66e0672ac66#rd) 
 - [2023-04-26-【第2927期】携程小程序内嵌webview实践指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262309&idx=1&sn=440f2d9bd8a8165bbb00be1fd4b6e501&chksm=bd48d4e18a3f5df7afb91805fbd52144d5cc21cc0466cede46e7e22b59c36754c441ba59cd0c#rd) 
 - [2022-12-22-【第2819期】京东-React-组件库支持小程序开发](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259930&idx=1&sn=fbcbc45f03cc9b13e2b4348b99393c73&chksm=bd48dd9e8a3f5488d44d863e2454485a922af055b88a133d0a357936980ddccc9e13f28cff3f#rd) 
@@ -54,6 +55,7 @@
 - [2019-10-09-【视频】Dcloud@崔红保：基于weex实现的小程序引擎](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=2&sn=1c093a8cdb479fcdeaade7caf49969ab&chksm=bd4946128a3ecf04a216b717e8ab8d2bb0771d6a206af7b5655203b4b84ac3b31784ef607eb8&scene=27#wechat_redirect) 
 - [2019-09-08-【第1720期】走进小程序·云开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233721&idx=1&sn=0f929caf843c2244aa3d920b39ab4082&chksm=bd49443d8a3ecd2b05849c7813500ad3bf67a8014d4451808a97414b1be459b459547ebbc2ab#rd) 
 - [2019-08-28-Chameleon-支持字节跳动小程序（附实现原理）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=2&sn=9d52914c79f12bb8a60a4b67533b0dc0&chksm=bd4944a28a3ecdb4a3e45d21ceb3515c07c030ca16beccd2c458aa255e6ec04efca48dc4e260#rd) 
+- [2019-08-27-uni-app-2.2发布，大幅优化H5端性能体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=2&sn=aa79bf500addbccec917aa08198cbe80&chksm=bd49449b8a3ecd8da2ffde92bbde47cbef1f7cc8797bc97d0d6c0bea147032b040cf4c46e796#rd) 
 - [2019-08-25-【图书】微信小程序商城开发：界面设计实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=3&sn=356cf156cfe84beca2a7db0e21dd7557&chksm=bd4944968a3ecd80fa6a8efcea45af6e7297c0eb5661bc01fd7ccb50ac5438d0571fc08a5dd1#rd) 
 - [2019-07-23-【第1677期】重构支付宝小程序构建流程有感](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=2&sn=9ad2a52ce17e41e8109c4f78b5445d2a&chksm=bd4942e48a3ecbf2cce32b90781d2cf55b288d4000c306c4df47ed5a4c0691bd6a51da1d86b7#rd) 
 - [2019-07-09-【第1663期】使用-React-Hooks-重构你的小程序](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233006&idx=1&sn=078aea41aec486d3c3cc79e0aa2d7597#rd) 
@@ -129,10 +131,12 @@
 - [2019-09-26-京东：将Flutter扩展到微信小程序端的探索](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=1&sn=e9ad06c38917d03ae1a3eb35631e3e4f&chksm=f952514cce25d85acf4d0c7104a38fcb2ae92bc40a742e8f1452c13ecb12d3cf41e067107666&scene=27#wechat_redirect) 
 - [2019-09-15-前端周报：W3C-首次发布小程序标准化白皮书；Flutter-1.9-正式发布；Chrome-将测试DoH](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492510&idx=1&sn=07578e8bb6e1f98f9e3089f7d57305c2&chksm=f95256ddce25dfcbfe6e38eae0a19af64eb168c446cdbf694682a8cc213f8ba04b780a72af53&scene=27#wechat_redirect) 
 - [2019-09-14-重磅！W3C首次发布小程序标准化白皮书，小程序要实现统一了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=1&sn=92399386a4c338b8d825b4c1012c0d75&chksm=f95256dace25dfcc1e0274ce6035ad007f62be0c0dae2c5547a4ce4763827a5feedf7cc60c66#rd) 
+- [2019-09-13-谜之WXS，uni-app如何用它大幅提升性能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=2&sn=585a50ad1ec2ba083bc370b0767bdd64&chksm=f95256d6ce25dfc092a4c4d1b273c83de7749fa2bc363d73be6acba974e064009eb64dd743a8#rd) 
 - [2019-09-12-从一个团队到一个人，现在的微信小程序，对于开发者来说也许还不够好。](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=3&sn=4146d8cad18d689585d709663061df2a&chksm=f95256c6ce25dfd0fe25394f48031c22cfd7c83983fd7718679d0d34f78029c356fdb74ccaab#rd) 
 - [2019-09-06-美团梁士兴专访：动态化、小程序、Native、AI的趋势解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=2&sn=8dfe10dbfa0b5c095e062a78f85d8ca3&chksm=f9525602ce25df14632c6ea726d5f4d0c48899f8e2fc5c649e65a2d29d81f9dc8d5b7933e8b0#rd) 
 - [2019-08-29-重磅！滴滴跨端框架Chameleon-1.0正式发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=1&sn=2e2a75fa8d709364e4833cc62a2420e7&chksm=f9525792ce25de84eb5ff55f802bdd21e0795b98fc13de5a5ade80741704725e0425ef770f4a&scene=27#wechat_redirect) 
 - [2019-08-21-号外！Chameleon支持字节跳动小程序啦~](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=2&sn=496fb08d97c3566875141971b6a55ef7&chksm=f9525738ce25de2e1202112f045e379ce8ae665f17d13c69c4a07a2bf7038748eacc34a98efe#rd) 
+- [2019-08-16-uni-app-2.2版本发布：体积压缩-43%，脚本运行时间缩短32%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=2&sn=78ce697266ee5103dc0277afdc25bf00&chksm=f9525704ce25de12993047e505a603d23f68e816d1039abf1a79c1b7c31dbc68b4e62f2fc526#rd) 
 - [2019-08-15-小程序云开发即将发布实时数据推送服务，再也不用自己搭建WebSocket了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=2&sn=c7cabe02b33e19252ea7c6a370466538&chksm=f9525702ce25de14033a09bb477ab3ed2ecfc7bc38abee76bff2ab4d0c7fa02df6954b24491c#rd) 
 - [2019-08-14-微信小程序支持webP的WebAssembly方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492152&idx=2&sn=847622150995377f508fa34fa2087608&chksm=f952577bce25de6d67245c26d0df0133c16b1e38f44e6c7abe9a806830cc4f2cf8d003fe4702&scene=27#wechat_redirect) 
 - [2019-07-03-启动耗时降低30%！腾讯在线教育小程序开发实践与优化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491665&idx=1&sn=0647f77f9c4521552e89e0c1b7e5a84a#rd) 
@@ -151,6 +155,10 @@
 - [2018-11-06-Taro-1.1-全面支持微信/百度/支付宝小程序了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489813&idx=1&sn=1d3d42a8e031b23d73ba680761296cd2#wechat_redirect) 
 - [2018-09-25-百度智能小程序月活破亿，今日正式开放申请](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489568&idx=1&sn=ce77b64d7cc6ed0b057c78d7cf55755f#wechat_redirect) 
 - [2018-09-18-多端统一开发框架-Taro-1.0-正式发布，全面支持小程序](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489534&idx=1&sn=45147b46e9e4b2db52d573d2e6b68207#wechat_redirect) 
+- [2026-02-02-uni-app淘汰！Vue3-原生开发最佳方案](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508643&idx=1&sn=138c5397dd9821bc8db743647c939209&chksm=ce45b732f9323e24631aab260c1a7c0326bff6abc6f5ce39e2ed07ff514823c0bdc3cf2e85ac#rd) 
+- [2026-01-24-uni-app-最受欢迎10个插件！涵盖“请求、工具、插件、路由”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508437&idx=1&sn=fe7756a78380f9cfc032d50aba2e5edb&chksm=ce45b444f9323d52219b03b28f5fb6670de8bc8e06eb9b0511a65bab57a0a40da2a2b7c443eb#rd) 
+- [2025-05-15-uni-app-宣布全面升级！正式支持全平台！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504348&idx=1&sn=b1eec4db464c163aa54c77af8aa29566&chksm=ce45c44df9324d5b4c03781374db58c138541ad091f10f619a5d2a57350fad2197b4dd9388a2#rd) 
+- [2025-02-23-用这个脚手架开发-uni-app-项目，体验感太棒了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502820&idx=1&sn=3781144a0202e6fcdfa86af688215664&chksm=ce45de75f93257636522a3697fa62fb2b1cc29adda8017d93ea7c8405cfe06be3578c1107a5a#rd) 
 - [2023-03-23-有意思，小程序还可以一键生成App！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488078&idx=1&sn=b4ce1ad9199c3b6aead25f05407a6bbe&chksm=ce4607dff9318ec992cc9952d5751c2f059e5563a1f0a3d4baf1dd33bb65282c17b35321788f#rd) 
 - [2022-12-19-无代码开发小程序只需要一天就搞定前后端和部署！为啥不学？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487541&idx=1&sn=8680c8e3fbedab348d4649299c6d0e7e&chksm=ce4605a4f9318cb273f7da498824332077b3532f3b2090eefcf13e3b806da5694ad835c26ee4#rd) 
 - [2022-07-25-小程序能在八大平台中运行？太强大了吧~这不是梦！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486589&idx=1&sn=6a7bfe060e3ac282df436b674ae1d69c&chksm=ce4619ecf93190faf7543aa87e30a460ff29edcdfe4a8bcaa500f0897faee6084868b0b72a7c#rd) 
