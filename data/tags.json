@@ -2,127 +2,127 @@
   {
     "tag": "AI",
     "filename": "ai",
-    "keywords": "AI|LLM|GPT|大模型|人工智能|机器学习|深度学习|神经网络|ChatGPT|Cursor|Claude|Copilot|Agent|Gemini|Llama|RAG|Prompt|提示词|向量数据库|Embedding|LangChain|LlamaIndex|AIGC|多模态|微调|自然语言处理|NLP|大语言模型|智能体",
+    "keywords": "AI|LLM|GPT|GLM|大模型|人工智能|机器学习|深度学习|神经网络|ChatGPT|Cursor|Claude|Copilot|Agent|Gemini|Llama|RAG|Prompt|提示词|向量数据库|Embedding|LangChain|LlamaIndex|AIGC|多模态|微调|自然语言处理|NLP|大语言模型|智能体",
     "skill": true
   },
   {
     "tag": "React",
     "filename": "react",
-    "keywords": "React|Rax|Nerv|Redux|useState|useEffect|useCallback|useRef|useMemo|Hooks?|Suspense",
+    "keywords": "React|Rax|Nerv|Redux|useState|useEffect|useCallback|useRef|useMemo|Hooks?|Suspense|zustand|Next.?js|Remix|JSX|Fiber|RSC|useContext|useReducer|useLayoutEffect|useImperativeHandle|useDeferredValue|useTransition|useId|useSyncExternalStore|Recoil|MobX|Jotai|Valtio|SWR",
     "skill": true
   },
   {
     "tag": "Vue",
     "filename": "vue",
-    "keywords": "Vue|ElementUI|Vant",
+    "keywords": "Vue|Vuex|Pinia|Nuxt|ElementUI|Vant",
     "skill": true
   },
   {
     "tag": "TypeScript",
     "filename": "typescript",
-    "keywords": "TypeScript",
+    "keywords": "TypeScript|TS|interface|enum|tsconfig|tsc|泛型|装饰器|类型推断|类型守卫|联合类型|交叉类型|映射类型|条件类型",
     "skill": true
   },
   {
     "tag": "JavaScript",
     "filename": "javascript",
-    "keywords": "JavaScript|ECMAScript|JS|ES6|ES7|ES8|ES9|ES10|Promise|document|await|async|decorator|module|import|catch|typeof|console|setInterval|setTimeout|Worker|Object|fetch|Map|Set|reduce|this|bind|DataTransfer|Array|ArrayBuffer|Component|DOM|H5|HTML5|Proxy|Reflect|组件|正则|数组|事件|深拷贝|数据代理|变量|函数式|声明式|异步|表单|滚动|scroll|防抖|适配|路由|模块化",
+    "keywords": "JavaScript|ECMAScript|JS|ES6|ES7|ES8|ES9|ES10|Promise|document|await|async|decorator|module|import|catch|typeof|console|setInterval|setTimeout|Worker|Object|fetch|DataTransfer|Array|ArrayBuffer|DOM|H5|HTML5|Proxy|Reflect|组件|正则|数组|事件|深拷贝|数据代理|变量|函数式|声明式|异步|表单|滚动|scroll|防抖|适配|路由|模块化|axios",
     "skill": true
   },
   {
     "tag": "NodeJS",
     "filename": "nodejs",
-    "keywords": "Node|Node.?js|Deno|Express|Koa|egg.?js|pandora.?js|Electron|Puppeteer|V8",
+    "keywords": "Node|Node.?js|Deno|Bun|Express|Koa|egg.?js|pandora.?js|Puppeteer|V8|NestJS|Fastify|Hapi|Midway|ThinkJS|Adonis|Strapi|Prisma|TypeORM|Sequelize|Mongoose|PM2|nodemon|CommonJS|ESM|Buffer|Stream|EventEmitter|Cluster|事件循环|非阻塞|异步IO",
     "skill": true
   },
   {
     "tag": "CSS",
     "filename": "css",
-    "keywords": "CSS|Sass|Less|scale|transform|transition|animation|border|background|font-weight|font-face|flex|display|position|iconfont|居中|动画|特效|布局",
+    "keywords": "CSS|Sass|SCSS|Less|Stylus|PostCSS|Tailwind|transform|transition|animation|居中|动画|特效|布局|响应式|媒体查询|伪类|伪元素|选择器|盒模型|BFC|层叠上下文|渐变|阴影|滤镜|混合模式|变量|自定义属性|calc",
     "skill": true
   },
   {
     "tag": "HTML",
     "filename": "html",
-    "keywords": "HTML|标签|meta",
+    "keywords": "HTML|HTML5|标签|meta|语义化|SEO|accessibility|无障碍|ARIA|canvas|video|audio|iframe",
     "skill": true
   },
   {
     "tag": "构建打包",
     "filename": "pack-build",
-    "keywords": "Webpack|Lerna|Rollup|Vite|NPM|NPX|Yarn|Gulp|Grunt|Babel|ESLint|TSLint|Polyfill|Jenkins|构建|monorepo",
+    "keywords": "Webpack|Lerna|Rollup|Vite|esbuild|SWC|Turbopack|Rspack|NPM|NPX|Yarn|pnpm|Gulp|Grunt|Babel|ESLint|Prettier|TSLint|Polyfill|Jenkins|构建|打包|编译|转译|懒加载|预加载|HMR|热更新|monorepo|workspace|lerna|turborepo",
     "skill": true
   },
   {
     "tag": "小程序",
     "filename": "miniprogram",
-    "keywords": "小程序|Taro|MPVue|Wepy|Chameleon",
+    "keywords": "小程序|Taro|Uni-app|MPVue|Wepy|Chameleon|Remax|Kbone",
     "skill": true
   },
   {
     "tag": "手机应用",
     "filename": "dev-mobile",
-    "keywords": "\\b(Flutter|ReactNative|Native|Android|iOS|鸿蒙|手机应用|手机APP)\\b",
+    "keywords": "\\b(Flutter|Dart|ReactNative|Native|Android|Kotlin|Java|iOS|Swift|Objective-C|鸿蒙|HarmonyOS|ArkTS|手机应用|手机APP|移动端|移动开发|SwiftUI|UIKit|Expo|Ionic|Cordova|原生开发|混合开发|跨平台)\\b",
     "skill": true
   },
   {
     "tag": "桌面应用",
     "filename": "dev-desktop",
-    "keywords": "Electron|NW.?js|Tauri",
+    "keywords": "Electron|NW.?js|Tauri|桌面应用|桌面开发|跨平台|Windows|macOS|Linux|CEF|Qt|GTK|WPF|WinUI|AppKit|Cocoa",
     "skill": true
   },
   {
     "tag": "浏览器",
     "filename": "browser",
-    "keywords": "Chrome|Chromium|IE|Firefox|Safari|Webkit|Edge|WebSocket|localStorage|sessionStorage|navigator|GET|POST|CORS|CORB|URL|浏览器|调试|缓存|跨域|请求|安全|状态码|重绘|重排|渲染",
+    "keywords": "Chrome|Chromium|IE|Firefox|Safari|Webkit|Blink|Edge|Opera|浏览器|CORS|CORB|COEP|COOP|CSP|XSS|CSRF|DevTools|跨域|状态码|重绘|重排|回流|PWA",
     "skill": true
   },
   {
     "tag": "游戏开发",
     "filename": "dev-game",
-    "keywords": "游戏|Three.?js|Create.?js|Matter.?js|Cocos|Unity|Unreal|Godot|Laya|Egret|白鹭",
+    "keywords": "游戏|Three.?js|Create.?js|Matter.?js|Phaser|PixiJS|Babylon.?js|PlayCanvas|Cocos|Unity|Unreal|Godot|Laya|LayaBox|Egret|白鹭|WebGL|WebGPU|物理引擎|碰撞检测|粒子系统|骨骼动画",
     "skill": true
   },
   {
     "tag": "图形图像",
     "filename": "canvas-image",
-    "keywords": "Canvas|SVG|WebGL|2D|3D|PNG|WebP|RGB|GUI",
+    "keywords": "Canvas|SVG|WebGL|WebGPU|2D|3D|PNG|JPEG|JPG|GIF|WebP|AVIF|HEIC|RGB|RGBA|HSL|GUI|图形|图像|绘制|渲染|滤镜|变换|矩阵|向量|着色器|Shader|纹理|材质|光照|阴影|抗锯齿|帧缓冲|离屏渲染|图片处理|图片压缩|图片裁剪|水印|ImageData",
     "skill": true
   },
   {
     "tag": "音视频",
     "filename": "audio-video",
-    "keywords": "WebVR|WebRTC|Video|Audio|图像|音频|视频|直播|摄像头|播放器",
+    "keywords": "WebVR|WebXR|WebRTC|Video|Audio|MediaStream|MediaRecorder|音频|视频|直播|点播|推流|拉流|编解码|转码|H264|H265|VP8|VP9|AV1|AAC|MP3|Opus|HLS|DASH|FLV|RTMP|RTSP|FFmpeg|摄像头|麦克风|屏幕共享|播放器|音视频同步|字幕|弹幕|画中画|倍速",
     "skill": true
   },
   {
     "tag": "性能优化",
     "filename": "optimization",
-    "keywords": "性能|优化|加载|SEO|Hints|Prefetch|Prerender|Preload|Lighthouse",
+    "keywords": "性能|优化|加载|速度|体验|SEO|LCP|FID|CLS|FCP|TTI|TBT|TTFB|Hints|Prefetch|Prerender|Preload|Preconnect|Lighthouse|PageSpeed|WebPageTest|性能监控|性能分析|性能指标|首屏|白屏|懒加载|预加载|按需加载|代码分割|压缩|Gzip|Brotli|CDN|缓存|资源优化|图片优化|字体优化|关键渲染路径|渲染优化|重绘|重排|防抖|节流|虚拟列表|长列表|内存泄漏|垃圾回收",
     "skill": true
   },
   {
     "tag": "前端进阶",
     "filename": "front-end-advanced",
-    "keywords": "AST|GPU|WebAssembly|Vim|HTTP|算法|全栈|工程化|可视化|微前端|源码|原理|前端架构|大前端|低代码|编辑器",
+    "keywords": "AST|抽象语法树|GPU|WebAssembly|WASM|Vim|Emacs|HTTP|QUIC|TCP|UDP|IP|DNS|CDN|算法|数据结构|设计模式|架构|全栈|工程化|自动化|可视化|图表|ECharts|D3.?js|AntV|微前端|qiankun|micro-app|single-spa|源码|原理|实现|前端架构|大前端|Serverless|云函数|边缘计算|低代码|无代码|可视化搭建|编辑器|Monaco|CodeMirror|Ace|富文本|Quill|Slate|ProseMirror|TipTap|正则表达式|函数式编程|响应式编程|RxJS|设计系统|组件库|Monorepo|依赖管理|版本管理|发布|部署|CI/CD|测试|单元测试|集成测试|E2E|Jest|Vitest|Mocha|Chai|Cypress|Playwright|调试|性能分析|安全|加密|认证|授权|OAuth|JWT|SSO|RBAC",
     "skill": true
   },
   {
     "tag": "服务端",
     "filename": "server",
-    "keywords": "Nginx|Docker|Server|GraphQL|REST|gRPC|Rust|Java|Python|PHP|Golang|Django|SSR|SSG|MongoDB|JWT|SSH|rsync|Bash|Tmux|命令|数据库",
+    "keywords": "Nginx|Apache|Caddy|Traefik|Docker|Kubernetes|K8s|容器|镜像|编排|Server|服务器|云服务|AWS|Azure|GCP|阿里云|腾讯云|GraphQL|Apollo|REST|RESTful|API|gRPC|Protobuf|Thrift|消息队列|Kafka|RabbitMQ|Redis|Memcached|Rust|Java|Spring|Python|PHP|Laravel|Golang|Gin|Beego|Django|Flask|FastAPI|SSR|SSG|ISR|CSR|同构|渲染|MySQL|PostgreSQL|MongoDB|SQLite|ORM|SQL|NoSQL|数据库|索引|事务|锁|JWT|Session|Cookie|认证|授权|SSH|rsync|Bash|Shell|Zsh|Tmux|Screen|命令|脚本|Linux|Unix|CentOS|Ubuntu|Debian|运维|部署|监控|日志|备份|负载均衡|反向代理|正向代理|网关|微服务|分布式|集群|高可用|容灾|熔断",
     "skill": true
   },
   {
     "tag": "版本控制",
     "filename": "git-svn",
-    "keywords": "Git|SVN",
+    "keywords": "Git|Bitbucket|SVN|版本控制|版本管理|分支|合并|冲突|代码审查|Submodule|Subtree|Husky|commitlint|语义化版本|SemVer|changelog",
     "skill": true
   },
   {
     "tag": "招聘面试",
     "filename": "job-interview",
-    "keywords": "招聘|招人|面试|笔试|内推|Offer"
+    "keywords": "招聘|招人|岗位|JD|面试|笔试|内推|Offer|薪资|薪酬|待遇|福利|五险一金|年终奖|股票|期权|RSU|试用期|转正|离职|跳槽|求职|简历|CV|Resume|算法题|编程题|手写代码|一面|二面|三面|复试|终面|入职|Onboarding"
   },
   {
     "tag": "其它",
