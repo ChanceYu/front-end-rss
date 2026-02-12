@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-12 02:46:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-12 14:48:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -721,6 +721,7 @@
 - [2022-09-27-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/) 
 - [2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/) 
 - [2018-11-26-CSS届的绘图板CSS-Paint-API简介](https://www.zhangxinxu.com/wordpress/2018/11/css-paint-api-canvas/) 
+- [2026-02-12-智谱旗舰-GLM-5-实测：对比-Opus-4.6-和-GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html) 
 - [2026-01-30-科技爱好者周刊（第-383-期）：你是第几级-AI-编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html) 
 - [2026-01-22-AI-native-Workspace-也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html) 
 - [2026-01-16-科技爱好者周刊（第-381-期）：中国-AI-大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html) 

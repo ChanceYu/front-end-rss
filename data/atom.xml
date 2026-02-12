@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-11T18:46:26.385Z</updated>
+    <updated>2026-02-12T06:48:32.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/02/glm-5.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/02/glm-5.html"/>
+        <updated>2026-02-12T00:00:00.000Z</updated>
+        <published>2026-02-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A fast, modern way to browse and compare npm packages]]></title>
         <id>https://javascriptweekly.com/issues/772</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[如何设计一个AI Agent系统]]></title>
         <id>http://mp.weixin.qq.com/s/8ArJk0vpGP0o97kEtqscqA</id>
         <link href="http://mp.weixin.qq.com/s/8ArJk0vpGP0o97kEtqscqA"/>
-        <updated>2026-01-26T00:00:00.000Z</updated>
-        <published>2026-01-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端指纹技术是如何实现的？（Canvas、Audio、硬件API 核心原理解密）]]></title>
-        <id>http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA</id>
-        <link href="http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA"/>
         <updated>2026-01-26T00:00:00.000Z</updated>
         <published>2026-01-26T00:00:00.000Z</published>
     </entry>
