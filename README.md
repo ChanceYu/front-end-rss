@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-13 02:44:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-13 06:21:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -30,11 +30,11 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2026-02-12-An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611) ![](/assets/new.png)  
+- [2026-02-12-An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611)  
 - [2026-02-05-Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610)  
 - [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609)  
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)  
@@ -419,7 +419,7 @@
 </summary>
 
 
-- [2026-02-12-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ) ![](/assets/new.png)  
+- [2026-02-12-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ)  
 - [2026-02-09-尤雨溪又又又赢麻了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517519&idx=1&sn=2cbaef11db6fc94c98dcb4fd53afbc0a&chksm=eb07bd36dc703420fcf4a43a732fd1b2c98fd2e18381fbe735247459ebe11dad4e57cefd33de#rd)  
 - [2026-02-06-基于-AI-生成高质量-Mock-数据的实践](http://mp.weixin.qq.com/s/ASg4d4P9tneHQRKgodq9BA)  
 - [2026-01-28-前端苦它久已，终于重写，速度-×20](http://mp.weixin.qq.com/s/ezivowcLaUCKYbPEN8PK5g)  
@@ -543,6 +543,7 @@
 </summary>
 
 
+- [2026-02-13-科技爱好者周刊（第-385-期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html) ![](/assets/new.png)  
 - [2026-02-12-智谱旗舰-GLM-5-实测：对比-Opus-4.6-和-GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)  
 - [2026-02-06-科技爱好者周刊（第-384-期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)  
 - [2026-01-30-科技爱好者周刊（第-383-期）：你是第几级-AI-编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html)  
@@ -562,7 +563,6 @@
 - [2024-11-08-科技爱好者周刊（第-324-期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html)  
 - [2024-11-01-科技爱好者周刊（第-323-期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)  
 - [2024-10-31-AI-开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)  
-- [2024-10-25-科技爱好者周刊（第-322-期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
