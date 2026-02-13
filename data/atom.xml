@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-12T22:21:03.701Z</updated>
+    <updated>2026-02-13T10:29:34.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -60,6 +60,13 @@
         <title type="html"><![CDATA[设计模式Trustworthy Generation：提升RAG信赖度]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542871&amp;idx=1&amp;sn=30f0fa05c0a2129017f6f3f19812a491&amp;chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542871&amp;idx=1&amp;sn=30f0fa05c0a2129017f6f3f19812a491&amp;chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd"/>
+        <updated>2026-02-09T00:00:00.000Z</updated>
+        <published>2026-02-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 200 行 JS 实现“渐进式 JSON”——让网页加载速度快到飞起！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529182&amp;idx=1&amp;sn=8a63421a91f196fdec83720fcca91152&amp;chksm=f992740fcee5fd192da7e35bdc2635156ab7ba04fa894cac800b1d49823db248d6bada4514c7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529182&amp;idx=1&amp;sn=8a63421a91f196fdec83720fcca91152&amp;chksm=f992740fcee5fd192da7e35bdc2635156ab7ba04fa894cac800b1d49823db248d6bada4514c7#rd"/>
         <updated>2026-02-09T00:00:00.000Z</updated>
         <published>2026-02-09T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vueuse Skills 发布！首个拥抱AI的Hooks神库！]]></title>
         <id>http://mp.weixin.qq.com/s/RzDdlwScif1qyEgfZV5Okg</id>
         <link href="http://mp.weixin.qq.com/s/RzDdlwScif1qyEgfZV5Okg"/>
-        <updated>2026-01-28T00:00:00.000Z</updated>
-        <published>2026-01-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3649期】把 AI 当同事用：Rules、Commands、Skills 的清晰分工]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278545&amp;idx=1&amp;sn=1699ce9bb4053eb7788515d43c56953b&amp;chksm=bcb646376c70ee74205a9acb0f23bbb4432754d02097dd65053d75cc6f13985c7857117b8f06&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278545&amp;idx=1&amp;sn=1699ce9bb4053eb7788515d43c56953b&amp;chksm=bcb646376c70ee74205a9acb0f23bbb4432754d02097dd65053d75cc6f13985c7857117b8f06&amp;scene=0#rd"/>
         <updated>2026-01-28T00:00:00.000Z</updated>
         <published>2026-01-28T00:00:00.000Z</published>
     </entry>
