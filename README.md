@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-13 18:29:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-15 00:16:39，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,16 +25,16 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -264,7 +264,7 @@
 </summary>
 
 
-- [2026-02-09-用-200-行-JS-实现“渐进式-JSON”——让网页加载速度快到飞起！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529182&idx=1&sn=8a63421a91f196fdec83720fcca91152&chksm=f992740fcee5fd192da7e35bdc2635156ab7ba04fa894cac800b1d49823db248d6bada4514c7#rd) ![](/assets/new.png)  
+- [2026-02-09-用-200-行-JS-实现“渐进式-JSON”——让网页加载速度快到飞起！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529182&idx=1&sn=8a63421a91f196fdec83720fcca91152&chksm=f992740fcee5fd192da7e35bdc2635156ab7ba04fa894cac800b1d49823db248d6bada4514c7#rd)  
 - [2026-02-07-猎头密件：2026年缺口最大的AI岗位竟是它？](http://mp.weixin.qq.com/s/oBdI2LbYZRPSOdJ86wz23w)  
 - [2026-02-06-把-AI-当同事用：Rules、Commands、Skills-的清晰分工](http://mp.weixin.qq.com/s/mjPaoFfYPaPuHTD5lRvH9g)  
 - [2026-02-05-从-.env-到动态配置：前端工程的一次升级](http://mp.weixin.qq.com/s/1dcSEvbUbKEpXo24UQCx2w)  
@@ -420,6 +420,7 @@
 
 
 - [2026-02-12-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ)  
+- [2026-02-11-VSCode-插件榜-Top10-出炉！装上无敌！](http://mp.weixin.qq.com/s/ne-gDqnvsXatIZvNd8_vAg) ![](/assets/new.png)  
 - [2026-02-09-尤雨溪又又又赢麻了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517519&idx=1&sn=2cbaef11db6fc94c98dcb4fd53afbc0a&chksm=eb07bd36dc703420fcf4a43a732fd1b2c98fd2e18381fbe735247459ebe11dad4e57cefd33de#rd)  
 - [2026-02-06-基于-AI-生成高质量-Mock-数据的实践](http://mp.weixin.qq.com/s/ASg4d4P9tneHQRKgodq9BA)  
 - [2026-01-28-前端苦它久已，终于重写，速度-×20](http://mp.weixin.qq.com/s/ezivowcLaUCKYbPEN8PK5g)  
@@ -438,7 +439,6 @@
 - [2025-12-12-所有前端程序员的春天真的来了！！！](http://mp.weixin.qq.com/s/Dmivu7kSVxpvnvtg49M7_A)  
 - [2025-12-10-VSCode-推出-绿色版！更强！更智能！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517473&idx=1&sn=e74031c2deb0b861f2855ff00e071fb2&chksm=eb07bd58dc70344ee3e61c9bfcd81e3bc7d713991b19f85a860f8a493ba168f1965ae1c59329#rd)  
 - [2025-12-04-Vite-8.0-来了，第一个换芯大版本！](http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ)  
-- [2025-11-28-前端"新玩具"：效率又提升-300%！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517469&idx=1&sn=a0e12cf9dea085371c9e1c6dd5a505b9&chksm=eb07bd64dc703472b754c73c2880138c78aa893478420e7a826546f2fced79eed27713916300#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -543,6 +543,7 @@
 </summary>
 
 
+- [2026-02-14-字节全家桶-Seed-2.0-+-TRAE-玩转-Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html) ![](/assets/new.png)  
 - [2026-02-13-科技爱好者周刊（第-385-期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)  
 - [2026-02-12-智谱旗舰-GLM-5-实测：对比-Opus-4.6-和-GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)  
 - [2026-02-06-科技爱好者周刊（第-384-期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)  
@@ -562,7 +563,6 @@
 - [2024-11-15-科技爱好者周刊（第-325-期）：VS-Code-编辑器的下一站是-Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)  
 - [2024-11-08-科技爱好者周刊（第-324-期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html)  
 - [2024-11-01-科技爱好者周刊（第-323-期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)  
-- [2024-10-31-AI-开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
