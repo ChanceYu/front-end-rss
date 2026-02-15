@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-15 00:16:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-15 09:08:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 桌面应用
 
@@ -110,6 +110,7 @@
 - [2018-10-21-基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect) 
 - [2018-10-17-Chrome-70正式版发布：Windows端将支持PWA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect) 
 - [2018-09-23-Electron-3.0正式版发布，新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489563&idx=1&sn=143a32f20520df0a25651099e14e870c#wechat_redirect) 
+- [2026-02-12-同样用-Electron-重构，为什么-VSCode-性能那么好？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508757&idx=1&sn=ec44f7b7155eeb6fd2f69891aee26259&chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd) 
 - [2026-02-08-JavaScript-之父怒喷-Electron：性能差，太臃肿！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508709&idx=1&sn=575c447d40543fcd9a79c122dcebba76&chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd) 
 - [2025-09-16-再也不用背命令！Cursor-终端-Cmd+K-=-你的专属-Linux-&amp;-Git-智能助手](http://mp.weixin.qq.com/s/k1A7W0QwfqGZMFgfU50e_Q) 
 - [2025-04-25-Tauri-vs.-Electron：性能、体积与真实权衡](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526089&idx=1&sn=5724d9630ea2caf402b25eb5c2d75c96&chksm=f9926018cee5e90ec675bb678c336924aa66da467bb92a9f59fd873fb922874440ece515f990#rd) 

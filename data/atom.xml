@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-14T16:16:39.593Z</updated>
+    <updated>2026-02-15T01:08:10.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Typescript 最强打包工具，正式发布 AI 版本！更快更顺滑！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508849&amp;idx=1&amp;sn=cfb6c860e9f706a93b1d9aa59659026e&amp;chksm=ce45b6e0f9323ff68618e623b5872c1a2c62313ffb4dbf24a4561c4a861b7596dd017fea19d8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508849&amp;idx=1&amp;sn=cfb6c860e9f706a93b1d9aa59659026e&amp;chksm=ce45b6e0f9323ff68618e623b5872c1a2c62313ffb4dbf24a4561c4a861b7596dd017fea19d8#rd"/>
+        <updated>2026-02-14T00:00:00.000Z</updated>
+        <published>2026-02-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[炸了！Axios 出现重大漏洞！会导致 Nodejs 崩掉！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508819&amp;idx=1&amp;sn=94df02860992f8dd3f3e29fe2b23aed3&amp;chksm=ce45b6c2f9323fd42c46ae9d2b26a6f3f493a3e233b6e4ff67906e668bbf952b0d2c697640d5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508819&amp;idx=1&amp;sn=94df02860992f8dd3f3e29fe2b23aed3&amp;chksm=ce45b6c2f9323fd42c46ae9d2b26a6f3f493a3e233b6e4ff67906e668bbf952b0d2c697640d5#rd"/>
+        <updated>2026-02-13T00:00:00.000Z</updated>
+        <published>2026-02-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/02/glm-5.html</id>
@@ -32,6 +46,13 @@
         <title type="html"><![CDATA[刚刚，Webpack 官宣 2026 年大动作！]]></title>
         <id>http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ</id>
         <link href="http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ"/>
+        <updated>2026-02-12T00:00:00.000Z</updated>
+        <published>2026-02-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[同样用 Electron 重构，为什么 VSCode 性能那么好？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508757&amp;idx=1&amp;sn=ec44f7b7155eeb6fd2f69891aee26259&amp;chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508757&amp;idx=1&amp;sn=ec44f7b7155eeb6fd2f69891aee26259&amp;chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <published>2026-02-12T00:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[Agentic Coding场景下基于职责分离的上下文管理思路分享]]></title>
         <id>http://mp.weixin.qq.com/s/sLTlZZnAratkUTAJiG2uMg</id>
         <link href="http://mp.weixin.qq.com/s/sLTlZZnAratkUTAJiG2uMg"/>
-        <updated>2026-01-28T00:00:00.000Z</updated>
-        <published>2026-01-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端苦它久已，终于重写，速度 ×20]]></title>
-        <id>http://mp.weixin.qq.com/s/ezivowcLaUCKYbPEN8PK5g</id>
-        <link href="http://mp.weixin.qq.com/s/ezivowcLaUCKYbPEN8PK5g"/>
-        <updated>2026-01-28T00:00:00.000Z</updated>
-        <published>2026-01-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再像新手一样使用 Tailwind 了！]]></title>
-        <id>http://mp.weixin.qq.com/s/ikIFRP19KJZJFu78_eqwrw</id>
-        <link href="http://mp.weixin.qq.com/s/ikIFRP19KJZJFu78_eqwrw"/>
-        <updated>2026-01-28T00:00:00.000Z</updated>
-        <published>2026-01-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vueuse Skills 发布！首个拥抱AI的Hooks神库！]]></title>
-        <id>http://mp.weixin.qq.com/s/RzDdlwScif1qyEgfZV5Okg</id>
-        <link href="http://mp.weixin.qq.com/s/RzDdlwScif1qyEgfZV5Okg"/>
         <updated>2026-01-28T00:00:00.000Z</updated>
         <published>2026-01-28T00:00:00.000Z</published>
     </entry>

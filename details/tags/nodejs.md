@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-15 00:16:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-15 09:08:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -449,6 +449,7 @@
 - [2018-10-24-Node.js-11-发布，Node-10正式进入LTS](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489741&idx=1&sn=66fef72ecf1233bdc48ad44345183b4d#wechat_redirect) 
 - [2018-10-22-如何创建高性能、可扩展的Node.js应用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489726&idx=1&sn=01f914f1f9daba3a9bc116ac7d06dd50#wechat_redirect) 
 - [2018-10-05-Create-React-App-2.0正式版发布，不再支持-Node-6](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489634&idx=1&sn=602dfc889a099a22d01f02b5b7c6c2dc#wechat_redirect) 
+- [2026-02-13-炸了！Axios-出现重大漏洞！会导致-Nodejs-崩掉！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508819&idx=1&sn=94df02860992f8dd3f3e29fe2b23aed3&chksm=ce45b6c2f9323fd42c46ae9d2b26a6f3f493a3e233b6e4ff67906e668bbf952b0d2c697640d5#rd) 
 - [2026-01-22-😨震惊！NodeJS之父直言：人类编写代码的时代结束了😭](http://mp.weixin.qq.com/s/3mD3r-1z0QPuuGIeJfu44w) 
 - [2025-12-04-Nodejs-运行时被收购！半年营收十亿美元](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247506798&idx=1&sn=0348bbb9cf58a9e2dbc2d1fb13336c65&chksm=ce45cefff93247e91eef6a8284a38bf9bdc006cf064d4c65aaaa4f417f5a7a1c86d9799850fe#rd) 
 - [2025-11-25-Prisma：用Typescript-重构项目，性能提升3倍](http://mp.weixin.qq.com/s/qWiE7g3vQqJ70b5DjkaXmg) 

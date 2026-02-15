@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-15 00:16:39，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-15 09:08:10，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,18 +23,18 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -202,26 +202,26 @@
 </summary>
 
 
+- [2026-02-14-Typescript-最强打包工具，正式发布-AI-版本！更快更顺滑！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508849&idx=1&sn=cfb6c860e9f706a93b1d9aa59659026e&chksm=ce45b6e0f9323ff68618e623b5872c1a2c62313ffb4dbf24a4561c4a861b7596dd017fea19d8#rd) ![](/assets/new.png)  
+- [2026-02-13-炸了！Axios-出现重大漏洞！会导致-Nodejs-崩掉！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508819&idx=1&sn=94df02860992f8dd3f3e29fe2b23aed3&chksm=ce45b6c2f9323fd42c46ae9d2b26a6f3f493a3e233b6e4ff67906e668bbf952b0d2c697640d5#rd) ![](/assets/new.png)  
+- [2026-02-12-同样用-Electron-重构，为什么-VSCode-性能那么好？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508757&idx=1&sn=ec44f7b7155eeb6fd2f69891aee26259&chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd) ![](/assets/new.png)  
 - [2026-02-11-Pinia-超进化！从此不需要-Axios！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508754&idx=1&sn=14e7a5bfc29c7be4eb24f07ea07fe70c&chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd)  
-- [2026-02-10-心寒！公司年会抽奖程序设置：外包一定不能中奖，概率为0](http://mp.weixin.qq.com/s/ecUqYe_GCOLKwAEA7Vapvg)  
-- [2026-02-10-新招的外包，每天先带薪如厕-30-分钟，早会后各种摸鱼晃到-11:20-就去干饭。经理提醒多熟悉业务，他回怼“这咋了？活干完就行了”](http://mp.weixin.qq.com/s/xOcF_LTVOPcSZLKfgei7LA)  
 - [2026-02-10-你发现了吗？前端这五个技术快“死”了](http://mp.weixin.qq.com/s/_0Vu_MUOB-fpcnem9-ndeA)  
-- [2026-02-09-中国最难入职的IT公司](http://mp.weixin.qq.com/s/6VCCjprUCRqn91IrEoAiaQ)  
-- [2026-02-09-拼多多实行双休！引起员工强烈反对！啊？双休了还不开心了？](http://mp.weixin.qq.com/s/nax0aDhMJm7vUziOqaDmSA)  
+- [2026-02-10-新招的外包，每天先带薪如厕-30-分钟，早会后各种摸鱼晃到-11:20-就去干饭。经理提醒多熟悉业务，他回怼“这咋了？活干完就行了”](http://mp.weixin.qq.com/s/xOcF_LTVOPcSZLKfgei7LA)  
+- [2026-02-10-心寒！公司年会抽奖程序设置：外包一定不能中奖，概率为0](http://mp.weixin.qq.com/s/ecUqYe_GCOLKwAEA7Vapvg)  
 - [2026-02-09-无可救药？美团、字节接连放弃-JavaScript！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508715&idx=1&sn=a0256be1aef862475db9823e3a89fb7f&chksm=ce45b77af9323e6ccd12acbe133ea2b90ce29e0b75720f64ec8a10844dbe033fc81d06fc7263#rd)  
+- [2026-02-09-拼多多实行双休！引起员工强烈反对！啊？双休了还不开心了？](http://mp.weixin.qq.com/s/nax0aDhMJm7vUziOqaDmSA)  
+- [2026-02-09-中国最难入职的IT公司](http://mp.weixin.qq.com/s/6VCCjprUCRqn91IrEoAiaQ)  
 - [2026-02-08-JavaScript-之父怒喷-Electron：性能差，太臃肿！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508709&idx=1&sn=575c447d40543fcd9a79c122dcebba76&chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd)  
 - [2026-02-06-JSON-淘汰！新的数据格式性能飙升-272%](http://mp.weixin.qq.com/s/N_7D_fL6sk6TyueEaot1Kg)  
 - [2026-02-05-只需几行代码！Vue和React终于可以一起使用了！](http://mp.weixin.qq.com/s/Mp_WQBo6PUjrwuBxZkXbOg)  
-- [2026-02-04-v-model-淘汰！-Vue3-新玩法代码量减少-60%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508687&idx=1&sn=1bc02b0bb9179310c90507c7544b4ea0&chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd)  
 - [2026-02-04-突发！微信把元宝“封了”，屏蔽了红包链接，官方紧急回应](http://mp.weixin.qq.com/s/exfKVLklTdoTNtEGslrxmg)  
-- [2026-02-03-全栈神器！前端可以在CSS里写SQL语句啦！以后不需要后端了？](http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A)  
-- [2026-02-03-猝死程序员妻子：他-10-年只休过-1-次年假。公司回应：5-年休年假-26-天。网友：休而不息是常态](http://mp.weixin.qq.com/s/AfKZDAXrhLoBzITJWDGWtQ)  
+- [2026-02-04-v-model-淘汰！-Vue3-新玩法代码量减少-60%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508687&idx=1&sn=1bc02b0bb9179310c90507c7544b4ea0&chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd)  
 - [2026-02-03-2026财务自由对照表，躺平需要多少钱](http://mp.weixin.qq.com/s/FAZcfMqP6xK3sYWp0E0UqQ)  
+- [2026-02-03-猝死程序员妻子：他-10-年只休过-1-次年假。公司回应：5-年休年假-26-天。网友：休而不息是常态](http://mp.weixin.qq.com/s/AfKZDAXrhLoBzITJWDGWtQ)  
+- [2026-02-03-全栈神器！前端可以在CSS里写SQL语句啦！以后不需要后端了？](http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A)  
 - [2026-02-02-uni-app淘汰！Vue3-原生开发最佳方案](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508643&idx=1&sn=138c5397dd9821bc8db743647c939209&chksm=ce45b732f9323e24631aab260c1a7c0326bff6abc6f5ce39e2ed07ff514823c0bdc3cf2e85ac#rd)  
 - [2026-02-01-来，做个测试，达到70分就别辞职](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508625&idx=1&sn=80e61663446b6a93afe3906b35722ac3&chksm=ce45b700f9323e167e87dd7b16e64ed4dc576b5cc232a1a81f56db5a3240658591d8ba8ba728#rd)  
-- [2026-01-31-stars-高达50w+！Github-爆火的-10-个值得学习的-AI-项目！学到了好多！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508610&idx=1&sn=37f34326e37f4855cf0b606a2cc4f458&chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd)  
-- [2026-01-30-出圈了？JS的try...catch新写法，被质疑抄袭Go语言！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508595&idx=1&sn=411032c33ea7ad74c5cbf9be85b6d7d4&chksm=ce45b7e2f9323ef4692897ea57b48ae7461f4ed7e8b7649e7ecebc62037e494f2dfa9982fa49#rd)  
-- [2026-01-29-Apifox-和-Postman-开源平替！新API工具内置-AI-agent-，调试效率飙升！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508583&idx=2&sn=d2a73ee7eb526fc5bb56ac628d9e6e12&chksm=ce45b7f6f9323ee0273053b0634e6740b88645e786d690c006d283f6b075adc8475654ee0566#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -420,7 +420,7 @@
 
 
 - [2026-02-12-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ)  
-- [2026-02-11-VSCode-插件榜-Top10-出炉！装上无敌！](http://mp.weixin.qq.com/s/ne-gDqnvsXatIZvNd8_vAg) ![](/assets/new.png)  
+- [2026-02-11-VSCode-插件榜-Top10-出炉！装上无敌！](http://mp.weixin.qq.com/s/ne-gDqnvsXatIZvNd8_vAg)  
 - [2026-02-09-尤雨溪又又又赢麻了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517519&idx=1&sn=2cbaef11db6fc94c98dcb4fd53afbc0a&chksm=eb07bd36dc703420fcf4a43a732fd1b2c98fd2e18381fbe735247459ebe11dad4e57cefd33de#rd)  
 - [2026-02-06-基于-AI-生成高质量-Mock-数据的实践](http://mp.weixin.qq.com/s/ASg4d4P9tneHQRKgodq9BA)  
 - [2026-01-28-前端苦它久已，终于重写，速度-×20](http://mp.weixin.qq.com/s/ezivowcLaUCKYbPEN8PK5g)  
@@ -543,7 +543,7 @@
 </summary>
 
 
-- [2026-02-14-字节全家桶-Seed-2.0-+-TRAE-玩转-Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html) ![](/assets/new.png)  
+- [2026-02-14-字节全家桶-Seed-2.0-+-TRAE-玩转-Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)  
 - [2026-02-13-科技爱好者周刊（第-385-期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)  
 - [2026-02-12-智谱旗舰-GLM-5-实测：对比-Opus-4.6-和-GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)  
 - [2026-02-06-科技爱好者周刊（第-384-期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-15 00:16:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-15 09:08:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -398,6 +398,7 @@
 - [2018-10-21-基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect) 
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
+- [2026-02-14-Typescript-最强打包工具，正式发布-AI-版本！更快更顺滑！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508849&idx=1&sn=cfb6c860e9f706a93b1d9aa59659026e&chksm=ce45b6e0f9323ff68618e623b5872c1a2c62313ffb4dbf24a4561c4a861b7596dd017fea19d8#rd) 
 - [2025-12-15-尤雨溪亲自重构！Vite-速度提升-30-倍](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507016&idx=1&sn=56fe78f43e7819ed6ffea3d5df4b002c&chksm=ce45c9d9f93240cf593dd4f8dfb17d488a5b17fac7b7a5abdc4639a9ff2bdd8b5d2f84b62937#rd) 
 - [2025-10-28-尤雨溪：未来-Vite-将会收费](http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw) 
 - [2025-10-11-tsconfig-中配置了别名，为啥要在vite再配置一次？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505727&idx=1&sn=3d9eafc7aa3805d6147f8b5e8ad4915f&chksm=ce45c2aef9324bb89304231ca1c762b73c251b99b492b8f5846a29b9ae67f2c9ccada10bf2b2#rd) 

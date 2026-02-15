@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-15 00:16:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-15 09:08:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1584,6 +1584,7 @@
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2026-02-13-炸了！Axios-出现重大漏洞！会导致-Nodejs-崩掉！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508819&idx=1&sn=94df02860992f8dd3f3e29fe2b23aed3&chksm=ce45b6c2f9323fd42c46ae9d2b26a6f3f493a3e233b6e4ff67906e668bbf952b0d2c697640d5#rd) 
 - [2026-02-11-Pinia-超进化！从此不需要-Axios！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508754&idx=1&sn=14e7a5bfc29c7be4eb24f07ea07fe70c&chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd) 
 - [2026-02-09-无可救药？美团、字节接连放弃-JavaScript！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508715&idx=1&sn=a0256be1aef862475db9823e3a89fb7f&chksm=ce45b77af9323e6ccd12acbe133ea2b90ce29e0b75720f64ec8a10844dbe033fc81d06fc7263#rd) 
 - [2026-02-08-JavaScript-之父怒喷-Electron：性能差，太臃肿！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508709&idx=1&sn=575c447d40543fcd9a79c122dcebba76&chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd) 

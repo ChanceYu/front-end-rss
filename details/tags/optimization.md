@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-15 00:16:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-15 09:08:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -574,6 +574,7 @@
 - [2018-10-15-Vue-CLI-2&amp;3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect) 
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-27-首屏时间从12.67s到1.06s，我是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489586&idx=1&sn=2168d42df837521da50b3ed7f8932698#wechat_redirect) 
+- [2026-02-12-同样用-Electron-重构，为什么-VSCode-性能那么好？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508757&idx=1&sn=ec44f7b7155eeb6fd2f69891aee26259&chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd) 
 - [2026-02-08-JavaScript-之父怒喷-Electron：性能差，太臃肿！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508709&idx=1&sn=575c447d40543fcd9a79c122dcebba76&chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd) 
 - [2026-02-06-JSON-淘汰！新的数据格式性能飙升-272%](http://mp.weixin.qq.com/s/N_7D_fL6sk6TyueEaot1Kg) 
 - [2026-01-20-效率封神！Vue3这4个高性能Hooks库，直接抄作业](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508310&idx=1&sn=6587ce373f534ff2531cf0359b6d515b&chksm=ce45b4c7f9323dd164ae177294e9bebe6d91fc17990a69f83c223aeb1bdfafa77fb708bb5d8c#rd) 
