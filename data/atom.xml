@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-15T01:08:10.823Z</updated>
+    <updated>2026-02-17T16:43:52.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Electrobun v1: Bun-powered desktop apps in 12MB bundles]]></title>
+        <id>https://javascriptweekly.com/issues/773</id>
+        <link href="https://javascriptweekly.com/issues/773"/>
+        <updated>2026-02-17T00:00:00.000Z</updated>
+        <published>2026-02-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Typescript 最强打包工具，正式发布 AI 版本！更快更顺滑！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508849&amp;idx=1&amp;sn=cfb6c860e9f706a93b1d9aa59659026e&amp;chksm=ce45b6e0f9323ff68618e623b5872c1a2c62313ffb4dbf24a4561c4a861b7596dd017fea19d8#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/609"/>
         <updated>2026-01-29T00:00:00.000Z</updated>
         <published>2026-01-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic Coding场景下基于职责分离的上下文管理思路分享]]></title>
-        <id>http://mp.weixin.qq.com/s/sLTlZZnAratkUTAJiG2uMg</id>
-        <link href="http://mp.weixin.qq.com/s/sLTlZZnAratkUTAJiG2uMg"/>
-        <updated>2026-01-28T00:00:00.000Z</updated>
-        <published>2026-01-28T00:00:00.000Z</published>
     </entry>
 </feed>
