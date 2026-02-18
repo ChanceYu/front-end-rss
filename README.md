@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-18 00:43:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-18 14:47:34，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773) ![](/assets/new.png)  
+- [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773)  
 - [2026-02-10-A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772)  
 - [2026-02-03-Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)  
 - [2026-01-27-What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770)  
@@ -202,26 +202,26 @@
 </summary>
 
 
+- [2026-02-18-过年家庭局，程序员被问收入，他说年薪-45w，结果遭表哥怼“程序员嘛，年薪至少-50w，还有-35-岁限制，只有这几年能赚钱！”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508913&idx=1&sn=0316709f91db200b9aa69132c4b383f1&chksm=ce45b620f9323f36b616946f9193e859e79ff37cd1267d75af39ce777c0e23f6571a10c98abd#rd) ![](/assets/new.png)  
+- [2026-02-17-前端五年，月薪不到-1w，回家过年丢不丢脸？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508905&idx=1&sn=2920de2125d09997bd6aba54a062dbb2&chksm=ce45b638f9323f2e6e3a46274cf93e4c055b92028f6095387385eaf8414a24694bc7545022ee#rd) ![](/assets/new.png)  
+- [2026-02-16-我是前端，过年亲戚问我是做什么工作的，我应该怎么回答？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508900&idx=1&sn=b25f0d578c0e50088da71fd704920f24&chksm=ce45b635f9323f233d1a75163f8d8c3d59e5034df47b98ad1bb5b68f9e955a86f2320ad8a44f#rd) ![](/assets/new.png)  
+- [2026-02-15-想成为全栈工程师，必下载的-13-个工具](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508873&idx=1&sn=a5df0fefb162d2954727252ff38020b7&chksm=ce45b618f9323f0ec39198343633cfcca3acaaee238590dc87a51d3cea6bee2f3890a5c0c340#rd) ![](/assets/new.png)  
 - [2026-02-14-Typescript-最强打包工具，正式发布-AI-版本！更快更顺滑！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508849&idx=1&sn=cfb6c860e9f706a93b1d9aa59659026e&chksm=ce45b6e0f9323ff68618e623b5872c1a2c62313ffb4dbf24a4561c4a861b7596dd017fea19d8#rd)  
 - [2026-02-13-炸了！Axios-出现重大漏洞！会导致-Nodejs-崩掉！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508819&idx=1&sn=94df02860992f8dd3f3e29fe2b23aed3&chksm=ce45b6c2f9323fd42c46ae9d2b26a6f3f493a3e233b6e4ff67906e668bbf952b0d2c697640d5#rd)  
 - [2026-02-12-同样用-Electron-重构，为什么-VSCode-性能那么好？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508757&idx=1&sn=ec44f7b7155eeb6fd2f69891aee26259&chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd)  
 - [2026-02-11-Pinia-超进化！从此不需要-Axios！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508754&idx=1&sn=14e7a5bfc29c7be4eb24f07ea07fe70c&chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd)  
-- [2026-02-10-你发现了吗？前端这五个技术快“死”了](http://mp.weixin.qq.com/s/_0Vu_MUOB-fpcnem9-ndeA)  
-- [2026-02-10-新招的外包，每天先带薪如厕-30-分钟，早会后各种摸鱼晃到-11:20-就去干饭。经理提醒多熟悉业务，他回怼“这咋了？活干完就行了”](http://mp.weixin.qq.com/s/xOcF_LTVOPcSZLKfgei7LA)  
 - [2026-02-10-心寒！公司年会抽奖程序设置：外包一定不能中奖，概率为0](http://mp.weixin.qq.com/s/ecUqYe_GCOLKwAEA7Vapvg)  
-- [2026-02-09-无可救药？美团、字节接连放弃-JavaScript！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508715&idx=1&sn=a0256be1aef862475db9823e3a89fb7f&chksm=ce45b77af9323e6ccd12acbe133ea2b90ce29e0b75720f64ec8a10844dbe033fc81d06fc7263#rd)  
-- [2026-02-09-拼多多实行双休！引起员工强烈反对！啊？双休了还不开心了？](http://mp.weixin.qq.com/s/nax0aDhMJm7vUziOqaDmSA)  
+- [2026-02-10-新招的外包，每天先带薪如厕-30-分钟，早会后各种摸鱼晃到-11:20-就去干饭。经理提醒多熟悉业务，他回怼“这咋了？活干完就行了”](http://mp.weixin.qq.com/s/xOcF_LTVOPcSZLKfgei7LA)  
+- [2026-02-10-你发现了吗？前端这五个技术快“死”了](http://mp.weixin.qq.com/s/_0Vu_MUOB-fpcnem9-ndeA)  
 - [2026-02-09-中国最难入职的IT公司](http://mp.weixin.qq.com/s/6VCCjprUCRqn91IrEoAiaQ)  
+- [2026-02-09-拼多多实行双休！引起员工强烈反对！啊？双休了还不开心了？](http://mp.weixin.qq.com/s/nax0aDhMJm7vUziOqaDmSA)  
+- [2026-02-09-无可救药？美团、字节接连放弃-JavaScript！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508715&idx=1&sn=a0256be1aef862475db9823e3a89fb7f&chksm=ce45b77af9323e6ccd12acbe133ea2b90ce29e0b75720f64ec8a10844dbe033fc81d06fc7263#rd)  
 - [2026-02-08-JavaScript-之父怒喷-Electron：性能差，太臃肿！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508709&idx=1&sn=575c447d40543fcd9a79c122dcebba76&chksm=ce45b774f9323e6215df572770c193cac43d47ff09e5a1cc04cad27b52e440b8f933c0c17f99#rd)  
 - [2026-02-06-JSON-淘汰！新的数据格式性能飙升-272%](http://mp.weixin.qq.com/s/N_7D_fL6sk6TyueEaot1Kg)  
 - [2026-02-05-只需几行代码！Vue和React终于可以一起使用了！](http://mp.weixin.qq.com/s/Mp_WQBo6PUjrwuBxZkXbOg)  
-- [2026-02-04-突发！微信把元宝“封了”，屏蔽了红包链接，官方紧急回应](http://mp.weixin.qq.com/s/exfKVLklTdoTNtEGslrxmg)  
 - [2026-02-04-v-model-淘汰！-Vue3-新玩法代码量减少-60%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508687&idx=1&sn=1bc02b0bb9179310c90507c7544b4ea0&chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd)  
-- [2026-02-03-2026财务自由对照表，躺平需要多少钱](http://mp.weixin.qq.com/s/FAZcfMqP6xK3sYWp0E0UqQ)  
-- [2026-02-03-猝死程序员妻子：他-10-年只休过-1-次年假。公司回应：5-年休年假-26-天。网友：休而不息是常态](http://mp.weixin.qq.com/s/AfKZDAXrhLoBzITJWDGWtQ)  
+- [2026-02-04-突发！微信把元宝“封了”，屏蔽了红包链接，官方紧急回应](http://mp.weixin.qq.com/s/exfKVLklTdoTNtEGslrxmg)  
 - [2026-02-03-全栈神器！前端可以在CSS里写SQL语句啦！以后不需要后端了？](http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A)  
-- [2026-02-02-uni-app淘汰！Vue3-原生开发最佳方案](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508643&idx=1&sn=138c5397dd9821bc8db743647c939209&chksm=ce45b732f9323e24631aab260c1a7c0326bff6abc6f5ce39e2ed07ff514823c0bdc3cf2e85ac#rd)  
-- [2026-02-01-来，做个测试，达到70分就别辞职](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508625&idx=1&sn=80e61663446b6a93afe3906b35722ac3&chksm=ce45b700f9323e167e87dd7b16e64ed4dc576b5cc232a1a81f56db5a3240658591d8ba8ba728#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

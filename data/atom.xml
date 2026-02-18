@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-17T16:43:52.314Z</updated>
+    <updated>2026-02-18T06:47:35.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="https://javascriptweekly.com/issues/773"/>
         <updated>2026-02-17T00:00:00.000Z</updated>
         <published>2026-02-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想成为全栈工程师，必下载的 13 个工具]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508873&amp;idx=1&amp;sn=a5df0fefb162d2954727252ff38020b7&amp;chksm=ce45b618f9323f0ec39198343633cfcca3acaaee238590dc87a51d3cea6bee2f3890a5c0c340#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508873&amp;idx=1&amp;sn=a5df0fefb162d2954727252ff38020b7&amp;chksm=ce45b618f9323f0ec39198343633cfcca3acaaee238590dc87a51d3cea6bee2f3890a5c0c340#rd"/>
+        <updated>2026-02-15T00:00:00.000Z</updated>
+        <published>2026-02-15T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Typescript 最强打包工具，正式发布 AI 版本！更快更顺滑！]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Apifox 和 Postman 开源平替！新API工具内置 AI agent ，调试效率飙升！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508583&amp;idx=2&amp;sn=d2a73ee7eb526fc5bb56ac628d9e6e12&amp;chksm=ce45b7f6f9323ee0273053b0634e6740b88645e786d690c006d283f6b075adc8475654ee0566#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508583&amp;idx=2&amp;sn=d2a73ee7eb526fc5bb56ac628d9e6e12&amp;chksm=ce45b7f6f9323ee0273053b0634e6740b88645e786d690c006d283f6b075adc8475654ee0566#rd"/>
-        <updated>2026-01-29T00:00:00.000Z</updated>
-        <published>2026-01-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A smoother way to ship Node apps]]></title>
-        <id>https://nodeweekly.com/issues/609</id>
-        <link href="https://nodeweekly.com/issues/609"/>
         <updated>2026-01-29T00:00:00.000Z</updated>
         <published>2026-01-29T00:00:00.000Z</published>
     </entry>
