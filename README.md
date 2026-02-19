@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-18 14:47:34，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-20 02:37:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2026-02-19-Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612) ![](/assets/new.png)  
 - [2026-02-12-An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611)  
 - [2026-02-05-Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610)  
 - [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609)  
@@ -66,7 +67,6 @@
 - [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)  
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
-- [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,10 +202,10 @@
 </summary>
 
 
-- [2026-02-18-过年家庭局，程序员被问收入，他说年薪-45w，结果遭表哥怼“程序员嘛，年薪至少-50w，还有-35-岁限制，只有这几年能赚钱！”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508913&idx=1&sn=0316709f91db200b9aa69132c4b383f1&chksm=ce45b620f9323f36b616946f9193e859e79ff37cd1267d75af39ce777c0e23f6571a10c98abd#rd) ![](/assets/new.png)  
-- [2026-02-17-前端五年，月薪不到-1w，回家过年丢不丢脸？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508905&idx=1&sn=2920de2125d09997bd6aba54a062dbb2&chksm=ce45b638f9323f2e6e3a46274cf93e4c055b92028f6095387385eaf8414a24694bc7545022ee#rd) ![](/assets/new.png)  
-- [2026-02-16-我是前端，过年亲戚问我是做什么工作的，我应该怎么回答？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508900&idx=1&sn=b25f0d578c0e50088da71fd704920f24&chksm=ce45b635f9323f233d1a75163f8d8c3d59e5034df47b98ad1bb5b68f9e955a86f2320ad8a44f#rd) ![](/assets/new.png)  
-- [2026-02-15-想成为全栈工程师，必下载的-13-个工具](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508873&idx=1&sn=a5df0fefb162d2954727252ff38020b7&chksm=ce45b618f9323f0ec39198343633cfcca3acaaee238590dc87a51d3cea6bee2f3890a5c0c340#rd) ![](/assets/new.png)  
+- [2026-02-18-过年家庭局，程序员被问收入，他说年薪-45w，结果遭表哥怼“程序员嘛，年薪至少-50w，还有-35-岁限制，只有这几年能赚钱！”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508913&idx=1&sn=0316709f91db200b9aa69132c4b383f1&chksm=ce45b620f9323f36b616946f9193e859e79ff37cd1267d75af39ce777c0e23f6571a10c98abd#rd)  
+- [2026-02-17-前端五年，月薪不到-1w，回家过年丢不丢脸？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508905&idx=1&sn=2920de2125d09997bd6aba54a062dbb2&chksm=ce45b638f9323f2e6e3a46274cf93e4c055b92028f6095387385eaf8414a24694bc7545022ee#rd)  
+- [2026-02-16-我是前端，过年亲戚问我是做什么工作的，我应该怎么回答？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508900&idx=1&sn=b25f0d578c0e50088da71fd704920f24&chksm=ce45b635f9323f233d1a75163f8d8c3d59e5034df47b98ad1bb5b68f9e955a86f2320ad8a44f#rd)  
+- [2026-02-15-想成为全栈工程师，必下载的-13-个工具](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508873&idx=1&sn=a5df0fefb162d2954727252ff38020b7&chksm=ce45b618f9323f0ec39198343633cfcca3acaaee238590dc87a51d3cea6bee2f3890a5c0c340#rd)  
 - [2026-02-14-Typescript-最强打包工具，正式发布-AI-版本！更快更顺滑！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508849&idx=1&sn=cfb6c860e9f706a93b1d9aa59659026e&chksm=ce45b6e0f9323ff68618e623b5872c1a2c62313ffb4dbf24a4561c4a861b7596dd017fea19d8#rd)  
 - [2026-02-13-炸了！Axios-出现重大漏洞！会导致-Nodejs-崩掉！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508819&idx=1&sn=94df02860992f8dd3f3e29fe2b23aed3&chksm=ce45b6c2f9323fd42c46ae9d2b26a6f3f493a3e233b6e4ff67906e668bbf952b0d2c697640d5#rd)  
 - [2026-02-12-同样用-Electron-重构，为什么-VSCode-性能那么好？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508757&idx=1&sn=ec44f7b7155eeb6fd2f69891aee26259&chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd)  

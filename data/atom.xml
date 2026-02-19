@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-18T06:47:35.627Z</updated>
+    <updated>2026-02-19T18:37:58.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Halving Node.js memory usage with pointer compression]]></title>
+        <id>https://nodeweekly.com/issues/612</id>
+        <link href="https://nodeweekly.com/issues/612"/>
+        <updated>2026-02-19T00:00:00.000Z</updated>
+        <published>2026-02-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Electrobun v1: Bun-powered desktop apps in 12MB bundles]]></title>
         <id>https://javascriptweekly.com/issues/773</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Clawdbot 空前爆火！github 一天涨 5w+ Star！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529096&amp;idx=1&amp;sn=9013f71a4c3a8ead2f6cd6a76993c29b&amp;chksm=f9927459cee5fd4f964e0208d3a29163b45f609276e841023d9d717cdd1823ca0a241bb8a45c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529096&amp;idx=1&amp;sn=9013f71a4c3a8ead2f6cd6a76993c29b&amp;chksm=f9927459cee5fd4f964e0208d3a29163b45f609276e841023d9d717cdd1823ca0a241bb8a45c#rd"/>
-        <updated>2026-01-29T00:00:00.000Z</updated>
-        <published>2026-01-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apifox 和 Postman 开源平替！新API工具内置 AI agent ，调试效率飙升！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508583&amp;idx=2&amp;sn=d2a73ee7eb526fc5bb56ac628d9e6e12&amp;chksm=ce45b7f6f9323ee0273053b0634e6740b88645e786d690c006d283f6b075adc8475654ee0566#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508583&amp;idx=2&amp;sn=d2a73ee7eb526fc5bb56ac628d9e6e12&amp;chksm=ce45b7f6f9323ee0273053b0634e6740b88645e786d690c006d283f6b075adc8475654ee0566#rd"/>
         <updated>2026-01-29T00:00:00.000Z</updated>
         <published>2026-01-29T00:00:00.000Z</published>
     </entry>
