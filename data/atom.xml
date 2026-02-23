@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-19T18:37:58.708Z</updated>
+    <updated>2026-02-23T08:35:39.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3 新语法！无虚拟DOM 再次进化，效率大提升！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508936&amp;idx=1&amp;sn=49e9483e2f9b438ddf5d7108e94212c0&amp;chksm=ce45b659f9323f4f60a8c0687df51da6df62a38176a1d0aaba3a3b031546e10ce11584b198fe#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508936&amp;idx=1&amp;sn=49e9483e2f9b438ddf5d7108e94212c0&amp;chksm=ce45b659f9323f4f60a8c0687df51da6df62a38176a1d0aaba3a3b031546e10ce11584b198fe#rd"/>
+        <updated>2026-02-23T00:00:00.000Z</updated>
+        <published>2026-02-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron 淘汰！新的桌面端框架 更强大、更轻量化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508927&amp;idx=1&amp;sn=3d645054b3d90f2a399d51db3184bcca&amp;chksm=ce45b62ef9323f38673855592159331d278e4208215eeb387653eb8070ef0e3000c60fcc61a1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508927&amp;idx=1&amp;sn=3d645054b3d90f2a399d51db3184bcca&amp;chksm=ce45b62ef9323f38673855592159331d278e4208215eeb387653eb8070ef0e3000c60fcc61a1#rd"/>
+        <updated>2026-02-22T00:00:00.000Z</updated>
+        <published>2026-02-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Halving Node.js memory usage with pointer compression]]></title>
         <id>https://nodeweekly.com/issues/612</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508595&amp;idx=1&amp;sn=411032c33ea7ad74c5cbf9be85b6d7d4&amp;chksm=ce45b7e2f9323ef4692897ea57b48ae7461f4ed7e8b7649e7ecebc62037e494f2dfa9982fa49#rd"/>
         <updated>2026-01-30T00:00:00.000Z</updated>
         <published>2026-01-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一行Rust没写过！仅1个月，他用Claude迁移了10万行JavaScript代码]]></title>
-        <id>http://mp.weixin.qq.com/s/lKe3M8oU0G64qMd4w5JBhA</id>
-        <link href="http://mp.weixin.qq.com/s/lKe3M8oU0G64qMd4w5JBhA"/>
-        <updated>2026-01-30T00:00:00.000Z</updated>
-        <published>2026-01-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clawdbot 空前爆火！github 一天涨 5w+ Star！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529096&amp;idx=1&amp;sn=9013f71a4c3a8ead2f6cd6a76993c29b&amp;chksm=f9927459cee5fd4f964e0208d3a29163b45f609276e841023d9d717cdd1823ca0a241bb8a45c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529096&amp;idx=1&amp;sn=9013f71a4c3a8ead2f6cd6a76993c29b&amp;chksm=f9927459cee5fd4f964e0208d3a29163b45f609276e841023d9d717cdd1823ca0a241bb8a45c#rd"/>
-        <updated>2026-01-29T00:00:00.000Z</updated>
-        <published>2026-01-29T00:00:00.000Z</published>
     </entry>
 </feed>
