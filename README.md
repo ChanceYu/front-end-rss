@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-23 22:40:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-24 00:41:50，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,7 +25,7 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -37,7 +37,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -264,6 +264,10 @@
 </summary>
 
 
+- [2026-02-23-一个-CLAUDE.md，让-AI-真正懂你的项目：从配置到长期提效的完整指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529205&idx=1&sn=ac735585685891b788d78e8d721ee37d&chksm=f9927424cee5fd322677673ec5a570b39bb74804ef42400a7ee5964d8e53f8708a58ddda3912#rd) ![](/assets/new.png)  
+- [2026-02-22-OpenClaw-安装与运行教程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529192&idx=2&sn=6b76b96417be7ae3a249a2c77aa338dc&chksm=f9927439cee5fd2fec0bc048cec6758692c5b68d1269d8c7ff756304e3a24db4527f75977925#rd) ![](/assets/new.png)  
+- [2026-02-22-强烈建议尽快搞个软考证！（政策风口）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529192&idx=1&sn=05832a5fec748bc7be7d9f60ba4f7243&chksm=f9927439cee5fd2f0b2aeebf0fd50c8c73aa9ffd03dd26d8781b3a0df0aa4616598adb132ff2#rd) ![](/assets/new.png)  
+- [2026-02-21-一文搞懂-Codex-开源的-Figma-Skill-原理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529191&idx=1&sn=b2b7f5131b31158d4059859712e1e160&chksm=f9927436cee5fd20fb94763006522989279dcad51a1c2a8fe04ced8c48da9439c52f3c3537db#rd) ![](/assets/new.png)  
 - [2026-02-09-用-200-行-JS-实现“渐进式-JSON”——让网页加载速度快到飞起！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529182&idx=1&sn=8a63421a91f196fdec83720fcca91152&chksm=f992740fcee5fd192da7e35bdc2635156ab7ba04fa894cac800b1d49823db248d6bada4514c7#rd)  
 - [2026-02-07-猎头密件：2026年缺口最大的AI岗位竟是它？](http://mp.weixin.qq.com/s/oBdI2LbYZRPSOdJ86wz23w)  
 - [2026-02-06-把-AI-当同事用：Rules、Commands、Skills-的清晰分工](http://mp.weixin.qq.com/s/mjPaoFfYPaPuHTD5lRvH9g)  
@@ -280,10 +284,6 @@
 - [2026-01-20-Chrome-终于可以限制单个网络请求了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528972&idx=1&sn=1add66f52a03aa22a56459af50ca391b&chksm=f99274ddcee5fdcbd6654bef1254568407938e54ac4089ee3aa3f9132bee07d9c5a31ed00294#rd)  
 - [2026-01-19-JS中的内存管理是如何工作的](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528955&idx=1&sn=e61bb2927e1879444d70ad91c9b28dd6&chksm=f992772acee5fe3c54422d913107927bdad2b24b8e384d8d3530603b4e65a9dd68eb762af06f#rd)  
 - [2026-01-16-十条经过实战检验的-TypeScript-monorepo-约定](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528946&idx=1&sn=2f015af3de78ea7ed6b651445eba100c&chksm=f9927723cee5fe356f24ef1f187966a6a9359bbb799691d2c894e4ec7fcf56a2d376eab233d5#rd)  
-- [2026-01-15-Claude-Code-算是被我玩明白了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528937&idx=1&sn=fadd0d3fae0d1e893eec593644517c7a&chksm=f9927738cee5fe2e2522adde28c173ff132a4be223836ec9a933cd5bced6351fa62ef3b58e67#rd)  
-- [2026-01-14-前端缓存：最被低估的性能优化技巧](http://mp.weixin.qq.com/s/Arb2EeIrnrCHC_84oMmDmw)  
-- [2026-01-13-强烈建议尽快搞个软考证！（政策红利）](http://mp.weixin.qq.com/s/-R_qKZLEmf2dpq6NgoXG_Q)  
-- [2026-01-12-从-DevTools-到智能性能代理：用-AI-重塑前端性能分析的新方式](http://mp.weixin.qq.com/s/B78gtRo_mia3ppretcCkVQ)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -636,7 +636,7 @@
 </summary>
 
 
-- [2026-02-03-2025-年终总结](https://fenghen.me/posts/2026/02/03/_2025-year-end-summary/) ![](/assets/new.png)  
+- [2026-02-03-2025-年终总结](https://fenghen.me/posts/2026/02/03/_2025-year-end-summary/)  
 - [2025-10-17-笔记软件孕育数字分身](https://fenghen.me/posts/2025/10/17/notes-and-digital-twin/)  
 - [2025-09-09-终端开发环境搭建](https://fenghen.me/posts/2025/09/09/terminal-dev-env/)  
 - [2025-09-01-ZingAI.video-在线口播视频剪辑](https://fenghen.me/posts/2025/09/01/overview/)  

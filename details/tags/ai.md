@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-23 22:40:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-24 00:41:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -374,6 +374,7 @@
 - [2022-02-15-JavaScript-深度学习---Hello-World](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061206&idx=2&sn=7a34272359224d9951e3d7a877e09d2a&chksm=87c420c6b0b3a9d0ad8033184e943ca65240f7dd36a8053c91a271e94f894058fa2c210a4bb0#rd) 
 - [2022-01-19-Chrome-DevTools:-修改User-Agent，定制个性化UA](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=1&sn=14f8cc7eb94db6cb06351782681c4875&chksm=87c421afb0b3a8b9a843999348abbef6bc0271530370b7c4c5f3c1a7ca2eea253fdf72e55c10#rd) 
 - [2022-01-01-JavaScript-深度学习---Hello-World](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060772&idx=2&sn=46c6a5435fb75d462afe74bfbffd58a8&chksm=87c42134b0b3a8222c471c7f808ca08b545e6f1c9133b905d8a33249a35c23dcdcb92c1c277e#rd) 
+- [2026-02-23-一个-CLAUDE.md，让-AI-真正懂你的项目：从配置到长期提效的完整指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529205&idx=1&sn=ac735585685891b788d78e8d721ee37d&chksm=f9927424cee5fd322677673ec5a570b39bb74804ef42400a7ee5964d8e53f8708a58ddda3912#rd) 
 - [2026-02-07-猎头密件：2026年缺口最大的AI岗位竟是它？](http://mp.weixin.qq.com/s/oBdI2LbYZRPSOdJ86wz23w) 
 - [2026-02-06-把-AI-当同事用：Rules、Commands、Skills-的清晰分工](http://mp.weixin.qq.com/s/mjPaoFfYPaPuHTD5lRvH9g) 
 - [2026-02-03-AI-Skills-正在重构前端开发](http://mp.weixin.qq.com/s/eYE_QBqUqO1YVeIBNNy7ow) 

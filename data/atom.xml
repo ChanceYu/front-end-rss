@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-23T14:40:06.385Z</updated>
+    <updated>2026-02-23T16:41:51.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[一个 CLAUDE.md，让 AI 真正懂你的项目：从配置到长期提效的完整指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529205&amp;idx=1&amp;sn=ac735585685891b788d78e8d721ee37d&amp;chksm=f9927424cee5fd322677673ec5a570b39bb74804ef42400a7ee5964d8e53f8708a58ddda3912#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529205&amp;idx=1&amp;sn=ac735585685891b788d78e8d721ee37d&amp;chksm=f9927424cee5fd322677673ec5a570b39bb74804ef42400a7ee5964d8e53f8708a58ddda3912#rd"/>
+        <updated>2026-02-23T00:00:00.000Z</updated>
+        <published>2026-02-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue3 新语法！无虚拟DOM 再次进化，效率大提升！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508936&amp;idx=1&amp;sn=49e9483e2f9b438ddf5d7108e94212c0&amp;chksm=ce45b659f9323f4f60a8c0687df51da6df62a38176a1d0aaba3a3b031546e10ce11584b198fe#rd</id>
@@ -27,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508927&amp;idx=1&amp;sn=3d645054b3d90f2a399d51db3184bcca&amp;chksm=ce45b62ef9323f38673855592159331d278e4208215eeb387653eb8070ef0e3000c60fcc61a1#rd"/>
         <updated>2026-02-22T00:00:00.000Z</updated>
         <published>2026-02-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文搞懂 Codex 开源的 Figma Skill 原理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529191&amp;idx=1&amp;sn=b2b7f5131b31158d4059859712e1e160&amp;chksm=f9927436cee5fd20fb94763006522989279dcad51a1c2a8fe04ced8c48da9439c52f3c3537db#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529191&amp;idx=1&amp;sn=b2b7f5131b31158d4059859712e1e160&amp;chksm=f9927436cee5fd20fb94763006522989279dcad51a1c2a8fe04ced8c48da9439c52f3c3537db#rd"/>
+        <updated>2026-02-21T00:00:00.000Z</updated>
+        <published>2026-02-21T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Halving Node.js memory usage with pointer compression]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[【淘宝直播数字人互动LLM】告别AI感：基于真人ASR数据的拟人化探索]]></title>
         <id>http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg</id>
         <link href="http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg"/>
-        <updated>2026-01-30T00:00:00.000Z</updated>
-        <published>2026-01-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS 技巧：完美居中任何元素（不再烦恼！）]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529104&amp;idx=1&amp;sn=18e6d1f2bf7497aebbe262f228e05e54&amp;chksm=f9927441cee5fd57330c27427336898c1ae182576edb1abbb1fc04417dfd9d3768a4a7adf9f5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529104&amp;idx=1&amp;sn=18e6d1f2bf7497aebbe262f228e05e54&amp;chksm=f9927441cee5fd57330c27427336898c1ae182576edb1abbb1fc04417dfd9d3768a4a7adf9f5#rd"/>
-        <updated>2026-01-30T00:00:00.000Z</updated>
-        <published>2026-01-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出圈了？JS的try...catch新写法，被质疑抄袭Go语言！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508595&amp;idx=1&amp;sn=411032c33ea7ad74c5cbf9be85b6d7d4&amp;chksm=ce45b7e2f9323ef4692897ea57b48ae7461f4ed7e8b7649e7ecebc62037e494f2dfa9982fa49#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508595&amp;idx=1&amp;sn=411032c33ea7ad74c5cbf9be85b6d7d4&amp;chksm=ce45b7e2f9323ef4692897ea57b48ae7461f4ed7e8b7649e7ecebc62037e494f2dfa9982fa49#rd"/>
         <updated>2026-01-30T00:00:00.000Z</updated>
         <published>2026-01-30T00:00:00.000Z</published>
     </entry>
