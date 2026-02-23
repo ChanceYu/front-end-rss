@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-23 16:35:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-23 22:40:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -758,12 +758,12 @@
 - [2023-02-07-【火爆全网】OpenAI-ChatGPT-账号注册攻略！](http://www.yyyweb.com/5494.html) 
 - [2019-01-13-细说-async/await-相较于-Promise-的优势](http://www.yyyweb.com/5261.html) 
 - [2021-12-02-超基础的机器学习入门-原理篇](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897887&idx=1&sn=a0ce664475cfaa68156374a0e79003b1&chksm=8c5fa251bb282b47ce8b762eaff1b2bb0b56801cabe21cd38ba265edcda6c52bd2b13c5d664a#rd) 
-- [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/) 
 - [2025-09-01-ZingAI.video-在线口播视频剪辑](https://fenghen.me/posts/2025/09/01/overview/) 
-- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
+- [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/) 
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
+- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
 - [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/) 
-- [2023-06-21-Web-端实时防挡脸弹幕（基于机器学习）](https://hughfenghen.github.io/posts/2023/06/21/body-mask-danmaku/) 
 - [2023-06-21-Web-端实时防挡脸弹幕（基于机器学习）](https://fenghen.me/posts/2023/06/21/body-mask-danmaku/) 
-- [2023-03-29-WebContainer-原理分析](https://hughfenghen.github.io/posts/2023/03/29/webcontainer/) 
+- [2023-06-21-Web-端实时防挡脸弹幕（基于机器学习）](https://hughfenghen.github.io/posts/2023/06/21/body-mask-danmaku/) 
 - [2023-03-29-WebContainer-原理分析](https://fenghen.me/posts/2023/03/29/webcontainer/) 
+- [2023-03-29-WebContainer-原理分析](https://hughfenghen.github.io/posts/2023/03/29/webcontainer/) 
