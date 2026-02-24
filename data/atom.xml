@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-24T16:53:20.950Z</updated>
+    <updated>2026-02-24T18:44:34.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[干掉 Vite ？尤雨溪开始 "强推" Vize ？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517525&amp;idx=1&amp;sn=1934d97f1466647f94c9994a938d5188&amp;chksm=eb07bd2cdc70343a71fac55a2df07044f3b43b9258de4208e78e165141602bff0fa9e305052e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517525&amp;idx=1&amp;sn=1934d97f1466647f94c9994a938d5188&amp;chksm=eb07bd2cdc70343a71fac55a2df07044f3b43b9258de4208e78e165141602bff0fa9e305052e#rd"/>
+        <updated>2026-02-24T00:00:00.000Z</updated>
+        <published>2026-02-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NestJS v12 将迎来重大更新：全量 ESM、Vitest 上位、Zod 直连，老项目还能平滑升级？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529207&amp;idx=1&amp;sn=3fb6632884ed593d64e8affb15f6c991&amp;chksm=f9927426cee5fd3024b2fc10cc67f3ebaf2c4f4dfb487cb3d4a6f3ea3adacf85d1add9ca3796#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[【第3656期】深入理解 React 的 useEffectEvent：彻底告别闭包陷阱]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278602&amp;idx=1&amp;sn=a51d047d864a2178ae921057e3c6073a&amp;chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278602&amp;idx=1&amp;sn=a51d047d864a2178ae921057e3c6073a&amp;chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&amp;scene=0#rd"/>
+        <updated>2026-02-24T00:00:00.000Z</updated>
+        <published>2026-02-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oxfmt beta: 30x faster than Prettier, 100% compatible]]></title>
+        <id>https://javascriptweekly.com/issues/774</id>
+        <link href="https://javascriptweekly.com/issues/774"/>
         <updated>2026-02-24T00:00:00.000Z</updated>
         <published>2026-02-24T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278565&amp;idx=1&amp;sn=8fad43e39b148409f33d76e2510ec82d&amp;chksm=bc8319b363047c43cdfea2d5ea7e500679426fc3fc229b4a7d4ad9d9de353458256466835113&amp;scene=0#rd"/>
         <updated>2026-02-02T00:00:00.000Z</updated>
         <published>2026-02-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来，做个测试，达到70分就别辞职]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508625&amp;idx=1&amp;sn=80e61663446b6a93afe3906b35722ac3&amp;chksm=ce45b700f9323e167e87dd7b16e64ed4dc576b5cc232a1a81f56db5a3240658591d8ba8ba728#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508625&amp;idx=1&amp;sn=80e61663446b6a93afe3906b35722ac3&amp;chksm=ce45b700f9323e167e87dd7b16e64ed4dc576b5cc232a1a81f56db5a3240658591d8ba8ba728#rd"/>
-        <updated>2026-02-01T00:00:00.000Z</updated>
-        <published>2026-02-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[stars 高达50w+！Github 爆火的 10 个值得学习的 AI 项目！学到了好多！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508610&amp;idx=1&amp;sn=37f34326e37f4855cf0b606a2cc4f458&amp;chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508610&amp;idx=1&amp;sn=37f34326e37f4855cf0b606a2cc4f458&amp;chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd"/>
-        <updated>2026-01-31T00:00:00.000Z</updated>
-        <published>2026-01-31T00:00:00.000Z</published>
     </entry>
 </feed>

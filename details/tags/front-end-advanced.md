@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-25 00:53:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-25 02:44:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -40,6 +40,7 @@
 - [2022-02-24-Node-gains-HTTPS-module-import-support](https://nodeweekly.com/issues/426) 
 - [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424) 
 - [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418) 
+- [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774) 
 - [2026-02-10-A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772) 
 - [2026-01-27-What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770) 
 - [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767) 
@@ -3161,8 +3162,8 @@
 - [2023-08-18-现代-React-开发必备的-13-个神库，路由、UI-组件库、拖拽、虚拟列表都齐了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513470&idx=1&sn=764eea76048a9c5635abfbed8141a3b0&chksm=eb078d07dc7004116b33d3b07cdab020df3da525db0db82e2f36f01ee49e363a1eafbdd6fb18#rd) 
 - [2023-08-17-手写玩具版浏览器渲染引擎，彻底搞懂原理](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513452&idx=1&sn=6ea003d056892fc916fc376e542ff79d&chksm=eb078d15dc7004035b323647292c3033e940e59cecfc5e18f99c2de524c20539a7430af1f09b#rd) 
 - [2023-08-16-19-个实用的-ES6-代码片段，解决常见的-JavaScript-问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513451&idx=2&sn=9786df020c4b8665b1f52055bcaa7670&chksm=eb078d12dc700404ef1eb2d3d39010a78b51fcd9b279e7119f8bf359cf435663a2f12e3380e1#rd) 
-- [2023-08-14-注意，这个-JavaScript-事件即将弃用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=2&sn=26fa5b0ebf859e5444cc5484cf4b3749&chksm=eb078d38dc70042ed619ffa33cfcecbeb434da2f3c0fc185938e8876d5f900d07de288ef3f69#rd) 
 - [2023-08-14-年薪拿不到25w全额退｜算法工程师培养计划](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=1&sn=4230ea913de75c7837ffb2136f8479c6&chksm=eb078d38dc70042e0b9fd0e628e527c3efb4a5be7cbeed1e8c73b44987dcdf64fc0983d0d204#rd) 
+- [2023-08-14-注意，这个-JavaScript-事件即将弃用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=2&sn=26fa5b0ebf859e5444cc5484cf4b3749&chksm=eb078d38dc70042ed619ffa33cfcecbeb434da2f3c0fc185938e8876d5f900d07de288ef3f69#rd) 
 - [2023-08-09-中型前端应用，就别折腾什么微前端、DDD、六边形架构了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513283&idx=1&sn=bc484055ca436929954fdcc9db5b5974&chksm=eb078cbadc7005acabfc0f2ef18523b04bc9f150c734db05afc4a977d88ccfe62861171336d3#rd) 
 - [2023-08-03-你可能并不需要-TypeScript](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512854&idx=1&sn=f9ddf34db2fb2ad746053e731b7669d0&chksm=eb078b6fdc70027911aa7576d3e5a247ca5f71a6935a83debbfba9b6bdf2cc2e0e01acf1eb56#rd) 
 - [2023-07-31-JavaScript-中隐秘而强大的-compose-和-pipe](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512825&idx=1&sn=d3935e1eaf31fa071204dbaf249deda2&chksm=eb078a80dc70039650624d638f28e142f5d3a24a6762cef94949bd85d30b1d5c761245a225a1#rd) 
