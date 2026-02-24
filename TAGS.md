@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-02-24 00:41:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-02-24 14:45:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -85,6 +85,7 @@
 - [【JavaScript-Weekly】Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)
 - [【JavaScript-Weekly】React-18-due-any-day-now..](https://javascriptweekly.com/issues/582)
 - [【JavaScript-Weekly】Etsy-moved-from-React-to-Preact](https://javascriptweekly.com/issues/574)
+- [【前端早读课】【第3656期】深入理解-React-的-useEffectEvent：彻底告别闭包陷阱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278602&idx=1&sn=a51d047d864a2178ae921057e3c6073a&chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&scene=0#rd)
 - [【前端早读课】【第3654期】不再重置！在-React-/-Next.js-中实现跨页面“持续进化”的动画效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278586&idx=1&sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&scene=0#rd)
 - [【前端早读课】【第3645期】如何在没有源码的情况下重建任意-React-组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278496&idx=1&sn=c5f31a8bd1651c1426d76f2f4ac462eb&chksm=bc784a3e6088ffede1add8317c39171990bddac7660e93d418c973edabec3b8fe7595ffdb589&scene=0#rd)
 - [【前端早读课】【第3641期】AI-在编写-React-代码方面到底有多强？Addy-Osmani的实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278442&idx=1&sn=d5a2eae3672d1efbd822968c21d5df05&chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&scene=0#rd)
@@ -95,7 +96,6 @@
 - [【前端早读课】【第3618期】React-19.2：步入「Sigma」时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=1&sn=4597002bb82c8995bbdbb6e94ee323b6&chksm=bc169dfee65300a4d36c805ca1a60df6224d0b961f26ddfd6fefb8f464d7bed6d8409346b86b&scene=0#rd)
 - [【前端早读课】【第3608期】Next.js-16-新特性解读：从异步参数到-Turbopack-默认化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277855&idx=1&sn=5e61452f4d216189051162d44606e4cc&chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&scene=0#rd)
 - [【前端早读课】【第3581期】复杂-React/Next.js-应用的数据获取架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277342&idx=1&sn=7c99c0d1e1db3ed269271586e2998656&chksm=bc6464732f94fb72ce705df5dd4e6d3c93544cfc1f75970c782fb88e769b35fabf13399c80e3&scene=0#rd)
-- [【前端早读课】【第3567期】React-Suspense-的内部原理：抛出-Promise-与声明式异步-UI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277190&idx=1&sn=673ab56d992bd74088941d7939fdf840&chksm=bc8a4e736ad584fb4aef5c4a1ccaa1e32d59991023a99f425bb623631d43c4f0a251bfa94871&scene=0#rd)
 - [查看更多 >](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -121,8 +121,8 @@
 - [【前端早读课】【图书】Vue.js-3+TypeScript完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=2&sn=d464389d42d609a51f8d65b7685b2c17&chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd)
 - [【前端早读课】【第3042期】重新发明-Vue：经验和教训](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265438&idx=1&sn=a5eac9d685901b1d664c30cef7d4878a&chksm=bd48c01a8a3f490ccba5734cc5acfb2dbb32c91a19dcb5bdf4db399ea71297adaf172f326691#rd)
 - [【前端早读课】【第3026期】React-还是-Vue？@𝖈𝖆𝖑𝖎对-Web-前端现状的看法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264685&idx=1&sn=abd482257802b379e17fd5175e11d9c6&chksm=bd48cf298a3f463f411f6f2f785b20c921c30d12b9bf90763ca01bf98ca36fe741f8a4cefd6e#rd)
-- [【前端早读课】【第3008期】VueConf-US-2023：State-of-the-Vuenion](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=1&sn=0aca047a6425734aa61f5ab095a0300b&chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd)
 - [【前端早读课】【活动】VueConf-&amp;-ViteConf-2023。8月26日，苏州见。](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=2&sn=8722e592e3dbbe5d11e7412d1207ba47&chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd)
+- [【前端早读课】【第3008期】VueConf-US-2023：State-of-the-Vuenion](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=1&sn=0aca047a6425734aa61f5ab095a0300b&chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd)
 - [【前端早读课】【第2991期】从自研走向开源的-TinyVue-组件库](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263668&idx=1&sn=33e2a54f9f757adf2dd4fd1c1a5945b6&chksm=bd48cb308a3f4226aa3953a4506eb43f68e1e838c4c84560ce3d3ed1f2cafb44fcbb60130e33#rd)
 - [【前端早读课】【第2974期】ChatGPT教用200行代码写一个简版Vue框架——OpenTiny](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263392&idx=1&sn=2841859805edaf9baea4da7c56426b2c&chksm=bd48c8248a3f4132a4d7d06ce896fa714c8c85dfae33512c10d443a98ec0a5363533ca88aefb#rd)
 - [【前端早读课】【第2950期】vite-plugin-vue-devtools：写一个Vue-DevTools，让开发体验飞一会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262764&idx=1&sn=c47d7ee1e37c5d672e1e41f9f75f4363&chksm=bd48d6a88a3f5fbe9541b16c94f29436c0fff9bef4818064e43c9acd306de372feb9e6259ed4#rd)
@@ -311,7 +311,7 @@
 - [【前端早读课】【早说】白帽SEO和黑帽SEO](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259958&idx=3&sn=f296a0ace4bd39ddd8561ab852dc3e86&chksm=bd48ddb28a3f54a4c211b508b03b3cd50085b254a40c278cf6dbfdb2c1958a2491d1c35f9803#rd)
 - [【前端早读课】【第2772期】单标签实现复杂的棋盘布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=2&sn=8995e972fd6e8f60f1f38acb9745adc9&chksm=bd4926e88a3eaffe41714ea4eb81b7ae2321ad2198087789d8d6246ca6c30a77acd84410853a#rd)
 - [【前端早读课】【第2727期】基于-iframe-的微前端框架-——-擎天](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257881&idx=1&sn=0087e67468cc1f9f9cdf865f9a02fe95&chksm=bd49259d8a3eac8bbf8c53dadb674705b59f6dd965d71dbfa509fc223d312d6ac8ddce56b527#rd)
-- [【前端早读课】【PPT】微众银行无障碍建设案例分享](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255277&idx=2&sn=57d6cfe8aeac42c67eebb6de7c5af61f&chksm=bd4928698a3ea17f05cb22ef3c20d29721fc8ade59b36d68d6f3b6b28a2e66745129e56026cc#rd)
+- [【前端早读课】【第2644期】Semi-Design-中的无障碍设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255277&idx=1&sn=cf007eb761d20da68fc7d90500c1d7bd&chksm=bd4928698a3ea17fb97181b0015e6cc0a7d503c102fc777b318c929a1480b7892a9c4a0ef380#rd)
 - [查看更多 >](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -735,8 +735,8 @@
 - [【前端早读课】【早阅】aiCoder：利用AST实现AI生成代码的合并工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275298&idx=1&sn=5d1d7b8da48439333221491e87cd084b&chksm=bc647f685171f0076fec5ac4ce2672854abcb4f363217989f21c68252c292d9f2aecd96e4611&scene=0#rd)
 - [【前端早读课】【早阅】GitHub-Copilot最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274819&idx=1&sn=34b6439cdc3fd7777ef9695072af43b2&chksm=bc480f32541ab5c4cb63657df3571478adac3738b49a56d07f408571896dcaebb9c4ca3adacc&scene=0#rd)
 - [【前端早读课】【第3434期】VSCode-推出-GitHub-Copilot-免费版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274815&idx=1&sn=48396b04209610b2765f1b34e39eee50&chksm=bc5ceb104c8ee364b58e2e9187ceacde103260c5ddf542b16fc2d801d6691e0332ea286d4630&scene=0#rd)
-- [【前端早读课】【图书】AI辅助编程入门：使用GitHub-Copilot零基础开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=2&sn=ab76c1332d66d7e3be3b80a6a6ef3862&chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&scene=0#rd)
 - [【前端早读课】【早阅】GitHub-Copilot-Edits-功能详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=1&sn=31332b42ef6891c28cd065e0cf5fe77a&chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&scene=0#rd)
+- [【前端早读课】【图书】AI辅助编程入门：使用GitHub-Copilot零基础开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=2&sn=ab76c1332d66d7e3be3b80a6a6ef3862&chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&scene=0#rd)
 - [【前端早读课】【早阅】Better：一款AI代码审查工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274252&idx=1&sn=70f7535a5e15ca45ad1d8c4fd6a41bb4&chksm=bcf9151b8c7adec3309e52ce9d246b1d2bd67be74282c30933ff966a51426ffc59e9010541fe&scene=0#rd)
 - [【前端早读课】【第2998期】逆向分析了Github-Copilot](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263858&idx=1&sn=b701da3cdb53378c14a1edd286a15a68&chksm=bd48caf68a3f43e0a1668df432413adef02a255ae08066376bbd9ee3d2e419009c5025c08461#rd)
 - [【前端早读课】【第2971期】前端开发如何更好的避免样式冲突？级联层CSS@layer](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263239&idx=1&sn=c684aa4e5b5a523999061c2f0c52de5e&chksm=bd48c8838a3f4195a4b4ed385608e341a3c96ad833172e9dbe68acb21cfc15df27bee4334338#rd)

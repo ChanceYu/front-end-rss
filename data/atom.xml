@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-23T16:41:51.527Z</updated>
+    <updated>2026-02-24T06:45:33.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3656期】深入理解 React 的 useEffectEvent：彻底告别闭包陷阱]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278602&amp;idx=1&amp;sn=a51d047d864a2178ae921057e3c6073a&amp;chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278602&amp;idx=1&amp;sn=a51d047d864a2178ae921057e3c6073a&amp;chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&amp;scene=0#rd"/>
+        <updated>2026-02-24T00:00:00.000Z</updated>
+        <published>2026-02-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个 CLAUDE.md，让 AI 真正懂你的项目：从配置到长期提效的完整指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529205&amp;idx=1&amp;sn=ac735585685891b788d78e8d721ee37d&amp;chksm=f9927424cee5fd322677673ec5a570b39bb74804ef42400a7ee5964d8e53f8708a58ddda3912#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[告别insertBefore，使用moveBefore移动DOM元素]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/"/>
-        <updated>2026-01-30T00:00:00.000Z</updated>
-        <published>2026-01-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【淘宝直播数字人互动LLM】告别AI感：基于真人ASR数据的拟人化探索]]></title>
-        <id>http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg</id>
-        <link href="http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg"/>
         <updated>2026-01-30T00:00:00.000Z</updated>
         <published>2026-01-30T00:00:00.000Z</published>
     </entry>
