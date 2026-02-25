@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-25 12:09:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-25 14:49:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2026-02-25-【第3657期】Visual-Agentic-Dev：让前端开发工程师告别繁琐的代码修改流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278606&idx=1&sn=f1ef8cbb6ce6ecd37d06843f7799ae4b&chksm=bc95f3cd4ca1b7276db8fb4d258f47cd2574e070b9f2c6ff4df21ce5e8d208a13acb0dc0c3c1&scene=0#rd) ![](/assets/new.png)  
 - [2026-02-24-【第3656期】深入理解-React-的-useEffectEvent：彻底告别闭包陷阱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278602&idx=1&sn=a51d047d864a2178ae921057e3c6073a&chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&scene=0#rd)  
 - [2026-02-06-【第3655期】浏览器即运行时：一个零后端-AI-应用的前端架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278596&idx=1&sn=dea55dba00065e03f83445a08be9f33e&chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&scene=0#rd)  
 - [2026-02-05-【第3654期】不再重置！在-React-/-Next.js-中实现跨页面“持续进化”的动画效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278586&idx=1&sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&scene=0#rd)  
@@ -124,11 +125,10 @@
 - [2026-01-22-【第3646期】别再把一切都变成数组了！少做点无用功](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278501&idx=1&sn=4a13eb278c2f5ce66c4b46ede112eeb0&chksm=bcfe3e8d7aec66ee05e99fc7dfcbf318fbf02d2be88994d1ac9d92e9e9aca2ee9327c40c7211&scene=0#rd)  
 - [2026-01-21-【第3645期】如何在没有源码的情况下重建任意-React-组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278496&idx=1&sn=c5f31a8bd1651c1426d76f2f4ac462eb&chksm=bc784a3e6088ffede1add8317c39171990bddac7660e93d418c973edabec3b8fe7595ffdb589&scene=0#rd)  
 - [2026-01-20-【第3644期】构建类型安全的复合组件：让灵活与安全兼得的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278480&idx=1&sn=e8e4caef1b2b3253b6922cd7cd30e483&chksm=bc6e71e5b890a9047670d7455687099643d3800e442ab46f22542f0e2a066c89cd91e07c99e2&scene=0#rd)  
-- [2026-01-19-【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278475&idx=1&sn=35ee14939a0ca527fa6f651b32a78b26&chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&scene=0#rd)  
 - [2026-01-19-【图书】JavaScript-高级编程权威指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278475&idx=2&sn=0a316ad05505e05aa97532ac6ea655c1&chksm=bca6036b35ed8ecf65a297d2dc3febb24e119de8f52e2320b566313f5e0977d6dcc772eb849c&scene=0#rd)  
-- [2026-01-16-【招聘】杭州古茗招P6前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=2&sn=5dfc313b9d4fc13cbc9179258c2a65b0&chksm=bc7e55c34604a19d3ddc2c0b1ee5aa26dde6cd338b18dd37600e8344086f79d74371445c2baf&scene=0#rd)  
+- [2026-01-19-【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278475&idx=1&sn=35ee14939a0ca527fa6f651b32a78b26&chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&scene=0#rd)  
 - [2026-01-16-【第3642期】document.currentScript：被忽视却超实用的前端小技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=1&sn=ddabfeba4caf5df58de80e05fc4d1a22&chksm=bc34b5159ca9f5b5a37eacdc08d5ce0d2e5a7f83738964a1a5a4302180a89ecbb6212e09e7b4&scene=0#rd)  
-- [2026-01-15-【第3641期】AI-在编写-React-代码方面到底有多强？Addy-Osmani的实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278442&idx=1&sn=d5a2eae3672d1efbd822968c21d5df05&chksm=bcbac8588d5678089655429c756b75e741d31348d92a74e0f7a5e0bcf662e3b0794ca433cb82&scene=0#rd)  
+- [2026-01-16-【招聘】杭州古茗招P6前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=2&sn=5dfc313b9d4fc13cbc9179258c2a65b0&chksm=bc7e55c34604a19d3ddc2c0b1ee5aa26dde6cd338b18dd37600e8344086f79d74371445c2baf&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/) ![](/assets/new.png)  
+- [2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/)  
 - [2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/)  
 - [2026-02-06-CSS-text-box属性又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/)  
 - [2026-01-30-告别insertBefore，使用moveBefore移动DOM元素](https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/)  

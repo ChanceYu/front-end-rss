@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-25T04:09:30.677Z</updated>
+    <updated>2026-02-25T06:49:44.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[点击图片放大查看交互效果的最佳实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/"/>
+        <updated>2026-02-25T00:00:00.000Z</updated>
+        <published>2026-02-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3657期】Visual Agentic Dev：让前端开发工程师告别繁琐的代码修改流程]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278606&amp;idx=1&amp;sn=f1ef8cbb6ce6ecd37d06843f7799ae4b&amp;chksm=bc95f3cd4ca1b7276db8fb4d258f47cd2574e070b9f2c6ff4df21ce5e8d208a13acb0dc0c3c1&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278606&amp;idx=1&amp;sn=f1ef8cbb6ce6ecd37d06843f7799ae4b&amp;chksm=bc95f3cd4ca1b7276db8fb4d258f47cd2574e070b9f2c6ff4df21ce5e8d208a13acb0dc0c3c1&amp;scene=0#rd"/>
         <updated>2026-02-25T00:00:00.000Z</updated>
         <published>2026-02-25T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[uni-app淘汰！Vue3 原生开发最佳方案]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508643&amp;idx=1&amp;sn=138c5397dd9821bc8db743647c939209&amp;chksm=ce45b732f9323e24631aab260c1a7c0326bff6abc6f5ce39e2ed07ff514823c0bdc3cf2e85ac#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508643&amp;idx=1&amp;sn=138c5397dd9821bc8db743647c939209&amp;chksm=ce45b732f9323e24631aab260c1a7c0326bff6abc6f5ce39e2ed07ff514823c0bdc3cf2e85ac#rd"/>
-        <updated>2026-02-02T00:00:00.000Z</updated>
-        <published>2026-02-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50万行代码不敢交给AI？TypeScript之父直言：它就像是个“高级复读机”]]></title>
-        <id>http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA</id>
-        <link href="http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA"/>
         <updated>2026-02-02T00:00:00.000Z</updated>
         <published>2026-02-02T00:00:00.000Z</published>
     </entry>
