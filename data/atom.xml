@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-25T14:42:38.683Z</updated>
+    <updated>2026-02-26T06:45:21.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3658期】从终端到工作空间：MCP Apps 如何把 UI 带回 Agent 中心]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278618&amp;idx=1&amp;sn=fcdaf49c28f016098071d4e9eeb04b54&amp;chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278618&amp;idx=1&amp;sn=fcdaf49c28f016098071d4e9eeb04b54&amp;chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&amp;scene=0#rd"/>
+        <updated>2026-02-26T00:00:00.000Z</updated>
+        <published>2026-02-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[点击图片放大查看交互效果的最佳实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/771"/>
         <updated>2026-02-03T00:00:00.000Z</updated>
         <published>2026-02-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘天集团自营技术运营算法团队4年2次荣膺 INFORMS“杰出实践奖”决选荣誉：以策略正则化突破DRL在库存管理中的落地瓶颈]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542682&amp;idx=1&amp;sn=4a56846c13628675c01337e79b01d614&amp;chksm=8390da42b4e753547975ab94ed9e40a4f4524a989918423bba32591249c891bf11f0c5f16121#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542682&amp;idx=1&amp;sn=4a56846c13628675c01337e79b01d614&amp;chksm=8390da42b4e753547975ab94ed9e40a4f4524a989918423bba32591249c891bf11f0c5f16121#rd"/>
-        <updated>2026-02-02T00:00:00.000Z</updated>
-        <published>2026-02-02T00:00:00.000Z</published>
     </entry>
 </feed>
