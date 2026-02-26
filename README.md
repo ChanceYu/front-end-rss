@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-26 14:45:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-27 00:44:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613) ![](/assets/new.png)  
 - [2026-02-19-Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)  
 - [2026-02-12-An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611)  
 - [2026-02-05-Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610)  
@@ -66,7 +67,6 @@
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)  
 - [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)  
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
-- [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2026-02-26-【第3658期】从终端到工作空间：MCP-Apps-如何把-UI-带回-Agent-中心](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278618&idx=1&sn=fcdaf49c28f016098071d4e9eeb04b54&chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&scene=0#rd) ![](/assets/new.png)  
+- [2026-02-26-【第3658期】从终端到工作空间：MCP-Apps-如何把-UI-带回-Agent-中心](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278618&idx=1&sn=fcdaf49c28f016098071d4e9eeb04b54&chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&scene=0#rd)  
 - [2026-02-25-【第3657期】Visual-Agentic-Dev：让前端开发工程师告别繁琐的代码修改流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278606&idx=1&sn=f1ef8cbb6ce6ecd37d06843f7799ae4b&chksm=bc95f3cd4ca1b7276db8fb4d258f47cd2574e070b9f2c6ff4df21ce5e8d208a13acb0dc0c3c1&scene=0#rd)  
 - [2026-02-24-【第3656期】深入理解-React-的-useEffectEvent：彻底告别闭包陷阱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278602&idx=1&sn=a51d047d864a2178ae921057e3c6073a&chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&scene=0#rd)  
 - [2026-02-06-【第3655期】浏览器即运行时：一个零后端-AI-应用的前端架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278596&idx=1&sn=dea55dba00065e03f83445a08be9f33e&chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&scene=0#rd)  

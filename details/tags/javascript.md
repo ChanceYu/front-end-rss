@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-26 14:45:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-27 00:44:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613) 
 - [2026-02-19-Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612) 
 - [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599) 
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597) 

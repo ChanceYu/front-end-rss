@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-26 14:45:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-27 00:44:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613) 
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) 
 - [2024-09-17-Tough-cookies](https://nodeweekly.com/issues/548) 
 - [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546) 

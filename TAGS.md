@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-02-26 14:45:20。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-02-27 00:44:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -184,6 +184,7 @@
 
 
 
+- [【Node-Weekly】AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)
 - [【Node-Weekly】Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)
 - [【Node-Weekly】Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599)
 - [【Node-Weekly】Node.js-25.0-arrives](https://nodeweekly.com/issues/597)
@@ -203,7 +204,6 @@
 - [【Node-Weekly】Express.js-5.0](https://nodeweekly.com/issues/547)
 - [【Node-Weekly】Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)
 - [【Node-Weekly】Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)
-- [【Node-Weekly】The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -220,6 +220,7 @@
 
 
 
+- [【Node-Weekly】AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)
 - [【Node-Weekly】Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)
 - [【Node-Weekly】An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611)
 - [【Node-Weekly】Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610)
@@ -239,7 +240,6 @@
 - [【Node-Weekly】Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587)
 - [【Node-Weekly】Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)
 - [【Node-Weekly】Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)
-- [【Node-Weekly】Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -472,6 +472,7 @@
 
 
 
+- [【Node-Weekly】AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)
 - [【Node-Weekly】A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)
 - [【Node-Weekly】Tough-cookies](https://nodeweekly.com/issues/548)
 - [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
@@ -491,7 +492,6 @@
 - [【前端早读课】【第3655期】浏览器即运行时：一个零后端-AI-应用的前端架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278596&idx=1&sn=dea55dba00065e03f83445a08be9f33e&chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&scene=0#rd)
 - [【前端早读课】【第3638期】从-DevTools-到智能性能代理：用-AI-重塑前端性能分析的新方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278368&idx=1&sn=2fc907be01c3b32ada38b3fa9a4d2108&chksm=bc47e4400a8775b0ecda62fb1bc33a3a512999343456fa176c7f889028dbb0a0400260882e8f&scene=0#rd)
 - [【前端早读课】【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd)
-- [【前端早读课】【第3634期】React-Grab-for-Agents：让浏览器直接变成你的智能编码助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278322&idx=1&sn=c43cce27b410fbb89591247416026b52&chksm=bcade6422588c9d2478ee099e5a845982be3fc422b77b6b6ea7270e951d3442f736400efd6d1&scene=0#rd)
 - [查看更多 >](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -794,6 +794,7 @@
 
 
 
+- [【Node-Weekly】AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)
 - [【Node-Weekly】Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)
 - [【Node-Weekly】An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611)
 - [【Node-Weekly】Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610)
@@ -813,7 +814,6 @@
 - [【Node-Weekly】Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)
 - [【Node-Weekly】npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)
 - [【Node-Weekly】Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)
-- [【Node-Weekly】pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
