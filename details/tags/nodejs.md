@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-27 12:02:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-27 14:38:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -189,8 +189,8 @@
 - [2022-09-19-【第2734期】JavaScript-&amp;-Node.js-的测试最佳实践---第二章：后端测试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257980&idx=1&sn=f39c7c5770c4e19e02f4f2e78830e0ed&chksm=bd4925f88a3eacee35c60ec32e4506c7b6afd00b5065d45ee6e80da8ff941bd5dcc944c881aa#rd) 
 - [2022-09-18-【第2733期】如何优化-Node.js-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257976&idx=1&sn=e2affd0e0ac9c9436e5feff963ffb6b9&chksm=bd4925fc8a3eaceaa8d60da6de86f7ed15df3d5fef43f8c9fa12aadc3f751d9dffcf1b23e9cf#rd) 
 - [2022-09-17-【第2732期】JavaScript-&amp;-Node.js-的测试最佳实践---第一章:-测试剖析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257972&idx=1&sn=cdbb6190c73ff3e99309b629001e26e1&chksm=bd4925f08a3eace6374abd34526a0bda55ce48c30c0b70d968699c1511aae43761fe0f36146e#rd) 
-- [2022-07-30-【活动】2022年8月8日，NodeParty-来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256915&idx=2&sn=05053d91f2698d1f5281137944f71a55&chksm=bd4921d78a3ea8c1ec9aa1253c0be2eceaa4ff6ebbd7b380bca6b644b864676fdcb6c1df68d4#rd) 
 - [2022-07-30-【第2686期】蚂蚁@天猪：我的Node.js-十年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256915&idx=1&sn=9b89cf88137cc70f3a3c2ae9cee1e07d&chksm=bd4921d78a3ea8c198f181c2b5246397f2a4aec8d2461c5ed0797f32f8e6591357bbdb49a428#rd) 
+- [2022-07-30-【活动】2022年8月8日，NodeParty-来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256915&idx=2&sn=05053d91f2698d1f5281137944f71a55&chksm=bd4921d78a3ea8c1ec9aa1253c0be2eceaa4ff6ebbd7b380bca6b644b864676fdcb6c1df68d4#rd) 
 - [2022-05-26-【第2624期】Fastify-如何实现更快的-JSON-序列化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254454&idx=1&sn=be9e049e8a0d789a3fee91fc137298c2&chksm=bd4937328a3ebe24a3d6a1a9de7d3ae2a7ac70437ce27233f6aa063104969e513ef9e5241b3b#rd) 
 - [2022-03-08-【招聘】字节跳动飞书文档Node中台团队前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253108&idx=2&sn=443526fde1dac28e457fddb13055e2fe&chksm=bd4930f08a3eb9e6c66c0f0b2c7e672b42bbbb0d1cc59a0fad1c2c2e671d97c65c75a570b114#rd) 
 - [2022-01-23-【第2520期】为什么你应该考虑将-node_modules-上传到远程仓库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252508&idx=1&sn=50b5adf24f9007a13e7471aefd480e85&chksm=bd493e988a3eb78e965b39b2d06c7715ce601f0e5d44fb89820239fc959a3f9293b4b7bd5d5a#rd) 
@@ -223,15 +223,15 @@
 - [2019-07-07-【第1661期】-Node.js环境性能监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=1&sn=a48d2243fb88f7e2a4677b87a22aaaa7#rd) 
 - [2019-06-27-【第1651期】如何分析-Node.js-中的内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=2&sn=949c22914887fe5b639f6ac7b9ec59c2#rd) 
 - [2019-06-26-【图书】狼书（卷1）：更了不起的Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=2&sn=cb47a5978f35475f19ae1403988f65d6#rd) 
-- [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd) 
 - [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd) 
+- [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd) 
 - [2019-04-14-【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd) 
 - [2019-03-23-【招聘】天猫技术部招2020届Web前端,Node.js,数据可视化方向实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231803&idx=2&sn=5455d9be2ba40774a77c775cc179107a#rd) 
 - [2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect) 
 - [2019-01-18-【招聘】AliExpress招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=2&sn=18853570ec0182fbfd36648d46694dea#wechat_redirect) 
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
-- [2019-01-05-【第1496期】新手向之Vue.js-+-Node.jskoa-合体指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=1&sn=de2805651f5208b68ca93d77e3459844#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
+- [2019-01-05-【第1496期】新手向之Vue.js-+-Node.jskoa-合体指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=1&sn=de2805651f5208b68ca93d77e3459844#wechat_redirect) 
 - [2018-12-22-【第1484期】被污染的-npm-包：event-stream](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230782&idx=1&sn=a507bb9c9c61ad9f9cb4a30d6a4c2392#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
 - [2018-12-04-【第1466期】通俗漫画介绍-ArrayBuffers-和-SharedArrayBuffers](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230606&idx=1&sn=c3c84b13284fdcc64d1cb846152169b3#wechat_redirect) 

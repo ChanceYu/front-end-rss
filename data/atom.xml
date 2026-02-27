@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-27T04:02:12.369Z</updated>
+    <updated>2026-02-27T06:38:24.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 386 期）：当外卖员接入 AI]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html"/>
+        <updated>2026-02-27T00:00:00.000Z</updated>
+        <published>2026-02-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早阅】一周重写 Next.js：AI 如何造出更快更小的 vinext？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278624&amp;idx=1&amp;sn=80be0485ee26431b040c99831ee892e0&amp;chksm=bcf95c28d991f67474cce195039d75a5241bd6533bab509e5656b4773967b30e5986571d1f5c&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278624&amp;idx=1&amp;sn=80be0485ee26431b040c99831ee892e0&amp;chksm=bcf95c28d991f67474cce195039d75a5241bd6533bab509e5656b4773967b30e5986571d1f5c&amp;scene=0#rd"/>
         <updated>2026-02-27T00:00:00.000Z</updated>
         <published>2026-02-27T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[底裤被扒！Moltbook 150 万 AI 用户几乎全是水军。网友：人骗人全是自导自演]]></title>
         <id>http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw</id>
         <link href="http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw"/>
-        <updated>2026-02-03T00:00:00.000Z</updated>
-        <published>2026-02-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再像新手一样使用 Tailwind 了！]]></title>
-        <id>http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg</id>
-        <link href="http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg"/>
         <updated>2026-02-03T00:00:00.000Z</updated>
         <published>2026-02-03T00:00:00.000Z</published>
     </entry>
