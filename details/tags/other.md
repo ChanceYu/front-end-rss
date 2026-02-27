@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-27 09:02:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-27 12:02:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -12191,6 +12191,7 @@
 - [2018-08-04-原来浏览器原生支持JS-Base64编码解码](https://www.zhangxinxu.com/wordpress/2018/08/js-base64-atob-btoa-encode-decode/) 
 - [2018-08-02-万岁，浏览器原生支持ES6-export和import模块啦！](https://www.zhangxinxu.com/wordpress/2018/08/browser-native-es6-export-import-module/) 
 - [2018-07-26-隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/) 
+- [2026-02-27-科技爱好者周刊（第-386-期）：当外卖员接入-AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html) 
 - [2026-02-14-字节全家桶-Seed-2.0-+-TRAE-玩转-Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html) 
 - [2026-02-13-科技爱好者周刊（第-385-期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html) 
 - [2026-02-12-智谱旗舰-GLM-5-实测：对比-Opus-4.6-和-GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html) 

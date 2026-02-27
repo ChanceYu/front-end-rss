@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-27T01:02:51.206Z</updated>
+    <updated>2026-02-27T04:02:12.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 386 期）：当外卖员接入 AI]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html"/>
+        <updated>2026-02-27T00:00:00.000Z</updated>
+        <published>2026-02-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3658期】从终端到工作空间：MCP Apps 如何把 UI 带回 Agent 中心]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278618&amp;idx=1&amp;sn=fcdaf49c28f016098071d4e9eeb04b54&amp;chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[别再像新手一样使用 Tailwind 了！]]></title>
         <id>http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg</id>
         <link href="http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg"/>
-        <updated>2026-02-03T00:00:00.000Z</updated>
-        <published>2026-02-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3653期】一个 CLAUDE.md，让 AI 真正懂你的项目：从配置到长期提效的完整指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278571&amp;idx=1&amp;sn=66e4f199ff6c325a9415c9c4bf3dcaad&amp;chksm=bceeb354069809f66f10e42dd77ee53ddd2fe6b4bd73767e65eb964d87b7d2e268380ae6d6c9&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278571&amp;idx=1&amp;sn=66e4f199ff6c325a9415c9c4bf3dcaad&amp;chksm=bceeb354069809f66f10e42dd77ee53ddd2fe6b4bd73767e65eb964d87b7d2e268380ae6d6c9&amp;scene=0#rd"/>
         <updated>2026-02-03T00:00:00.000Z</updated>
         <published>2026-02-03T00:00:00.000Z</published>
     </entry>

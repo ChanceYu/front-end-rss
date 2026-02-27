@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-27 09:02:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-27 12:02:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -34,7 +34,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -140,7 +140,7 @@
 </summary>
 
 
-- [2026-02-26-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624085&idx=1&sn=0f1bbccd402eab8124a871c111231efb&chksm=80224554b755cc429f019d495ee77fc2c617cddc85b56c63fdfdcd7f933c5049c76f74362d5c#rd) ![](/assets/new.png)  
+- [2026-02-26-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624085&idx=1&sn=0f1bbccd402eab8124a871c111231efb&chksm=80224554b755cc429f019d495ee77fc2c617cddc85b56c63fdfdcd7f933c5049c76f74362d5c#rd)  
 - [2026-02-10-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624071&idx=1&sn=6bd3ec5a79da559646dd1622067c4a7d&chksm=80224546b755cc50ca0166514d46e5106802f8b0c9ca9a26033e00b03ee7d068f8a457359af4#rd)  
 - [2026-02-05-20-年-IT-老兵转行“收废品”！200+-场面试无果](http://mp.weixin.qq.com/s/oj2b_Sx2XVYOc4jC-gvpPA)  
 - [2026-02-04-谷歌Chrome觉醒！Gemini-3全面接管，38亿用户一夜进入Agent时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd)  
@@ -543,6 +543,7 @@
 </summary>
 
 
+- [2026-02-27-科技爱好者周刊（第-386-期）：当外卖员接入-AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html) ![](/assets/new.png)  
 - [2026-02-14-字节全家桶-Seed-2.0-+-TRAE-玩转-Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)  
 - [2026-02-13-科技爱好者周刊（第-385-期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)  
 - [2026-02-12-智谱旗舰-GLM-5-实测：对比-Opus-4.6-和-GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)  
@@ -562,7 +563,6 @@
 - [2024-11-22-科技爱好者周刊（第-326-期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)  
 - [2024-11-15-科技爱好者周刊（第-325-期）：VS-Code-编辑器的下一站是-Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)  
 - [2024-11-08-科技爱好者周刊（第-324-期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html)  
-- [2024-11-01-科技爱好者周刊（第-323-期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
