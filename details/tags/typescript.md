@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-27 14:38:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-27 22:32:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -452,8 +452,8 @@
 - [2016-02-26-使用npm-scripts替代gulp](https://jelly.jd.com/article/6006b1035b6c6a01506c8794) 
 - [2015-12-29-初识Adobe-After-Effects效果制作](https://jelly.jd.com/article/6006b1025b6c6a01506c8787) 
 - [2024-07-27-WebCodecs-Performance-and-Optimization-Insights](https://hughfenghen.github.io/posts/2024/07/27/webcodecs-performance-benchmark-en/) 
-- [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://fenghen.me/posts/2024/02/17/ts-choose-interface-type/) 
 - [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://hughfenghen.github.io/posts/2024/02/17/ts-choose-interface-type/) 
+- [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://fenghen.me/posts/2024/02/17/ts-choose-interface-type/) 
 - [2023-08-19-Web-Audio-&amp;-Video-6-Processing-Image-Assets](https://hughfenghen.github.io/posts/2023/08/19/webav-6-process-image-en/) 
-- [2023-03-27-系统化学习-TS-类型系统](https://fenghen.me/posts/2023/03/27/ts-types-system/) 
 - [2023-03-27-系统化学习-TS-类型系统](https://hughfenghen.github.io/posts/2023/03/27/ts-types-system/) 
+- [2023-03-27-系统化学习-TS-类型系统](https://fenghen.me/posts/2023/03/27/ts-types-system/) 

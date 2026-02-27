@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-27 14:38:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-27 22:32:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 图形图像
 
@@ -478,9 +478,9 @@
 - [2015-11-20-SVG-I-Know](https://jelly.jd.com/article/6006b1025b6c6a01506c877d) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://jelly.jd.com/article/6006b1025b6c6a01506c8778) 
 - [2015-11-02-使用Adobe-FLASH-CC制作Canvas动画](https://jelly.jd.com/article/6006b1025b6c6a01506c8777) 
-- [2023-08-19-Web-音视频（六）图像素材处理](https://fenghen.me/posts/2023/08/19/webav-6-process-image/) 
 - [2023-08-19-Web-音视频（六）图像素材处理](https://hughfenghen.github.io/posts/2023/08/19/webav-6-process-image/) 
-- [2023-07-07-WebGL-Chromakey-实时绿幕抠图](https://fenghen.me/posts/2023/07/07/webgl-chromakey/) 
+- [2023-08-19-Web-音视频（六）图像素材处理](https://fenghen.me/posts/2023/08/19/webav-6-process-image/) 
 - [2023-07-07-WebGL-Chromakey-实时绿幕抠图](https://hughfenghen.github.io/posts/2023/07/07/webgl-chromakey/) 
-- [2022-05-02-Mini-Canvas-Lib-核心交互实现原理](https://fenghen.me/posts/2022/05/02/canvas-lib/) 
+- [2023-07-07-WebGL-Chromakey-实时绿幕抠图](https://fenghen.me/posts/2023/07/07/webgl-chromakey/) 
 - [2022-05-02-Mini-Canvas-Lib-核心交互实现原理](https://hughfenghen.github.io/posts/2022/05/02/canvas-lib/) 
+- [2022-05-02-Mini-Canvas-Lib-核心交互实现原理](https://fenghen.me/posts/2022/05/02/canvas-lib/) 
