@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-27T14:32:35.536Z</updated>
+    <updated>2026-02-27T18:25:59.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,11 +22,25 @@
         <published>2026-02-27T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[为什么90%的AI项目都死在了落地环节？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529262&amp;idx=1&amp;sn=7b6b86aabaea8ada58f734af27ff4fd3&amp;chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529262&amp;idx=1&amp;sn=7b6b86aabaea8ada58f734af27ff4fd3&amp;chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd"/>
+        <updated>2026-02-27T00:00:00.000Z</updated>
+        <published>2026-02-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【早阅】一周重写 Next.js：AI 如何造出更快更小的 vinext？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278624&amp;idx=1&amp;sn=80be0485ee26431b040c99831ee892e0&amp;chksm=bcf95c28d991f67474cce195039d75a5241bd6533bab509e5656b4773967b30e5986571d1f5c&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278624&amp;idx=1&amp;sn=80be0485ee26431b040c99831ee892e0&amp;chksm=bcf95c28d991f67474cce195039d75a5241bd6533bab509e5656b4773967b30e5986571d1f5c&amp;scene=0#rd"/>
         <updated>2026-02-27T00:00:00.000Z</updated>
         <published>2026-02-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Agentic Dev：让前端开发工程师告别繁琐的代码修改流程]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529241&amp;idx=1&amp;sn=fc7f7e4f4e51dffce7c7a8c9305782e9&amp;chksm=f99275c8cee5fcde1d521915fffc1585cf90f033e5c3dec96d3b728d345f4fb29be65c544696#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529241&amp;idx=1&amp;sn=fc7f7e4f4e51dffce7c7a8c9305782e9&amp;chksm=f99275c8cee5fcde1d521915fffc1585cf90f033e5c3dec96d3b728d345f4fb29be65c544696#rd"/>
+        <updated>2026-02-26T00:00:00.000Z</updated>
+        <published>2026-02-26T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3658期】从终端到工作空间：MCP Apps 如何把 UI 带回 Agent 中心]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[AI Skills 正在重构前端开发]]></title>
         <id>http://mp.weixin.qq.com/s/eYE_QBqUqO1YVeIBNNy7ow</id>
         <link href="http://mp.weixin.qq.com/s/eYE_QBqUqO1YVeIBNNy7ow"/>
-        <updated>2026-02-03T00:00:00.000Z</updated>
-        <published>2026-02-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全栈神器！前端可以在CSS里写SQL语句啦！以后不需要后端了？]]></title>
-        <id>http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A</id>
-        <link href="http://mp.weixin.qq.com/s/J_qBalWqBnJ9a3RWV4Vf7A"/>
-        <updated>2026-02-03T00:00:00.000Z</updated>
-        <published>2026-02-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[底裤被扒！Moltbook 150 万 AI 用户几乎全是水军。网友：人骗人全是自导自演]]></title>
-        <id>http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw</id>
-        <link href="http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw"/>
         <updated>2026-02-03T00:00:00.000Z</updated>
         <published>2026-02-03T00:00:00.000Z</published>
     </entry>
