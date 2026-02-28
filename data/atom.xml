@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-27T18:25:59.981Z</updated>
+    <updated>2026-02-28T04:46:54.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3659期】JavaScript 显式资源管理来了：用 using 告别手写 try/finally]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278629&amp;idx=1&amp;sn=b51bc320fefe9c3d3d6f715b1d6626bf&amp;chksm=bcbd70cf21bc4ea4594b976fdf87464337c1c959619a4d9171bfd48615c7bc7d590804d6a601&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278629&amp;idx=1&amp;sn=b51bc320fefe9c3d3d6f715b1d6626bf&amp;chksm=bcbd70cf21bc4ea4594b976fdf87464337c1c959619a4d9171bfd48615c7bc7d590804d6a601&amp;scene=0#rd"/>
+        <updated>2026-02-28T00:00:00.000Z</updated>
+        <published>2026-02-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 386 期）：当外卖员接入 AI]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278580&amp;idx=1&amp;sn=a403b60c4548ca106722bb492ed6f504&amp;chksm=bc4466a6eee1321819c1f83cb706680a89d694d04d63131c48266839ff096964e8b396ddbb96&amp;scene=0#rd"/>
         <updated>2026-02-04T00:00:00.000Z</updated>
         <published>2026-02-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Skills 正在重构前端开发]]></title>
-        <id>http://mp.weixin.qq.com/s/eYE_QBqUqO1YVeIBNNy7ow</id>
-        <link href="http://mp.weixin.qq.com/s/eYE_QBqUqO1YVeIBNNy7ow"/>
-        <updated>2026-02-03T00:00:00.000Z</updated>
-        <published>2026-02-03T00:00:00.000Z</published>
     </entry>
 </feed>

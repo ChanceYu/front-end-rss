@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-28 02:25:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-28 12:46:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频
 
@@ -29,13 +29,13 @@
 - [2022-06-13-【直播】和Shopee前端技术专家聊聊前端高性能计算](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254947&idx=2&sn=e75e021c842308e1f0845b514a2475e7&chksm=bd4929278a3ea0316e4ee1df61d8083904fb4d927783d009543208fdf5e61653df3e7a79ab53#rd) 
 - [2022-05-24-【招聘】抖音直播大前端团队招前端工程师、前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254419&idx=2&sn=d6979e56a189fbec7311cb439578374c&chksm=bd4937178a3ebe01a221d3a76509fe637018e091406db9ac6a4b043984ad11ef314948d72599#rd) 
 - [2022-03-26-【第2568期】Web端短视频编辑器的设计与实现---像做PPT一样做视频](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253441&idx=1&sn=6fcc8a93d912b1c559ac6a999f604745&chksm=bd4933458a3eba533acafa511d46610d439e62b3df5abcdb092bbe585693f0cc68e1eebf96d6#rd) 
-- [2022-01-08-【活动】SEE-Conf-2022，9点直播间见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252080&idx=2&sn=3d86fe867c295107c5ec78bb4d657939&chksm=bd493cf48a3eb5e29950ef4d47a1c73a4dca019ff613e827cf81802cbf84ca5294ebbe50e223#rd) 
 - [2022-01-08-【第2505期】ES6-以上版本代码要不要转码成-ES5?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252080&idx=1&sn=89d2bd490fc5de73c317d3f4a1caeafb&chksm=bd493cf48a3eb5e266b1edb2d81a38897fc9412dc0784a7dd4c4f710dbcb460275ed2f4a84e5#rd) 
+- [2022-01-08-【活动】SEE-Conf-2022，9点直播间见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252080&idx=2&sn=3d86fe867c295107c5ec78bb4d657939&chksm=bd493cf48a3eb5e29950ef4d47a1c73a4dca019ff613e827cf81802cbf84ca5294ebbe50e223#rd) 
 - [2021-06-03-Why-WebRTC｜前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246562&idx=2&sn=ac7b3badf5f30f194ae8b98cf4bf46ef&chksm=bd4916668a3e9f70c6f61f50866faa0e942fb154f17fdd4cb106c611d4a01aa8a72fc80cc9bc&scene=27#wechat_redirect) 
 - [2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246110&idx=2&sn=d8a0d3acae6398b99e904704617468aa&chksm=bd49179a8a3e9e8c383b110112ed00b0e534af4ffda48ae40f114234bd91fc286c7f578fdb24&scene=27#wechat_redirect) 
 - [2021-04-29-【图书】WebRTC技术详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245783&idx=2&sn=759c93d7784e80bb338886f9f15a2ef8&chksm=bd4915538a3e9c45249c8e8b1193ca77f49cbfacc0987b0107a84754e0008d04ebf32a6455e0&scene=27#wechat_redirect) 
-- [2021-04-02-【图书】FFmpeg从入门到精通](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244922&idx=3&sn=6b18963d607edc384ae2c2838739a2d0&chksm=bd4910fe8a3e99e84f46e115ba81f57f0a2f5da7d87a15426951f9bf2856594fc0d2543f5661&scene=27#wechat_redirect) 
 - [2021-04-02-【第2244期】百家号在线视频编辑器的技术演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244922&idx=1&sn=58e737a8485e00107e02d2327dbf08b9&chksm=bd4910fe8a3e99e8a8186b09ea73a6073229c62526d241db27e0bf8558d549c52e77877e0130&scene=27#wechat_redirect) 
+- [2021-04-02-【图书】FFmpeg从入门到精通](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244922&idx=3&sn=6b18963d607edc384ae2c2838739a2d0&chksm=bd4910fe8a3e99e84f46e115ba81f57f0a2f5da7d87a15426951f9bf2856594fc0d2543f5661&scene=27#wechat_redirect) 
 - [2021-02-07-【视频】剖析三个常见的API调试工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243986&idx=2&sn=8beb3dbb7464cf582de77deec82caaa0&chksm=bd491c568a3e9540a331d7318dbcbbaa0f9240869c1e5ac7b669bb30927ee25950bec32c8b42&scene=27#wechat_redirect) 
 - [2021-02-06-【第2199期】如何在WebGL中实现短视频卡点动效](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243948&idx=1&sn=7f2c609ed504f046a6adf5703ce9756b&chksm=bd491c288a3e953e3f18db66784e4ef22563ce8b7478f8ce593b4e68819777c6260959321fbe&scene=27#wechat_redirect) 
 - [2021-02-05-【视频】玉伯心中的好团队](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243918&idx=2&sn=21b630aefdedbcdf60166dcc2ae48e75&chksm=bd491c0a8a3e951c1de191a8c9238f5654d7a0f9a6036ab3a58a438de418c64a34278784bb11&scene=27#wechat_redirect) 
@@ -62,9 +62,9 @@
 - [2019-09-30-【视频】360@月影：你不知道的GPU-—-前端、图形系统与数据可视化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=3&sn=59f7d08f587f0f227e0f3a060fed2199&chksm=bd4946e28a3ecff49f429caac5b16961c0e9604960dcb6a65249cc61b350a3c730d52a05d3ca&scene=27#wechat_redirect) 
 - [2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect) 
 - [2019-08-04-【招聘】深圳腾讯TGideas和腾讯视频招聘前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd) 
-- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect) 
-- [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect) 
 - [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd) 
+- [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect) 
+- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect) 
 - [2019-07-12-【视频】几行代码让页面自动刷新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd) 
 - [2019-07-10-【视频】浏览器全球市场份额的十年变迁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=2&sn=3069aa22721249d9767381908af0b777#rd) 
 - [2019-06-24-【视频】Vue-驱动的小程序+H5同构开发框架](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232784&idx=3&sn=69467f7f24551a8824986066334047a8#rd) 
