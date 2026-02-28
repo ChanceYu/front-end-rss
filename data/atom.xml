@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-28T06:23:18.270Z</updated>
+    <updated>2026-02-28T18:17:01.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[为什么90%的AI项目都死在了落地环节？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529262&amp;idx=1&amp;sn=7b6b86aabaea8ada58f734af27ff4fd3&amp;chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529262&amp;idx=1&amp;sn=7b6b86aabaea8ada58f734af27ff4fd3&amp;chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd"/>
+        <updated>2026-02-27T00:00:00.000Z</updated>
+        <published>2026-02-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仅用一个技巧，让 JavaScript 性能提速 500%！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508992&amp;idx=1&amp;sn=733842b0b0ece011008a3eea33d8fddb&amp;chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508992&amp;idx=1&amp;sn=733842b0b0ece011008a3eea33d8fddb&amp;chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd"/>
         <updated>2026-02-27T00:00:00.000Z</updated>
         <published>2026-02-27T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[一次大文件处理性能优化实录]]></title>
         <id>http://mp.weixin.qq.com/s/iVLS1iK_RtWpca3qzUtQ0w</id>
         <link href="http://mp.weixin.qq.com/s/iVLS1iK_RtWpca3qzUtQ0w"/>
-        <updated>2026-02-04T00:00:00.000Z</updated>
-        <published>2026-02-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v-model 淘汰！ Vue3 新玩法代码量减少 60%！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508687&amp;idx=1&amp;sn=1bc02b0bb9179310c90507c7544b4ea0&amp;chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508687&amp;idx=1&amp;sn=1bc02b0bb9179310c90507c7544b4ea0&amp;chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd"/>
         <updated>2026-02-04T00:00:00.000Z</updated>
         <published>2026-02-04T00:00:00.000Z</published>
     </entry>
