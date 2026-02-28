@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-28T04:46:54.911Z</updated>
+    <updated>2026-02-28T06:23:18.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 386 期）：当外卖员接入 AI]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html"/>
+        <updated>2026-02-27T00:00:00.000Z</updated>
+        <published>2026-02-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首届淘宝电商AI挑战赛来了！设350万赛事奖项和千万扶持资源]]></title>
+        <id>http://mp.weixin.qq.com/s/fqPFmkHUNvQ5GoQq0gl1Fw</id>
+        <link href="http://mp.weixin.qq.com/s/fqPFmkHUNvQ5GoQq0gl1Fw"/>
         <updated>2026-02-27T00:00:00.000Z</updated>
         <published>2026-02-27T00:00:00.000Z</published>
     </entry>
@@ -67,6 +74,13 @@
         <title type="html"><![CDATA[点击图片放大查看交互效果的最佳实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/"/>
+        <updated>2026-02-25T00:00:00.000Z</updated>
+        <published>2026-02-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI真人数字人语音对话性能优化实践总结]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542923&amp;idx=1&amp;sn=1403311c090693a4dc684ca861e515b6&amp;chksm=8390db53b4e75245e036e1e89b5f5fe80ee19d832b8c76c9946b9456f4091dfc134da88bdc54#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542923&amp;idx=1&amp;sn=1403311c090693a4dc684ca861e515b6&amp;chksm=8390db53b4e75245e036e1e89b5f5fe80ee19d832b8c76c9946b9456f4091dfc134da88bdc54#rd"/>
         <updated>2026-02-25T00:00:00.000Z</updated>
         <published>2026-02-25T00:00:00.000Z</published>
     </entry>
@@ -218,6 +232,13 @@
         <published>2026-02-12T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[从应用架构的视角看退小宝AI助手落地现状]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542896&amp;idx=1&amp;sn=b1152e8ffd9fdc3a6a4058e9e1602373&amp;chksm=8390db28b4e7523ee656b32696d103fed3781d59c48088c541ac40c8bbb18df921660af7afde#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542896&amp;idx=1&amp;sn=b1152e8ffd9fdc3a6a4058e9e1602373&amp;chksm=8390db28b4e7523ee656b32696d103fed3781d59c48088c541ac40c8bbb18df921660af7afde#rd"/>
+        <updated>2026-02-11T00:00:00.000Z</updated>
+        <published>2026-02-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pinia 超进化！从此不需要 Axios！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508754&amp;idx=1&amp;sn=14e7a5bfc29c7be4eb24f07ea07fe70c&amp;chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508754&amp;idx=1&amp;sn=14e7a5bfc29c7be4eb24f07ea07fe70c&amp;chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd"/>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[v-model 淘汰！ Vue3 新玩法代码量减少 60%！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508687&amp;idx=1&amp;sn=1bc02b0bb9179310c90507c7544b4ea0&amp;chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508687&amp;idx=1&amp;sn=1bc02b0bb9179310c90507c7544b4ea0&amp;chksm=ce45b75ef9323e486a499cf929ec10cf18bf4c4b5682994f1c6dd5d1184986f2f540cfaf1e5b#rd"/>
-        <updated>2026-02-04T00:00:00.000Z</updated>
-        <published>2026-02-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Skills 正在重构前端开发]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=1&amp;sn=13babe9ddebc8bead1645f6c0848cc30&amp;chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=1&amp;sn=13babe9ddebc8bead1645f6c0848cc30&amp;chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd"/>
-        <updated>2026-02-04T00:00:00.000Z</updated>
-        <published>2026-02-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌Chrome觉醒！Gemini 3全面接管，38亿用户一夜进入Agent时代]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=2&amp;sn=37c808ca69f24f963618f33854406d88&amp;chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624053&amp;idx=2&amp;sn=37c808ca69f24f963618f33854406d88&amp;chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd"/>
-        <updated>2026-02-04T00:00:00.000Z</updated>
-        <published>2026-02-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】Agent Trace：给 AI 写的代码留下一条“来龙去脉”]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278580&amp;idx=1&amp;sn=a403b60c4548ca106722bb492ed6f504&amp;chksm=bc4466a6eee1321819c1f83cb706680a89d694d04d63131c48266839ff096964e8b396ddbb96&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278580&amp;idx=1&amp;sn=a403b60c4548ca106722bb492ed6f504&amp;chksm=bc4466a6eee1321819c1f83cb706680a89d694d04d63131c48266839ff096964e8b396ddbb96&amp;scene=0#rd"/>
         <updated>2026-02-04T00:00:00.000Z</updated>
         <published>2026-02-04T00:00:00.000Z</published>
     </entry>

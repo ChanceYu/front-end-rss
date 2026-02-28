@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-28 12:46:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-28 14:23:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -624,6 +624,9 @@
 - [2023-06-29-大模型时代，老板将如何定义你的价值](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512115&idx=1&sn=7b7df89989ebcae78df2edfc8bee3e2b&chksm=eb07884adc70015cc2fe85ecea1a8d0565af83ce23c458ad54b03cfa764281498186fccf0d40#rd) 
 - [2023-06-27-我的第一个-Next.js-+-ChatGPT-项目，24-小时内爆炸-10000-用户！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512032&idx=1&sn=2993b856d32b27fe0451f4cb55c2072b&chksm=eb079799dc701e8f631af649901ccc3cbc8e5e824891d9ff220250ac24bd5a171eac493bf343#rd) 
 - [2023-12-18-尝试借助CSS-@container实现多行文本展开收起](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488723&idx=1&sn=8376aee095e38cb26bc4946ed2519869&chksm=97c6771ca0b1fe0ac7cd68f11dd0a2b1f36c2cb2b449e4f4117bf764c00336af655afd265059#rd) 
+- [2026-02-27-首届淘宝电商AI挑战赛来了！设350万赛事奖项和千万扶持资源](http://mp.weixin.qq.com/s/fqPFmkHUNvQ5GoQq0gl1Fw) 
+- [2026-02-25-AI真人数字人语音对话性能优化实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542923&idx=1&sn=1403311c090693a4dc684ca861e515b6&chksm=8390db53b4e75245e036e1e89b5f5fe80ee19d832b8c76c9946b9456f4091dfc134da88bdc54#rd) 
+- [2026-02-11-从应用架构的视角看退小宝AI助手落地现状](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542896&idx=1&sn=b1152e8ffd9fdc3a6a4058e9e1602373&chksm=8390db28b4e7523ee656b32696d103fed3781d59c48088c541ac40c8bbb18df921660af7afde#rd) 
 - [2026-02-09-设计模式Trustworthy-Generation：提升RAG信赖度](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542871&idx=1&sn=30f0fa05c0a2129017f6f3f19812a491&chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd) 
 - [2026-02-06-【AI-Coding】借助cursor实现业务需求全栈交付实践](http://mp.weixin.qq.com/s/wf3l4ngPTENl7rk88piRLg) 
 - [2026-01-30-【淘宝直播数字人互动LLM】告别AI感：基于真人ASR数据的拟人化探索](http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg) 
