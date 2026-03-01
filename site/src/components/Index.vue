@@ -552,6 +552,18 @@ export default {
       } else {
         localStorage.removeItem('matchSkill')
       }
+    },
+    syncSearchBoxPos () {
+      const container = this.$el.querySelector('.container')
+      const searchBox = this.$el.querySelector('.search-box')
+      if (!container || !searchBox) return
+      if (window.innerWidth <= 800) {
+        searchBox.removeAttribute('style')
+        return
+      }
+      const rect = container.getBoundingClientRect()
+      searchBox.style.left = rect.left + 'px'
+      searchBox.style.width = rect.width + 'px'
     }
   },
   async mounted () {
@@ -559,12 +571,20 @@ export default {
 
     this.searchValue = q || ''
 
+    await this.$nextTick()
+    this.syncSearchBoxPos()
+    this._syncSearchBoxPos = () => this.syncSearchBoxPos()
+    window.addEventListener('resize', this._syncSearchBoxPos)
+
     // 先加载数据和索引，再执行带 q 的搜索，避免索引未就绪时搜索结果为空
     await this.initLoad()
 
     if (this.searchValue) {
       await this.handlerSearch()
     }
+  },
+  beforeDestroy () {
+    window.removeEventListener('resize', this._syncSearchBoxPos)
   }
 }
 </script>
@@ -637,7 +657,7 @@ export default {
     margin: 0 auto;
     max-width: 720px;
     box-sizing: border-box;
-    padding: 0 .125rem
+    padding: 0
 }
 
 .fixed-box {
@@ -814,7 +834,7 @@ export default {
 }
 
 .result-box {
-    padding: .75rem 0 2rem;
+    padding: calc(4.25rem + env(safe-area-inset-top, 0)) 0 2rem;
     background: transparent;
     min-height: 80vh;
     box-sizing: border-box;
@@ -953,7 +973,7 @@ export default {
 }
 
 .search-box {
-    position: sticky;
+    position: fixed;
     top: env(safe-area-inset-top, 0);
     z-index: 9;
     padding: .5rem 0;
