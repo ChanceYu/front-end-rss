@@ -814,7 +814,7 @@ export default {
 }
 
 .result-box {
-    padding: calc(4.25rem + env(safe-area-inset-top, 0)) 0 2rem;
+    padding: .75rem 0 2rem;
     background: transparent;
     min-height: 80vh;
     box-sizing: border-box;
@@ -953,11 +953,8 @@ export default {
 }
 
 .search-box {
-    position: fixed;
+    position: sticky;
     top: env(safe-area-inset-top, 0);
-    left: max(.5rem, calc((100vw - 260px - 720px - .75rem) / 2 + 260px + .75rem + .125rem));
-    width: calc(720px - .25rem);
-    max-width: calc(100vw - 260px - .75rem - 1rem - .25rem);
     z-index: 9;
     padding: .5rem 0;
     background: #ffffff;
@@ -1061,8 +1058,7 @@ export default {
         margin-left: calc(220px + .75rem)
     }
     .search-box {
-        left: max(.5rem, calc((100vw - 220px - 720px - .75rem) / 2 + 220px + .75rem + .125rem));
-        width: calc(720px - .25rem)
+        width: 100%
     }
 }
 
