@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-28 02:25:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-01 02:17:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器
 
@@ -122,8 +122,8 @@
 - [2020-09-05-【第2055期】如何用JavaScript检测空闲的浏览器标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651239394&idx=1&sn=263ba0de0a5c81dce9cfe697e9a0fb68&chksm=bd496a668a3ee370ccfc294c2f13b1d6d20c3a5fce74f473fb010b33d2cc5463fc176a8487cf&scene=27#wechat_redirect) 
 - [2020-08-08-【第2027期】图解CORS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238753&idx=1&sn=b4f7eb078c758790cc8a2a1a6c346ae4&chksm=bd4968e58a3ee1f393eff371ade7e5ecb604ca0816047ccbab11e7029206cb02584929167bf0&scene=27#wechat_redirect) 
 - [2020-08-06-【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238674&idx=2&sn=bd7140744ce07e2df59ba8811cbb5b59&chksm=bd4968968a3ee180215660462ec6802f4f1c411df78e9eb1402a9514a95648591e580d4ead3e&scene=27#wechat_redirect) 
-- [2020-07-21-【招聘】腾讯IEG互动娱乐招Web前端开发-/UI开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238215&idx=2&sn=ef816a9e2a43a554fbc57646b34b8118&chksm=bd4976c38a3effd5f75ff6b63985d7e58565218456b749333a7e873df07f8b9eddb332c75eec&scene=27#wechat_redirect) 
 - [2020-07-21-【第2009期】实现-Bilibili-视频播放Chrome-媒体控制效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238215&idx=1&sn=8737856499f6f65f389a119d595727e5&chksm=bd4976c38a3effd5ec9e58be8e0ebcc8a635e6ffbb5b2724e6235c2b217b701f4b81b67be65d&scene=27#wechat_redirect) 
+- [2020-07-21-【招聘】腾讯IEG互动娱乐招Web前端开发-/UI开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238215&idx=2&sn=ef816a9e2a43a554fbc57646b34b8118&chksm=bd4976c38a3effd5f75ff6b63985d7e58565218456b749333a7e873df07f8b9eddb332c75eec&scene=27#wechat_redirect) 
 - [2020-07-15-【第2003期】在浏览器中存储数据---IndexedDB](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238062&idx=1&sn=ac4ca78f1e777db30729b4c77e3d75af&chksm=bd49772a8a3efe3cb6f0cb660f08d387db627b7cba11d921ef0b74e2ef9e84bd91351f4a0dd8&scene=27#wechat_redirect) 
 - [2020-07-07-【早读】Service-workers：PWA背后的英雄](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237915&idx=2&sn=eee3250b18c3a4b406f96287183e92ef&chksm=bd49779f8a3efe89f2aa1575149f6dd19ec5aea0dba983784bae9f7e0fa171fad6dbda19bd2e&scene=27#wechat_redirect) 
 - [2020-06-21-【第1982期】前端架构101：从-Flux-进化到-Model-View-Presenter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237498&idx=1&sn=84781c45971a66d4a66e7d1961e93733&chksm=bd4975fe8a3efce84f56f2043bea8d0ee19dd175c22d1c65af5add50c73b7f2270901fe9d98c&scene=27#wechat_redirect) 
