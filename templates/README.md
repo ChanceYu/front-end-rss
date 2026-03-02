@@ -28,7 +28,7 @@
 </summary>
 
 <% _.each(e.items.slice(0,10), function(item, index){ var itemTitle = obj.formatTitle(item.title); %>
-- [<%= item.date %>-<%= itemTitle %>](<%= item.link %>) <% if (e.title in obj.newData.rss && item.link in obj.newData.links){ %>![](/assets/new.png) <% } %><% if(obj.processedMap[item.link]){ %>&nbsp;&nbsp;[📖](/data/articles/<%= obj.processedMap[item.link] %>/page.md) <% } %><% }) %>
+- [<%= item.date %>-<%= itemTitle %>](<%= item.link %>)<% if(obj.processedMap[item.link]){ %>&nbsp;&nbsp;[📖](/data/articles/<%= obj.processedMap[item.link] %>/page.md) <% } %> <% if (e.title in obj.newData.rss && item.link in obj.newData.links){ %>![](/assets/new.png) <% } %><% }) %>
 - [查看更多 >](/details/<%= e.title %>.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
