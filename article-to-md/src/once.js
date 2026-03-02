@@ -12,7 +12,7 @@ export default async function once(article) {
 
 // Only run directly when this file is the entry point, not when imported by server.js
 if (process.argv[1].endsWith('once.js')) {
-  const newArticlesPath = join(__dirname, '..', '..', '..', 'server', 'node_modules', 'new-articles.json')
+  const newArticlesPath = join(__dirname, '..', '..', 'server', 'node_modules', 'new-articles.json')
 
   if (existsSync(newArticlesPath)) {
     const articles = JSON.parse(readFileSync(newArticlesPath, 'utf-8'))
