@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-03 01:35:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-03 01:50:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -9,7 +9,7 @@
 
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) 
 - [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765) 
-- [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd) [📖](/data/articles/2ff39535b8c26628c9bff92be6871d4c/page.md) 
+- [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/2ff39535b8c26628c9bff92be6871d4c/page.md) 
 - [2025-11-21-【第3615期】前端安全：setHTML、Trusted-Types-和-Sanitizer-API-使用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277961&idx=1&sn=8233a680cb05111a5e2d4f66619baedb&chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&scene=0#rd) 
 - [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd) 
 - [2025-07-24-【第3557期】使用-useOptimistic-让应用即时响应](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277043&idx=1&sn=dfb90d213c9401e9888a0121b0edce14&chksm=bc1685e5b06f977099fb9344b296723f40b3ad46e73ee66284df7ddf630e164daddb741b9247&scene=0#rd) 
@@ -26,8 +26,8 @@
 - [2022-12-28-【早说】白帽SEO和黑帽SEO](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259958&idx=3&sn=f296a0ace4bd39ddd8561ab852dc3e86&chksm=bd48ddb28a3f54a4c211b508b03b3cd50085b254a40c278cf6dbfdb2c1958a2491d1c35f9803#rd) 
 - [2022-11-03-【第2772期】单标签实现复杂的棋盘布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=2&sn=8995e972fd6e8f60f1f38acb9745adc9&chksm=bd4926e88a3eaffe41714ea4eb81b7ae2321ad2198087789d8d6246ca6c30a77acd84410853a#rd) 
 - [2022-09-09-【第2727期】基于-iframe-的微前端框架-——-擎天](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257881&idx=1&sn=0087e67468cc1f9f9cdf865f9a02fe95&chksm=bd49259d8a3eac8bbf8c53dadb674705b59f6dd965d71dbfa509fc223d312d6ac8ddce56b527#rd) 
-- [2022-06-18-【第2644期】Semi-Design-中的无障碍设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255277&idx=1&sn=cf007eb761d20da68fc7d90500c1d7bd&chksm=bd4928698a3ea17fb97181b0015e6cc0a7d503c102fc777b318c929a1480b7892a9c4a0ef380#rd) 
 - [2022-06-18-【PPT】微众银行无障碍建设案例分享](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255277&idx=2&sn=57d6cfe8aeac42c67eebb6de7c5af61f&chksm=bd4928698a3ea17f05cb22ef3c20d29721fc8ade59b36d68d6f3b6b28a2e66745129e56026cc#rd) 
+- [2022-06-18-【第2644期】Semi-Design-中的无障碍设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255277&idx=1&sn=cf007eb761d20da68fc7d90500c1d7bd&chksm=bd4928698a3ea17fb97181b0015e6cc0a7d503c102fc777b318c929a1480b7892a9c4a0ef380#rd) 
 - [2022-05-05-【第2603期】Web-可访问性与无障碍最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254075&idx=1&sn=7a2d42ad18f7f6c91801c7c8dcd38df4&chksm=bd4934bf8a3ebda9c1a91831a3c583a97edf2a3c1cfabdd4709396856928800faaf04821e334#rd) 
 - [2022-04-14-【PPT】腾讯Web无障碍化解决方案与腾讯文档实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253806&idx=2&sn=fc35ee0819797b556846cb5ab2ab8ada&chksm=bd4935aa8a3ebcbcfb09deaddbc768949be14790f9d70758356547276a41890701900a38a3fd#rd) 
 - [2022-02-25-【第2539期】动手打造一款-canvas-排版引擎](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252843&idx=1&sn=523ed1fd96405b60cbad074e8085d86c&chksm=bd4931ef8a3eb8f9f9f469a5219a1d74a0670918e70b477ac497207d412f9f602b39a7348baf#rd) 
@@ -100,8 +100,8 @@
 - [2022-02-27-Canvas在超级玛丽游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061347&idx=3&sn=585cb7f75ff968542733b542cbf855fa&chksm=87c42373b0b3aa65e751633354a1c94727ac95af1e28c5585a08c433f0f7ff61c275ab9c0af1#rd) 
 - [2022-02-11-为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061006&idx=1&sn=0a6225ad1c7fa7db92f4f1421c56f704&chksm=87c4201eb0b3a908673b3ddcbeb562039935f2e5268e74903eb32a86afad6d3d5224009277b3#rd) 
 - [2022-01-05-为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=1&sn=ae23a10a1f0dfb3983bbca0c666f5e07&chksm=87c42138b0b3a82e5fe52bcfd5a68be0bbf3d0a2815c9fdf433448d686adc4f4528505eaacb0#rd) 
-- [2026-01-26-前端指纹技术是如何实现的？（Canvas、Audio、硬件API-核心原理解密）](http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA) [📖](/data/articles/96d3cf561da87fe6ff40c460cf1e47ba/page.md) 
-- [2026-01-08-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528897&idx=1&sn=e2376b422982b6d06d72409e12feffde&chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd) [📖](/data/articles/967c27ada9a16ca702dbce7d202010a4/page.md) 
+- [2026-01-26-前端指纹技术是如何实现的？（Canvas、Audio、硬件API-核心原理解密）](http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA)&nbsp;&nbsp;[📖](/data/articles/96d3cf561da87fe6ff40c460cf1e47ba/page.md) 
+- [2026-01-08-浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528897&idx=1&sn=e2376b422982b6d06d72409e12feffde&chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd)&nbsp;&nbsp;[📖](/data/articles/967c27ada9a16ca702dbce7d202010a4/page.md) 
 - [2025-11-06-HTML-的隐藏宝藏：&lt;output&gt;-标签](http://mp.weixin.qq.com/s/7nZaXzKEN-FURR91suJWUA) 
 - [2025-09-12-为什么语义-HTML-仍然重要？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527814&idx=1&sn=f0d28c0419b2fa04fa24aaa122ec633c&chksm=f9926b57cee5e241e3ca3cfd8f71b34fbb2ede9caa87ca6b1932526faa9fb0d5447a093622e3#rd) 
 - [2025-08-26-还在用html2canvas？介绍一个比它快100倍的截图神器！](http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g) 
@@ -133,7 +133,7 @@
 - [2023-02-14-现代图片性能优化及体验优化指南---图片类型及-Picture-标签的使用](https://mp.weixin.qq.com/s/LZ86LkmGwmZMUFLCLjDa4g) 
 - [2022-02-21-ReolAudio---基于分帧的-Web-音频工程解决方案](https://mp.weixin.qq.com/s/2VWAbnM-szhIXOx3n7_JfA) 
 - [2023-08-14-前端食堂技术周刊第-94-期：TS-5.2-RC、从零实现-RSC、Redux-迁移至-ESM-之旅、HTML-满汉全席](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498460&idx=1&sn=3f589c613a2a318a62b2e785129ec7e9&chksm=c2b33b23f5c4b235c7826453f70890327adbddb51b6d9af8d24c801ddc6b3c60a9ae82c41481#rd) 
-- [2026-01-12-Chrome-新-API：仅-6-行-HTML！页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517507&idx=1&sn=a6f4ad2cc56005263c666f6dbce84219&chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd) [📖](/data/articles/7a2a483828d3582bded0c9a99428b6e5/page.md) 
+- [2026-01-12-Chrome-新-API：仅-6-行-HTML！页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517507&idx=1&sn=a6f4ad2cc56005263c666f6dbce84219&chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd)&nbsp;&nbsp;[📖](/data/articles/7a2a483828d3582bded0c9a99428b6e5/page.md) 
 - [2025-09-01-Chrome-全新-API：仅-6-行-HTML！让页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517394&idx=1&sn=04a789c65347a9830448b7ab63da3cc7&chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd) 
 - [2025-07-04-弃用-html2canvas！快-93-倍的截图神器！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517319&idx=1&sn=17d9a16e0f3350c7c23290a961eea7c0&chksm=eb07bcfedc7035e88353d88396bce029044bfbb66b3947bd513a038afb795fde774e16051017#rd) 
 - [2023-07-22-官宣离职！React-核心开发者-Dan-Abramov：“苦乐参半，我要辞去-Meta-的工作”](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512630&idx=1&sn=32f2815cce981921812c06b42ba5484a&chksm=eb078a4fdc700359a9c0363fa37d1023a2c6833d338b06b80771bd2bb5a6a3524227cae22018#rd) 
@@ -141,7 +141,7 @@
 - [2023-11-03-单标签CSS绘制合集](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488430&idx=1&sn=e1f21493aaaa6cf1621b4d7787f3de3e&chksm=97c67061a0b1f97753678d844636742a10648da0e224223fc891d9f9082f5c06792772d6c0f5#rd) 
 - [2023-08-16-CSS-TIPS!单-img-标签实现的缩放效果](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487932&idx=1&sn=1b39067b182926a9024ba2cc78515467&chksm=97c67273a0b1fb651fe47c58c21889657f15fd05d378891ff52dbfd3d0a1ee288d41f9f300c7#rd) 
 - [2023-06-28-CSS-TIPS!-单标签实现丝带角标](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487590&idx=1&sn=6e3bea6be5cc5211d80c66ef52a59aa2&chksm=97c673a9a0b1fabfa422dbb3e60f2ed7a360d7bfb9160a47772ef480bb4e0ae1dd6ca62bd0d3#rd) 
-- [2026-01-16-AI-无障碍-CR-与自动适配实践：从问题洞察到效果验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542406&idx=1&sn=c89b4adb5deec25be5dc4ea1a457135a&chksm=8390d95eb4e750482af226d6188dc30f517e75f23da16eb97be227d774d61a4ff201d402b8aa#rd) [📖](/data/articles/0ed2045e03c011ac332f9f6ffcd5654e/page.md) 
+- [2026-01-16-AI-无障碍-CR-与自动适配实践：从问题洞察到效果验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542406&idx=1&sn=c89b4adb5deec25be5dc4ea1a457135a&chksm=8390d95eb4e750482af226d6188dc30f517e75f23da16eb97be227d774d61a4ff201d402b8aa#rd)&nbsp;&nbsp;[📖](/data/articles/0ed2045e03c011ac332f9f6ffcd5654e/page.md) 
 - [2022-06-27-大前端播放器-VideoX-如何回应业务诉求](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496052&idx=1&sn=a799a96e01d4b75fd3ae3891a54db80b&chksm=ec47bab7db3033a18dc07f55449893976f280324c8ed5d44699eb640cc65525ce06082d60295#rd) 
 - [2022-04-21-如何使用-JS-实现一个-HTML-解析器](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495537&idx=1&sn=c8d0ef67964f583317add7d1cf4501e3&chksm=ec47a4b2db302da408aa046fd978a4bb008e5704836aaf729d45f1075478401a8a1d99022e81#rd) 
 - [2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution) 

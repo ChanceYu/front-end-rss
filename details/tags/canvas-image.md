@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-03 01:35:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-03 01:50:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 图形图像
 
@@ -7,11 +7,11 @@
 
 
 
-- [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607) [📖](/data/articles/cc60a67f3bd7d952bacd2b063e489b7e/page.md) 
+- [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)&nbsp;&nbsp;[📖](/data/articles/cc60a67f3bd7d952bacd2b063e489b7e/page.md) 
 - [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589) 
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) 
 - [2023-03-17-Transformers:-JavaScript-in-Disguise](https://javascriptweekly.com/issues/630) 
-- [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd) [📖](/data/articles/2ff39535b8c26628c9bff92be6871d4c/page.md) 
+- [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/2ff39535b8c26628c9bff92be6871d4c/page.md) 
 - [2025-12-11-【第3624期】SVG-Filters---Clickjacking-2.0：一种全新的网络攻击技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278138&idx=1&sn=695b4035b94470500180e5e1215d108c&chksm=bc98f2b1a736b5c91a656e34fedcec676dff2cf32a280d209632614af5e1d4a820237eb560bf&scene=0#rd) 
 - [2025-11-14-【第3612期】状态驱动-vs-Signal驱动渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277910&idx=1&sn=6f0e42078d52518928a8b7c6101a6d44&chksm=bc945a3383f403516ea6ee446cd2c4f32a276bed2ea21e68e8fa59236e274beb3e033810e4a2&scene=0#rd) 
 - [2025-09-24-【第3594期】拥抱新一代-Web-3D-引擎，Three.js-项目快速升级-Galacean-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277508&idx=1&sn=c3bf6d777fa78916a2def84141deeea5&chksm=bc435a6772de5b27066850c713fd01830189809ff74015308d7fe6c84f10df04823f9095fab9&scene=0#rd) 
@@ -57,8 +57,8 @@
 - [2021-06-02-从-0-到-1-掌握Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246542&idx=1&sn=ba3c1060f812a65bc6db39d31457799f&chksm=bd49164a8a3e9f5ca1205152e684e0b91550a3e9a3953ab9669946382842f7e7749681ec77a1&scene=27#wechat_redirect) 
 - [2021-05-21-前端进阶高薪必看：Webpack原理剖析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246144&idx=1&sn=dbb186b98ea664b06db685f148bff3ed&chksm=bd4917c48a3e9ed21242d80c4f9d2c7f505b71cf37c0c61fb9cf49eeb3a112bedcf68db65e25&scene=27#wechat_redirect) 
 - [2021-05-15-【第2279期】Oasis-引擎渲染管线的优化之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246012&idx=1&sn=56ce6c5141931418841e1d10307b5922&chksm=bd4914388a3e9d2ed2f8ca27c8983af3c58569aafae21924dca65ce128fda8553cd11444ecc6&scene=27#wechat_redirect) 
-- [2021-05-07-【第2271期】如何1人5天开发完3D数据可视化大屏之四](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245850&idx=2&sn=ba167dd3d978ffb07a49106071cedbab&chksm=bd49149e8a3e9d88295e31fd4fb7292d684f43e4405b494eb8e0a59467384966da22395e2b51&scene=27#wechat_redirect) 
 - [2021-05-07-手写一个mini-webpack后，再也不怕面试官问我webpack原理了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245850&idx=1&sn=4506a3533edf9b44a1625f68860f8154&chksm=bd49149e8a3e9d884a36ea7c4d6783c8e4de018c766030f231942f197cae8d9346d56024c1b5&scene=27#wechat_redirect) 
+- [2021-05-07-【第2271期】如何1人5天开发完3D数据可视化大屏之四](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245850&idx=2&sn=ba167dd3d978ffb07a49106071cedbab&chksm=bd49149e8a3e9d88295e31fd4fb7292d684f43e4405b494eb8e0a59467384966da22395e2b51&scene=27#wechat_redirect) 
 - [2021-04-28-【第2267期】如何1人5天开发完3D数据可视化大屏之三](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245750&idx=2&sn=7d20f34029457a5dd5479fd89480fb0d&chksm=bd4915328a3e9c2434d9ed5bf92d76e1ef191704c1270cc56d7f69bd8e33d34e084fa62747d0&scene=27#wechat_redirect) 
 - [2021-04-01-【第2243期】从零开始:Webpack-优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244888&idx=2&sn=0c7cfa9cfb750ab9d4151c41983305c6&chksm=bd4910dc8a3e99ca1ada1b94ca8cb1a0a444053f485594179556be031496874b1822539eb560&scene=27#wechat_redirect) 
 - [2021-02-06-【第2199期】如何在WebGL中实现短视频卡点动效](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243948&idx=1&sn=7f2c609ed504f046a6adf5703ce9756b&chksm=bd491c288a3e953e3f18db66784e4ef22563ce8b7478f8ce593b4e68819777c6260959321fbe&scene=27#wechat_redirect) 
@@ -70,8 +70,8 @@
 - [2020-12-03-【第2035期】边缘渲染在首屏性能优化上的尝试与突破](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241628&idx=1&sn=f0a9fc7972fd68d34dd03cca45305bcd&chksm=bd4965188a3eec0e9f3723ae2a4eef6e6dfa6976e44e6d100b637af92bf07f8626427582eb90&scene=27#wechat_redirect) 
 - [2020-11-24-前端人必备：前端与图形学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241276&idx=1&sn=7d5eb2d0986a50af093ddc2da2f9eb95&chksm=bd4962b88a3eebae5511c889f473eb18cc2684ce318b02dca3086fb302f7279f87cd63cf6489&scene=27#wechat_redirect) 
 - [2020-11-18-重学webpack4之loader开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241160&idx=2&sn=b2b1f90de6978a6e284066c896ef3210&chksm=bd49634c8a3eea5a5df5aaca0e219f4a78c8f457409a3cf69841fed4b1a739d3ecd135f6c8d1&scene=27#wechat_redirect) 
-- [2020-11-17-重学webpack4之基础篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241119&idx=3&sn=30219d92d7cf3d9966965bd7812b9759&chksm=bd49631b8a3eea0d81604659b6149ac9d6b80f47755804af6020e72aa8b0a473adf2a5d9c35b&scene=27#wechat_redirect) 
 - [2020-11-17-【第2120期】如何1人5天开发完3D数据可视化大屏之二](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241119&idx=2&sn=80f29716da2c5e133f46591a94f8bedb&chksm=bd49631b8a3eea0df262597e44edcb97b3d5ba3b93efe4c8ca2fc1314a2f79fbeecd516991e2&scene=27#wechat_redirect) 
+- [2020-11-17-重学webpack4之基础篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241119&idx=3&sn=30219d92d7cf3d9966965bd7812b9759&chksm=bd49631b8a3eea0d81604659b6149ac9d6b80f47755804af6020e72aa8b0a473adf2a5d9c35b&scene=27#wechat_redirect) 
 - [2020-11-16-重学webpack4之原理分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241102&idx=3&sn=3eece875fa36d521f4183181dce58f7e&chksm=bd49630a8a3eea1c943623d5c6d4d84543972b3b923b84e413bf15aa6f1a2303985c11946864&scene=27#wechat_redirect) 
 - [2020-11-01-【第2104期】如何1人5天开发完3D数据可视化大屏之一](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651240788&idx=1&sn=c5ed645338a9a2dc76c2bf833c265b35&chksm=bd4960d08a3ee9c6c492601ba01bee34ad839b04e94c644bbff8e1b6658d5cbed939c698b6d7&scene=27#wechat_redirect) 
 - [2020-10-23-【第2095期】用Canvas实现一个动态甜甜圈图表](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651240436&idx=2&sn=25849d34dc224bd78f2c082477126a6a&chksm=bd496e708a3ee766ff17c21684a6d428ef9f407b1f25ef3449f950512fd7745d1cfd2778384b&scene=27#wechat_redirect) 
@@ -84,8 +84,8 @@
 - [2020-07-24-【第2012期】支付宝Web3D发展史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238341&idx=1&sn=677b288a0e2983ed508eca8a762b132b&chksm=bd4976418a3eff57f7adcb4b391d9c619241246d9f74a25970029366397034b9fbfc9ce9b242&scene=27#wechat_redirect) 
 - [2020-07-08-【第1996期】前端性能优化：当页面渲染遇上边缘计算](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237937&idx=1&sn=e548aa7465ff0be4e3040a690509b79a&chksm=bd4977b58a3efea380e9f04817b25093a44853907ce86c9283d635b6a6d61d562aa25ddfdcd7&scene=27#wechat_redirect) 
 - [2020-06-29-【第1987期】Vue3-Compiler-优化细节，如何手写高性能渲染函数](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237649&idx=1&sn=9a4cf8651299e89449ba52f16878b410&chksm=bd4974958a3efd8304d83f19d2ee8560210bca771191a17d83f70987aa4c77e0217f8e0994c7&scene=27#wechat_redirect) 
-- [2020-06-28-【第1986期】使用-Figma-+-GitHub-Actions-完成-SVG-图标的完全自动化交](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237639&idx=1&sn=14cddfda7767be0db68f93034fa4a29d&chksm=bd4974838a3efd95db64be1b871685ce583cd53a505c2876216ded23ac8b93923ef6fbcd18c7&scene=27#wechat_redirect) 
 - [2020-06-28-【早读】Web渲染概述](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237639&idx=3&sn=b9fa56ce6accd73c30316178ef928e92&chksm=bd4974838a3efd953e3f6898ca3b4b6bf570d710f0ae7193f60def70848ab5257dddb96945d3&scene=27#wechat_redirect) 
+- [2020-06-28-【第1986期】使用-Figma-+-GitHub-Actions-完成-SVG-图标的完全自动化交](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237639&idx=1&sn=14cddfda7767be0db68f93034fa4a29d&chksm=bd4974838a3efd95db64be1b871685ce583cd53a505c2876216ded23ac8b93923ef6fbcd18c7&scene=27#wechat_redirect) 
 - [2020-06-24-【第1985期】webpack与rollup背后的acorn](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237597&idx=1&sn=29d7c2d32920e575ec256a020ebc209c&chksm=bd4975598a3efc4f9bfe19ea8bbf7b57e5c9cd44d6ad184d68bce399b2400897b4e7ac264263&scene=27#wechat_redirect) 
 - [2020-06-12-【第1973期】SVG-图标制作指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237300&idx=1&sn=f8c774313fa66ec39b62b00374687080&chksm=bd4972308a3efb26a5ef6be24e1e005d5489bff99af554f3b5ee40c12314851cb88dbb064e63&scene=27#wechat_redirect) 
 - [2020-05-31-【第1961期】如何用Canvas拍出JDer's工作照](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236999&idx=1&sn=d41f301d13a9013be9ce03cf472c3819&chksm=bd4973038a3efa15eae4c213054ee4cf5a04c6280d0384f33b197d734b85f0f696839b5e0208&scene=27#wechat_redirect) 
@@ -291,7 +291,7 @@
 - [2022-03-12-一文精通-Webpack-构建流程](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061634&idx=3&sn=375f643def31736a516ba151d954abfd&chksm=87c42292b0b3ab848044aae85fafc0cbd870568d2688ffe5cd5fdd6a7f8de47dfadec3981fb9#rd) 
 - [2022-02-27-Canvas在超级玛丽游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061347&idx=3&sn=585cb7f75ff968542733b542cbf855fa&chksm=87c42373b0b3aa65e751633354a1c94727ac95af1e28c5585a08c433f0f7ff61c275ab9c0af1#rd) 
 - [2022-01-22-一文精通-Webpack-构建流程](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060935&idx=2&sn=3351595ab8ac1dad314e0efda7adb0a2&chksm=87c421d7b0b3a8c1d19300c510cf3cac2255797b9db722bb9d263ae288d7c55c3143c49e5f1f#rd) 
-- [2026-01-26-前端指纹技术是如何实现的？（Canvas、Audio、硬件API-核心原理解密）](http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA) [📖](/data/articles/96d3cf561da87fe6ff40c460cf1e47ba/page.md) 
+- [2026-01-26-前端指纹技术是如何实现的？（Canvas、Audio、硬件API-核心原理解密）](http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA)&nbsp;&nbsp;[📖](/data/articles/96d3cf561da87fe6ff40c460cf1e47ba/page.md) 
 - [2026-01-05-公司-React-应用感觉很慢，我把没必要的重复渲染砍掉了-40%!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528820&idx=1&sn=3df4c71c941a7b1670226aabf7c2ee64&chksm=f99277a5cee5feb3bb43079b733ecab8b2a6606b56d748e1c17d6e80b1f51c14cbd6d2e226ce#rd) 
 - [2025-12-04-如何用隐形字符给公司内部文档加盲水印?抓内鬼神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528489&idx=1&sn=be47f1a844b05ee7064e970cdb6cfc95&chksm=f99276f8cee5ffeeb34aee7e4eaa0c1a06826b689127ea018b9a120334bfa17ef6a835b0c463#rd) 
 - [2025-08-27-纯前端实现图片伪3D视差效果](http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw) 
@@ -365,7 +365,7 @@
 - [2025-10-06-实测腾讯混元图像3.0，不愧是全球第一](http://mp.weixin.qq.com/s/IBEXxq2o7f0cJVLc6S1QLQ) 
 - [2023-08-01-前端食堂技术周刊第-92-期：VueConf-2023、TypeChat、向量数据库、Nuxt-服务器组件指南](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498415&idx=1&sn=124f79204b62faf229387a6f118a3e33&chksm=c2b33b50f5c4b24687eff993ed5ed67cb7258b2a85c2522b412bd5782af64a822e3aeae184c8#rd) 
 - [2023-04-09-前端食堂技术周刊第-78-期：WebGPU、Astro-2.2、Node.js-事件循环可视化指南、实用-Web-API-规范](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497832&idx=1&sn=d0b228c56698412a97a604a81049ac87&chksm=c2b33997f5c4b08122c5c9cc5adef9f0956f80e385663bdfd99f7e4ec4e7eeb18a589bfbb424#rd) 
-- [2026-02-12-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ) [📖](/data/articles/6f08809af23a3683c36a0f0826510f6e/page.md) 
+- [2026-02-12-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ)&nbsp;&nbsp;[📖](/data/articles/6f08809af23a3683c36a0f0826510f6e/page.md) 
 - [2025-12-17-Ant-Design-发布-Markdown-渲染器-X-Markdown](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517491&idx=1&sn=b6389c0160f6f44bdbc55cc3a8f4d515&chksm=eb07bd4adc70345ca84536074fbf0bb8e8cc39bf2b22c3fb9d1efec3bb900db131e2b34041df#rd) 
 - [2025-07-16-我本是写react的，公司让我换赛道搞web3D](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517329&idx=1&sn=ff43bf397481aca79a5e4abba8f403cd&chksm=eb07bce8dc7035fe69324d6114260487ede600d138967b2aed88c44c8b088b1f70f9332fc07f#rd) 
 - [2025-07-04-弃用-html2canvas！快-93-倍的截图神器！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517319&idx=1&sn=17d9a16e0f3350c7c23290a961eea7c0&chksm=eb07bcfedc7035e88353d88396bce029044bfbb66b3947bd513a038afb795fde774e16051017#rd) 
