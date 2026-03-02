@@ -4,6 +4,8 @@ export default {
   excludeSelectors: [
     '.navigation.nav_swipe',
     'p:contains("（本篇完）")',
+    '.hljs a.copy',
+    '.hljs a.revert',
   ],
   waitUntil: 'load',
   async preProcess(page) {

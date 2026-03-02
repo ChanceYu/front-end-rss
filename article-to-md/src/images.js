@@ -140,13 +140,13 @@ async function downloadImage(url, destDir, pageOrigin, browserContext) {
   return filename
 }
 
+/** Matches remote or base64 image URLs in Markdown ![]() syntax */
+const MD_IMG_RE = /!\[([^\]]*)\]\(((?:https?:\/\/|data:image\/)[^)"\s]+)\)/g
+
 /**
  * Find all images in a Markdown string (remote https:// and base64 data: URLs),
  * save & compress each one into `imagesDir`, then return the Markdown with URLs
  * rewritten to relative `./images/<filename>` paths.
- *
- * Images that fail to process are left with their original URL so the document
- * remains valid.
  *
  * @param {string} markdown
  * @param {string} imagesDir - Absolute path to the images sub-directory
@@ -155,11 +155,8 @@ async function downloadImage(url, destDir, pageOrigin, browserContext) {
  * @returns {Promise<string>}
  */
 export async function localizeImages(markdown, imagesDir, browserContext = null, pageOrigin = '') {
-  // Match any image whose src starts with http(s):// or data:image/
-  const imageRegex = /!\[([^\]]*)\]\(((?:https?:\/\/|data:image\/)[^)"\s]+)\)/g
-
   const urls = new Set()
-  for (const [, , url] of markdown.matchAll(imageRegex)) urls.add(url)
+  for (const [, , url] of markdown.matchAll(MD_IMG_RE)) urls.add(url)
 
   if (urls.size === 0) return markdown
 
@@ -186,7 +183,7 @@ export async function localizeImages(markdown, imagesDir, browserContext = null,
     }),
   )
 
-  return markdown.replace(imageRegex, (full, alt, url) => {
+  return markdown.replace(MD_IMG_RE, (full, alt, url) => {
     const filename = results.get(url)
     return filename ? `![${alt}](./images/${filename})` : full
   })

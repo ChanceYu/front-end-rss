@@ -143,6 +143,7 @@
       :visible.sync="showMdPopup"
       :article-hash="currentMdHash"
       :article-link="currentMdLink"
+      :article-title="currentMdTitle"
       :refresh-key="currentMdRefreshKey"
       @convert="onMdConvert"
     />
@@ -222,7 +223,8 @@ export default {
       toMarkdown: process.env.TO_MARKDOWN === 'true',
       convertingLinks: {},
       currentMdRefreshKey: 0,
-      currentMdItem: null
+      currentMdItem: null,
+      currentMdTitle: ''
     }
   },
   computed: {
@@ -249,6 +251,7 @@ export default {
     openMdPopup (item) {
       this.currentMdHash = this.processedArticles[item.link] || ''
       this.currentMdLink = item.link || ''
+      this.currentMdTitle = item.title || ''
       this.currentMdItem = item
       this.showMdPopup = true
     },
@@ -274,9 +277,20 @@ export default {
           body: JSON.stringify({ link: item.link })
         })
         if (!res.ok) throw new Error('failed')
-        await this.loadProcessed()
+        await Promise.all([this.loadProcessed(), this.preloadIndexes()])
+        this.rebuildResults()
+        this.handlerSearch(false)
       } catch (e) {
         console.error('[removeArticle] failed:', e)
+      }
+    },
+
+    rebuildResults () {
+      results = []
+      for (let i = 0; i < PAGE_COUNT; i++) {
+        const pageData = this.getPageArticles(i)
+        if (pageData.length === 0) break
+        results = [...results, ...pageData]
       }
     },
 
@@ -658,7 +672,6 @@ export default {
       this.focusInput()
     },
     onClear () {
-      console.log('onClear')
       this.handlerSearch()
     },
     changeSkill (e) {

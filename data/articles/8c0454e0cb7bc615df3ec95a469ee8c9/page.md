@@ -138,29 +138,16 @@ const [modelValue, modifiers] = defineModel<string, 'trim'>({
 ```
 ## TypeScript高阶用法速查表
 
-需求场景
 
-写法示例
 
-必填项
+| 需求场景 | 写法示例 |
+| --- | --- |
+| 必填项 | defineModel<string>({ required: true }) |
+| 可选+默认值 | defineModel<string>({ default: '张三' }) |
+| 联合类型 | `defineModel<'male' |
+| 复杂对象 | defineModel<User>() |
+| 对象/数组默认值 | defineModel<string[]>({ default: () => ['A', 'B'] }) |
 
-`defineModel<string>({ required: true })`
-
-可选+默认值
-
-`defineModel<string>({ default: '张三' })`
-
-联合类型
-
-\`defineModel<'male'
-
-复杂对象
-
-`defineModel<User>()`
-
-对象/数组默认值
-
-`defineModel<string[]>({ default: () => ['A', 'B'] })`
 
 > 注意：对象/数组默认值必须用函数返回，避免引用共享。
 

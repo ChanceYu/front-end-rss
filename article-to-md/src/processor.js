@@ -138,10 +138,15 @@ export async function processArticle(article, options = {}) {
       await rule.preProcess(page)
     }
 
-    // Wait for the content element to appear, best-effort
-    await page
-      .waitForSelector(rule.contentSelector, { timeout: 8_000 })
-      .catch(() => {})
+    // Wait for the content element(s) to appear, best-effort
+    const contentSelectors = Array.isArray(rule.contentSelector)
+      ? rule.contentSelector
+      : [rule.contentSelector]
+    await Promise.all(
+      contentSelectors.map((sel) =>
+        page.waitForSelector(sel, { timeout: 8_000 }).catch(() => {})
+      )
+    )
 
 
 
@@ -191,16 +196,26 @@ export async function processArticle(article, options = {}) {
       })
     })
 
-    // Extract inner HTML of the content element + log img situation
-    const { contentHtml, contentImgs } = await page.evaluate((selector) => {
-      const el = document.querySelector(selector)
-      const html = el ? el.innerHTML : document.body.innerHTML
-      // Capture src AFTER lazy-load normalization (data-src already replaced above)
-      const imgs = [...(el ?? document.body).querySelectorAll('img')].map((img) => ({
-        src: img.getAttribute('src') ?? '',
-      }))
+    // Extract inner HTML of the content element(s) + log img situation.
+    // When contentSelector is an array, each matched element's innerHTML is
+    // concatenated in order and separated by a blank line.
+    const { contentHtml, contentImgs } = await page.evaluate((selectors) => {
+      const els = selectors
+        .map((sel) => document.querySelector(sel))
+        .filter(Boolean)
+
+      const imgSource = els.length ? els : [document.body]
+      const html = els.length
+        ? els.map((el) => el.innerHTML).join('\n')
+        : document.body.innerHTML
+
+      const imgs = imgSource.flatMap((el) =>
+        [...el.querySelectorAll('img')].map((img) => ({
+          src: img.getAttribute('src') ?? '',
+        }))
+      )
       return { contentHtml: html, contentImgs: imgs }
-    }, rule.contentSelector)
+    }, contentSelectors)
 
     console.log(`[imgs] ${contentImgs.length} <img> tag(s) in content element`)
     contentImgs.forEach(({ src }) => console.log(`       src="${src.slice(0, 100)}"`))
@@ -209,7 +224,7 @@ export async function processArticle(article, options = {}) {
     const $ = cheerio.load(contentHtml)
 
     // Remove excluded elements
-    rule.excludeSelectors?.forEach((sel) => $(sel).remove())
+    ;['script', 'style', ...(rule.excludeSelectors || [])].forEach((sel) => $(sel).remove())
 
     // Normalize image src to absolute URLs using the article page as base.
     // Handles protocol-relative (//cdn…) and relative (/path or ../path) srcs.
@@ -240,7 +255,27 @@ export async function processArticle(article, options = {}) {
 
     for (const table of sortedTables) {
       const $table = $(table)
-      const isDataTable = $table.find('> * th, > * > * th, thead').length > 0
+      const hasExplicitHeader = $table.find('> * th, > * > * th, thead').length > 0
+
+      // Collect all rows first so we can check dimensions for implicit data tables
+      const rows = []
+      $table.find('tr').each((_, tr) => {
+        const cells = $(tr).children('th, td').map((_, cell) => {
+          return $(cell)
+            .text()
+            .replace(/[\n\r]+/g, ' ')
+            .replace(/\s{2,}/g, ' ')
+            .replace(/\|/g, '\\|')
+            .trim() || ' '
+        }).get()
+        if (cells.length) rows.push(cells)
+      })
+
+      // A table with 2+ columns and 2+ rows is treated as a data table even
+      // when it has no explicit <th>/<thead> markup (first row becomes header).
+      // Single-column or single-row tables without headers are layout tables.
+      const maxCols = rows.length ? Math.max(...rows.map((r) => r.length)) : 0
+      const isDataTable = hasExplicitHeader || (rows.length >= 2 && maxCols >= 2)
 
       if (!isDataTable) {
         // Layout table: unwrap each <td>/<th> content, discard table chrome
@@ -253,30 +288,18 @@ export async function processArticle(article, options = {}) {
         continue
       }
 
-      // Data table: build GFM Markdown
-      const rows = []
-      $table.find('tr').each((_, tr) => {
-        // Only direct cells of this table's rows (not from nested tables)
-        const cells = $(tr).children('th, td').map((_, cell) => {
-          return $(cell)
-            .text()
-            .replace(/[\n\r]+/g, ' ')
-            .replace(/\s{2,}/g, ' ')
-            .replace(/\|/g, '\\|')
-            .trim() || ' '
-        }).get()
-        if (cells.length) rows.push(cells)
-      })
-
       if (!rows.length) { $table.remove(); continue }
 
-      const cols = Math.max(...rows.map((r) => r.length))
+      const cols = maxCols
       const normalised = rows.map((r) => {
         while (r.length < cols) r.push(' ')
         return r.slice(0, cols)
       })
 
-      // Determine header row: explicit <thead> row or first row with <th> cells
+      // Determine header row:
+      //   1. explicit <thead> row
+      //   2. first row whose cells are all <th>
+      //   3. no explicit header → use first row as implicit header
       const headRowIdx = (() => {
         const theadRow = $table.find('thead tr').first()
         if (theadRow.length) {
@@ -284,13 +307,14 @@ export async function processArticle(article, options = {}) {
           $table.find('tr').each((i, tr) => { if (tr === theadRow[0]) { idx = i } })
           return idx
         }
-        // Fall back to first row if it contains <th>
         const firstTr = $table.find('tr').first()
-        return firstTr.find('th').length ? 0 : -1
+        if (firstTr.find('th').length) return 0
+        // No explicit header: treat first row as header
+        return 0
       })()
 
-      const header = headRowIdx >= 0 ? normalised[headRowIdx] : normalised[0]
-      const body = normalised.filter((_, i) => i !== (headRowIdx >= 0 ? headRowIdx : 0))
+      const header = normalised[headRowIdx]
+      const body = normalised.filter((_, i) => i !== headRowIdx)
 
       const mdLines = [
         '| ' + header.join(' | ') + ' |',
@@ -310,6 +334,38 @@ export async function processArticle(article, options = {}) {
       if (children.length === 1 && children.first().is('pre')) {
         $bq.replaceWith(children.first())
       }
+    })
+
+    // Remove any direct children of <pre> that are not <code> (e.g. copy-button
+    // toolbars, line-number gutter spans injected by syntax highlighters).
+    $('pre').each((_, el) => {
+      // Remove non-<code> children, but keep elements that carry an hljs class
+      // (highlight.js sometimes places <span class="hljs ..."> directly under <pre>)
+      $(el).children(':not(code)').each((_, child) => {
+        const cls = $(child).attr('class') ?? ''
+        if (!/hljs/.test(cls)) $(child).remove()
+      })
+    })
+
+    // Merge multiple <code> siblings inside one <pre> into a single <code>.
+    // Some sites emit one <code> per line / section inside the same <pre>.
+    $('pre').each((_, el) => {
+      const $pre = $(el)
+      const $codes = $pre.children('code')
+      if ($codes.length <= 1) return
+
+      // Collect language class from first code that has one
+      let langClass = ''
+      $codes.each((_, code) => {
+        if (!langClass) {
+          const cls = $(code).attr('class') ?? ''
+          if (/language-\S+/.test(cls)) langClass = cls.match(/language-\S+/)[0]
+        }
+      })
+
+      // Join all code blocks with a newline, then replace with a single <code>
+      const merged = $codes.map((_, code) => $(code).html()).get().join('\n')
+      $pre.html(`<code${langClass ? ` class="${langClass}"` : ''}>${merged}</code>`)
     })
 
     // Ensure every <pre> that lacks a direct <code> child is wrapped in one
@@ -343,6 +399,7 @@ export async function processArticle(article, options = {}) {
       hr: '---',
     })
 
+
     // Override list item rule:
     // - single space after the bullet marker (Turndown default is 3)
     // - strip trailing whitespace from each item
@@ -350,18 +407,39 @@ export async function processArticle(article, options = {}) {
     td.addRule('listItem', {
       filter: 'li',
       replacement(content, node, options) {
+        const parent = node.parentNode
+        const isOrdered = parent.nodeName === 'OL'
+
         content = content
           .replace(/^\n+/, '')
           .replace(/\n+$/, '')
           .replace(/\n/gm, '\n  ')
 
-        const parent = node.parentNode
-        const prefix =
-          parent.nodeName === 'OL'
-            ? `${Array.prototype.indexOf.call(parent.children, node) + 1}. `
-            : `${options.bulletListMarker} `
+        if (isOrdered) {
+          // Strip leading ordinal injected by site: "1." / "1、" / "1) " / "①" etc.
+          content = content.replace(/^\d+\\?[.、\)]\s*/, '').replace(/^[①②③④⑤⑥⑦⑧⑨⑩]\s*/, '')
+        } else {
+          // Strip leading bullet characters injected by some sites
+          content = content.replace(/^\\?[•·\-–—]\s*/, '')
+        }
+
+        const prefix = isOrdered
+          ? `${Array.prototype.indexOf.call(parent.children, node) + 1}. `
+          : `${options.bulletListMarker} `
 
         return prefix + content + (node.nextSibling ? '\n' : '')
+      },
+    })
+
+    // Preserve <video> tags as raw HTML — Markdown has no native video syntax
+    td.addRule('video', {
+      filter: 'video',
+      replacement(_, node) {
+        const src = node.getAttribute('src') || ''
+        if (!src) return ''
+        const poster = node.getAttribute('poster') || ''
+        const posterAttr = poster ? ` poster="${poster}"` : ''
+        return `\n\n<video controls src="${src}"${posterAttr} style="max-width:100%"></video>\n\n`
       },
     })
 
@@ -393,6 +471,16 @@ export async function processArticle(article, options = {}) {
       new RegExp(`^#\\s+${title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*\n+`, 'm'),
       '',
     )
+
+    // Collapse "orphan bullet" pattern: a lone •/· on its own line followed by
+    // blank line(s) then the actual content.  Converts:
+    //   •          →   - 内容
+    //   (blank)
+    //   内容
+    body = body.replace(/^[•·] *\n\n+(.+)/gm, '- $1')
+
+    // Remove empty list item lines: "- " / "* " / "1. " with nothing but spaces after
+    body = body.replace(/^[ \t]*(?:[-*+]|\d+[.)])[ \t]*$/gm, '')
 
     // Remove blank lines between adjacent list items (loose list → tight list)
     body = body.replace(/^([ \t]*[-*+\d][\.\s].+)\n\n(?=[ \t]*[-*+\d][\.\s])/gm, '$1\n')

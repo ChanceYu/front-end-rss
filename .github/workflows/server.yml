@@ -52,7 +52,7 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-pnpm-202412-
 
-    - name: Install and run
+    - name: Install and run server
       working-directory: ./server
       env:
         WORKFLOW: true
@@ -60,6 +60,18 @@ jobs:
       run: |
         pnpm install
         pnpm run once
+
+    - name: Process new articles to Markdown
+      continue-on-error: true
+      working-directory: ./article-to-md
+      run: |
+        if [ -f "../server/node_modules/new-articles.json" ]; then
+          pnpm install
+          pnpm exec playwright install chromium --with-deps
+          pnpm run once
+        else
+          echo "No new articles to process, skipping"
+        fi
 
     - name: Commit all changed files
       id: auto-commit-action

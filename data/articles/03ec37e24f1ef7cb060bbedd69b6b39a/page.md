@@ -112,15 +112,11 @@ if (!HTMLElement.prototype.moveBefore) {
 
 你可以点击下面的任意列表色块，看看有没有对应的移动效果。
 
-@scope(.flex){:scope {display: flex;gap: .5rem;}.item {aspect-ratio: 1;background: skyblue;height: 120px;display: grid;place-items: center;}}
-
 1
 
 2
 
 3
-
-if (!document.moveBefore) {document.moveBefore = document.insertBefore;}if (!HTMLElement.prototype.moveBefore) {HTMLElement.prototype.moveBefore = HTMLElement.prototype.insertBefore;}if (!document.startViewTransition) {document.startViewTransition = function (callback) {setTimeout(callback, 1);};}document.querySelectorAll('.flex .item').forEach((item) => {item.onclick = function () {document.startViewTransition(() => {item.parentElement.moveBefore(item, item.parentElement.firstElementChild);});}});
 
 完整的代码如下所示：
 
@@ -170,9 +166,9 @@ document.querySelectorAll('.flex .item').forEach((item) => {
   }
 });
 ```
-[](https://wwads.cn/click/bait)[![万维广告联盟](./images/61e69b6fb6034985eab53ce766c613f0.webp)](https://wwads.cn/click/bundle?code=ijZnCT0QfsrxTaOqeI9p5JKeoDmIlR)
+[](https://wwads.cn/click/bait)[![万维广告联盟](./images/194db40d77ed24af672f0dde78a8e4a3.webp)](https://wwads.cn/click/bundle?code=IjCmjXSBYqSTYtwqle5z3oBlvXQhGK)
 
-[电商项目必备！Java 开源商城系统 SpringBoot+Vue ，功能齐全，全源码交付，可二开](https://wwads.cn/click/bundle?code=ijZnCT0QfsrxTaOqeI9p5JKeoDmIlR)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
+[IT探测网，全球PING、网站测速、DNS查询、AI分析检测。免费测试、监控，IT运维好工具](https://wwads.cn/click/bundle?code=IjCmjXSBYqSTYtwqle5z3oBlvXQhGK)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
 
 ### 三、谢幕、敬礼
 

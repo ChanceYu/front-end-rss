@@ -95,21 +95,14 @@ md5: 1a81689125d2c07fdb96011fdb650fe0
 
 ---
 
-平台
 
-下载地址
 
-🪟 Windows
+| 平台 | 下载地址 |
+| --- | --- |
+| 🪟 Windows | https://github.com/trueleaf/apiflow/releases |
+| 🍎 macOS | https://github.com/trueleaf/apiflow/releases |
+| 🐧 Linux | https://github.com/trueleaf/apiflow/releases |
 
-https://github.com/trueleaf/apiflow/releases
-
-🍎 macOS
-
-https://github.com/trueleaf/apiflow/releases
-
-🐧 Linux
-
-https://github.com/trueleaf/apiflow/releases
 
 Github： https://github.com/trueleaf/apiflow
 

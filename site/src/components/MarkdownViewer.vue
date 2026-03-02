@@ -13,25 +13,30 @@
         <div class="md-viewer__close" @click="$emit('update:visible', false)">
           <van-icon name="cross" />
         </div>
-        <a :href="articleLink" target="_blank" class="md-viewer__link" v-if="articleLink">
-          <van-icon name="link-o" />打开原文
-        </a>
-        <a
-          v-if="toMarkdown && articleHash"
-          :href="`/data/articles/${articleHash}/page.md`"
-          target="_blank"
-          class="md-viewer__link md-viewer__link--md"
-        >
-          <van-icon name="description" />打开 Markdown
-        </a>
-        <div
-          v-if="toMarkdown"
-          class="md-viewer__convert-btn"
-          @click="onConvert"
-        >
-          <van-icon v-if="converting" name="replay" class="md-viewer__converting" />
-          <van-icon v-else name="exchange" />
-          <span>重新转换</span>
+        <transition name="md-title-fade">
+          <div v-if="showTitle && articleTitle" class="md-viewer__title">{{ articleTitle }}</div>
+        </transition>
+        <div class="md-viewer__actions">
+          <a :href="articleLink" target="_blank" class="md-viewer__link" v-if="articleLink">
+            <van-icon name="link-o" />打开原文
+          </a>
+          <a
+            v-if="toMarkdown && articleHash"
+            :href="`/data/articles/${articleHash}/page.md`"
+            target="_blank"
+            class="md-viewer__link md-viewer__link--md"
+          >
+            <van-icon name="description" />打开 Markdown
+          </a>
+          <div
+            v-if="toMarkdown"
+            class="md-viewer__convert-btn"
+            @click="onConvert"
+          >
+            <van-icon v-if="converting" name="replay" class="md-viewer__converting" />
+            <van-icon v-else name="exchange" />
+            <span>重新转换</span>
+          </div>
         </div>
       </div>
 
@@ -94,6 +99,10 @@ export default {
     refreshKey: {
       type: Number,
       default: 0
+    },
+    articleTitle: {
+      type: String,
+      default: ''
     }
   },
   data () {
@@ -103,7 +112,8 @@ export default {
       loading: false,
       error: false,
       converting: false,
-      renderedHtml: ''
+      renderedHtml: '',
+      showTitle: false
     }
   },
   watch: {
@@ -122,16 +132,46 @@ export default {
       if (val !== old && this.articleHash) {
         this.fetchMarkdown(this.articleHash)
       }
+    },
+    visible (val) {
+      if (val) {
+        this.$nextTick(() => this._bindBodyScroll())
+      } else {
+        this._unbindBodyScroll()
+        this.showTitle = false
+      }
     }
   },
   mounted () {
     this._onResize = () => { this.isMobile = window.innerWidth <= 800 }
     window.addEventListener('resize', this._onResize)
+
+    this._onBodyScroll = () => {
+      const body = this.$refs.body
+      if (body) this.showTitle = body.scrollTop > 80
+    }
+    // 初次挂载时若已可见则立即绑定
+    this.$nextTick(() => this._bindBodyScroll())
   },
   beforeDestroy () {
     window.removeEventListener('resize', this._onResize)
+    this._unbindBodyScroll()
   },
   methods: {
+    _bindBodyScroll () {
+      const body = this.$refs.body
+      if (body && this._onBodyScroll) {
+        body.removeEventListener('scroll', this._onBodyScroll)
+        body.addEventListener('scroll', this._onBodyScroll)
+      }
+    },
+    _unbindBodyScroll () {
+      const body = this.$refs.body
+      if (body && this._onBodyScroll) {
+        body.removeEventListener('scroll', this._onBodyScroll)
+      }
+    },
+
     async onConvert () {
       if (this.converting) return
       this.converting = true
@@ -157,6 +197,8 @@ export default {
       this.loading = true
       this.error = false
       this.renderedHtml = ''
+      this.showTitle = false
+      if (this.$refs.body) this.$refs.body.scrollTop = 0
       try {
         const toMarkdown = process.env.TO_MARKDOWN === 'true'
         const res = await fetch(`/data/articles/${hash}/page.md`, {
@@ -166,9 +208,11 @@ export default {
         const raw = await res.text()
         // 去掉顶部 YAML front matter（--- ... ---）
         const stripped = raw.replace(/^---[\s\S]*?---\s*\n?/, '')
-        // 将相对图片路径 ./images/xxx 转为绝对路径
+        // 将相对图片路径 ./images/xxx 转为绝对路径（支持 markdown 语法和 img 标签）
         const base = `/data/articles/${hash}`
-        const text = stripped.replace(/\(\.\/images\//g, `(${base}/images/`)
+        const text = stripped
+          .replace(/\(\.\/images\//g, `(${base}/images/`)
+          .replace(/(src=["'])\.\/images\//g, `$1${base}/images/`)
         this.renderedHtml = marked.parse(text)
       } catch (e) {
         this.error = true
@@ -191,7 +235,6 @@ export default {
 .md-viewer__header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   padding: .75rem 1rem;
   border-bottom: 1px solid #f1f5f9;
   position: sticky;
@@ -200,6 +243,36 @@ export default {
   z-index: 1;
   gap: .5rem;
   flex-shrink: 0;
+}
+
+.md-viewer__actions {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+.md-viewer__title {
+  flex: 1;
+  min-width: 0;
+  font-size: .875rem;
+  font-weight: 600;
+  color: #1e293b;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.md-title-fade-enter-active,
+.md-title-fade-leave-active {
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.md-title-fade-enter,
+.md-title-fade-leave-to {
+  opacity: 0;
+  transform: translateY(-4px);
 }
 
 .md-viewer__link {
@@ -228,7 +301,6 @@ export default {
 }
 
 .md-viewer__convert-btn {
-  margin-left: auto;
   display: flex;
   align-items: center;
   gap: .3rem;
@@ -484,9 +556,21 @@ export default {
 .md-viewer__content.markdown-body img {
   max-width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 4px;
+}
+/* 行内图片（与文字混排，非独占段落） */
+.md-viewer__content.markdown-body p > img:not(:only-child) {
+  height: 32px;
+  width: auto;
+  max-width: none;
+  vertical-align: middle;
+  border-radius: 2px;
+}
+/* 独占一行的块级图片 */
+.md-viewer__content.markdown-body p > img:only-child {
   display: block;
   margin: 1.25em auto;
+  border-radius: 8px;
   box-shadow: 0 2px 12px rgba(0,0,0,.08);
   border: 1px solid #f1f5f9;
 }

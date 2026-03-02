@@ -43,29 +43,16 @@ TailwindSQL能让你用Tailwind风格的类名编写SQL查询语句，直接在R
 
 ### 语法示例
 
-类名
 
-对应的SQL查询语句
 
-db-users
+| 类名 | 对应的SQL查询语句 |
+| --- | --- |
+| db-users | SELECT * FROM users |
+| db-users-name | SELECT name FROM users |
+| db-users-where-id-1 | SELECT * FROM users WHERE id = 1 |
+| db-posts-title-limit-10 | SELECT title FROM posts LIMIT 10 |
+| db-products-orderby-price-desc | SELECT * FROM products ORDER BY price DESC |
 
-SELECT \* FROM users
-
-db-users-name
-
-SELECT name FROM users
-
-db-users-where-id-1
-
-SELECT \* FROM users WHERE id = 1
-
-db-posts-title-limit-10
-
-SELECT title FROM posts LIMIT 10
-
-db-products-orderby-price-desc
-
-SELECT \* FROM products ORDER BY price DESC
 
 ### 快速上手
 
@@ -101,33 +88,17 @@ npm run dev
 
 可通过`as`属性控制查询结果的渲染形式，不同属性值对应效果如下：
 
-属性值
 
-说明
 
-span
+| 属性值 | 说明 |
+| --- | --- |
+| span | 行内文本（默认值） |
+| div | 块级元素 |
+| ul | 无序列表 |
+| ol | 有序列表 |
+| table | HTML表格 |
+| json | JSON代码块 |
 
-行内文本（默认值）
-
-div
-
-块级元素
-
-ul
-
-无序列表
-
-ol
-
-有序列表
-
-table
-
-HTML表格
-
-json
-
-JSON代码块
 
 ### 项目结构
 

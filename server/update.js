@@ -1,4 +1,5 @@
 const fs = require('fs-extra')
+const path = require('path')
 const Async = require('async')
 const moment = require('moment')
 const simpleGit = require('simple-git')
@@ -119,6 +120,12 @@ function handleFeed() {
 
   Async.parallelLimit(tasks, 5, async () => {
     if (newData.length) {
+      const newArticles = linksJson.flatMap((source) =>
+        (source.items || [])
+          .filter((item) => newData.links[item.link])
+          .map((item) => ({ title: item.title, link: item.link, date: item.date, rssTitle: source.title }))
+      )
+      fs.outputJsonSync(path.join(__dirname, 'node_modules', 'new-articles.json'), newArticles)
       fs.outputJsonSync(LINKS_PATH, linksJson)
       await writemd(newData, linksJson)
       await createFeed(linksJson)

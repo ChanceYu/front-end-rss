@@ -60,8 +60,10 @@ md5: 183acb1a2f5eb719aa12911d7859050f
 
 更准确理解：
 
-`Vite = 构建平台 Vize = Vue 的高性能编译核心`
-
+```
+Vite = 构建平台
+Vize = Vue 的高性能编译核心
+```
 **Vize** 可以通过 `@vizejs/vite-plugin` 无缝接入 `Vite`， 作为 **Vue** 编译后端替换默认实现。
 
 这更像是：
@@ -72,12 +74,17 @@ md5: 183acb1a2f5eb719aa12911d7859050f
 
 安装 `CLI`：
 
-`npm install -g vize`
-
+```
+npm install -g vize
+```
 核心`命令`：
 
-`vize build vize lint vize fmt vize check`
-
+```
+vize build
+vize lint
+vize fmt
+vize check
+```
 它试图替代：
 
 - `@vue/compiler-sfc`
@@ -258,12 +265,10 @@ md5: 183acb1a2f5eb719aa12911d7859050f
 
   
 
--   
+
 - 我是 ssh，工作 6 年+，阿里云、字节跳动 Web infra 一线拼杀出来的资深前端工程师 + 面试官，非常熟悉大厂的面试套路，Vue、React 以及前端工程化领域深入浅出的文章帮助无数人进入了大厂。
 - 欢迎`长按图片加 ssh 为好友`，我会第一时间和你分享前端行业趋势，学习途径等等。2025 陪你一起度过！
--   
 - ![图片](./images/ad44d7bbf4d5454ef34f4ffb3ddddbb5.png)
--   
 - 关注公众号，发送消息：
   
   指南，获取高级前端、算法**学习路线**，是我自己一路走来的实践。

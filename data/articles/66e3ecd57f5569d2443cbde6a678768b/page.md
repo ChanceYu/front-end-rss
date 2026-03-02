@@ -256,43 +256,16 @@ Replane：https://github.com/replane-dev/replane
 
 **适合使用动态配置的场景：**
 
-使用场景
 
-示例
 
-为什么要动态
+| 使用场景 | 示例 | 为什么要动态 |
+| --- | --- | --- |
+| 功能开关 | new-checkout-enabled | 先对 1% 用户开启，观察指标，再逐步提升到 100% |
+| 限流 | api-rate-limit | 无需部署即可应对流量高峰 |
+| 超时配置 | downstream-timeout-ms | 第三方服务变慢时快速调整 |
+| 紧急开关 | payments-enabled | 立刻关闭有问题的功能 |
+| 运维调优 | batch-size、worker-count | 不重新部署即可优化参数 |
 
-功能开关
-
-`new-checkout-enabled`
-
-先对 1% 用户开启，观察指标，再逐步提升到 100%
-
-限流
-
-`api-rate-limit`
-
-无需部署即可应对流量高峰
-
-超时配置
-
-`downstream-timeout-ms`
-
-第三方服务变慢时快速调整
-
-紧急开关
-
-`payments-enabled`
-
-立刻关闭有问题的功能
-
-运维调优
-
-`batch-size`
-
-、`worker-count`
-
-不重新部署即可优化参数
 
 **应继续作为静态环境变量的配置：**
 

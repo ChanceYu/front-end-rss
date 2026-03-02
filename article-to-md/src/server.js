@@ -11,6 +11,7 @@ import { urlToMd5, loadProcessed, saveProcessed } from './utils.js'
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const ARTICLES_DIR = join(__dirname, '..', '..', 'data', 'articles')
 const LINKS_PATH = join(__dirname, '..', '..', 'data', 'links.json')
+const DIST_ARTICLES_PATH = join(__dirname, '..', '..', 'site', 'dist', 'data', 'articles.json')
 
 const PORT = 8081
 
@@ -80,7 +81,24 @@ app.post('/article-to-md/remove', async (c) => {
     console.warn(`[server] Failed to update links.json: ${err.message}`)
   }
 
-  return c.json({ ok: true, md5, removedFromLinks })
+  // 4. Remove from site/dist/data/articles.json
+  let removedFromDist = false
+  try {
+    if (existsSync(DIST_ARTICLES_PATH)) {
+      const rows = JSON.parse(readFileSync(DIST_ARTICLES_PATH, 'utf-8'))
+      // rows: [[title, rssTitle, link, date], ...]  (index 2 is link)
+      const filtered = rows.filter((row) => row[2] !== link)
+      if (filtered.length < rows.length) {
+        writeFileSync(DIST_ARTICLES_PATH, JSON.stringify(filtered), 'utf-8')
+        removedFromDist = true
+        console.log(`[server] Removed from dist/data/articles.json`)
+      }
+    }
+  } catch (err) {
+    console.warn(`[server] Failed to update dist/data/articles.json: ${err.message}`)
+  }
+
+  return c.json({ ok: true, md5, removedFromLinks, removedFromDist })
 })
 
 serve({ fetch: app.fetch, port: PORT }, () => {

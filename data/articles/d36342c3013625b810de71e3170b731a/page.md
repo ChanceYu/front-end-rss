@@ -31,9 +31,24 @@ Flexbox 非常适合在容器中居中单个项目或项目组。它让你能够
 
 ```code-snippet__js
 <div class="container-flex">
+  <div class="item"></div>
+</div>
 ```
 ```code-snippet__js
 .container-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 2px dashed #ccc;
+}
+
+
+.item {
+  width: 50px;
+  height: 50px;
+  background-color: steelblue;
+}
 ```
 `justify-content: center;` 处理水平居中。
 
@@ -47,9 +62,23 @@ Flexbox 非常适合在容器中居中单个项目或项目组。它让你能够
 
 ```code-snippet__js
 <div class="container-grid">
+  <div class="item"></div>
+</div>
 ```
 ```code-snippet__js
 .container-grid {
+  display: grid;
+  place-items: center;
+  height: 200px;
+  border: 2px dashed #ccc;
+}
+
+
+.item {
+  width: 50px;
+  height: 50px;
+  background-color: #e74c3c;
+}
 ```
 `place-items: center;` 是一个强大的简写，它将 `align-items` 和 `justify-items` 都设置为 `center` 。这意味着网格单元（你的 `.item` ）的内容将完美地居中于该单元内。
 
@@ -61,9 +90,27 @@ Flexbox 非常适合在容器中居中单个项目或项目组。它让你能够
 
 ```code-snippet__js
 <div class="container-relative">
+  <div class="item-absolute"></div>
+</div>
 ```
 ```code-snippet__js
 .container-relative {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  border: 2px dashed #ccc;
+}
+
+
+.item-absolute {
+  position: absolute;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50px;
+  height: 50px;
+  background-color: #2ecc71;
+}
 ```
 `top: 50%;` 和 `left: 50%;` 将项目的左上角定位到中心。
 
@@ -80,8 +127,3 @@ Flexbox 非常适合在容器中居中单个项目或项目组。它让你能够
 当你需要绝对定位和居中，且不影响文档流时：Absolute + Transform
 
 Node 社群
-
-```js_darkmode__116
-
-我组建了一个氛围特别好的 Node.js 社群，里面有很多 Node.js小伙伴，如果你对Node.js学习感兴趣的话（后续有计划也可以），我们可以一起进行Node.js相关的交流、学习、共建。下方加 考拉 好友回复「Node」即可。   “分享、点赞、在看” 支持一波👍
-```

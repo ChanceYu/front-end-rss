@@ -53,8 +53,13 @@ md5: 5d951e5dee57c1773377b75f17dacd3c
 
 **执行内容**:
 
-`// 检查 MCP 服务器连接 const mcpServers = await listMcpServers(); if (!mcpServers.includes('Figma')) {   throw new Error('Figma MCP 未配置'); }`
-
+```
+// 检查 MCP 服务器连接
+const mcpServers = await listMcpServers();
+if (!mcpServers.includes('Figma')) {
+  throw new Error('Figma MCP 未配置');
+}
+```
 **产出物**: 无(验证通过则继续)
 
 ---
@@ -70,12 +75,26 @@ https://www.figma.com/design/AOD2AAAAAAAA/Test?node-id=1026-159&m=dev
 ```
 **执行逻辑**:
 
-`function parseFigmaUrl(url) {   // URL 格式: https://figma.com/design/:fileKey/:fileName?node-id=1-2   const urlPattern = /figma\.com\/design\/([^\/]+)\/[^?]+\?node-id=([^&]+)/;   const match = url.match(urlPattern);      return {     fileKey: match[1],  // AOD28JhGgpFgdnslX31UnK     nodeId: match[2]    // 1026-159   }; }`
-
+```
+function parseFigmaUrl(url) {
+  // URL 格式: https://figma.com/design/:fileKey/:fileName?node-id=1-2
+  const urlPattern = /figma\.com\/design\/([^\/]+)\/[^?]+\?node-id=([^&]+)/;
+  const match = url.match(urlPattern);
+  
+  return {
+    fileKey: match[1],  // AOD28JhGgpFgdnslX31UnK
+    nodeId: match[2]    // 1026-159
+  };
+}
+```
 **产出物**:
 
-`{   "fileKey": "AOD28JhGgpFgdnslX31UnK",   "nodeId": "1026-159" }`
-
+```
+{
+  "fileKey": "AOD28JhGgpFgdnslX31UnK",
+  "nodeId": "1026-159"
+}
+```
 ---
 
 #### Step 2: 获取设计上下文
@@ -84,16 +103,37 @@ https://www.figma.com/design/AOD2AAAAAAAA/Test?node-id=1026-159&m=dev
 
 **MCP 调用**:
 
-`const designContext = await callMcpTool({   server: 'user-Figma',   toolName: 'get_design_context',   arguments: {     fileKey: 'AOD28JhGgpFgdnslX31UnK',     nodeId: '1026-159'   } });`
-
+```
+const designContext = await callMcpTool({
+  server: 'user-Figma',
+  toolName: 'get_design_context',
+  arguments: {
+    fileKey: 'AOD28JhGgpFgdnslX31UnK',
+    nodeId: '1026-159'
+  }
+});
+```
 **Figma MCP 处理流程**
 
 ![图片](./images/974e778e15c38332b51ae88bad6d14e5.png)
 
 **产出物**:
 
-`// React + Tailwind 代码 const imgEllipse1115 = "https://www.figma.com/api/mcp/asset/fd406add..."; const img262 = "https://www.figma.com/api/mcp/asset/59b1f8cb..."; export default function TestCoins() {   return (     <div className="bg-white relative shadow-[0px_2px_2px_0px_rgba(0,0,0,0.25)]">       <div className="absolute bg-gradient-to-b from-[[#abd3ff](javascript:;)]...">         {/* 组件内容 */}       </div>     </div>   ); }`
+```
+// React + Tailwind 代码
+const imgEllipse1115 = "https://www.figma.com/api/mcp/asset/fd406add...";
+const img262 = "https://www.figma.com/api/mcp/asset/59b1f8cb...";
 
+export default function TestCoins() {
+  return (
+    <div className="bg-white relative shadow-[0px_2px_2px_0px_rgba(0,0,0,0.25)]">
+      <div className="absolute bg-gradient-to-b from-[#abd3ff]...">
+        {/* 组件内容 */}
+      </div>
+    </div>
+  );
+}
+```
 **包含信息**:
 
 - 组件结构 (JSX)
@@ -109,8 +149,16 @@ https://www.figma.com/design/AOD2AAAAAAAA/Test?node-id=1026-159&m=dev
 
 **MCP 调用**:
 
-`const screenshot = await callMcpTool({   server: 'user-Figma',   toolName: 'get_screenshot',   arguments: {     fileKey: 'AOD28JhGgpFgdnslX31UnK',     nodeId: '1026-159'   } });`
-
+```
+const screenshot = await callMcpTool({
+  server: 'user-Figma',
+  toolName: 'get_screenshot',
+  arguments: {
+    fileKey: 'AOD28JhGgpFgdnslX31UnK',
+    nodeId: '1026-159'
+  }
+});
+```
 **产出物**:
 
 - PNG 格式的截图
@@ -123,12 +171,32 @@ https://www.figma.com/design/AOD2AAAAAAAA/Test?node-id=1026-159&m=dev
 
 **执行逻辑**:
 
-`// 从 Step 2 的代码中提取资源 URLs const assetUrls = extractAssetUrls(designContext); // 资源列表 const assets = [ "https://www.figma.com/api/mcp/asset/fd406add...", "https://www.figma.com/api/mcp/asset/59b1f8cb...", // ... 更多资源 ]; // 下载并缓存 const downloadedAssets = awaitPromise.all(   assets.map(url => downloadAsset(url)) );`
+```
+// 从 Step 2 的代码中提取资源 URLs
+const assetUrls = extractAssetUrls(designContext);
 
+// 资源列表
+const assets = [
+"https://www.figma.com/api/mcp/asset/fd406add...",
+"https://www.figma.com/api/mcp/asset/59b1f8cb...",
+// ... 更多资源
+];
+
+// 下载并缓存
+const downloadedAssets = awaitPromise.all(
+  assets.map(url => downloadAsset(url))
+);
+```
 **产出物**:
 
-`// 资源常量映射 const ASSETS = {   ellipse1115: 'https://www.figma.com/api/mcp/asset/fd406add...',   img262: 'https://www.figma.com/api/mcp/asset/59b1f8cb...',   // ... 更多资源 };`
-
+```
+// 资源常量映射
+const ASSETS = {
+  ellipse1115: 'https://www.figma.com/api/mcp/asset/fd406add...',
+  img262: 'https://www.figma.com/api/mcp/asset/59b1f8cb...',
+  // ... 更多资源
+};
+```
 **注意**: 这些 URLs 有效期为 7 天
 
 ---
@@ -139,32 +207,104 @@ https://www.figma.com/design/AOD2AAAAAAAA/Test?node-id=1026-159&m=dev
 
 **5.1 分析项目技术栈**
 
-``async function analyzeProjectStack(projectPath) { // 检查 package.json const packageJson = await readFile(`${projectPath}/package.json`); // 检查配置文件 const hasVite = exists(`${projectPath}/vite.config.js`); const hasWebpack = exists(`${projectPath}/webpack.config.js`); // 检查样式文件 const styleFiles = glob(`${projectPath}/**/*.{scss,css,less}`); return {     framework: 'React',           // React, Vue, Angular     bundler: hasVite ? 'Vite' : 'Webpack',     styling: detectStyling(styleFiles),  // SCSS, CSS Modules, Styled Components     typescript: exists(`${projectPath}/tsconfig.json`)   }; }``
+```
+async function analyzeProjectStack(projectPath) {
+// 检查 package.json
+const packageJson = await readFile(`${projectPath}/package.json`);
 
+// 检查配置文件
+const hasVite = exists(`${projectPath}/vite.config.js`);
+const hasWebpack = exists(`${projectPath}/webpack.config.js`);
+
+// 检查样式文件
+const styleFiles = glob(`${projectPath}/**/*.{scss,css,less}`);
+
+return {
+    framework: 'React',           // React, Vue, Angular
+    bundler: hasVite ? 'Vite' : 'Webpack',
+    styling: detectStyling(styleFiles),  // SCSS, CSS Modules, Styled Components
+    typescript: exists(`${projectPath}/tsconfig.json`)
+  };
+}
+```
 **产出物**:
 
-`{   "framework": "React", "bundler": "Vite", "styling": "SCSS", "typescript": false, "designSystem": {     "colors": "variables.scss",     "spacing": "8px grid",     "typography": "Geom TF"   } }`
-
+```
+{
+  "framework": "React",
+"bundler": "Vite",
+"styling": "SCSS",
+"typescript": false,
+"designSystem": {
+    "colors": "variables.scss",
+    "spacing": "8px grid",
+    "typography": "Geom TF"
+  }
+}
+```
 **5.2 转换代码**
 
-`function convertToProjectStack(tailwindCode, projectStack) {   if (projectStack.styling === 'SCSS') {     return convertTailwindToScss(tailwindCode);   } else if (projectStack.styling === 'CSS Modules') {     return convertTailwindToCssModules(tailwindCode);   }   // ... 其他转换 }`
-
+```
+function convertToProjectStack(tailwindCode, projectStack) {
+  if (projectStack.styling === 'SCSS') {
+    return convertTailwindToScss(tailwindCode);
+  } else if (projectStack.styling === 'CSS Modules') {
+    return convertTailwindToCssModules(tailwindCode);
+  }
+  // ... 其他转换
+}
+```
 **转换示例**:
 
 **输入 (Tailwind)**:
 
-`<div className="bg-white relative shadow-[0px_2px_2px_0px_rgba(0,0,0,0.25)] size-full">   <div className="absolute bg-gradient-to-b from-[[#abd3ff](javascript:;)] from-[5%] h-[1026px]">     {/* 内容 */}   </div> </div>`
-
+```
+<div className="bg-white relative shadow-[0px_2px_2px_0px_rgba(0,0,0,0.25)] size-full">
+  <div className="absolute bg-gradient-to-b from-[#abd3ff] from-[5%] h-[1026px]">
+    {/* 内容 */}
+  </div>
+</div>
+```
 **输出 (SCSS)**:
 
-`<div className="component-quest">   <div className="component-quest-gradient">     {/* 内容 */}   </div> </div>`
+```
+<div className="component-quest">
+  <div className="component-quest-gradient">
+    {/* 内容 */}
+  </div>
+</div>
+```
+```
+.component-quest {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: white;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+}
 
-`.component-quest {   position: relative;   width: 100%;   height: 100%;   background: white;   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25); } .cmponent-quest-gradient {   position: absolute;   height: 1026px;   background: linear-gradient(180deg, [#abd3ff](javascript:;) 5%, [#eff3ff](javascript:;) 28.654%); }`
-
+.cmponent-quest-gradient {
+  position: absolute;
+  height: 1026px;
+  background: linear-gradient(180deg, #abd3ff 5%, #eff3ff 28.654%);
+}
+```
 **5.3 适配设计系统**
 
-`function adaptToDesignSystem(code, designSystem) { // 替换颜色   code = replaceColors(code, designSystem.colors); // 替换间距   code = replaceSpacing(code, designSystem.spacing); // 替换字体   code = replaceTypography(code, designSystem.typography); return code; }`
+```
+function adaptToDesignSystem(code, designSystem) {
+// 替换颜色
+  code = replaceColors(code, designSystem.colors);
 
+// 替换间距
+  code = replaceSpacing(code, designSystem.spacing);
+
+// 替换字体
+  code = replaceTypography(code, designSystem.typography);
+
+return code;
+}
+```
 **产出物**: 符合项目规范的代码
 
 ---
@@ -175,16 +315,58 @@ https://www.figma.com/design/AOD2AAAAAAAA/Test?node-id=1026-159&m=dev
 
 **6.1 组件文件**
 
-`// ComponentA.jsx import { useState, useEffect } from'react'; import'./ComponentA.scss'; const ASSETS = { ellipse1115: 'https://www.figma.com/api/mcp/asset/...', // ... 更多资源 }; function ComponentA() { // 组件逻辑 return (     <div className="component-quest">       {/* 组件内容 */}     </div>   ); } exportdefault ComponentA;`
+```
+// ComponentA.jsx
+import { useState, useEffect } from'react';
+import'./ComponentA.scss';
 
+const ASSETS = {
+ellipse1115: 'https://www.figma.com/api/mcp/asset/...',
+// ... 更多资源
+};
+
+function ComponentA() {
+// 组件逻辑
+return (
+    <div className="component-quest">
+      {/* 组件内容 */}
+    </div>
+  );
+}
+
+exportdefault ComponentA;
+```
 **6.2 样式文件**
 
-`// ComponentA.scss .component-quest {   position: relative;   width: 100%;   min-height: 100vh;   background: linear-gradient(180deg, [#abd3ff](javascript:;) 5%, [#eff3ff](javascript:;) 28.654%);   // ... 更多样式 }`
+```
+// ComponentA.scss
+.component-quest {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(180deg, #abd3ff 5%, #eff3ff 28.654%);
 
+  // ... 更多样式
+}
+```
 **6.3 文档文件**
 
-``# ComponentA Component ## 来源信息 - 设计稿 URL: [Figma URL] - 生成时间: 2026-02-09 - Node ID: 1026-159 ## 使用方式 \`\`\`jsx import ComponentA from './Component'; \`\`\` ## 功能说明 ...``
+```
+# ComponentA Component
 
+## 来源信息
+- 设计稿 URL: [Figma URL]
+- 生成时间: 2026-02-09
+- Node ID: 1026-159
+
+## 使用方式
+\`\`\`jsx
+import ComponentA from './Component';
+\`\`\`
+
+## 功能说明
+...
+```
 **产出物**:
 
 ```
@@ -201,40 +383,238 @@ src/ComponentA/
 
 **7.1 视觉验证**
 
-`// 对比生成的代码渲染结果与 Figma 截图 function validateVisual(generatedCode, screenshot) { // 1. 渲染生成的代码 const rendered = renderComponent(generatedCode); // 2. 截图对比 const similarity = compareImages(rendered, screenshot); // 3. 检查关键元素 const checks = [     checkLayout(rendered, screenshot),     checkColors(rendered, screenshot),     checkTypography(rendered, screenshot),     checkSpacing(rendered, screenshot)   ]; return {     similarity,     checks,     passed: similarity > 0.95 && checks.every(c => c.passed)   }; }`
+```
+// 对比生成的代码渲染结果与 Figma 截图
+function validateVisual(generatedCode, screenshot) {
+// 1. 渲染生成的代码
+const rendered = renderComponent(generatedCode);
 
+// 2. 截图对比
+const similarity = compareImages(rendered, screenshot);
+
+// 3. 检查关键元素
+const checks = [
+    checkLayout(rendered, screenshot),
+    checkColors(rendered, screenshot),
+    checkTypography(rendered, screenshot),
+    checkSpacing(rendered, screenshot)
+  ];
+
+return {
+    similarity,
+    checks,
+    passed: similarity > 0.95 && checks.every(c => c.passed)
+  };
+}
+```
 **7.2 代码质量检查**
 
-`// 运行 Linter const lintResults = await runLinter([   'src/ComponentA.jsx',   'src/ComponentA.scss' ]); // 检查是否有错误 if (lintResults.errors.length > 0) {   await fixLintErrors(lintResults.errors); }`
+```
+// 运行 Linter
+const lintResults = await runLinter([
+  'src/ComponentA.jsx',
+  'src/ComponentA.scss'
+]);
 
+// 检查是否有错误
+if (lintResults.errors.length > 0) {
+  await fixLintErrors(lintResults.errors);
+}
+```
 **产出物**:
 
-`{   "visual": {     "similarity": 0.98,     "passed": true   }, "linter": {     "errors": 0,     "warnings": 2   }, "accessibility": {     "score": 95,     "issues": []   } }`
-
+```
+{
+  "visual": {
+    "similarity": 0.98,
+    "passed": true
+  },
+"linter": {
+    "errors": 0,
+    "warnings": 2
+  },
+"accessibility": {
+    "score": 95,
+    "issues": []
+  }
+}
+```
 ---
 
 ## 四、Figma MCP 核心技术实现
 
 ### 1\. URL 解析器
 
-`class FigmaUrlParser { static parse(url) {     // 支持多种 URL 格式     const patterns = [       /figma\.com\/design\/([^\/]+)\/[^?]+\?node-id=([^&]+)/,       /figma\.com\/file\/([^\/]+)\/[^?]+\?node-id=([^&]+)/,     ];          for (const pattern of patterns) {       const match = url.match(pattern);       if (match) {         return {           fileKey: match[1],           nodeId: match[2].replace(':', '-')  // 转换格式         };       }     }          thrownewError('Invalid Figma URL');   } }`
-
+```
+class FigmaUrlParser {
+static parse(url) {
+    // 支持多种 URL 格式
+    const patterns = [
+      /figma\.com\/design\/([^\/]+)\/[^?]+\?node-id=([^&]+)/,
+      /figma\.com\/file\/([^\/]+)\/[^?]+\?node-id=([^&]+)/,
+    ];
+    
+    for (const pattern of patterns) {
+      const match = url.match(pattern);
+      if (match) {
+        return {
+          fileKey: match[1],
+          nodeId: match[2].replace(':', '-')  // 转换格式
+        };
+      }
+    }
+    
+    thrownewError('Invalid Figma URL');
+  }
+}
+```
 ### 2\. MCP 客户端
 
-`class FigmaMcpClient { async getDesignContext(fileKey, nodeId) {     returnawaitthis.callTool('get_design_context', {       fileKey,       nodeId     });   } async getScreenshot(fileKey, nodeId) {     returnawaitthis.callTool('get_screenshot', {       fileKey,       nodeId     });   } async getMetadata(fileKey, nodeId) {     returnawaitthis.callTool('get_metadata', {       fileKey,       nodeId     });   }   private async callTool(toolName, args) {     // 调用 MCP 工具     const result = await callMcpTool({       server: 'user-Figma',       toolName,       arguments: args     });          return result;   } }`
+```
+class FigmaMcpClient {
+async getDesignContext(fileKey, nodeId) {
+    returnawaitthis.callTool('get_design_context', {
+      fileKey,
+      nodeId
+    });
+  }
 
+async getScreenshot(fileKey, nodeId) {
+    returnawaitthis.callTool('get_screenshot', {
+      fileKey,
+      nodeId
+    });
+  }
+
+async getMetadata(fileKey, nodeId) {
+    returnawaitthis.callTool('get_metadata', {
+      fileKey,
+      nodeId
+    });
+  }
+
+  private async callTool(toolName, args) {
+    // 调用 MCP 工具
+    const result = await callMcpTool({
+      server: 'user-Figma',
+      toolName,
+      arguments: args
+    });
+    
+    return result;
+  }
+}
+```
 ### 3\. 代码转换器
 
-``class CodeConverter {   convertTailwindToScss(jsxCode) {     // 1. 提取 className     const classNames = this.extractClassNames(jsxCode);          // 2. 转换为 SCSS     const scss = this.tailwindToScss(classNames);          // 3. 替换 JSX 中的 className     const newJsx = this.replaceClassNames(jsxCode, classNames);          return { jsx: newJsx, scss };   }   tailwindToScss(classNames) {     const scssRules = [];          for (const [selector, classes] ofObject.entries(classNames)) {       const rules = classes.map(cls =>this.convertClass(cls));       scssRules.push(`${selector} {\n  ${rules.join('\n  ')}\n}`);     }          return scssRules.join('\n\n');   }   convertClass(tailwindClass) {     // Tailwind -> CSS 映射     const mappings = {       'bg-white': 'background: white',       'relative': 'position: relative',       'absolute': 'position: absolute',       'flex': 'display: flex',       // ... 更多映射     };          return mappings[tailwindClass] || this.parseArbitraryValue(tailwindClass);   } }``
+```
+class CodeConverter {
+  convertTailwindToScss(jsxCode) {
+    // 1. 提取 className
+    const classNames = this.extractClassNames(jsxCode);
+    
+    // 2. 转换为 SCSS
+    const scss = this.tailwindToScss(classNames);
+    
+    // 3. 替换 JSX 中的 className
+    const newJsx = this.replaceClassNames(jsxCode, classNames);
+    
+    return { jsx: newJsx, scss };
+  }
 
+  tailwindToScss(classNames) {
+    const scssRules = [];
+    
+    for (const [selector, classes] ofObject.entries(classNames)) {
+      const rules = classes.map(cls =>this.convertClass(cls));
+      scssRules.push(`${selector} {\n  ${rules.join('\n  ')}\n}`);
+    }
+    
+    return scssRules.join('\n\n');
+  }
+
+  convertClass(tailwindClass) {
+    // Tailwind -> CSS 映射
+    const mappings = {
+      'bg-white': 'background: white',
+      'relative': 'position: relative',
+      'absolute': 'position: absolute',
+      'flex': 'display: flex',
+      // ... 更多映射
+    };
+    
+    return mappings[tailwindClass] || this.parseArbitraryValue(tailwindClass);
+  }
+}
+```
 ### 4\. 资源管理器
 
-`class AssetManager { async downloadAssets(urls) {     const assets = {};          for (const url of urls) {       const assetId = this.extractAssetId(url);       const content = awaitthis.download(url);              assets[assetId] = {         url,         content,         type: this.detectType(content),         expiresAt: Date.now() + 7 * 24 * 60 * 60 * 1000// 7 天       };     }          return assets;   } async download(url) {     const response = await fetch(url);     returnawait response.arrayBuffer();   }   detectType(content) {     // 检测文件类型     const header = newUint8Array(content.slice(0, 4));          if (this.isPNG(header)) return'png';     if (this.isSVG(content)) return'svg';     if (this.isJPEG(header)) return'jpeg';          return'unknown';   } }`
+```
+class AssetManager {
+async downloadAssets(urls) {
+    const assets = {};
+    
+    for (const url of urls) {
+      const assetId = this.extractAssetId(url);
+      const content = awaitthis.download(url);
+      
+      assets[assetId] = {
+        url,
+        content,
+        type: this.detectType(content),
+        expiresAt: Date.now() + 7 * 24 * 60 * 60 * 1000// 7 天
+      };
+    }
+    
+    return assets;
+  }
 
+async download(url) {
+    const response = await fetch(url);
+    returnawait response.arrayBuffer();
+  }
+
+  detectType(content) {
+    // 检测文件类型
+    const header = newUint8Array(content.slice(0, 4));
+    
+    if (this.isPNG(header)) return'png';
+    if (this.isSVG(content)) return'svg';
+    if (this.isJPEG(header)) return'jpeg';
+    
+    return'unknown';
+  }
+}
+```
 ### 5\. 技术栈检测器
 
-``class TechStackDetector { async detect(projectPath) {     const stack = {       framework: awaitthis.detectFramework(projectPath),       styling: awaitthis.detectStyling(projectPath),       typescript: awaitthis.hasTypeScript(projectPath),       bundler: awaitthis.detectBundler(projectPath)     };          return stack;   } async detectStyling(projectPath) {     // 检查样式文件     const scssFiles = await glob(`${projectPath}/**/*.scss`);     const cssModules = await glob(`${projectPath}/**/*.module.css`);     const styledComponents = awaitthis.hasPackage(projectPath, 'styled-components');          if (scssFiles.length > 0) return'SCSS';     if (cssModules.length > 0) return'CSS Modules';     if (styledComponents) return'Styled Components';          return'CSS';   } }``
+```
+class TechStackDetector {
+async detect(projectPath) {
+    const stack = {
+      framework: awaitthis.detectFramework(projectPath),
+      styling: awaitthis.detectStyling(projectPath),
+      typescript: awaitthis.hasTypeScript(projectPath),
+      bundler: awaitthis.detectBundler(projectPath)
+    };
+    
+    return stack;
+  }
 
+async detectStyling(projectPath) {
+    // 检查样式文件
+    const scssFiles = await glob(`${projectPath}/**/*.scss`);
+    const cssModules = await glob(`${projectPath}/**/*.module.css`);
+    const styledComponents = awaitthis.hasPackage(projectPath, 'styled-components');
+    
+    if (scssFiles.length > 0) return'SCSS';
+    if (cssModules.length > 0) return'CSS Modules';
+    if (styledComponents) return'Styled Components';
+    
+    return'CSS';
+  }
+}
+```
 ## 五、数据流转
 
 ### 完整数据流
@@ -247,54 +627,215 @@ src/ComponentA/
 
 **Figma 设计数据**:
 
-`{   "id": "1026:159", "name": "Component Quest", "type": "FRAME", "width": 375, "height": 1026, "background": [{     "type": "GRADIENT_LINEAR",     "gradientStops": [       { "color": "[#abd3ff](javascript:;)", "position": 0.05 },       { "color": "[#eff3ff](javascript:;)", "position": 0.28654 }     ]   }], "children": [     {       "id": "1026:160",       "name": "Background",       "type": "RECTANGLE",       "fills": [...]     }   ] }`
-
+```
+{
+  "id": "1026:159",
+"name": "Component Quest",
+"type": "FRAME",
+"width": 375,
+"height": 1026,
+"background": [{
+    "type": "GRADIENT_LINEAR",
+    "gradientStops": [
+      { "color": "#abd3ff", "position": 0.05 },
+      { "color": "#eff3ff", "position": 0.28654 }
+    ]
+  }],
+"children": [
+    {
+      "id": "1026:160",
+      "name": "Background",
+      "type": "RECTANGLE",
+      "fills": [...]
+    }
+  ]
+}
+```
 **生成的代码数据**:
 
-`{   "component": {     "name": "ComponentA",     "framework": "React",     "code": "import { useState } from 'react'...",     "props": [],     "state": ["countdown"]   }, "styles": {     "type": "SCSS",     "code": ".component-quest { ... }",     "variables": ["$primary-color", "$spacing-unit"]   }, "assets": [     {       "id": "ellipse1115",       "url": "https://www.figma.com/api/mcp/asset/...",       "type": "png",       "size": 12345     }   ] }`
-
+```
+{
+  "component": {
+    "name": "ComponentA",
+    "framework": "React",
+    "code": "import { useState } from 'react'...",
+    "props": [],
+    "state": ["countdown"]
+  },
+"styles": {
+    "type": "SCSS",
+    "code": ".component-quest { ... }",
+    "variables": ["$primary-color", "$spacing-unit"]
+  },
+"assets": [
+    {
+      "id": "ellipse1115",
+      "url": "https://www.figma.com/api/mcp/asset/...",
+      "type": "png",
+      "size": 12345
+    }
+  ]
+}
+```
 ## 六、Figma mcp 性能优化
 
 ### 1\. 并行处理
 
-`async function generateCode(fileKey, nodeId) { // 并行获取数据 const [designContext, screenshot, metadata] = awaitPromise.all([     getDesignContext(fileKey, nodeId),     getScreenshot(fileKey, nodeId),     getMetadata(fileKey, nodeId)   ]); // 并行下载资源 const assets = awaitPromise.all(     extractAssetUrls(designContext).map(url => downloadAsset(url))   ); // 转换代码 const code = convertCode(designContext, metadata); return { code, assets, screenshot }; }`
+```
+async function generateCode(fileKey, nodeId) {
+// 并行获取数据
+const [designContext, screenshot, metadata] = awaitPromise.all([
+    getDesignContext(fileKey, nodeId),
+    getScreenshot(fileKey, nodeId),
+    getMetadata(fileKey, nodeId)
+  ]);
 
+// 并行下载资源
+const assets = awaitPromise.all(
+    extractAssetUrls(designContext).map(url => downloadAsset(url))
+  );
+
+// 转换代码
+const code = convertCode(designContext, metadata);
+
+return { code, assets, screenshot };
+}
+```
 ### 2\. 缓存机制
 
-``class Cache { constructor() {     this.designCache = newMap();     this.assetCache = newMap();   } async getDesignContext(fileKey, nodeId) {     const key = `${fileKey}:${nodeId}`;          if (this.designCache.has(key)) {       returnthis.designCache.get(key);     }          const data = await fetchDesignContext(fileKey, nodeId);     this.designCache.set(key, data);          return data;   } }``
+```
+class Cache {
+constructor() {
+    this.designCache = newMap();
+    this.assetCache = newMap();
+  }
 
+async getDesignContext(fileKey, nodeId) {
+    const key = `${fileKey}:${nodeId}`;
+    
+    if (this.designCache.has(key)) {
+      returnthis.designCache.get(key);
+    }
+    
+    const data = await fetchDesignContext(fileKey, nodeId);
+    this.designCache.set(key, data);
+    
+    return data;
+  }
+}
+```
 ### 3\. 增量更新
 
-`async function updateDesign(fileKey, nodeId, previousCode) { // 获取新的设计数据 const newDesign = await getDesignContext(fileKey, nodeId); // 对比差异 const diff = compareDesigns(previousCode.design, newDesign); // 只更新变化的部分 if (diff.hasChanges) {     return updateCode(previousCode, diff);   } return previousCode; }`
+```
+async function updateDesign(fileKey, nodeId, previousCode) {
+// 获取新的设计数据
+const newDesign = await getDesignContext(fileKey, nodeId);
 
+// 对比差异
+const diff = compareDesigns(previousCode.design, newDesign);
+
+// 只更新变化的部分
+if (diff.hasChanges) {
+    return updateCode(previousCode, diff);
+  }
+
+return previousCode;
+}
+```
 ## 七、错误处理
 
 ### 错误类型
 
-`class FigmaSkillError extends Error { constructor(type, message, context) {     super(message);     this.type = type;     this.context = context;   } } // 错误类型 const ErrorTypes = { URL_PARSE_ERROR: 'URL_PARSE_ERROR', MCP_CONNECTION_ERROR: 'MCP_CONNECTION_ERROR', DESIGN_NOT_FOUND: 'DESIGN_NOT_FOUND', CONVERSION_ERROR: 'CONVERSION_ERROR', FILE_WRITE_ERROR: 'FILE_WRITE_ERROR' };`
+```
+class FigmaSkillError extends Error {
+constructor(type, message, context) {
+    super(message);
+    this.type = type;
+    this.context = context;
+  }
+}
 
+// 错误类型
+const ErrorTypes = {
+URL_PARSE_ERROR: 'URL_PARSE_ERROR',
+MCP_CONNECTION_ERROR: 'MCP_CONNECTION_ERROR',
+DESIGN_NOT_FOUND: 'DESIGN_NOT_FOUND',
+CONVERSION_ERROR: 'CONVERSION_ERROR',
+FILE_WRITE_ERROR: 'FILE_WRITE_ERROR'
+};
+```
 ### 错误处理流程
 
 ![图片](./images/6d92f3a6550d15c966f92972dad7a6e3.png)
 
 ### 重试机制
 
-`async function withRetry(fn, maxRetries = 3) { let lastError; for (let i = 0; i < maxRetries; i++) {     try {       returnawait fn();     } catch (error) {       lastError = error;              if (!isRetryable(error)) {         throw error;       }              await sleep(1000 * Math.pow(2, i));  // 指数退避     }   } throw lastError; }`
+```
+async function withRetry(fn, maxRetries = 3) {
+let lastError;
 
+for (let i = 0; i < maxRetries; i++) {
+    try {
+      returnawait fn();
+    } catch (error) {
+      lastError = error;
+      
+      if (!isRetryable(error)) {
+        throw error;
+      }
+      
+      await sleep(1000 * Math.pow(2, i));  // 指数退避
+    }
+  }
+
+throw lastError;
+}
+```
 ## 八、最佳实践
 
 ### 1\. Figma 设计规范
 
-`✅ 推荐做法: - 使用 Auto Layout - 命名清晰的图层 - 使用 Design Tokens - 组件化设计 - 合理的图层结构 ❌ 避免: - 过度嵌套 - 使用绝对定位(除非必要) - 混乱的命名 - 未组件化的重复元素`
+```
+✅ 推荐做法:
+- 使用 Auto Layout
+- 命名清晰的图层
+- 使用 Design Tokens
+- 组件化设计
+- 合理的图层结构
 
+❌ 避免:
+- 过度嵌套
+- 使用绝对定位(除非必要)
+- 混乱的命名
+- 未组件化的重复元素
+```
 ### 2\. 代码生成策略
 
-`// 优先级: 设计系统 > Figma 设计 > 默认样式 function generateStyles(figmaStyles, designSystem) { const styles = {}; // 1. 使用设计系统的 tokens if (designSystem.hasToken(figmaStyles.color)) {     styles.color = designSystem.getToken(figmaStyles.color);   } else {     // 2. 使用 Figma 的值     styles.color = figmaStyles.color;   } return styles; }`
+```
+// 优先级: 设计系统 > Figma 设计 > 默认样式
+function generateStyles(figmaStyles, designSystem) {
+const styles = {};
 
+// 1. 使用设计系统的 tokens
+if (designSystem.hasToken(figmaStyles.color)) {
+    styles.color = designSystem.getToken(figmaStyles.color);
+  } else {
+    // 2. 使用 Figma 的值
+    styles.color = figmaStyles.color;
+  }
+
+return styles;
+}
+```
 ### 3\. 资源管理策略
 
-`// 开发环境: 使用 Figma URLs // 生产环境: 下载到本地或 CDN const assetStrategy = process.env.NODE_ENV === 'production'   ? 'local'  // 使用本地资源   : 'remote'; // 使用 Figma URLs`
-
+```
+// 开发环境: 使用 Figma URLs
+// 生产环境: 下载到本地或 CDN
+const assetStrategy = process.env.NODE_ENV === 'production'
+  ? 'local'  // 使用本地资源
+  : 'remote'; // 使用 Figma URLs
+```
 ## 九、总结
 
 ### Figma MCP + Skill 转换设计稿转换代码核心流程`Figma URL → 解析 → MCP 调用 → 获取数据 → 转换代码 → 生成文件 → 验证`

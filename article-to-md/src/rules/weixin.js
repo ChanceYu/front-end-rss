@@ -10,6 +10,7 @@ export default {
     '#content_bottom_area',
     '#js_profile_qrcode',
     '.qr_code_pc_outer',
+    '.video_iframe',
     'script',
     'style',
   ],
@@ -31,6 +32,7 @@ export default {
         '#login_modal_area',
         '.weui-dialog',
         '#js_dialog_tips',
+        '.video_iframe',
       ]
       selectors.forEach((sel) => {
         document.querySelectorAll(sel).forEach((el) => el.remove())
@@ -46,5 +48,46 @@ export default {
     })
 
     await delay(300)
+
+    // If the article has swiper indicator dots (.swiper_indicator_item_pc), extract
+    // the full-size image URL from each dot's background-image style and append
+    // the images to #js_content.
+    //
+    // Dot style: background-image: url("https://mmbiz.qpic.cn/.../300?wx_fmt=jpeg&wxfrom=12")
+    // Full-size:                   https://mmbiz.qpic.cn/.../0?wx_fmt=jpeg
+    await page.evaluate(() => {
+      const indicators = document.querySelectorAll(
+        '.share_media_swiper_wrp .swiper_indicator_item_pc'
+      )
+      if (!indicators.length) return
+
+      const content = document.getElementById('js_content')
+      if (!content) return
+
+      indicators.forEach((dot) => {
+        const style = dot.getAttribute('style') || dot.style.cssText || ''
+
+        // Extract URL from background-image: url("...") or url('...')
+        const match = style.match(/background-image\s*:\s*url\(\s*["']?([^"')]+)["']?\s*\)/)
+        if (!match) return
+
+        let url = match[1]
+          // Decode HTML entities (&quot; → ")
+          .replace(/&quot;/g, '"')
+          .replace(/&amp;/g, '&')
+          .trim()
+
+        // Convert thumbnail size to full-size:
+        // .../300?wx_fmt=jpeg&wxfrom=12  →  .../0?wx_fmt=jpeg
+        url = url.replace(/\/\d+\?wx_fmt=(\w+).*$/, '/0?wx_fmt=$1')
+
+        const img = document.createElement('img')
+        img.setAttribute('src', url)
+
+        const p = document.createElement('p')
+        p.appendChild(img)
+        content.appendChild(p)
+      })
+    })
   },
 }

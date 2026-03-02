@@ -478,51 +478,16 @@ Effect Event 应当保持在其所属组件的本地作用域内：
 - 需要在调用时读取最新的 props/state
 - 这些值的变化不应触发 Effect 重新执行
 
-场景
 
-响应式依赖（触发 Effect）
 
-非响应式（使用 Effect Event）
+| 场景 | 响应式依赖（触发 Effect） | 非响应式（使用 Effect Event） |
+| --- | --- | --- |
+| 聊天室连接 | roomId | isMuted、theme |
+| 轮询数据看板 | teamId | includeArchived、sortOrder |
+| 数据埋点上报 | pageUrl | cartItemCount、userId |
+| WebSocket 消息 | socketUrl | isOnline、preferences |
+| 定时器 | -（只运行一次） | count、step |
 
-聊天室连接
-
-`roomId`
-
-`isMuted`
-
-、`theme`
-
-轮询数据看板
-
-`teamId`
-
-`includeArchived`
-
-、`sortOrder`
-
-数据埋点上报
-
-`pageUrl`
-
-`cartItemCount`
-
-、`userId`
-
-WebSocket 消息
-
-`socketUrl`
-
-`isOnline`
-
-、`preferences`
-
-定时器
-
-\-（只运行一次）
-
-`count`
-
-、`step`
 
 #### React 版本说明
 

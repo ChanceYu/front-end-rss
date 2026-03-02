@@ -7,7 +7,7 @@ import ruanyifengRule from './ruanyifeng.js'
 
 /**
  * @typedef {Object} SiteRule
- * @property {string} contentSelector - CSS selector for the main article content
+ * @property {string | string[]} contentSelector - CSS selector(s) for the main article content; array items are concatenated in order
  * @property {string[]} excludeSelectors - CSS selectors for elements to remove before conversion
  * @property {'load'|'domcontentloaded'|'networkidle'|'commit'} [waitUntil] - Playwright waitUntil option
  * @property {(page: import('playwright').Page) => Promise<void>} [preProcess] - Custom hook run after page load

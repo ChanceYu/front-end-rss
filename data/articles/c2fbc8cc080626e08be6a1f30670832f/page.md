@@ -68,29 +68,14 @@ TypeError: merge is not a function
 
 ## 测试对比
 
-测试场景
 
-配置
 
-结果
+| 测试场景 | 配置 | 结果 |
+| --- | --- | --- |
+| 正常配置 | {"timeout": 5000} | 正常运行 |
+| 恶意配置 | JSON.parse('{"__proto__": {"x": 1}}') | 直接崩溃 |
+| 普通嵌套对象 | {"headers": {"X-Test": "value"}} | 正常运行 |
 
-正常配置
-
-`{"timeout": 5000}`
-
-正常运行
-
-恶意配置
-
-`JSON.parse('{"__proto__": {"x": 1}}')`
-
-直接崩溃
-
-普通嵌套对象
-
-`{"headers": {"X-Test": "value"}}`
-
-正常运行
 
 ---
 
