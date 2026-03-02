@@ -6,6 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "dev:md": "TO_MARKDOWN=true npm run dev",
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js"
@@ -13,6 +14,10 @@
   "dependencies": {
     "@vant/touch-emulator": "^1.1.0",
     "dayjs": "^1.8.16",
+    "github-markdown-css": "^5.9.0",
+    "highlight.js": "^11.11.1",
+    "marked": "^4.3.0",
+    "marked-highlight": "^2.2.3",
     "vant": "^2.2.9",
     "vue": "^2.5.2",
     "vue-infinite-scroll": "^2.0.2",

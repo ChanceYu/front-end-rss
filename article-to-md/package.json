@@ -1,0 +1,27 @@
+{
+  "name": "article-to-md",
+  "version": "1.0.0",
+  "description": "Fetch articles by URL and convert to Markdown files",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "process": "node src/index.js",
+    "process:limit": "node src/index.js --limit=10",
+    "serve": "node src/server.js"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp"
+    ]
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.19.9",
+    "cheerio": "^1.2.0",
+    "dayjs": "^1.11.13",
+    "hono": "^4.12.3",
+    "playwright": "^1.50.1",
+    "sharp": "^0.33.5",
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}

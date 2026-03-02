@@ -1,0 +1,280 @@
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550" width="900" height="550">
+   <defs>
+    <linearGradient x1="0%" y1="0%" x2="100%" y2="100%">
+     <stop offset="0%" style="stop-color:#1e293b">
+     </stop>
+     <stop offset="100%" style="stop-color:#0f172a">
+     </stop>
+    </linearGradient>
+    <marker markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+     <path d="M0,0 L0,6 L9,3 z" fill="#06b6d4">
+     </path>
+    </marker>
+    <marker markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+     <path d="M0,0 L0,6 L9,3 z" fill="#a855f7">
+     </path>
+    </marker>
+    <marker markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+     <path d="M0,0 L0,6 L9,3 z" fill="#22c55e">
+     </path>
+    </marker>
+   </defs>
+   <rect width="900" height="550" fill="url(#bgGrad3)">
+   </rect>
+   <text x="450" y="35" font-family="system-ui, sans-serif" font-size="20" font-weight="bold" fill="#f8fafc" text-anchor="middle">
+    
+    
+    
+    How useEffectEvent Actually Works
+   </text>
+   <text x="450" y="55" font-family="system-ui, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">
+    
+    
+    
+    (All function versions share the same ref - that's the trick!)
+   </text>
+   <g transform="translate(150, 150)">
+    <text x="0" y="-30" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#06b6d4" text-anchor="middle">
+     
+     
+     
+     Step 1: New Function Each Render
+    </text>
+    <rect x="-100" y="-10" width="200" height="120" rx="10" fill="#164e63" stroke="#06b6d4" stroke-width="3">
+    </rect>
+    <text x="0" y="15" font-family="Monaco, monospace" font-size="11" fill="#67e8f9" text-anchor="middle">
+     
+     
+     
+     onMessage
+    </text>
+    <text x="0" y="35" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     Different identity
+    </text>
+    <text x="0" y="50" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     each render, BUT...
+    </text>
+    <rect x="-40" y="60" width="80" height="35" rx="4" fill="#0e7490">
+    </rect>
+    <text x="0" y="82" font-family="Monaco, monospace" font-size="11" fill="#fff" text-anchor="middle">
+     
+     
+     
+     (...args)
+    </text>
+    <text x="0" y="125" font-family="system-ui, sans-serif" font-size="9" fill="#22d3ee" text-anchor="middle">
+     
+     
+     
+     All versions read from same ref!
+    </text>
+   </g>
+   <g transform="translate(450, 150)">
+    <text x="0" y="-30" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#a855f7" text-anchor="middle">
+     
+     
+     
+     Step 2: Shared Internal Ref
+    </text>
+    <rect x="-110" y="-10" width="220" height="120" rx="10" fill="#3b0764" stroke="#a855f7" stroke-width="3">
+    </rect>
+    <text x="0" y="15" font-family="Monaco, monospace" font-size="11" fill="#c084fc" text-anchor="middle">
+     
+     
+     
+     latestCallbackRef
+    </text>
+    <text x="0" y="35" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     Hidden ref managed by React
+    </text>
+    <rect x="-90" y="50" width="180" height="50" rx="6" fill="#581c87" stroke="#a855f7" stroke-width="2">
+    </rect>
+    <text x="0" y="70" font-family="Monaco, monospace" font-size="10" fill="#e9d5ff" text-anchor="middle">
+     
+     
+     
+     .current = () =&gt; {
+    </text>
+    <text x="0" y="85" font-family="Monaco, monospace" font-size="10" fill="#4ade80" text-anchor="middle">
+     
+     
+     
+     // latest closure!
+    </text>
+    <text x="0" y="95" font-family="Monaco, monospace" font-size="10" fill="#e9d5ff" text-anchor="middle">
+     
+     
+     
+     }
+    </text>
+    <text x="0" y="125" font-family="system-ui, sans-serif" font-size="9" fill="#c084fc" text-anchor="middle">
+     
+     
+     
+     Updated after EVERY render
+    </text>
+   </g>
+   <g transform="translate(750, 150)">
+    <text x="0" y="-30" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#22c55e" text-anchor="middle">
+     
+     
+     
+     Step 3: Your Effect
+    </text>
+    <rect x="-100" y="-10" width="200" height="120" rx="10" fill="#14532d" stroke="#22c55e" stroke-width="3">
+    </rect>
+    <text x="0" y="15" font-family="Monaco, monospace" font-size="11" fill="#4ade80" text-anchor="middle">
+     
+     
+     
+     useEffect(() =&gt; {
+    </text>
+    <text x="0" y="35" font-family="Monaco, monospace" font-size="10" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     socket.on('msg',
+    </text>
+    <text x="0" y="52" font-family="Monaco, monospace" font-size="11" fill="#67e8f9" text-anchor="middle">
+     
+     
+     
+     onMessage
+    </text>
+    <text x="0" y="68" font-family="Monaco, monospace" font-size="10" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     );
+    </text>
+    <text x="0" y="85" font-family="Monaco, monospace" font-size="11" fill="#4ade80" text-anchor="middle">
+     
+     
+     
+     }, [roomId]);
+    </text>
+    <text x="0" y="125" font-family="system-ui, sans-serif" font-size="9" fill="#22c55e" text-anchor="middle">
+     
+     
+     
+     Captures old fn, still works!
+    </text>
+   </g>
+   <line x1="260" y1="180" x2="330" y2="180" stroke="#a855f7" stroke-width="2" stroke-dasharray="6,3" marker-end="url(#arrowPurple)">
+   </line>
+   <text x="295" y="170" font-family="system-ui, sans-serif" font-size="9" fill="#c084fc" text-anchor="middle">
+    
+    
+    
+    reads from
+   </text>
+   <line x1="570" y1="180" x2="640" y2="180" stroke="#22c55e" stroke-width="2" marker-end="url(#arrowGreen2)">
+   </line>
+   <text x="605" y="170" font-family="system-ui, sans-serif" font-size="9" fill="#4ade80" text-anchor="middle">
+    
+    
+    
+    passes
+   </text>
+   <g transform="translate(450, 350)">
+    <rect x="-400" y="-40" width="800" height="180" rx="12" fill="#0f172a" stroke="#475569" stroke-width="2">
+    </rect>
+    <text x="0" y="-15" font-family="system-ui, sans-serif" font-size="16" font-weight="bold" fill="#f8fafc" text-anchor="middle">
+     
+     
+     
+     The Key Insight: What Happens When Called
+    </text>
+    <g transform="translate(-300, 30)">
+     <rect x="0" y="0" width="130" height="50" rx="6" fill="#164e63" stroke="#06b6d4" stroke-width="2">
+     </rect>
+     <text x="65" y="20" font-family="system-ui, sans-serif" font-size="11" fill="#67e8f9" text-anchor="middle">
+      
+      
+      
+      Event Fires
+     </text>
+     <text x="65" y="38" font-family="Monaco, monospace" font-size="10" fill="#94a3b8" text-anchor="middle">
+      
+      
+      
+      socket message
+     </text>
+    </g>
+    <line x1="-160" y1="55" x2="-100" y2="55" stroke="#64748b" stroke-width="2" marker-end="url(#arrowCyan)">
+    </line>
+    <g transform="translate(-30, 30)">
+     <rect x="0" y="0" width="130" height="50" rx="6" fill="#164e63" stroke="#06b6d4" stroke-width="2">
+     </rect>
+     <text x="65" y="20" font-family="system-ui, sans-serif" font-size="11" fill="#67e8f9" text-anchor="middle">
+      
+      
+      
+      Old fn Called
+     </text>
+     <text x="65" y="38" font-family="Monaco, monospace" font-size="10" fill="#94a3b8" text-anchor="middle">
+      
+      
+      
+      onMessage()
+     </text>
+    </g>
+    <line x1="110" y1="55" x2="170" y2="55" stroke="#a855f7" stroke-width="2" marker-end="url(#arrowPurple)">
+    </line>
+    <g transform="translate(240, 30)">
+     <rect x="0" y="0" width="160" height="50" rx="6" fill="#3b0764" stroke="#a855f7" stroke-width="2">
+     </rect>
+     <text x="80" y="20" font-family="system-ui, sans-serif" font-size="11" fill="#c084fc" text-anchor="middle">
+      
+      
+      
+      Reads .current
+     </text>
+     <text x="80" y="38" font-family="Monaco, monospace" font-size="10" fill="#94a3b8" text-anchor="middle">
+      
+      
+      
+      latestCallbackRef
+     </text>
+    </g>
+    <g transform="translate(80, 100)">
+     <rect x="0" y="0" width="240" height="45" rx="6" fill="#166534" stroke="#22c55e" stroke-width="2">
+     </rect>
+     <text x="120" y="18" font-family="system-ui, sans-serif" font-size="11" fill="#4ade80" text-anchor="middle">
+      
+      
+      
+      Executes Latest Callback
+     </text>
+     <text x="120" y="35" font-family="Monaco, monospace" font-size="10" fill="#86efac" text-anchor="middle">
+      
+      
+      
+      with current props/state!
+     </text>
+    </g>
+    <line x1="320" y1="85" x2="200" y2="95" stroke="#22c55e" stroke-width="2" marker-end="url(#arrowGreen2)">
+    </line>
+   </g>
+   <text x="450" y="525" font-family="system-ui, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">
+    <tspan font-weight="bold" fill="#f8fafc">
+     
+     
+     
+     Not magic
+    </tspan>
+
+
+
+ - all function versions share one ref. Old captured functions still get fresh values.
+   </text>
+  </svg>

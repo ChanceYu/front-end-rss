@@ -1,0 +1,188 @@
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+   <defs>
+    <linearGradient x1="0%" y1="0%" x2="100%" y2="100%">
+     <stop offset="0%" style="stop-color:#1e293b">
+     </stop>
+     <stop offset="100%" style="stop-color:#0f172a">
+     </stop>
+    </linearGradient>
+    <marker markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+     <path d="M0,0 L0,6 L9,3 z" fill="#22c55e">
+     </path>
+    </marker>
+    <marker markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+     <path d="M0,0 L0,6 L9,3 z" fill="#eab308">
+     </path>
+    </marker>
+   </defs>
+   <rect width="800" height="450" fill="url(#bgGrad2)">
+   </rect>
+   <text x="400" y="35" font-family="system-ui, sans-serif" font-size="20" font-weight="bold" fill="#f8fafc" text-anchor="middle">
+    
+    
+    
+    The useRef Solution: Mutable Container
+   </text>
+   <g transform="translate(400, 200)">
+    <rect x="-80" y="-60" width="160" height="120" rx="10" fill="#14532d" stroke="#22c55e" stroke-width="3">
+    </rect>
+    <text x="0" y="-35" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#4ade80" text-anchor="middle">
+     
+     
+     
+     useRef Container
+    </text>
+    <text x="0" y="-15" font-family="Monaco, monospace" font-size="10" fill="#86efac" text-anchor="middle">
+     
+     
+     
+     { current: ??? }
+    </text>
+    <rect x="-60" y="0" width="120" height="40" rx="6" fill="#166534" stroke="#4ade80" stroke-width="2">
+    </rect>
+    <text x="0" y="18" font-family="Monaco, monospace" font-size="11" fill="#fff" text-anchor="middle">
+     
+     
+     
+     .current =
+    </text>
+    <text x="0" y="35" font-family="Monaco, monospace" font-size="14" font-weight="bold" fill="#4ade80" text-anchor="middle">
+     
+     
+     
+     5
+    </text>
+    <text x="0" y="75" font-family="system-ui, sans-serif" font-size="10" fill="#86efac" text-anchor="middle">
+     
+     
+     
+     Same object identity
+    </text>
+    <text x="0" y="88" font-family="system-ui, sans-serif" font-size="10" fill="#86efac" text-anchor="middle">
+     
+     
+     
+     across all renders!
+    </text>
+   </g>
+   <g transform="translate(100, 80)">
+    <rect x="-50" y="0" width="100" height="55" rx="6" fill="#1e3a5f" stroke="#3b82f6" stroke-width="2">
+    </rect>
+    <text x="0" y="20" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" fill="#60a5fa" text-anchor="middle">
+     
+     
+     
+     Render 1
+    </text>
+    <text x="0" y="40" font-family="Monaco, monospace" font-size="10" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     count = 0
+    </text>
+   </g>
+   <g transform="translate(280, 80)">
+    <rect x="-50" y="0" width="100" height="55" rx="6" fill="#1e3a5f" stroke="#3b82f6" stroke-width="2">
+    </rect>
+    <text x="0" y="20" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" fill="#60a5fa" text-anchor="middle">
+     
+     
+     
+     Render 2
+    </text>
+    <text x="0" y="40" font-family="Monaco, monospace" font-size="10" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     count = 1
+    </text>
+   </g>
+   <g transform="translate(520, 80)">
+    <rect x="-50" y="0" width="100" height="55" rx="6" fill="#1e3a5f" stroke="#3b82f6" stroke-width="2">
+    </rect>
+    <text x="0" y="20" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" fill="#60a5fa" text-anchor="middle">
+     
+     
+     
+     Render 3
+    </text>
+    <text x="0" y="40" font-family="Monaco, monospace" font-size="10" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     count = 5
+    </text>
+   </g>
+   <line x1="100" y1="140" x2="340" y2="165" stroke="#eab308" stroke-width="2" marker-end="url(#arrowYellow)">
+   </line>
+   <line x1="280" y1="140" x2="360" y2="165" stroke="#eab308" stroke-width="2" marker-end="url(#arrowYellow)">
+   </line>
+   <line x1="520" y1="140" x2="440" y2="165" stroke="#eab308" stroke-width="2" marker-end="url(#arrowYellow)">
+   </line>
+   <text x="200" y="150" font-family="system-ui, sans-serif" font-size="9" fill="#fbbf24" text-anchor="middle">
+    
+    
+    
+    update .current
+   </text>
+   <g transform="translate(680, 200)">
+    <rect x="-70" y="-50" width="140" height="100" rx="8" fill="#1e293b" stroke="#22c55e" stroke-width="2">
+    </rect>
+    <text x="0" y="-25" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" fill="#4ade80" text-anchor="middle">
+     
+     
+     
+     Callback Called
+    </text>
+    <text x="0" y="-5" font-family="Monaco, monospace" font-size="10" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     reads ref.current
+    </text>
+    <rect x="-50" y="10" width="100" height="28" rx="4" fill="#166534">
+    </rect>
+    <text x="0" y="29" font-family="Monaco, monospace" font-size="12" font-weight="bold" fill="#4ade80" text-anchor="middle">
+     
+     
+     
+     count = 5
+    </text>
+    <text x="0" y="55" font-family="system-ui, sans-serif" font-size="10" fill="#22c55e" text-anchor="middle">
+     
+     
+     
+     FRESH!
+    </text>
+   </g>
+   <line x1="480" y1="200" x2="600" y2="200" stroke="#22c55e" stroke-width="3" marker-end="url(#arrowGreen)">
+   </line>
+   <text x="540" y="190" font-family="system-ui, sans-serif" font-size="10" fill="#4ade80" text-anchor="middle">
+    
+    
+    
+    reads latest
+   </text>
+   <g transform="translate(400, 380)">
+    <rect x="-300" y="-30" width="600" height="55" rx="8" fill="#0f172a" stroke="#475569" stroke-width="1">
+    </rect>
+    <text x="0" y="-5" font-family="system-ui, sans-serif" font-size="13" fill="#f8fafc" text-anchor="middle">
+     <tspan font-weight="bold" fill="#4ade80">
+      
+      
+      
+      Key Insight:
+     </tspan>
+
+
+
+ The ref object stays the same, but .current is mutated each render.
+    </text>
+    <text x="0" y="18" font-family="system-ui, sans-serif" font-size="12" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     The callback's closure captures the ref object (stable), then reads .current (always latest).
+    </text>
+   </g>
+  </svg>

@@ -1,0 +1,244 @@
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400">
+   <defs>
+    <linearGradient x1="0%" y1="0%" x2="100%" y2="100%">
+     <stop offset="0%" style="stop-color:#1e293b">
+     </stop>
+     <stop offset="100%" style="stop-color:#0f172a">
+     </stop>
+    </linearGradient>
+   </defs>
+   <rect width="900" height="400" fill="url(#bgGrad4)">
+   </rect>
+   <text x="450" y="35" font-family="system-ui, sans-serif" font-size="20" font-weight="bold" fill="#f8fafc" text-anchor="middle">
+    
+    
+    
+    Conceptual Equivalence: useRef Pattern vs useEffectEvent
+   </text>
+   <g transform="translate(225, 200)">
+    <rect x="-200" y="-120" width="400" height="240" rx="12" fill="#1e293b" stroke="#f59e0b" stroke-width="2">
+    </rect>
+    <text x="0" y="-95" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#fbbf24" text-anchor="middle">
+     
+     
+     
+     Manual useRef Pattern
+    </text>
+    <text x="0" y="-75" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     (You write this)
+    </text>
+    <rect x="-180" y="-60" width="360" height="165" rx="6" fill="#0f172a">
+    </rect>
+    <text x="-165" y="-40" font-family="Monaco, monospace" font-size="10" fill="#c084fc">
+     
+     
+     
+     const
+    </text>
+    <text x="-130" y="-40" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+     countRef =
+    </text>
+    <text x="-35" y="-40" font-family="Monaco, monospace" font-size="10" fill="#22d3ee">
+     
+     
+     
+     useRef
+    </text>
+    <text x="10" y="-40" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+     (count);
+    </text>
+    <text x="-165" y="-20" font-family="Monaco, monospace" font-size="10" fill="#22d3ee">
+     
+     
+     
+     useEffect
+    </text>
+    <text x="-105" y="-20" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+     (() =&gt; {
+    </text>
+    <text x="-165" y="-5" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+       countRef.current = count;
+    </text>
+    <text x="-165" y="10" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+     }, [count]);
+    </text>
+    <text x="-165" y="35" font-family="Monaco, monospace" font-size="10" fill="#c084fc">
+     
+     
+     
+     const
+    </text>
+    <text x="-130" y="35" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+     handler =
+    </text>
+    <text x="-45" y="35" font-family="Monaco, monospace" font-size="10" fill="#22d3ee">
+     
+     
+     
+     useCallback
+    </text>
+    <text x="35" y="35" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+     (() =&gt; {
+    </text>
+    <text x="-165" y="50" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+       console.log(countRef.current);
+    </text>
+    <text x="-165" y="65" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+     }, []);
+    </text>
+    <text x="-165" y="90" font-family="Monaco, monospace" font-size="10" fill="#64748b">
+     
+     
+     
+     // 8 lines of boilerplate
+    </text>
+    <rect x="130" y="80" width="45" height="22" rx="4" fill="#f59e0b">
+    </rect>
+    <text x="152" y="95" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" fill="#0f172a" text-anchor="middle">
+     
+     
+     
+     8 LOC
+    </text>
+   </g>
+   <text x="450" y="210" font-family="system-ui, sans-serif" font-size="48" font-weight="bold" fill="#4ade80" text-anchor="middle">
+    
+    
+    
+    =
+   </text>
+   <g transform="translate(675, 200)">
+    <rect x="-200" y="-120" width="400" height="240" rx="12" fill="#1e293b" stroke="#22c55e" stroke-width="2">
+    </rect>
+    <text x="0" y="-95" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#4ade80" text-anchor="middle">
+     
+     
+     
+     useEffectEvent
+    </text>
+    <text x="0" y="-75" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8" text-anchor="middle">
+     
+     
+     
+     (React writes this for you)
+    </text>
+    <rect x="-180" y="-60" width="360" height="165" rx="6" fill="#0f172a">
+    </rect>
+    <text x="-165" y="-35" font-family="Monaco, monospace" font-size="10" fill="#c084fc">
+     
+     
+     
+     const
+    </text>
+    <text x="-130" y="-35" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+     handler =
+    </text>
+    <text x="-40" y="-35" font-family="Monaco, monospace" font-size="10" fill="#22d3ee">
+     
+     
+     
+     useEffectEvent
+    </text>
+    <text x="60" y="-35" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+     (() =&gt; {
+    </text>
+    <text x="-165" y="-15" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+       console.log(count);
+    </text>
+    <text x="-165" y="0" font-family="Monaco, monospace" font-size="10" fill="#f8fafc">
+     
+     
+     
+     });
+    </text>
+    <text x="-165" y="30" font-family="Monaco, monospace" font-size="10" fill="#64748b">
+     
+     
+     
+     // That's it! React handles:
+    </text>
+    <text x="-165" y="45" font-family="Monaco, monospace" font-size="10" fill="#64748b">
+     
+     
+     
+     //   - Maintaining shared ref
+    </text>
+    <text x="-165" y="60" font-family="Monaco, monospace" font-size="10" fill="#64748b">
+     
+     
+     
+     //   - Syncing on each render
+    </text>
+    <text x="-165" y="75" font-family="Monaco, monospace" font-size="10" fill="#64748b">
+     
+     
+     
+     //   - All fns read same ref
+    </text>
+    <rect x="130" y="80" width="45" height="22" rx="4" fill="#22c55e">
+    </rect>
+    <text x="152" y="95" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" fill="#0f172a" text-anchor="middle">
+     
+     
+     
+     3 LOC
+    </text>
+   </g>
+   <g transform="translate(450, 360)">
+    <rect x="-350" y="-20" width="700" height="45" rx="8" fill="#0f172a" stroke="#475569" stroke-width="1">
+    </rect>
+    <text x="0" y="5" font-family="system-ui, sans-serif" font-size="14" fill="#f8fafc" text-anchor="middle">
+     <tspan font-weight="bold" fill="#4ade80">
+      
+      
+      
+      Same behavior, less code.
+     </tspan>
+     <tspan fill="#94a3b8">
+      
+      
+      
+       The "magic" is just convenience - React automates what you'd do manually.
+     </tspan>
+    </text>
+   </g>
+  </svg>

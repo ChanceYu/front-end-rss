@@ -46,6 +46,14 @@ const devWebpackConfig = merge(baseWebpackConfig, {
       poll: config.dev.poll
     },
     before(app) {
+      // articles 目录下所有文件（processed.json、.md、图片等）直接从源目录读取，需先于通配路由注册
+      app.get('/data/articles/*', (req, res) => {
+        const filePath = path.join(__dirname, '../../data/articles', req.params[0])
+        if (filePath.endsWith('.json')) {
+          res.setHeader('Content-Type', 'application/json')
+        }
+        res.sendFile(filePath)
+      })
       // JSON 数据在 dist/data 下
       app.get('/data/:name', (req, res) => {
         const filePath = path.join(__dirname, '../dist/data', req.params.name)

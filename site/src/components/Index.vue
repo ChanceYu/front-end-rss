@@ -81,7 +81,7 @@
      <div
       class="result-box"
       v-infinite-scroll="loadMore"
-      infinite-scroll-disabled="isBusy"
+      infinite-scroll-disabled="scrollDisabled"
       infinite-scroll-distance="100"
     >
       <template v-if="!isLoad">
@@ -98,14 +98,36 @@
         <a
           v-for="(item, index) in results"
           :key="index"
-          :href="item.link"
-          target="_blank"
+          :href="processedArticles[item.link] ? 'javascript:;' : item.link"
+          :target="processedArticles[item.link] ? '_self' : '_blank'"
           class="item-link"
+          @click="processedArticles[item.link] && openMdPopup(item)"
         >
-          <van-cell is-link>
+          <van-cell>
             <div slot="icon" class="item-order">{{index+1}}、</div>
-            <div slot="label">{{item.date}}<span class="item-from">{{item.rssTitle}}</span> </div>
+            <div slot="label">{{item.date}}<span class="item-from">{{item.rssTitle}}</span></div>
             <div slot="title" class="item-title" v-html="item.sotitle || item.title"></div>
+            <template slot="right-icon">
+              <div class="item-right-icons">
+                <van-icon
+                  v-if="toMarkdown && processedArticles[item.link]"
+                  name="delete-o"
+                  class="item-delete-btn"
+                  @click.prevent.stop="confirmRemove(item)"
+                />
+                <div
+                  class="item-right-icon-wrap"
+                  :class="{ 'is-convertible': toMarkdown }"
+                  @click="handleConvertClick($event, item)"
+                >
+                  <van-icon v-if="convertingLinks[item.link]" name="replay" class="item-right-loading" />
+                  <template v-else>
+                    <van-icon :name="processedArticles[item.link] ? 'label-o' : 'arrow'" class="item-right-default" />
+                    <van-icon name="exchange" class="item-right-hover" />
+                  </template>
+                </div>
+              </div>
+            </template>
           </van-cell>
         </a>
 
@@ -115,11 +137,21 @@
       </div>
     </div>
     </div>
+
+    <!-- Markdown 侧滑浮层 -->
+    <markdown-viewer
+      :visible.sync="showMdPopup"
+      :article-hash="currentMdHash"
+      :article-link="currentMdLink"
+      :refresh-key="currentMdRefreshKey"
+      @convert="onMdConvert"
+    />
   </div>
 </template>
 
 <script>
 import dayjs from 'dayjs'
+import MarkdownViewer from './MarkdownViewer'
 
 const getPlatform = () => /Android|iPhone/i.test(navigator.userAgent)
 const isMobile = getPlatform()
@@ -158,6 +190,7 @@ let results = []
 
 export default {
   name: 'Index',
+  components: { MarkdownViewer },
   data () {
     return {
       searchValue: '',
@@ -179,7 +212,22 @@ export default {
       textIndex: null,
       sourceIndex: null,
       categoryIndex: null,
-      articlesData: null
+      articlesData: null,
+      // Markdown 相关
+      processedArticles: {},
+      showMdPopup: false,
+      currentMdHash: '',
+      currentMdLink: '',
+      // TO_MARKDOWN 模式
+      toMarkdown: process.env.TO_MARKDOWN === 'true',
+      convertingLinks: {},
+      currentMdRefreshKey: 0,
+      currentMdItem: null
+    }
+  },
+  computed: {
+    scrollDisabled () {
+      return this.isBusy || this.showMdPopup
     }
   },
   watch: {
@@ -196,6 +244,75 @@ export default {
   methods: {
     toTop () {
       window.scrollTo(0, 0)
+    },
+
+    openMdPopup (item) {
+      this.currentMdHash = this.processedArticles[item.link] || ''
+      this.currentMdLink = item.link || ''
+      this.currentMdItem = item
+      this.showMdPopup = true
+    },
+
+    // 在 index 与 articles.json 加载完毕后，异步加载已转换的文章映射
+    loadProcessed () {
+      fetch('/data/articles/processed.json', { cache: 'no-store' })
+        .then(r => r.json())
+        .then(data => { this.processedArticles = data || {} })
+        .catch(() => {})
+    },
+
+    confirmRemove (item) {
+      if (!window.confirm(`确认删除已转换的 Markdown 以及文章数据？\n\n文章：${item.title || item.link}`)) return
+      this.removeArticle(item)
+    },
+
+    async removeArticle (item) {
+      try {
+        const res = await fetch('http://localhost:8081/article-to-md/remove', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ link: item.link })
+        })
+        if (!res.ok) throw new Error('failed')
+        await this.loadProcessed()
+      } catch (e) {
+        console.error('[removeArticle] failed:', e)
+      }
+    },
+
+    async onMdConvert ({ resolve, reject }) {
+      try {
+        await this.convertToMd(this.currentMdItem)
+        this.currentMdRefreshKey++
+        resolve()
+      } catch (e) {
+        reject(e)
+      }
+    },
+
+    handleConvertClick (e, item) {
+      if (!this.toMarkdown) return
+      e.preventDefault()
+      e.stopPropagation()
+      this.convertToMd(item)
+    },
+
+    async convertToMd (item) {
+      if (this.convertingLinks[item.link]) return
+      this.$set(this.convertingLinks, item.link, true)
+      try {
+        const res = await fetch('http://localhost:8081/article-to-md/once', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ title: item.title, link: item.link, date: item.date })
+        })
+        if (!res.ok) throw new Error('failed')
+        await this.loadProcessed()
+      } catch (e) {
+        console.error('[convertToMd] failed:', e)
+      } finally {
+        this.$delete(this.convertingLinks, item.link)
+      }
     },
 
     // 从 articlesData 取第 pageNum 页的文章对象（用于列表与后台追加）
@@ -541,6 +658,7 @@ export default {
       this.focusInput()
     },
     onClear () {
+      console.log('onClear')
       this.handlerSearch()
     },
     changeSkill (e) {
@@ -582,6 +700,9 @@ export default {
     if (this.searchValue) {
       await this.handlerSearch()
     }
+
+    // initLoad 完成后异步加载 processed.json，不阻塞主流程
+    this.loadProcessed()
   },
   beforeDestroy () {
     window.removeEventListener('resize', this._syncSearchBoxPos)
@@ -970,6 +1091,63 @@ export default {
 .result-box .van-divider {
     margin: 1rem 0;
     color: #cbd5e1
+}
+
+.result-box .item-right-icons {
+    display: flex;
+    align-items: center;
+    gap: .25rem;
+}
+
+.result-box .item-delete-btn {
+    font-size: 1rem;
+    color: #969799;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.15s, color 0.15s;
+    flex-shrink: 0;
+}
+
+.result-box .item-link:hover .item-delete-btn {
+    opacity: 1;
+}
+
+.result-box .item-delete-btn:hover {
+    color: #f43f5e;
+}
+
+.result-box .item-right-icon-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #969799;
+    font-size: 1rem;
+    flex-shrink: 0;
+}
+
+.result-box .item-right-icon-wrap.is-convertible {
+    cursor: pointer;
+}
+
+.result-box .item-right-loading {
+    animation: item-spin .8s linear infinite;
+}
+
+@keyframes item-spin {
+    from { transform: rotate(0deg); }
+    to   { transform: rotate(360deg); }
+}
+
+.result-box .item-right-hover {
+    display: none;
+}
+
+.result-box .item-link:hover .is-convertible .item-right-default {
+    display: none;
+}
+
+.result-box .item-link:hover .is-convertible .item-right-hover {
+    display: inline-flex;
 }
 
 .search-box {
