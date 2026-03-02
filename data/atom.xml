@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-02T17:50:05.216Z</updated>
+    <updated>2026-03-02T18:31:13.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[首届淘宝电商AI挑战赛来了！设350万赛事奖项和千万扶持资源]]></title>
         <id>http://mp.weixin.qq.com/s/fqPFmkHUNvQ5GoQq0gl1Fw</id>
         <link href="http://mp.weixin.qq.com/s/fqPFmkHUNvQ5GoQq0gl1Fw"/>
+        <updated>2026-02-27T00:00:00.000Z</updated>
+        <published>2026-02-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚刚，Webpack 官宣 2026 年大动作！]]></title>
+        <id>http://mp.weixin.qq.com/s/UkgAvcj6B9-eUQc880rf4g</id>
+        <link href="http://mp.weixin.qq.com/s/UkgAvcj6B9-eUQc880rf4g"/>
         <updated>2026-02-27T00:00:00.000Z</updated>
         <published>2026-02-27T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[只需几行代码！Vue和React终于可以一起使用了！]]></title>
         <id>http://mp.weixin.qq.com/s/Mp_WQBo6PUjrwuBxZkXbOg</id>
         <link href="http://mp.weixin.qq.com/s/Mp_WQBo6PUjrwuBxZkXbOg"/>
-        <updated>2026-02-05T00:00:00.000Z</updated>
-        <published>2026-02-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3654期】不再重置！在 React / Next.js 中实现跨页面“持续进化”的动画效果]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278586&amp;idx=1&amp;sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&amp;chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278586&amp;idx=1&amp;sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&amp;chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&amp;scene=0#rd"/>
         <updated>2026-02-05T00:00:00.000Z</updated>
         <published>2026-02-05T00:00:00.000Z</published>
     </entry>
