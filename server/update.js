@@ -69,7 +69,8 @@ function handleFeed() {
     length: 0,
     titles: [],
     rss: {},
-    links: {}
+    links: {},
+    articles: []
   }
 
   const allExistingItems = (linksExist || []).flatMap((el) => el.items || [])
@@ -93,6 +94,7 @@ function handleFeed() {
 
         newData.rss[rssItem.title] = true
         newData.links[curr.link] = true
+        newData.articles.push({ title: curr.title, link: curr.link, date, rssTitle: rssItem.title })
 
         return [...prev, {
           title: curr.title,
@@ -120,12 +122,7 @@ function handleFeed() {
 
   Async.parallelLimit(tasks, 5, async () => {
     if (newData.length) {
-      const newArticles = linksJson.flatMap((source) =>
-        (source.items || [])
-          .filter((item) => newData.links[item.link])
-          .map((item) => ({ title: item.title, link: item.link, date: item.date, rssTitle: source.title }))
-      )
-      fs.outputJsonSync(path.join(__dirname, 'node_modules', 'new-articles.json'), newArticles)
+      fs.outputJsonSync(path.join(__dirname, 'node_modules', 'new-articles.json'), newData.articles)
       fs.outputJsonSync(LINKS_PATH, linksJson)
       await writemd(newData, linksJson)
       await createFeed(linksJson)

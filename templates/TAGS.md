@@ -18,8 +18,8 @@
 > 关键字：`<%= e.keywords.replace(/(\?)|([：])|(\)?\\b\(?)?/g, '').split('|').join('`、`') %>`
 <% } %>
 
-<% _.each(e.items.slice(0,20), function(item){ var itemTitle = obj.formatTitle(item.title); %>
-- [【<%= item.rssTitle %>】<%= itemTitle %>](<%= item.link %>)<% }) %>
+<% _.each(e.items.slice(0,10), function(item){ var itemTitle = obj.formatTitle(item.title); %>
+- [【<%= item.rssTitle %>】<%= itemTitle %>](<%= item.link %>)<% if(obj.processedMap && obj.processedMap[item.link]){ %> [📖](/data/articles/<%= obj.processedMap[item.link] %>/page.md)<% } %><% }) %>
 - [查看更多 >](/details/tags/<%= e.filename %>.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

@@ -12,12 +12,13 @@ const {
   TAGS_MD_PATH,
   TAGS_TEMPLATE_PATH,
   DETAILS_TEMPLATE_PATH,
+  ARTICLES_PROCESSED_PATH,
 } = utils.PATH
 
 /**
  * 渲染 README.md 文件
  */
-async function handleREADME(newData, linksJson) {
+async function handleREADME(newData, linksJson, processedMap) {
   let content = fs.readFileSync(README_TEMPLATE_PATH)
 
   let compiled = _.template(content.toString())
@@ -31,6 +32,7 @@ async function handleREADME(newData, linksJson) {
     linksJson,
     currentDate,
     formatTitle: utils.formatTitle,
+    processedMap,
   })
 
   fs.writeFileSync(README_PATH, content, 'utf-8')
@@ -39,7 +41,7 @@ async function handleREADME(newData, linksJson) {
 /**
  * 渲染 TAGS.md 文件
  */
-function handleTags(newData, linksJson) {
+function handleTags(newData, linksJson, processedMap) {
   const currentDate = utils.getNowDate()
   let tags = fs.readJsonSync(TAGS_PATH)
 
@@ -65,7 +67,8 @@ function handleTags(newData, linksJson) {
       formatTitle: utils.formatTitle,
       title: tags[i].tag,
       keywords: tags[i].keywords,
-      items: tags[i].items
+      items: tags[i].items,
+      processedMap,
     })
 
     fs.writeFileSync(path.join(RESP_PATH, 'details/tags/', filename), detailContent, 'utf-8')
@@ -78,7 +81,8 @@ function handleTags(newData, linksJson) {
   content = compiled({
     currentDate,
     formatTitle: utils.formatTitle,
-    tags
+    tags,
+    processedMap,
   })
 
   fs.writeFileSync(TAGS_MD_PATH, content, 'utf-8')
@@ -87,7 +91,7 @@ function handleTags(newData, linksJson) {
 /**
  * 生成每个详情页面
  */
-function handleDetails(newData, linksJson) {
+function handleDetails(newData, linksJson, processedMap) {
   const currentDate = utils.getNowDate()
   let content = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString()
   let compiled = _.template(content)
@@ -96,6 +100,7 @@ function handleDetails(newData, linksJson) {
     if (source.title in newData.rss) {
       source.currentDate = currentDate
       source.formatTitle = utils.formatTitle
+      source.processedMap = processedMap
 
       content = compiled(source)
 
@@ -108,7 +113,10 @@ function handleDetails(newData, linksJson) {
 }
 
 module.exports = async function (newData, linksJson) {
-  await handleREADME(newData, linksJson)
-  handleTags(newData, linksJson)
-  handleDetails(newData, linksJson)
+  const processedMap = fs.pathExistsSync(ARTICLES_PROCESSED_PATH)
+    ? fs.readJsonSync(ARTICLES_PROCESSED_PATH)
+    : {}
+  await handleREADME(newData, linksJson, processedMap)
+  handleTags(newData, linksJson, processedMap)
+  handleDetails(newData, linksJson, processedMap)
 }
