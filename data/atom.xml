@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-28T18:17:01.842Z</updated>
+    <updated>2026-03-02T06:42:19.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3660期】别再为覆盖率而写测试：真正可靠的单元测试应该这样做]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278637&amp;idx=1&amp;sn=f6788ebf5585eda0b718b2f724366fac&amp;chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278637&amp;idx=1&amp;sn=f6788ebf5585eda0b718b2f724366fac&amp;chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&amp;scene=0#rd"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <published>2026-03-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3659期】JavaScript 显式资源管理来了：用 using 告别手写 try/finally]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278629&amp;idx=1&amp;sn=b51bc320fefe9c3d3d6f715b1d6626bf&amp;chksm=bcbd70cf21bc4ea4594b976fdf87464337c1c959619a4d9171bfd48615c7bc7d590804d6a601&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/610"/>
         <updated>2026-02-05T00:00:00.000Z</updated>
         <published>2026-02-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一次大文件处理性能优化实录]]></title>
-        <id>http://mp.weixin.qq.com/s/iVLS1iK_RtWpca3qzUtQ0w</id>
-        <link href="http://mp.weixin.qq.com/s/iVLS1iK_RtWpca3qzUtQ0w"/>
-        <updated>2026-02-04T00:00:00.000Z</updated>
-        <published>2026-02-04T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-01 02:17:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-02 14:42:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2026-03-02-【第3660期】别再为覆盖率而写测试：真正可靠的单元测试应该这样做](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278637&idx=1&sn=f6788ebf5585eda0b718b2f724366fac&chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&scene=0#rd) ![](/assets/new.png)  
 - [2026-02-28-【第3659期】JavaScript-显式资源管理来了：用-using-告别手写-try/finally](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278629&idx=1&sn=b51bc320fefe9c3d3d6f715b1d6626bf&chksm=bcbd70cf21bc4ea4594b976fdf87464337c1c959619a4d9171bfd48615c7bc7d590804d6a601&scene=0#rd)  
 - [2026-02-27-【早阅】一周重写-Next.js：AI-如何造出更快更小的-vinext？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278624&idx=1&sn=80be0485ee26431b040c99831ee892e0&chksm=bcf95c28d991f67474cce195039d75a5241bd6533bab509e5656b4773967b30e5986571d1f5c&scene=0#rd)  
 - [2026-02-26-【第3658期】从终端到工作空间：MCP-Apps-如何把-UI-带回-Agent-中心](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278618&idx=1&sn=fcdaf49c28f016098071d4e9eeb04b54&chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&scene=0#rd)  
@@ -128,7 +129,6 @@
 - [2026-01-22-【第3646期】别再把一切都变成数组了！少做点无用功](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278501&idx=1&sn=4a13eb278c2f5ce66c4b46ede112eeb0&chksm=bcfe3e8d7aec66ee05e99fc7dfcbf318fbf02d2be88994d1ac9d92e9e9aca2ee9327c40c7211&scene=0#rd)  
 - [2026-01-21-【第3645期】如何在没有源码的情况下重建任意-React-组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278496&idx=1&sn=c5f31a8bd1651c1426d76f2f4ac462eb&chksm=bc784a3e6088ffede1add8317c39171990bddac7660e93d418c973edabec3b8fe7595ffdb589&scene=0#rd)  
 - [2026-01-20-【第3644期】构建类型安全的复合组件：让灵活与安全兼得的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278480&idx=1&sn=e8e4caef1b2b3253b6922cd7cd30e483&chksm=bc6e71e5b890a9047670d7455687099643d3800e442ab46f22542f0e2a066c89cd91e07c99e2&scene=0#rd)  
-- [2026-01-19-【第3643期】从零理解富文本编辑器：现代编辑器的核心原理与实现思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278475&idx=1&sn=35ee14939a0ca527fa6f651b32a78b26&chksm=bc1deb4b17599241538914ff7fb41ad4a1ad7fca23deb1aab906f4784c2176e0d7d2179989ab&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,7 +202,7 @@
 </summary>
 
 
-- [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd) ![](/assets/new.png)  
+- [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)  
 - [2026-02-25-开工第一天，提离职了](http://mp.weixin.qq.com/s/BwLDC1CPdemvw9QLy3MSTA)  
 - [2026-02-25-身为全栈工程师，这一神器让我开发效率翻倍！](http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg)  
 - [2026-02-24-公司快不行的几个前兆](http://mp.weixin.qq.com/s/_HFUlVZ9Fj0uEaChjz7Thg)  
