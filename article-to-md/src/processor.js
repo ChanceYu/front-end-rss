@@ -1,7 +1,7 @@
 import { chromium } from 'playwright'
 import TurndownService from 'turndown'
 import dayjs from 'dayjs'
-import { mkdirSync, writeFileSync, rmSync, existsSync } from 'node:fs'
+import { mkdirSync, writeFileSync, readFileSync, rmSync, existsSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
 
@@ -16,6 +16,7 @@ const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
 // Resolves to front-end-rss/data/articles/
 const ARTICLES_DIR = join(__dirname, '..', '..', 'data', 'articles')
+const LINKS_PATH = join(__dirname, '..', '..', 'data', 'links.json')
 
 /**
  * Extract a normalised language identifier from a raw class string.
@@ -55,6 +56,7 @@ function detectLang(raw = '') {
  * @typedef {Object} ProcessOptions
  * @property {boolean} [force=false]    - Re-process even if already in processed.json
  * @property {boolean} [headless=true]  - Run browser in headless mode
+ * @property {boolean} [_retried=false] - Internal flag to prevent infinite retry loops
  */
 
 /**
@@ -182,8 +184,12 @@ export async function processArticle(article, options = {}) {
       // 2. Reconstruct <pre><code> from line-per-element patterns.
       //    Covers WeChat's own code block (each line is a <span> inside <code>)
       //    and other editors that wrap every line in a block element.
+      //    Skip if the <pre> already carries an hljs class — in that case the
+      //    child <span> elements are syntax-highlight tokens, not line containers.
       document.querySelectorAll('pre').forEach((pre) => {
+        if (pre.classList.contains('hljs')) return
         const code = pre.querySelector('code') ?? pre
+        if (code.classList.contains('hljs')) return
         const lines = code.querySelectorAll(
           ':scope > span, :scope > p, :scope > div, :scope > li',
         )
@@ -342,6 +348,7 @@ export async function processArticle(article, options = {}) {
       // Remove non-<code> children, but keep elements that carry an hljs class
       // (highlight.js sometimes places <span class="hljs ..."> directly under <pre>)
       $(el).children(':not(code)').each((_, child) => {
+        if (child.type !== 'tag') return
         const cls = $(child).attr('class') ?? ''
         if (!/hljs/.test(cls)) $(child).remove()
       })
@@ -465,12 +472,18 @@ export async function processArticle(article, options = {}) {
       body = rule.postProcess(body)
     }
 
-    // Remove duplicate H1 at the top of body — processor always prepends "# title"
-    // so strip any leading H1 line that matches the article title (trim for safety)
-    body = body.replace(
-      new RegExp(`^#\\s+${title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*\n+`, 'm'),
-      '',
-    )
+    // Remove any H1 lines within the first 5 lines of body — "# title" is always
+    // prepended separately in fileContent, so body itself must not start with one.
+    {
+      const lines = body.split('\n')
+      for (let i = 0; i < Math.min(5, lines.length); i++) {
+        if (/^# /.test(lines[i])) {
+          lines.splice(i, 1)
+          i--
+        }
+      }
+      body = lines.join('\n')
+    }
 
     // Collapse "orphan bullet" pattern: a lone •/· on its own line followed by
     // blank line(s) then the actual content.  Converts:
@@ -484,6 +497,48 @@ export async function processArticle(article, options = {}) {
 
     // Remove blank lines between adjacent list items (loose list → tight list)
     body = body.replace(/^([ \t]*[-*+\d][\.\s].+)\n\n(?=[ \t]*[-*+\d][\.\s])/gm, '$1\n')
+
+    // Collapse reference-number + blank-line(s) + http URL, keeping any prefix on its own line.
+    // e.g. "参考资料\[5\]\n\nhttps://..." → "参考资料\n\[5\] https://..."
+    // e.g. "\[5\]\n\nhttps://..."         → "\[5\] https://..."
+    body = body.replace(/^(.*?)(\\?\[\d+\\?\])\s*\n\n+(https?:\/\/.+)/gm, (_, prefix, ref, url) => {
+      return prefix ? `${prefix}\n\n${ref} ${url}` : `${ref} ${url}`
+    })
+
+    // Rule-configured retry: e.g. anti-scraping / environment-check page detected
+    if (rule.retryOn?.(body)) {
+      if (!options._retried) {
+        console.warn(`[retry] ${link} — retryOn matched, retrying once…`)
+        return processArticle(article, { ...options, force: true, _retried: true })
+      }
+      console.warn(`[skip]  ${link} — retryOn still matches after one retry`)
+      return { error: 'retry condition persists after one retry', md5 }
+    }
+
+    // Rule-configured delete: e.g. article removed by its author
+    if (rule.deleteOn?.(body)) {
+      console.warn(`[delete] ${link} — deleteOn matched, cleaning up…`)
+      const articleDir = join(ARTICLES_DIR, md5)
+      if (existsSync(articleDir)) {
+        rmSync(articleDir, { recursive: true, force: true })
+      }
+      const proc = loadProcessed()
+      if (link in proc) {
+        delete proc[link]
+        saveProcessed(proc)
+      }
+      try {
+        const sources = JSON.parse(readFileSync(LINKS_PATH, 'utf-8'))
+        let changed = false
+        for (const source of sources) {
+          const before = source.items?.length ?? 0
+          source.items = (source.items ?? []).filter((item) => item.link !== link)
+          if (source.items.length < before) changed = true
+        }
+        if (changed) writeFileSync(LINKS_PATH, JSON.stringify(sources, null, 2), 'utf-8')
+      } catch {}
+      return { deleted: true, md5 }
+    }
 
     // Count downloadable images using the same regex as localizeImages
     // (run on cleanedHtml so cheerio-normalised relative URLs are included)

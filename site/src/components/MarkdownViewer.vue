@@ -552,23 +552,20 @@ export default {
   margin: .25em 0;
 }
 
-/* 图片 */
+/* 图片默认行内样式，适配 p / li / td / blockquote 等各种上下文 */
 .md-viewer__content.markdown-body img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 4px;
-}
-/* 行内图片（与文字混排，非独占段落） */
-.md-viewer__content.markdown-body p > img:not(:only-child) {
   height: 32px;
   width: auto;
-  max-width: none;
+  max-width: 100%;
   vertical-align: middle;
   border-radius: 2px;
 }
-/* 独占一行的块级图片 */
+/* 独占一行的块级图片（p 内唯一子元素） */
 .md-viewer__content.markdown-body p > img:only-child {
   display: block;
+  height: auto;
+  width: auto;
+  max-width: 100%;
   margin: 1.25em auto;
   border-radius: 8px;
   box-shadow: 0 2px 12px rgba(0,0,0,.08);
@@ -591,6 +588,7 @@ export default {
   font-size: .875rem;
   margin: 1.25em 0;
   border-radius: 6px;
+  overflow: hidden;
   box-shadow: 0 0 0 1px #e2e8f0;
 }
 
@@ -598,52 +596,38 @@ export default {
   background: #f0f4ff !important;
 }
 
-.markdown-body table th, .markdown-body table td {
+/* 重置 github-markdown-css 默认边框 */
+.md-viewer__content.markdown-body table th,
+.md-viewer__content.markdown-body table td {
   border: none;
 }
 
-.md-viewer__content.markdown-body th {
+.md-viewer__content.markdown-body table th {
   font-weight: 600;
   color: #3b4a6b;
   padding: .5rem .75rem;
   text-align: left;
-  border-right: 1px solid #dde3f0;
-  border-bottom: 1px solid #dde3f0;
+  border-right: 1px solid #e2e8f0;
+  border-bottom: 1px solid #e2e8f0;
 }
 
-.md-viewer__content.markdown-body th:last-child {
+.md-viewer__content.markdown-body table th:last-child {
   border-right: none;
 }
 
-.md-viewer__content.markdown-body thead tr:first-child th:first-child {
-  border-top-left-radius: 6px;
-}
-
-.md-viewer__content.markdown-body thead tr:first-child th:last-child {
-  border-top-right-radius: 6px;
-}
-
-.md-viewer__content.markdown-body td {
+.md-viewer__content.markdown-body table td {
   padding: .45rem .75rem;
   color: #334155;
-  border-right: 1px solid #eef0f4;
-  border-bottom: 1px solid #eef0f4;
+  border-right: 1px solid #e2e8f0;
+  border-bottom: 1px solid #e2e8f0;
 }
 
-.md-viewer__content.markdown-body td:last-child {
+.md-viewer__content.markdown-body table td:last-child {
   border-right: none;
 }
 
 .md-viewer__content.markdown-body tbody tr:last-child td {
   border-bottom: none;
-}
-
-.md-viewer__content.markdown-body tbody tr:last-child td:first-child {
-  border-bottom-left-radius: 6px;
-}
-
-.md-viewer__content.markdown-body tbody tr:last-child td:last-child {
-  border-bottom-right-radius: 6px;
 }
 
 .md-viewer__content.markdown-body tbody tr:hover td {

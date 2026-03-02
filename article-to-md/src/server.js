@@ -2,6 +2,7 @@ import { serve } from '@hono/node-server'
 import { Hono } from 'hono'
 import { cors } from 'hono/cors'
 import { rmSync, existsSync, readFileSync, writeFileSync } from 'node:fs'
+import { spawnSync } from 'node:child_process'
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
 
@@ -11,7 +12,7 @@ import { urlToMd5, loadProcessed, saveProcessed } from './utils.js'
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const ARTICLES_DIR = join(__dirname, '..', '..', 'data', 'articles')
 const LINKS_PATH = join(__dirname, '..', '..', 'data', 'links.json')
-const DIST_ARTICLES_PATH = join(__dirname, '..', '..', 'site', 'dist', 'data', 'articles.json')
+const PROJECT_ROOT = join(__dirname, '..', '..')
 
 const PORT = 8081
 
@@ -81,24 +82,28 @@ app.post('/article-to-md/remove', async (c) => {
     console.warn(`[server] Failed to update links.json: ${err.message}`)
   }
 
-  // 4. Remove from site/dist/data/articles.json
-  let removedFromDist = false
-  try {
-    if (existsSync(DIST_ARTICLES_PATH)) {
-      const rows = JSON.parse(readFileSync(DIST_ARTICLES_PATH, 'utf-8'))
-      // rows: [[title, rssTitle, link, date], ...]  (index 2 is link)
-      const filtered = rows.filter((row) => row[2] !== link)
-      if (filtered.length < rows.length) {
-        writeFileSync(DIST_ARTICLES_PATH, JSON.stringify(filtered), 'utf-8')
-        removedFromDist = true
-        console.log(`[server] Removed from dist/data/articles.json`)
+  // 4. Regenerate dist/data JSON files via createFiles
+  let distRegenerated = false
+  if (removedFromLinks) {
+    try {
+      const proc = spawnSync('node', ['-e', "require('./site/build/createFiles.js')()"], {
+        cwd: PROJECT_ROOT,
+        encoding: 'utf-8',
+        stdio: ['ignore', 'pipe', 'pipe'],
+      })
+      if (proc.status === 0) {
+        distRegenerated = true
+        console.log(`[server] Regenerated dist/data JSON files`)
+        if (proc.stdout) console.log(proc.stdout.trim())
+      } else {
+        console.warn(`[server] createFiles exited with ${proc.status}: ${proc.stderr?.trim()}`)
       }
+    } catch (err) {
+      console.warn(`[server] Failed to regenerate dist/data: ${err.message}`)
     }
-  } catch (err) {
-    console.warn(`[server] Failed to update dist/data/articles.json: ${err.message}`)
   }
 
-  return c.json({ ok: true, md5, removedFromLinks, removedFromDist })
+  return c.json({ ok: true, md5, removedFromLinks, distRegenerated })
 })
 
 serve({ fetch: app.fetch, port: PORT }, () => {

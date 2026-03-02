@@ -13,6 +13,8 @@ import ruanyifengRule from './ruanyifeng.js'
  * @property {(page: import('playwright').Page) => Promise<void>} [preProcess] - Custom hook run after page load
  * @property {(td: import('turndown')) => void} [turndownRules] - Add custom Turndown rules
  * @property {(markdown: string) => string} [postProcess] - Transform the final Markdown string
+ * @property {(markdown: string) => boolean} [retryOn] - Return true to retry the article once (e.g. anti-scraping page detected)
+ * @property {(markdown: string) => boolean} [deleteOn] - Return true to delete all saved data for this article (e.g. article removed by author)
  */
 
 /**
