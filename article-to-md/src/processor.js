@@ -45,6 +45,37 @@ function detectLang(raw = '') {
 }
 
 /**
+ * Replace strings matching known secret / token patterns with a safe
+ * placeholder so GitHub push-protection never blocks a commit.
+ *
+ * Only well-known, high-entropy formats are targeted; plain prose that
+ * merely mentions a token *prefix* (e.g. "tokens start with xoxb-") is
+ * left untouched because it won't match the full pattern.
+ *
+ * @param {string} text
+ * @returns {string}
+ */
+function sanitizeSecrets(text) {
+  return (
+    text
+      // Slack  xoxb- / xoxp- / xoxa- / xoxr- / xoxs-
+      .replace(/xox[baprs]-\d{10,13}-\d{10,13}-[0-9A-Za-z]{24,}/g, 'xox*-[REDACTED]')
+      // GitHub classic PAT  ghp_ / gho_ / ghu_ / ghs_ / ghr_
+      .replace(/gh[pousr]_[0-9A-Za-z]{36,}/g, 'gh*_[REDACTED]')
+      // GitHub fine-grained PAT
+      .replace(/github_pat_[0-9A-Za-z_]{82}/g, 'github_pat_[REDACTED]')
+      // GitLab PAT
+      .replace(/glpat-[0-9A-Za-z_-]{20}/g, 'glpat-[REDACTED]')
+      // AWS Access Key ID
+      .replace(/\bAKIA[0-9A-Z]{16}\b/g, 'AKIA[REDACTED]')
+      // OpenAI secret key (classic format)
+      .replace(/\bsk-[A-Za-z0-9]{20}T3BlbkFJ[A-Za-z0-9]{20}\b/g, 'sk-[REDACTED]')
+      // npm token
+      .replace(/\bnpm_[A-Za-z0-9]{36}\b/g, 'npm_[REDACTED]')
+  )
+}
+
+/**
  * @typedef {Object} Article
  * @property {string} title
  * @property {string} link
@@ -563,6 +594,9 @@ export async function processArticle(article, options = {}) {
     const imagesDir = join(articleDir, 'images')
     const pageOrigin = new URL(link).origin
     body = await localizeImages(body, imagesDir, context, pageOrigin)
+
+    // Redact any token-like strings that would trigger GitHub secret scanning
+    body = sanitizeSecrets(body)
 
     // Build YAML front-matter
     const formattedDate = date
