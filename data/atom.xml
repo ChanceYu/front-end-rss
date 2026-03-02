@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-02T06:42:19.256Z</updated>
+    <updated>2026-03-02T14:35:14.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,25 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[TypeScript 6.0：迄今最值得关注的变化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529296&amp;idx=1&amp;sn=0537fbc2930833c213ed81ae06a2e747&amp;chksm=f9927581cee5fc97541fe05a1697bcddf2b60040c71c04c40a8c252c391d1b18a055c7eff1a7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529296&amp;idx=1&amp;sn=0537fbc2930833c213ed81ae06a2e747&amp;chksm=f9927581cee5fc97541fe05a1697bcddf2b60040c71c04c40a8c252c391d1b18a055c7eff1a7#rd"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <published>2026-03-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3660期】别再为覆盖率而写测试：真正可靠的单元测试应该这样做]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278637&amp;idx=1&amp;sn=f6788ebf5585eda0b718b2f724366fac&amp;chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278637&amp;idx=1&amp;sn=f6788ebf5585eda0b718b2f724366fac&amp;chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&amp;scene=0#rd"/>
         <updated>2026-03-02T00:00:00.000Z</updated>
         <published>2026-03-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端工程师必备调试神器：SourceMap 原理解析与实战指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529270&amp;idx=1&amp;sn=89e333a5f18b18d4211f27286c867c22&amp;chksm=f99275e7cee5fcf1972ef9ea27ad851bf464ef3dc164d81a74644b22a92e9720ccd9597b540e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529270&amp;idx=1&amp;sn=89e333a5f18b18d4211f27286c867c22&amp;chksm=f99275e7cee5fcf1972ef9ea27ad851bf464ef3dc164d81a74644b22a92e9720ccd9597b540e#rd"/>
+        <updated>2026-02-28T00:00:00.000Z</updated>
+        <published>2026-02-28T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3659期】JavaScript 显式资源管理来了：用 using 告别手写 try/finally]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[只需几行代码！Vue和React终于可以一起使用了！]]></title>
         <id>http://mp.weixin.qq.com/s/Mp_WQBo6PUjrwuBxZkXbOg</id>
         <link href="http://mp.weixin.qq.com/s/Mp_WQBo6PUjrwuBxZkXbOg"/>
-        <updated>2026-02-05T00:00:00.000Z</updated>
-        <published>2026-02-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3654期】不再重置！在 React / Next.js 中实现跨页面“持续进化”的动画效果]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278586&amp;idx=1&amp;sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&amp;chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278586&amp;idx=1&amp;sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&amp;chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&amp;scene=0#rd"/>
-        <updated>2026-02-05T00:00:00.000Z</updated>
-        <published>2026-02-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hono tops developer satisfaction, but Express still leads]]></title>
-        <id>https://nodeweekly.com/issues/610</id>
-        <link href="https://nodeweekly.com/issues/610"/>
         <updated>2026-02-05T00:00:00.000Z</updated>
         <published>2026-02-05T00:00:00.000Z</published>
     </entry>
