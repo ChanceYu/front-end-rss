@@ -126,10 +126,6 @@ if (history.state && history.state.modal) {
 
 不过这些问题都可以轻松适配，如果你有相关需求，可以fork项目，自行修改，例如CSS嵌套语法改为普通语法，dialog元素补全缺失的CSS。
 
-[](https://wwads.cn/click/bait)[![万维广告联盟](./images/dde45011f8aa932976c4fae9624fe378.webp)](https://wwads.cn/click/bundle?code=OjsE1nXhyNnMMoPgRJUxKyhdPSFzzp)
-
-[🔥**码云GVP开源项目 16k star** Uniapp + ElementUI 功能强大 支持多语言、二开方便](https://wwads.cn/click/bundle?code=OjsE1nXhyNnMMoPgRJUxKyhdPSFzzp)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
-
 ### 四、新年快乐，开工大吉
 
 好了，春节回来的第一篇文章。

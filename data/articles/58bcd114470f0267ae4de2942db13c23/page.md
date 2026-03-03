@@ -131,10 +131,6 @@ console.table(result);
 ```undefined
 /\d+/y
 ```
-[](https://wwads.cn/click/bait)[![万维广告联盟](./images/194db40d77ed24af672f0dde78a8e4a3.webp)](https://wwads.cn/click/bundle?code=WjZHtUnZLsKNKRfH0dmF1yYX5prJCG)
-
-[IT探测网，全球PING、网站测速、DNS查询、AI分析检测。免费测试、监控，IT运维好工具](https://wwads.cn/click/bundle?code=WjZHtUnZLsKNKRfH0dmF1yYX5prJCG)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
-
 ### 四、其他些补充及结语
 
 我们可以借助RegExp.prototype.sticky判断一个正则是不是粘性匹配的。

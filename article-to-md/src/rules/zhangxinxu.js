@@ -4,6 +4,7 @@ export default {
   excludeSelectors: [
     '.navigation.nav_swipe',
     'p:contains("（本篇完）")',
+    '.wwads-cn',
     '.hljs a.copy',
     '.hljs a.revert',
   ],
