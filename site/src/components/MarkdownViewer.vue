@@ -575,8 +575,9 @@ export default {
   max-width: 100%;
   margin: 1.25em auto;
   border-radius: 8px;
+}
+.md-viewer__content.markdown-body p > img:only-child:hover {
   box-shadow: 0 2px 12px rgba(0,0,0,.08);
-  border: 1px solid #f1f5f9;
 }
 
 /* 分割线 */
