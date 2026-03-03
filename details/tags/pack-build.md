@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-03 22:35:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 00:33:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -7,7 +7,7 @@
 
 
 
-- [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604) 
+- [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)&nbsp;&nbsp;[📖](/data/articles/b86ec045a9d2e85d07afe99f22f4a517/page.md) 
 - [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595) 
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593) 
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592) 
@@ -39,7 +39,7 @@
 - [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598) 
 - [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575) 
 - [2026-01-20-【第3644期】构建类型安全的复合组件：让灵活与安全兼得的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278480&idx=1&sn=e8e4caef1b2b3253b6922cd7cd30e483&chksm=bc6e71e5b890a9047670d7455687099643d3800e442ab46f22542f0e2a066c89cd91e07c99e2&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/d05d403eb82ee3e168922cd10cc162ec/page.md) 
-- [2025-11-28-【早阅】让依赖更轻，让构建更快：tinyglobby-的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278016&idx=1&sn=5f4c4289cfb21cfd63c9316e63bbb3eb&chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&scene=0#rd) 
+- [2025-11-28-【早阅】让依赖更轻，让构建更快：tinyglobby-的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278016&idx=1&sn=5f4c4289cfb21cfd63c9316e63bbb3eb&chksm=bc8aad7f911e71238b79544c5c1a00304162f9f35fc392698599f58fddd5938a8eda0afe7f49&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/249776dbad2ad9759952f616f41f5c62/page.md) 
 - [2025-11-19-【早阅】使用本地优先数据构建原生级-Web-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277949&idx=1&sn=eb45bfa094736598fcf81938dfa8fd1d&chksm=bc3e0f3646204fe9bc083df45122c4348f6937cbda37fc6df78eecc104e8c483bdeadf8cd7c4&scene=0#rd) 
 - [2025-11-05-【第3608期】Next.js-16-新特性解读：从异步参数到-Turbopack-默认化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277855&idx=1&sn=5e61452f4d216189051162d44606e4cc&chksm=bce9dd3aa942b6269a539c4b38d366c5c195d91528fb2ede2cd76679d2a11f2caf8ba197c1ec&scene=0#rd) 
 - [2025-10-27-【早阅】使用-Web-API-构建浏览器-AI-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277719&idx=1&sn=0c428a2dd83ef8732b6c87cc7b4fffca&chksm=bcf29d8e8639761cea10cd9b6cf82db34da644f87b7c3ac910eb2770d5a9e100a9ed2272008a&scene=0#rd) 
@@ -176,7 +176,7 @@
 - [2018-10-26-【第1427期】构建大型-Redux-应用的五个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230150&idx=1&sn=e862acee73f3383be10b5df6b55e5620#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
 - [2026-01-05-大多数开发者都错误地使用了Prettier](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623605&idx=2&sn=3ca7742a108174fccbb2a1d7efc89aea&chksm=80224774b755ce62e37b9b2830d71c92e3bcd9e2f9841e42de39350ef796f38c930ac2d0c75f#rd)&nbsp;&nbsp;[📖](/data/articles/00a2566e2044ba8667cfa2b1acdf674a/page.md) 
-- [2025-12-15-借助图片懒加载触发-JavaScript-动态导入](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623523&idx=2&sn=86651ed0be205cc4b86a6efc43d8b6cb&chksm=802247a2b755ceb46f45aa6a45820970a51646279140427f120b786a24fdfa5f82cebe0eade0#rd) 
+- [2025-12-15-借助图片懒加载触发-JavaScript-动态导入](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623523&idx=2&sn=86651ed0be205cc4b86a6efc43d8b6cb&chksm=802247a2b755ceb46f45aa6a45820970a51646279140427f120b786a24fdfa5f82cebe0eade0#rd)&nbsp;&nbsp;[📖](/data/articles/d96de7562be47e73efd6066e68d105f1/page.md) 
 - [2025-08-20-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=2&sn=d1c869514f6e55ccafdf8a2f9a52b200&chksm=80225a32b755d324b94c66440451a117f446373e9318e07457ae22e1c113d5f160ec03cedd04#rd) 
 - [2025-03-28-资源预加载可能会拖慢网站速度](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622265&idx=2&sn=9a18547683b4aee9b394bac1b56bb03c&chksm=80225cb8b755d5ae0bea6850c3a8f44e34dd69db8491abc5b4252e656833f6b6ae780cd6d530#rd) 
 - [2025-03-13-TypeScript-之父宣布：编译器和工具链将移植到-Go-，性能提升高达-10-倍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622186&idx=2&sn=c583b00f63678c1a36455a8a2c81d1d7&chksm=80225cebb755d5fd6ed494d41088f013fe366e4f47bb09b4527667d53b2185b8a009ee1138f8#rd) 
@@ -400,7 +400,7 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
 - [2026-02-14-Typescript-最强打包工具，正式发布-AI-版本！更快更顺滑！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508849&idx=1&sn=cfb6c860e9f706a93b1d9aa59659026e&chksm=ce45b6e0f9323ff68618e623b5872c1a2c62313ffb4dbf24a4561c4a861b7596dd017fea19d8#rd)&nbsp;&nbsp;[📖](/data/articles/7d58a136a392e4d99b42c3262ce6be36/page.md) 
-- [2025-12-15-尤雨溪亲自重构！Vite-速度提升-30-倍](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507016&idx=1&sn=56fe78f43e7819ed6ffea3d5df4b002c&chksm=ce45c9d9f93240cf593dd4f8dfb17d488a5b17fac7b7a5abdc4639a9ff2bdd8b5d2f84b62937#rd) 
+- [2025-12-15-尤雨溪亲自重构！Vite-速度提升-30-倍](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507016&idx=1&sn=56fe78f43e7819ed6ffea3d5df4b002c&chksm=ce45c9d9f93240cf593dd4f8dfb17d488a5b17fac7b7a5abdc4639a9ff2bdd8b5d2f84b62937#rd)&nbsp;&nbsp;[📖](/data/articles/977db9def0308ecacfa030f699e170ea/page.md) 
 - [2025-10-28-尤雨溪：未来-Vite-将会收费](http://mp.weixin.qq.com/s/EhC_ydrWJFwzez4aWKRsAw) 
 - [2025-10-11-tsconfig-中配置了别名，为啥要在vite再配置一次？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505727&idx=1&sn=3d9eafc7aa3805d6147f8b5e8ad4915f&chksm=ce45c2aef9324bb89304231ca1c762b73c251b99b492b8f5846a29b9ae67f2c9ccada10bf2b2#rd) 
 - [2025-10-03-为什么很多大厂强制使用pnpm](http://mp.weixin.qq.com/s/iQqdMOIlpB-_js1ZHeuvVQ) 
@@ -461,9 +461,9 @@
 - [2022-01-02-从零实现-vite（先导篇）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=1&sn=afac035cf840dacf3463c52a64df551b&chksm=87c42135b0b3a82367367272c88491556a6da3220d247b48428d01749e9e99d363b97e300530#rd) 
 - [2026-02-24-NestJS-v12-将迎来重大更新：全量-ESM、Vitest-上位、Zod-直连，老项目还能平滑升级？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529207&idx=1&sn=3fb6632884ed593d64e8affb15f6c991&chksm=f9927426cee5fd3024b2fc10cc67f3ebaf2c4f4dfb487cb3d4a6f3ea3adacf85d1add9ca3796#rd)&nbsp;&nbsp;[📖](/data/articles/3f4f65f896954201c7a374606084f582/page.md) 
 - [2026-01-16-十条经过实战检验的-TypeScript-monorepo-约定](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528946&idx=1&sn=2f015af3de78ea7ed6b651445eba100c&chksm=f9927723cee5fe356f24ef1f187966a6a9359bbb799691d2c894e4ec7fcf56a2d376eab233d5#rd)&nbsp;&nbsp;[📖](/data/articles/3bf8a99eacdacd8d15843b788473e17f/page.md) 
-- [2025-12-12-大多数开发者都错误地使用了Prettier](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528534&idx=1&sn=e3d953a3f8db95e42cc3405894d82fdc&chksm=f9927687cee5ff910c5a5ef336dbd6feccb616695122b52bfa1010a0f3a3465750befdbd066a#rd) 
-- [2025-12-05-借助图片懒加载触发-JavaScript-动态导入](http://mp.weixin.qq.com/s/qyJSCitDnrHjASPXmFih7g) 
-- [2025-11-25-工具浪潮下-Babel-的定位与未来演进！](http://mp.weixin.qq.com/s/elqqbMgkyi3z6zVSeQjAsw) 
+- [2025-12-12-大多数开发者都错误地使用了Prettier](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528534&idx=1&sn=e3d953a3f8db95e42cc3405894d82fdc&chksm=f9927687cee5ff910c5a5ef336dbd6feccb616695122b52bfa1010a0f3a3465750befdbd066a#rd)&nbsp;&nbsp;[📖](/data/articles/a7725e3b4bec5f2afb36ec502ec86145/page.md) 
+- [2025-12-05-借助图片懒加载触发-JavaScript-动态导入](http://mp.weixin.qq.com/s/qyJSCitDnrHjASPXmFih7g)&nbsp;&nbsp;[📖](/data/articles/cc1d1f23789531c22e51464823a638ac/page.md) 
+- [2025-11-25-工具浪潮下-Babel-的定位与未来演进！](http://mp.weixin.qq.com/s/elqqbMgkyi3z6zVSeQjAsw)&nbsp;&nbsp;[📖](/data/articles/eaa93a816d4382646deb89b3eb9e8243/page.md) 
 - [2025-10-27-15-个-Node.js-新功能替代流行-NPM-包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528076&idx=1&sn=f175e48dfa775b1324cc19ce19d8f787&chksm=f992685dcee5e14b3e7ac29c8382bd0a0aeb486d439c07f07249840dd97d1bf15a8240bb035c#rd) 
 - [2025-09-22-月下载2亿次的npm包遭投毒，我选择了搭建私有-npm-仓库！](http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA) 
 - [2025-08-15-Node.js中构建可用的-MCP-服务器：从入门到实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527619&idx=1&sn=c8cc5396ea806ab25e476f26e41872b3&chksm=f9926a12cee5e30496428a53f1694a28d085a59ed9943cd993ab0e8242549a88d0fe79185220#rd) 
@@ -586,8 +586,8 @@
 - [2026-02-24-干掉-Vite-？尤雨溪开始-"强推"-Vize-？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517525&idx=1&sn=1934d97f1466647f94c9994a938d5188&chksm=eb07bd2cdc70343a71fac55a2df07044f3b43b9258de4208e78e165141602bff0fa9e305052e#rd)&nbsp;&nbsp;[📖](/data/articles/183acb1a2f5eb719aa12911d7859050f/page.md) 
 - [2026-02-12-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ)&nbsp;&nbsp;[📖](/data/articles/6f08809af23a3683c36a0f0826510f6e/page.md) 
 - [2026-01-04-Vite8-官网、Logo-换新！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517501&idx=1&sn=cb25f81cde3bdf560d4dabca6b9cc872&chksm=eb07bd44dc703452a3b052b36dd505cdf29373898ecd4e8491aed5051c275f367fb3b6ae465e#rd)&nbsp;&nbsp;[📖](/data/articles/005b431636c102d589324dec01bcb297/page.md) 
-- [2025-12-15-前端工程化实践：打包工具的选择与思考](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517486&idx=1&sn=ef32142b678e11965c7f90e5fd695220&chksm=eb07bd57dc70344176760a0e580545a9de9265ae06549798c659d2c3507696b98e2d5593f3fe#rd) 
-- [2025-12-04-Vite-8.0-来了，第一个换芯大版本！](http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ) 
+- [2025-12-15-前端工程化实践：打包工具的选择与思考](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517486&idx=1&sn=ef32142b678e11965c7f90e5fd695220&chksm=eb07bd57dc70344176760a0e580545a9de9265ae06549798c659d2c3507696b98e2d5593f3fe#rd)&nbsp;&nbsp;[📖](/data/articles/3390ca2684d026bcbd53f695f58aa5f2/page.md) 
+- [2025-12-04-Vite-8.0-来了，第一个换芯大版本！](http://mp.weixin.qq.com/s/Q9lWcUW1AQW0-KdWBFQMtQ)&nbsp;&nbsp;[📖](/data/articles/2fc85b81a890b2c5c5a27b4d1f21fa8a/page.md) 
 - [2025-10-13-尤雨溪宣布：Vite-官方纪录片正式发布！完整版！](http://mp.weixin.qq.com/s/BgvDQXTo6rcLVXrm5U9TIw) 
 - [2025-09-24-尤雨溪宣布-Vite-8-即将发布！完全由-Rolldown-提供支持！](http://mp.weixin.qq.com/s/4hueovVuqDKkvTrFukWGlQ) 
 - [2025-09-22-尤雨溪：下一代-Vite！Windows-快-29%！Mac-快-45%！](http://mp.weixin.qq.com/s/dfJE-yVYdqaUI98HchPOqw) 

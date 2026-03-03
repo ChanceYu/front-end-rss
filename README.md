@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-03 22:35:43，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 00:33:41，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -56,7 +56,7 @@
 - [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)&nbsp;&nbsp;[📖](/data/articles/cc60a67f3bd7d952bacd2b063e489b7e/page.md)  
 - [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)&nbsp;&nbsp;[📖](/data/articles/d87fcd9be9033371119b39761260b334/page.md)  
 - [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)&nbsp;&nbsp;[📖](/data/articles/ee6e35aa8afab5d8c35b76c6ccebe313/page.md)  
-- [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604) 
+- [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)&nbsp;&nbsp;[📖](/data/articles/b86ec045a9d2e85d07afe99f22f4a517/page.md)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -77,7 +77,7 @@
 - [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768)&nbsp;&nbsp;[📖](/data/articles/f87931be07c499b9fd667f48e75f8281/page.md)  
 - [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)&nbsp;&nbsp;[📖](/data/articles/764c44de6fb1810fe5ebd871a2555203/page.md)  
 - [2025-12-19-The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)&nbsp;&nbsp;[📖](/data/articles/81afd207157f238b8632a004792c0e6b/page.md)  
-- [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765) 
+- [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)&nbsp;&nbsp;[📖](/data/articles/a868a823b965435cdfc962b4ac7605da/page.md)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -133,9 +133,9 @@
 
 - [2026-01-21-烧掉数万亿-Token、数百-Agent-连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？](http://mp.weixin.qq.com/s/aXhDQk7Wxa6rZg4ms0I3Tg)&nbsp;&nbsp;[📖](/data/articles/e8badfdbff6ecb2012bc76ee02cc7afd/page.md)  
 - [2026-01-06-信息图的不可能三角，被这个开源项目打破了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526503&idx=1&sn=907c88cb06ac0b09dc308018d0fdc2d4&chksm=f952dd24ce25543252ddfdd3f62994fd95d30039f17040ec08c6837421e93021c397f6a990c2#rd)&nbsp;&nbsp;[📖](/data/articles/5288a82a54e3585b045f986002ff2629/page.md)  
-- [2025-12-14-Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=1&sn=927074d89c3d51f41041e230de48c673&chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd) 
-- [2025-12-14-沙龙报名-|-AI领航，跨端技术新范式！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=2&sn=06a841bf0bdb146ac14499ea30a7ea60&chksm=f952dd44ce2554521db848180e92b2a624d93022b86ee8c20495a44f1f10a69102e927d9825d#rd) 
-- [2025-12-02-全球前端岗位招聘需求断崖下降-9.89%，前端的未来究竟在哪里？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526386&idx=1&sn=e67f786252a6b088d62c6994a014a8a2&chksm=f952d2b1ce255ba76066a1cf107e97324c8a910e331cf75ea4071717e82f9078bb121fa5fa65#rd) 
+- [2025-12-14-Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=1&sn=927074d89c3d51f41041e230de48c673&chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd)&nbsp;&nbsp;[📖](/data/articles/7b7f953b1057cd12f1a4bafc40674999/page.md)  
+- [2025-12-14-沙龙报名-|-AI领航，跨端技术新范式！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=2&sn=06a841bf0bdb146ac14499ea30a7ea60&chksm=f952dd44ce2554521db848180e92b2a624d93022b86ee8c20495a44f1f10a69102e927d9825d#rd)&nbsp;&nbsp;[📖](/data/articles/81a2471d730fd72b4d88e2ed97963c95/page.md)  
+- [2025-12-02-全球前端岗位招聘需求断崖下降-9.89%，前端的未来究竟在哪里？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526386&idx=1&sn=e67f786252a6b088d62c6994a014a8a2&chksm=f952d2b1ce255ba76066a1cf107e97324c8a910e331cf75ea4071717e82f9078bb121fa5fa65#rd)&nbsp;&nbsp;[📖](/data/articles/af735bb797a1dfa60413075d2c94f194/page.md)  
 - [2025-11-23-Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw) 
 - [2025-11-16-印度迎来AI工具“0元购”时代！OpenAI、谷歌等巨头内心os：别急，先让他们上瘾，我们再来收费](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526362&idx=1&sn=534112b862b7b641c0cbd3f86fa5d48f&chksm=f952d299ce255b8feffa5fc55414d7d748826d70a7cc4cfac0b8476d94c2e3bf2b87349cdb3f#rd) 
 - [2025-11-11-完整前端代码突然公开？苹果把App-Store“老底”都揭了，开发者社区炸锅！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526357&idx=1&sn=6ef10df8180a60a78224c93566659990&chksm=f952d296ce255b80ecd68e067e2fb215fe727f80c7c370415b28662f6a0c1a40133fdac2f7d7#rd) 
@@ -153,8 +153,8 @@
 
 
 - [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)&nbsp;&nbsp;[📖](/data/articles/0af49c4bc19f7a84f6803f82691cd538/page.md)  
-- [2026-02-25-开工第一天，提离职了](http://mp.weixin.qq.com/s/BwLDC1CPdemvw9QLy3MSTA) 
 - [2026-02-25-身为全栈工程师，这一神器让我开发效率翻倍！](http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg)&nbsp;&nbsp;[📖](/data/articles/1f9d266fbac584725af5b9576ee65be2/page.md)  
+- [2026-02-25-开工第一天，提离职了](http://mp.weixin.qq.com/s/BwLDC1CPdemvw9QLy3MSTA) ![](/assets/new.png) 
 - [2026-02-24-公司快不行的几个前兆](http://mp.weixin.qq.com/s/_HFUlVZ9Fj0uEaChjz7Thg)&nbsp;&nbsp;[📖](/data/articles/a6e9de212ba944c80ab20b940a03b52a/page.md)  
 - [2026-02-24-尤雨溪坦言：我确实不懂Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508955&idx=1&sn=a713dd86a5239421c4611930e631fae7&chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd)&nbsp;&nbsp;[📖](/data/articles/f184ba63d44003c23cee3ae9b99859cd/page.md)  
 - [2026-02-24-中软国际“降薪风波”：重新定义13薪，12个月工资拆成13份，剩下一份明年3月看绩效发](http://mp.weixin.qq.com/s/nSpdP9urqwBreZmXdXbvmg) ![](/assets/new.png) 
@@ -236,8 +236,8 @@
 </summary>
 
 
-- [2025-12-16-豆包-应用生成「一点都不技术」创作派对-·-一起来玩儿！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506133&idx=1&sn=1d4b9ff25a4a5c879eac3d88e2cd0ae2&chksm=cea96fd4f9dee6c205f1b2f9d1e0a3829c256edf7e519aac00decd02497f2ab6a28b3a72821a#rd) 
-- [2025-12-03-AI赋能成长，豆包-应用生成“一点都不技术”挑战赛创作分享第二期来啦！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506128&idx=1&sn=0b9341c31064697eef8dcccc06272b24&chksm=cea96fd1f9dee6c7052f888c5d1bce132967747c58f7daba3ef4a67e42b4a208c24811a83650#rd) 
+- [2025-12-16-豆包-应用生成「一点都不技术」创作派对-·-一起来玩儿！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506133&idx=1&sn=1d4b9ff25a4a5c879eac3d88e2cd0ae2&chksm=cea96fd4f9dee6c205f1b2f9d1e0a3829c256edf7e519aac00decd02497f2ab6a28b3a72821a#rd)&nbsp;&nbsp;[📖](/data/articles/28e4a70aabca6a3ddb9bd49c2281e164/page.md)  
+- [2025-12-03-AI赋能成长，豆包-应用生成“一点都不技术”挑战赛创作分享第二期来啦！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506128&idx=1&sn=0b9341c31064697eef8dcccc06272b24&chksm=cea96fd1f9dee6c7052f888c5d1bce132967747c58f7daba3ef4a67e42b4a208c24811a83650#rd)&nbsp;&nbsp;[📖](/data/articles/4926632218fc237d79494d2ac86cf672/page.md)  
 - [2025-11-19-和“动物塑”创作者面对面！豆包-应用生成“一点都不技术”挑战赛的创作分享来啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506123&idx=1&sn=469d203c58b7734f580c0a0fc622e1c3&chksm=cea96fcaf9dee6dc48075a1cb7e56be8752cfe5c0fc82d1912e1abb4b6b0bfa80a7c5ac6f7b7#rd) 
 - [2025-11-11-豆包-应用生成「一点都不技术」创作挑战赛开启，20-万奖池等你解锁！](http://mp.weixin.qq.com/s/xK4w6NX-eupUrdI33mDE8A) 
 - [2025-10-24-豆包编程升级，新增创作模式，让创意轻松实现](http://mp.weixin.qq.com/s/6pT1xECveLM7iTqiYvjH-g) 
@@ -278,11 +278,11 @@
 </summary>
 
 
-- [2025-11-28-马斯克导演人机大战，Grok5能赢Faker吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505470&idx=1&sn=4d7c33a66669eb883b6f04f468f848e2&chksm=c2b317c1f5c49ed7d2d04efb43c5c2eb9225e264760b6adefbd999539c051c9613633689af80#rd) 
-- [2025-11-28-关于账号进行迁移的说明](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505471&idx=1&sn=9d45f41ec0149161639a32d746e6bed1&chksm=c2b317c0f5c49ed63de8458765929c004d0cf0d980f813a9d03731e83b1b8bab0f9150baadf7#rd) 
-- [2025-11-27-14款AI实测，文心凭啥是最强上班搭子？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505431&idx=1&sn=dde87500c8e2057766dddf74c0d1731d&chksm=c2b317e8f5c49efe6885217efae19fda9c89602a359e0cf08551cb6cf4e9bcf555bfc70efc25#rd) 
-- [2025-11-26-Gemini-3屁股还没坐热，Claude-Opus-4.5就来骑脸了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505393&idx=1&sn=0023e1e26dca861f795457448b5a7c91&chksm=c2b3140ef5c49d1818fac3eb0d8a86be5c23fc5dc817d3947dd836a2b24213bd6009a7d63be3#rd) 
-- [2025-11-25-首个数字人智能体NuwaAI实测，一句话就能干活了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505368&idx=1&sn=91b83516d229b7dcd267a222d26b96d2&chksm=c2b31427f5c49d31d1dedb104a07dab857793e6649253ac4decacdc879ab13b898cb8b2d9138#rd) 
+- [2025-11-28-马斯克导演人机大战，Grok5能赢Faker吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505470&idx=1&sn=4d7c33a66669eb883b6f04f468f848e2&chksm=c2b317c1f5c49ed7d2d04efb43c5c2eb9225e264760b6adefbd999539c051c9613633689af80#rd)&nbsp;&nbsp;[📖](/data/articles/c345f6e8cad66353fad14d749c0f3cf3/page.md)  
+- [2025-11-28-关于账号进行迁移的说明](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505471&idx=1&sn=9d45f41ec0149161639a32d746e6bed1&chksm=c2b317c0f5c49ed63de8458765929c004d0cf0d980f813a9d03731e83b1b8bab0f9150baadf7#rd)&nbsp;&nbsp;[📖](/data/articles/5f092043cb4d52da734c528a0296dddb/page.md)  
+- [2025-11-27-14款AI实测，文心凭啥是最强上班搭子？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505431&idx=1&sn=dde87500c8e2057766dddf74c0d1731d&chksm=c2b317e8f5c49efe6885217efae19fda9c89602a359e0cf08551cb6cf4e9bcf555bfc70efc25#rd)&nbsp;&nbsp;[📖](/data/articles/9e95f337eea5c1d33834caa1e1236fd3/page.md)  
+- [2025-11-26-Gemini-3屁股还没坐热，Claude-Opus-4.5就来骑脸了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505393&idx=1&sn=0023e1e26dca861f795457448b5a7c91&chksm=c2b3140ef5c49d1818fac3eb0d8a86be5c23fc5dc817d3947dd836a2b24213bd6009a7d63be3#rd)&nbsp;&nbsp;[📖](/data/articles/f4c29bf05dfc3fac81ad88c4f3e544c5/page.md)  
+- [2025-11-25-首个数字人智能体NuwaAI实测，一句话就能干活了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505368&idx=1&sn=91b83516d229b7dcd267a222d26b96d2&chksm=c2b31427f5c49d31d1dedb104a07dab857793e6649253ac4decacdc879ab13b898cb8b2d9138#rd)&nbsp;&nbsp;[📖](/data/articles/7a7df8636ba7f7e3e72ed16892c4a808/page.md)  
 - [2025-11-24-Nano-Banana-Pro的真正极限，藏在Lovart里](http://mp.weixin.qq.com/s/QbD1k_pWIE1aA-QzehucDg) 
 - [2025-11-23-乔布斯30年前的访谈刚公开，像一颗子弹击中了我](http://mp.weixin.qq.com/s/du8bg6N7I33j5Nk0X8p_Qw) 
 - [2025-11-21-连夜测完Nano-Banana-Pro，彻底睡不着了](http://mp.weixin.qq.com/s/iozUIJ9dNnIOUh36jkPsbg) 
@@ -300,7 +300,7 @@
 
 
 - [2026-02-27-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/UkgAvcj6B9-eUQc880rf4g)&nbsp;&nbsp;[📖](/data/articles/6728388e9d0c549ddf11740685752a82/page.md)  
-- [2026-02-26-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s/oJzSZffSioSadiVvMehO2Q) 
+- [2026-02-26-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s/oJzSZffSioSadiVvMehO2Q)&nbsp;&nbsp;[📖](/data/articles/c790fe268021991285086983d0643a3f/page.md)  
 - [2026-02-24-干掉-Vite-？尤雨溪开始-"强推"-Vize-？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517525&idx=1&sn=1934d97f1466647f94c9994a938d5188&chksm=eb07bd2cdc70343a71fac55a2df07044f3b43b9258de4208e78e165141602bff0fa9e305052e#rd)&nbsp;&nbsp;[📖](/data/articles/183acb1a2f5eb719aa12911d7859050f/page.md)  
 - [2026-02-12-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ)&nbsp;&nbsp;[📖](/data/articles/6f08809af23a3683c36a0f0826510f6e/page.md)  
 - [2026-02-11-VSCode-插件榜-Top10-出炉！装上无敌！](http://mp.weixin.qq.com/s/ne-gDqnvsXatIZvNd8_vAg)&nbsp;&nbsp;[📖](/data/articles/010ec3a6ca6f04f65bd1ee6e5a871e80/page.md)  

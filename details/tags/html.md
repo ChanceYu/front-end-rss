@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-03 22:35:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 00:33:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -8,7 +8,7 @@
 
 
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) 
-- [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765) 
+- [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)&nbsp;&nbsp;[📖](/data/articles/a868a823b965435cdfc962b4ac7605da/page.md) 
 - [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/2ff39535b8c26628c9bff92be6871d4c/page.md) 
 - [2025-11-21-【第3615期】前端安全：setHTML、Trusted-Types-和-Sanitizer-API-使用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277961&idx=1&sn=8233a680cb05111a5e2d4f66619baedb&chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&scene=0#rd) 
 - [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd) 
@@ -54,7 +54,7 @@
 - [2018-12-16-【第1478期】你了解SEO中的时效性吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=1&sn=cf6bc42aa6a1b34d65a24d0b3566545b#wechat_redirect) 
 - [2018-10-23-【第1424期】你听说过原生-HTML-组件吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect) 
 - [2025-12-24-一种新HTML页面转换成-PDF-技术方案](http://mp.weixin.qq.com/s/IgttNByrz1_3ESzIY0Y4mQ)&nbsp;&nbsp;[📖](/data/articles/5f692b8b813a9acefc55a39d09a3e74d/page.md) 
-- [2025-12-10-HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=2&sn=36dd6338dd0696f95fce0603d8a6f5d5&chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd) 
+- [2025-12-10-HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=2&sn=36dd6338dd0696f95fce0603d8a6f5d5&chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd)&nbsp;&nbsp;[📖](/data/articles/513427de9620f48c6c23bf81932935b9/page.md) 
 - [2023-08-14-深入调研了微前端，还是-iframe-最香](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616518&idx=1&sn=9e276da83d9831c7ab5868a5a70697a8&chksm=8022a2c7b7552bd139d70bb2fc92b5524afef7de4888b2e5e2dc4a27ab2a77b770048586fd71#rd) 
 - [2023-06-27-原生-canvas-如何实现大屏?](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615327&idx=2&sn=54df4d81cc4532039649676a6aa9ea72&chksm=8022a79eb7552e881f0adc22e0961c37430089b4ae2524e0283c684e68f5a4072b40a8340837#rd) 
 - [2022-07-04-Chrome-102：新增两个-HTML-属性、两个-JS-API-!](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651605755&idx=1&sn=3ce6d3c98482bfffb2a1206d7c92e51b&chksm=80229d3ab755142c515716b09e7b2138ec9437cb2242cf6aa3261ce54eda9bcd6247de9f8806#rd) 
@@ -146,7 +146,7 @@
 - [2022-04-21-如何使用-JS-实现一个-HTML-解析器](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495537&idx=1&sn=c8d0ef67964f583317add7d1cf4501e3&chksm=ec47a4b2db302da408aa046fd978a4bb008e5704836aaf729d45f1075478401a8a1d99022e81#rd) 
 - [2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution) 
 - [2017-07-27-GCanvas-渲染引擎介绍](https://fed.taobao.org/blog/2017/07/27/gcanvas/) 
-- [2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/) 
+- [2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/)&nbsp;&nbsp;[📖](/data/articles/2c63b867d52198ef8e741fd99c850558/page.md) 
 - [2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/) 
 - [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/) 
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/) 

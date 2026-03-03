@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-03 22:35:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 00:33:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频
 
@@ -183,7 +183,7 @@
 - [2023-07-19-WebAssembly-在-ACC-音频编码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=2&sn=81deda6a554ffe839d46d1e4f415faf2&chksm=cea967c0f9deeed6e30c279ab07574ab050bc48928fa44663191dff860090843edd78ed52ca8#rd) 
 - [2023-06-30-ByteFE-邀你观看稀土开发者大会直播啦-|-6月30日9:30](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503633&idx=1&sn=c61a8011b844a1fdb4988be047ecbdcf&chksm=cea97810f9def1065b3bdcf22bfed6486c34171caaefaa3d132278d5c7bf44562d2be89d3a7f#rd) 
 - [2022-02-21-ReolAudio---基于分帧的-Web-音频工程解决方案](https://mp.weixin.qq.com/s/2VWAbnM-szhIXOx3n7_JfA) 
-- [2025-11-26-Gemini-3屁股还没坐热，Claude-Opus-4.5就来骑脸了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505393&idx=1&sn=0023e1e26dca861f795457448b5a7c91&chksm=c2b3140ef5c49d1818fac3eb0d8a86be5c23fc5dc817d3947dd836a2b24213bd6009a7d63be3#rd) 
+- [2025-11-26-Gemini-3屁股还没坐热，Claude-Opus-4.5就来骑脸了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505393&idx=1&sn=0023e1e26dca861f795457448b5a7c91&chksm=c2b3140ef5c49d1818fac3eb0d8a86be5c23fc5dc817d3947dd836a2b24213bd6009a7d63be3#rd)&nbsp;&nbsp;[📖](/data/articles/f4c29bf05dfc3fac81ad88c4f3e544c5/page.md) 
 - [2025-09-30-实测可灵新视频模型2.5-Turbo，未来已来](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504493&idx=1&sn=9d066b8743771e5c5252fe853d360536&chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd) 
 - [2025-08-07-Claude-4.1-Opus实测，这是程序员真正的神](http://mp.weixin.qq.com/s/TYUnl9I85aV9DyQBVeBzAA) 
 - [2025-03-28-阿里QVQ-Max能看图看视频，把我看傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502008&idx=1&sn=061385f054bf27f161c491d632e36b57&chksm=c2b30947f5c48051b3512eeaeb5d1778c35faec0988fcfdc243201cf9df575f0612303d1bb3b#rd) 
@@ -197,7 +197,7 @@
 - [2023-08-13-2022年5月毕业润美转码，还有50天失业期就要被迫回国……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513408&idx=1&sn=d06afdac585a4b04900bb230d100c7bf&chksm=eb078d39dc70042f8350128d9f6d3412886ffc6628e208b3104630890cc8c3ce6b61e1a51c1b#rd) 
 - [2023-07-02-Chrome-震撼新特性：文档画中画！（不光是视频）](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512208&idx=1&sn=af171038f66598ff89653c11c0832e3d&chksm=eb0788e9dc7001ffd544fe3da2e13df4c403d371468526df2bde475c6c094dfb9cd0d7198794#rd) 
 - [2026-01-30-【淘宝直播数字人互动LLM】告别AI感：基于真人ASR数据的拟人化探索](http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg)&nbsp;&nbsp;[📖](/data/articles/61cdf2fe9e918efbf64da316b374dc91/page.md) 
-- [2025-12-08-2025淘宝直播双11花花乐动画实现方案思考&amp;分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542021&idx=1&sn=7a6602a2f66c962b2d69934938727815&chksm=8390c7ddb4e74ecb7260738532c8257c0dde2b6a491ac68acddcf475b0bcab9abf3d75a88202#rd) 
+- [2025-12-08-2025淘宝直播双11花花乐动画实现方案思考&amp;分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542021&idx=1&sn=7a6602a2f66c962b2d69934938727815&chksm=8390c7ddb4e74ecb7260738532c8257c0dde2b6a491ac68acddcf475b0bcab9abf3d75a88202#rd)&nbsp;&nbsp;[📖](/data/articles/9885f1e3efd9e81f3a47d377e52e1e55/page.md) 
 - [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd) 
 - [2025-07-04-淘宝直播数字人：服务端工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540818&idx=1&sn=65937e44df3fc196fa65db0d62cfa9e0&chksm=82d8aaa314a9ec4a0c33a80c8c76c49ba7f9993d2ff7fc5513298123bb03367804efae2dc20f&scene=0#rd) 
 - [2025-07-02-淘宝直播数字人：音视频&amp;算法工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540813&idx=1&sn=58818d07ce2665bdc719d13b451d82c7&chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&scene=0#rd) 
