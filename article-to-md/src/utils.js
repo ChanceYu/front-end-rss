@@ -1,7 +1,8 @@
 import { createHash } from 'node:crypto'
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
+import fs from 'fs-extra'
+const { existsSync, readJsonSync, outputJsonSync } = fs
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const PROCESSED_PATH = join(__dirname, '..', '..', 'data', 'articles', 'processed.json')
@@ -22,7 +23,7 @@ export function urlToMd5(url) {
 export function loadProcessed() {
   if (!existsSync(PROCESSED_PATH)) return {}
   try {
-    return JSON.parse(readFileSync(PROCESSED_PATH, 'utf-8'))
+    return readJsonSync(PROCESSED_PATH)
   } catch {
     return {}
   }
@@ -33,6 +34,5 @@ export function loadProcessed() {
  * @param {Record<string, string>} data
  */
 export function saveProcessed(data) {
-  mkdirSync(join(PROCESSED_PATH, '..'), { recursive: true })
-  writeFileSync(PROCESSED_PATH, JSON.stringify(data), 'utf-8')
+  outputJsonSync(PROCESSED_PATH, data)
 }

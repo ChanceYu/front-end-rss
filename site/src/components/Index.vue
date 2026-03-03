@@ -110,7 +110,7 @@
             <template slot="right-icon">
               <div class="item-right-icons">
                 <van-icon
-                  v-if="toMarkdown && processedArticles[item.link]"
+                  v-if="toMarkdown"
                   name="delete-o"
                   class="item-delete-btn"
                   @click.prevent.stop="confirmRemove(item)"

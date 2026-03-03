@@ -1,6 +1,7 @@
-import { readFileSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import fs from 'fs-extra'
+const { existsSync, readJsonSync } = fs
 import { processArticle } from './processor.js'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
@@ -15,7 +16,7 @@ if (process.argv[1].endsWith('once.js')) {
   const newArticlesPath = join(__dirname, '..', '..', 'server', 'node_modules', 'new-articles.json')
 
   if (existsSync(newArticlesPath)) {
-    const articles = JSON.parse(readFileSync(newArticlesPath, 'utf-8'))
+    const articles = readJsonSync(newArticlesPath)
     console.log(`[once] Found ${articles.length} new article(s) to process`)
     for (const article of articles) {
       try {

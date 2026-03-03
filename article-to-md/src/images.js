@@ -1,5 +1,6 @@
 import sharp from 'sharp'
-import { mkdirSync, writeFileSync } from 'node:fs'
+import fs from 'fs-extra'
+const { ensureDirSync, writeFileSync } = fs
 import { join, extname } from 'node:path'
 import { createHash } from 'node:crypto'
 
@@ -100,7 +101,7 @@ async function fetchImageBuffer(url, pageOrigin, browserContext) {
  * @returns {Promise<string>} local filename
  */
 async function saveBase64Image(dataUrl, destDir) {
-  mkdirSync(destDir, { recursive: true })
+  ensureDirSync(destDir)
 
   const m = dataUrl.match(/^data:image\/(\w+);base64,(.+)$/)
   if (!m) throw new Error('Invalid data URL')
@@ -125,7 +126,7 @@ async function saveBase64Image(dataUrl, destDir) {
  * @returns {Promise<string>} local filename
  */
 async function downloadImage(url, destDir, pageOrigin, browserContext) {
-  mkdirSync(destDir, { recursive: true })
+  ensureDirSync(destDir)
 
   const raw = await fetchImageBuffer(url, pageOrigin, browserContext)
 

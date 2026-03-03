@@ -1,7 +1,8 @@
 import { serve } from '@hono/node-server'
 import { Hono } from 'hono'
 import { cors } from 'hono/cors'
-import { rmSync, existsSync, readFileSync, writeFileSync } from 'node:fs'
+import fs from 'fs-extra'
+const { existsSync, removeSync, readJsonSync, outputJsonSync } = fs
 import { spawnSync } from 'node:child_process'
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
@@ -53,7 +54,7 @@ app.post('/article-to-md/remove', async (c) => {
   // 1. Delete article directory
   const articleDir = join(ARTICLES_DIR, md5)
   if (existsSync(articleDir)) {
-    rmSync(articleDir, { recursive: true, force: true })
+    removeSync(articleDir)
     console.log(`[server] Deleted directory: ${articleDir}`)
   }
 
@@ -68,14 +69,14 @@ app.post('/article-to-md/remove', async (c) => {
   // 3. Remove from links.json
   let removedFromLinks = false
   try {
-    const sources = JSON.parse(readFileSync(LINKS_PATH, 'utf-8'))
+    const sources = readJsonSync(LINKS_PATH)
     for (const source of sources) {
       const before = source.items?.length ?? 0
       source.items = (source.items ?? []).filter((item) => item.link !== link)
       if (source.items.length < before) removedFromLinks = true
     }
     if (removedFromLinks) {
-      writeFileSync(LINKS_PATH, JSON.stringify(sources, null, 2), 'utf-8')
+      outputJsonSync(LINKS_PATH, sources)
       console.log(`[server] Removed from links.json`)
     }
   } catch (err) {

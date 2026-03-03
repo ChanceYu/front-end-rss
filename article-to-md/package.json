@@ -19,6 +19,7 @@
     "@hono/node-server": "^1.19.9",
     "cheerio": "^1.2.0",
     "dayjs": "^1.11.13",
+    "fs-extra": "^11.3.3",
     "hono": "^4.12.3",
     "playwright": "^1.50.1",
     "sharp": "^0.33.5",

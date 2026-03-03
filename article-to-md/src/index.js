@@ -1,6 +1,7 @@
-import { readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
+import fs from 'fs-extra'
+const { readJsonSync } = fs
 
 import dayjs from 'dayjs'
 
@@ -39,7 +40,7 @@ const LINKS_PATH = join(__dirname, '..', '..', 'data', 'links.json')
 export async function processAll(options = {}) {
   const { limit, skipProcessed = true, headless = true } = options
 
-  const sources = JSON.parse(readFileSync(LINKS_PATH, 'utf-8'))
+  const sources = readJsonSync(LINKS_PATH)
 
   /** @type {Article[]} */
   const articles = sources

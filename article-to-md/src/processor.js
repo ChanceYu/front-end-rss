@@ -1,7 +1,8 @@
 import { chromium } from 'playwright'
 import TurndownService from 'turndown'
 import dayjs from 'dayjs'
-import { mkdirSync, writeFileSync, readFileSync, rmSync, existsSync } from 'node:fs'
+import fs from 'fs-extra'
+const { existsSync, outputFileSync, readJsonSync, outputJsonSync, removeSync } = fs
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
 
@@ -124,7 +125,7 @@ export async function processArticle(article, options = {}) {
   if (force) {
     const articleDir = join(ARTICLES_DIR, md5)
     if (existsSync(articleDir)) {
-      rmSync(articleDir, { recursive: true, force: true })
+      removeSync(articleDir)
       console.log(`[clean] ${articleDir}`)
     }
   }
@@ -551,7 +552,7 @@ export async function processArticle(article, options = {}) {
       console.warn(`[delete] ${link} — deleteOn matched, cleaning up…`)
       const articleDir = join(ARTICLES_DIR, md5)
       if (existsSync(articleDir)) {
-        rmSync(articleDir, { recursive: true, force: true })
+        removeSync(articleDir)
       }
       const proc = loadProcessed()
       if (link in proc) {
@@ -559,14 +560,14 @@ export async function processArticle(article, options = {}) {
         saveProcessed(proc)
       }
       try {
-        const sources = JSON.parse(readFileSync(LINKS_PATH, 'utf-8'))
+        const sources = readJsonSync(LINKS_PATH)
         let changed = false
         for (const source of sources) {
           const before = source.items?.length ?? 0
           source.items = (source.items ?? []).filter((item) => item.link !== link)
           if (source.items.length < before) changed = true
         }
-        if (changed) writeFileSync(LINKS_PATH, JSON.stringify(sources, null, 2), 'utf-8')
+        if (changed) outputJsonSync(LINKS_PATH, sources)
       } catch {}
       return { deleted: true, md5 }
     }
@@ -616,9 +617,8 @@ export async function processArticle(article, options = {}) {
     const fileContent = `${frontmatter}\n\n# ${title}\n\n${body}\n`
 
     // Write to data/articles/<md5>/page.md
-    mkdirSync(articleDir, { recursive: true })
     const outputPath = join(articleDir, 'page.md')
-    writeFileSync(outputPath, fileContent, 'utf-8')
+    outputFileSync(outputPath, fileContent, 'utf-8')
 
     // Persist to processed map
     processed[link] = md5
