@@ -1,6 +1,7 @@
 {
   "name": "site",
   "version": "1.0.0",
+  "packageManager": "pnpm@10.26.2",
   "description": "A Vue.js project",
   "author": "ChanceYu <i.fish@foxmail.com>",
   "private": true,

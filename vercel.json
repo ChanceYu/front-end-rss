@@ -1,8 +1,7 @@
 {
-  "installCommand": "cd site && pnpm install",
+  "installCommand": "cd site && npm install -g pnpm@10 && pnpm install --force",
   "buildCommand": "cd site && pnpm run build",
   "outputDirectory": "site/dist",
-
   "rewrites": [
     {
       "source": "/u/:id",
