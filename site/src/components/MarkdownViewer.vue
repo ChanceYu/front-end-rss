@@ -156,7 +156,6 @@ export default {
         if (body) this.showTitle = body.scrollTop > 80
       })
     }
-    // 初次挂载时若已可见则立即绑定
     this.$nextTick(() => this._bindBodyScroll())
   },
   beforeDestroy () {
@@ -506,12 +505,9 @@ export default {
   border: none;
 }
 
-/* 手机端：代码块不响应触摸，事件穿透到 .md-viewer__body，长按滑动可正常滚动容器 */
-@media (max-width: 800px) {
-  .md-viewer__content.markdown-body pre,
-  .md-viewer__content.markdown-body pre code {
-    pointer-events: none;
-  }
+.md-viewer__content.markdown-body pre,
+.md-viewer__content.markdown-body pre code {
+  overflow-y: hidden;
 }
 
 /* 引用块 */
