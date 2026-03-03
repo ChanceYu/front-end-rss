@@ -48,9 +48,10 @@ jobs:
       with:
         path: |
           ${{ steps.pnpm-store-path.outputs.dir }}
-        key: ${{ runner.os }}-pnpm-202412-${{ hashFiles('**/pnpm-lock.yaml') }}
+          ~/.cache/ms-playwright
+        key: ${{ runner.os }}-pnpm-202603-${{ hashFiles('**/pnpm-lock.yaml') }}
         restore-keys: |
-          ${{ runner.os }}-pnpm-202412-
+          ${{ runner.os }}-pnpm-202603-
 
     - name: Install and run server
       working-directory: ./server
@@ -67,7 +68,7 @@ jobs:
       run: |
         if [ -f "../server/node_modules/new-articles.json" ]; then
           pnpm install
-          pnpm exec playwright install chromium --with-deps
+          pnpm exec playwright install chromium
           pnpm run once
         else
           echo "No new articles to process, skipping"
