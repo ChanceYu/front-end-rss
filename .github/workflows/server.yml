@@ -49,9 +49,9 @@ jobs:
         path: |
           ${{ steps.pnpm-store-path.outputs.dir }}
           ~/.cache/ms-playwright
-        key: ${{ runner.os }}-pnpm-202603-${{ hashFiles('**/pnpm-lock.yaml') }}
+        key: ${{ runner.os }}-pnpm-20260303-${{ hashFiles('**/pnpm-lock.yaml') }}
         restore-keys: |
-          ${{ runner.os }}-pnpm-202603-
+          ${{ runner.os }}-pnpm-20260303-
 
     - name: Install and run server
       working-directory: ./server
