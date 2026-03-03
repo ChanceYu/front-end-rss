@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-03 09:52:20。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-03 14:36:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -101,7 +101,7 @@
 - [【前端早读课】【图书】Vue.js-3+TypeScript完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=2&sn=d464389d42d609a51f8d65b7685b2c17&chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd)
 - [【前端早读课】【第3042期】重新发明-Vue：经验和教训](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265438&idx=1&sn=a5eac9d685901b1d664c30cef7d4878a&chksm=bd48c01a8a3f490ccba5734cc5acfb2dbb32c91a19dcb5bdf4db399ea71297adaf172f326691#rd)
 - [【前端早读课】【第3026期】React-还是-Vue？@𝖈𝖆𝖑𝖎对-Web-前端现状的看法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264685&idx=1&sn=abd482257802b379e17fd5175e11d9c6&chksm=bd48cf298a3f463f411f6f2f785b20c921c30d12b9bf90763ca01bf98ca36fe741f8a4cefd6e#rd)
-- [【前端早读课】【第3008期】VueConf-US-2023：State-of-the-Vuenion](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=1&sn=0aca047a6425734aa61f5ab095a0300b&chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd)
+- [【前端早读课】【活动】VueConf-&amp;-ViteConf-2023。8月26日，苏州见。](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=2&sn=8722e592e3dbbe5d11e7412d1207ba47&chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd)
 - [查看更多 >](/details/tags/vue.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -178,7 +178,7 @@
 - [【Node-Weekly】requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)&nbsp;&nbsp;[📖](/data/articles/bd7f7c81026ab3ca691f7cd8743edc91/page.md)
 - [【Node-Weekly】A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)&nbsp;&nbsp;[📖](/data/articles/cc60a67f3bd7d952bacd2b063e489b7e/page.md)
 - [【Node-Weekly】The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)&nbsp;&nbsp;[📖](/data/articles/d87fcd9be9033371119b39761260b334/page.md)
-- [【Node-Weekly】'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)
+- [【Node-Weekly】'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)&nbsp;&nbsp;[📖](/data/articles/ee6e35aa8afab5d8c35b76c6ccebe313/page.md)
 - [【Node-Weekly】Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603)
 - [查看更多 >](/details/tags/nodejs.md)
 
@@ -198,14 +198,14 @@
 
 - [【JavaScript-Weekly】Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)
 - [【JavaScript-Weekly】Transformers:-JavaScript-in-Disguise](https://javascriptweekly.com/issues/630)
+- [【前端早读课】【第3661期】不用-JS-也能精准定位？CSS-Anchor-Positioning-实战解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278643&idx=1&sn=7161d1df5a6028408bd1968b3c91308c&chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&scene=0#rd)
 - [【前端早读课】【第3654期】不再重置！在-React-/-Next.js-中实现跨页面“持续进化”的动画效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278586&idx=1&sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/e8a73a87b97a7c296716fbbe85ae2456/page.md)
-- [【前端早读课】【第3627期】从媒体查询到样式查询：Chrome-142-如何让-CSS-更懂“数值”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278210&idx=1&sn=64ba5c14880aae308f0e311a22024cc6&chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&scene=0#rd)
-- [【前端早读课】【第3626期】2025-CSS-年终盘点：22个重磅新特性，助你雕刻动态网页！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278180&idx=1&sn=ab00a72dd6627d4fe36b262652bb7412&chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&scene=0#rd)
+- [【前端早读课】【第3627期】从媒体查询到样式查询：Chrome-142-如何让-CSS-更懂“数值”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278210&idx=1&sn=64ba5c14880aae308f0e311a22024cc6&chksm=bc4d2d1f95736eb50ac88941a0682f78d6a515e6f97a844c84501e112c74c6e9638a4fc42e4b&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/e17433fb37ca4cc7df6aaa9d4c7ebead/page.md)
+- [【前端早读课】【第3626期】2025-CSS-年终盘点：22个重磅新特性，助你雕刻动态网页！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278180&idx=1&sn=ab00a72dd6627d4fe36b262652bb7412&chksm=bc16fd4793be3922d33d610a9471e54ba4a32ce4dadd9940c93a3e3c9a478d556bca0a06c1b0&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/44e548f86074bc5db7494a7fff41e7d0/page.md)
 - [【前端早读课】【第3619期】让字距随字体自适应变化的-CSS-技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278003&idx=1&sn=72f8517f9201eabd058015706fcacc14&chksm=bcb003856256333c944ed42377c5a97b37bb73be74fa26586dc62013698d788b83cd01fefe27&scene=0#rd)
 - [【前端早读课】【第3602期】fluth-vue:-融合响应式的promise流](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277690&idx=1&sn=6b53700a4cbdd5a593e6827b222da4c2&chksm=bcc2719b2424bffaf8f08828318cf1780bad9d3c98cce0f00cd06a980c29afedfd64dac38575&scene=0#rd)
 - [【前端早读课】【第3600期】CSS-Grid：一个实用的思维模型与网格线的强大之处](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277638&idx=1&sn=c62633fdee3bb8c02004898d5e9d366b&chksm=bc65ce52f0981796e78b0ff34f572e87545f0df87e407f837b36d9ccfe7dec9e739fdb86337b&scene=0#rd)
 - [【前端早读课】【第3576期】前端的随机魔法：CSS-random-全解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277311&idx=1&sn=34cdfc8b9846c4d79daeea52e64f8f36&chksm=bc6c6cf747958e44c772dd9aa355952526af61e9fad57da4f58972acdbeb1cc66c789a1155df&scene=0#rd)
-- [【前端早读课】【第3565期】纯-CSS-实现的滚动驱动动画指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277161&idx=1&sn=cd4e01a321bec47536abda657bed9e5e&chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&scene=0#rd)
 - [查看更多 >](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -592,7 +592,7 @@
 - [【Node-Weekly】requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)&nbsp;&nbsp;[📖](/data/articles/bd7f7c81026ab3ca691f7cd8743edc91/page.md)
 - [【Node-Weekly】A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)&nbsp;&nbsp;[📖](/data/articles/cc60a67f3bd7d952bacd2b063e489b7e/page.md)
 - [【Node-Weekly】The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)&nbsp;&nbsp;[📖](/data/articles/d87fcd9be9033371119b39761260b334/page.md)
-- [【Node-Weekly】'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)
+- [【Node-Weekly】'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)&nbsp;&nbsp;[📖](/data/articles/ee6e35aa8afab5d8c35b76c6ccebe313/page.md)
 - [【Node-Weekly】How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)
 - [查看更多 >](/details/tags/other.md)
 

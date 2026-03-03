@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-03T01:52:20.503Z</updated>
+    <updated>2026-03-03T06:36:32.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3661期】不用 JS 也能精准定位？CSS Anchor Positioning 实战解析]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278643&amp;idx=1&amp;sn=7161d1df5a6028408bd1968b3c91308c&amp;chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278643&amp;idx=1&amp;sn=7161d1df5a6028408bd1968b3c91308c&amp;chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&amp;scene=0#rd"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <published>2026-03-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript 6.0：迄今最值得关注的变化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529296&amp;idx=1&amp;sn=0537fbc2930833c213ed81ae06a2e747&amp;chksm=f9927581cee5fc97541fe05a1697bcddf2b60040c71c04c40a8c252c391d1b18a055c7eff1a7#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278596&amp;idx=1&amp;sn=dea55dba00065e03f83445a08be9f33e&amp;chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&amp;scene=0#rd"/>
         <updated>2026-02-06T00:00:00.000Z</updated>
         <published>2026-02-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只需几行代码！Vue和React终于可以一起使用了！]]></title>
-        <id>http://mp.weixin.qq.com/s/Mp_WQBo6PUjrwuBxZkXbOg</id>
-        <link href="http://mp.weixin.qq.com/s/Mp_WQBo6PUjrwuBxZkXbOg"/>
-        <updated>2026-02-05T00:00:00.000Z</updated>
-        <published>2026-02-05T00:00:00.000Z</published>
     </entry>
 </feed>
