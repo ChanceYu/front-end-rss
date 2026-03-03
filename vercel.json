@@ -2,9 +2,7 @@
   "installCommand": "cd site && pnpm install",
   "buildCommand": "cd site && pnpm run build",
   "outputDirectory": "site/dist",
-  "functions": {
-    "site/api/*.js": {}
-  },
+
   "rewrites": [
     {
       "source": "/u/:id",
