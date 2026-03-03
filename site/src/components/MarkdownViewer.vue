@@ -235,6 +235,7 @@ export default {
   display: flex;
   flex-direction: column;
   height: 100%;
+  min-height: 0;
   background: #fff;
 }
 
@@ -358,10 +359,13 @@ export default {
 
 .md-viewer__body {
   flex: 1;
+  min-height: 0; /* flex 子项可收缩，才能形成可滚动区域 */
   overflow-y: auto;
+  overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
   padding: 1.25rem 1.25rem 2rem;
   overscroll-behavior: contain;
+  touch-action: pan-y;
 }
 
 .md-viewer__loading,
