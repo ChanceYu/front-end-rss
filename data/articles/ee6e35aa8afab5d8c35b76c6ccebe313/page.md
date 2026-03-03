@@ -11,25 +11,21 @@ md5: ee6e35aa8afab5d8c35b76c6ccebe313
 
 [Read on the Web](https://nodeweekly.com/issues/605)
 
-🗓️ Today we're taking a look back over some of the big stories and links that got you clicking this year. Also, **Node Weekly will be moving to Thursdays in January 2026,** as part of a reshuffle for many of [our newsletters](https://cooperpress.com/publications/).  
-\_\_  
-_Your editor, Peter Cooper_
+> 🗓️ Today we're taking a look back over some of the big stories and links that got you clicking this year. Also, **Node Weekly will be moving to Thursdays in January 2026,** as part of a reshuffle for many of [our newsletters](https://cooperpress.com/publications/).  
+> \_\_  
+> _Your editor, Peter Cooper_
 
 ![](./images/d28247fe540f97fcaa0cc9153473b3dd.jpeg)
 
 This is our final issue of the year, with a focus on looking back at what happened with Node in 2025, as well as the most popular items readers enjoyed. First, though, we do have a few items of news:
 
-[Node.js v24.12.0 (LTS) Released](https://nodejs.org/en/blog/release/v24.12.0 "nodejs.org") — Node’s implementation of type-stripping in order to be able to [run TypeScript natively](https://nodejs.org/en/learn/typescript/run-natively) reaches a conclusion of sorts with the support being marked as stable for the first time in the active LTS release.
+  
+- [Node.js v24.12.0 (LTS) Released](https://nodejs.org/en/blog/release/v24.12.0 "nodejs.org") — Node’s implementation of type-stripping in order to be able to [run TypeScript natively](https://nodejs.org/en/learn/typescript/run-natively) reaches a conclusion of sorts with the support being marked as stable for the first time in the active LTS release. **_\--- Michaël Zasso_**
 
-Michaël Zasso
+> 💡 [Deno 2.6](https://deno.com/blog/v2.6) was also released with a new `npx`\-like tool called `dx` to run binaries from npm and JSR packages, a `deno audit` tool for identifying vulnerabilities in dependencies, and yet more Node.js compatibility enhancements.
 
-💡 [Deno 2.6](https://deno.com/blog/v2.6) was also released with a new `npx`\-like tool called `dx` to run binaries from npm and JSR packages, a `deno audit` tool for identifying vulnerabilities in dependencies, and yet more Node.js compatibility enhancements.
-
-[![](./images/2ed7d39b619eb262f4cbeff46292165e.png)](https://www.tigerdata.com/blog/how-cern-powers-ground-breaking-physics-with-timescaledb)
-
-[CERN Upgrades Its Data Stack: Here’s the Database Behind It](https://www.tigerdata.com/blog/how-cern-powers-ground-breaking-physics-with-timescaledb "www.tigerdata.com") — The NextGen Archiver at CERN depends on high-performance ingestion and fast analytics. Discover why TimescaleDB beat pure PostgreSQL and legacy systems with superior throughput, 7–10x compression, and dramatically faster queries.
-
-Tiger Data sponsor
+  
+- [CERN Upgrades Its Data Stack: Here’s the Database Behind It](https://www.tigerdata.com/blog/how-cern-powers-ground-breaking-physics-with-timescaledb "www.tigerdata.com") — The NextGen Archiver at CERN depends on high-performance ingestion and fast analytics. Discover why TimescaleDB beat pure PostgreSQL and legacy systems with superior throughput, 7–10x compression, and dramatically faster queries. **_\--- Tiger Data sponsor_**
 
 **SECURITY RELEASES:** The expected December 15 Node.js releases [have been bumped back to this Thursday, December 18.](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases) New versions of the 25.x, 24.x, 22.x, and 20.x release lines are expected to fix a handful of security vulnerabilities.
 
@@ -37,47 +33,32 @@ Tiger Data sponsor
 
 ⚙️ [pnpm 10.26](https://pnpm.io/blog/releases/10.26) has landed with stricter security defaults for git-hosted dependencies, `allowBuilds` for granular script permissions, and a new setting to block exotic transitive dependencies.
 
-🏆 The Top Items of 2025
+## 🏆 The Top Items of 2025
 
 The top items of the year based upon the aggregated number of clicks by readers, whether in email, on the Web, or through our RSS feed:
 
-1. [15 Recent Node Features that Replace Popular npm Packages](https://nodesource.com/blog/nodejs-features-replacing-npm-packages "nodesource.com") — Clearly trimming dependencies is on many people's minds as the most popular item of 2025 was about ditching unnecessary packages for built-in Node alternatives.
+  
+- 1. [15 Recent Node Features that Replace Popular npm Packages](https://nodesource.com/blog/nodejs-features-replacing-npm-packages "nodesource.com") — Clearly trimming dependencies is on many people's minds as the most popular item of 2025 was about ditching unnecessary packages for built-in Node alternatives. **_\--- Lizz Parody_**
+  
+- 2. [A Modern Guide to Reading and Writing Files in Node](https://nodejsdesignpatterns.com/blog/reading-writing-files-nodejs/ "nodejsdesignpatterns.com") — A valuable, comprehensive guide to various methods for working with files, something that doesn't often get blogged about. **_\--- Luciano Mammino_**
 
-Lizz Parody
+  
+- [Extract Text from PDFs Using REST APIs](https://developer-api.foxit.com/developer-blogs/api-guides-tutorials/pdf-services-api/how-to-extract-text-from-pdfs-using-foxits-rest-apis/?utm_source=cooperpress&utm_medium=Display&utm_campaign=12-16-25 "developer-api.foxit.com") — Pull text from PDFs for search, AI, or automation workflows — full Python example included. **_\--- Foxit Software sponsor_**
 
-2. [A Modern Guide to Reading and Writing Files in Node](https://nodejsdesignpatterns.com/blog/reading-writing-files-nodejs/ "nodejsdesignpatterns.com") — A valuable, comprehensive guide to various methods for working with files, something that doesn't often get blogged about.
+  
+- 3. [Modern Node.js Patterns for 2025](https://kashw1n.com/blog/nodejs-2025/ "kashw1n.com") — Halfway through the year, Ashwin reminded us of various features the modern Node environment provides us, including ES modules, built-in Web APIs, the test runner, watch mode, the permission model, import maps, and more. **_\--- Ashwin_**
+  
+- 4. [Node.js Testing Best Practices](https://github.com/goldbergyoni/nodejs-testing-best-practices#readme "github.com") — A detailed guide to modern testing in Node from a group of developers who know all about it. **_\--- Goldberg, Salomon, and Gluskin_**
+  
+- 5. [How V8 Made `JSON.stringify` More Than Twice as Fast](https://v8.dev/blog/json-stringify "v8.dev") — The V8 team shows off how they made `JSON.stringify` over twice as fast, at least in V8 13.8 or higher (currently only true of Node v25 which ships with V8 14.1). **_\--- Patrick Thier (V8)_**
+  
+- 6\. ⚙️ [Node Modules Inspector](https://node-modules.dev/ "node-modules.dev") — A tool that runs pnpm _inside your browser_, “installs” a package, then analyzes its dependencies. **_\--- Anthony Fu_**
+  
+- 7. [Subverting Control with Weak References](https://jlongster.com/weak-refs "jlongster.com") — Node supports `WeakMap` and [`WeakRef`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakRef) for working with weak references and James is a big fan of the extra abstractions they unlock. **_\--- James Long_**
+  
+- 8. [The Many, Many, Many JavaScript Runtimes of the Last Decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/ "buttondown.com") — A fantastic, well-researched look at the myriad of JavaScript runtimes and engines both past and present, from mainstream picks like Node and Bun, to cloud platforms and more obscure ‘honorable mentions’. A perfect way to round out your knowledge of JavaScript’s runtime story. **_\--- Whatever, Jamie_**
 
-Luciano Mammino
-
-[Extract Text from PDFs Using REST APIs](https://developer-api.foxit.com/developer-blogs/api-guides-tutorials/pdf-services-api/how-to-extract-text-from-pdfs-using-foxits-rest-apis/?utm_source=cooperpress&utm_medium=Display&utm_campaign=12-16-25 "developer-api.foxit.com") — Pull text from PDFs for search, AI, or automation workflows — full Python example included.
-
-Foxit Software sponsor
-
-3. [Modern Node.js Patterns for 2025](https://kashw1n.com/blog/nodejs-2025/ "kashw1n.com") — Halfway through the year, Ashwin reminded us of various features the modern Node environment provides us, including ES modules, built-in Web APIs, the test runner, watch mode, the permission model, import maps, and more.
-
-Ashwin
-
-4. [Node.js Testing Best Practices](https://github.com/goldbergyoni/nodejs-testing-best-practices#readme "github.com") — A detailed guide to modern testing in Node from a group of developers who know all about it.
-
-Goldberg, Salomon, and Gluskin
-
-5. [How V8 Made `JSON.stringify` More Than Twice as Fast](https://v8.dev/blog/json-stringify "v8.dev") — The V8 team shows off how they made `JSON.stringify` over twice as fast, at least in V8 13.8 or higher (currently only true of Node v25 which ships with V8 14.1).
-
-Patrick Thier (V8)
-
-6\. ⚙️ [Node Modules Inspector](https://node-modules.dev/ "node-modules.dev") — A tool that runs pnpm _inside your browser_, “installs” a package, then analyzes its dependencies.
-
-Anthony Fu
-
-7. [Subverting Control with Weak References](https://jlongster.com/weak-refs "jlongster.com") — Node supports `WeakMap` and [`WeakRef`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakRef) for working with weak references and James is a big fan of the extra abstractions they unlock.
-
-James Long
-
-8. [The Many, Many, Many JavaScript Runtimes of the Last Decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/ "buttondown.com") — A fantastic, well-researched look at the myriad of JavaScript runtimes and engines both past and present, from mainstream picks like Node and Bun, to cloud platforms and more obscure ‘honorable mentions’. A perfect way to round out your knowledge of JavaScript’s runtime story.
-
-Whatever, Jamie
-
-🗓️  Node.js in 2025: Month by Month
+## 🗓️  Node.js in 2025: Month by Month
 
 **JANUARY –** We start and end the year in the same place, with the ability of [Node being able to run TypeScript](https://www.totaltypescript.com/typescript-is-coming-to-node-23) being new early in the year, and now ending the year with [Node.js v24.12.0 (LTS)](https://nodejs.org/en/blog/release/v24.12.0) making it stable in an LTS release. We also got a [major update on progress with Express.js.](https://expressjs.com/2025/01/09/rewind-2024-triumphs-and-2025-vision.html) [NodeBB v4.0](https://community.nodebb.org/topic/18545/nodebb-v4.0.0-federate-good-times-come-on) was released too.
 

@@ -11,6 +11,8 @@ md5: 6b807c8dbdb15b9f73f44d022f2b72df
 
 [Read on the Web](https://javascriptweekly.com/link/180110/web)
 
+## JavaScript Weekly
+
 ![](./images/70ecf6721a6287a07b6b93080b97f553.jpeg)
 
 Four Heavyweights Drop Updates
@@ -22,15 +24,11 @@ Four stalwarts of the JavaScript ecosystem all shipped notable releases this wee
 - [Rspress 2.0](https://javascriptweekly.com/link/180167/web) is a major release for the high-performance Rust-powered, but JavaScript-facing, static site generator.
 - [Lodash 4.17.23](https://javascriptweekly.com/link/180168/web) sounds minor, but it's a 'security reset' for the still heavily used [utility library](https://javascriptweekly.com/link/180169/web) and is designed to provide a base for a longer future.
 
-[![](./images/2af287ac6bcbf45681d82a0cf3598478.png)](https://javascriptweekly.com/link/180111/web)
+  
+- [Only Fools Write Tests](https://javascriptweekly.com/link/180111/web) — Modern engineering teams like Notion, Dropbox, Wiz, and LaunchDarkly use Meticulous to maintain E2E UI tests that [cover every edge case](https://javascriptweekly.com/link/180111/web) of your web app. **_\--- Meticulous sponsor_**
 
-[Only Fools Write Tests](https://javascriptweekly.com/link/180111/web) — Modern engineering teams like Notion, Dropbox, Wiz, and LaunchDarkly use Meticulous to maintain E2E UI tests that [cover every edge case](https://javascriptweekly.com/link/180111/web) of your web app.
-
-Meticulous sponsor
-
-🦀 [OpenClaw: The Runaway AI Assistant](https://javascriptweekly.com/link/180171/web "openclaw.ai") — An intense week for a new open source TypeScript project: [150k stars on GitHub](https://javascriptweekly.com/link/180172/web), hordes buying Mac Minis to run it, _two_ rebrands (it was originally _Clawdbot_), and an ecosystem of projects the agents use autonomously (e.g. [an entire social network](https://javascriptweekly.com/link/180173/web)). Another example of TypeScript at the heart of the AI boom.
-
-Peter Steinberger
+  
+- 🦀 [OpenClaw: The Runaway AI Assistant](https://javascriptweekly.com/link/180171/web "openclaw.ai") — An intense week for a new open source TypeScript project: [150k stars on GitHub](https://javascriptweekly.com/link/180172/web), hordes buying Mac Minis to run it, _two_ rebrands (it was originally _Clawdbot_), and an ecosystem of projects the agents use autonomously (e.g. [an entire social network](https://javascriptweekly.com/link/180173/web)). Another example of TypeScript at the heart of the AI boom. **_\--- Peter Steinberger_**
 
 **IN BRIEF:**
 
@@ -46,64 +44,38 @@ Peter Steinberger
 - [Bun v1.3.8](https://javascriptweekly.com/link/180176/web) – Say hello to native Markdown parsing.
 - [Astro 5.17](https://javascriptweekly.com/link/180177/web), [ESLint 10.0.0-rc2](https://javascriptweekly.com/link/180178/web), [tRPC v11.9.0](https://javascriptweekly.com/link/180120/web), [Lexical 0.40.0](https://javascriptweekly.com/link/180121/web), [Reka UI 2.8](https://javascriptweekly.com/link/180180/web) (formerly Radix Vue)
 
-📖  Articles and Videos
+## 📖  Articles and Videos
 
-[![](./images/20859938cd36c960cabba14073dd885e.jpeg)](https://javascriptweekly.com/link/180122/web)
+[![](./images/20859938cd36c960cabba14073dd885e.jpeg)](https://javascriptweekly.com/link/180122/web)  
+- ⁉️ [How Not to Parse Numbers in JavaScript](https://javascriptweekly.com/link/180122/web "thedailywtf.com") — Why use a proper locale-aware API to parse numbers when you can hand-roll a maze of string splits, separator swaps, and implicit type coercions that silently break on edge cases? **_\--- Remy Porter (The Daily WTF)_**
+  
+- 📉 [Node.js 16 to 25 Benchmarked Version-by-Version](https://javascriptweekly.com/link/180123/web "www.repoflow.io") — The jumps in performance in various areas are striking (with Node 25, especially), with other areas getting more modest gains. **_\--- RepoFlow_**
+  
+- [A Practical Checklist for B2B Enterprise Readiness](https://javascriptweekly.com/link/180124/web "hello.descope.com") — Measure gaps in auth, admin UX, security, monitoring, and architecture for landing enterprise customers. [Download today!](https://javascriptweekly.com/link/180124/web) **_\--- Descope sponsor_**
+  
+- [Explicit Resource Management in JavaScript](https://javascriptweekly.com/link/180125/web "allthingssmitty.com") — You can use `using` for deterministic cleanup, calling `Symbol.dispose`/`asyncDispose` at scope exit without `try`/`finally`. A small fix for leaks and forgotten teardowns in streams, observers, locks, and similar APIs. **_\--- Matt Smith_**
+  
+- [The History of C# and TypeScript with Anders Hejlsberg](https://javascriptweekly.com/link/180181/web "github.blog") — GitHub interviewed the creator of both C# and TypeScript about his career, why TypeScript was created in the first place, some internal Microsoft politics, as well as the ongoing Go port of the TypeScript compiler. There's a video of the full interview, as well as 'seven learnings' boiled down in written form. **_\--- GitHub_**
+  
 
-⁉️ [How Not to Parse Numbers in JavaScript](https://javascriptweekly.com/link/180122/web "thedailywtf.com") — Why use a proper locale-aware API to parse numbers when you can hand-roll a maze of string splits, separator swaps, and implicit type coercions that silently break on edge cases?
+- 📄 [My Opinionated ESLint Setup for Vue Projects](https://javascriptweekly.com/link/180127/web) – Packed with examples to pick and choose from. **_\--- Alexander Opalic_**
+- 📄 [A Scroll-Revealed WebGL Gallery with GSAP, Three.js, Astro and Barba.js](https://javascriptweekly.com/link/180128/web) – Striking visual image reveal effect with [a live demo.](https://javascriptweekly.com/link/180129/web) **_\--- Chakib Mazouni_**
+- 📄 [Predicting `Math.random()` in Firefox Using Z3 SMT-Solver](https://javascriptweekly.com/link/180130/web) **_\--- Dennis Yurichev_**
+- 🎤 [Securing npm is Table Stakes](https://javascriptweekly.com/link/180131/web) **_\--- Nicholas C. Zakas (Changelog Podcast)_**
+- 📄 [Building a Simple RSS Aggregator with Astro](https://javascriptweekly.com/link/180132/web) **_\--- Raymond Camden_**
 
-Remy Porter (The Daily WTF)
+## 🛠 Code & Tools
 
-📉 [Node.js 16 to 25 Benchmarked Version-by-Version](https://javascriptweekly.com/link/180123/web "www.repoflow.io") — The jumps in performance in various areas are striking (with Node 25, especially), with other areas getting more modest gains.
-
-RepoFlow
-
-[A Practical Checklist for B2B Enterprise Readiness](https://javascriptweekly.com/link/180124/web "hello.descope.com") — Measure gaps in auth, admin UX, security, monitoring, and architecture for landing enterprise customers. [Download today!](https://javascriptweekly.com/link/180124/web)
-
-Descope sponsor
-
-[Explicit Resource Management in JavaScript](https://javascriptweekly.com/link/180125/web "allthingssmitty.com") — You can use `using` for deterministic cleanup, calling `Symbol.dispose`/`asyncDispose` at scope exit without `try`/`finally`. A small fix for leaks and forgotten teardowns in streams, observers, locks, and similar APIs.
-
-Matt Smith
-
-[The History of C# and TypeScript with Anders Hejlsberg](https://javascriptweekly.com/link/180181/web "github.blog") — GitHub interviewed the creator of both C# and TypeScript about his career, why TypeScript was created in the first place, some internal Microsoft politics, as well as the ongoing Go port of the TypeScript compiler. There's a video of the full interview, as well as 'seven learnings' boiled down in written form.
-
-GitHub
-
-📄 [My Opinionated ESLint Setup for Vue Projects](https://javascriptweekly.com/link/180127/web) – Packed with examples to pick and choose from. Alexander Opalic
-
-📄 [A Scroll-Revealed WebGL Gallery with GSAP, Three.js, Astro and Barba.js](https://javascriptweekly.com/link/180128/web) – Striking visual image reveal effect with [a live demo.](https://javascriptweekly.com/link/180129/web) Chakib Mazouni
-
-📄 [Predicting `Math.random()` in Firefox Using Z3 SMT-Solver](https://javascriptweekly.com/link/180130/web) Dennis Yurichev
-
-🎤 [Securing npm is Table Stakes](https://javascriptweekly.com/link/180131/web) Nicholas C. Zakas (Changelog Podcast)
-
-📄 [Building a Simple RSS Aggregator with Astro](https://javascriptweekly.com/link/180132/web) Raymond Camden
-
-🛠 Code & Tools
-
-[![](./images/468a6d0fe434103cb1ff2f3058470f64.jpeg)](https://javascriptweekly.com/link/180133/web)
-
-[Heat.js 5.0: A Flexible Heat Map Rendering Solution](https://javascriptweekly.com/link/180133/web "www.heatjs.com") — Generate customized interactive heatmaps (think GitHub contributions graph), or render heatmaps as [lines](https://javascriptweekly.com/link/180134/web) and [bar charts](https://javascriptweekly.com/link/180135/web). The site is [packed with demos](https://javascriptweekly.com/link/180136/web) to enjoy. [GitHub repo.](https://javascriptweekly.com/link/180137/web)
-
-William Troup
-
-[Building an MCP Server? Don't Roll Your Own Auth](https://javascriptweekly.com/link/180138/web "workos.com") — WorkOS AuthKit handles OAuth 2.1 flows so your MCP server just verifies tokens. Control which tools AI agents access.
-
-WorkOS sponsor
-
-🕒 [Croner 10.0: Cron-Style Triggers and Evaluation](https://javascriptweekly.com/link/180139/web "croner.56k.guru") — Trigger functions on any cron schedule using [cron syntax.](https://javascriptweekly.com/link/180140/web) It can also evaluate cron expressions to give you a list of upcoming times. [v10.0](https://javascriptweekly.com/link/180141/web) brings full OCPS (Open Cron Pattern Specification) 1.4 compliance and even more scheduling options.
-
-Hexagon
-
-🗓️ [DayFlow: A Full Calendar Component for React](https://javascriptweekly.com/link/180142/web "dayflow-js.github.io") — A React-only feature-rich calendar component with drag-and-drop, multiple views, and all the usual GCal-style richness. Its infinite scrolling feature is nifty. [GitHub repo.](https://javascriptweekly.com/link/180143/web)
-
-DayFlow Contributors
-
-[Tsonic: A TypeScript to C# Transpiler](https://javascriptweekly.com/link/180144/web "tsonic.org") — The idea is for creating native executables that run on .NET. I’ve not tested it as I’m not in that ecosystem but it’s an interesting idea.
-
-Jeswin
-
+[![](./images/468a6d0fe434103cb1ff2f3058470f64.jpeg)](https://javascriptweekly.com/link/180133/web)  
+- [Heat.js 5.0: A Flexible Heat Map Rendering Solution](https://javascriptweekly.com/link/180133/web "www.heatjs.com") — Generate customized interactive heatmaps (think GitHub contributions graph), or render heatmaps as [lines](https://javascriptweekly.com/link/180134/web) and [bar charts](https://javascriptweekly.com/link/180135/web). The site is [packed with demos](https://javascriptweekly.com/link/180136/web) to enjoy. [GitHub repo.](https://javascriptweekly.com/link/180137/web) **_\--- William Troup_**
+  
+- [Building an MCP Server? Don't Roll Your Own Auth](https://javascriptweekly.com/link/180138/web "workos.com") — WorkOS AuthKit handles OAuth 2.1 flows so your MCP server just verifies tokens. Control which tools AI agents access. **_\--- WorkOS sponsor_**
+  
+- 🕒 [Croner 10.0: Cron-Style Triggers and Evaluation](https://javascriptweekly.com/link/180139/web "croner.56k.guru") — Trigger functions on any cron schedule using [cron syntax.](https://javascriptweekly.com/link/180140/web) It can also evaluate cron expressions to give you a list of upcoming times. [v10.0](https://javascriptweekly.com/link/180141/web) brings full OCPS (Open Cron Pattern Specification) 1.4 compliance and even more scheduling options. **_\--- Hexagon_**
+  
+- 🗓️ [DayFlow: A Full Calendar Component for React](https://javascriptweekly.com/link/180142/web "dayflow-js.github.io") — A React-only feature-rich calendar component with drag-and-drop, multiple views, and all the usual GCal-style richness. Its infinite scrolling feature is nifty. [GitHub repo.](https://javascriptweekly.com/link/180143/web) **_\--- DayFlow Contributors_**
+  
+- [Tsonic: A TypeScript to C# Transpiler](https://javascriptweekly.com/link/180144/web "tsonic.org") — The idea is for creating native executables that run on .NET. I’ve not tested it as I’m not in that ecosystem but it’s an interesting idea. **_\--- Jeswin_**
 - 📄 [EmbedPDF 2.4](https://javascriptweekly.com/link/180145/web) – Framework-agnostic JavaScript PDF viewer. ([Demo.](https://javascriptweekly.com/link/180146/web))
 - [JavaScriptKit v0.40](https://javascriptweekly.com/link/180147/web) – Swift framework for interacting with JS via WASM.
 - [StackBlur.js 3.0](https://javascriptweekly.com/link/180148/web) – Long-standing Gaussian blur library; now using ESM.
@@ -112,7 +84,7 @@ Jeswin
 - [qrcode.vue 3.8](https://javascriptweekly.com/link/180152/web) – Vue.js component to generate QR codes.
 - [focus-trap 8.0](https://javascriptweekly.com/link/180153/web) – Trap focus within a DOM node. ([Demo.](https://javascriptweekly.com/link/180154/web))
 
-📢  Elsewhere in the ecosystem
+## 📢  Elsewhere in the ecosystem
 
 Some other interesting tidbits in the broader landscape:
 

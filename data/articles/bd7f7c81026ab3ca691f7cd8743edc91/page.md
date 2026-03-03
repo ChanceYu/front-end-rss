@@ -11,23 +11,15 @@ md5: bd7f7c81026ab3ca691f7cd8743edc91
 
 [Read on the Web](https://nodeweekly.com/issues/608)
 
-[![](./images/ea18eda2608839af3a027e7138241746.jpeg)](https://nodejs.org/en/blog/release/v25.4.0)
+[![](./images/ea18eda2608839af3a027e7138241746.jpeg)](https://nodejs.org/en/blog/release/v25.4.0)  
+- [Node.js 25.4.0 (Current) Released](https://nodejs.org/en/blog/release/v25.4.0 "nodejs.org") — Another gradual step forward for Node with **`require(esm)` now marked as stable**, as well as the [module compile cache](https://nodejs.org/api/module.html#module-compile-cache), along with a variety of other minor tweaks. Joyee Cheung of the Node team has [written a thread on Bluesky](https://bsky.app/profile/joyeecheung.bsky.social/post/3mcsca6j5cs2w) going deeper into this release. **_\--- Rafael Gonzaga_**
 
-[Node.js 25.4.0 (Current) Released](https://nodejs.org/en/blog/release/v25.4.0 "nodejs.org") — Another gradual step forward for Node with **`require(esm)` now marked as stable**, as well as the [module compile cache](https://nodejs.org/api/module.html#module-compile-cache), along with a variety of other minor tweaks. Joyee Cheung of the Node team has [written a thread on Bluesky](https://bsky.app/profile/joyeecheung.bsky.social/post/3mcsca6j5cs2w) going deeper into this release.
+> 💡 Socket also published [a good round-up of the Node 25.4 release.](https://socket.dev/blog/node-js-25-4-0-ships-with-stable-require-esm)
 
-Rafael Gonzaga
-
-💡 Socket also published [a good round-up of the Node 25.4 release.](https://socket.dev/blog/node-js-25-4-0-ships-with-stable-require-esm)
-
-[![](./images/c4ff484d146aad9f0c507649e1341f94.png)](https://frontendmasters.com/courses/backend-system-design/?utm_source=email&utm_medium=nodeweekly&utm_content=backendsystemdesign)
-
-[New Course: Backend System Design](https://frontendmasters.com/courses/backend-system-design/?utm_source=email&utm_medium=nodeweekly&utm_content=backendsystemdesign "frontendmasters.com") — Join Jem Young for this detailed video course and develop the system-thinking skills to solve complex backend design challenges related to scaling, data storage, reliability, performance, and more.
-
-Frontend Masters sponsor
-
-🤖 [Mastra 1.0: An AI Framework from the Former Gatsby Team](https://mastra.ai/blog/announcing-mastra-1 "mastra.ai") — An all-in-one framework ([homepage](https://mastra.ai/)) for building AI powered apps and agents. With v1.0, you can now bundle agents and workflows into existing Node apps using several new adapter packages to run Mastra inside existing Express, Hono, Fastify or Koa apps. Support for [Vercel’s AI SDK](https://ai-sdk.dev/docs/introduction) v6 has also been added.
-
-Sam Bhagwat
+  
+- [New Course: Backend System Design](https://frontendmasters.com/courses/backend-system-design/?utm_source=email&utm_medium=nodeweekly&utm_content=backendsystemdesign "frontendmasters.com") — Join Jem Young for this detailed video course and develop the system-thinking skills to solve complex backend design challenges related to scaling, data storage, reliability, performance, and more. **_\--- Frontend Masters sponsor_**
+  
+- 🤖 [Mastra 1.0: An AI Framework from the Former Gatsby Team](https://mastra.ai/blog/announcing-mastra-1 "mastra.ai") — An all-in-one framework ([homepage](https://mastra.ai/)) for building AI powered apps and agents. With v1.0, you can now bundle agents and workflows into existing Node apps using several new adapter packages to run Mastra inside existing Express, Hono, Fastify or Koa apps. Support for [Vercel’s AI SDK](https://ai-sdk.dev/docs/introduction) v6 has also been added. **_\--- Sam Bhagwat_**
 
 **IN BRIEF:**
 
@@ -36,40 +28,28 @@ Sam Bhagwat
 - The AdonisJS team has announced [AdonisJS v7 is feature complete](https://adonisjs.com/blog/v7-feature-complete-update) and in final testing before a public release in a few weeks.
 - [The Boring JavaScript Stack](https://github.com/sailscastshq/boring-stack) has hit version 1.0 – it's an _'opinionated full-stack JavaScript project starter'_ built around Sails, Inertia, Tailwind CSS, and your choice of Vue, React or Svelte.
 
-[Scale Time-Series Data Without Leaving Postgres](https://www.tigerdata.com/timescaledb?utm_source=cooperpress&utm_medium=referral&utm_campaign=node-weekly-newsletter "www.tigerdata.com") — TimescaleDB: hypertables, 95% compression, 200+ SQL functions. Query billions of rows in milliseconds. [Start for free](https://www.tigerdata.com/timescaledb?utm_source=cooperpress&utm_medium=referral&utm_campaign=node-weekly-newsletter%20).
+  
+- [Scale Time-Series Data Without Leaving Postgres](https://www.tigerdata.com/timescaledb?utm_source=cooperpress&utm_medium=referral&utm_campaign=node-weekly-newsletter "www.tigerdata.com") — TimescaleDB: hypertables, 95% compression, 200+ SQL functions. Query billions of rows in milliseconds. [Start for free](https://www.tigerdata.com/timescaledb?utm_source=cooperpress&utm_medium=referral&utm_campaign=node-weekly-newsletter%20). **_\--- Tiger Data (creators of TimescaleDB) sponsor_**
+  
 
-Tiger Data (creators of TimescaleDB) sponsor
+- 📄 [Dynamic Configuration in Node.js: Beyond Environment Variables](https://replane.dev/blog/dynamic-configuration-nodejs/) – Must admit I’d never thought about this before. **_\--- Dmitry Tilyupo (Replane)_**
+- 📄 [What Changed in the Node.js January 2026 Security Releases and Why It Matters](https://nodesource.com/blog/nodejs-security-release-january-2026) **_\--- Estefany Aguilar (NodeSource)_**
 
-📄 [Dynamic Configuration in Node.js: Beyond Environment Variables](https://replane.dev/blog/dynamic-configuration-nodejs/) – Must admit I’d never thought about this before. Dmitry Tilyupo (Replane)
+## 🛠 Code & Tools
 
-📄 [What Changed in the Node.js January 2026 Security Releases and Why It Matters](https://nodesource.com/blog/nodejs-security-release-january-2026) Estefany Aguilar (NodeSource)
+[![](./images/44c0b5bd257adf35c88de967c10002bf.jpeg)](https://github.com/DoneDeal0/superdiff)  
+- [Superdiff 4.0: Compares Arrays or Objects and Returns a Diff](https://github.com/DoneDeal0/superdiff "github.com") — Got two similar objects or arrays and want to see the underlying differences? Superdiff has been around a while, but recent updates boost performance, add support for streamed input and using a worker for more efficient diffing in a background thread. The project now has a [handy documentation site](https://donedeal0.gitbook.io/superdiff/) too. **_\--- antoine_**
+  
+- [Electron 40.0.0 Released](https://www.electronjs.org/blog/electron-40-0 "www.electronjs.org") — Despite the round number, it’s a gentle update for the ubiquitous cross-platform desktop app framework. It bumps up to Node 24.11.1 (from 22.20.0), V8 14.4, and Chromium 144 (from 142) and adds a variety of minor features. **_\--- Michaela Laurencin_**
 
-🛠 Code & Tools
+> 💡 Of greater intellectual curiosity is [this post about the Electron team's improvements to window resizing](https://www.electronjs.org/blog/tech-talk-window-resize-behavior) on Windows.
 
-[![](./images/44c0b5bd257adf35c88de967c10002bf.jpeg)](https://github.com/DoneDeal0/superdiff)
-
-[Superdiff 4.0: Compares Arrays or Objects and Returns a Diff](https://github.com/DoneDeal0/superdiff "github.com") — Got two similar objects or arrays and want to see the underlying differences? Superdiff has been around a while, but recent updates boost performance, add support for streamed input and using a worker for more efficient diffing in a background thread. The project now has a [handy documentation site](https://donedeal0.gitbook.io/superdiff/) too.
-
-antoine
-
-[Electron 40.0.0 Released](https://www.electronjs.org/blog/electron-40-0 "www.electronjs.org") — Despite the round number, it’s a gentle update for the ubiquitous cross-platform desktop app framework. It bumps up to Node 24.11.1 (from 22.20.0), V8 14.4, and Chromium 144 (from 142) and adds a variety of minor features.
-
-Michaela Laurencin
-
-💡 Of greater intellectual curiosity is [this post about the Electron team's improvements to window resizing](https://www.electronjs.org/blog/tech-talk-window-resize-behavior) on Windows.
-
-[np 11.0: A Better `npm publish`](https://github.com/sindresorhus/np "github.com") — Makes the process of publishing a package smoother with an interactive UI, checks that you’re publishing from the right branch, checks dependencies, runs tests, pushes commits and tags, etc. Designed for local developer use rather than CI, however.
-
-Sindre Sorhus
-
-🌀 [cli-spinners 3.4: Spinners for Use in the Terminal](https://github.com/sindresorhus/cli-spinners "github.com") — 70+ simple spinners to signal some sort of progress is occurring.
-
-Sindre Sorhus
-
-[fast-json-stringify 6.2: Faster Alternative to `JSON.stringify()`](https://github.com/fastify/fast-json-stringify "github.com") — Boasts being significantly faster than `JSON.stringify()` particularly for _small_ payloads, with its performance advantage shrinking as your payload grows.
-
-Fastify
-
+  
+- [np 11.0: A Better `npm publish`](https://github.com/sindresorhus/np "github.com") — Makes the process of publishing a package smoother with an interactive UI, checks that you’re publishing from the right branch, checks dependencies, runs tests, pushes commits and tags, etc. Designed for local developer use rather than CI, however. **_\--- Sindre Sorhus_**
+  
+- 🌀 [cli-spinners 3.4: Spinners for Use in the Terminal](https://github.com/sindresorhus/cli-spinners "github.com") — 70+ simple spinners to signal some sort of progress is occurring. **_\--- Sindre Sorhus_**
+  
+- [fast-json-stringify 6.2: Faster Alternative to `JSON.stringify()`](https://github.com/fastify/fast-json-stringify "github.com") — Boasts being significantly faster than `JSON.stringify()` particularly for _small_ payloads, with its performance advantage shrinking as your payload grows. **_\--- Fastify_**
 - 🍊 [Orange ORM v4.9](https://github.com/alfateam/orange-orm) – Object Relational Mapper for Node and TypeScript. SQLite support switches to using `better-sqlite3` on Node <22.5.
 - [Turbowatch 2.30.0](https://github.com/gajus/turbowatch) – Fast file change detector and task orchestrator for Node.
 - [Typegoose v13.1.0](https://github.com/typegoose/typegoose) – Define Mongoose models using TypeScript classes.
@@ -85,7 +65,7 @@ Fastify
 
 [Speed up queries 3x with PostgreSQL 18](https://us02web.zoom.us/webinar/register/WN_0235AXQERaybzWCKYHaovQ?_gl=1*b88s8t*_gcl_au*MTkxNDQxNjcwMC4xNzY3MTE4Mjg4LjE4MTM2ODU3NTMuMTc2NzExODI5NC4xNzY3MTE4Mjk0*_ga*MjEyNzAzODgzOC4xNzU3NTA3Mjky*_ga_L8TBF28DDX*czE3Njg0OTAxNTUkbzM4JGcxJHQxNzY4NDkwNTQ0JGo1OCRsMCRoMA..#/registration). Learn AIO, Skip Scan & replication enhancements. [Register!](https://us02web.zoom.us/webinar/register/WN_0235AXQERaybzWCKYHaovQ?_gl=1*b88s8t*_gcl_au*MTkxNDQxNjcwMC4xNzY3MTE4Mjg4LjE4MTM2ODU3NTMuMTc2NzExODI5NC4xNzY3MTE4Mjk0*_ga*MjEyNzAzODgzOC4xNzU3NTA3Mjky*_ga_L8TBF28DDX*czE3Njg0OTAxNTUkbzM4JGcxJHQxNzY4NDkwNTQ0JGo1OCRsMCRoMA..#/registration)
 
-📢  Elsewhere in the ecosystem
+## 📢  Elsewhere in the ecosystem
 
 A roundup of some other interesting stories in the broader landscape:
 

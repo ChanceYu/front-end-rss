@@ -11,27 +11,20 @@ md5: 81afd207157f238b8632a004792c0e6b
 
 [Read on the Web](https://javascriptweekly.com/issues/766)
 
-🗓️ As it's the last issue of 2025, a reminder that **JavaScript Weekly moves to Tuesdays in January**. See you again on January 6, 2026!  
-\_\_  
-_Your editor, Peter Cooper_
+> 🗓️ As it's the last issue of 2025, a reminder that **JavaScript Weekly moves to Tuesdays in January**. See you again on January 6, 2026!  
+> \_\_  
+> _Your editor, Peter Cooper_
+
+## JavaScript Weekly
 
 It's the final issue of the year, so we're going to cover a few new items, then look back at the top links of 2025 (based on reader engagement) and recap what happened in the ecosystem month-by-month this year.
 
-[![](./images/c5c73955a04330bb8ce3906e82154c37.jpeg)](https://redmonk.com/kholterhoff/2025/12/16/javascript-bundler-grand-prix/)
-
-[The JavaScript Bundler Grand Prix](https://redmonk.com/kholterhoff/2025/12/16/javascript-bundler-grand-prix/ "redmonk.com") — Bundlers now sit at the heart of many JavaScript workflows and are sometimes even integrated into runtimes (e.g. [Bun’s](https://bun.com/docs/bundler)). This piece surveys the landscape and argues the speed wars are mostly over, with the real battle shifting to artifact size and the code that actually ships to users.
-
-Kate Holterhoff
-
-[![](./images/49774750b37292685b421c14bcf391da.jpeg)](https://frontendmasters.com/learn/ai/?utm_source=email&utm_medium=javascriptweekly&utm_content=learnai)
-
-[Coding with AI: The Practical Path for JavaScript Devs](https://frontendmasters.com/learn/ai/?utm_source=email&utm_medium=javascriptweekly&utm_content=learnai "frontendmasters.com") — Go beyond demos and hype. Learn real AI-powered workflows with JavaScript, from prompt engineering and coding agents to MCP, ML, and production-ready apps.
-
-Frontend Masters sponsor
-
-['I Ported JustHTML from Python to JavaScript with LLMs in 4.5 Hours'](https://simonwillison.net/2025/Dec/15/porting-justhtml/ "simonwillison.net") — Prolific AI blogger Simon Willison shares the tale of porting a standards-compliant HTML5 parser (which passes all 9200+ [html5lib-tests](https://github.com/html5lib/html5lib-tests)) from Python to JavaScript using OpenAI’s Codex CLI and GPT 5.2. You can [play with the end result](https://simonw.github.io/justjshtml/playground.html) or [check out the code.](https://github.com/simonw/justjshtml)
-
-Simon Willison
+[![](./images/c5c73955a04330bb8ce3906e82154c37.jpeg)](https://redmonk.com/kholterhoff/2025/12/16/javascript-bundler-grand-prix/)  
+- [The JavaScript Bundler Grand Prix](https://redmonk.com/kholterhoff/2025/12/16/javascript-bundler-grand-prix/ "redmonk.com") — Bundlers now sit at the heart of many JavaScript workflows and are sometimes even integrated into runtimes (e.g. [Bun’s](https://bun.com/docs/bundler)). This piece surveys the landscape and argues the speed wars are mostly over, with the real battle shifting to artifact size and the code that actually ships to users. **_\--- Kate Holterhoff_**
+  
+- [Coding with AI: The Practical Path for JavaScript Devs](https://frontendmasters.com/learn/ai/?utm_source=email&utm_medium=javascriptweekly&utm_content=learnai "frontendmasters.com") — Go beyond demos and hype. Learn real AI-powered workflows with JavaScript, from prompt engineering and coding agents to MCP, ML, and production-ready apps. **_\--- Frontend Masters sponsor_**
+  
+- ['I Ported JustHTML from Python to JavaScript with LLMs in 4.5 Hours'](https://simonwillison.net/2025/Dec/15/porting-justhtml/ "simonwillison.net") — Prolific AI blogger Simon Willison shares the tale of porting a standards-compliant HTML5 parser (which passes all 9200+ [html5lib-tests](https://github.com/html5lib/html5lib-tests)) from Python to JavaScript using OpenAI’s Codex CLI and GPT 5.2. You can [play with the end result](https://simonw.github.io/justjshtml/playground.html) or [check out the code.](https://github.com/simonw/justjshtml) **_\--- Simon Willison_**
 
 **IN BRIEF:**
 
@@ -48,31 +41,22 @@ Simon Willison
 - [Graffle 7.4](https://github.com/graffle-js/graffle/releases/tag/7.4.0) – JavaScript GraphQL client that runs anywhere.
 - [Next.js 16.1](https://nextjs.org/blog/next-16-1), [Bun 1.3.5](https://bun.com/blog/bun-v1.3.5), [MathJax 4.1](https://github.com/mathjax/MathJax-src/releases/tag/4.1.0), [Prisma 7.2](https://github.com/prisma/prisma/releases/tag/7.2.0)
 
-🏆 The Top 10 Links of 2025
+## 🏆 The Top 10 Links of 2025
 
-1. [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/ "www.hillelwayne.com") — Hillel's deceptively simple puzzle – just 14 bytes of code – attracted by far the most attention this year. Despite working with JavaScript for most of its lifespan, I got it wrong!
+  
+- 1. [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/ "www.hillelwayne.com") — Hillel's deceptively simple puzzle – just 14 bytes of code – attracted by far the most attention this year. Despite working with JavaScript for most of its lifespan, I got it wrong! **_\--- Hillel Wayne_**
+  
+- 2. [Ecma International Approved ECMAScript 2025: What’s New?](https://2ality.com/2025/06/ecmascript-2025.html "2ality.com") — Each year, the Ecma General Assembly approves the latest ECMAScript language specification, and you can [read the ES2025 spec in full](https://tc39.es/ecma262/2025/). Better, though, is to enjoy Dr. Axel’s succinct explainer. **_\--- Dr. Axel Rauschmayer_**
 
-Hillel Wayne
+  
+- [MACROSCOPE - Free AI Code Review for Open Source](https://links.macroscope.com/js-weekly "links.macroscope.com") — Free for non-commercial projects. Everyone else: use `OSSAI` for 50% off your first 2 months. **_\--- Macroscope sponsor_**
 
-2. [Ecma International Approved ECMAScript 2025: What’s New?](https://2ality.com/2025/06/ecmascript-2025.html "2ality.com") — Each year, the Ecma General Assembly approves the latest ECMAScript language specification, and you can [read the ES2025 spec in full](https://tc39.es/ecma262/2025/). Better, though, is to enjoy Dr. Axel’s succinct explainer.
-
-Dr. Axel Rauschmayer
-
-[MACROSCOPE - Free AI Code Review for Open Source](https://links.macroscope.com/js-weekly "links.macroscope.com") — Free for non-commercial projects. Everyone else: use `OSSAI` for 50% off your first 2 months.
-
-Macroscope sponsor
-
-3. ['I Think the Ergonomics of Generators is Growing on Me'](https://macarthur.me/posts/generators/ "macarthur.me") — If you've never worked with [generator functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*), this remains a great look at what they are and where they _can_ be useful. Alex notes that _“their practicality hasn’t exactly caught on”_ (yet..)
-
-Alex MacArthur
-
-4. [How the Web is Using JavaScript](https://almanac.httparchive.org/en/2024/javascript "almanac.httparchive.org") — The JavaScript section of this year's HTTP Archive _Web Almanac_ report went into depth on how much JS we’re using (and _failing_ to use), the popularity of TypeScript, Web Worker usage, and.. yes, jQuery still dominates!
-
-HTTP Archive
-
-5. [Some Features Every JavaScript Developer Should Know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025 "waspdev.com") — A quick list post breezing through some more modern areas of JavaScript including iterator helpers, `structuredClone()`, and set operations.
-
-Suren Enfiajyan
+  
+- 3. ['I Think the Ergonomics of Generators is Growing on Me'](https://macarthur.me/posts/generators/ "macarthur.me") — If you've never worked with [generator functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*), this remains a great look at what they are and where they _can_ be useful. Alex notes that _“their practicality hasn’t exactly caught on”_ (yet..) **_\--- Alex MacArthur_**
+  
+- 4. [How the Web is Using JavaScript](https://almanac.httparchive.org/en/2024/javascript "almanac.httparchive.org") — The JavaScript section of this year's HTTP Archive _Web Almanac_ report went into depth on how much JS we’re using (and _failing_ to use), the popularity of TypeScript, Web Worker usage, and.. yes, jQuery still dominates! **_\--- HTTP Archive_**
+  
+- 5. [Some Features Every JavaScript Developer Should Know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025 "waspdev.com") — A quick list post breezing through some more modern areas of JavaScript including iterator helpers, `structuredClone()`, and set operations. **_\--- Suren Enfiajyan_**
 
 **6.** [How to Keep `package.json` Under Control](https://blog.val.town/gardening-dependencies) – Covers 'dependency hygiene' and ways to keep things under control. Great tips and tool recommendations.
 
@@ -84,7 +68,7 @@ Suren Enfiajyan
 
 **10.** [Move On to ESM-Only](https://antfu.me/posts/move-on-to-esm-only) – While you can maintain packages supporting both ESM and CommonJS, Anthony explained why it's finally time to go 'ESM only'.
 
-🗓️  JavaScript in 2025: Month by Month
+## 🗓️  JavaScript in 2025: Month by Month
 
 Let's step through the year and remember the biggest things that happened in JavaScript each month:
 
@@ -100,9 +84,8 @@ Let's step through the year and remember the biggest things that happened in Jav
 
 **JUNE –** [Oxlint 1.0](https://voidzero.dev/posts/announcing-oxlint-1-stable) and [Vite 7.0](https://vite.dev/blog/announcing-vite7.html) were released. Dr. Axel unveiled [the ES2025 edition of his _Exploring JavaScript_ book.](https://exploringjs.com/js/) [Biome v2](https://biomejs.dev/blog/biome-v2/) became the first type-aware linter that didn't require `tsc`, and Ecma International [approved the ECMAScript 2025 spec.](https://2ality.com/2025/06/ecmascript-2025.html)
 
-[When LLMs Hit Your Database, Schema Names Aren’t Enough](https://www.tigerdata.com/blog/the-database-new-user-llms-need-a-different-database "www.tigerdata.com") — See how adding semantic context to Postgres helps LLMs query data correctly, and boosts SQL accuracy by 27%.
-
-Tiger Data sponsor
+  
+- [When LLMs Hit Your Database, Schema Names Aren’t Enough](https://www.tigerdata.com/blog/the-database-new-user-llms-need-a-different-database "www.tigerdata.com") — See how adding semantic context to Postgres helps LLMs query data correctly, and boosts SQL accuracy by 27%. **_\--- Tiger Data sponsor_**
 
 **JULY –** The [JS1024 code golfing contest](https://js1024.fun/) took place, [Deno 2.4](https://deno.com/blog/v2.4) was released, and [Vercel acquired NuxtLabs.](https://nuxtlabs.com/)
 

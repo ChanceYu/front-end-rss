@@ -7,8 +7,8 @@ md5: ca0f23412fec2060ad6ef026c9ac4a2d
 
 # CSS text-decoration-inset属性首发简介
 
-by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12029](https://www.zhangxinxu.com/wordpress/?p=12029)  
-本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
+> by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12029](https://www.zhangxinxu.com/wordpress/?p=12029)  
+> 本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
 
 ### 一、text-decoration新特性
 
@@ -69,9 +69,9 @@ HTML并不简单
 
 ![严丝合缝](./images/bc45250210020b88c30f78aa3cf9f1da.jpeg)
 
-[](https://wwads.cn/click/bait)[![万维广告联盟](./images/6b43f867b1edf29c9deb8ff315e3da2e.webp)](https://wwads.cn/click/bundle?code=GjWLOXTpaUcpvYBrEohtJOgBil9HEA)
+[](https://wwads.cn/click/bait)[![万维广告联盟](./images/35e1b49e2979f19819e78402099f5307.jpeg)](https://wwads.cn/click/bundle?code=pjxUm89o5rE48cS1cFDo5CjfP7kk4Y)
 
-[**点击免费下载 ⏬ 医院/学校/企业信息管理系统源码 🚩开箱即用 二开方便 定期迭代**](https://wwads.cn/click/bundle?code=GjWLOXTpaUcpvYBrEohtJOgBil9HEA)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
+[🛒 B2B2C商家入驻平台系统java版 **Java+vue+uniapp** 功能强大 稳定 支持diy 方便二开](https://wwads.cn/click/bundle?code=pjxUm89o5rE48cS1cFDo5CjfP7kk4Y)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
 
 ### 三、直接结语吧
 

@@ -7,8 +7,8 @@ md5: 4bae4e81ab6a2fc85b25f3fdf5410524
 
 # 今日学习CSS style()样式查询及其range范围语法
 
-by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=11975](https://www.zhangxinxu.com/wordpress/?p=11975)  
-本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
+> by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=11975](https://www.zhangxinxu.com/wordpress/?p=11975)  
+> 本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
 
 ### 一、先了解下样式查询
 
@@ -256,9 +256,9 @@ CSS代码同样简单了很多：
 
 哦呵呵~
 
-[](https://wwads.cn/click/bait)[![万维广告联盟](./images/d016d87bdc6b9f0229571d8c4dd1904b.webp)](https://wwads.cn/click/bundle?code=DjGYM6hFbVUaqX6qikKtDJa9P6GQka)
+[](https://wwads.cn/click/bait)[![万维广告联盟](./images/35e1b49e2979f19819e78402099f5307.jpeg)](https://wwads.cn/click/bundle?code=pjxUm89o5rE48cS1cFDo5CjfP7kk4Y)
 
-[**JAVA多租户后台框架** 一键云编译✚插件化！欢迎开发者免费入驻生态! 成就创业梦想！](https://wwads.cn/click/bundle?code=DjGYM6hFbVUaqX6qikKtDJa9P6GQka)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
+[🛒 B2B2C商家入驻平台系统java版 **Java+vue+uniapp** 功能强大 稳定 支持diy 方便二开](https://wwads.cn/click/bundle?code=pjxUm89o5rE48cS1cFDo5CjfP7kk4Y)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
 
 ### 七、2025年就这样结束啦
 

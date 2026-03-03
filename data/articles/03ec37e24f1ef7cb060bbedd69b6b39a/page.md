@@ -7,8 +7,8 @@ md5: 03ec37e24f1ef7cb060bbedd69b6b39a
 
 # 告别insertBefore，使用moveBefore移动DOM元素
 
-by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12051](https://www.zhangxinxu.com/wordpress/?p=12051)  
-本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
+> by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12051](https://www.zhangxinxu.com/wordpress/?p=12051)  
+> 本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
 
 ### 一、新的moveBefore方法
 
@@ -87,8 +87,7 @@ class MyComponent {
 直接说结论，页面内的元素移动，直接使用moveBefore，不需要有任何犹豫。
 
 ```scss
-.parentElement
-.moveBefore
+refNode.parentElement.moveBefore(movedNode, refNode);
 ```
 不过moveBefore毕竟是新特性，存在兼容性问题，如下图所示：
 
@@ -166,9 +165,9 @@ document.querySelectorAll('.flex .item').forEach((item) => {
   }
 });
 ```
-[](https://wwads.cn/click/bait)[![万维广告联盟](./images/194db40d77ed24af672f0dde78a8e4a3.webp)](https://wwads.cn/click/bundle?code=IjCmjXSBYqSTYtwqle5z3oBlvXQhGK)
+[](https://wwads.cn/click/bait)[![万维广告联盟](./images/35e1b49e2979f19819e78402099f5307.jpeg)](https://wwads.cn/click/bundle?code=pjxUm89o5rE48cS1cFDo5CjfP7kk4Y)
 
-[IT探测网，全球PING、网站测速、DNS查询、AI分析检测。免费测试、监控，IT运维好工具](https://wwads.cn/click/bundle?code=IjCmjXSBYqSTYtwqle5z3oBlvXQhGK)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
+[🛒 B2B2C商家入驻平台系统java版 **Java+vue+uniapp** 功能强大 稳定 支持diy 方便二开](https://wwads.cn/click/bundle?code=pjxUm89o5rE48cS1cFDo5CjfP7kk4Y)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
 
 ### 三、谢幕、敬礼
 

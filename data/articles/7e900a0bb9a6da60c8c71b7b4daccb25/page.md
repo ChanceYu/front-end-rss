@@ -11,23 +11,15 @@ md5: 7e900a0bb9a6da60c8c71b7b4daccb25
 
 [Read on the Web](https://javascriptweekly.com/issues/769)
 
-[![](./images/38c2ada475d72fe1024b626b821ec8bd.jpeg)](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
+[![](./images/38c2ada475d72fe1024b626b821ec8bd.jpeg)](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)  
+- [jQuery 4.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/ "blog.jquery.com") — 20 years on from its original release, the ever-popular ([in terms of actual usage](https://w3techs.com/technologies/details/js-jquery)) library reaches 4.0 with a migration to ES modules (compatible with modern build tools) along with dropping support for IE 10 and older. With jQuery being a popular guest in our newsletters in the early years, it’s fantastic to see it pop back for a quick visit. **_\--- Timmy Willison_**
 
-[jQuery 4.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/ "blog.jquery.com") — 20 years on from its original release, the ever-popular ([in terms of actual usage](https://w3techs.com/technologies/details/js-jquery)) library reaches 4.0 with a migration to ES modules (compatible with modern build tools) along with dropping support for IE 10 and older. With jQuery being a popular guest in our newsletters in the early years, it’s fantastic to see it pop back for a quick visit.
+> 💡 If you're using jQuery, you'll find [jQuery Migrate](https://github.com/jquery/jquery-migrate/), an official tool to help you upgrade, useful. jQuery in 2026 is a somewhat legacy choice, though, and [you might not need jQuery](https://youmightnotneedjquery.com/) at all..
 
-Timmy Willison
-
-💡 If you're using jQuery, you'll find [jQuery Migrate](https://github.com/jquery/jquery-migrate/), an official tool to help you upgrade, useful. jQuery in 2026 is a somewhat legacy choice, though, and [you might not need jQuery](https://youmightnotneedjquery.com/) at all..
-
-[![](./images/0ad8bc939eefaff16ee58bee6b16dc4c.png)](https://developer.mescius.com/spreadjs?utm_source=CooperPress&utm_medium=JavaScript-Weekly&utm_campaign=SpreadJS-JS-Weekly-Primary-Sponsor-Jan-2026)
-
-[Add Excel-like Spreadsheet Functionality to Your JavaScript Apps](https://developer.mescius.com/spreadjs?utm_source=CooperPress&utm_medium=JavaScript-Weekly&utm_campaign=SpreadJS-JS-Weekly-Primary-Sponsor-Jan-2026 "developer.mescius.com") — SpreadJS is the industry-leading JavaScript spreadsheet for adding advanced spreadsheet features to your enterprise apps. Build finance, analysis, budget, and other apps. Excel I/O, 500+ calc functions, tables, charts, and more. [View demos now](https://developer.mescius.com/spreadjs?utm_source=CooperPress&utm_medium=JavaScript-Weekly&utm_campaign=SpreadJS-JS-Weekly-Primary-Sponsor-Jan-2026).
-
-SpreadJS from MESCIUS inc sponsor
-
-[Astro is Joining Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/ "blog.cloudflare.com") — Big news in the Web framework space as the team behind [the popular Astro framework](https://astro.build/) (_[the beta of v6.0](https://astro.build/blog/astro-6-beta/) is now available_) is headed to Cloudflare. Few major frameworks are now _not_ under the wing of a larger entity.
-
-Schott and Irvine-Broque
+  
+- [Add Excel-like Spreadsheet Functionality to Your JavaScript Apps](https://developer.mescius.com/spreadjs?utm_source=CooperPress&utm_medium=JavaScript-Weekly&utm_campaign=SpreadJS-JS-Weekly-Primary-Sponsor-Jan-2026 "developer.mescius.com") — SpreadJS is the industry-leading JavaScript spreadsheet for adding advanced spreadsheet features to your enterprise apps. Build finance, analysis, budget, and other apps. Excel I/O, 500+ calc functions, tables, charts, and more. [View demos now](https://developer.mescius.com/spreadjs?utm_source=CooperPress&utm_medium=JavaScript-Weekly&utm_campaign=SpreadJS-JS-Weekly-Primary-Sponsor-Jan-2026). **_\--- SpreadJS from MESCIUS inc sponsor_**
+  
+- [Astro is Joining Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/ "blog.cloudflare.com") — Big news in the Web framework space as the team behind [the popular Astro framework](https://astro.build/) (_[the beta of v6.0](https://astro.build/blog/astro-6-beta/) is now available_) is headed to Cloudflare. Few major frameworks are now _not_ under the wing of a larger entity. **_\--- Schott and Irvine-Broque_**
 
 **IN BRIEF:**
 
@@ -41,58 +33,35 @@ Schott and Irvine-Broque
 - [Node.js v25.4.0 (Current)](https://nodejs.org/en/blog/release/v25.4.0) – `require(esm)` is now marked as stable.
 - [React Native Windows 0.81](https://devblogs.microsoft.com/react-native/%f0%9f%9a%80react-native-windows-v0-81-is-here/), [Aurelia 2 RC](https://aurelia.io/blog/2026/1/14/aurelia-2-release-candidate/), [Deno 2.6.5](https://github.com/denoland/deno/releases/tag/v2.6.5)
 
-📖  Articles and Videos
+## 📖  Articles and Videos
 
-[![](./images/11f49f54f72c9ce08e76ab2ded188328.jpeg)](https://alexharri.com/blog/ascii-rendering)
+[![](./images/11f49f54f72c9ce08e76ab2ded188328.jpeg)](https://alexharri.com/blog/ascii-rendering)  
+- [ASCII Characters Are Not Pixels: A Deep Dive Into ASCII Rendering](https://alexharri.com/blog/ascii-rendering "alexharri.com") — Alex digs _deep_ into getting ASCII-based graphics rendering just right with JavaScript, complete with examples of the algorithms used and numerous demos. The neatest technical blog post I’ve seen so far this year. **_\--- Alex Harri_**
+  
+- [JavaScript Now a First-Class Citizen in Aspire](https://devblogs.microsoft.com/aspire/aspire-for-javascript-developers/ "devblogs.microsoft.com") — [Aspire](https://aspire.dev/) is a Microsoft framework for orchestrating the deployment of distributed apps. Originally just for .NET, [Aspire 13](https://aspire.dev/whats-new/aspire-13/) now makes JavaScript a first-class citizen, so you can run Vite and full-stack JS apps with service discovery, telemetry, and production-ready containers. **_\--- Microsoft_**
+  
+- [Breakpoints and `console.log` Is the Past, Time Travel Is the Future](https://wallabyjs.com/?utm_source=cooperpress&utm_medium=javascriptweekly&utm_content=javascriptweekly "wallabyjs.com") — 15x faster JavaScript debugging than with breakpoints and console.log, supports Vitest, jest, Karma, Jasmine, and more. **_\--- Wallaby Team sponsor_**
+  
+- [Introducing the `<geolocation>` Element](https://developer.chrome.com/blog/geolocation-html-element "developer.chrome.com") — Chrome 144 introduces a new `<geolocation>` element for requesting user location data, moving away from a JavaScript-triggered prompt. **_\--- Viana, Le, Steiner_**
+  
 
-[ASCII Characters Are Not Pixels: A Deep Dive Into ASCII Rendering](https://alexharri.com/blog/ascii-rendering "alexharri.com") — Alex digs _deep_ into getting ASCII-based graphics rendering just right with JavaScript, complete with examples of the algorithms used and numerous demos. The neatest technical blog post I’ve seen so far this year.
+- 📄 [Bootstrapping Bun](https://walters.app/blog/bootstrapping-bun) – _“My journey running the build system for Bun … without relying on any of its usual binary dependencies — namely itself.”_ **_\--- Bradley Walters_**
+- 📄 [Building a Scroll-Driven Dual-Wave Text Animation with GSAP](https://tympanus.net/codrops/2026/01/15/building-a-scroll-driven-dual-wave-text-animation-with-gsap/) **_\--- Valentin Descombes_**
+- 📄 [How the Electron Team Improved Window Resize Behavior](https://www.electronjs.org/blog/tech-talk-window-resize-behavior) **_\--- Niklas Wenzel_**
+- 📄 [How to Learn to Build Apps in 2026](https://medium.com/effortless-programming/how-to-learn-to-build-apps-in-2025-2293d340886b) **_\--- Eric Elliott_**
 
-Alex Harri
+## 🛠 Code & Tools
 
-[JavaScript Now a First-Class Citizen in Aspire](https://devblogs.microsoft.com/aspire/aspire-for-javascript-developers/ "devblogs.microsoft.com") — [Aspire](https://aspire.dev/) is a Microsoft framework for orchestrating the deployment of distributed apps. Originally just for .NET, [Aspire 13](https://aspire.dev/whats-new/aspire-13/) now makes JavaScript a first-class citizen, so you can run Vite and full-stack JS apps with service discovery, telemetry, and production-ready containers.
-
-Microsoft
-
-[Breakpoints and `console.log` Is the Past, Time Travel Is the Future](https://wallabyjs.com/?utm_source=cooperpress&utm_medium=javascriptweekly&utm_content=javascriptweekly "wallabyjs.com") — 15x faster JavaScript debugging than with breakpoints and console.log, supports Vitest, jest, Karma, Jasmine, and more.
-
-Wallaby Team sponsor
-
-[Introducing the `<geolocation>` Element](https://developer.chrome.com/blog/geolocation-html-element "developer.chrome.com") — Chrome 144 introduces a new `<geolocation>` element for requesting user location data, moving away from a JavaScript-triggered prompt.
-
-Viana, Le, Steiner
-
-📄 [Bootstrapping Bun](https://walters.app/blog/bootstrapping-bun) – _“My journey running the build system for Bun … without relying on any of its usual binary dependencies — namely itself.”_ Bradley Walters
-
-📄 [Building a Scroll-Driven Dual-Wave Text Animation with GSAP](https://tympanus.net/codrops/2026/01/15/building-a-scroll-driven-dual-wave-text-animation-with-gsap/) Valentin Descombes
-
-📄 [How the Electron Team Improved Window Resize Behavior](https://www.electronjs.org/blog/tech-talk-window-resize-behavior) Niklas Wenzel
-
-📄 [How to Learn to Build Apps in 2026](https://medium.com/effortless-programming/how-to-learn-to-build-apps-in-2025-2293d340886b) Eric Elliott
-
-🛠 Code & Tools
-
-[![](./images/e7c9ba2b42ae3fa7da40534a91eb1e25.jpeg)](https://github.com/wooorm/starry-night)
-
-[Starry Night 3.9: GitHub-Like Syntax Highlighting](https://github.com/wooorm/starry-night "github.com") — GitHub’s own syntax highlighter isn’t open source, but this library is a powerful alternative that tries to get as close as it can, with support for hundreds of languages. I’ve [put a basic Web demo here](https://peterc.org/misc/starrydemo.html) to show off how to use it on the Web.
-
-Titus Wormer
-
-[Extension.js 3: Browser Extension Development Framework](https://extension.js.org/ "extension.js.org") — Create cross-browser extensions without manual build configuration and develop, build, and preview across browsers with a unified workflow. [GitHub repo.](https://github.com/extension-js/extension.js)
-
-Cezar Augusto et al.
-
-[Easily Add Image Editing to your Web App](https://pqina.nl/pintura/?ref=cooperpress "pqina.nl") — Import `pintura`, give it an image, and instantly get features like cropping, rotating, and annotation. [Try for free today](https://pqina.nl/pintura/?ref=cooperpress).
-
-Pintura sponsor
-
-[React Aria: Adobe's World-Class React Components](https://react-aria.adobe.com/ "react-aria.adobe.com") — React Aria has a fantastic new site and all-new documentation that really sells the entire experience, complete with interactive CSS and Tailwind examples to get started quickly.
-
-Adobe
-
-[localspace: Modern localForage-Compatible Storage Toolkit](https://github.com/unadlib/localspace "github.com") — [localForage](https://github.com/localForage/localForage) is/was a popular storage library that wrapped various browser storage APIs with a simple, `localStorage`\-like API. It hasn’t been updated for years, though, and _“localspace exists to bridge that gap”_.
-
-Michael Lin
-
+[![](./images/e7c9ba2b42ae3fa7da40534a91eb1e25.jpeg)](https://github.com/wooorm/starry-night)  
+- [Starry Night 3.9: GitHub-Like Syntax Highlighting](https://github.com/wooorm/starry-night "github.com") — GitHub’s own syntax highlighter isn’t open source, but this library is a powerful alternative that tries to get as close as it can, with support for hundreds of languages. I’ve [put a basic Web demo here](https://peterc.org/misc/starrydemo.html) to show off how to use it on the Web. **_\--- Titus Wormer_**
+  
+- [Extension.js 3: Browser Extension Development Framework](https://extension.js.org/ "extension.js.org") — Create cross-browser extensions without manual build configuration and develop, build, and preview across browsers with a unified workflow. [GitHub repo.](https://github.com/extension-js/extension.js) **_\--- Cezar Augusto et al._**
+  
+- [Easily Add Image Editing to your Web App](https://pqina.nl/pintura/?ref=cooperpress "pqina.nl") — Import `pintura`, give it an image, and instantly get features like cropping, rotating, and annotation. [Try for free today](https://pqina.nl/pintura/?ref=cooperpress). **_\--- Pintura sponsor_**
+  
+- [React Aria: Adobe's World-Class React Components](https://react-aria.adobe.com/ "react-aria.adobe.com") — React Aria has a fantastic new site and all-new documentation that really sells the entire experience, complete with interactive CSS and Tailwind examples to get started quickly. **_\--- Adobe_**
+  
+- [localspace: Modern localForage-Compatible Storage Toolkit](https://github.com/unadlib/localspace "github.com") — [localForage](https://github.com/localForage/localForage) is/was a popular storage library that wrapped various browser storage APIs with a simple, `localStorage`\-like API. It hasn’t been updated for years, though, and _“localspace exists to bridge that gap”_. **_\--- Michael Lin_**
 - ⭐ [p5.js v2.2](https://github.com/processing/p5.js/releases/tag/v2.2.0) – The powerful JavaScript visual/creative coding toolkit now includes WebGPU mode as a core feature ([explained well here](https://www.davepagurek.com/blog/p5-webgpu/) and [here](https://github.com/processing/p5.js/blob/dev-2.0/contributor_docs/webgpu.md)).
 - 🎥 [Mediabunny 1.29.0](https://github.com/Vanilagy/mediabunny/releases/tag/v1.29.0) – The TypeScript media toolkit adds support for reading and writing MPEG Transport Stream (.ts) files. [Demo site.](https://mediabunny.dev/examples)
 - [Prettier 3.8](https://prettier.io/blog/2026/01/14/3.8.0) – The opinionated code formatter adds full support for [Angular 21.1](https://angular.love/angular-21-1-key-features-and-improvements) which was released last week.
@@ -115,7 +84,7 @@ Notion, Dropbox and LaunchDarkly have switched to [Meticulous](https://www.metic
 
 🛠️ Auth0 for AI Agents provides a foundation for developers to build AI agents without compromising security or innovation. [Start building](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
 
-📢  Elsewhere in the ecosystem
+## 📢  Elsewhere in the ecosystem
 
 Some other interesting tidbits in the broader landscape:
 

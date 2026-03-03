@@ -7,8 +7,8 @@ md5: 10034adbb21fc099e6c8e73efcf6be15
 
 # CSS text-box属性又是干嘛用的？
 
-by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12067](https://www.zhangxinxu.com/wordpress/?p=12067)  
-本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
+> by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12067](https://www.zhangxinxu.com/wordpress/?p=12067)  
+> 本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
 
 ### 一、text-box的设计初衷
 
@@ -130,9 +130,9 @@ p {
 
 ![坑爹](./images/b7a3c8bafaca41cbec78e6ced60cb827.jpeg)
 
-[](https://wwads.cn/click/bait)[![万维广告联盟](./images/61e69b6fb6034985eab53ce766c613f0.webp)](https://wwads.cn/click/bundle?code=ijZnCT0QfsrxTaOqeI9p5JKeoDmIlR)
+[](https://wwads.cn/click/bait)[![万维广告联盟](./images/35e1b49e2979f19819e78402099f5307.jpeg)](https://wwads.cn/click/bundle?code=pjxUm89o5rE48cS1cFDo5CjfP7kk4Y)
 
-[电商项目必备！Java 开源商城系统 SpringBoot+Vue ，功能齐全，全源码交付，可二开](https://wwads.cn/click/bundle?code=ijZnCT0QfsrxTaOqeI9p5JKeoDmIlR)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
+[🛒 B2B2C商家入驻平台系统java版 **Java+vue+uniapp** 功能强大 稳定 支持diy 方便二开](https://wwads.cn/click/bundle?code=pjxUm89o5rE48cS1cFDo5CjfP7kk4Y)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
 
 ### 三、点评text-box
 

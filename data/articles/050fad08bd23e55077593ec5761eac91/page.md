@@ -11,17 +11,10 @@ md5: 050fad08bd23e55077593ec5761eac91
 
 [Read on the Web](https://javascriptweekly.com/link/181155/web)
 
-[![](./images/65c78aaa0958e2ec5e19adfea234f29a.jpeg)](https://javascriptweekly.com/link/181088/web)
-
-[Oxfmt Beta: A Fast, Rust-Powered JavaScript Code Formatter](https://javascriptweekly.com/link/181088/web "oxc.rs") — A **100% [Prettier](https://javascriptweekly.com/link/181089/web)\-compatible** JavaScript code formatter (and sister project of [Oxlint](https://javascriptweekly.com/link/181090/web)) that boasts being 30x faster than Prettier and 3x faster than [Biome.](https://javascriptweekly.com/link/181091/web) Since the alpha, it now supports embedded language formatting (JSX, YAML, HTML, etc), Tailwind CSS [class sorting](https://javascriptweekly.com/link/181093/web), [import sorting](https://javascriptweekly.com/link/181094/web), and more.
-
-Boshen, Dunqing, and Sugiura (VoidZero)
-
-[![](./images/51dbaf92d1748541e5eb6be1cf05c78c.png)](https://javascriptweekly.com/link/181087/web)
-
-[FlexGrid by Wijmo: The Industry-Leading JavaScript Datagrid](https://javascriptweekly.com/link/181087/web "developer.mescius.com") — A fast and flexible DataGrid for building modern web apps. Key features and virtualized rendering are included in the core grid module. Pick & choose special features to keep your app small. Built for JavaScript, extended to Angular, React, and Vue.
-
-Wijmo From MESCIUS sponsor
+[![](./images/65c78aaa0958e2ec5e19adfea234f29a.jpeg)](https://javascriptweekly.com/link/181088/web)  
+- [Oxfmt Beta: A Fast, Rust-Powered JavaScript Code Formatter](https://javascriptweekly.com/link/181088/web "oxc.rs") — A **100% [Prettier](https://javascriptweekly.com/link/181089/web)\-compatible** JavaScript code formatter (and sister project of [Oxlint](https://javascriptweekly.com/link/181090/web)) that boasts being 30x faster than Prettier and 3x faster than [Biome.](https://javascriptweekly.com/link/181091/web) Since the alpha, it now supports embedded language formatting (JSX, YAML, HTML, etc), Tailwind CSS [class sorting](https://javascriptweekly.com/link/181093/web), [import sorting](https://javascriptweekly.com/link/181094/web), and more. **_\--- Boshen, Dunqing, and Sugiura (VoidZero)_**
+  
+- [FlexGrid by Wijmo: The Industry-Leading JavaScript Datagrid](https://javascriptweekly.com/link/181087/web "developer.mescius.com") — A fast and flexible DataGrid for building modern web apps. Key features and virtualized rendering are included in the core grid module. Pick & choose special features to keep your app small. Built for JavaScript, extended to Angular, React, and Vue. **_\--- Wijmo From MESCIUS sponsor_**
 
 **IN BRIEF:**
 
@@ -37,64 +30,42 @@ Wijmo From MESCIUS sponsor
 - [Node.js v25.7.0 (Current)](https://javascriptweekly.com/link/181105/web) and [v24.14.0 (LTS)](https://javascriptweekly.com/link/181106/web)
 - [ESLint 10.0.2](https://javascriptweekly.com/link/181107/web), [Hono 4.12](https://javascriptweekly.com/link/181109/web), [Deno 2.6.10](https://javascriptweekly.com/link/181110/web), [Electron 40.6](https://javascriptweekly.com/link/181111/web), [Three.js r183](https://javascriptweekly.com/link/181112/web)
 
-📖  Articles and Videos
+## 📖  Articles and Videos
 
-[![](./images/4abe7af68f55956a1f3a383e20d846dc.jpeg)](https://javascriptweekly.com/link/181113/web)
+[![](./images/4abe7af68f55956a1f3a383e20d846dc.jpeg)](https://javascriptweekly.com/link/181113/web)  
+- [The Fastest Frontend Tooling for Humans and AI](https://javascriptweekly.com/link/181113/web "cpojer.net") — Christoph (of Jest fame) covers his preferred tools for getting your JavaScript tool stack running as fast as possible. It’s also intended for LLMs to process via [this Markdown version.](https://javascriptweekly.com/link/181114/web) **_\--- Christoph Nakazawa_**
+  
+- [Goodbye `innerHTML`, Hello `setHTML` for Stronger XSS Protection](https://javascriptweekly.com/link/181115/web "hacks.mozilla.org") — As of v148, Firefox [supports](https://javascriptweekly.com/link/181116/web) the [Sanitizer API.](https://javascriptweekly.com/link/181117/web) Rather than assigning HTML to DOM nodes with `innerHTML`, you can use [`setHTML`](https://javascriptweekly.com/link/181118/web) for safety by default. It’s a cutting-edge feature, with Chrome 146 (beta) also adding support, but nothing in Safari yet, so [DOMPurify](https://javascriptweekly.com/link/181119/web) will remain useful for a while. **_\--- Mozilla Hacks_**
+  
+- [Clerk's Free Tier Now Covers 50,000 MRUs](https://javascriptweekly.com/link/181120/web "go.clerk.com") — Up from 10K. MFA included in Pro. Unlimited apps on all plans. No per-app upgrades anymore. **_\--- Clerk sponsor_**
+  
+- [Halving Node.js Memory Usage with Pointer Compression](https://javascriptweekly.com/link/181121/web "blog.platformatic.dev") — Cloudflare, Igalia, and the Node project have collaborated on `node-caged`, a Node.js 25 Docker image with V8 pointer compression enabled, yielding up to 50% memory savings. Matteo digs into all the details. **_\--- Matteo Collina_**
+  
 
-[The Fastest Frontend Tooling for Humans and AI](https://javascriptweekly.com/link/181113/web "cpojer.net") — Christoph (of Jest fame) covers his preferred tools for getting your JavaScript tool stack running as fast as possible. It’s also intended for LLMs to process via [this Markdown version.](https://javascriptweekly.com/link/181114/web)
+- 📺 [My Angular Stack in 2026](https://javascriptweekly.com/link/181122/web) – An opinionated walk through tools the author would pick if starting a new Angular project now. **_\--- Rainer Hahnekamp_**
+- 📄 [How to Publish to npm from GitHub Actions](https://javascriptweekly.com/link/181123/web) – Using the new npm OIDC trusted publishing workflow. **_\--- Gleb Bahmutov_**
+- 📄 [Building an Endless Procedural Snake with Three.js and WebGL](https://javascriptweekly.com/link/181124/web) **_\--- Sujen Phea_**
 
-Christoph Nakazawa
+## 🛠 Code & Tools
 
-[Goodbye `innerHTML`, Hello `setHTML` for Stronger XSS Protection](https://javascriptweekly.com/link/181115/web "hacks.mozilla.org") — As of v148, Firefox [supports](https://javascriptweekly.com/link/181116/web) the [Sanitizer API.](https://javascriptweekly.com/link/181117/web) Rather than assigning HTML to DOM nodes with `innerHTML`, you can use [`setHTML`](https://javascriptweekly.com/link/181118/web) for safety by default. It’s a cutting-edge feature, with Chrome 146 (beta) also adding support, but nothing in Safari yet, so [DOMPurify](https://javascriptweekly.com/link/181119/web) will remain useful for a while.
+[![](./images/11818aa06969b557f775af40cbc7d9b7.jpeg)](https://javascriptweekly.com/link/181125/web)  
+- [OpenSeadragon 6.0: A Web Viewer for High Resolution Images](https://javascriptweekly.com/link/181125/web "openseadragon.github.io") — A big step forward for a project that’s almost 15 years old, and one of few stable, trusty options for rendering ultra-high resolution images for users to zoom into and pan around. [Version 6](https://javascriptweekly.com/link/181126/web) introduces a new async and cache-managed pipeline, making it _far_ more efficient at scale. **_\--- OpenSeadragon Contributors_**
 
-Mozilla Hacks
+> 💡 OpenSeadragon was recently used as the basis for the [Isometric NYC](https://javascriptweekly.com/link/181127/web) (well worth reading about in its own right!) project.
 
-[Clerk's Free Tier Now Covers 50,000 MRUs](https://javascriptweekly.com/link/181120/web "go.clerk.com") — Up from 10K. MFA included in Pro. Unlimited apps on all plans. No per-app upgrades anymore.
+  
+- [SurveyJS: JavaScript Libraries for Dynamic Web Forms](https://javascriptweekly.com/link/181128/web "surveyjs.io") — Build JSON-driven forms in your app (React/Angular/Vue) without SaaS limitations. Keep full ownership of your data. **_\--- SurveyJS sponsor_**
+  
+- [bignumber.js 10.0: Library for Arbitrary-Precision Arithmetic](https://javascriptweekly.com/link/181129/web "mikemcl.github.io") — Works around limitations of JavaScript’s `Number` and `BigInt` types, such as if you need to work with very large non-integers. Usefully, the library is included on the page so you can play with it in the JS console. **_\--- Michael Mclaughlin_**
+  
+- ⏳ [Slowmo: Slow Down, Pause, or Speed Up Time](https://javascriptweekly.com/link/181130/web "slowmo.dev") — A tool you can use either as a library or browser extension that slows down time in the browser for debugging and testing purposes. It slows down [numerous things](https://javascriptweekly.com/link/181131/web) including CSS animations, transitions, and `requestAnimationFrame`. **_\--- Francois Laberge_**
+  
+- [React Doctor: Give Your React Code a Quick Check-Up](https://javascriptweekly.com/link/181132/web "www.react.doctor") — Fresh from the creator of [React Scan](https://javascriptweekly.com/link/181133/web) and [React Grab](https://javascriptweekly.com/link/181134/web), a new tool that scans your codebase and gives you a 0-100 score. ([GitHub repo.](https://javascriptweekly.com/link/181135/web)) **_\--- Aiden Bai_**
 
-Clerk sponsor
+> 💡 [Angular Doctor](https://javascriptweekly.com/link/181136/web) is a similar project for Angular apps inspired by _React Doctor._
 
-[Halving Node.js Memory Usage with Pointer Compression](https://javascriptweekly.com/link/181121/web "blog.platformatic.dev") — Cloudflare, Igalia, and the Node project have collaborated on `node-caged`, a Node.js 25 Docker image with V8 pointer compression enabled, yielding up to 50% memory savings. Matteo digs into all the details.
-
-Matteo Collina
-
-📺 [My Angular Stack in 2026](https://javascriptweekly.com/link/181122/web) – An opinionated walk through tools the author would pick if starting a new Angular project now. Rainer Hahnekamp
-
-📄 [How to Publish to npm from GitHub Actions](https://javascriptweekly.com/link/181123/web) – Using the new npm OIDC trusted publishing workflow. Gleb Bahmutov
-
-📄 [Building an Endless Procedural Snake with Three.js and WebGL](https://javascriptweekly.com/link/181124/web) Sujen Phea
-
-🛠 Code & Tools
-
-[![](./images/11818aa06969b557f775af40cbc7d9b7.jpeg)](https://javascriptweekly.com/link/181125/web)
-
-[OpenSeadragon 6.0: A Web Viewer for High Resolution Images](https://javascriptweekly.com/link/181125/web "openseadragon.github.io") — A big step forward for a project that’s almost 15 years old, and one of few stable, trusty options for rendering ultra-high resolution images for users to zoom into and pan around. [Version 6](https://javascriptweekly.com/link/181126/web) introduces a new async and cache-managed pipeline, making it _far_ more efficient at scale.
-
-OpenSeadragon Contributors
-
-💡 OpenSeadragon was recently used as the basis for the [Isometric NYC](https://javascriptweekly.com/link/181127/web) (well worth reading about in its own right!) project.
-
-[SurveyJS: JavaScript Libraries for Dynamic Web Forms](https://javascriptweekly.com/link/181128/web "surveyjs.io") — Build JSON-driven forms in your app (React/Angular/Vue) without SaaS limitations. Keep full ownership of your data.
-
-SurveyJS sponsor
-
-[bignumber.js 10.0: Library for Arbitrary-Precision Arithmetic](https://javascriptweekly.com/link/181129/web "mikemcl.github.io") — Works around limitations of JavaScript’s `Number` and `BigInt` types, such as if you need to work with very large non-integers. Usefully, the library is included on the page so you can play with it in the JS console.
-
-Michael Mclaughlin
-
-⏳ [Slowmo: Slow Down, Pause, or Speed Up Time](https://javascriptweekly.com/link/181130/web "slowmo.dev") — A tool you can use either as a library or browser extension that slows down time in the browser for debugging and testing purposes. It slows down [numerous things](https://javascriptweekly.com/link/181131/web) including CSS animations, transitions, and `requestAnimationFrame`.
-
-Francois Laberge
-
-[React Doctor: Give Your React Code a Quick Check-Up](https://javascriptweekly.com/link/181132/web "www.react.doctor") — Fresh from the creator of [React Scan](https://javascriptweekly.com/link/181133/web) and [React Grab](https://javascriptweekly.com/link/181134/web), a new tool that scans your codebase and gives you a 0-100 score. ([GitHub repo.](https://javascriptweekly.com/link/181135/web))
-
-Aiden Bai
-
-💡 [Angular Doctor](https://javascriptweekly.com/link/181136/web) is a similar project for Angular apps inspired by _React Doctor._
-
-[Vue Scrollama 3.0: Vue Component for Scroll-Driven Interactions](https://javascriptweekly.com/link/181137/web "vue-scrollama.pages.dev") — [Scrollama](https://javascriptweekly.com/link/181138/web) is a library for doing so called ‘scrollytelling’ where scroll position affects the presence of certain elements in the viewport. This project makes it easier to use with Vue.
-
-Vignesh Shenoy
-
+  
+- [Vue Scrollama 3.0: Vue Component for Scroll-Driven Interactions](https://javascriptweekly.com/link/181137/web "vue-scrollama.pages.dev") — [Scrollama](https://javascriptweekly.com/link/181138/web) is a library for doing so called ‘scrollytelling’ where scroll position affects the presence of certain elements in the viewport. This project makes it easier to use with Vue. **_\--- Vignesh Shenoy_**
 [![](./images/f48abc9c6898fe31bbe41c789f882352.jpeg)](https://javascriptweekly.com/link/181139/web)
 
 - [Beautiful Mermaid 1.0](https://javascriptweekly.com/link/181139/web) – Render Mermaid diagram markup to SVG or ASCII/Unicode outputs _(above)_ from JavaScript.
@@ -110,7 +81,7 @@ Vignesh Shenoy
 
 Ex‑Palantir engineers built [Meticulous](https://javascriptweekly.com/link/181146/web), an E2E UI testing tool that automatically covers every edge case, boosting product quality and development speed.
 
-📢  Elsewhere in the ecosystem
+## 📢  Elsewhere in the ecosystem
 
 [![](./images/fd6e71006cb617068f8a095994b9d073.jpeg)](https://javascriptweekly.com/link/181147/web)
 

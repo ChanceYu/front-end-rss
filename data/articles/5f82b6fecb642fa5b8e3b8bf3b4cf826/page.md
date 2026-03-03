@@ -7,12 +7,14 @@ md5: 5f82b6fecb642fa5b8e3b8bf3b4cf826
 
 # 点击图片放大查看交互效果的最佳实现
 
-by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12082](https://www.zhangxinxu.com/wordpress/?p=12082)  
-本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
+> by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12082](https://www.zhangxinxu.com/wordpress/?p=12082)  
+> 本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
 
 ### 一、先看跟随放大效果
 
 请看下面的MP4录屏效果（不动点击播放）：
+
+<video controls src="//image.zhangxinxu.com/video/blog/202602/image-preview.mp4" style="max-width:100%"></video>
 
 除了视频看到的效果，相关实现还支持：
 
@@ -124,9 +126,9 @@ if (history.state && history.state.modal) {
 
 不过这些问题都可以轻松适配，如果你有相关需求，可以fork项目，自行修改，例如CSS嵌套语法改为普通语法，dialog元素补全缺失的CSS。
 
-[](https://wwads.cn/click/bait)[![万维广告联盟](./images/d016d87bdc6b9f0229571d8c4dd1904b.webp)](https://wwads.cn/click/bundle?code=ijXpK18voT8xpWN1Kw2jx5OPo49Oep)
+[](https://wwads.cn/click/bait)[![万维广告联盟](./images/dde45011f8aa932976c4fae9624fe378.webp)](https://wwads.cn/click/bundle?code=OjsE1nXhyNnMMoPgRJUxKyhdPSFzzp)
 
-[**JAVA多租户后台框架** 一键云编译✚插件化！欢迎开发者免费入驻生态! 成就创业梦想！](https://wwads.cn/click/bundle?code=ijXpK18voT8xpWN1Kw2jx5OPo49Oep)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
+[🔥**码云GVP开源项目 16k star** Uniapp + ElementUI 功能强大 支持多语言、二开方便](https://wwads.cn/click/bundle?code=OjsE1nXhyNnMMoPgRJUxKyhdPSFzzp)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
 
 ### 四、新年快乐，开工大吉
 

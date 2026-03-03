@@ -365,6 +365,26 @@ export default {
   padding: 1.25rem 1.25rem 2rem;
   overscroll-behavior: contain;
   touch-action: pan-y;
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 #f1f5f9;
+}
+
+.md-viewer__body::-webkit-scrollbar {
+  width: 8px;
+}
+
+.md-viewer__body::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 4px;
+}
+
+.md-viewer__body::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+.md-viewer__body::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
 }
 
 .md-viewer__loading,
@@ -577,7 +597,8 @@ export default {
   border-radius: 2px;
 }
 /* 独占一行的块级图片（p 内唯一子元素） */
-.md-viewer__content.markdown-body p > img:only-child {
+.md-viewer__content.markdown-body p > img:only-child,
+.md-viewer__content.markdown-body p > a:only-child > img:only-child {
   display: block;
   height: auto;
   width: auto;
@@ -585,7 +606,8 @@ export default {
   margin: 1.25em auto;
   border-radius: 8px;
 }
-.md-viewer__content.markdown-body p > img:only-child:hover {
+.md-viewer__content.markdown-body p > img:only-child:hover,
+.md-viewer__content.markdown-body p > a:only-child > img:only-child:hover {
   box-shadow: 0 2px 12px rgba(0,0,0,.08);
 }
 

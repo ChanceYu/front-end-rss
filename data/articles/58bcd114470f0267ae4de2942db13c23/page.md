@@ -7,8 +7,8 @@ md5: 58bcd114470f0267ae4de2942db13c23
 
 # JS正则表达式y标识符之粘性匹配
 
-by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12076](https://www.zhangxinxu.com/wordpress/?p=12076)  
-本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
+> by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12076](https://www.zhangxinxu.com/wordpress/?p=12076)  
+> 本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
 
 ### 一、前言概述
 
@@ -131,9 +131,9 @@ console.table(result);
 ```undefined
 /\d+/y
 ```
-[](https://wwads.cn/click/bait)[![万维广告联盟](./images/61e69b6fb6034985eab53ce766c613f0.webp)](https://wwads.cn/click/bundle?code=ijZnCT0QfsrxTaOqeI9p5JKeoDmIlR)
+[](https://wwads.cn/click/bait)[![万维广告联盟](./images/194db40d77ed24af672f0dde78a8e4a3.webp)](https://wwads.cn/click/bundle?code=WjZHtUnZLsKNKRfH0dmF1yYX5prJCG)
 
-[电商项目必备！Java 开源商城系统 SpringBoot+Vue ，功能齐全，全源码交付，可二开](https://wwads.cn/click/bundle?code=ijZnCT0QfsrxTaOqeI9p5JKeoDmIlR)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
+[IT探测网，全球PING、网站测速、DNS查询、AI分析检测。免费测试、监控，IT运维好工具](https://wwads.cn/click/bundle?code=WjZHtUnZLsKNKRfH0dmF1yYX5prJCG)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
 
 ### 四、其他些补充及结语
 

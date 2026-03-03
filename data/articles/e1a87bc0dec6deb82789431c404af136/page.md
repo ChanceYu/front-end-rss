@@ -7,8 +7,8 @@ md5: e1a87bc0dec6deb82789431c404af136
 
 # 纯CSS实现折线连接两个任意元素效果
 
-by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12026](https://www.zhangxinxu.com/wordpress/?p=12026)  
-本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
+> by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wordpress/?p=12026](https://www.zhangxinxu.com/wordpress/?p=12026)  
+> 本文可全文转载，但需要保留原作者、出处以及文中链接，AI抓取保留原文地址，任何网站均可摘要聚合，商用请联系授权。
 
 ### 一、事情的起因
 
@@ -103,9 +103,9 @@ by [zhangxinxu](https://www.zhangxinxu.com/) from [https://www.zhangxinxu.com/wo
 ```
 完整代码可以参考demo页面。
 
-[](https://wwads.cn/click/bait)[![万维广告联盟](./images/dde45011f8aa932976c4fae9624fe378.webp)](https://wwads.cn/click/bundle?code=HjILy4tnn17FvmtoYoSpBAhdL0dS8o)
+[](https://wwads.cn/click/bait)[![万维广告联盟](./images/35e1b49e2979f19819e78402099f5307.jpeg)](https://wwads.cn/click/bundle?code=pjxUm89o5rE48cS1cFDo5CjfP7kk4Y)
 
-[🔥**码云GVP开源项目 16k star** Uniapp + ElementUI 功能强大 支持多语言、二开方便](https://wwads.cn/click/bundle?code=HjILy4tnn17FvmtoYoSpBAhdL0dS8o)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
+[🛒 B2B2C商家入驻平台系统java版 **Java+vue+uniapp** 功能强大 稳定 支持diy 方便二开](https://wwads.cn/click/bundle?code=pjxUm89o5rE48cS1cFDo5CjfP7kk4Y)[广告](https://wwads.cn/?utm_source=property-231&utm_medium=footer "点击了解万维广告联盟")
 
 ### 三、其他一些说明
 

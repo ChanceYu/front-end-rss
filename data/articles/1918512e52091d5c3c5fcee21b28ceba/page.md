@@ -11,21 +11,12 @@ md5: 1918512e52091d5c3c5fcee21b28ceba
 
 [Read on the Web](https://javascriptweekly.com/issues/770)
 
-[![](./images/ca813f65ced6c918b6bed3c6ede2e673.jpeg)](https://documenso.com/blog/introducing-libpdf-the-pdf-library-typescript-deserves)
-
-[Introducing LibPDF: PDF Parsing and Generation from TypeScript](https://documenso.com/blog/introducing-libpdf-the-pdf-library-typescript-deserves "documenso.com") — [LibPDF](https://libpdf.documenso.com/) bills itself as _‘the PDF library TypeScript deserves’_ and supports parsing, modifying, signing and generating PDFs with a modern API in Node, Bun, and the browser. [GitHub repo.](https://github.com/libpdf-js/core)
-
-Documenso
-
-[JavaScript Frameworks – Heading into 2026](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel "dev.to") — The creator of [SolidJS](https://www.solidjs.com/) knows more than a thing or two about JS frameworks and has written an annual review of the scene for the past few years. Here, he picks on four areas of evolution, and says it’s _“an incredibly exciting time to be working on JavaScript frameworks.”_
-
-Ryan Carniato
-
-[![](./images/dbb4ca5725fa6ba8762190b4a9e87ba9.png)](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=26q1&utm_content=primary)
-
-[Still Writing Tests Manually?](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=26q1&utm_content=primary) — Notion, Dropbox, Wiz, and LaunchDarkly have found a new testing paradigm - and they can't imagine working without it. Built by ex-Palantir engineers, Meticulous autonomously creates a continuously evolving suite of E2E UI tests that delivers near-exhaustive coverage with zero developer effort.
-
-Meticulous AI sponsor
+[![](./images/ca813f65ced6c918b6bed3c6ede2e673.jpeg)](https://documenso.com/blog/introducing-libpdf-the-pdf-library-typescript-deserves)  
+- [Introducing LibPDF: PDF Parsing and Generation from TypeScript](https://documenso.com/blog/introducing-libpdf-the-pdf-library-typescript-deserves "documenso.com") — [LibPDF](https://libpdf.documenso.com/) bills itself as _‘the PDF library TypeScript deserves’_ and supports parsing, modifying, signing and generating PDFs with a modern API in Node, Bun, and the browser. [GitHub repo.](https://github.com/libpdf-js/core) **_\--- Documenso_**
+  
+- [JavaScript Frameworks – Heading into 2026](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel "dev.to") — The creator of [SolidJS](https://www.solidjs.com/) knows more than a thing or two about JS frameworks and has written an annual review of the scene for the past few years. Here, he picks on four areas of evolution, and says it’s _“an incredibly exciting time to be working on JavaScript frameworks.”_ **_\--- Ryan Carniato_**
+  
+- [Still Writing Tests Manually?](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=26q1&utm_content=primary) — Notion, Dropbox, Wiz, and LaunchDarkly have found a new testing paradigm - and they can't imagine working without it. Built by ex-Palantir engineers, Meticulous autonomously creates a continuously evolving suite of E2E UI tests that delivers near-exhaustive coverage with zero developer effort. **_\--- Meticulous AI sponsor_**
 
 **IN BRIEF:**
 
@@ -40,60 +31,37 @@ Meticulous AI sponsor
 - [Rolldown 1.0 RC](https://voidzero.dev/posts/announcing-rolldown-rc) – Fast Rust-based bundler with a Rollup-compatible API and esbuild feature parity.
 - [npm v11.8.0](https://github.com/npm/cli/releases/tag/v11.8.0), [Emscripten 5.0](https://github.com/emscripten-core/emscripten/blob/main/ChangeLog.md#500---012426), [Neutralinojs 6.5.0](https://neutralino.js.org/docs/release-notes/framework/#v650)
 
-📖  Articles and Videos
+## 📖  Articles and Videos
 
-[![](./images/68b31f686c87c5ce9796f231c3047e4a.jpeg)](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html)
+[![](./images/68b31f686c87c5ce9796f231c3047e4a.jpeg)](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html)  
+- [Porting 100k Lines from TypeScript to Rust in a Month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html "blog.vjeux.com") — A prolific JavaScript developer ported a [Pokémon battle simulator](https://github.com/smogon/pokemon-showdown) to Rust and shares his experiences and techniques used to work around issues where Claude Code would get bogged down in such a large task. He notes _“LLM-based coding agents are such a great new tool”_ but require _“engineering expertise and constant babysitting”._ **_\--- Christopher Chedeau_**
+  
+- [Building a JavaScript Runtime in One Month](https://themackabu.dev/blog/js-in-one-month "themackabu.dev") — _“What if I could build a JavaScript engine small enough to embed in a C program, but complete enough to actually run real code?”_ The end result is [Ant.](https://github.com/themackabu/ant/) **_\--- theMackabu_**
+  
+- [Clerk MCP Server for AI Coding Assistants](https://go.clerk.com/3D9yCWw "go.clerk.com") — Connect Claude, Cursor, or Copilot to Clerk's docs. Get working auth code instead of outdated patterns. **_\--- Clerk sponsor_**
+  
+- [Inside Turbopack: Building Faster by Building Less](https://nextjs.org/blog/turbopack-incremental-computation "nextjs.org") — If you’re working on a large codebase, faster hot reloading, better scaling, and persistent caching are all quite desirable. Here’s how these things came about in Turbopack. **_\--- Shew, Woodruff and Koppers (Vercel)_**
+  
+- ▶  [Bun Explained in 100 Seconds](https://www.youtube.com/watch?v=M4TufsFlv_o "www.youtube.com") — The popular quick dev explainer channel tackles [Bun](https://bun.sh/) at a high level. **_\--- Fireship_**
+  
 
-[Porting 100k Lines from TypeScript to Rust in a Month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html "blog.vjeux.com") — A prolific JavaScript developer ported a [Pokémon battle simulator](https://github.com/smogon/pokemon-showdown) to Rust and shares his experiences and techniques used to work around issues where Claude Code would get bogged down in such a large task. He notes _“LLM-based coding agents are such a great new tool”_ but require _“engineering expertise and constant babysitting”._
+- 📄 [Fixing a 6-Year-Old JavaScript Memory Leak in a Google Cloud Function](https://www.debugbear.com/blog/javascript-memory-leak) **_\--- Matt Zeunert (DebugBear)_**
+- 📄 [Build a Dinosaur Runner Game with Deno, Part 4](https://deno.com/blog/build-a-game-with-deno-4) – The fourth part of an ongoing series on the official Deno blog. **_\--- Jo Franchetti_**
+- 📄 [Vercel vs Netlify vs Cloudflare: Serverless Cold Starts Compared](https://punits.dev/blog/vercel-netlify-cloudflare-serverless-cold-starts/) **_\--- Punit Sethi_**
+- 📄 [SPAs are a Performance Dead End](https://www.yegor256.com/2026/01/25/spa-vs-performance.html) **_\--- Yegor Bugayenko_**
 
-Christopher Chedeau
+## 🛠 Code & Tools
 
-[Building a JavaScript Runtime in One Month](https://themackabu.dev/blog/js-in-one-month "themackabu.dev") — _“What if I could build a JavaScript engine small enough to embed in a C program, but complete enough to actually run real code?”_ The end result is [Ant.](https://github.com/themackabu/ant/)
-
-theMackabu
-
-[Clerk MCP Server for AI Coding Assistants](https://go.clerk.com/3D9yCWw "go.clerk.com") — Connect Claude, Cursor, or Copilot to Clerk's docs. Get working auth code instead of outdated patterns.
-
-Clerk sponsor
-
-[Inside Turbopack: Building Faster by Building Less](https://nextjs.org/blog/turbopack-incremental-computation "nextjs.org") — If you’re working on a large codebase, faster hot reloading, better scaling, and persistent caching are all quite desirable. Here’s how these things came about in Turbopack.
-
-Shew, Woodruff and Koppers (Vercel)
-
-▶  [Bun Explained in 100 Seconds](https://www.youtube.com/watch?v=M4TufsFlv_o "www.youtube.com") — The popular quick dev explainer channel tackles [Bun](https://bun.sh/) at a high level.
-
-Fireship
-
-📄 [Fixing a 6-Year-Old JavaScript Memory Leak in a Google Cloud Function](https://www.debugbear.com/blog/javascript-memory-leak) Matt Zeunert (DebugBear)
-
-📄 [Build a Dinosaur Runner Game with Deno, Part 4](https://deno.com/blog/build-a-game-with-deno-4) – The fourth part of an ongoing series on the official Deno blog. Jo Franchetti
-
-📄 [Vercel vs Netlify vs Cloudflare: Serverless Cold Starts Compared](https://punits.dev/blog/vercel-netlify-cloudflare-serverless-cold-starts/) Punit Sethi
-
-📄 [SPAs are a Performance Dead End](https://www.yegor256.com/2026/01/25/spa-vs-performance.html) Yegor Bugayenko
-
-🛠 Code & Tools
-
-[Midscene.js: Remote Control for the Web, Mobile and Desktop Using Vision Models](https://midscenejs.com/ "midscenejs.com") — Provides a way to drive numerous platforms from JavaScript ([including iOS](https://midscenejs.com/ios-getting-started.html)) by using various integrations and a vision-capable model so you can write actions in a mixture of JavaScript and natural language and have them performed.
-
-ByteDance Inc.
-
-🔄 [Travels 1.0: A Fast, Framework-Agnostic Undo/Redo Library](https://github.com/mutativejs/travels "github.com") — Allows you to add undo/redo functionality to apps like text editors, drawing tools, or other interactive software. Uses a memory efficient technique only storing changes, rather than full snapshots for each change.
-
-Mutative
-
-[The #1 Time-Series Database Built on Postgres](https://www.tigerdata.com/timescaledb?utm_source=cooperpress&utm_medium=referral&utm_campaign=javascript-weekly-newsletter "www.tigerdata.com") — TimescaleDB extends Postgres with hypertables, 95% compression, and continuous aggregates. [Start building for free](https://www.tigerdata.com/timescaledb?utm_source=cooperpress&utm_medium=referral&utm_campaign=javascript-weekly-newsletter).
-
-Tiger Data sponsor
-
-[SonicJS 2.7: Perf-Focused Edge-Native Headless CMS for Cloudflare Workers](https://sonicjs.com/ "sonicjs.com") — A production-ready CMS built specifically for the edge. [GitHub repo.](https://github.com/lane711/sonicjs)
-
-SonicJS Team
-
-🤖 [Mastra 1.0: An AI Framework from the Former Gatsby Team](https://mastra.ai/blog/announcing-mastra-1 "mastra.ai") — An all-in-one framework ([homepage](https://mastra.ai/)) for building AI-powered apps and agents.
-
-Sam Bhagwat
-
+  
+- [Midscene.js: Remote Control for the Web, Mobile and Desktop Using Vision Models](https://midscenejs.com/ "midscenejs.com") — Provides a way to drive numerous platforms from JavaScript ([including iOS](https://midscenejs.com/ios-getting-started.html)) by using various integrations and a vision-capable model so you can write actions in a mixture of JavaScript and natural language and have them performed. **_\--- ByteDance Inc._**
+  
+- 🔄 [Travels 1.0: A Fast, Framework-Agnostic Undo/Redo Library](https://github.com/mutativejs/travels "github.com") — Allows you to add undo/redo functionality to apps like text editors, drawing tools, or other interactive software. Uses a memory efficient technique only storing changes, rather than full snapshots for each change. **_\--- Mutative_**
+  
+- [The #1 Time-Series Database Built on Postgres](https://www.tigerdata.com/timescaledb?utm_source=cooperpress&utm_medium=referral&utm_campaign=javascript-weekly-newsletter "www.tigerdata.com") — TimescaleDB extends Postgres with hypertables, 95% compression, and continuous aggregates. [Start building for free](https://www.tigerdata.com/timescaledb?utm_source=cooperpress&utm_medium=referral&utm_campaign=javascript-weekly-newsletter). **_\--- Tiger Data sponsor_**
+  
+- [SonicJS 2.7: Perf-Focused Edge-Native Headless CMS for Cloudflare Workers](https://sonicjs.com/ "sonicjs.com") — A production-ready CMS built specifically for the edge. [GitHub repo.](https://github.com/lane711/sonicjs) **_\--- SonicJS Team_**
+  
+- 🤖 [Mastra 1.0: An AI Framework from the Former Gatsby Team](https://mastra.ai/blog/announcing-mastra-1 "mastra.ai") — An all-in-one framework ([homepage](https://mastra.ai/)) for building AI-powered apps and agents. **_\--- Sam Bhagwat_**
 - [Storybook 10.2](https://github.com/storybookjs/storybook/releases/tag/v10.2.0) – The frontend workshop for building UI components gets some UI and story authoring improvements.
 - 🎥 [Mediabunny 1.31.0](https://github.com/Vanilagy/mediabunny) – Media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [Cheerio v1.2](https://github.com/cheeriojs/cheerio) – Fast, flexible HTML and XML parser and DOM manipulation library.
@@ -116,7 +84,7 @@ Sam Bhagwat
 
 The Code teaches 150k+ AI & ML engineers how to use AI for coding. [Sign up and get the Ultimate Claude Code Guide](https://codenewsletter.ai/subscribe?utm_source=JavaScript) (100+ hacks) to ship 5X faster.
 
-📢  Elsewhere in the ecosystem
+## 📢  Elsewhere in the ecosystem
 
 Some other interesting tidbits in the broader landscape:
 
