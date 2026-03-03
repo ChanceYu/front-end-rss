@@ -494,6 +494,7 @@ export default {
   overflow-x: auto;
   margin: 1.25em 0;
   border: 1px solid #e2e8f0;
+  touch-action: pan-y pinch-zoom;
 }
 
 .md-viewer__content.markdown-body pre code.hljs {
@@ -503,6 +504,14 @@ export default {
   line-height: 1.7;
   padding: 1.1rem 1.25rem;
   border: none;
+}
+
+/* 手机端：代码块不响应触摸，事件穿透到 .md-viewer__body，长按滑动可正常滚动容器 */
+@media (max-width: 800px) {
+  .md-viewer__content.markdown-body pre,
+  .md-viewer__content.markdown-body pre code {
+    pointer-events: none;
+  }
 }
 
 /* 引用块 */
