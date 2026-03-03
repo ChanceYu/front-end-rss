@@ -34,5 +34,5 @@ export function loadProcessed() {
  */
 export function saveProcessed(data) {
   mkdirSync(join(PROCESSED_PATH, '..'), { recursive: true })
-  writeFileSync(PROCESSED_PATH, JSON.stringify(data, null, 2), 'utf-8')
+  writeFileSync(PROCESSED_PATH, JSON.stringify(data), 'utf-8')
 }
