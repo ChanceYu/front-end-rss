@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-03T12:30:48.957Z</updated>
+    <updated>2026-03-03T14:35:44.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Next.js 16 微前端新玩法：Multi-Zone 本地搭建全流程]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529327&amp;idx=1&amp;sn=04f4fe12dc7c5234c8dbdfe35dcc4b72&amp;chksm=f99275becee5fca8737b4cb839fdf5de22fb5cfc146e86d067f32cdc7b6bf8857180da84ea1d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529327&amp;idx=1&amp;sn=04f4fe12dc7c5234c8dbdfe35dcc4b72&amp;chksm=f99275becee5fca8737b4cb839fdf5de22fb5cfc146e86d067f32cdc7b6bf8857180da84ea1d#rd"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <published>2026-03-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3661期】不用 JS 也能精准定位？CSS Anchor Positioning 实战解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278643&amp;idx=1&amp;sn=7161d1df5a6028408bd1968b3c91308c&amp;chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[JSON 淘汰！新的数据格式性能飙升 272%]]></title>
         <id>http://mp.weixin.qq.com/s/N_7D_fL6sk6TyueEaot1Kg</id>
         <link href="http://mp.weixin.qq.com/s/N_7D_fL6sk6TyueEaot1Kg"/>
-        <updated>2026-02-06T00:00:00.000Z</updated>
-        <published>2026-02-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3655期】浏览器即运行时：一个零后端 AI 应用的前端架构实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278596&amp;idx=1&amp;sn=dea55dba00065e03f83445a08be9f33e&amp;chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278596&amp;idx=1&amp;sn=dea55dba00065e03f83445a08be9f33e&amp;chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&amp;scene=0#rd"/>
         <updated>2026-02-06T00:00:00.000Z</updated>
         <published>2026-02-06T00:00:00.000Z</published>
     </entry>
