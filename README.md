@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-04 02:33:01，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 04:21:26，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775) ![](/assets/new.png) 
 - [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)&nbsp;&nbsp;[📖](/data/articles/050fad08bd23e55077593ec5761eac91/page.md)  
 - [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773)&nbsp;&nbsp;[📖](/data/articles/6b724b897f76457956320ded9db76b8a/page.md)  
 - [2026-02-10-A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772)&nbsp;&nbsp;[📖](/data/articles/0540ace4956454d4be0f78a28d73b708/page.md)  
@@ -77,7 +78,6 @@
 - [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768)&nbsp;&nbsp;[📖](/data/articles/f87931be07c499b9fd667f48e75f8281/page.md)  
 - [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)&nbsp;&nbsp;[📖](/data/articles/764c44de6fb1810fe5ebd871a2555203/page.md)  
 - [2025-12-19-The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)&nbsp;&nbsp;[📖](/data/articles/81afd207157f238b8632a004792c0e6b/page.md)  
-- [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)&nbsp;&nbsp;[📖](/data/articles/a868a823b965435cdfc962b4ac7605da/page.md)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -113,12 +113,12 @@
 - [2026-02-26-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624085&idx=1&sn=0f1bbccd402eab8124a871c111231efb&chksm=80224554b755cc429f019d495ee77fc2c617cddc85b56c63fdfdcd7f933c5049c76f74362d5c#rd)&nbsp;&nbsp;[📖](/data/articles/d0a7566732a1cdcbc17a45a2429a2f5b/page.md)  
 - [2026-02-10-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624071&idx=1&sn=6bd3ec5a79da559646dd1622067c4a7d&chksm=80224546b755cc50ca0166514d46e5106802f8b0c9ca9a26033e00b03ee7d068f8a457359af4#rd) ![](/assets/new.png) 
 - [2026-02-05-20-年-IT-老兵转行“收废品”！200+-场面试无果](http://mp.weixin.qq.com/s/oj2b_Sx2XVYOc4jC-gvpPA)&nbsp;&nbsp;[📖](/data/articles/f35cff54a0394aa180fdb78209682f87/page.md)  
-- [2026-02-04-谷歌Chrome觉醒！Gemini-3全面接管，38亿用户一夜进入Agent时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd)&nbsp;&nbsp;[📖](/data/articles/f19826c344ddc5ca5a2cb79a257b9438/page.md)  
 - [2026-02-04-AI-Skills-正在重构前端开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=1&sn=13babe9ddebc8bead1645f6c0848cc30&chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd)&nbsp;&nbsp;[📖](/data/articles/e90ff5657c94152b1b2da111ec6f318f/page.md)  
-- [2026-02-03-别再像新手一样使用-Tailwind-了！](http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg)&nbsp;&nbsp;[📖](/data/articles/cc69335def1cc26842d22bd7841ebf3e/page.md)  
+- [2026-02-04-谷歌Chrome觉醒！Gemini-3全面接管，38亿用户一夜进入Agent时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd)&nbsp;&nbsp;[📖](/data/articles/f19826c344ddc5ca5a2cb79a257b9438/page.md)  
 - [2026-02-03-底裤被扒！Moltbook-150-万-AI-用户几乎全是水军。网友：人骗人全是自导自演](http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw)&nbsp;&nbsp;[📖](/data/articles/22325a02fe304dae680115d07a1a5ade/page.md)  
-- [2026-02-02-50万行代码不敢交给AI？TypeScript之父直言：它就像是个“高级复读机”](http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA)&nbsp;&nbsp;[📖](/data/articles/a29487b52e38e2014929b92421248795/page.md)  
+- [2026-02-03-别再像新手一样使用-Tailwind-了！](http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg)&nbsp;&nbsp;[📖](/data/articles/cc69335def1cc26842d22bd7841ebf3e/page.md)  
 - [2026-02-02-上线72小时，150万Clawdbot密谋建国！一气之下，还把人类告上法庭](http://mp.weixin.qq.com/s/SnVS8dCFYZsdDXG6GLgUnw)&nbsp;&nbsp;[📖](/data/articles/f254b0cba9d0fff093825c414ed39e2a/page.md)  
+- [2026-02-02-50万行代码不敢交给AI？TypeScript之父直言：它就像是个“高级复读机”](http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA)&nbsp;&nbsp;[📖](/data/articles/a29487b52e38e2014929b92421248795/page.md)  
 - [2026-01-30-一行Rust没写过！仅1个月，他用Claude迁移了10万行JavaScript代码](http://mp.weixin.qq.com/s/lKe3M8oU0G64qMd4w5JBhA)&nbsp;&nbsp;[📖](/data/articles/779b71362a8217d4e1a1a6ce4e1d9705/page.md)  
 - [查看更多 >](/details/前端大全.md)
 
@@ -155,8 +155,8 @@
 - [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)&nbsp;&nbsp;[📖](/data/articles/0af49c4bc19f7a84f6803f82691cd538/page.md)  
 - [2026-02-25-身为全栈工程师，这一神器让我开发效率翻倍！](http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg)&nbsp;&nbsp;[📖](/data/articles/1f9d266fbac584725af5b9576ee65be2/page.md)  
 - [2026-02-25-开工第一天，提离职了](http://mp.weixin.qq.com/s/BwLDC1CPdemvw9QLy3MSTA) ![](/assets/new.png) 
-- [2026-02-24-尤雨溪坦言：我确实不懂Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508955&idx=1&sn=a713dd86a5239421c4611930e631fae7&chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd)&nbsp;&nbsp;[📖](/data/articles/f184ba63d44003c23cee3ae9b99859cd/page.md)  
 - [2026-02-24-公司快不行的几个前兆](http://mp.weixin.qq.com/s/_HFUlVZ9Fj0uEaChjz7Thg)&nbsp;&nbsp;[📖](/data/articles/a6e9de212ba944c80ab20b940a03b52a/page.md)  
+- [2026-02-24-尤雨溪坦言：我确实不懂Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508955&idx=1&sn=a713dd86a5239421c4611930e631fae7&chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd)&nbsp;&nbsp;[📖](/data/articles/f184ba63d44003c23cee3ae9b99859cd/page.md)  
 - [2026-02-24-中软国际“降薪风波”：重新定义13薪，12个月工资拆成13份，剩下一份明年3月看绩效发](http://mp.weixin.qq.com/s/nSpdP9urqwBreZmXdXbvmg) ![](/assets/new.png) 
 - [2026-02-23-Vue3-新语法！无虚拟DOM-再次进化，效率大提升！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508936&idx=1&sn=49e9483e2f9b438ddf5d7108e94212c0&chksm=ce45b659f9323f4f60a8c0687df51da6df62a38176a1d0aaba3a3b031546e10ce11584b198fe#rd)&nbsp;&nbsp;[📖](/data/articles/4c0bddee050dd9d32231c1434675b9a7/page.md)  
 - [2026-02-22-Electron-淘汰！新的桌面端框架-更强大、更轻量化](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508927&idx=1&sn=3d645054b3d90f2a399d51db3184bcca&chksm=ce45b62ef9323f38673855592159331d278e4208215eeb387653eb8070ef0e3000c60fcc61a1#rd)&nbsp;&nbsp;[📖](/data/articles/609fbcdf3dc5ab65c99f1ba5bd6d4765/page.md)  

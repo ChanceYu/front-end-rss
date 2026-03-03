@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-03T18:33:02.114Z</updated>
+    <updated>2026-03-03T20:21:27.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[【第3661期】不用 JS 也能精准定位？CSS Anchor Positioning 实战解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278643&amp;idx=1&amp;sn=7161d1df5a6028408bd1968b3c91308c&amp;chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278643&amp;idx=1&amp;sn=7161d1df5a6028408bd1968b3c91308c&amp;chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&amp;scene=0#rd"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <published>2026-03-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[External import maps, a big Bun release, and Node.js schedule changes]]></title>
+        <id>https://javascriptweekly.com/issues/775</id>
+        <link href="https://javascriptweekly.com/issues/775"/>
         <updated>2026-03-03T00:00:00.000Z</updated>
         <published>2026-03-03T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[把 AI 当同事用：Rules、Commands、Skills 的清晰分工]]></title>
         <id>http://mp.weixin.qq.com/s/mjPaoFfYPaPuHTD5lRvH9g</id>
         <link href="http://mp.weixin.qq.com/s/mjPaoFfYPaPuHTD5lRvH9g"/>
-        <updated>2026-02-06T00:00:00.000Z</updated>
-        <published>2026-02-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON 淘汰！新的数据格式性能飙升 272%]]></title>
-        <id>http://mp.weixin.qq.com/s/N_7D_fL6sk6TyueEaot1Kg</id>
-        <link href="http://mp.weixin.qq.com/s/N_7D_fL6sk6TyueEaot1Kg"/>
         <updated>2026-02-06T00:00:00.000Z</updated>
         <published>2026-02-06T00:00:00.000Z</published>
     </entry>
