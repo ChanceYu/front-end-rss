@@ -146,9 +146,15 @@ export default {
     this._onResize = () => { this.isMobile = window.innerWidth <= 800 }
     window.addEventListener('resize', this._onResize)
 
+    let _rafPending = false
     this._onBodyScroll = () => {
-      const body = this.$refs.body
-      if (body) this.showTitle = body.scrollTop > 80
+      if (_rafPending) return
+      _rafPending = true
+      requestAnimationFrame(() => {
+        _rafPending = false
+        const body = this.$refs.body
+        if (body) this.showTitle = body.scrollTop > 80
+      })
     }
     // 初次挂载时若已可见则立即绑定
     this.$nextTick(() => this._bindBodyScroll())
@@ -353,6 +359,7 @@ export default {
 .md-viewer__body {
   flex: 1;
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   padding: 1.25rem 1.25rem 2rem;
   overscroll-behavior: contain;
 }

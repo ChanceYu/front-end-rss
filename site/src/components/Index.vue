@@ -661,6 +661,7 @@ export default {
       return arr
     },
     focusInput () {
+      if (isMobile) return
       const searchInput = document.querySelector('.search-box input')
       if (searchInput) {
         searchInput.focus()
