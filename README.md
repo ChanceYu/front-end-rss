@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-04 23:06:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 23:26:34，:rocket: 更新条数: +0， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -87,7 +87,7 @@
 </summary>
 
 
-- [2026-03-04-【第3662期】快速上手-Claude-技能：从零到可用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278648&idx=1&sn=89ff449c4a6d350a18230459234e46f3&chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/4e6480eda7804b0c40b49a2d14d7c896/page.md)  ![](/assets/new.png) 
+- [2026-03-04-【第3662期】快速上手-Claude-技能：从零到可用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278648&idx=1&sn=89ff449c4a6d350a18230459234e46f3&chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/4e6480eda7804b0c40b49a2d14d7c896/page.md)  
 - [2026-03-03-【第3661期】不用-JS-也能精准定位？CSS-Anchor-Positioning-实战解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278643&idx=1&sn=7161d1df5a6028408bd1968b3c91308c&chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/61471213fef239bbf0b4a395bf72e4d8/page.md)  
 - [2026-03-02-【第3660期】别再为覆盖率而写测试：真正可靠的单元测试应该这样做](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278637&idx=1&sn=f6788ebf5585eda0b718b2f724366fac&chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/8977cdbcb164fa6d3b6d78afa7332578/page.md)  
 - [2026-02-28-【第3659期】JavaScript-显式资源管理来了：用-using-告别手写-try/finally](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278629&idx=1&sn=b51bc320fefe9c3d3d6f715b1d6626bf&chksm=bcbd70cf21bc4ea4594b976fdf87464337c1c959619a4d9171bfd48615c7bc7d590804d6a601&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/50ce3fc755c423f51c04920af0669621/page.md)  
@@ -108,8 +108,6 @@
 </summary>
 
 
-- [2026-02-26-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624085&idx=1&sn=0f1bbccd402eab8124a871c111231efb&chksm=80224554b755cc429f019d495ee77fc2c617cddc85b56c63fdfdcd7f933c5049c76f74362d5c#rd)&nbsp;&nbsp;[📖](/data/articles/d0a7566732a1cdcbc17a45a2429a2f5b/page.md)  
-- [2026-02-10-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624071&idx=1&sn=6bd3ec5a79da559646dd1622067c4a7d&chksm=80224546b755cc50ca0166514d46e5106802f8b0c9ca9a26033e00b03ee7d068f8a457359af4#rd)&nbsp;&nbsp;[📖](/data/articles/51c6155f3dfa53e2fd0cef4bf5988038/page.md)  
 - [2026-02-05-20-年-IT-老兵转行“收废品”！200+-场面试无果](http://mp.weixin.qq.com/s/oj2b_Sx2XVYOc4jC-gvpPA)&nbsp;&nbsp;[📖](/data/articles/f35cff54a0394aa180fdb78209682f87/page.md)  
 - [2026-02-04-AI-Skills-正在重构前端开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=1&sn=13babe9ddebc8bead1645f6c0848cc30&chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd)&nbsp;&nbsp;[📖](/data/articles/e90ff5657c94152b1b2da111ec6f318f/page.md)  
 - [2026-02-04-谷歌Chrome觉醒！Gemini-3全面接管，38亿用户一夜进入Agent时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd)&nbsp;&nbsp;[📖](/data/articles/f19826c344ddc5ca5a2cb79a257b9438/page.md)  
@@ -118,6 +116,8 @@
 - [2026-02-02-上线72小时，150万Clawdbot密谋建国！一气之下，还把人类告上法庭](http://mp.weixin.qq.com/s/SnVS8dCFYZsdDXG6GLgUnw)&nbsp;&nbsp;[📖](/data/articles/f254b0cba9d0fff093825c414ed39e2a/page.md)  
 - [2026-02-02-50万行代码不敢交给AI？TypeScript之父直言：它就像是个“高级复读机”](http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA)&nbsp;&nbsp;[📖](/data/articles/a29487b52e38e2014929b92421248795/page.md)  
 - [2026-01-30-一行Rust没写过！仅1个月，他用Claude迁移了10万行JavaScript代码](http://mp.weixin.qq.com/s/lKe3M8oU0G64qMd4w5JBhA)&nbsp;&nbsp;[📖](/data/articles/779b71362a8217d4e1a1a6ce4e1d9705/page.md)  
+- [2026-01-27-7×24h「全职AI员工」爆火硅谷！](http://mp.weixin.qq.com/s/pcnWR8C--3YQylA0HNbLZw)&nbsp;&nbsp;[📖](/data/articles/04d3c9b19b3175a3c55ffdd1d89047d0/page.md)  
+- [2026-01-26-趣图：美女同事离职了，程序员常对着她工位发呆，我仿佛明白了什么，于是告诉他…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623982&idx=2&sn=009f9330bdf4da9c446028ce8c2ce75f&chksm=802245efb755ccf90f83090613fcb8b7e6111514a171840eca9936f574d3c8dfdd824254320d#rd)&nbsp;&nbsp;[📖](/data/articles/dd9b72c055cb0fc634ecac892a878de0/page.md)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -152,7 +152,6 @@
 
 - [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)&nbsp;&nbsp;[📖](/data/articles/0af49c4bc19f7a84f6803f82691cd538/page.md)  
 - [2026-02-25-身为全栈工程师，这一神器让我开发效率翻倍！](http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg)&nbsp;&nbsp;[📖](/data/articles/1f9d266fbac584725af5b9576ee65be2/page.md)  
-- [2026-02-25-开工第一天，提离职了](http://mp.weixin.qq.com/s/BwLDC1CPdemvw9QLy3MSTA)&nbsp;&nbsp;[📖](/data/articles/96e74736bb637202bbc3f2d4d269c131/page.md)  
 - [2026-02-24-公司快不行的几个前兆](http://mp.weixin.qq.com/s/_HFUlVZ9Fj0uEaChjz7Thg)&nbsp;&nbsp;[📖](/data/articles/a6e9de212ba944c80ab20b940a03b52a/page.md)  
 - [2026-02-24-尤雨溪坦言：我确实不懂Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508955&idx=1&sn=a713dd86a5239421c4611930e631fae7&chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd)&nbsp;&nbsp;[📖](/data/articles/f184ba63d44003c23cee3ae9b99859cd/page.md)  
 - [2026-02-24-中软国际“降薪风波”：重新定义13薪，12个月工资拆成13份，剩下一份明年3月看绩效发](http://mp.weixin.qq.com/s/nSpdP9urqwBreZmXdXbvmg)&nbsp;&nbsp;[📖](/data/articles/7f8b2a3a130815702b6ecb2b06bc6672/page.md)  
@@ -160,6 +159,7 @@
 - [2026-02-22-Electron-淘汰！新的桌面端框架-更强大、更轻量化](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508927&idx=1&sn=3d645054b3d90f2a399d51db3184bcca&chksm=ce45b62ef9323f38673855592159331d278e4208215eeb387653eb8070ef0e3000c60fcc61a1#rd)&nbsp;&nbsp;[📖](/data/articles/609fbcdf3dc5ab65c99f1ba5bd6d4765/page.md)  
 - [2026-02-21-如果人人都存到20万块钱，那这个社会就乱套了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508922&idx=1&sn=98e984731467162f181975f1c5e41299&chksm=ce45b62bf9323f3d7afe649550cc8de62898933a1271f3edab09a3962e765550111288164059#rd)&nbsp;&nbsp;[📖](/data/articles/29cb04efcb479f63ba587585551db741/page.md)  
 - [2026-02-20-为什么没人走后门干程序员？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508921&idx=1&sn=d0282c77ef51ebbcc38155f6a5f41870&chksm=ce45b628f9323f3e60d27627ed49fa4cc2c398334abeb2418893daab5480013bc87cd33b7b22#rd)&nbsp;&nbsp;[📖](/data/articles/153e49ff5da80334b7d147e1f8892c09/page.md)  
+- [2026-02-19-前百度员工自爆：自己是个gay，34岁了，过年回家被亲戚逼着相亲，好烦。工作压力大，买房亏了至少150万。大龄未婚gay](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508919&idx=1&sn=4ff663f7276d2af43be5a7fd5aea47a7&chksm=ce45b626f9323f30631ba7dbe455b325dbeacc08ec13b2368ab7e4b0e46fae0f2965652d0a70#rd)&nbsp;&nbsp;[📖](/data/articles/e45e3a39622533ddd82b82912d0a69ac/page.md)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
