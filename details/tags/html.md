@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-04 09:02:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 11:58:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -146,6 +146,7 @@
 - [2022-04-21-如何使用-JS-实现一个-HTML-解析器](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495537&idx=1&sn=c8d0ef67964f583317add7d1cf4501e3&chksm=ec47a4b2db302da408aa046fd978a4bb008e5704836aaf729d45f1075478401a8a1d99022e81#rd) 
 - [2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution) 
 - [2017-07-27-GCanvas-渲染引擎介绍](https://fed.taobao.org/blog/2017/07/27/gcanvas/) 
+- [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/) 
 - [2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/)&nbsp;&nbsp;[📖](/data/articles/2c63b867d52198ef8e741fd99c850558/page.md) 
 - [2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/) 
 - [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/) 
