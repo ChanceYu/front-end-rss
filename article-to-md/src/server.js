@@ -3,12 +3,11 @@ import { Hono } from 'hono'
 import { cors } from 'hono/cors'
 import fs from 'fs-extra'
 const { existsSync, removeSync, readJsonSync, outputJsonSync } = fs
-import { spawnSync } from 'node:child_process'
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
 
 import once from './once.js'
-import { urlToMd5, withProcessedUpdate } from './utils.js'
+import { urlToMd5, withProcessedUpdate, regenerateSiteFiles, regenerateWritemd } from './utils.js'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const ARTICLES_DIR = join(__dirname, '..', '..', 'data', 'articles')
@@ -17,60 +16,6 @@ const RSS_PATH = join(__dirname, '..', '..', 'data', 'rss.json')
 const PROJECT_ROOT = join(__dirname, '..', '..')
 
 const PORT = 8081
-
-/**
- * Regenerate site dist/data JSON files (articles, indexes, etc.) by running createFiles.
- * @returns {{ ok: boolean, stdout?: string, error?: string }}
- */
-function regenerateSiteFiles() {
-  try {
-    const proc = spawnSync('node', ['-e', "require('./site/build/createFiles.js')()"], {
-      cwd: PROJECT_ROOT,
-      encoding: 'utf-8',
-      stdio: ['ignore', 'pipe', 'pipe'],
-    })
-    if (proc.status === 0) {
-      console.log(`[server] Regenerated dist/data JSON files`)
-      return { ok: true, stdout: proc.stdout?.trim() }
-    }
-    const err = proc.stderr?.trim() || `exit ${proc.status}`
-    console.warn(`[server] createFiles failed: ${err}`)
-    return { ok: false, error: err }
-  } catch (err) {
-    console.warn(`[server] regenerateSiteFiles: ${err.message}`)
-    return { ok: false, error: err.message }
-  }
-}
-
-/**
- * Regenerate README.md, TAGS.md, details/*.md by running server/writemd with current links.json.
- * @returns {{ ok: boolean, error?: string }}
- */
-function regenerateWritemd() {
-  const script = `
-    const linksJson = require('./data/links.json');
-    const writemd = require('./server/writemd');
-    const newData = { length: 0, titles: [], rss: {}, links: {}, articles: [] };
-    writemd(newData, linksJson).then(() => process.exit(0)).catch((e) => { console.error(e); process.exit(1); });
-  `
-  try {
-    const proc = spawnSync('node', ['-e', script], {
-      cwd: PROJECT_ROOT,
-      encoding: 'utf-8',
-      stdio: ['ignore', 'pipe', 'pipe'],
-    })
-    if (proc.status === 0) {
-      console.log(`[server] Regenerated README/TAGS/details (writemd)`)
-      return { ok: true }
-    }
-    const err = proc.stderr?.trim() || proc.stdout?.trim() || `exit ${proc.status}`
-    console.warn(`[server] writemd failed: ${err}`)
-    return { ok: false, error: err }
-  } catch (err) {
-    console.warn(`[server] regenerateWritemd: ${err.message}`)
-    return { ok: false, error: err.message }
-  }
-}
 
 const app = new Hono()
 

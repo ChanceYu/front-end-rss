@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url'
 import fs from 'fs-extra'
 const { existsSync, readJsonSync } = fs
 import { processArticle } from './processor.js'
+import { regenerateWritemd } from './utils.js'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
@@ -26,6 +27,21 @@ if (process.argv[1].endsWith('once.js')) {
         console.error(`[once] Failed: ${article.title} — ${err.message}`)
       }
     }
+    let newData = {
+      length: 0,
+      titles: [],
+      rss: {},
+      links: {},
+      articles: []
+    }
+    articles.forEach((curr) => {
+      newData.length++
+      newData.rss[curr.rssTitle] = true
+      newData.links[curr.link] = true
+      newData.titles.push(curr.title)
+      newData.articles.push({ ...curr })
+    })
+    regenerateWritemd(newData)
     console.log('[once] Done')
   } else {
     console.log('[once] No new-articles.json found, skipping')

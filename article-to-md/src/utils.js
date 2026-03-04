@@ -1,11 +1,13 @@
 import { createHash } from 'node:crypto'
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
+import { spawnSync } from 'node:child_process'
 import fs from 'fs-extra'
 const { existsSync, readJsonSync, outputJsonSync } = fs
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const PROCESSED_PATH = join(__dirname, '..', '..', 'data', 'articles', 'processed.json')
+const PROJECT_ROOT = join(__dirname, '..', '..')
 
 /**
  * Convert a URL string to its MD5 hex digest
@@ -53,4 +55,58 @@ export function withProcessedUpdate(update) {
   })
   processedLock = next.catch(() => {})
   return next
+}
+
+/**
+ * Regenerate site dist/data JSON files (articles, indexes, etc.) by running createFiles.
+ * @returns {{ ok: boolean, stdout?: string, error?: string }}
+ */
+export function regenerateSiteFiles() {
+  try {
+    const proc = spawnSync('node', ['-e', "require('./site/build/createFiles.js')()"], {
+      cwd: PROJECT_ROOT,
+      encoding: 'utf-8',
+      stdio: ['ignore', 'pipe', 'pipe'],
+    })
+    if (proc.status === 0) {
+      console.log(`[server] Regenerated dist/data JSON files`)
+      return { ok: true, stdout: proc.stdout?.trim() }
+    }
+    const err = proc.stderr?.trim() || `exit ${proc.status}`
+    console.warn(`[server] createFiles failed: ${err}`)
+    return { ok: false, error: err }
+  } catch (err) {
+    console.warn(`[server] regenerateSiteFiles: ${err.message}`)
+    return { ok: false, error: err.message }
+  }
+}
+
+/**
+ * Regenerate README.md, TAGS.md, details/*.md by running server/writemd with current links.json.
+ * @returns {{ ok: boolean, error?: string }}
+ */
+export function regenerateWritemd(newData = { length: 0, titles: [], rss: {}, links: {}, articles: [] }) {
+  const script = `
+    const linksJson = require('./data/links.json');
+    const writemd = require('./server/writemd');
+    const newData = ${JSON.stringify(newData)};
+    writemd(newData, linksJson).then(() => process.exit(0)).catch((e) => { console.error(e); process.exit(1); });
+  `
+  try {
+    const proc = spawnSync('node', ['-e', script], {
+      cwd: PROJECT_ROOT,
+      encoding: 'utf-8',
+      stdio: ['ignore', 'pipe', 'pipe'],
+    })
+    if (proc.status === 0) {
+      console.log(`[server] Regenerated README/TAGS/details (writemd)`)
+      return { ok: true }
+    }
+    const err = proc.stderr?.trim() || proc.stdout?.trim() || `exit ${proc.status}`
+    console.warn(`[server] writemd failed: ${err}`)
+    return { ok: false, error: err }
+  } catch (err) {
+    console.warn(`[server] regenerateWritemd: ${err.message}`)
+    return { ok: false, error: err.message }
+  }
 }
