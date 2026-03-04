@@ -13,6 +13,7 @@ const RESP_PATH              = path.join(__dirname, '../')
 const RSS_PATH               = path.join(RESP_PATH + '/data/rss.json')
 const LINKS_PATH             = path.join(RESP_PATH + '/data/links.json')
 const TAGS_PATH              = path.join(RESP_PATH + '/data/tags.json')
+const DELETED_PATH           = path.join(RESP_PATH + '/data/deleted.json')
 const FEED_PATH              = path.join(RESP_PATH + '/data/atom.xml')
 const README_PATH            = path.join(RESP_PATH + '/README.md')
 const README_TEMPLATE_PATH   = path.join(RESP_PATH + '/templates/README.md')
@@ -40,6 +41,7 @@ module.exports = {
     RSS_PATH,
     LINKS_PATH,
     TAGS_PATH,
+    DELETED_PATH,
     FEED_PATH,
     README_PATH,
     README_TEMPLATE_PATH,

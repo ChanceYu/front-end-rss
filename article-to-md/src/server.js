@@ -13,6 +13,7 @@ const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const ARTICLES_DIR = join(__dirname, '..', '..', 'data', 'articles')
 const LINKS_PATH = join(__dirname, '..', '..', 'data', 'links.json')
 const RSS_PATH = join(__dirname, '..', '..', 'data', 'rss.json')
+const DELETED_PATH = join(__dirname, '..', '..', 'data', 'deleted.json')
 const PROJECT_ROOT = join(__dirname, '..', '..')
 
 const PORT = 8081
@@ -77,6 +78,20 @@ app.post('/article-to-md/remove', async (c) => {
     }
   } catch (err) {
     console.warn(`[server] Failed to update links.json: ${err.message}`)
+  }
+
+  // 4. Append deleted URL to data/deleted.json
+  if (removedFromLinks) {
+    try {
+      const deleted = existsSync(DELETED_PATH) ? readJsonSync(DELETED_PATH) : []
+      if (Array.isArray(deleted) && !deleted.includes(link)) {
+        deleted.push(link)
+        outputJsonSync(DELETED_PATH, deleted)
+        console.log(`[server] Appended to deleted.json`)
+      }
+    } catch (err) {
+      console.warn(`[server] Failed to update deleted.json: ${err.message}`)
+    }
   }
 
   let distRegenerated = false

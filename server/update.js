@@ -12,6 +12,7 @@ const fetch = require('./fetch')
 const {
   RESP_PATH,
   RSS_PATH,
+  DELETED_PATH,
   LINKS_PATH,
 } = utils.PATH
 
@@ -50,8 +51,9 @@ function isDateInLast7Days(dateStr) {
   return !d.isBefore(daysAgo)
 }
 
-/** 一次遍历判断 curr 是否应视为重复：同标题且（已有条目标题在七天内 或 当前标题长度>30） */
-function isDuplicateOfExisting(curr, allExistingItems) {
+/** 一次遍历判断 curr 是否应视为重复：同标题且（已有条目标题在七天内 或 当前标题长度>30），或 link 在已删除列表 deleted.json 中 */
+function isDuplicateOfExisting(curr, allExistingItems, deletedUrls) {
+  if (deletedUrls && deletedUrls.has(curr.link)) return true
   return allExistingItems.some((el) =>
     el.title === curr.title &&
     (isDateInLast7Days(el.date) || curr.title.length > 30)
@@ -74,6 +76,13 @@ function handleFeed() {
   }
 
   const allExistingItems = (linksExist || []).flatMap((el) => el.items || [])
+  let deletedUrls = new Set()
+  try {
+    if (fs.pathExistsSync(DELETED_PATH)) {
+      const list = fs.readJsonSync(DELETED_PATH)
+      if (Array.isArray(list)) list.forEach((url) => deletedUrls.add(url))
+    }
+  } catch (e) {}
 
   const tasks = rssJson.map((rssItem, rssIndex) => ((callback) => {
     ((async () => {
@@ -84,7 +93,7 @@ function handleFeed() {
         if (exist) {
           return prev
         }
-        if (isDuplicateOfExisting(curr, allExistingItems)) {
+        if (isDuplicateOfExisting(curr, allExistingItems, deletedUrls)) {
           return prev
         }
         let date = utils.getNowDate('YYYY-MM-DD')
