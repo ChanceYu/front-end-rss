@@ -61,6 +61,20 @@
     <div class="main">
       <div class="container">
         <div class="fixed-box">
+          <van-popover
+            v-if="toMarkdown"
+            v-model="showConvertPopover"
+            trigger="click"
+            placement="right"
+            :actions="convertPopoverActions"
+            @select="onSelectConvert"
+          >
+            <template #reference>
+              <div class="action-top action-convert" title="批量转换">
+                <van-icon name="exchange" />
+              </div>
+            </template>
+          </van-popover>
           <a class="action-feed" href="/atom.xml" title="Feed 订阅"></a>
           <a class="action-github" href="https://github.com/ChanceYu/front-end-rss" title="GitHub"></a>
           <div class="action-top" @click="toTop" title="返回顶部"><van-icon name="arrow-up" /></div>
@@ -101,6 +115,7 @@
           :href="processedArticles[item.link] ? 'javascript:;' : item.link"
           :target="processedArticles[item.link] ? '_self' : '_blank'"
           class="item-link"
+          :class="{ 'item-link--loading': convertingLinks[item.link] || deletingLinks[item.link] }"
           @click="processedArticles[item.link] && openMdPopup(item)"
         >
           <van-cell>
@@ -120,15 +135,15 @@
                   :class="{ 'is-convertible': toMarkdown }"
                   @click="handleConvertClick($event, item)"
                 >
-                  <van-icon v-if="convertingLinks[item.link]" name="replay" class="item-right-loading" />
-                  <template v-else>
-                    <van-icon :name="processedArticles[item.link] ? 'label-o' : 'arrow'" class="item-right-default" />
-                    <van-icon name="exchange" class="item-right-hover" />
-                  </template>
+                  <van-icon :name="processedArticles[item.link] ? 'label-o' : 'arrow'" class="item-right-default" />
+                  <van-icon name="exchange" class="item-right-hover" />
                 </div>
               </div>
             </template>
           </van-cell>
+          <div v-if="convertingLinks[item.link] || deletingLinks[item.link]" class="item-link__loading">
+            <van-loading size="24px" color="#1a89fa">处理中...</van-loading>
+          </div>
         </a>
 
         <van-loading v-if="results.length && !isBusy && isLoad">加载中...</van-loading>
@@ -222,14 +237,22 @@ export default {
       // TO_MARKDOWN 模式
       toMarkdown: process.env.TO_MARKDOWN === 'true',
       convertingLinks: {},
+      deletingLinks: {},
       currentMdRefreshKey: 0,
       currentMdItem: null,
-      currentMdTitle: ''
+      currentMdTitle: '',
+      showConvertPopover: false
     }
   },
   computed: {
     scrollDisabled () {
       return this.isBusy || this.showMdPopup
+    },
+    convertPopoverActions () {
+      return [
+        { text: '转换剩余' },
+        { text: '转换所有' }
+      ]
     }
   },
   watch: {
@@ -270,6 +293,7 @@ export default {
     },
 
     async removeArticle (item) {
+      this.$set(this.deletingLinks, item.link, true)
       try {
         const res = await fetch('http://localhost:8081/article-to-md/remove', {
           method: 'POST',
@@ -282,6 +306,8 @@ export default {
         this.handlerSearch(false)
       } catch (e) {
         console.error('[removeArticle] failed:', e)
+      } finally {
+        this.$delete(this.deletingLinks, item.link)
       }
     },
 
@@ -326,6 +352,25 @@ export default {
         console.error('[convertToMd] failed:', e)
       } finally {
         this.$delete(this.convertingLinks, item.link)
+      }
+    },
+
+    onSelectConvert (action, index) {
+      this.showConvertPopover = false
+      if (index === 0) this.convertRemaining()
+      else if (index === 1) this.convertAll()
+    },
+
+    async convertRemaining () {
+      const list = this.results.filter(item => !this.processedArticles[item.link])
+      for (const item of list) {
+        await this.convertToMd(item)
+      }
+    },
+
+    async convertAll () {
+      for (const item of this.results) {
+        await this.convertToMd(item)
       }
     },
 
@@ -805,7 +850,8 @@ export default {
     gap: .5rem
 }
 
-.fixed-box .action-feed,.fixed-box .action-github,.fixed-box .action-top {
+.fixed-box .action-feed,.fixed-box .action-github,.fixed-box .action-top,
+.fixed-box .action-convert {
     width: 2.25rem;
     height: 2.25rem;
     line-height: 2.25rem;
@@ -820,7 +866,8 @@ export default {
     transition: all 0.2s
 }
 
-.fixed-box .action-feed:hover,.fixed-box .action-github:hover,.fixed-box .action-top:hover {
+.fixed-box .action-feed:hover,.fixed-box .action-github:hover,.fixed-box .action-top:hover,
+.fixed-box .action-convert:hover {
     background-color: #f1f5f9;
     box-shadow: 0 4px 12px rgba(0,0,0,.12);
     transform: translateY(-2px)
@@ -1143,13 +1190,28 @@ export default {
     cursor: pointer;
 }
 
-.result-box .item-right-loading {
-    animation: item-spin .8s linear infinite;
+.result-box .item-link {
+    position: relative;
+    display: block;
 }
 
-@keyframes item-spin {
-    from { transform: rotate(0deg); }
-    to   { transform: rotate(360deg); }
+.result-box .item-link--loading .item-link__loading {
+    display: flex;
+}
+
+.result-box .item-link__loading {
+    display: none;
+    position: absolute;
+    inset: 0;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255,255,255,.85);
+    border-radius: 8px;
+}
+
+.result-box .item-link__loading .van-loading {
+    margin: 0;
 }
 
 .result-box .item-right-hover {

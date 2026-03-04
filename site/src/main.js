@@ -6,6 +6,7 @@ import {
   Search,
   Icon,
   Popup,
+  Popover,
   Cell,
   CellGroup,
   Tag,
@@ -33,6 +34,7 @@ Vue
   .use(Search)
   .use(Icon)
   .use(Popup)
+  .use(Popover)
   .use(Cell)
   .use(CellGroup)
   .use(Tag)
