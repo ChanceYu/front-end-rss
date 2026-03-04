@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-04T03:58:17.531Z</updated>
+    <updated>2026-03-04T05:05:50.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[HTML interestfor属性与悬停popover交互效果]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/"/>
+        <updated>2026-03-04T00:00:00.000Z</updated>
+        <published>2026-03-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3662期】快速上手 Claude 技能：从零到可用]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278648&amp;idx=1&amp;sn=89ff449c4a6d350a18230459234e46f3&amp;chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278648&amp;idx=1&amp;sn=89ff449c4a6d350a18230459234e46f3&amp;chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&amp;scene=0#rd"/>
         <updated>2026-03-04T00:00:00.000Z</updated>
         <published>2026-03-04T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【AI Coding】借助cursor实现业务需求全栈交付实践]]></title>
         <id>http://mp.weixin.qq.com/s/wf3l4ngPTENl7rk88piRLg</id>
         <link href="http://mp.weixin.qq.com/s/wf3l4ngPTENl7rk88piRLg"/>
-        <updated>2026-02-06T00:00:00.000Z</updated>
-        <published>2026-02-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于 AI 生成高质量 Mock 数据的实践]]></title>
-        <id>http://mp.weixin.qq.com/s/ASg4d4P9tneHQRKgodq9BA</id>
-        <link href="http://mp.weixin.qq.com/s/ASg4d4P9tneHQRKgodq9BA"/>
         <updated>2026-02-06T00:00:00.000Z</updated>
         <published>2026-02-06T00:00:00.000Z</published>
     </entry>
