@@ -20,13 +20,16 @@ rm(path.join(config.build.assetsRoot, config.build.assetsSubDirectory), err => {
   webpack(webpackConfig, (err, stats) => {
     spinner.stop()
     if (err) throw err
-    process.stdout.write(stats.toString({
+    let output = stats.toString({
       colors: true,
       modules: false,
       children: false, // If you are using ts-loader, setting this to true will make TypeScript errors show up during build.
       chunks: false,
       chunkModules: false
-    }) + '\n\n')
+    }) + '\n\n'
+    // 不输出 data/articles/ 目录下文件的打包日志，减少刷屏
+    output = output.split('\n').filter(line => !line.includes('data/articles/')).join('\n')
+    process.stdout.write(output)
 
     if (stats.hasErrors()) {
       console.log(chalk.red('  Build failed with errors.\n'))
