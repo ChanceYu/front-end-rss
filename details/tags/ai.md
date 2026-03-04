@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-04 13:05:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 14:33:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -20,7 +20,7 @@
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654) 
 - [2022-05-27-Airbnb's-uncommon-route-to-faster-JS-builds](https://javascriptweekly.com/issues/591) 
 - [2022-05-06-A-2022-take-on-TodoMVC-in-plain-JS](https://javascriptweekly.com/issues/588) 
-- [2026-03-04-【第3662期】快速上手-Claude-技能：从零到可用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278648&idx=1&sn=89ff449c4a6d350a18230459234e46f3&chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&scene=0#rd) 
+- [2026-03-04-【第3662期】快速上手-Claude-技能：从零到可用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278648&idx=1&sn=89ff449c4a6d350a18230459234e46f3&chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/4e6480eda7804b0c40b49a2d14d7c896/page.md) 
 - [2026-02-27-【早阅】一周重写-Next.js：AI-如何造出更快更小的-vinext？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278624&idx=1&sn=80be0485ee26431b040c99831ee892e0&chksm=bcf95c28d991f67474cce195039d75a5241bd6533bab509e5656b4773967b30e5986571d1f5c&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/388eb338223f9ea29479fef775b411b5/page.md) 
 - [2026-02-26-【第3658期】从终端到工作空间：MCP-Apps-如何把-UI-带回-Agent-中心](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278618&idx=1&sn=fcdaf49c28f016098071d4e9eeb04b54&chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/ba3aa1b6506f33c222b91c57a4a8766d/page.md) 
 - [2026-02-25-【第3657期】Visual-Agentic-Dev：让前端开发工程师告别繁琐的代码修改流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278606&idx=1&sn=f1ef8cbb6ce6ecd37d06843f7799ae4b&chksm=bc95f3cd4ca1b7276db8fb4d258f47cd2574e070b9f2c6ff4df21ce5e8d208a13acb0dc0c3c1&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/892485f5dad06929ddf848563c631bbd/page.md) 
@@ -190,10 +190,10 @@
 - [2018-11-27-【第1459期】await-VS-return-VS-return-await](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230547&idx=1&sn=d6d47f921962f87649785835b1bd82f1#wechat_redirect) 
 - [2018-10-10-【第1411期】Airbnb-爱彼迎房源详情页中的-React-性能优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230032&idx=1&sn=29adcf0c2a314d6c931e96efd9e193d8#wechat_redirect) 
 - [2018-09-25-【招聘】上海Airwallex（空中云汇）招初、中、高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=2&sn=3a175e3048758343f7c98daaefcc3c4f#wechat_redirect) 
-- [2026-02-04-谷歌Chrome觉醒！Gemini-3全面接管，38亿用户一夜进入Agent时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd)&nbsp;&nbsp;[📖](/data/articles/f19826c344ddc5ca5a2cb79a257b9438/page.md) 
 - [2026-02-04-AI-Skills-正在重构前端开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=1&sn=13babe9ddebc8bead1645f6c0848cc30&chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd)&nbsp;&nbsp;[📖](/data/articles/e90ff5657c94152b1b2da111ec6f318f/page.md) 
-- [2026-02-03-别再像新手一样使用-Tailwind-了！](http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg)&nbsp;&nbsp;[📖](/data/articles/cc69335def1cc26842d22bd7841ebf3e/page.md) 
+- [2026-02-04-谷歌Chrome觉醒！Gemini-3全面接管，38亿用户一夜进入Agent时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd)&nbsp;&nbsp;[📖](/data/articles/f19826c344ddc5ca5a2cb79a257b9438/page.md) 
 - [2026-02-03-底裤被扒！Moltbook-150-万-AI-用户几乎全是水军。网友：人骗人全是自导自演](http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw)&nbsp;&nbsp;[📖](/data/articles/22325a02fe304dae680115d07a1a5ade/page.md) 
+- [2026-02-03-别再像新手一样使用-Tailwind-了！](http://mp.weixin.qq.com/s/Z0iy-a_9B1gX0SvNWWRdfg)&nbsp;&nbsp;[📖](/data/articles/cc69335def1cc26842d22bd7841ebf3e/page.md) 
 - [2026-02-02-50万行代码不敢交给AI？TypeScript之父直言：它就像是个“高级复读机”](http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA)&nbsp;&nbsp;[📖](/data/articles/a29487b52e38e2014929b92421248795/page.md) 
 - [2026-01-30-一行Rust没写过！仅1个月，他用Claude迁移了10万行JavaScript代码](http://mp.weixin.qq.com/s/lKe3M8oU0G64qMd4w5JBhA)&nbsp;&nbsp;[📖](/data/articles/779b71362a8217d4e1a1a6ce4e1d9705/page.md) 
 - [2026-01-27-7×24h「全职AI员工」爆火硅谷！](http://mp.weixin.qq.com/s/pcnWR8C--3YQylA0HNbLZw)&nbsp;&nbsp;[📖](/data/articles/04d3c9b19b3175a3c55ffdd1d89047d0/page.md) 
@@ -225,8 +225,8 @@
 - [2025-05-07-谷歌突发大招刷爆AI编程榜！网友：不用买Cursor了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=1&sn=fe606078a3515cf7f9c73bdeee2b1677&chksm=80225bfcb755d2ea9a94d486f47ed5cb6728f406bf3378be7ca21ff14ed05d3d765dda981113#rd) 
 - [2025-04-23-突发！谷歌被逼卖身，OpenAI趁机收购Chrome？十亿搜索市场大洗牌](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622428&idx=1&sn=76a2b7d4dd1f62f76b8424e3e5441f24&chksm=80225bddb755d2cb0787f12151c7d2ef152ed3d30ebd7e0a75e2e5ce67710dc74a21755837b9#rd) 
 - [2025-04-16-Tailwind-CSS都更新到4.0了，你还在抵触吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622335&idx=1&sn=ed09e644611e54666fd5f928414eb361&chksm=80225c7eb755d568c68460b1effe7164db3278a652294f66358ab6665820cbb6c297c3301908#rd) 
-- [2025-03-03-不会吧，2025年了，还没有用cursor](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622049&idx=1&sn=141e65186969edbfda349fde65cb7ee3&chksm=80225d60b755d4760a8a7672675d01802eda9547d78748f221e3a8bf22016a7da33e9bc16a78#rd) 
 - [2025-03-03-厦大出品：看懂-DeepSeek-依托的大模型技术（PDF可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622049&idx=2&sn=0a4d269cc26e8447947e27fbf90adf1e&chksm=80225d60b755d476603ef87713c20c7f859ed8326689263b18107b23e323b90c9b5bc28e9f55#rd) 
+- [2025-03-03-不会吧，2025年了，还没有用cursor](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622049&idx=1&sn=141e65186969edbfda349fde65cb7ee3&chksm=80225d60b755d4760a8a7672675d01802eda9547d78748f221e3a8bf22016a7da33e9bc16a78#rd) 
 - [2025-02-21-AI-正在培养一代-“文盲程序员”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621958&idx=1&sn=f35079066e26595f72eced0d7bed551c&chksm=80225d87b755d491dfd1ad08be43421a5b85151915d4e7d11e9b2f273314a09076e8aaf1e51c#rd) 
 - [2024-11-18-太荒谬了！千人公司一刀切禁用-JetBrains，非俄籍“备胎”-VSCode-上位](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621595&idx=1&sn=0f3171d5169cc0ff38bc61f720e1d040&chksm=80225f1ab755d60cfdb32b7e1714a23674a3e97d8b3ebfbbdc97a82d5d8e09dd171e5a56bde8#rd) 
 - [2023-10-26-你不知道的-async、await-魔鬼细节](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617178&idx=2&sn=5c284083b9422626d623327d5cdd85e1&chksm=8022a05bb755294d6f9bda416911e8c5c75b4f8f838ff94b121f7ab0c4aa462ff35d92bb3fa9#rd) 
