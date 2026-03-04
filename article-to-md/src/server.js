@@ -51,7 +51,6 @@ function regenerateWritemd() {
     const linksJson = require('./data/links.json');
     const writemd = require('./server/writemd');
     const newData = { length: 0, titles: [], rss: {}, links: {}, articles: [] };
-    linksJson.forEach((s) => { newData.rss[s.title] = true; });
     writemd(newData, linksJson).then(() => process.exit(0)).catch((e) => { console.error(e); process.exit(1); });
   `
   try {
