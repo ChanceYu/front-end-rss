@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-04 23:02:51，:rocket: 更新条数: +0， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 23:06:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -87,6 +87,7 @@
 </summary>
 
 
+- [2026-03-04-【第3662期】快速上手-Claude-技能：从零到可用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278648&idx=1&sn=89ff449c4a6d350a18230459234e46f3&chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/4e6480eda7804b0c40b49a2d14d7c896/page.md)  ![](/assets/new.png) 
 - [2026-03-03-【第3661期】不用-JS-也能精准定位？CSS-Anchor-Positioning-实战解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278643&idx=1&sn=7161d1df5a6028408bd1968b3c91308c&chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/61471213fef239bbf0b4a395bf72e4d8/page.md)  
 - [2026-03-02-【第3660期】别再为覆盖率而写测试：真正可靠的单元测试应该这样做](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278637&idx=1&sn=f6788ebf5585eda0b718b2f724366fac&chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/8977cdbcb164fa6d3b6d78afa7332578/page.md)  
 - [2026-02-28-【第3659期】JavaScript-显式资源管理来了：用-using-告别手写-try/finally](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278629&idx=1&sn=b51bc320fefe9c3d3d6f715b1d6626bf&chksm=bcbd70cf21bc4ea4594b976fdf87464337c1c959619a4d9171bfd48615c7bc7d590804d6a601&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/50ce3fc755c423f51c04920af0669621/page.md)  
@@ -96,7 +97,6 @@
 - [2026-02-24-【第3656期】深入理解-React-的-useEffectEvent：彻底告别闭包陷阱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278602&idx=1&sn=a51d047d864a2178ae921057e3c6073a&chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/e2896530dc5e769ad2d7c41b340ebe06/page.md)  
 - [2026-02-06-【第3655期】浏览器即运行时：一个零后端-AI-应用的前端架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278596&idx=1&sn=dea55dba00065e03f83445a08be9f33e&chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/c7e51c1463946c6de508c85ab31d766d/page.md)  
 - [2026-02-05-【第3654期】不再重置！在-React-/-Next.js-中实现跨页面“持续进化”的动画效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278586&idx=1&sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/e8a73a87b97a7c296716fbbe85ae2456/page.md)  
-- [2026-02-04-【早阅】Agent-Trace：给-AI-写的代码留下一条“来龙去脉”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278580&idx=1&sn=a403b60c4548ca106722bb492ed6f504&chksm=bc4466a6eee1321819c1f83cb706680a89d694d04d63131c48266839ff096964e8b396ddbb96&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/080ca8e5c05be49e484145b26ef567f4/page.md)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
