@@ -14,30 +14,28 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-04 20:30:40，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 22:22:38，:rocket: 更新条数: +0， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)![](/assets/dot.png)   
-- [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
-- [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)  
-- [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
-- [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)  
+- [前端技术优选](#前端技术优选)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [iCSS前端趣闻](#icss前端趣闻)![](/assets/dot.png)   
+- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
+- [前端精读评论](#前端精读评论)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -111,7 +109,6 @@
 
 
 - [2026-02-26-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624085&idx=1&sn=0f1bbccd402eab8124a871c111231efb&chksm=80224554b755cc429f019d495ee77fc2c617cddc85b56c63fdfdcd7f933c5049c76f74362d5c#rd)&nbsp;&nbsp;[📖](/data/articles/d0a7566732a1cdcbc17a45a2429a2f5b/page.md)  
-- [2026-02-10-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624071&idx=1&sn=6bd3ec5a79da559646dd1622067c4a7d&chksm=80224546b755cc50ca0166514d46e5106802f8b0c9ca9a26033e00b03ee7d068f8a457359af4#rd) ![](/assets/new.png) 
 - [2026-02-05-20-年-IT-老兵转行“收废品”！200+-场面试无果](http://mp.weixin.qq.com/s/oj2b_Sx2XVYOc4jC-gvpPA)&nbsp;&nbsp;[📖](/data/articles/f35cff54a0394aa180fdb78209682f87/page.md)  
 - [2026-02-04-谷歌Chrome觉醒！Gemini-3全面接管，38亿用户一夜进入Agent时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd)&nbsp;&nbsp;[📖](/data/articles/f19826c344ddc5ca5a2cb79a257b9438/page.md)  
 - [2026-02-04-AI-Skills-正在重构前端开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=1&sn=13babe9ddebc8bead1645f6c0848cc30&chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd)&nbsp;&nbsp;[📖](/data/articles/e90ff5657c94152b1b2da111ec6f318f/page.md)  
@@ -120,6 +117,7 @@
 - [2026-02-02-50万行代码不敢交给AI？TypeScript之父直言：它就像是个“高级复读机”](http://mp.weixin.qq.com/s/wkOTDVd0x4RSfkrw_9ldiA)&nbsp;&nbsp;[📖](/data/articles/a29487b52e38e2014929b92421248795/page.md)  
 - [2026-02-02-上线72小时，150万Clawdbot密谋建国！一气之下，还把人类告上法庭](http://mp.weixin.qq.com/s/SnVS8dCFYZsdDXG6GLgUnw)&nbsp;&nbsp;[📖](/data/articles/f254b0cba9d0fff093825c414ed39e2a/page.md)  
 - [2026-01-30-一行Rust没写过！仅1个月，他用Claude迁移了10万行JavaScript代码](http://mp.weixin.qq.com/s/lKe3M8oU0G64qMd4w5JBhA)&nbsp;&nbsp;[📖](/data/articles/779b71362a8217d4e1a1a6ce4e1d9705/page.md)  
+- [2026-01-27-7×24h「全职AI员工」爆火硅谷！](http://mp.weixin.qq.com/s/pcnWR8C--3YQylA0HNbLZw)&nbsp;&nbsp;[📖](/data/articles/04d3c9b19b3175a3c55ffdd1d89047d0/page.md)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -154,14 +152,14 @@
 
 - [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)&nbsp;&nbsp;[📖](/data/articles/0af49c4bc19f7a84f6803f82691cd538/page.md)  
 - [2026-02-25-身为全栈工程师，这一神器让我开发效率翻倍！](http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg)&nbsp;&nbsp;[📖](/data/articles/1f9d266fbac584725af5b9576ee65be2/page.md)  
-- [2026-02-25-开工第一天，提离职了](http://mp.weixin.qq.com/s/BwLDC1CPdemvw9QLy3MSTA) ![](/assets/new.png) 
 - [2026-02-24-尤雨溪坦言：我确实不懂Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508955&idx=1&sn=a713dd86a5239421c4611930e631fae7&chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd)&nbsp;&nbsp;[📖](/data/articles/f184ba63d44003c23cee3ae9b99859cd/page.md)  
 - [2026-02-24-公司快不行的几个前兆](http://mp.weixin.qq.com/s/_HFUlVZ9Fj0uEaChjz7Thg)&nbsp;&nbsp;[📖](/data/articles/a6e9de212ba944c80ab20b940a03b52a/page.md)  
-- [2026-02-24-中软国际“降薪风波”：重新定义13薪，12个月工资拆成13份，剩下一份明年3月看绩效发](http://mp.weixin.qq.com/s/nSpdP9urqwBreZmXdXbvmg) ![](/assets/new.png) 
 - [2026-02-23-Vue3-新语法！无虚拟DOM-再次进化，效率大提升！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508936&idx=1&sn=49e9483e2f9b438ddf5d7108e94212c0&chksm=ce45b659f9323f4f60a8c0687df51da6df62a38176a1d0aaba3a3b031546e10ce11584b198fe#rd)&nbsp;&nbsp;[📖](/data/articles/4c0bddee050dd9d32231c1434675b9a7/page.md)  
 - [2026-02-22-Electron-淘汰！新的桌面端框架-更强大、更轻量化](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508927&idx=1&sn=3d645054b3d90f2a399d51db3184bcca&chksm=ce45b62ef9323f38673855592159331d278e4208215eeb387653eb8070ef0e3000c60fcc61a1#rd)&nbsp;&nbsp;[📖](/data/articles/609fbcdf3dc5ab65c99f1ba5bd6d4765/page.md)  
 - [2026-02-21-如果人人都存到20万块钱，那这个社会就乱套了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508922&idx=1&sn=98e984731467162f181975f1c5e41299&chksm=ce45b62bf9323f3d7afe649550cc8de62898933a1271f3edab09a3962e765550111288164059#rd)&nbsp;&nbsp;[📖](/data/articles/29cb04efcb479f63ba587585551db741/page.md)  
 - [2026-02-20-为什么没人走后门干程序员？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508921&idx=1&sn=d0282c77ef51ebbcc38155f6a5f41870&chksm=ce45b628f9323f3e60d27627ed49fa4cc2c398334abeb2418893daab5480013bc87cd33b7b22#rd)&nbsp;&nbsp;[📖](/data/articles/153e49ff5da80334b7d147e1f8892c09/page.md)  
+- [2026-02-19-前百度员工自爆：自己是个gay，34岁了，过年回家被亲戚逼着相亲，好烦。工作压力大，买房亏了至少150万。大龄未婚gay](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508919&idx=1&sn=4ff663f7276d2af43be5a7fd5aea47a7&chksm=ce45b626f9323f30631ba7dbe455b325dbeacc08ec13b2368ab7e4b0e46fae0f2965652d0a70#rd)&nbsp;&nbsp;[📖](/data/articles/e45e3a39622533ddd82b82912d0a69ac/page.md)  
+- [2026-02-18-过年家庭局，程序员被问收入，他说年薪-45w，结果遭表哥怼“程序员嘛，年薪至少-50w，还有-35-岁限制，只有这几年能赚钱！”](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508913&idx=1&sn=0316709f91db200b9aa69132c4b383f1&chksm=ce45b620f9323f36b616946f9193e859e79ff37cd1267d75af39ce777c0e23f6571a10c98abd#rd)&nbsp;&nbsp;[📖](/data/articles/47e4e4fd21e2760e51268bf4b99883ad/page.md)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -273,27 +271,6 @@
 </details>
 
 <details open>
-<summary id="前端食堂">
- 前端食堂
-</summary>
-
-
-- [2025-11-28-马斯克导演人机大战，Grok5能赢Faker吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505470&idx=1&sn=4d7c33a66669eb883b6f04f468f848e2&chksm=c2b317c1f5c49ed7d2d04efb43c5c2eb9225e264760b6adefbd999539c051c9613633689af80#rd)&nbsp;&nbsp;[📖](/data/articles/c345f6e8cad66353fad14d749c0f3cf3/page.md)  
-- [2025-11-28-关于账号进行迁移的说明](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505471&idx=1&sn=9d45f41ec0149161639a32d746e6bed1&chksm=c2b317c0f5c49ed63de8458765929c004d0cf0d980f813a9d03731e83b1b8bab0f9150baadf7#rd)&nbsp;&nbsp;[📖](/data/articles/5f092043cb4d52da734c528a0296dddb/page.md)  
-- [2025-11-27-14款AI实测，文心凭啥是最强上班搭子？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505431&idx=1&sn=dde87500c8e2057766dddf74c0d1731d&chksm=c2b317e8f5c49efe6885217efae19fda9c89602a359e0cf08551cb6cf4e9bcf555bfc70efc25#rd)&nbsp;&nbsp;[📖](/data/articles/9e95f337eea5c1d33834caa1e1236fd3/page.md)  
-- [2025-11-26-Gemini-3屁股还没坐热，Claude-Opus-4.5就来骑脸了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505393&idx=1&sn=0023e1e26dca861f795457448b5a7c91&chksm=c2b3140ef5c49d1818fac3eb0d8a86be5c23fc5dc817d3947dd836a2b24213bd6009a7d63be3#rd)&nbsp;&nbsp;[📖](/data/articles/f4c29bf05dfc3fac81ad88c4f3e544c5/page.md)  
-- [2025-11-25-首个数字人智能体NuwaAI实测，一句话就能干活了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505368&idx=1&sn=91b83516d229b7dcd267a222d26b96d2&chksm=c2b31427f5c49d31d1dedb104a07dab857793e6649253ac4decacdc879ab13b898cb8b2d9138#rd)&nbsp;&nbsp;[📖](/data/articles/7a7df8636ba7f7e3e72ed16892c4a808/page.md)  
-- [2025-11-24-Nano-Banana-Pro的真正极限，藏在Lovart里](http://mp.weixin.qq.com/s/QbD1k_pWIE1aA-QzehucDg) 
-- [2025-11-23-乔布斯30年前的访谈刚公开，像一颗子弹击中了我](http://mp.weixin.qq.com/s/du8bg6N7I33j5Nk0X8p_Qw) 
-- [2025-11-21-连夜测完Nano-Banana-Pro，彻底睡不着了](http://mp.weixin.qq.com/s/iozUIJ9dNnIOUh36jkPsbg) 
-- [2025-11-21-NotebookLM上新Nano-Banana-Pro，PPT一键封神](http://mp.weixin.qq.com/s/DHeuhy3GgEKxhPO1AQubcg) 
-- [2025-11-19-Gemini-3比想象中凶狠太多了](http://mp.weixin.qq.com/s/9yiNJmOBtApM0to02vrkuA) 
-- [查看更多 >](/details/前端食堂.md)
-
-<div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
-</details>
-
-<details open>
 <summary id="前端从进阶到入院">
  前端从进阶到入院
 </summary>
@@ -394,27 +371,6 @@
 - [2026-01-22-AI-native-Workspace-也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html)&nbsp;&nbsp;[📖](/data/articles/98cb285d3f906d24de258484860e76af/page.md)  
 - [2026-01-16-科技爱好者周刊（第-381-期）：中国-AI-大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html)&nbsp;&nbsp;[📖](/data/articles/efc432d6df983d0bef925af6978f1704/page.md)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
-
-<div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="前端里">
- 前端里
-</summary>
-
-
-- [2024-09-11-screenshot-to-code-项目：截图生成代码](http://www.yyyweb.com/5622.html) 
-- [2024-08-17-豆包大模型：重塑对话式AI实时交互的未来](http://www.yyyweb.com/5614.html) 
-- [2024-08-11-Dify-–-开源大模型应用开发平台，太强了！](http://www.yyyweb.com/5613.html) 
-- [2024-06-10-利用-AnythingLLM-构建自己的私人-ChatGPT](http://www.yyyweb.com/5609.html) 
-- [2024-06-10-在自己电脑上，只需3步即可本地部署AI大模型](http://www.yyyweb.com/5604.html) 
-- [2024-06-01-ChatTTS-–-爆火！开源的生成式语音合成模型](http://www.yyyweb.com/5601.html) 
-- [2024-05-04-【收藏】最全的100款处理图片的-AI-工具合集](http://www.yyyweb.com/5599.html) 
-- [2024-03-17-Kimi-帮你看更大的世界！国产大模型测评](http://www.yyyweb.com/5587.html) 
-- [2024-03-01-【推荐收藏】5款很好用的免费PDF分割工具！](http://www.yyyweb.com/5595.html) 
-- [2024-02-17-效果炸裂！OpenAI-发布首个视频生成模型-Sora](http://www.yyyweb.com/5578.html) 
-- [查看更多 >](/details/前端里.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-04 20:30:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 22:22:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 桌面应用
 
@@ -122,10 +122,7 @@
 - [2022-08-23-electron-应用开发优秀实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510321&idx=2&sn=64f90a1c91d258d04a1c45b7825849ab&chksm=f992afe0cee526f69be6bcb2b5452106fcd1e41c72faee8fe76ced4f3bb4bebe2ace9571b713#rd) 
 - [2022-04-09-前端掌握这些-Linux-命令，够用了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505099&idx=1&sn=b95c9cbc36658f358f3dbeec79d8b9c2&chksm=f992d21acee55b0c1754adc6f854426aa0c28a2c55a5a799238c76d5950b6a25126e33a2b997#rd) 
 - [2022-01-04-基于-Node.js-实现的跨平台-Web-抓包调试工具-Whistle-原理分析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502396&idx=2&sn=a76475a2ec1cdd63cf6e261c61972e02&chksm=f992ccedcee545fb914bba1bc29c1ad5a65eae3ae84efa2c8521c303b3b57c36beaca04fc185#rd) 
-- [2025-02-10-Windows用户福音！免费跑联网满血版DeepSeek方案实测](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500814&idx=1&sn=8a84e9dcb5d344a951fda46789d2bc25&chksm=c2b305f1f5c48ce785f7681d7e4683f026ffe64028566c37c90c73198afb6ea2e5974c474b80#rd) 
 - [2025-09-22-尤雨溪：下一代-Vite！Windows-快-29%！Mac-快-45%！](http://mp.weixin.qq.com/s/dfJE-yVYdqaUI98HchPOqw) 
-- [2023-07-29-基于-Electron-+-Vue3-搭建一个桌面应用](http://www.yyyweb.com/5512.html) 
-- [2018-07-30-nativefier-–-让网页一键生成桌面应用程序](http://www.yyyweb.com/5117.html) 
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://jelly.jd.com/article/5edde472c27b86015c5016e0) 
 - [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://jelly.jd.com/article/6030a20b239b6e014a19fc07) 
 - [2016-07-05-feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://jelly.jd.com/article/6006b1045b6c6a01506c87ae) 

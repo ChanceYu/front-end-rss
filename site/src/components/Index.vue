@@ -44,13 +44,28 @@
       </van-cell-group>
       <van-cell-group title="文章来源">
         <div slot="title" class="title-box">文章来源</div>
-        <van-cell
+        <div
           v-for="(item, index) in rss"
           :key="index"
-          :title="item.title"
-          is-link
-          @click="handlerCate(item)"
-        />
+          class="source-item-wrap"
+          :class="{ 'source-item-wrap--loading': deletingSources[item.title] }"
+        >
+          <van-cell
+            :title="item.title"
+            :is-link="!editMode"
+            @click="handlerCate(item)"
+          >
+            <template v-if="editMode" slot="right-icon">
+              <div class="source-item-right">
+                <van-icon name="arrow" class="source-arrow" />
+                <van-icon name="delete-o" class="source-delete-btn" @click.prevent.stop="confirmRemoveSource(item)" />
+              </div>
+            </template>
+          </van-cell>
+          <div v-if="deletingSources[item.title]" class="source-item-wrap__loading">
+            <van-loading size="24px" color="#1a89fa" />
+          </div>
+        </div>
       </van-cell-group>
     </aside>
 
@@ -62,7 +77,7 @@
       <div class="container">
         <div class="fixed-box">
           <van-popover
-            v-if="toMarkdown"
+            v-if="editMode"
             v-model="showConvertPopover"
             trigger="click"
             placement="top"
@@ -125,14 +140,14 @@
             <template slot="right-icon">
               <div class="item-right-icons">
                 <van-icon
-                  v-if="toMarkdown"
+                  v-if="editMode"
                   name="delete-o"
                   class="item-delete-btn"
                   @click.prevent.stop="confirmRemove(item)"
                 />
                 <div
                   class="item-right-icon-wrap"
-                  :class="{ 'is-convertible': toMarkdown }"
+                  :class="{ 'is-convertible': editMode }"
                   @click="handleConvertClick($event, item)"
                 >
                   <van-icon :name="processedArticles[item.link] ? 'label-o' : 'arrow'" class="item-right-default" />
@@ -236,14 +251,15 @@ export default {
       showMdPopup: false,
       currentMdHash: '',
       currentMdLink: '',
-      // TO_MARKDOWN 模式
-      toMarkdown: process.env.TO_MARKDOWN === 'true',
+      // 编辑模式
+      editMode: process.env.EDIT_MODE === 'true',
       convertingLinks: {},
       deletingLinks: {},
       currentMdRefreshKey: 0,
       currentMdItem: null,
       currentMdTitle: '',
-      showConvertPopover: false
+      showConvertPopover: false,
+      deletingSources: {}
     }
   },
   computed: {
@@ -295,6 +311,28 @@ export default {
       this.removeArticle(item)
     },
 
+    confirmRemoveSource (item) {
+      if (!window.confirm(`确认删除该来源及其下所有已转换文章？\n\n来源：${item.title}`)) return
+      this.removeSource(item)
+    },
+
+    async removeSource (item) {
+      this.$set(this.deletingSources, item.title, true)
+      try {
+        const res = await fetch('http://localhost:8081/article-to-md/remove-source', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ title: item.title })
+        })
+        if (!res.ok) throw new Error('failed')
+        window.alert('删除成功，请重新启动编译')
+      } catch (e) {
+        console.error('[removeSource] failed:', e)
+      } finally {
+        this.$delete(this.deletingSources, item.title)
+      }
+    },
+
     async removeArticle (item) {
       this.$set(this.deletingLinks, item.link, true)
       try {
@@ -334,7 +372,7 @@ export default {
     },
 
     handleConvertClick (e, item) {
-      if (!this.toMarkdown) return
+      if (!this.editMode) return
       e.preventDefault()
       e.stopPropagation()
       this.convertToMd(item)
@@ -1191,6 +1229,64 @@ export default {
 
 .result-box .item-delete-btn:hover {
     color: #f43f5e;
+}
+
+/* 编辑模式：文章来源项 hover 显示删除、删除中整行 loading */
+.source-item-wrap {
+  position: relative;
+  display: block;
+}
+
+.source-item-wrap .source-item-right {
+  display: flex;
+  align-items: center;
+}
+
+.source-item-wrap .source-arrow {
+  font-size: 1rem;
+  color: #969799;
+}
+
+.source-item-wrap .source-delete-btn {
+  font-size: 1rem;
+  color: #969799;
+  cursor: pointer;
+  transition: color 0.15s;
+  display: none;
+}
+
+.source-item-wrap:hover .source-arrow {
+  display: none;
+}
+
+.source-item-wrap:hover .source-delete-btn {
+  display: inline-flex;
+}
+
+.source-item-wrap:hover .source-delete-btn:hover {
+  color: #f43f5e;
+}
+
+.source-item-wrap .source-delete-btn:hover {
+  color: #f43f5e;
+}
+
+.source-item-wrap--loading .source-item-wrap__loading {
+  display: flex;
+}
+
+.source-item-wrap__loading {
+  display: none;
+  position: absolute;
+  inset: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255,255,255,.85);
+}
+
+.source-item-wrap__loading .van-loading {
+  margin: 0;
 }
 
 .result-box .item-right-icon-wrap {

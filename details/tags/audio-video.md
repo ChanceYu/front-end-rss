@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-04 20:30:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 22:22:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频
 
@@ -183,14 +183,6 @@
 - [2023-07-19-WebAssembly-在-ACC-音频编码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=2&sn=81deda6a554ffe839d46d1e4f415faf2&chksm=cea967c0f9deeed6e30c279ab07574ab050bc48928fa44663191dff860090843edd78ed52ca8#rd) 
 - [2023-06-30-ByteFE-邀你观看稀土开发者大会直播啦-|-6月30日9:30](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503633&idx=1&sn=c61a8011b844a1fdb4988be047ecbdcf&chksm=cea97810f9def1065b3bdcf22bfed6486c34171caaefaa3d132278d5c7bf44562d2be89d3a7f#rd) 
 - [2022-02-21-ReolAudio---基于分帧的-Web-音频工程解决方案](https://mp.weixin.qq.com/s/2VWAbnM-szhIXOx3n7_JfA) 
-- [2025-11-26-Gemini-3屁股还没坐热，Claude-Opus-4.5就来骑脸了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247505393&idx=1&sn=0023e1e26dca861f795457448b5a7c91&chksm=c2b3140ef5c49d1818fac3eb0d8a86be5c23fc5dc817d3947dd836a2b24213bd6009a7d63be3#rd)&nbsp;&nbsp;[📖](/data/articles/f4c29bf05dfc3fac81ad88c4f3e544c5/page.md) 
-- [2025-09-30-实测可灵新视频模型2.5-Turbo，未来已来](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504493&idx=1&sn=9d066b8743771e5c5252fe853d360536&chksm=c2b31392f5c49a8401d2bf6898b6bb73af0e163c9e3032130707305fd707ff8e590a5d198520#rd) 
-- [2025-08-07-Claude-4.1-Opus实测，这是程序员真正的神](http://mp.weixin.qq.com/s/TYUnl9I85aV9DyQBVeBzAA) 
-- [2025-03-28-阿里QVQ-Max能看图看视频，把我看傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502008&idx=1&sn=061385f054bf27f161c491d632e36b57&chksm=c2b30947f5c48051b3512eeaeb5d1778c35faec0988fcfdc243201cf9df575f0612303d1bb3b#rd) 
-- [2025-03-07-腾讯AI视频模型重磅开源，一手实测来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501620&idx=1&sn=f740bc98a31c8764a1e77280e0c5fb76&chksm=c2b306cbf5c48fdd8762f7f496ac8195da0ed569c1b0870a65eaadd624ac4c91a14e46f5042e#rd) 
-- [2025-01-05-3-大-AI-数字人主播创建平台，开启直播新时代！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=2&sn=ac4abee9267d6a68ef569536d43ba5e2&chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd) 
-- [2024-12-05-OpenAI-年终大战：连续-12-天直播，一大堆东西会发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500091&idx=1&sn=f4790cbe1b57fd31686693c7ce813206&chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd) 
-- [2023-05-22-前端食堂技术周刊第-83-期：TS-5.1-RC、Nuxt-3.5、INP、Kinp、管理-GitHub-通知、WebXR](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498022&idx=1&sn=21cee7851e4f2e0e96f40c9ab65a8fa0&chksm=c2b338d9f5c4b1cf2fa0aee9d45c6c1c4469fa9a7b130313a1453791687b34e4b555987ce273#rd) 
 - [2025-07-31-再见，Lodash。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517353&idx=1&sn=2bf5312de8a9edfd8caa06388c305dce&chksm=eb07bcd0dc7035c6cdfaacdbad96939d60c6df4fc9b3135eb6ae8e504dc5a40424f530a9a07e#rd) 
 - [2024-03-19-Lodash-已过时，试试它吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=2&sn=cb8b288da1d490804e206c70ac04578c&chksm=eb078579dc700c6fb3b6f5bf38542487de28aa1fa9dddcba17517990f3d9e891bae3d7abe7e8#rd) 
 - [2023-12-14-在转转直播模块接入-xgplayer-的经验，完美运行！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514626&idx=1&sn=1549ca9fa01888e52fa3b576363a90d5&chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd) 
@@ -251,11 +243,6 @@
 - [2020-01-14-FFmpeg-视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html) 
 - [2019-07-15-iMovie-入门教程：视频编辑的利器](http://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html) 
 - [2019-01-31-一段音频](http://www.ruanyifeng.com/blog/2019/01/a-piece-of-audio.html) 
-- [2024-02-17-效果炸裂！OpenAI-发布首个视频生成模型-Sora](http://www.yyyweb.com/5578.html) 
-- [2023-08-30-你应该立即停止使用-lodash-webpack-plugin](http://www.yyyweb.com/5525.html) 
-- [2022-12-03-手把手教你从0到1打造一个-WebRTC-应用](http://www.yyyweb.com/5480.html) 
-- [2022-07-23-做一个-WebRTC-视频通话给自己用吧](http://www.yyyweb.com/5466.html) 
-- [2020-09-20-Vue-3.0-正式发布【附全球发布会视频】](http://www.yyyweb.com/5391.html) 
 - [2017-01-11-视频H5のVideo标签在微信里的坑和技巧](https://jelly.jd.com/article/6006b1045b6c6a01506c87d5) 
 - [2016-10-09-H5直播起航](https://jelly.jd.com/article/603085d363dc65014d6fb755) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://jelly.jd.com/article/6006b1045b6c6a01506c87b9) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-04 20:30:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 22:22:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -132,7 +132,6 @@
 - [2023-06-20-Amazing！！单标签下的日间/黑夜模式切换按钮效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495893&idx=1&sn=4585f6741ef2bcb1330b1131533e4899&chksm=ce269323f9511a35c1425715f4d0d2553ef039a10f32ab29f4dac0097820cda7262554625def#rd) 
 - [2023-02-14-现代图片性能优化及体验优化指南---图片类型及-Picture-标签的使用](https://mp.weixin.qq.com/s/LZ86LkmGwmZMUFLCLjDa4g) 
 - [2022-02-21-ReolAudio---基于分帧的-Web-音频工程解决方案](https://mp.weixin.qq.com/s/2VWAbnM-szhIXOx3n7_JfA) 
-- [2023-08-14-前端食堂技术周刊第-94-期：TS-5.2-RC、从零实现-RSC、Redux-迁移至-ESM-之旅、HTML-满汉全席](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498460&idx=1&sn=3f589c613a2a318a62b2e785129ec7e9&chksm=c2b33b23f5c4b235c7826453f70890327adbddb51b6d9af8d24c801ddc6b3c60a9ae82c41481#rd) 
 - [2026-01-12-Chrome-新-API：仅-6-行-HTML！页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517507&idx=1&sn=a6f4ad2cc56005263c666f6dbce84219&chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd)&nbsp;&nbsp;[📖](/data/articles/7a2a483828d3582bded0c9a99428b6e5/page.md) 
 - [2025-09-01-Chrome-全新-API：仅-6-行-HTML！让页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517394&idx=1&sn=04a789c65347a9830448b7ab63da3cc7&chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd) 
 - [2025-07-04-弃用-html2canvas！快-93-倍的截图神器！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517319&idx=1&sn=17d9a16e0f3350c7c23290a961eea7c0&chksm=eb07bcfedc7035e88353d88396bce029044bfbb66b3947bd513a038afb795fde774e16051017#rd) 

@@ -53,10 +53,6 @@
     "rss": "https://feed.hamibot.com/api/feeds/624c127d109733075212c3bc"
   },
   {
-    "title": "前端食堂",
-    "rss": "https://feed.hamibot.com/api/feeds/63ad9b99e1190840771616d5"
-  },
-  {
     "title": "前端从进阶到入院",
     "rss": "https://feed.hamibot.com/api/feeds/6135d5a01269c358aa0f31cb"
   },
@@ -64,10 +60,7 @@
     "title": "前端侦探",
     "rss": "https://feed.hamibot.com/api/feeds/63a713c8e119084077051e18"
   },
-  {
-    "title": "淘系前端团队",
-    "rss": "https://fed.taobao.org/atom.xml"
-  },
+  { "title": "淘系前端团队", "rss": "https://fed.taobao.org/atom.xml" },
   {
     "title": "张鑫旭-鑫空间-鑫生活",
     "rss": "https://www.zhangxinxu.com/wordpress/feed/"
@@ -79,16 +72,6 @@
       "http://www.ruanyifeng.com/blog/atom.xml"
     ]
   },
-  {
-    "title": "前端里",
-    "rss": "http://www.yyyweb.com/feed"
-  },
-  {
-    "title": "凹凸实验室",
-    "rss": "https://aotu.io/atom.xml"
-  },
-  {
-    "title": "风痕·術&思",
-    "rss": "https://hughfenghen.github.io/rss.xml"
-  }
+  { "title": "凹凸实验室", "rss": "https://aotu.io/atom.xml" },
+  { "title": "风痕·術&思", "rss": "https://hughfenghen.github.io/rss.xml" }
 ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-04 20:30:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 22:22:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -882,10 +882,6 @@
 - [2023-08-14-精读《算法题---最小覆盖子串》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487127&idx=1&sn=0aa1d42f299d150748e6981f597e2835&chksm=fc86285dcbf1a14bbf31eece2ac4e3bd2af2a41cb04c1c79ead23292a24a80c2fcdc0fea320c#rd) 
 - [2023-08-07-精读《算法题---统计可以被-K-整除的下标对数目》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487119&idx=1&sn=2c82baddcc55217e27a2bbfc0c227c60&chksm=fc862845cbf1a153de6301f5cecd42bf7c3db31acde004c9edc7f6281be7f6048f8211df778c#rd) 
 - [2023-07-31-精读《算法题---通配符匹配》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487109&idx=1&sn=bfd7fd72f3ba87b06667e529b2410385&chksm=fc86284fcbf1a159f500829d380a12b34f736ba5e9ef12836416bd74780dde0f3325f4418473#rd) 
-- [2023-07-25-最近，前端岗位爆了。。。](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498383&idx=1&sn=c29fc7b16da444e7218e42e04d9e18a3&chksm=c2b33b70f5c4b26693467b9a561a2a78411da2dd8f3a6c8c3e2ae09ff8b60aa33ce94dab098c#rd) 
-- [2023-07-10-Vue3在今年面试中火到离谱。。。](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498283&idx=1&sn=b380ff3fcf7919a10e9e132909a1ff5a&chksm=c2b33bd4f5c4b2c23755f02e54f15dd5420173172e376cbd72a2e2cfc31b2b03c1efa6ec0de9#rd) 
-- [2023-05-23-2023上半年Vue3面试题总结，超级强！](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498013&idx=1&sn=f19cb2063cafeac7c979ffaebda300b4&chksm=c2b338e2f5c4b1f4513f83e34bbf3f2f1c5c5a6111b447e43ea178e3cad1b37883df16f5da83#rd) 
-- [2023-05-06-我的好朋友鲨鱼呆呆给大家快速拿-offer-的一些指导](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497939&idx=1&sn=368434ffd5d7d6be3c159759383060da&chksm=c2b3392cf5c4b03a2e5cff50659149f29b1784fbfe4719af74fab3d8c1aacd5e30f991251fa0#rd) 
 - [2025-11-25-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517467&idx=1&sn=c4b5a22ba9539b206964b695e5e62403&chksm=eb07bd62dc70347413a0ea10c6ebe55816cd808e0b485e9a889b9f723a72601b3b2daf7eae44#rd)&nbsp;&nbsp;[📖](/data/articles/ccccd5ee5efacc56127b0b80552e825d/page.md) 
 - [2025-07-21-最近，前端的招聘市场真是疯掉了。。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517337&idx=1&sn=e244c7eb42b89bcd2eb7c64d4af0fcf2&chksm=eb07bce0dc7035f61aad8aa5574f9700f46c37c2f3768b07d63da9e7f66542fbd1c96d87cc79#rd) 
 - [2025-04-03-取代前端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517149&idx=1&sn=f3d9d1f51044d2c7be24d853ec067eb0&chksm=eb07bba4dc7032b29a18cf046514c77ad15fe1a8a796de324ab213424d5f934ecf32bbf130d0#rd) 
@@ -924,8 +920,5 @@
 - [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd) 
 - [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate) 
 - [2024-10-10-后面试时代与-AI-刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html) 
-- [2020-08-08-「查缺补漏」18道浏览器面试题解析](http://www.yyyweb.com/5389.html) 
-- [2019-10-27-数组去重12种方案（经典面试必问）](http://www.yyyweb.com/5318.html) 
-- [2018-08-15-面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html) 
 - [2020-07-29-技术面试中的“运气”指什么](https://hughfenghen.github.io/posts/2020/07/29/interview/) 
 - [2020-07-29-技术面试中的“运气”指什么](https://fenghen.me/posts/2020/07/29/interview/) 

@@ -4,5 +4,5 @@ const prodEnv = require('./prod.env')
 
 module.exports = merge(prodEnv, {
   NODE_ENV: '"development"',
-  TO_MARKDOWN: JSON.stringify(process.env.TO_MARKDOWN || '')
+  EDIT_MODE: JSON.stringify(process.env.EDIT_MODE || '')
 })

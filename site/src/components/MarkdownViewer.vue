@@ -21,7 +21,7 @@
             <van-icon name="link-o" />打开原文
           </a>
           <a
-            v-if="toMarkdown && articleHash"
+            v-if="editMode && articleHash"
             :href="`/data/articles/${articleHash}/page.md`"
             target="_blank"
             class="md-viewer__link md-viewer__link--md"
@@ -29,7 +29,7 @@
             <van-icon name="description" />打开 Markdown
           </a>
           <div
-            v-if="toMarkdown"
+            v-if="editMode"
             class="md-viewer__convert-btn"
             @click="onConvert"
           >
@@ -108,7 +108,7 @@ export default {
   data () {
     return {
       isMobile: window.innerWidth <= 800,
-      toMarkdown: process.env.TO_MARKDOWN === 'true',
+      editMode: process.env.EDIT_MODE === 'true',
       loading: false,
       error: false,
       converting: false,
@@ -205,9 +205,9 @@ export default {
       this.showTitle = false
       if (this.$refs.body) this.$refs.body.scrollTop = 0
       try {
-        const toMarkdown = process.env.TO_MARKDOWN === 'true'
+        const editMode = process.env.EDIT_MODE === 'true'
         const res = await fetch(`/data/articles/${hash}/page.md`, {
-          cache: toMarkdown ? 'no-store' : 'default'
+          cache: editMode ? 'no-store' : 'default'
         })
         if (!res.ok) throw new Error('not found')
         const raw = await res.text()

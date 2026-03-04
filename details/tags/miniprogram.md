@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-04 20:30:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 22:22:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -174,11 +174,6 @@
 - [2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html) 
 - [2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html) 
 - [2020-10-26-微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html) 
-- [2020-01-20-Taro-2.0：拥抱社区，拥抱变化](http://www.yyyweb.com/5350.html) 
-- [2019-10-06-Remax-–-使用真正的-React-构建小程序](http://www.yyyweb.com/5309.html) 
-- [2018-12-20-Taro-1.2：将微信小程序转换为多端应用](http://www.yyyweb.com/5227.html) 
-- [2018-11-17-Taro-1.1-发布，全面支持微信/百度/支付宝小程序](http://www.yyyweb.com/5207.html) 
-- [2018-11-07-多端统一开发框架-Taro-1.0-正式发布](http://www.yyyweb.com/5197.html) 
 - [2023-02-16-Taro-正式发布-3.6-版本：支持跨端路由、请求库，新增鸿蒙、Web-端平台插件，小程序持续集成-CI-能力升级](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899551&idx=1&sn=0d30a7d3949dc41470d0c5926d5537ef&chksm=8c5fa4d1bb282dc7b352803a0128c69863fcc4d21f9716e4aeb200ae259a750af40a84948162#rd) 
 - [2022-05-19-Taro-3.5-beta-编译提速，支持-Webpack5、React-18...](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898820&idx=1&sn=13a58383c7a843a0cdaf1e4f05807026&chksm=8c5fa18abb28289c599ed79fc5dfc7d1b5385c6e7bc5935fae612ce640466e37062ce585b4f3#rd) 
 - [2022-03-31-成为-Taro-社区的一员---贡献者晋级指南](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898521&idx=2&sn=8cb9c590a3865b1992990f48e07d9629&chksm=8c5fa0d7bb2829c1e821185d77f166d9f045a802757079e6102b14b1128a477c8ce5b580e4cd#rd) 
