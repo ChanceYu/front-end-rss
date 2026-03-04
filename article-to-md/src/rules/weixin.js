@@ -92,6 +92,4 @@ export default {
   },
 
   retryOn: (body) => /## 环境异常/.test(body) && /当前环境异常，完成验证后即可继续访问/.test(body),
-
-  deleteOn: (body) => (/该内容已被发布者删除/.test(body) && /\[微信公众平台运营中心\]/.test(body)) || (/内容因违规无法查看/.test(body) && /\[微信公众平台运营中心\]/.test(body)),
 }

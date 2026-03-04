@@ -7,12 +7,6 @@ md5: dbbe04ca63486bcfca913832c3969f09
 
 # External import maps, a big Bun release, and Node.js schedule changes
 
-#​775 — March 3, 2026
-
-[Read on the Web](https://javascriptweekly.com/link/181402/web)
-
-## JavaScript Weekly
-
 [![](./images/005e5090f91f2c77772834ad2006cd1a.jpeg)](https://javascriptweekly.com/link/181455/web)  
 - [Bun v1.3.10 Released: A Surprisingly Big Update](https://javascriptweekly.com/link/181455/web "bun.com") — Bun’s REPL has been completely rewritten with many improvements (both practical and cosmetic), there's a `--compile --target=browser` option for building self-contained HTML files with all JS, CSS, and assets included (ideal for simple JS-powered single page apps), full support for TC39 stage 3 [ES decorators](https://javascriptweekly.com/link/181456/web), a faster event loop, barrel import optimization, and more. **_\--- Jarred Sumner_**
   

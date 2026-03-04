@@ -7,10 +7,6 @@ md5: f87931be07c499b9fd667f48e75f8281
 
 # Can we ever fix the web dependency mess?
 
-#​768 — January 13, 2026
-
-[Read on the Web](https://javascriptweekly.com/issues/768)
-
 [![](./images/7d155c53937a419cd8bad0a51ebd0798.jpeg)](https://lea.verou.me/blog/2026/web-deps/)  
 - [Web Dependencies are Broken; Can We Fix Them?](https://lea.verou.me/blog/2026/web-deps/ "lea.verou.me") — Lea, who has worked at the heart of Web Standards for years, delivers a compelling (and educational) call to action about a problem every JavaScript developer has encountered: why is managing dependencies and introducing them into code so unnecessarily messy and what could we do about it? **_\--- Lea Verou_**
   
@@ -73,17 +69,17 @@ md5: f87931be07c499b9fd667f48e75f8281
 - [xstyled 4.1](https://github.com/styled-components/xstyled) – Utility-first CSS-in-JS framework for React.
 - [Jint 4.5](https://github.com/sebastienros/jint) – JavaScript interpreter for .NET.
 
-📰 Classifieds
-
-⚡️Add lightning-fast barcode & QR scanning to your web app with [STRICH](https://strich.io/?ref=js-weekly), a lean JS library. Simple, predictable pricing. [Free trial and demo!](https://strich.io/?ref=js-weekly)
-
----
-
-Only fools write manual tests – modern engineering teams like Notion, Dropbox and Lattice use [Meticulous](https://www.meticulous.ai/?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=jan13th2026) to maintain E2E UI tests [covering every edge case](https://www.meticulous.ai/?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=jan13th2026) of your web app.
-
----
-
-🚀 Auth0 for AI Agents is the complete auth solution for building AI agents more securely. [Start building today](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
+> **📰 CLASSIFIEDS**
+> 
+> ⚡️Add lightning-fast barcode & QR scanning to your web app with [STRICH](https://strich.io/?ref=js-weekly), a lean JS library. Simple, predictable pricing. [Free trial and demo!](https://strich.io/?ref=js-weekly)
+> 
+> ---
+> 
+> Only fools write manual tests – modern engineering teams like Notion, Dropbox and Lattice use [Meticulous](https://www.meticulous.ai/?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=jan13th2026) to maintain E2E UI tests [covering every edge case](https://www.meticulous.ai/?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=jan13th2026) of your web app.
+> 
+> ---
+> 
+> 🚀 Auth0 for AI Agents is the complete auth solution for building AI agents more securely. [Start building today](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
 
 ## 📢  Elsewhere in the ecosystem
 

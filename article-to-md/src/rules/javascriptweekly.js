@@ -4,11 +4,15 @@ export const weeklyRule = {
     '#together',
   ],
   waitUntil: 'load',
-  async preProcess(page) {
+  async preProcess(page, options) {
     const delay = (ms) => new Promise((r) => setTimeout(r, ms))
 
     // Give JS time to settle after 'load'
     await delay(1500 + Math.random() * 1000)
+
+    if (options?.onDelayEnd) {
+      await options.onDelayEnd(page)
+    }
 
     // Replace top table content with <blockquote>
     await page.evaluate(() => {
@@ -19,6 +23,15 @@ export const weeklyRule = {
         blockquote.innerHTML = tds[0].innerHTML
         table.parentNode.replaceChild(blockquote, table)
       })
+    })
+
+    // Remove leading splitbar table if it's the first child of #content
+    await page.evaluate(() => {
+      const content = document.querySelector('#content')
+      const first = content?.firstElementChild
+      if (first?.tagName === 'TABLE' && first.classList.contains('el-splitbar')) {
+        first.remove()
+      }
     })
 
     // Replace layout tables used as section headings with proper <h2> elements
@@ -40,6 +53,28 @@ export const weeklyRule = {
         const h2 = document.createElement('h2')
         h2.textContent = text
         table.parentNode.replaceChild(h2, table)
+      })
+    })
+
+    // Replace classifieds subtable with <blockquote>: el-content td content in <strong>, then el-md td content
+    await page.evaluate(() => {
+      document.querySelectorAll('#content table.el-subtable.classifieds').forEach((table) => {
+        const parts = []
+
+        table.querySelectorAll('table.el-content').forEach((t) => {
+          t.querySelectorAll('td').forEach((td) => {
+            parts.push('<strong>' + td.innerText.trim() + '</strong>')
+          })
+        })
+        table.querySelectorAll('table.el-md').forEach((t) => {
+          t.querySelectorAll('td').forEach((td) => {
+            parts.push(td.innerHTML)
+          })
+        })
+
+        const blockquote = document.createElement('blockquote')
+        blockquote.innerHTML = parts.join(' ')
+        table.parentNode.replaceChild(blockquote, table)
       })
     })
 
@@ -120,8 +155,20 @@ export const weeklyRule = {
 /** @type {import('./index.js').SiteRule} */
 export default {
   ...weeklyRule,
-  excludeSelectors: [
-    ...weeklyRule.excludeSelectors,
-    '.el-masthead p:contains("JavaScript Weekly")'
-  ],
+  async preProcess(page) {
+    await weeklyRule.preProcess(page, {
+      onDelayEnd: async (page) => {
+        // Remove the JavaScript Weekly banner from the masthead
+        await page.evaluate(() => {
+          const table = document.querySelector('table.el-masthead')
+          if (!table) return
+          const td = table.querySelector('td')
+          if (!td) return
+          if (td.innerText.trim() === 'JavaScript Weekly') {
+            table.parentNode.removeChild(table)
+          }
+        })
+      }
+    })
+  }
 }

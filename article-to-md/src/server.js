@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
 
 import once from './once.js'
-import { urlToMd5, loadProcessed, saveProcessed } from './utils.js'
+import { urlToMd5, withProcessedUpdate } from './utils.js'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const ARTICLES_DIR = join(__dirname, '..', '..', 'data', 'articles')
@@ -58,13 +58,9 @@ app.post('/article-to-md/remove', async (c) => {
     console.log(`[server] Deleted directory: ${articleDir}`)
   }
 
-  // 2. Remove from processed.json
-  const processed = loadProcessed()
-  if (link in processed) {
-    delete processed[link]
-    saveProcessed(processed)
-    console.log(`[server] Removed from processed.json`)
-  }
+  // 2. Remove from processed.json (mutex for concurrent safety)
+  await withProcessedUpdate((p) => { if (link in p) delete p[link] })
+  console.log(`[server] Removed from processed.json`)
 
   // 3. Remove from links.json
   let removedFromLinks = false

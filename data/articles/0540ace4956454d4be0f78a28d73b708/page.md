@@ -7,10 +7,6 @@ md5: 0540ace4956454d4be0f78a28d73b708
 
 # A fast, modern way to browse and compare npm packages
 
-#​772 — February 10, 2026
-
-[Read on the Web](https://javascriptweekly.com/link/180445/web)
-
 [![](./images/1c26f90a0ef3a4155fd8cdb9811bbfd3.jpeg)](https://javascriptweekly.com/link/180447/web)  
 - [npmx: A New npm Registry Package Browser](https://javascriptweekly.com/link/180447/web "npmx.dev") — A smooth, fast way to browse packages on the [official npm registry](https://javascriptweekly.com/link/180448/web). It’s certainly fast, smooth, and you see more info up front and center - check out [the `axios` page](https://javascriptweekly.com/link/180449/web) for example. _“We’re not replacing the npm registry, but instead providing an elevated developer experience through a fast, modern UI.”_ **_\--- npmx_**
 
@@ -73,13 +69,13 @@ md5: 0540ace4956454d4be0f78a28d73b708
 - [VuePDF 2.0](https://javascriptweekly.com/link/180488/web) – Render PDFs in Vue 3 apps.
 - [Lume 3.2](https://javascriptweekly.com/link/180489/web) – Static site generator for Deno.
 
-📰 Classifieds
-
-🎉Notion, Dropbox, Wiz, and LaunchDarkly have switched to [Meticulous](https://javascriptweekly.com/link/180490/web) for frontend tests that provide near-exhaustive coverage with zero developer effort. [Find out why](https://javascriptweekly.com/link/180490/web).
-
----
-
-📸 Add robust 1D/2D barcode scanning to your web app with [STRICH](https://javascriptweekly.com/link/180491/web). Easy integration, simple pricing. [Free trial and demo app available](https://javascriptweekly.com/link/180491/web).
+> **📰 CLASSIFIEDS**
+> 
+> 🎉Notion, Dropbox, Wiz, and LaunchDarkly have switched to [Meticulous](https://javascriptweekly.com/link/180490/web) for frontend tests that provide near-exhaustive coverage with zero developer effort. [Find out why](https://javascriptweekly.com/link/180490/web).
+> 
+> ---
+> 
+> 📸 Add robust 1D/2D barcode scanning to your web app with [STRICH](https://javascriptweekly.com/link/180491/web). Easy integration, simple pricing. [Free trial and demo app available](https://javascriptweekly.com/link/180491/web).
 
 ## 📢  Elsewhere in the ecosystem
 

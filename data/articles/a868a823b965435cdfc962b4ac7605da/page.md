@@ -7,10 +7,6 @@ md5: a868a823b965435cdfc962b4ac7605da
 
 # Building JavaScript tools in a single HTML file
 
-#​765 — December 12, 2025
-
-[Read on the Web](https://javascriptweekly.com/issues/765)
-
 [![](./images/8292f576c3d7417c6d3730597aa042e0.jpeg)](https://simonwillison.net/2025/Dec/10/html-tools/)  
 - [Useful Patterns for Building HTML Tools](https://simonwillison.net/2025/Dec/10/html-tools/ "simonwillison.net") — In many situations, you don’t need a full-on framework to build useful tools; just HTML, JavaScript and CSS in a single file will do the job fine. Simon’s become a bit of an expert by rolling out [many such tools](https://tools.simonwillison.net/) using LLMs, and shares his process and practices here. More please! **_\--- Simon Willison_**
   
@@ -75,13 +71,13 @@ md5: a868a823b965435cdfc962b4ac7605da
 - [pnpm 10.25](https://github.com/pnpm/pnpm/releases/tag/v10.25.0) – Fast, space efficient package manager.
 - [js-tokens 10.0](https://github.com/lydell/js-tokens) – Tiny JavaScript source tokenizer.
 
-📰 Classifieds
-
-[Trigger.dev](https://fandf.co/494618y) handles queues, retries, and long-running tasks so you can build production-ready agents and TypeScript workflows reliably at scale.
-
----
-
-$5 PostgreSQL now available. Stop overpaying for idle instances with the [new developer tier from Aiven.](https://aiven.io/developer-tier?utm_source=freeman-forrest&utm_medium=newsletter&utm_campaign=aiven-december&utm_term=jsweekly&utm_content=developertier)
+> **📰 CLASSIFIEDS**
+> 
+> [Trigger.dev](https://fandf.co/494618y) handles queues, retries, and long-running tasks so you can build production-ready agents and TypeScript workflows reliably at scale.
+> 
+> ---
+> 
+> $5 PostgreSQL now available. Stop overpaying for idle instances with the [new developer tier from Aiven.](https://aiven.io/developer-tier?utm_source=freeman-forrest&utm_medium=newsletter&utm_campaign=aiven-december&utm_term=jsweekly&utm_content=developertier)
 
 ## 📢  Elsewhere in the ecosystem
 

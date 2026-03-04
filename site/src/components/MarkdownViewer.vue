@@ -618,6 +618,13 @@ export default {
   margin: 2em 0;
 }
 
+/* 分割线 */
+.md-viewer__content.markdown-body blockquote hr {
+  border-top: 1px solid #e2e8f0;
+  height: 0;
+  margin: .2em 0;
+}
+
 /* 表格 */
 .md-viewer__content.markdown-body table {
   width: 100% !important;

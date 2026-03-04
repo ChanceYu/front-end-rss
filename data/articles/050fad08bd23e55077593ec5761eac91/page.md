@@ -7,10 +7,6 @@ md5: 050fad08bd23e55077593ec5761eac91
 
 # Oxfmt beta: 30x faster than Prettier, 100% compatible
 
-#​774 — February 24, 2026
-
-[Read on the Web](https://javascriptweekly.com/link/181155/web)
-
 [![](./images/65c78aaa0958e2ec5e19adfea234f29a.jpeg)](https://javascriptweekly.com/link/181088/web)  
 - [Oxfmt Beta: A Fast, Rust-Powered JavaScript Code Formatter](https://javascriptweekly.com/link/181088/web "oxc.rs") — A **100% [Prettier](https://javascriptweekly.com/link/181089/web)\-compatible** JavaScript code formatter (and sister project of [Oxlint](https://javascriptweekly.com/link/181090/web)) that boasts being 30x faster than Prettier and 3x faster than [Biome.](https://javascriptweekly.com/link/181091/web) Since the alpha, it now supports embedded language formatting (JSX, YAML, HTML, etc), Tailwind CSS [class sorting](https://javascriptweekly.com/link/181093/web), [import sorting](https://javascriptweekly.com/link/181094/web), and more. **_\--- Boshen, Dunqing, and Sugiura (VoidZero)_**
   
@@ -73,13 +69,13 @@ md5: 050fad08bd23e55077593ec5761eac91
 - [pnpm v10.30.0](https://javascriptweekly.com/link/181156/web) – [`pnpm why`](https://javascriptweekly.com/link/181143/web) now shows a _reverse_ dependency tree.
 - 📄 [DOCX 9.6.0](https://javascriptweekly.com/link/181144/web) – Generate/modify `.docx` files from JavaScript.
 
-📰 Classifieds
-
-💛 [JSNation](https://javascriptweekly.com/link/181145/web) | the key web dev conference | June 11 & 15. [Don’t miss out](https://javascriptweekly.com/link/181145/web) - 50+ talks, 1.5K devs to connect, Amsterdam vibes, & global access.
-
----
-
-Ex‑Palantir engineers built [Meticulous](https://javascriptweekly.com/link/181146/web), an E2E UI testing tool that automatically covers every edge case, boosting product quality and development speed.
+> **📰 CLASSIFIEDS**
+> 
+> 💛 [JSNation](https://javascriptweekly.com/link/181145/web) | the key web dev conference | June 11 & 15. [Don’t miss out](https://javascriptweekly.com/link/181145/web) - 50+ talks, 1.5K devs to connect, Amsterdam vibes, & global access.
+> 
+> ---
+> 
+> Ex‑Palantir engineers built [Meticulous](https://javascriptweekly.com/link/181146/web), an E2E UI testing tool that automatically covers every edge case, boosting product quality and development speed.
 
 ## 📢  Elsewhere in the ecosystem
 

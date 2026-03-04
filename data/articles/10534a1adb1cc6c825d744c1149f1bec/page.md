@@ -7,10 +7,6 @@ md5: 10534a1adb1cc6c825d744c1149f1bec
 
 # Halving Node.js memory usage with pointer compression
 
-#​612 — February 19, 2026
-
-[Read on the Web](https://nodeweekly.com/link/180906/web)
-
 [![](./images/6b0547bbfc6c8e66adbbf4007bb21e10.jpeg)](https://nodeweekly.com/link/180908/web)  
 - [Halving Node.js Memory Usage with Pointer Compression](https://nodeweekly.com/link/180908/web "blog.platformatic.dev") — Does 50% memory savings in production sound good? Cloudflare, Igalia, and the Node project have collaborated on `node-caged`, a Docker image containing Node 25 with V8 pointer compression enabled. Matteo digs into all the details here – this is neat work, though there are tradeoffs to consider. **_\--- Matteo Collina_**
   
@@ -50,13 +46,13 @@ md5: 10534a1adb1cc6c825d744c1149f1bec
 - [qs 6.15.0](https://nodeweekly.com/link/180938/web) – Query string parsing and stringifying library.
 - [typescript-eslint 8.56.0](https://nodeweekly.com/link/180939/web) – Now with ESLint 10 support.
 
-📰 Classifieds
-
-🚀 [HTML to PDF made easy.](https://nodeweekly.com/link/180940/web) One simple API that scales. PrinceXML under the hood for full CSS & JS support. EU-hosted, free to start.
-
----
-
-🔥[JSNation 2026 lineup:](https://nodeweekly.com/link/180941/web) Matt Pocock, Luca Mezzalira & more speakers revealed! [Let’s talk modern web dev in beautiful Amsterdam this June](https://nodeweekly.com/link/180941/web).
+> **📰 CLASSIFIEDS**
+> 
+> 🚀 [HTML to PDF made easy.](https://nodeweekly.com/link/180940/web) One simple API that scales. PrinceXML under the hood for full CSS & JS support. EU-hosted, free to start.
+> 
+> ---
+> 
+> 🔥[JSNation 2026 lineup:](https://nodeweekly.com/link/180941/web) Matt Pocock, Luca Mezzalira & more speakers revealed! [Let’s talk modern web dev in beautiful Amsterdam this June](https://nodeweekly.com/link/180941/web).
 
 ## 📢  Elsewhere in the ecosystem
 

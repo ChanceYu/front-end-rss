@@ -7,10 +7,6 @@ md5: ccf8b8c331b88f29e0df7da443c3d11d
 
 # AdonisJS v7 brings batteries-included framework upgrades
 
-#​613 — February 26, 2026
-
-[Read on the Web](https://nodeweekly.com/link/181224/web)
-
 [![](./images/00b75bc9ee5aa3aceddff037e6e3f1aa.jpeg)](https://nodeweekly.com/link/181226/web)  
 - [AdonisJS v7 Released: 'Batteries-Included' Node.js Framework](https://nodeweekly.com/link/181226/web "adonisjs.com") — A popular webapp framework that includes auth, ORM, queues, testing, etc. in a cohesive fashion. With v7 comes [an all new web site](https://nodeweekly.com/link/181227/web), modernizations, OpenTelemetry integration, new starter kits to rapidly build new apps, barrel file generation, and end-to-end type safety. **_\--- Harminder Virk_**
 
@@ -52,9 +48,9 @@ md5: ccf8b8c331b88f29e0df7da443c3d11d
 - [Basic FTP 5.2](https://nodeweekly.com/link/181253/web) – A simple FTP client library.
 - [ESLint 10.0.2](https://nodeweekly.com/link/181254/web)
 
-📰 Classifieds
-
-🚀 [HTML to PDF made easy.](https://nodeweekly.com/link/181255/web) One simple API that scales. PrinceXML under the hood for full CSS & JS support. EU-hosted, free to start.
+> **📰 CLASSIFIEDS**
+> 
+> 🚀 [HTML to PDF made easy.](https://nodeweekly.com/link/181255/web) One simple API that scales. PrinceXML under the hood for full CSS & JS support. EU-hosted, free to start.
 
 ## 📢  Elsewhere in the ecosystem
 

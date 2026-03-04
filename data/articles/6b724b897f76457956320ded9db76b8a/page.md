@@ -7,10 +7,6 @@ md5: 6b724b897f76457956320ded9db76b8a
 
 # Electrobun v1: Bun-powered desktop apps in 12MB bundles
 
-#​773 — February 17, 2026
-
-[Read on the Web](https://javascriptweekly.com/link/180783/web)
-
 [![](./images/e8739aea84d0b7142fb969519dc625a7.jpeg)](https://javascriptweekly.com/link/180785/web)  
 - [TanStack Hotkeys: A Type-Safe, Cross-Platform Hotkey Library](https://javascriptweekly.com/link/180785/web "tanstack.com") — The [TanStack family](https://javascriptweekly.com/link/180786/web) gains a new member: _Hotkeys_, an alpha-stage universal keyboard interaction toolkit. It handles cross-environment quirks, supports multi-step sequences (like Vim commands or cheat codes), and can record user shortcuts. [Here's the full pitch.](https://javascriptweekly.com/link/180787/web) **_\--- TanStack LLC_**
 
@@ -74,13 +70,13 @@ md5: 6b724b897f76457956320ded9db76b8a
 - ♟️ [Stockfish.js 18](https://javascriptweekly.com/link/180823/web) – A WASM port of the Stockfish chess engine you can use from JavaScript.
 - [Ohm 17.5](https://javascriptweekly.com/link/180824/web) – Parsing toolkit for building parsers, interpreters, etc.
 
-📰 Classifieds
-
-🔥[JSNation 2026 lineup:](https://javascriptweekly.com/link/180825/web) Matt Pocock, Luca Mezzalira & more speakers revealed! [Let’s talk modern web dev in beautiful Amsterdam this June](https://javascriptweekly.com/link/180825/web).
-
----
-
-📸 Add robust 1D/2D barcode scanning to your web app with [STRICH](https://javascriptweekly.com/link/180826/web). Easy integration, simple pricing. [Free trial and demo app available](https://javascriptweekly.com/link/180826/web).
+> **📰 CLASSIFIEDS**
+> 
+> 🔥[JSNation 2026 lineup:](https://javascriptweekly.com/link/180825/web) Matt Pocock, Luca Mezzalira & more speakers revealed! [Let’s talk modern web dev in beautiful Amsterdam this June](https://javascriptweekly.com/link/180825/web).
+> 
+> ---
+> 
+> 📸 Add robust 1D/2D barcode scanning to your web app with [STRICH](https://javascriptweekly.com/link/180826/web). Easy integration, simple pricing. [Free trial and demo app available](https://javascriptweekly.com/link/180826/web).
 
 ## 📢  Elsewhere in the ecosystem
 

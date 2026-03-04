@@ -65,7 +65,7 @@
             v-if="toMarkdown"
             v-model="showConvertPopover"
             trigger="click"
-            placement="right"
+            placement="top"
             :actions="convertPopoverActions"
             @select="onSelectConvert"
           >
@@ -201,6 +201,8 @@ const tags = window.TAGS_DATA
 const hotwords = window.HOTWORDS_DATA
 const PAGE_SIZE = window.PAGE_SIZE || 200
 const PAGE_COUNT = window.PAGE_COUNT || 1
+/** 批量转换时同时发起的 convertToMd 数量 */
+const CONVERT_CONCURRENCY = 3
 
 let results = []
 
@@ -250,7 +252,8 @@ export default {
     },
     convertPopoverActions () {
       return [
-        { text: '转换剩余' },
+        { text: '转换剩余（未转换的）' },
+        { text: '重新转换（已转换的）' },
         { text: '转换所有' }
       ]
     }
@@ -358,20 +361,33 @@ export default {
     onSelectConvert (action, index) {
       this.showConvertPopover = false
       if (index === 0) this.convertRemaining()
-      else if (index === 1) this.convertAll()
+      else if (index === 1) this.convertAlreadyConverted()
+      else if (index === 2) this.convertAll()
     },
 
     async convertRemaining () {
       const list = this.results.filter(item => !this.processedArticles[item.link])
-      for (const item of list) {
-        await this.convertToMd(item)
-      }
+      await this.runConvertBatch(list)
+    },
+
+    async convertAlreadyConverted () {
+      const list = this.results.filter(item => this.processedArticles[item.link])
+      await this.runConvertBatch(list)
     },
 
     async convertAll () {
-      for (const item of this.results) {
-        await this.convertToMd(item)
+      await this.runConvertBatch(this.results)
+    },
+
+    async runConvertBatch (list) {
+      const concurrency = CONVERT_CONCURRENCY
+      const run = async (start) => {
+        if (start >= list.length) return
+        const chunk = list.slice(start, start + concurrency)
+        await Promise.all(chunk.map(item => this.convertToMd(item)))
+        return run(start + concurrency)
       }
+      return run(0)
     },
 
     // 从 articlesData 取第 pageNum 页的文章对象（用于列表与后台追加）
@@ -1452,5 +1468,18 @@ export default {
     .result-box .empty .cate {
       display: block
     }
+}
+
+/* Popover 宽度随 action 内容变化 */
+.van-popover__content {
+  width: max-content;
+}
+
+.van-popover__action {
+  white-space: nowrap;
+  width: auto;
+}
+.van-popover__action:hover {
+  color: #1a89fa;
 }
 </style>

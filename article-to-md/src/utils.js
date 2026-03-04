@@ -36,3 +36,21 @@ export function loadProcessed() {
 export function saveProcessed(data) {
   outputJsonSync(PROCESSED_PATH, data)
 }
+
+let processedLock = Promise.resolve()
+
+/**
+ * Run a read-modify-write on processed.json under a mutex so concurrent
+ * callers (e.g. multiple /article-to-md/once requests) do not overwrite each other.
+ * @param {(data: Record<string, string>) => void} update - Mutate the loaded object; it will be saved after.
+ * @returns {Promise<void>}
+ */
+export function withProcessedUpdate(update) {
+  const next = processedLock.then(() => {
+    const data = loadProcessed()
+    update(data)
+    saveProcessed(data)
+  })
+  processedLock = next.catch(() => {})
+  return next
+}

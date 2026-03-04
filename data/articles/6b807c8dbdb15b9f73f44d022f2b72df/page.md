@@ -7,12 +7,6 @@ md5: 6b807c8dbdb15b9f73f44d022f2b72df
 
 # Babel 8 RC Arrives, Gatsby Lives, Lodash Resets
 
-#​771 — February 3, 2026
-
-[Read on the Web](https://javascriptweekly.com/link/180110/web)
-
-## JavaScript Weekly
-
 ![](./images/70ecf6721a6287a07b6b93080b97f553.jpeg)
 
 Four Heavyweights Drop Updates

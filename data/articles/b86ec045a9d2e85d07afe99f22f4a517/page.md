@@ -7,10 +7,6 @@ md5: b86ec045a9d2e85d07afe99f22f4a517
 
 # How the Seattle Times is using pnpm
 
-#​604 — December 9, 2025
-
-[Read on the Web](https://nodeweekly.com/issues/604)
-
 > 🗓️ A quick notice that **Node Weekly will be moving to Thursdays in January 2026,** as part of a schedule reshuffle for most of [our newsletters](https://cooperpress.com/publications/). We still have one more week before the Christmas break, though, so we'll be back next Tuesday with our 2025 roundup!  
 > \_\_  
 > _Your editor, Peter Cooper_

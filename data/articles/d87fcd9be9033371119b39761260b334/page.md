@@ -7,10 +7,6 @@ md5: d87fcd9be9033371119b39761260b334
 
 # The story of how require(esm) became stable
 
-#​606 — January 8, 2026
-
-[Read on the Web](https://nodeweekly.com/issues/606)
-
 > 🎉 Happy New Year! Also, a quick reminder that **Node Weekly is now sent every Thursday** as part of a reshuffle for many of [our newsletters](https://cooperpress.com/publications/).  
 > \_\_  
 > _Your editor, Peter Cooper_

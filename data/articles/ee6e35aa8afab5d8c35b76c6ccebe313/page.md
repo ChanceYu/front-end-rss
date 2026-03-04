@@ -7,10 +7,6 @@ md5: ee6e35aa8afab5d8c35b76c6ccebe313
 
 # 'Twas the Node before Christmas...
 
-#​605 — December 16, 2025
-
-[Read on the Web](https://nodeweekly.com/issues/605)
-
 > 🗓️ Today we're taking a look back over some of the big stories and links that got you clicking this year. Also, **Node Weekly will be moving to Thursdays in January 2026,** as part of a reshuffle for many of [our newsletters](https://cooperpress.com/publications/).  
 > \_\_  
 > _Your editor, Peter Cooper_
@@ -84,12 +80,12 @@ The top items of the year based upon the aggregated number of clicks by readers,
 
 **DECEMBER –** Where we are now: it's been a relatively quiet month so far!
 
-📰 Classifieds
-
-✍️ Add e-signatures to your Node.js app in minutes with the BoldSign Node.js SDK—powered by our [e-signature API. Get your free API key today](https://boldsign.com/esignature-api/?utm_source=cooperpress&utm_medium=cpc&utm_campaign=nodeweekly_classified).
-
----
-
-[The Road to Next](https://www.road-to-next.com/?utm_source=node_weekly&utm_medium=referral&utm_campaign=next_course) is a course by Robin Wieruch for learning full-stack web development with Next.js 15 and React 19. The perfect match for JavaScript developers ready to go beyond the frontend.
+> **📰 CLASSIFIEDS**
+> 
+> ✍️ Add e-signatures to your Node.js app in minutes with the BoldSign Node.js SDK—powered by our [e-signature API. Get your free API key today](https://boldsign.com/esignature-api/?utm_source=cooperpress&utm_medium=cpc&utm_campaign=nodeweekly_classified).
+> 
+> ---
+> 
+> [The Road to Next](https://www.road-to-next.com/?utm_source=node_weekly&utm_medium=referral&utm_campaign=next_course) is a course by Robin Wieruch for learning full-stack web development with Next.js 15 and React 19. The perfect match for JavaScript developers ready to go beyond the frontend.
 
 🎁 _P.S._ We hope you have a great holiday season and **we'll be back on Thursday, January 8.**

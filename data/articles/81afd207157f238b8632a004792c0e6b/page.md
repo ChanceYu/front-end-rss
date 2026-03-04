@@ -7,15 +7,9 @@ md5: 81afd207157f238b8632a004792c0e6b
 
 # The JavaScript Bundler Grand Prix
 
-#​766 — December 19, 2025
-
-[Read on the Web](https://javascriptweekly.com/issues/766)
-
 > 🗓️ As it's the last issue of 2025, a reminder that **JavaScript Weekly moves to Tuesdays in January**. See you again on January 6, 2026!  
 > \_\_  
 > _Your editor, Peter Cooper_
-
-## JavaScript Weekly
 
 It's the final issue of the year, so we're going to cover a few new items, then look back at the top links of 2025 (based on reader engagement) and recap what happened in the ecosystem month-by-month this year.
 
@@ -99,12 +93,12 @@ Let's step through the year and remember the biggest things that happened in Jav
 
 **DECEMBER –** [JavaScript turned 30 years old.](https://javascriptweekly.com/issues/764) Microsoft shared [an update on TypeScript 7.0](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/) and [Deno 2.6](https://deno.com/blog/v2.6) was released. [Node.js v24.12.0 (LTS)](https://nodejs.org/en/blog/release/v24.12.0) was also released, finally making type stripping stable in an LTS release.
 
-📰 Classifieds
-
-🎄 Give yourself the gift of time this Christmas. Let [Meticulous](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=q4) observe your app and auto-build continuously evolving E2E UI tests while you celebrate. [Book a call now](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=q4).
-
----
-
-[Trigger.dev](https://fandf.co/4pZ41UF) handles queues, retries, and long-running tasks so you can build production-ready agents and TypeScript workflows reliably at scale.
+> **📰 CLASSIFIEDS**
+> 
+> 🎄 Give yourself the gift of time this Christmas. Let [Meticulous](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=q4) observe your app and auto-build continuously evolving E2E UI tests while you celebrate. [Book a call now](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=q4).
+> 
+> ---
+> 
+> [Trigger.dev](https://fandf.co/4pZ41UF) handles queues, retries, and long-running tasks so you can build production-ready agents and TypeScript workflows reliably at scale.
 
 🎄 This is the final issue of JavaScript Weekly for 2025 – thanks for reading, submitting links, and supporting us! **We're going to return on Tuesday, January 6, 2026.** See you then! And, if we're really lucky, we might catch up on our inbox packed with submissions by then too... ;-)

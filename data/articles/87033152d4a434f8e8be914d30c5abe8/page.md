@@ -7,10 +7,6 @@ md5: 87033152d4a434f8e8be914d30c5abe8
 
 # Algorithms visualized and demonstrated in JavaScript
 
-#​763 — November 28, 2025
-
-[Read on the Web](https://javascriptweekly.com/issues/763)
-
 [![](./images/7de40a8353e61dcd4d5fecaf4aa9444a.jpeg)](https://github.com/trekhleb/javascript-algorithms)  
 - [Over 150 Algorithms and Data Structures Demonstrated in JS](https://github.com/trekhleb/javascript-algorithms "github.com") — Examples of many common algorithms (e.g. bit manipulation, Pascal’s triangle, Hamming distance) and data structures (e.g. linked lists, tries, graphs) with explanations. Available in eighteen other written languages too. **_\--- Oleksii Trekhleb et al._**
   
@@ -77,17 +73,17 @@ md5: 87033152d4a434f8e8be914d30c5abe8
 - [Vuetify 3.11](https://github.com/vuetifyjs/vuetify/releases/tag/v3.11.0) – Vue component framework.
 - [Fable 4.28.0](https://github.com/fable-compiler/Fable) – F# to JavaScript compiler.
 
-📰 Classifieds
-
-🦃 This Thanksgiving, skip writing tests. [Meticulous](https://www.meticulous.ai/?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=q4) observes your app and auto-builds continuously evolving E2E UI tests while you feast. Book a call now.
-
----
-
-🏎️ Depot's new [GitHub Actions Analytics:](https://fandf.co/4a4TzGu) see job durations, failure rates, CPU/memory usage, and performance trends across all your repos at a glance.
-
----
-
-🎨 [Try Pintura image editor for free today](https://pqina.nl/pintura/), add a polished cropping, rotating, and annotation experience to your web app in minutes.
+> **📰 CLASSIFIEDS**
+> 
+> 🦃 This Thanksgiving, skip writing tests. [Meticulous](https://www.meticulous.ai/?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=q4) observes your app and auto-builds continuously evolving E2E UI tests while you feast. Book a call now.
+> 
+> ---
+> 
+> 🏎️ Depot's new [GitHub Actions Analytics:](https://fandf.co/4a4TzGu) see job durations, failure rates, CPU/memory usage, and performance trends across all your repos at a glance.
+> 
+> ---
+> 
+> 🎨 [Try Pintura image editor for free today](https://pqina.nl/pintura/), add a polished cropping, rotating, and annotation experience to your web app in minutes.
 
 [![](./images/cda606dc75d74b3cec03a0fbbc0d5c94.jpeg)](https://tsdiagram.com/)  
 - [TSDiagram: Diagrams as Code with TypeScript](https://tsdiagram.com/ "tsdiagram.com") — Draft diagrams quickly with TypeScript. Define your data models through top-level type aliases and interfaces and it automatically lays out the nodes in an efficient way. [GitHub repo.](https://github.com/3rd/tsdiagram) **_\--- Andrei Neculaesei_**

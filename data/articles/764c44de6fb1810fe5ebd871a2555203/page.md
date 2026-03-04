@@ -7,15 +7,9 @@ md5: 764c44de6fb1810fe5ebd871a2555203
 
 # A new JavaScript engine from Fabrice Bellard
 
-#​767 — January 6, 2026
-
-[Read on the Web](https://javascriptweekly.com/issues/767)
-
 > 🎉 Happy New Year. **JavaScript Weekly is now landing in your inboxes on Tuesdays**, so here we are! Let's see what 2026 brings.  
 > \_\_  
 > _Your editor, Peter Cooper_
-
-## JavaScript Weekly
 
 [![](./images/b76766103add0f752d5b9d8c8ac4456a.jpeg)](https://risingstars.js.org/2025/en)  
 - [The 2025 JavaScript Rising Stars](https://risingstars.js.org/2025/en "risingstars.js.org") — At the start of each year, Michael rounds up the projects in the JavaScript ecosystem that gained the most popularity on GitHub in the prior year. After a two-year run of topping the chart, `shadcn/ui` has been pushed down to #3 by [n8n](https://n8n.io/) and [React Bits](https://reactbits.dev/). This is a fantastic roundup, now in its tenth(!) year, and features commentary from a few industry experts too. **_\--- Michael Rambeau et al._**
@@ -77,13 +71,13 @@ md5: 764c44de6fb1810fe5ebd871a2555203
 - 📊 [Recharts 3.6](https://github.com/recharts/recharts/releases/tag/v3.6.0) – Popular D3-powered React charting library.
 - [NATS.js 3.3](https://github.com/nats-io/nats.js) – JavaScript client for the NATS messaging system.
 
-📰 Classifieds
-
-🔑 Let users create their own API keys with [Clerk](https://go.clerk.com/VwLr1Ac). Built-in UI components, scopes, expiration & revocation. [Now in public beta](https://go.clerk.com/VwLr1Ac).
-
----
-
-[Trigger.dev](https://fandf.co/4pZ41UF) handles queues, retries, and long-running tasks so you can build production-ready agents and TypeScript workflows reliably at scale.
+> **📰 CLASSIFIEDS**
+> 
+> 🔑 Let users create their own API keys with [Clerk](https://go.clerk.com/VwLr1Ac). Built-in UI components, scopes, expiration & revocation. [Now in public beta](https://go.clerk.com/VwLr1Ac).
+> 
+> ---
+> 
+> [Trigger.dev](https://fandf.co/4pZ41UF) handles queues, retries, and long-running tasks so you can build production-ready agents and TypeScript workflows reliably at scale.
 
 ## 📢  Elsewhere in the ecosystem
 

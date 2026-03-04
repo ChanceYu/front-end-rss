@@ -7,10 +7,6 @@ md5: bd7f7c81026ab3ca691f7cd8743edc91
 
 # require(esm) now stable in Node 25
 
-#​608 — January 22, 2026
-
-[Read on the Web](https://nodeweekly.com/issues/608)
-
 [![](./images/ea18eda2608839af3a027e7138241746.jpeg)](https://nodejs.org/en/blog/release/v25.4.0)  
 - [Node.js 25.4.0 (Current) Released](https://nodejs.org/en/blog/release/v25.4.0 "nodejs.org") — Another gradual step forward for Node with **`require(esm)` now marked as stable**, as well as the [module compile cache](https://nodejs.org/api/module.html#module-compile-cache), along with a variety of other minor tweaks. Joyee Cheung of the Node team has [written a thread on Bluesky](https://bsky.app/profile/joyeecheung.bsky.social/post/3mcsca6j5cs2w) going deeper into this release. **_\--- Rafael Gonzaga_**
 
@@ -57,13 +53,13 @@ md5: bd7f7c81026ab3ca691f7cd8743edc91
 - [npm 11.8.0](https://github.com/npm/cli/releases/tag/v11.8.0) – The grandaddy of all JavaScript package managers?
 - [BSON Parser 7.1](https://github.com/mongodb/js-bson) – BSON (Binary JSON) parser for JavaScript.
 
-📰 Classifieds
-
-🛠️ Auth0 for AI Agents provides a foundation for developers to build AI agents without compromising security or innovation. [Start building](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
-
----
-
-[Speed up queries 3x with PostgreSQL 18](https://us02web.zoom.us/webinar/register/WN_0235AXQERaybzWCKYHaovQ?_gl=1*b88s8t*_gcl_au*MTkxNDQxNjcwMC4xNzY3MTE4Mjg4LjE4MTM2ODU3NTMuMTc2NzExODI5NC4xNzY3MTE4Mjk0*_ga*MjEyNzAzODgzOC4xNzU3NTA3Mjky*_ga_L8TBF28DDX*czE3Njg0OTAxNTUkbzM4JGcxJHQxNzY4NDkwNTQ0JGo1OCRsMCRoMA..#/registration). Learn AIO, Skip Scan & replication enhancements. [Register!](https://us02web.zoom.us/webinar/register/WN_0235AXQERaybzWCKYHaovQ?_gl=1*b88s8t*_gcl_au*MTkxNDQxNjcwMC4xNzY3MTE4Mjg4LjE4MTM2ODU3NTMuMTc2NzExODI5NC4xNzY3MTE4Mjk0*_ga*MjEyNzAzODgzOC4xNzU3NTA3Mjky*_ga_L8TBF28DDX*czE3Njg0OTAxNTUkbzM4JGcxJHQxNzY4NDkwNTQ0JGo1OCRsMCRoMA..#/registration)
+> **📰 CLASSIFIEDS**
+> 
+> 🛠️ Auth0 for AI Agents provides a foundation for developers to build AI agents without compromising security or innovation. [Start building](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
+> 
+> ---
+> 
+> [Speed up queries 3x with PostgreSQL 18](https://us02web.zoom.us/webinar/register/WN_0235AXQERaybzWCKYHaovQ?_gl=1*b88s8t*_gcl_au*MTkxNDQxNjcwMC4xNzY3MTE4Mjg4LjE4MTM2ODU3NTMuMTc2NzExODI5NC4xNzY3MTE4Mjk0*_ga*MjEyNzAzODgzOC4xNzU3NTA3Mjky*_ga_L8TBF28DDX*czE3Njg0OTAxNTUkbzM4JGcxJHQxNzY4NDkwNTQ0JGo1OCRsMCRoMA..#/registration). Learn AIO, Skip Scan & replication enhancements. [Register!](https://us02web.zoom.us/webinar/register/WN_0235AXQERaybzWCKYHaovQ?_gl=1*b88s8t*_gcl_au*MTkxNDQxNjcwMC4xNzY3MTE4Mjg4LjE4MTM2ODU3NTMuMTc2NzExODI5NC4xNzY3MTE4Mjk0*_ga*MjEyNzAzODgzOC4xNzU3NTA3Mjky*_ga_L8TBF28DDX*czE3Njg0OTAxNTUkbzM4JGcxJHQxNzY4NDkwNTQ0JGo1OCRsMCRoMA..#/registration)
 
 ## 📢  Elsewhere in the ecosystem
 

@@ -7,10 +7,6 @@ md5: ce1264f78ebed42fb0cb07f68938612d
 
 # A smoother way to ship Node apps
 
-#​609 — January 29, 2026
-
-[Read on the Web](https://nodeweekly.com/issues/609)
-
 [![](./images/96b1e539b32c8f4d56c30c47e667fb85.jpeg)](https://joyeecheung.github.io/blog/2026/01/26/improving-single-executable-application-building-for-node-js/)  
 - 🌊 [Improving Single Executable Application Building in Node](https://joyeecheung.github.io/blog/2026/01/26/improving-single-executable-application-building-for-node-js/ "joyeecheung.github.io") — First introduced two years ago, Node has a (still experimental) feature to [build single executable applications](https://nodejs.org/api/single-executable-applications.html) that can be deployed to machines that don’t have Node installed. This week’s Node.js 25.5 release, with its `--build-sea` flag, moves the final injection step into Node itself, eliminating the need for external tooling and turning what was a multi-step, low-level process into a single command. **_\--- Joyee Cheung_**
   
@@ -60,13 +56,13 @@ md5: ce1264f78ebed42fb0cb07f68938612d
 - [pnpm v10.28.2](https://github.com/pnpm/pnpm/releases/tag/v10.28.2)
 - [npm v11.8.0](https://github.com/npm/cli/releases/tag/v11.8.0)
 
-📰 Classifieds
-
-🚀 Auth0 for AI Agents is the complete auth solution for building AI agents more securely. [Start building today](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
-
----
-
-🎉 [Hear from the minds shaping the web!](https://jsnation.com/?utm_source=partner&utm_medium=jsweekly) Thousands of devs, food trucks & Amsterdam vibes. Don’t miss [JSNation](https://jsnation.com/?utm_source=partner&utm_medium=jsweekly) — 10% off with `JSWEEKLY`.
+> **📰 CLASSIFIEDS**
+> 
+> 🚀 Auth0 for AI Agents is the complete auth solution for building AI agents more securely. [Start building today](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
+> 
+> ---
+> 
+> 🎉 [Hear from the minds shaping the web!](https://jsnation.com/?utm_source=partner&utm_medium=jsweekly) Thousands of devs, food trucks & Amsterdam vibes. Don’t miss [JSNation](https://jsnation.com/?utm_source=partner&utm_medium=jsweekly) — 10% off with `JSWEEKLY`.
 
 ## 📢  Elsewhere in the ecosystem
 

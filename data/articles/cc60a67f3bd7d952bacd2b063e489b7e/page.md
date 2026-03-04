@@ -7,10 +7,6 @@ md5: cc60a67f3bd7d952bacd2b063e489b7e
 
 # A new guide to configuring Node packages
 
-#​607 — January 15, 2026
-
-[Read on the Web](https://nodeweekly.com/issues/607)
-
 [![](./images/d4006e47458d79cceb955595fa7f54b8.jpeg)](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases)  
 - ⚠️ [The Node.js January 13, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases "nodejs.org") — Originally expected in December, these releases (of [Node.js 25.3.0](https://nodejs.org/en/blog/release/v25.3.0), [24.13.0](https://nodejs.org/en/blog/release/v24.13.0), [22.22.0](https://nodejs.org/en/blog/release/v22.22.0), and [20.20.0](https://nodejs.org/en/blog/release/v20.20.0)) finally landed this week, largely due to their complexity and the scope of the vulnerabilities they tackle. More on that in the next item! **_\--- The Node.js Project_**
   
@@ -57,9 +53,9 @@ md5: cc60a67f3bd7d952bacd2b063e489b7e
 - [exiftool-vendored.js v35](https://github.com/photostructure/exiftool-vendored.js) – Process metadata from photos.
 - [NodeBB 4.8](https://github.com/NodeBB/NodeBB/releases/tag/v4.8.0) – Node.js-powered forum system.
 
-📰 Classifieds
-
-🚀 Auth0 for AI Agents is the complete auth solution for building AI agents more securely. [Start building today](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
+> **📰 CLASSIFIEDS**
+> 
+> 🚀 Auth0 for AI Agents is the complete auth solution for building AI agents more securely. [Start building today](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
 
 ## 📢  Elsewhere in the ecosystem
 

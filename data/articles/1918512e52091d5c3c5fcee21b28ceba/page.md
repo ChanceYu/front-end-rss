@@ -7,10 +7,6 @@ md5: 1918512e52091d5c3c5fcee21b28ceba
 
 # What's next for JavaScript frameworks in 2026
 
-#​770 — January 27, 2026
-
-[Read on the Web](https://javascriptweekly.com/issues/770)
-
 [![](./images/ca813f65ced6c918b6bed3c6ede2e673.jpeg)](https://documenso.com/blog/introducing-libpdf-the-pdf-library-typescript-deserves)  
 - [Introducing LibPDF: PDF Parsing and Generation from TypeScript](https://documenso.com/blog/introducing-libpdf-the-pdf-library-typescript-deserves "documenso.com") — [LibPDF](https://libpdf.documenso.com/) bills itself as _‘the PDF library TypeScript deserves’_ and supports parsing, modifying, signing and generating PDFs with a modern API in Node, Bun, and the browser. [GitHub repo.](https://github.com/libpdf-js/core) **_\--- Documenso_**
   
@@ -72,17 +68,17 @@ md5: 1918512e52091d5c3c5fcee21b28ceba
 - [Typed.js v3.0](https://github.com/mattboldt/typed.js) – Typing animation library. (GPL licensed.)
 - [Regle v1.17](https://reglejs.dev/) – Headless form validation library for Vue.
 
-📰 Classifieds
-
-🎉 [Hear from the minds shaping the web!](https://jsnation.com/?utm_source=partner&utm_medium=jsweekly) Thousands of devs, food trucks & Amsterdam vibes. Don’t miss [JSNation](https://jsnation.com/?utm_source=partner&utm_medium=jsweekly) — 10% off with `JSWEEKLY`.
-
----
-
-🚀 Auth0 for AI Agents is the complete auth solution for building AI agents more securely. [Start building today](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
-
----
-
-The Code teaches 150k+ AI & ML engineers how to use AI for coding. [Sign up and get the Ultimate Claude Code Guide](https://codenewsletter.ai/subscribe?utm_source=JavaScript) (100+ hacks) to ship 5X faster.
+> **📰 CLASSIFIEDS**
+> 
+> 🎉 [Hear from the minds shaping the web!](https://jsnation.com/?utm_source=partner&utm_medium=jsweekly) Thousands of devs, food trucks & Amsterdam vibes. Don’t miss [JSNation](https://jsnation.com/?utm_source=partner&utm_medium=jsweekly) — 10% off with `JSWEEKLY`.
+> 
+> ---
+> 
+> 🚀 Auth0 for AI Agents is the complete auth solution for building AI agents more securely. [Start building today](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
+> 
+> ---
+> 
+> The Code teaches 150k+ AI & ML engineers how to use AI for coding. [Sign up and get the Ultimate Claude Code Guide](https://codenewsletter.ai/subscribe?utm_source=JavaScript) (100+ hacks) to ship 5X faster.
 
 ## 📢  Elsewhere in the ecosystem
 

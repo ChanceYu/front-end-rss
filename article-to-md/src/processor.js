@@ -8,7 +8,7 @@ import { join } from 'node:path'
 
 import * as cheerio from 'cheerio'
 
-import { urlToMd5, loadProcessed, saveProcessed } from './utils.js'
+import { urlToMd5, loadProcessed, withProcessedUpdate } from './utils.js'
 import { getRuleForUrl } from './rules/index.js'
 import { localizeImages } from './images.js'
 import { STEALTH_ARGS, applyStealthScripts, simulateHuman } from './stealth.js'
@@ -17,6 +17,27 @@ const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
 // Resolves to front-end-rss/data/articles/
 const ARTICLES_DIR = join(__dirname, '..', '..', 'data', 'articles')
+
+/** Per-link lock so concurrent /once requests for the same article serialize. */
+const linkLockChains = new Map()
+
+/**
+ * Run fn exclusively for this link (one at a time per link).
+ * @param {string} link
+ * @param {() => Promise<T>} fn
+ * @returns {Promise<T>}
+ * @template T
+ */
+async function withLinkLock(link, fn) {
+  const prev = linkLockChains.get(link) ?? Promise.resolve()
+  const run = prev.then(() => fn())
+  linkLockChains.set(link, run)
+  try {
+    return await run
+  } finally {
+    if (linkLockChains.get(link) === run) linkLockChains.delete(link)
+  }
+}
 const LINKS_PATH = join(__dirname, '..', '..', 'data', 'links.json')
 
 /**
@@ -121,6 +142,7 @@ export async function processArticle(article, options = {}) {
     return { skipped: true, md5 }
   }
 
+  return withLinkLock(link, async () => {
   // Clean up previous output so stale images don't accumulate
   if (force) {
     const articleDir = join(ARTICLES_DIR, md5)
@@ -554,11 +576,7 @@ export async function processArticle(article, options = {}) {
       if (existsSync(articleDir)) {
         removeSync(articleDir)
       }
-      const proc = loadProcessed()
-      if (link in proc) {
-        delete proc[link]
-        saveProcessed(proc)
-      }
+      await withProcessedUpdate((p) => { if (link in p) delete p[link] })
       try {
         const sources = readJsonSync(LINKS_PATH)
         let changed = false
@@ -620,9 +638,8 @@ export async function processArticle(article, options = {}) {
     const outputPath = join(articleDir, 'page.md')
     outputFileSync(outputPath, fileContent, 'utf-8')
 
-    // Persist to processed map
-    processed[link] = md5
-    saveProcessed(processed)
+    // Persist to processed map (mutex so concurrent /once requests don't overwrite)
+    await withProcessedUpdate((p) => { p[link] = md5 })
 
     console.log(`[done]  → ${outputPath}`)
     return { success: true, md5, outputPath }
@@ -632,4 +649,5 @@ export async function processArticle(article, options = {}) {
   } finally {
     await browser?.close()
   }
+  })
 }

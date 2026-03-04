@@ -7,10 +7,6 @@ md5: 7e900a0bb9a6da60c8c71b7b4daccb25
 
 # A big week for jQuery
 
-#​769 — January 20, 2026
-
-[Read on the Web](https://javascriptweekly.com/issues/769)
-
 [![](./images/38c2ada475d72fe1024b626b821ec8bd.jpeg)](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)  
 - [jQuery 4.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/ "blog.jquery.com") — 20 years on from its original release, the ever-popular ([in terms of actual usage](https://w3techs.com/technologies/details/js-jquery)) library reaches 4.0 with a migration to ES modules (compatible with modern build tools) along with dropping support for IE 10 and older. With jQuery being a popular guest in our newsletters in the early years, it’s fantastic to see it pop back for a quick visit. **_\--- Timmy Willison_**
 
@@ -72,17 +68,17 @@ md5: 7e900a0bb9a6da60c8c71b7b4daccb25
 - [SuperDiff 4.0](https://github.com/DoneDeal0/superdiff/releases/tag/v4.0.0) – Rich readable diffs for arrays and objects.
 - [Jasmine 6.0](https://github.com/jasmine/jasmine/blob/main/release_notes/6.0.0.md) – Long-standing JavaScript BDD framework.
 
-📰 Classifieds
-
-🔑 [Add API key auth to any JS backend](https://go.clerk.com/kSddWIi). Clerk handles generation, hashing, scopes, and instant revocation. [Free during public beta](https://go.clerk.com/kSddWIi).
-
----
-
-Notion, Dropbox and LaunchDarkly have switched to [Meticulous](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=26q1&utm_content=classified) for frontend tests that provide near-exhaustive coverage with zero developer effort. [Find out why](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=26q1&utm_content=classified).
-
----
-
-🛠️ Auth0 for AI Agents provides a foundation for developers to build AI agents without compromising security or innovation. [Start building](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
+> **📰 CLASSIFIEDS**
+> 
+> 🔑 [Add API key auth to any JS backend](https://go.clerk.com/kSddWIi). Clerk handles generation, hashing, scopes, and instant revocation. [Free during public beta](https://go.clerk.com/kSddWIi).
+> 
+> ---
+> 
+> Notion, Dropbox and LaunchDarkly have switched to [Meticulous](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=26q1&utm_content=classified) for frontend tests that provide near-exhaustive coverage with zero developer effort. [Find out why](https://www.meticulous.ai?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=26q1&utm_content=classified).
+> 
+> ---
+> 
+> 🛠️ Auth0 for AI Agents provides a foundation for developers to build AI agents without compromising security or innovation. [Start building](https://auth0.com/signup?onboard_app=auth_for_aa&ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM?utm_source=cooperpress&utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_cooperpress_native_aud_jan_2026_placements_utm2&utm_medium=cpc&utm_id=aNKWR000002m8zp4AA).
 
 ## 📢  Elsewhere in the ecosystem
 

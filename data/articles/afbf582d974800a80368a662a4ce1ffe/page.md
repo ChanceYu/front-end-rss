@@ -7,10 +7,6 @@ md5: afbf582d974800a80368a662a4ce1ffe
 
 # Hono tops developer satisfaction, but Express still leads
 
-#​610 — February 5, 2026
-
-[Read on the Web](https://nodeweekly.com/link/180250/web)
-
 [![](./images/17d3a5548bb5b75116f1d7de9d993178.jpeg)](https://nodeweekly.com/link/180252/web)  
 - [The State of JavaScript 2025: Backend Frameworks](https://nodeweekly.com/link/180252/web "2025.stateofjs.com") — The results of the popular annual JavaScript survey are out, and we’re focusing on the most relevant bit to Node.js: _backend frameworks_. [Express](https://nodeweekly.com/link/180300/web) still leads the way, but [NestJS](https://nodeweekly.com/link/180253/web) continues to grow rapidly. Meanwhile, [Hono](https://nodeweekly.com/link/180254/web) comes top in developer satisfaction. **_\--- Devographics_**
   
@@ -64,13 +60,13 @@ md5: afbf582d974800a80368a662a4ce1ffe
 - [jsdom 28.0](https://nodeweekly.com/link/180289/web) – Pure JS implementation of various web standards.
 - [WebDAV v5.9.0](https://nodeweekly.com/link/180290/web) – WebDAV client library.
 
-📰 Classifieds
-
-🔮 Debug smarter: See how [Sentry’s AI-agent Seer](https://nodeweekly.com/link/180291/web) analyzes Node errors & logs to pinpoint root causes and propose fixes.
-
----
-
-🎉 [Hear from the minds shaping the web!](https://nodeweekly.com/link/180292/web) Thousands of devs, food trucks & Amsterdam vibes. Don’t miss [JSNation](https://nodeweekly.com/link/180292/web) — 10% off with `JSWEEKLY`.
+> **📰 CLASSIFIEDS**
+> 
+> 🔮 Debug smarter: See how [Sentry’s AI-agent Seer](https://nodeweekly.com/link/180291/web) analyzes Node errors & logs to pinpoint root causes and propose fixes.
+> 
+> ---
+> 
+> 🎉 [Hear from the minds shaping the web!](https://nodeweekly.com/link/180292/web) Thousands of devs, food trucks & Amsterdam vibes. Don’t miss [JSNation](https://nodeweekly.com/link/180292/web) — 10% off with `JSWEEKLY`.
 
 ## 📢  Elsewhere in the ecosystem
 

@@ -7,13 +7,9 @@ md5: 69571afe278cb272e54ca5faf2e5e464
 
 # What's the story? JavaScript's 30!
 
-#​764 — December 5, 2025
-
-[Read on the Web](https://javascriptweekly.com/issues/764)
-
 ![](./images/31ad32a1555601b1acc86244f7bab821.jpeg) 
 
-🎉  JavaScript Turns 30 Years Old  🎉
+## 🎉  JavaScript Turns 30 Years Old  🎉
 
 Back in May 1995, a 33 year old Brendan Eich [built the first prototype of JavaScript in just ten days](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/), originally codenamed _Mocha_ (and then _LiveScript_). On December 4, 1995, Netscape and Sun Microsystems [officially announced 'JavaScript' in a press release](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html) as _"an easy-to-use object scripting language designed for creating live online applications that link together objects and resources on both clients and servers."_
 
@@ -87,13 +83,13 @@ _P.S. Enjoy finding the 1995 references in our special birthday montage above._
 - [Neutralinojs 6.4](https://neutralino.js.org/docs/release-notes/framework#v640) – Lighter alternative to Electron.
 - [Express v5.2.0](https://github.com/expressjs/express/releases/tag/v5.2.0) and [v5.2.1](https://github.com/expressjs/express/releases/tag/v5.2.1)
 
-📰 Classifieds
-
-[Still writing tests manually?](https://www.meticulous.ai/?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=q4) See why modern engineering teams like Dropbox, Notion and Lattice rely on [Meticulous](https://www.meticulous.ai/?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=q4) to run E2E UI tests.
-
----
-
-🎨 [Try Pintura image editor for free today](https://pqina.nl/pintura/), add a polished cropping, rotating, and annotation experience to your web app in minutes.
+> **📰 CLASSIFIEDS**
+> 
+> [Still writing tests manually?](https://www.meticulous.ai/?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=q4) See why modern engineering teams like Dropbox, Notion and Lattice rely on [Meticulous](https://www.meticulous.ai/?utm_source=jsweekly&utm_medium=newsletter&utm_campaign=q4) to run E2E UI tests.
+> 
+> ---
+> 
+> 🎨 [Try Pintura image editor for free today](https://pqina.nl/pintura/), add a polished cropping, rotating, and annotation experience to your web app in minutes.
 
 ## 📢  Elsewhere in the ecosystem
 

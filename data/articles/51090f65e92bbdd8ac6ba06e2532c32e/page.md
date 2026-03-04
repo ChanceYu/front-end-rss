@@ -7,10 +7,6 @@ md5: 51090f65e92bbdd8ac6ba06e2532c32e
 
 # Guess who's back, back again? Shai-Hulud.
 
-#​602 — November 25, 2025
-
-[Read on the Web](https://nodeweekly.com/issues/602)
-
 [![](./images/f28a72bf4f49ac11ccb4750fec7ea11a.jpeg)](https://satanacchio.hashnode.dev/the-summer-i-shipped-type-stripping)  
 - [How a Summer in Abruzzo Helped Bring Type Stripping to Node.js](https://satanacchio.hashnode.dev/the-summer-i-shipped-type-stripping "satanacchio.hashnode.dev") — Node.js TSC member and committer Marco tells the _personal_ tale of what it took to bring [type stripping](https://nodejs.org/en/learn/typescript/run-natively) (now considered stable) to Node. It’s neat to get the back story. He’s now working on a new experimental feature: [`--experimental-config-file`](https://nodejs.org/api/cli.html#--experimental-config-fileconfig) **_\--- Marco Ippolito_**
   

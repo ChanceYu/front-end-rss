@@ -7,10 +7,6 @@ md5: 1034a7cc15f756440e7efaa7dc25f9e5
 
 # An experimental Node environment in the browser
 
-#​611 — February 12, 2026
-
-[Read on the Web](https://nodeweekly.com/link/180630/web)
-
 [![](./images/8f43907afed4ac332e062df18a267b4e.jpeg)](https://nodeweekly.com/link/180632/web) 
 
 TypeScript 6.0 enters beta, but what does it mean for Node developers?
@@ -62,9 +58,9 @@ There are, however, several notable updates for Node developers:
   
 - [Shovel.js: What If Your Server Were Just a Service Worker?](https://nodeweekly.com/link/180655/web "shovel.js.org") — A full-stack framework and meta-framework built around the [Service Worker](https://nodeweekly.com/link/180656/web) model, where you use Web APIs for the server abstractions for a consistent experience across runtimes, whether Node, Bun, or edge platforms. **_\--- Brian Kim_**
 
-📰 Classifieds
-
-[Clerk's MCP Server](https://nodeweekly.com/link/180663/web) gives your AI coding assistant accurate auth snippets and patterns. [Now in public beta](https://nodeweekly.com/link/180663/web).
+> **📰 CLASSIFIEDS**
+> 
+> [Clerk's MCP Server](https://nodeweekly.com/link/180663/web) gives your AI coding assistant accurate auth snippets and patterns. [Now in public beta](https://nodeweekly.com/link/180663/web).
 
 - 📄 [DOCX 9.5.2](https://nodeweekly.com/link/180657/web) – The popular `.docx` creation and manipulation library gets its first update in some time.
 - [Prisma 7.4.0](https://nodeweekly.com/link/180658/web) – Gains a new caching layer and support for partial indexes.
