@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-05T06:36:05.701Z</updated>
+    <updated>2026-03-05T18:40:32.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3663期】如何用 Ollama 在本地运行并定制专属 LLM]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd"/>
+        <updated>2026-03-05T00:00:00.000Z</updated>
+        <published>2026-03-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node 25.8 adds permission model audit mode]]></title>
+        <id>https://nodeweekly.com/issues/614</id>
+        <link href="https://nodeweekly.com/issues/614"/>
         <updated>2026-03-05T00:00:00.000Z</updated>
         <published>2026-03-05T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[设计模式Trustworthy Generation：提升RAG信赖度]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542871&amp;idx=1&amp;sn=30f0fa05c0a2129017f6f3f19812a491&amp;chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542871&amp;idx=1&amp;sn=30f0fa05c0a2129017f6f3f19812a491&amp;chksm=8390db0fb4e75219dc73f5aa35921a153732ea6f18d556e43292bb0c8acbc4e207dc6781f0ae#rd"/>
-        <updated>2026-02-09T00:00:00.000Z</updated>
-        <published>2026-02-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 200 行 JS 实现“渐进式 JSON”——让网页加载速度快到飞起！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529182&amp;idx=1&amp;sn=8a63421a91f196fdec83720fcca91152&amp;chksm=f992740fcee5fd192da7e35bdc2635156ab7ba04fa894cac800b1d49823db248d6bada4514c7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529182&amp;idx=1&amp;sn=8a63421a91f196fdec83720fcca91152&amp;chksm=f992740fcee5fd192da7e35bdc2635156ab7ba04fa894cac800b1d49823db248d6bada4514c7#rd"/>
         <updated>2026-02-09T00:00:00.000Z</updated>
         <published>2026-02-09T00:00:00.000Z</published>
     </entry>
