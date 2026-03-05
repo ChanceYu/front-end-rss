@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-06 06:19:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 07:47:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,7 +22,7 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -33,7 +33,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2026-03-01-别再学做App了：Karpathy预言Agent将淘汰App-Store，软件进入“用完即丢”时代](http://mp.weixin.qq.com/s/nECex63WezZXZMQEplmDug)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8cf5da47acc4ed0d54f75762b8b0e0a)  ![](/assets/new.png) 
+- [2026-03-01-别再学做App了：Karpathy预言Agent将淘汰App-Store，软件进入“用完即丢”时代](http://mp.weixin.qq.com/s/nECex63WezZXZMQEplmDug)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8cf5da47acc4ed0d54f75762b8b0e0a)  
 - [2026-01-21-烧掉数万亿-Token、数百-Agent-连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？](http://mp.weixin.qq.com/s/aXhDQk7Wxa6rZg4ms0I3Tg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e8badfdbff6ecb2012bc76ee02cc7afd)  
 - [2026-01-06-信息图的不可能三角，被这个开源项目打破了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526503&idx=1&sn=907c88cb06ac0b09dc308018d0fdc2d4&chksm=f952dd24ce25543252ddfdd3f62994fd95d30039f17040ec08c6837421e93021c397f6a990c2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5288a82a54e3585b045f986002ff2629)  
 - [2025-12-14-沙龙报名-|-AI领航，跨端技术新范式！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=2&sn=06a841bf0bdb146ac14499ea30a7ea60&chksm=f952dd44ce2554521db848180e92b2a624d93022b86ee8c20495a44f1f10a69102e927d9825d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=81a2471d730fd72b4d88e2ed97963c95)  
@@ -360,6 +360,7 @@
 </summary>
 
 
+- [2026-03-06-科技爱好者周刊（第-387-期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555aecb7a1061f01f63db9951be1a979)  ![](/assets/new.png) 
 - [2026-02-27-科技爱好者周刊（第-386-期）：当外卖员接入-AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=241ea1cb865af38b998fc2766990e63a)  
 - [2026-02-14-字节全家桶-Seed-2.0-+-TRAE-玩转-Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=418457a7479a2ed56a623a9e423edb3c)  
 - [2026-02-13-科技爱好者周刊（第-385-期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=78751a1c9871497549312d9d1549e541)  
@@ -369,7 +370,6 @@
 - [2026-01-29-Kimi-的一体化，Manus-的分层](http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=15958741525b04f1d3ad668efba95edf)  
 - [2026-01-23-科技爱好者周刊（第-382-期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a95363d190e0e2ab6364d10a88973ff7)  
 - [2026-01-22-AI-native-Workspace-也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=98cb285d3f906d24de258484860e76af)  
-- [2026-01-16-科技爱好者周刊（第-381-期）：中国-AI-大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efc432d6df983d0bef925af6978f1704)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
