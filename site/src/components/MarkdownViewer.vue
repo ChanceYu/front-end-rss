@@ -141,6 +141,7 @@ export default {
       } else {
         this._unbindBodyScroll()
         this.showTitle = false
+        this.removeIdFromQuery()
       }
     }
   },
@@ -165,6 +166,12 @@ export default {
     this._unbindBodyScroll()
   },
   methods: {
+    removeIdFromQuery () {
+      if (!this.$router || !('id' in (this.$route.query || {}))) return
+      const query = { ...this.$route.query }
+      delete query.id
+      this.$router.replace({ path: this.$route.path, query })
+    },
     articleDataMdUrl (hash) {
       return `${ARTICLE_DATA_HOST}/data/articles/${hash}/page.md`
     },

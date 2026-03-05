@@ -31,8 +31,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 // 项目根目录的 data（article-to-md 在 repo 根下）
 const DATA_DIR = join(__dirname, '..', '..', 'data')
 const ARTICLES_DIR = join(DATA_DIR, 'articles')
-const PROCESSED_JSON_PATH = join(ARTICLES_DIR, 'processed.json')
-const PROCESSED_JSON_KEY = 'articles/processed.json'
+const PROCESSED_JSON_PATH = join(DATA_DIR, 'processed.json')
+const PROCESSED_JSON_KEY = 'processed.json'
 
 const SKIP_NAMES = new Set([
   '.DS_Store',
@@ -147,7 +147,7 @@ async function uploadFileList(files, ctx) {
 }
 
 /**
- * 仅上传 data/articles/processed.json 到七牛（key: data/articles/processed.json）。
+ * 仅上传 data/processed.json 到七牛（key: data/processed.json）。
  * 可在 runUpload 末尾或 /article-to-md/once 单篇处理完成后调用。
  * @returns {{ ok: number, skip: number, fail: number }}
  */
@@ -189,8 +189,8 @@ export async function runUpload() {
     throw new Error('data 目录不存在: ' + DATA_DIR)
   }
   const ctx = getQiniuContext()
-  const files = getAllFiles(DATA_DIR).filter((f) => f.key !== PROCESSED_JSON_KEY)
-  console.log(`共 ${files.length} 个文件待上传（不含 processed.json，单独上传）`)
+  const files = getAllFiles(DATA_DIR)
+  console.log(`共 ${files.length} 个文章目录待上传`)
 
   let ok = 0
   let skip = 0
@@ -206,12 +206,8 @@ export async function runUpload() {
   console.log(`\n完成：成功 ${ok}，跳过(已存在且 md5 一致) ${skip}，失败 ${fail}`)
 
   if (fail === 0 && pathExistsSync(ARTICLES_DIR)) {
-    const names = readdirSync(ARTICLES_DIR)
-    for (const name of names) {
-      if (name === 'processed.json') continue
-      await fs.remove(join(ARTICLES_DIR, name))
-    }
-    console.log('已清理 data/articles（保留 processed.json）')
+    await fs.remove(join(ARTICLES_DIR))
+    console.log('已清理 data/articles 目录')
   }
 
   return { ok, skip, fail }

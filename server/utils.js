@@ -20,7 +20,7 @@ const README_TEMPLATE_PATH   = path.join(RESP_PATH + '/templates/README.md')
 const TAGS_MD_PATH           = path.join(RESP_PATH + '/TAGS.md')
 const TAGS_TEMPLATE_PATH     = path.join(RESP_PATH + '/templates/TAGS.md')
 const DETAILS_TEMPLATE_PATH  = path.join(RESP_PATH + '/templates/DETAILS.md')
-const ARTICLES_PROCESSED_PATH = path.join(RESP_PATH + '/data/articles/processed.json')
+const ARTICLES_PROCESSED_PATH = path.join(RESP_PATH + '/data/processed.json')
 
 const tags = fs.readJsonSync(TAGS_PATH)
 

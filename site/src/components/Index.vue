@@ -301,7 +301,7 @@ export default {
 
     // 在 index 与 articles.json 加载完毕后，异步加载已转换的文章映射
     loadProcessed () {
-      fetch(`${ARTICLE_DATA_HOST}/data/articles/processed.json`, { cache: 'no-store' })
+      fetch(`${ARTICLE_DATA_HOST}/data/processed.json`, { cache: 'no-store' })
         .then(r => r.json())
         .then(data => {
           this.processedArticles = data || {}

@@ -7,7 +7,7 @@ import fs from 'fs-extra'
 const { existsSync, readJsonSync, outputJsonSync } = fs
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
-const PROCESSED_PATH = join(__dirname, '..', '..', 'data', 'articles', 'processed.json')
+const PROCESSED_PATH = join(__dirname, '..', '..', 'data', 'processed.json')
 const PROJECT_ROOT = join(__dirname, '..', '..')
 
 export const QINIU_ENABLED = process.env.QINIU_ACCESS_KEY && process.env.QINIU_SECRET_KEY
