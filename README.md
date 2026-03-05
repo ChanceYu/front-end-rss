@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-06 02:41:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 06:19:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神) 
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f5c57319a5bfc69c25d56c851546cd3)  ![](/assets/new.png) 
+- [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f5c57319a5bfc69c25d56c851546cd3)  
 - [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccf8b8c331b88f29e0df7da443c3d11d)  
 - [2026-02-19-Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10534a1adb1cc6c825d744c1149f1bec)  
 - [2026-02-12-An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1034a7cc15f756440e7efaa7dc25f9e5)  
@@ -129,16 +129,16 @@
 </summary>
 
 
+- [2026-03-01-别再学做App了：Karpathy预言Agent将淘汰App-Store，软件进入“用完即丢”时代](http://mp.weixin.qq.com/s/nECex63WezZXZMQEplmDug)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8cf5da47acc4ed0d54f75762b8b0e0a)  ![](/assets/new.png) 
 - [2026-01-21-烧掉数万亿-Token、数百-Agent-连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？](http://mp.weixin.qq.com/s/aXhDQk7Wxa6rZg4ms0I3Tg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e8badfdbff6ecb2012bc76ee02cc7afd)  
 - [2026-01-06-信息图的不可能三角，被这个开源项目打破了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526503&idx=1&sn=907c88cb06ac0b09dc308018d0fdc2d4&chksm=f952dd24ce25543252ddfdd3f62994fd95d30039f17040ec08c6837421e93021c397f6a990c2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5288a82a54e3585b045f986002ff2629)  
-- [2025-12-14-Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=1&sn=927074d89c3d51f41041e230de48c673&chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7b7f953b1057cd12f1a4bafc40674999)  
 - [2025-12-14-沙龙报名-|-AI领航，跨端技术新范式！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=2&sn=06a841bf0bdb146ac14499ea30a7ea60&chksm=f952dd44ce2554521db848180e92b2a624d93022b86ee8c20495a44f1f10a69102e927d9825d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=81a2471d730fd72b4d88e2ed97963c95)  
+- [2025-12-14-Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=1&sn=927074d89c3d51f41041e230de48c673&chksm=f952dd44ce255452cce09960e570099054727b6965afa06217aaadcd59eba0becc9d58a1ea7b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7b7f953b1057cd12f1a4bafc40674999)  
 - [2025-12-02-全球前端岗位招聘需求断崖下降-9.89%，前端的未来究竟在哪里？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526386&idx=1&sn=e67f786252a6b088d62c6994a014a8a2&chksm=f952d2b1ce255ba76066a1cf107e97324c8a910e331cf75ea4071717e82f9078bb121fa5fa65#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af735bb797a1dfa60413075d2c94f194)  
 - [2025-11-23-Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw) 
 - [2025-11-16-印度迎来AI工具“0元购”时代！OpenAI、谷歌等巨头内心os：别急，先让他们上瘾，我们再来收费](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526362&idx=1&sn=534112b862b7b641c0cbd3f86fa5d48f&chksm=f952d299ce255b8feffa5fc55414d7d748826d70a7cc4cfac0b8476d94c2e3bf2b87349cdb3f#rd) 
 - [2025-11-11-完整前端代码突然公开？苹果把App-Store“老底”都揭了，开发者社区炸锅！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526357&idx=1&sn=6ef10df8180a60a78224c93566659990&chksm=f952d296ce255b80ecd68e067e2fb215fe727f80c7c370415b28662f6a0c1a40133fdac2f7d7#rd) 
 - [2025-10-28-“神级模型”Gemini-3.0实力刷屏！联手谷歌全新氛围编程工具重塑前端，如今只差官宣](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526345&idx=1&sn=9df1f4feca9da1a9dd57bd9f8dbc3b5f&chksm=f952d28ace255b9c9a2dd30b6b0825e783ff31209d2f5719e83d7ae66b14944e3202d3a732e4#rd) 
-- [2025-10-19-WebAssembly-3.0-发布，64-位内存、垃圾回收全都有，先别激动，组件模型还没做完！](http://mp.weixin.qq.com/s/f71ibOfEmyESbBjOTWodMQ) 
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -152,7 +152,7 @@
 
 - [2026-03-02-商业级前端转-AI-全栈课程，前端部分全部开源](http://mp.weixin.qq.com/s/OzaUsJOQMPyL4ofe95zSAw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=657ea8f7196bb7d7e71b428938626767)  
 - [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0af49c4bc19f7a84f6803f82691cd538)  
-- [2026-02-26-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508991&idx=1&sn=89f5f5872c8309810fa00c7edb8b377d&chksm=ce45b66ef9323f782e10066be8e486a03e84dc16e746fa762784ff43a140c056607ba3b69349#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3b971f1003742998b80d729eca4e003b) 
+- [2026-02-26-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508991&idx=1&sn=89f5f5872c8309810fa00c7edb8b377d&chksm=ce45b66ef9323f782e10066be8e486a03e84dc16e746fa762784ff43a140c056607ba3b69349#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3b971f1003742998b80d729eca4e003b)  
 - [2026-02-25-身为全栈工程师，这一神器让我开发效率翻倍！](http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1f9d266fbac584725af5b9576ee65be2)  
 - [2026-02-24-公司快不行的几个前兆](http://mp.weixin.qq.com/s/_HFUlVZ9Fj0uEaChjz7Thg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a6e9de212ba944c80ab20b940a03b52a)  
 - [2026-02-24-尤雨溪坦言：我确实不懂Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508955&idx=1&sn=a713dd86a5239421c4611930e631fae7&chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f184ba63d44003c23cee3ae9b99859cd)  

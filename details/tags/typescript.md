@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-06 02:41:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 06:19:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -253,8 +253,8 @@
 - [2021-03-10-要改掉的-10-种-TypeScript-坏习惯](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247507238&idx=2&sn=a6ac851e1d82d099a7dd51b129a93413&chksm=f9526865ce25e1733bf93851707aa3ca951484701185e14da83003c9abc87187cc4811eadf52&scene=27#wechat_redirect) 
 - [2021-02-24-TypeScript-4.2-正式发布：更智能的类型别名保留，声明缺失的帮助函数，还有许多破坏性更新](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506777&idx=1&sn=da6f27f58e01ca5528be707d667afa0c&chksm=f9526e1ace25e70cc5a77d59c94aad9ab9b084faced06f8f221c4316e902fec6513221b528b7&scene=27#wechat_redirect) 
 - [2021-01-15-TypeScript-4.2-Beta版本发布：带来诸多更新，营造更好的开发体验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505623&idx=2&sn=3ff0afaa02c4356db087ca9521410b17&chksm=f9526394ce25ea8250ded28fb1f402278ea29cb76bb4146bad8baf6b8ed1ff582a4c1040eeb5&scene=27#wechat_redirect) 
-- [2020-12-11-Deno-1.6正式发布！支持将TypeScript编译成单个可执行文件，苹果M1可原生运行](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247504128&idx=1&sn=3a1cf14616d336c30f07f15976b97862&chksm=f9526443ce25ed55b09354a73c7dfb3dbad81b4399ed678c057db0c480afc3b132e4e426af7f&scene=27#wechat_redirect) 
 - [2020-12-11-你的企业还在为AI落地头疼吗？华为云ModelArts-Pro助你一臂之力｜活动推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247504128&idx=3&sn=1769caf699031206ba72d0368e487867&chksm=f9526443ce25ed55ad25f48a32acafce50747b57f2056216d84914ecee1dcaa08b08a825e032&scene=27#wechat_redirect) 
+- [2020-12-11-Deno-1.6正式发布！支持将TypeScript编译成单个可执行文件，苹果M1可原生运行](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247504128&idx=1&sn=3a1cf14616d336c30f07f15976b97862&chksm=f9526443ce25ed55b09354a73c7dfb3dbad81b4399ed678c057db0c480afc3b132e4e426af7f&scene=27#wechat_redirect) 
 - [2020-12-07-华为云开发者沙龙汇集大众智慧，ModelArts点亮企业未来-|-活动推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247504030&idx=3&sn=60bd040228904b52fb1eed4790449809&chksm=f95265ddce25eccbd5dd8f0beed9a1c31a5f7c3635bc0cca24f2e09cc5d14b71a5862ff14179&scene=27#wechat_redirect) 
 - [2020-11-20-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247503499&idx=1&sn=38255b01417ba0800eb6651ff6872efa&chksm=f9527bc8ce25f2de75641ad52b8fbb80761d28b579c462bba4c972f0299dca610b0a9d9a86bf&scene=27#wechat_redirect) 
 - [2020-11-18-Angular-11-正式发布：加入-webpack-5，升级至-TS-4.0，不再支持-IE-9](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247503419&idx=1&sn=5b259cabe5dd1bfba6d7a3979c3cf82b&chksm=f9527b78ce25f26e269ec9d2bd9c5edb9c44b11f23ba53e836051980e5e6bc11abe9815cac29&scene=27#wechat_redirect) 
