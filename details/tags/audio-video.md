@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-05 14:36:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 01:21:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频
 
@@ -7,7 +7,7 @@
 
 
 
-- [2026-02-03-Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)&nbsp;&nbsp;[📖](/data/articles/6b807c8dbdb15b9f73f44d022f2b72df/page.md) 
+- [2026-02-03-Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6b807c8dbdb15b9f73f44d022f2b72df) 
 - [2024-12-29-【第3438期】如何实现视频旋转缩放](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274920&idx=1&sn=e33ef23ddd9095d66096311cdc23d682&chksm=bc839799dd97ff9e3cc029ae8d508ff4225846384f924138285b5085d2424a7d2312f3d8ab9a&scene=0#rd) 
 - [2024-12-17-【早阅】JavaScript-工具库演变：从-Lodash-和-Underscore-到原生-JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274666&idx=1&sn=05ae34593f07398c82d0568a0f011ea5&chksm=bc1f4dc5f4ece3a8573c0926cf191d1a3628126bc2312b16cf54c812bbfc77533ca601c19794&scene=0#rd) 
 - [2024-01-26-【第3181期】webgl-实现透明视频动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268913&idx=1&sn=5cff163a8f7bd3085052f5264baeb99c&chksm=bd48feb58a3f77a3687252439442bc9a822833e4733d1ea5849abb8e205caf88f44d37b1c87b#rd) 
@@ -170,7 +170,7 @@
 - [2023-02-08-你还在用sort排序？分享30个用的最频繁的lodash工具函数~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487718&idx=1&sn=3a86968a58a1ae4c0c56bf5aa7ce2456&chksm=ce460577f9318c610378089278975f8046ab7205817d0a11d6beaeacd6387278b77a7d3ab3dd#rd) 
 - [2022-04-24-我的项目居然十几处用错了这个lodash方法，大家注意了~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486147&idx=1&sn=feecc5fc16c63e14bc6468a4e1aa9117&chksm=ce461f52f9319644c4c56fa7d0288603c15c06c014d74f52a9e633879ade31bf48c7927df128#rd) 
 - [2022-02-26-什么，lodash-的防抖失效了？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061345&idx=2&sn=52e79a8b1441446f9039502b76687359&chksm=87c42371b0b3aa672c48b19d25cc03558227bf7bb410f19da0ce10f840e657ef62df26bf84e0#rd) 
-- [2026-01-26-前端指纹技术是如何实现的？（Canvas、Audio、硬件API-核心原理解密）](http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA)&nbsp;&nbsp;[📖](/data/articles/96d3cf561da87fe6ff40c460cf1e47ba/page.md) 
+- [2026-01-26-前端指纹技术是如何实现的？（Canvas、Audio、硬件API-核心原理解密）](http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=96d3cf561da87fe6ff40c460cf1e47ba) 
 - [2025-09-08-WebRTC实现网页直播](http://mp.weixin.qq.com/s/uA7BofPS-sT0yNMrhjWRfg) 
 - [2025-02-18-前端实现画中画超简单，让网页飞出浏览器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525341&idx=1&sn=8cdf702e17ba35466d85e2b895654490&chksm=f992650ccee5ec1a5c8a6c2151fcf5d0a37a5ccc094a47b810c66495234675577afc97bb03fc#rd) 
 - [2024-12-24-基于Vue3-+-WebRTC-+-Node-+-SRS-+-FFmpeg实现类似bilibili的在线直播功能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524802&idx=1&sn=c61eb41785f0cc551b404b262aa7fe95&chksm=f9926713cee5ee059a565ca4dabe17bd629c3e9a3fdd06e439ae2db743daf53d0b1e9f48004e#rd) 
@@ -188,9 +188,9 @@
 - [2023-12-14-在转转直播模块接入-xgplayer-的经验，完美运行！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514626&idx=1&sn=1549ca9fa01888e52fa3b576363a90d5&chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd) 
 - [2023-08-13-2022年5月毕业润美转码，还有50天失业期就要被迫回国……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513408&idx=1&sn=d06afdac585a4b04900bb230d100c7bf&chksm=eb078d39dc70042f8350128d9f6d3412886ffc6628e208b3104630890cc8c3ce6b61e1a51c1b#rd) 
 - [2023-07-02-Chrome-震撼新特性：文档画中画！（不光是视频）](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512208&idx=1&sn=af171038f66598ff89653c11c0832e3d&chksm=eb0788e9dc7001ffd544fe3da2e13df4c403d371468526df2bde475c6c094dfb9cd0d7198794#rd) 
-- [2026-03-04-ICLR-2026-|-基于概念蒸馏的生成式视频复原算法Vivid-VR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542989&idx=1&sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd)&nbsp;&nbsp;[📖](/data/articles/11962c709d9d70b3ac12e38d170609bf/page.md) 
-- [2026-01-30-【淘宝直播数字人互动LLM】告别AI感：基于真人ASR数据的拟人化探索](http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg)&nbsp;&nbsp;[📖](/data/articles/61cdf2fe9e918efbf64da316b374dc91/page.md) 
-- [2025-12-08-2025淘宝直播双11花花乐动画实现方案思考&amp;分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542021&idx=1&sn=7a6602a2f66c962b2d69934938727815&chksm=8390c7ddb4e74ecb7260738532c8257c0dde2b6a491ac68acddcf475b0bcab9abf3d75a88202#rd)&nbsp;&nbsp;[📖](/data/articles/9885f1e3efd9e81f3a47d377e52e1e55/page.md) 
+- [2026-03-04-ICLR-2026-|-基于概念蒸馏的生成式视频复原算法Vivid-VR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542989&idx=1&sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=11962c709d9d70b3ac12e38d170609bf) 
+- [2026-01-30-【淘宝直播数字人互动LLM】告别AI感：基于真人ASR数据的拟人化探索](http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61cdf2fe9e918efbf64da316b374dc91) 
+- [2025-12-08-2025淘宝直播双11花花乐动画实现方案思考&amp;分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542021&idx=1&sn=7a6602a2f66c962b2d69934938727815&chksm=8390c7ddb4e74ecb7260738532c8257c0dde2b6a491ac68acddcf475b0bcab9abf3d75a88202#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9885f1e3efd9e81f3a47d377e52e1e55) 
 - [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd) 
 - [2025-07-04-淘宝直播数字人：服务端工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540818&idx=1&sn=65937e44df3fc196fa65db0d62cfa9e0&chksm=82d8aaa314a9ec4a0c33a80c8c76c49ba7f9993d2ff7fc5513298123bb03367804efae2dc20f&scene=0#rd) 
 - [2025-07-02-淘宝直播数字人：音视频&amp;算法工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540813&idx=1&sn=58818d07ce2665bdc719d13b451d82c7&chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&scene=0#rd) 
@@ -237,7 +237,7 @@
 - [2018-12-09-使用wavesurfer.js显示mp3-audio音频的波形图](https://www.zhangxinxu.com/wordpress/2018/12/wavesurfer-js-mp3-audio-wave/) 
 - [2018-12-03-HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/) 
 - [2018-12-02-HTML5-video视频播放Picture-in-Picture画中画技术](https://www.zhangxinxu.com/wordpress/2018/12/html5-video-play-picture-in-picture/) 
-- [2026-02-12-智谱旗舰-GLM-5-实测：对比-Opus-4.6-和-GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)&nbsp;&nbsp;[📖](/data/articles/be43eb6904111f368c99278e2cc44d4a/page.md) 
+- [2026-02-12-智谱旗舰-GLM-5-实测：对比-Opus-4.6-和-GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=be43eb6904111f368c99278e2cc44d4a) 
 - [2024-09-27-科技爱好者周刊（第-319-期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html) 
 - [2023-12-29-科技爱好者周刊（第-284-期）：YouTube-有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html) 
 - [2021-07-09-科技爱好者周刊（第-166-期）：视频学习胜过读书吗？](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html) 

@@ -4,6 +4,7 @@ const webpack = require('webpack')
 const config = require('../config')
 const merge = require('webpack-merge')
 const path = require('path')
+const https = require('https')
 const baseWebpackConfig = require('./webpack.base.conf')
 const CopyWebpackPlugin = require('copy-webpack-plugin')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
@@ -46,13 +47,20 @@ const devWebpackConfig = merge(baseWebpackConfig, {
       poll: config.dev.poll
     },
     before(app) {
-      // articles 目录下所有文件（processed.json、.md、图片等）直接从源目录读取，需先于通配路由注册
+      // /data/articles/* 代理到 fed-data 域名
+      const ARTICLE_DATA_ORIGIN = 'https://fed-data.chanceyu.com'
       app.get('/data/articles/*', (req, res) => {
-        const filePath = path.join(__dirname, '../../data/articles', req.params[0])
-        if (filePath.endsWith('.json')) {
-          res.setHeader('Content-Type', 'application/json')
-        }
-        res.sendFile(filePath)
+        const subPath = req.params[0] || ''
+        const targetUrl = `${ARTICLE_DATA_ORIGIN}/data/articles/${subPath}`
+        https.get(targetUrl, (proxyRes) => {
+          res.status(proxyRes.statusCode)
+          Object.keys(proxyRes.headers).forEach(key => {
+            res.setHeader(key, proxyRes.headers[key])
+          })
+          proxyRes.pipe(res)
+        }).on('error', (err) => {
+          res.status(502).send(`Proxy error: ${err.message}`)
+        })
       })
       // JSON 数据在 dist/data 下
       app.get('/data/:name', (req, res) => {

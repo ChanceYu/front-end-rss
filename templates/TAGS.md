@@ -19,7 +19,7 @@
 <% } %>
 
 <% _.each(e.items.slice(0,10), function(item){ var itemTitle = obj.formatTitle(item.title); %>
-- [【<%= item.rssTitle %>】<%= itemTitle %>](<%= item.link %>)<% if(obj.processedMap && obj.processedMap[item.link]){ %>&nbsp;&nbsp;[📖](/data/articles/<%= obj.processedMap[item.link] %>/page.md)<% } %><% }) %>
+- [【<%= item.rssTitle %>】<%= itemTitle %>](<%= item.link %>)<% if(obj.processedMap && obj.processedMap[item.link]){ %>&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=<%= obj.processedMap[item.link] %>)<% } %><% }) %>
 - [查看更多 >](/details/tags/<%= e.filename %>.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

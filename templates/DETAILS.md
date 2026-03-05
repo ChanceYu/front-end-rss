@@ -7,4 +7,4 @@
 <% } %>
 
 <% _.each(obj.items, function(item){ var itemTitle = obj.formatTitle(item.title); %>
-- [<%= item.date %>-<%= itemTitle %>](<%= item.link %>)<% if(obj.processedMap && obj.processedMap[item.link]){ %>&nbsp;&nbsp;[📖](/data/articles/<%= obj.processedMap[item.link] %>/page.md)<% } %> <% }) %>
+- [<%= item.date %>-<%= itemTitle %>](<%= item.link %>)<% if(obj.processedMap && obj.processedMap[item.link]){ %>&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=<%= obj.processedMap[item.link] %>)<% } %> <% }) %>

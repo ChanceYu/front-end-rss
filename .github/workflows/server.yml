@@ -65,6 +65,9 @@ jobs:
     - name: Process new articles to Markdown
       continue-on-error: true
       working-directory: ./article-to-md
+      env:
+        QINIU_ACCESS_KEY: ${{ secrets.QINIU_ACCESS_KEY }}
+        QINIU_SECRET_KEY: ${{ secrets.QINIU_SECRET_KEY }}
       run: |
         if [ -f "../server/node_modules/new-articles.json" ]; then
           pnpm install

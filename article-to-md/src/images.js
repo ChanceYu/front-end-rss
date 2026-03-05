@@ -57,11 +57,21 @@ async function compressAndSave(raw, destPath) {
   return format
 }
 
+const FETCH_RETRY_MAX = 3
+const FETCH_RETRY_DELAY_MS = 2000
+const FETCH_CONCURRENCY = 2
+const FETCH_DELAY_BETWEEN_MS = 400
+
+function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms))
+}
+
 /**
  * Fetch raw image bytes from a remote URL.
  * Prefers Playwright's APIRequestContext (carries browser session cookies) so
  * that CDNs requiring referrer/cookie auth (e.g. WeChat) work correctly.
  * Falls back to Node's built-in fetch when no context is supplied.
+ * Retries on 429/503 with exponential backoff to avoid rate limits.
  *
  * @param {string} url
  * @param {string} pageOrigin - used as Referer for the fallback fetch
@@ -69,29 +79,52 @@ async function compressAndSave(raw, destPath) {
  * @returns {Promise<Buffer>}
  */
 async function fetchImageBuffer(url, pageOrigin, browserContext) {
-  if (browserContext) {
-    const res = await browserContext.request.get(url, {
-      headers: {
-        Referer: pageOrigin,
-        Accept: 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
-      },
-      timeout: 20_000,
-    })
-    if (!res.ok()) throw new Error(`HTTP ${res.status()}`)
-    return Buffer.from(await res.body())
-  }
+  let lastErr
+  for (let attempt = 0; attempt < FETCH_RETRY_MAX; attempt++) {
+    try {
+      if (browserContext) {
+        const res = await browserContext.request.get(url, {
+          headers: {
+            Referer: pageOrigin,
+            Accept: 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
+          },
+          timeout: 20_000,
+        })
+        if (res.status() === 429 || res.status() === 503) {
+          if (attempt === FETCH_RETRY_MAX - 1) throw new Error(`HTTP ${res.status()}`)
+          await sleep(FETCH_RETRY_DELAY_MS * Math.pow(2, attempt))
+          continue
+        }
+        if (!res.ok()) throw new Error(`HTTP ${res.status()}`)
+        return Buffer.from(await res.body())
+      }
 
-  const res = await fetch(url, {
-    signal: AbortSignal.timeout(20_000),
-    headers: {
-      'User-Agent':
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36',
-      Referer: pageOrigin,
-      Accept: 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
-    },
-  })
-  if (!res.ok) throw new Error(`HTTP ${res.status}`)
-  return Buffer.from(await res.arrayBuffer())
+      const res = await fetch(url, {
+        signal: AbortSignal.timeout(20_000),
+        headers: {
+          'User-Agent':
+            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36',
+          Referer: pageOrigin,
+          Accept: 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
+        },
+      })
+      if (res.status === 429 || res.status === 503) {
+        if (attempt === FETCH_RETRY_MAX - 1) throw new Error(`HTTP ${res.status}`)
+        await sleep(FETCH_RETRY_DELAY_MS * Math.pow(2, attempt))
+        continue
+      }
+      if (!res.ok) throw new Error(`HTTP ${res.status}`)
+      return Buffer.from(await res.arrayBuffer())
+    } catch (err) {
+      lastErr = err
+      if (attempt < FETCH_RETRY_MAX - 1) {
+        await sleep(FETCH_RETRY_DELAY_MS * Math.pow(2, attempt))
+      } else {
+        throw lastErr
+      }
+    }
+  }
+  throw lastErr
 }
 
 /**
@@ -155,6 +188,21 @@ const MD_IMG_RE = /!\[([^\]]*)\]\(((?:https?:\/\/|data:image\/)[^)"\s]+)\)/g
  * @param {string} [pageOrigin] - Origin of the article page, used as Referer fallback
  * @returns {Promise<string>}
  */
+/** Run async tasks with limited concurrency; optional delay before each start */
+async function runWithConcurrency(tasks, concurrency, delayBetweenMs = 0) {
+  const results = []
+  let next = 0
+  async function worker() {
+    while (next < tasks.length) {
+      const i = next++
+      if (delayBetweenMs && i > 0) await sleep(delayBetweenMs)
+      results[i] = await tasks[i]()
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(concurrency, tasks.length) }, () => worker()))
+  return results
+}
+
 export async function localizeImages(markdown, imagesDir, browserContext = null, pageOrigin = '') {
   const urls = new Set()
   for (const [, , url] of markdown.matchAll(MD_IMG_RE)) urls.add(url)
@@ -162,27 +210,29 @@ export async function localizeImages(markdown, imagesDir, browserContext = null,
   if (urls.size === 0) return markdown
 
   const results = new Map()
-
-  await Promise.all(
-    [...urls].map(async (url) => {
-      try {
-        let filename
-        if (url.startsWith('data:image/')) {
-          filename = await saveBase64Image(url, imagesDir)
-          console.log(`  [img] ✓ base64 → ${filename}`)
-        } else {
-          let origin = pageOrigin
-          try { origin = new URL(url).origin } catch {}
-          filename = await downloadImage(url, imagesDir, origin, browserContext)
-          console.log(`  [img] ✓ ${filename}`)
-        }
-        results.set(url, filename)
-      } catch (err) {
-        console.warn(`  [img] ✗ ${url.slice(0, 80)} — ${err.message}`)
-        results.set(url, null)
+  const urlList = [...urls]
+  const tasks = urlList.map((url) => async () => {
+    try {
+      let filename
+      if (url.startsWith('data:image/')) {
+        filename = await saveBase64Image(url, imagesDir)
+        console.log(`  [img] ✓ base64 → ${filename}`)
+      } else {
+        let origin = pageOrigin
+        try { origin = new URL(url).origin } catch {}
+        filename = await downloadImage(url, imagesDir, origin, browserContext)
+        console.log(`  [img] ✓ ${filename}`)
       }
-    }),
-  )
+      results.set(url, filename)
+      return filename
+    } catch (err) {
+      console.warn(`  [img] ✗ ${url.slice(0, 80)} — ${err.message}`)
+      results.set(url, null)
+      return null
+    }
+  })
+
+  await runWithConcurrency(tasks, FETCH_CONCURRENCY, FETCH_DELAY_BETWEEN_MS)
 
   return markdown.replace(MD_IMG_RE, (full, alt, url) => {
     const filename = results.get(url)

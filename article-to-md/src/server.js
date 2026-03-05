@@ -7,7 +7,8 @@ import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
 
 import once from './once.js'
-import { urlToMd5, withProcessedUpdate, regenerateSiteFiles, regenerateWritemd } from './utils.js'
+import { uploadArticleFolder, uploadProcessedJson } from './upload.js'
+import { urlToMd5, withProcessedUpdate, regenerateSiteFiles, regenerateWritemd, QINIU_ENABLED } from './utils.js'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const ARTICLES_DIR = join(__dirname, '..', '..', 'data', 'articles')
@@ -33,6 +34,26 @@ app.post('/article-to-md/once', async (c) => {
 
   try {
     const result = await once(article)
+
+    if (QINIU_ENABLED) {
+      if (result?.md5) {
+        try {
+          const uploadResult = await uploadArticleFolder(result.md5)
+          result.upload = uploadResult
+        } catch (uploadErr) {
+          console.error('[server] Upload article folder failed:', uploadErr.message)
+          result.upload = { error: uploadErr.message }
+        }
+      }
+      try {
+        const pjResult = await uploadProcessedJson()
+        result.uploadProcessedJson = pjResult
+      } catch (pjErr) {
+        console.error('[server] Upload processed.json failed:', pjErr.message)
+        result.uploadProcessedJson = { error: pjErr.message }
+      }
+    }
+
     return c.json(result)
   } catch (err) {
     console.error('[server] Error:', err.message)

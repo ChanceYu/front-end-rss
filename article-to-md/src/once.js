@@ -3,7 +3,8 @@ import { fileURLToPath } from 'node:url'
 import fs from 'fs-extra'
 const { existsSync, readJsonSync } = fs
 import { processArticle } from './processor.js'
-import { regenerateWritemd } from './utils.js'
+import { regenerateWritemd, QINIU_ENABLED } from './utils.js'
+import { runUpload } from './upload.js'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
@@ -42,6 +43,14 @@ if (process.argv[1].endsWith('once.js')) {
       newData.articles.push({ ...curr })
     })
     regenerateWritemd(newData)
+    if (QINIU_ENABLED) {
+      try {
+        const { ok, skip, fail } = await runUpload()
+        console.log(`[once] Upload done: ok=${ok}, skip=${skip}, fail=${fail}`)
+      } catch (err) {
+        console.error('[once] Upload failed:', err.message)
+      }
+    }
     console.log('[once] Done')
   } else {
     console.log('[once] No new-articles.json found, skipping')

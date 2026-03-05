@@ -16,7 +16,7 @@ export const weeklyRule = {
 
     // Replace top table content with <blockquote>
     await page.evaluate(() => {
-      document.querySelectorAll('#content .el-splitbar + table.el-content.top').forEach((table) => {
+      document.querySelectorAll('#content .el-splitbar + table.el-content').forEach((table) => {
         const tds = table.querySelectorAll('td')
         if (tds.length !== 1) return
         const blockquote = document.createElement('blockquote')

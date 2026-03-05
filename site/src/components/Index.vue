@@ -218,6 +218,7 @@ const PAGE_SIZE = window.PAGE_SIZE || 200
 const PAGE_COUNT = window.PAGE_COUNT || 1
 /** 批量转换时同时发起的 convertToMd 数量 */
 const CONVERT_CONCURRENCY = 3
+const ARTICLE_DATA_HOST = process.env.ARTICLE_DATA_HOST || ''
 
 let results = []
 
@@ -300,10 +301,31 @@ export default {
 
     // 在 index 与 articles.json 加载完毕后，异步加载已转换的文章映射
     loadProcessed () {
-      fetch('/data/articles/processed.json', { cache: 'no-store' })
+      fetch(`${ARTICLE_DATA_HOST}/data/articles/processed.json`, { cache: 'no-store' })
         .then(r => r.json())
-        .then(data => { this.processedArticles = data || {} })
+        .then(data => {
+          this.processedArticles = data || {}
+          this.tryOpenMdFromQuery()
+        })
         .catch(() => {})
+    },
+
+    // url 存在 id（md5）时，在 processed 加载完成后自动打开对应 markdown 渲染器
+    tryOpenMdFromQuery () {
+      console.log(this.$route.query)
+      const id = this.$route.query.id
+      if (!id || typeof id !== 'string') return
+      const link = Object.keys(this.processedArticles).find(k => this.processedArticles[k] === id)
+      if (!link) return
+      const item = this.articlesData.find(r => r[2] === link)
+      if (item) {
+        this.openMdPopup({
+          title: item[0],
+          rssTitle: item[1],
+          link: item[2],
+          date: item[3]
+        })
+      }
     },
 
     confirmRemove (item) {

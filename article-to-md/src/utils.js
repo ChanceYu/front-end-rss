@@ -1,3 +1,4 @@
+import 'dotenv/config'
 import { createHash } from 'node:crypto'
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
@@ -8,6 +9,8 @@ const { existsSync, readJsonSync, outputJsonSync } = fs
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const PROCESSED_PATH = join(__dirname, '..', '..', 'data', 'articles', 'processed.json')
 const PROJECT_ROOT = join(__dirname, '..', '..')
+
+export const QINIU_ENABLED = process.env.QINIU_ACCESS_KEY && process.env.QINIU_SECRET_KEY
 
 /**
  * Convert a URL string to its MD5 hex digest

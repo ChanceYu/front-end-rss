@@ -13,6 +13,7 @@ const {
   TAGS_TEMPLATE_PATH,
   DETAILS_TEMPLATE_PATH,
   ARTICLES_PROCESSED_PATH,
+  LINKS_PATH,
 } = utils.PATH
 
 /**
@@ -112,7 +113,13 @@ function handleDetails(newData, linksJson, processedMap) {
   })
 }
 
-module.exports = async function (newData, linksJson) {
+const run = async function (newData = {
+  length: 0,
+  titles: [],
+  rss: {},
+  links: {},
+  articles: []
+}, linksJson) {
   const processedMap = fs.pathExistsSync(ARTICLES_PROCESSED_PATH)
     ? fs.readJsonSync(ARTICLES_PROCESSED_PATH)
     : {}
@@ -120,3 +127,14 @@ module.exports = async function (newData, linksJson) {
   handleTags(newData, linksJson, processedMap)
   handleDetails(newData, linksJson, processedMap)
 }
+
+const isRunAsScript = process.argv[1] && path.basename(process.argv[1]) === 'writemd.js'
+if (isRunAsScript) {
+  const linksJson = fs.pathExistsSync(LINKS_PATH) ? fs.readJsonSync(LINKS_PATH) : []
+  const newData = { length: 0, titles: [], rss: {}, links: {}, articles: [] }
+  run(newData, linksJson)
+    .then(() => process.exit(0))
+    .catch((e) => { console.error(e); process.exit(1) })
+}
+
+module.exports = run

@@ -22,7 +22,7 @@
           </a>
           <a
             v-if="editMode && articleHash"
-            :href="`/data/articles/${articleHash}/page.md`"
+            :href="articleDataMdUrl(articleHash)"
             target="_blank"
             class="md-viewer__link md-viewer__link--md"
           >
@@ -64,6 +64,8 @@ import { markedHighlight } from 'marked-highlight'
 import hljs from 'highlight.js'
 import 'github-markdown-css/github-markdown-light.css'
 import 'highlight.js/styles/github.css'
+
+const ARTICLE_DATA_HOST = process.env.ARTICLE_DATA_HOST || ''
 
 marked.use(markedHighlight({
   emptyLangClass: 'hljs',
@@ -163,6 +165,12 @@ export default {
     this._unbindBodyScroll()
   },
   methods: {
+    articleDataMdUrl (hash) {
+      return `${ARTICLE_DATA_HOST}/data/articles/${hash}/page.md`
+    },
+    articleDataBase (hash) {
+      return `${ARTICLE_DATA_HOST}/data/articles/${hash}`
+    },
     _bindBodyScroll () {
       const body = this.$refs.body
       if (body && this._onBodyScroll) {
@@ -206,7 +214,7 @@ export default {
       if (this.$refs.body) this.$refs.body.scrollTop = 0
       try {
         const editMode = process.env.EDIT_MODE === 'true'
-        const res = await fetch(`/data/articles/${hash}/page.md`, {
+        const res = await fetch(this.articleDataMdUrl(hash), {
           cache: editMode ? 'no-store' : 'default'
         })
         if (!res.ok) throw new Error('not found')
@@ -214,7 +222,7 @@ export default {
         // 去掉顶部 YAML front matter（--- ... ---）
         const stripped = raw.replace(/^---[\s\S]*?---\s*\n?/, '')
         // 将相对图片路径 ./images/xxx 转为绝对路径（支持 markdown 语法和 img 标签）
-        const base = `/data/articles/${hash}`
+        const base = this.articleDataBase(hash)
         const text = stripped
           .replace(/\(\.\/images\//g, `(${base}/images/`)
           .replace(/(src=["'])\.\/images\//g, `$1${base}/images/`)

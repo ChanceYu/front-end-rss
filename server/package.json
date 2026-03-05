@@ -4,7 +4,8 @@
   "main": "index.js",
   "description": "每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看",
   "scripts": {
-    "once": "node ./once.js"
+    "once": "node ./once.js",
+    "docs": "node ./writemd.js"
   },
   "dependencies": {
     "@octokit/core": "^4.0.5",

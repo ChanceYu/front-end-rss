@@ -128,15 +128,6 @@ const webpackConfig = merge(baseWebpackConfig, {
         ignore: ['.*']
       }
     ]),
-
-    // copy articles data
-    new CopyWebpackPlugin([
-      {
-        from: path.resolve(__dirname, '../../data/articles'),
-        to: path.join(config.build.assetsRoot, 'data/articles'),
-        ignore: ['.*']
-      }
-    ])
   ]
 })
 
