@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-05 00:29:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-05 14:36:51，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -31,7 +31,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -87,6 +87,7 @@
 </summary>
 
 
+- [2026-03-05-【第3663期】如何用-Ollama-在本地运行并定制专属-LLM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278660&idx=1&sn=01f0220c8ab0fd25fdb6c2038511eb48&chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/4377f3ecefeaeae1759e22a2fc67f913/page.md)  ![](/assets/new.png) 
 - [2026-03-04-【第3662期】快速上手-Claude-技能：从零到可用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278648&idx=1&sn=89ff449c4a6d350a18230459234e46f3&chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/4e6480eda7804b0c40b49a2d14d7c896/page.md)  
 - [2026-03-03-【第3661期】不用-JS-也能精准定位？CSS-Anchor-Positioning-实战解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278643&idx=1&sn=7161d1df5a6028408bd1968b3c91308c&chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/61471213fef239bbf0b4a395bf72e4d8/page.md)  
 - [2026-03-02-【第3660期】别再为覆盖率而写测试：真正可靠的单元测试应该这样做](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278637&idx=1&sn=f6788ebf5585eda0b718b2f724366fac&chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/8977cdbcb164fa6d3b6d78afa7332578/page.md)  
@@ -96,7 +97,6 @@
 - [2026-02-25-【第3657期】Visual-Agentic-Dev：让前端开发工程师告别繁琐的代码修改流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278606&idx=1&sn=f1ef8cbb6ce6ecd37d06843f7799ae4b&chksm=bc95f3cd4ca1b7276db8fb4d258f47cd2574e070b9f2c6ff4df21ce5e8d208a13acb0dc0c3c1&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/892485f5dad06929ddf848563c631bbd/page.md)  
 - [2026-02-24-【第3656期】深入理解-React-的-useEffectEvent：彻底告别闭包陷阱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278602&idx=1&sn=a51d047d864a2178ae921057e3c6073a&chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/e2896530dc5e769ad2d7c41b340ebe06/page.md)  
 - [2026-02-06-【第3655期】浏览器即运行时：一个零后端-AI-应用的前端架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278596&idx=1&sn=dea55dba00065e03f83445a08be9f33e&chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/c7e51c1463946c6de508c85ab31d766d/page.md)  
-- [2026-02-05-【第3654期】不再重置！在-React-/-Next.js-中实现跨页面“持续进化”的动画效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278586&idx=1&sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&scene=0#rd)&nbsp;&nbsp;[📖](/data/articles/e8a73a87b97a7c296716fbbe85ae2456/page.md)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -150,7 +150,7 @@
 </summary>
 
 
-- [2026-03-02-商业级前端转-AI-全栈课程，前端部分全部开源](http://mp.weixin.qq.com/s/OzaUsJOQMPyL4ofe95zSAw)&nbsp;&nbsp;[📖](/data/articles/657ea8f7196bb7d7e71b428938626767/page.md)  ![](/assets/new.png) 
+- [2026-03-02-商业级前端转-AI-全栈课程，前端部分全部开源](http://mp.weixin.qq.com/s/OzaUsJOQMPyL4ofe95zSAw)&nbsp;&nbsp;[📖](/data/articles/657ea8f7196bb7d7e71b428938626767/page.md)  
 - [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)&nbsp;&nbsp;[📖](/data/articles/0af49c4bc19f7a84f6803f82691cd538/page.md)  
 - [2026-02-25-身为全栈工程师，这一神器让我开发效率翻倍！](http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg)&nbsp;&nbsp;[📖](/data/articles/1f9d266fbac584725af5b9576ee65be2/page.md)  
 - [2026-02-24-中软国际“降薪风波”：重新定义13薪，12个月工资拆成13份，剩下一份明年3月看绩效发](http://mp.weixin.qq.com/s/nSpdP9urqwBreZmXdXbvmg)&nbsp;&nbsp;[📖](/data/articles/7f8b2a3a130815702b6ecb2b06bc6672/page.md)  
@@ -318,6 +318,8 @@
 </summary>
 
 
+- [2026-03-04-ICLR-2026-|-基于概念蒸馏的生成式视频复原算法Vivid-VR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542989&idx=1&sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd)&nbsp;&nbsp;[📖](/data/articles/11962c709d9d70b3ac12e38d170609bf/page.md)  ![](/assets/new.png) 
+- [2026-03-02-AI-Coding思考：从工具提效到范式变革，我们还缺什么？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542970&idx=1&sn=231a9b78e5c7e1054aa26e86556e8ed8&chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd)&nbsp;&nbsp;[📖](/data/articles/1984eb4ab55b67aa2e7f0162e778261d/page.md)  ![](/assets/new.png) 
 - [2026-02-27-首届淘宝电商AI挑战赛来了！设350万赛事奖项和千万扶持资源](http://mp.weixin.qq.com/s/fqPFmkHUNvQ5GoQq0gl1Fw)&nbsp;&nbsp;[📖](/data/articles/ff89d9590a849ea53f83b033feebefec/page.md)  
 - [2026-02-25-AI真人数字人语音对话性能优化实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542923&idx=1&sn=1403311c090693a4dc684ca861e515b6&chksm=8390db53b4e75245e036e1e89b5f5fe80ee19d832b8c76c9946b9456f4091dfc134da88bdc54#rd)&nbsp;&nbsp;[📖](/data/articles/a15520b450fa31079a5a615963d81e30/page.md)  
 - [2026-02-11-从应用架构的视角看退小宝AI助手落地现状](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542896&idx=1&sn=b1152e8ffd9fdc3a6a4058e9e1602373&chksm=8390db28b4e7523ee656b32696d103fed3781d59c48088c541ac40c8bbb18df921660af7afde#rd)&nbsp;&nbsp;[📖](/data/articles/3de14cd8466dc34d354bc7235571ab76/page.md)  
@@ -326,8 +328,6 @@
 - [2026-02-04-一次大文件处理性能优化实录](http://mp.weixin.qq.com/s/iVLS1iK_RtWpca3qzUtQ0w)&nbsp;&nbsp;[📖](/data/articles/33e4237e5952cd691cff7abd0ba35522/page.md)  
 - [2026-02-02-淘天集团自营技术运营算法团队4年2次荣膺-INFORMS“杰出实践奖”决选荣誉：以策略正则化突破DRL在库存管理中的落地瓶颈](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542682&idx=1&sn=4a56846c13628675c01337e79b01d614&chksm=8390da42b4e753547975ab94ed9e40a4f4524a989918423bba32591249c891bf11f0c5f16121#rd)&nbsp;&nbsp;[📖](/data/articles/b97a28f868f338305efd10542ec7f317/page.md)  
 - [2026-01-30-【淘宝直播数字人互动LLM】告别AI感：基于真人ASR数据的拟人化探索](http://mp.weixin.qq.com/s/0JJll2dNx_Kk2ke_5JrvFg)&nbsp;&nbsp;[📖](/data/articles/61cdf2fe9e918efbf64da316b374dc91/page.md)  
-- [2026-01-28-Agentic-Coding场景下基于职责分离的上下文管理思路分享](http://mp.weixin.qq.com/s/sLTlZZnAratkUTAJiG2uMg)&nbsp;&nbsp;[📖](/data/articles/ec0d286c33182741ba34b75be913c7ea/page.md)  
-- [2026-01-26-如何设计一个AI-Agent系统](http://mp.weixin.qq.com/s/8ArJk0vpGP0o97kEtqscqA)&nbsp;&nbsp;[📖](/data/articles/a70bef976efacd42344037e2c4809b3f/page.md)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
