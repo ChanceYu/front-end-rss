@@ -228,12 +228,25 @@ export default {
         const raw = await res.text()
         // 去掉顶部 YAML front matter（--- ... ---）
         const stripped = raw.replace(/^---[\s\S]*?---\s*\n?/, '')
-        // 将相对图片路径 ./images/xxx 转为绝对路径（支持 markdown 语法和 img 标签）
         const base = this.articleDataBase(hash)
-        const text = stripped
-          .replace(/\(\.\/images\//g, `(${base}/images/`)
-          .replace(/(src=["'])\.\/images\//g, `$1${base}/images/`)
-        this.renderedHtml = marked.parse(text)
+        // 基于默认 renderer（含 markedHighlight 的 code 高亮）只覆盖 image 和 table
+        const baseRenderer = marked.defaults.renderer || new marked.Renderer()
+        const renderer = Object.create(baseRenderer)
+        renderer.image = function (href, title, text) {
+          if (href && href.startsWith('./images/')) {
+            href = base + '/images/' + href.slice('./images/'.length)
+          }
+          return marked.Renderer.prototype.image.call(this, href, title, text)
+        }
+        renderer.table = function (header, body) {
+          const tableBody = body ? '<tbody>' + body + '</tbody>' : ''
+          const tableHtml = '<table>\n<thead>\n' + header + '</thead>\n' + tableBody + '</table>\n'
+          return '<div class="md-viewer__table-wrap">' + tableHtml + '</div>'
+        }
+        let html = marked.parse(stripped, { renderer })
+        // 原始 HTML 中的 <img src="./images/xxx"> 仍需替换
+        html = html.replace(/(src=["'])\.\/images\//g, `$1${base}/images/`)
+        this.renderedHtml = html
       } catch (e) {
         this.error = true
       } finally {
@@ -640,6 +653,29 @@ export default {
   margin: .2em 0;
 }
 
+/* 表格外层：仅表格区域横向滚动 */
+.md-viewer__content.markdown-body .md-viewer__table-wrap {
+  overflow-x: auto;
+  margin: 1.25em 0;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 #f1f5f9;
+}
+
+.md-viewer__content.markdown-body .md-viewer__table-wrap::-webkit-scrollbar {
+  height: 6px;
+}
+
+.md-viewer__content.markdown-body .md-viewer__table-wrap::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 3px;
+}
+
+.md-viewer__content.markdown-body .md-viewer__table-wrap::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+
 /* 表格 */
 .md-viewer__content.markdown-body table {
   width: 100% !important;
@@ -647,7 +683,7 @@ export default {
   border-collapse: separate;
   border-spacing: 0;
   font-size: .875rem;
-  margin: 1.25em 0;
+  margin: 0;
   border-radius: 6px;
   overflow: hidden;
   box-shadow: 0 0 0 1px #e2e8f0;
@@ -661,6 +697,11 @@ export default {
 .md-viewer__content.markdown-body table th,
 .md-viewer__content.markdown-body table td {
   border: none;
+  min-width: 5em;
+  max-width: 14em;
+  word-wrap: break-word;
+  word-break: break-word;
+  white-space: normal;
 }
 
 .md-viewer__content.markdown-body table th {
@@ -670,7 +711,6 @@ export default {
   text-align: left;
   border-right: 1px solid #e2e8f0;
   border-bottom: 1px solid #e2e8f0;
-  white-space: nowrap;
 }
 
 .md-viewer__content.markdown-body table th:last-child {
