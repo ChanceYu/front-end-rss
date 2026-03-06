@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-06 09:09:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 11:59:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -801,6 +801,7 @@
 - [2023-05-19-2023上半年vue3面试题总结，超级强！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495658&idx=1&sn=eae22b187d00ee964edf5f11fc1616b7&chksm=ce268c1cf951050af15f8ab03e70965d059f26e2ef14b4eb397087c916a47d3d0333b08ce292#rd) 
 - [2024-05-10-vue3-自定义hooks-大集合-你要的自定义hooks-都在这，快来看吧！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505775&idx=1&sn=c9119bd0a35282d7869e2a896ec67df0&chksm=cea9606ef9dee978ec347f2ebb32436b0c10c93d3b328393276efe1167655513071cf2a6f7cb#rd) 
 - [2022-01-21-技术周报·Vue-3-将成为新的默认版本](https://mp.weixin.qq.com/s/lVLxcwrDkEVCnf41u1zJ4A) 
+- [2026-03-06-Vue-Native-最新进展！](http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=edc814033f32e63879e3d861784d3ae0) 
 - [2025-12-31-vue-难受了！solid.js-一个小改变，让-vue-vapor-很尴尬](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517499&idx=1&sn=6c933f1e0cf2c0a78518513fabb9dd23&chksm=eb07bd42dc7034542a7eb89914f2d8545c985a818e1662cdcafb120a175e7fa6072e77b95fad#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8b9d3e6489acd1a1b57b5135ea1419d6) 
 - [2025-10-28-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517454&idx=1&sn=f72e5a0ba75a92df259ccab9724f88b2&chksm=eb07bd77dc70346134f56954e5fb9d9ae56fd3c6febeafb3530139565ac021bfc0a7da131daa#rd) 
 - [2025-09-29-Vue3-生态-4-大-Hooks-神库！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517438&idx=1&sn=5d138db8f836f95cba6067f8c84e51ad&chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd) 

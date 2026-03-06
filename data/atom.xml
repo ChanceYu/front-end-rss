@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-06T01:08:17.966Z</updated>
+    <updated>2026-03-06T03:59:16.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue Native 最新进展！]]></title>
+        <id>http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA</id>
+        <link href="http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA"/>
+        <updated>2026-03-06T00:00:00.000Z</updated>
+        <published>2026-03-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[愤怒！尤雨溪吐槽：Github！还我钱来！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509088&amp;idx=1&amp;sn=36ea2b2ca2bb5f85db948871d0d67dd0&amp;chksm=ce45b1f1f93238e7873bd28b1211ca6eb4d2a1b51d957980823fc0ec77cdeecd6361edba1c93#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/611"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <published>2026-02-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从应用架构的视角看退小宝AI助手落地现状]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542896&amp;idx=1&amp;sn=b1152e8ffd9fdc3a6a4058e9e1602373&amp;chksm=8390db28b4e7523ee656b32696d103fed3781d59c48088c541ac40c8bbb18df921660af7afde#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542896&amp;idx=1&amp;sn=b1152e8ffd9fdc3a6a4058e9e1602373&amp;chksm=8390db28b4e7523ee656b32696d103fed3781d59c48088c541ac40c8bbb18df921660af7afde#rd"/>
-        <updated>2026-02-11T00:00:00.000Z</updated>
-        <published>2026-02-11T00:00:00.000Z</published>
     </entry>
 </feed>
