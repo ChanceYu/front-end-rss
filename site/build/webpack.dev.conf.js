@@ -63,16 +63,9 @@ const devWebpackConfig = merge(baseWebpackConfig, {
         })
       })
       app.get('/data/processed.json', (req, res) => {
-        const targetUrl = `${ARTICLE_DATA_ORIGIN}/data/processed.json`
-        https.get(targetUrl, (proxyRes) => {
-          res.status(proxyRes.statusCode)
-          Object.keys(proxyRes.headers).forEach(key => {
-            res.setHeader(key, proxyRes.headers[key])
-          })
-          proxyRes.pipe(res)
-        }).on('error', (err) => {
-          res.status(502).send(`Proxy error: ${err.message}`)
-        })
+        const filePath = path.join(__dirname, '../../data/processed.json')
+        res.setHeader('Content-Type', 'application/json')
+        res.sendFile(filePath)
       })
       // JSON 数据在 dist/data 下
       app.get('/data/:name', (req, res) => {
