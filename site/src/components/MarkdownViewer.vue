@@ -670,6 +670,7 @@ export default {
   text-align: left;
   border-right: 1px solid #e2e8f0;
   border-bottom: 1px solid #e2e8f0;
+  white-space: nowrap;
 }
 
 .md-viewer__content.markdown-body table th:last-child {
