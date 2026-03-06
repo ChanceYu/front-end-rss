@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-06 01:21:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 09:09:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -262,6 +262,7 @@
 - [2019-11-30-行业认可的人工智能工程师是什么样？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557480&idx=1&sn=60d8a41a6f1e53a56d94c073558f214e&chksm=802559a9b752d0bf76024f93b2032ca90c0366f5c688adf9c8e193558703eaa2b6b958e1bba9&scene=27#wechat_redirect) 
 - [2019-06-23-JetBrains-发布-2019-年-JS-调查报告](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556620&idx=1&sn=7c744d194ffd26489e92a7a8df51c6f5#rd) 
 - [2018-12-10-8-张图帮你一步步看清-async/await-和-promise-的执行顺序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555491&idx=1&sn=73779f84c289d98de7e6c121514b93b2#wechat_redirect) 
+- [2026-03-01-别再学做App了：Karpathy预言Agent将淘汰App-Store，软件进入“用完即丢”时代](http://mp.weixin.qq.com/s/nECex63WezZXZMQEplmDug)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8cf5da47acc4ed0d54f75762b8b0e0a) 
 - [2026-01-21-烧掉数万亿-Token、数百-Agent-连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？](http://mp.weixin.qq.com/s/aXhDQk7Wxa6rZg4ms0I3Tg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e8badfdbff6ecb2012bc76ee02cc7afd) 
 - [2025-12-14-沙龙报名-|-AI领航，跨端技术新范式！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526407&idx=2&sn=06a841bf0bdb146ac14499ea30a7ea60&chksm=f952dd44ce2554521db848180e92b2a624d93022b86ee8c20495a44f1f10a69102e927d9825d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=81a2471d730fd72b4d88e2ed97963c95) 
 - [2025-11-16-印度迎来AI工具“0元购”时代！OpenAI、谷歌等巨头内心os：别急，先让他们上瘾，我们再来收费](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526362&idx=1&sn=534112b862b7b641c0cbd3f86fa5d48f&chksm=f952d299ce255b8feffa5fc55414d7d748826d70a7cc4cfac0b8476d94c2e3bf2b87349cdb3f#rd) 
