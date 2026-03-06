@@ -508,13 +508,14 @@ export default {
     },
 
     // 预加载索引与全量文章二维数组 [[title, rssTitle, link, date], ...]
-    async preloadIndexes () {
+    async preloadIndexes (p) {
+      const prefix = typeof p === 'string' ? p : ARTICLE_DATA_HOST
       try {
         const [sourceIdx, categoryIdx, textIdx, articlesRows] = await Promise.all([
-          fetch('/data/source-index.json', { cache: 'no-store' }).then(r => r.json()).catch(() => null),
-          fetch('/data/category-index.json', { cache: 'no-store' }).then(r => r.json()).catch(() => null),
-          fetch('/data/text-index.json', { cache: 'no-store' }).then(r => r.json()).catch(() => null),
-          fetch('/data/articles.json', { cache: 'no-store' }).then(r => r.json()).catch(() => null)
+          fetch(`${prefix}/data/source-index.json`, { cache: 'no-store' }).then(r => r.json()),
+          fetch(`${prefix}/data/category-index.json`, { cache: 'no-store' }).then(r => r.json()),
+          fetch(`${prefix}/data/text-index.json`, { cache: 'no-store' }).then(r => r.json()),
+          fetch(`${prefix}/data/articles.json`, { cache: 'no-store' }).then(r => r.json())
         ])
         this.sourceIndex = sourceIdx
         this.categoryIndex = categoryIdx
@@ -522,6 +523,7 @@ export default {
         this.articlesData = Array.isArray(articlesRows) ? articlesRows : null
       } catch (e) {
         console.error('Failed to preload indexes:', e)
+        await this.preloadIndexes('')
       }
     },
 
