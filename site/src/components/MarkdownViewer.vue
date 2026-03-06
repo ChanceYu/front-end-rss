@@ -661,7 +661,7 @@ export default {
   border: 1px solid #e2e8f0;
   border-radius: 6px;
   -webkit-overflow-scrolling: touch;
-  touch-action: pan-y pinch-zoom;
+  touch-action: pan-x pan-y pinch-zoom;
   scrollbar-width: thin;
   scrollbar-color: #cbd5e1 #f1f5f9;
 }
