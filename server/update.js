@@ -55,7 +55,7 @@ function isDateInLast7Days(dateStr) {
 function isDuplicateOfExisting(curr, allExistingItems, deletedUrls) {
   if (deletedUrls) {
     if (deletedUrls.has(curr.link)) return true
-    const exist = deletedUrls.values().find((link) => utils.isSameLink(link, curr.link))
+    const exist = Array.from(deletedUrls).find((link) => utils.isSameLink(link, curr.link))
     if (exist) return true
   }
   return allExistingItems.some((el) => el.title === curr.title && (isDateInLast7Days(el.date) || curr.title.length > 30))
