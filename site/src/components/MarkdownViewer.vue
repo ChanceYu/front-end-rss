@@ -653,11 +653,13 @@ export default {
   margin: .2em 0;
 }
 
-/* 表格外层：仅表格区域横向滚动 */
+/* 表格外层：仅表格区域横向滚动，与代码块一致避免在手机上抢占垂直滚动 */
 .md-viewer__content.markdown-body .md-viewer__table-wrap {
   overflow-x: auto;
+  overflow-y: hidden;
   margin: 1.25em 0;
   -webkit-overflow-scrolling: touch;
+  touch-action: pan-y pinch-zoom;
   scrollbar-width: thin;
   scrollbar-color: #cbd5e1 #f1f5f9;
 }
