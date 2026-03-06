@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-06 16:25:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 20:32:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -349,7 +349,6 @@
 - [2025-10-15-前端人必备！用AI自动整理学习资料太顶了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505831&idx=1&sn=612c8da163772c260621b00e10a722b6&chksm=ce45c236f9324b209030b7005c62b3ca4c8d1e81e1961edbf28ec5ab102cc4d37c798c3bb93a#rd) 
 - [2025-10-09-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505720&idx=1&sn=5707398440930405a01b4ac530c83c30&chksm=ce45c2a9f9324bbfd54a90a845ec66e203c45250bdb6487ae34192dac81735c0a980e263ea65#rd) 
 - [2025-09-23-超强-AI-工具！快速部署知识库页面！](http://mp.weixin.qq.com/s/tjxJBFy-XpJxpAtc4NPQaw) 
-- [2025-09-09-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s/uX5S4dpumQi-kC0ITYDGnA) 
 - [2025-09-01-Vue3-最强大的-AI-组件库！华为重磅开源！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505487&idx=1&sn=d74d2975a3a24452b8f5835a6ab3c27c&chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd) 
 - [2025-08-12-ElementPlusX-+-RuoyiAI：Vue3-首个-AI-开发模板开源了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505288&idx=1&sn=38ceddeb465523a8069d675a78312496&chksm=ce45c019f932490fdc932860dc7155fbb66f03728fc8431c57f79bd870b25caa1863aa6dbc7a#rd) 
 - [2025-07-24-AI+网页设计：几分钟打造公平决策点名系统的全过程](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505110&idx=1&sn=d479c53f8f28bc4aff9d48f06b2a6ae1&chksm=ce45c147f9324851778c9a66d099329c7384d3baf88a99629303feeeb0becb16e3b6a9e002b2#rd) 
@@ -498,11 +497,9 @@
 - [2024-02-19-机器学习简介:-寻找函数的艺术](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487203&idx=1&sn=eeaa40b30e237ed97b56033d783096b2&chksm=fc862829cbf1a13f9fb05e05a12bf651c59f996e13e4e8e07d30e6f0d383746cda62a23b9f2b#rd) 
 - [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487041&idx=1&sn=16cf8f04b7f0371f3272f8335d446257&chksm=fc86288bcbf1a19d95850691cfd87b3e547f9a645f174a28bd345239b9eb03f5e852d87f86c3#rd) 
 - [2026-02-06-基于-AI-生成高质量-Mock-数据的实践](http://mp.weixin.qq.com/s/ASg4d4P9tneHQRKgodq9BA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a7509920aaea759bc0325e634607a266) 
-- [2025-10-28-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517454&idx=1&sn=f72e5a0ba75a92df259ccab9724f88b2&chksm=eb07bd77dc70346134f56954e5fb9d9ae56fd3c6febeafb3530139565ac021bfc0a7da131daa#rd) 
 - [2025-08-20-前端仔如何在公司搭建-AI-Review-系统](http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw) 
 - [2025-08-02-AI-只会让程序员更受欢迎，取代其他人？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517355&idx=1&sn=7f6df96ae14342d8488813b825aacbca&chksm=eb07bcd2dc7035c4dd3143825eb1b9864f6c43baf995810144baca3d486a5e56ea1a1ae0e10d#rd) 
 - [2025-07-24-谁说前端改动看不出影响范围？我用-Cursor-找到了隐藏炸弹](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517343&idx=1&sn=f1ef8e01cf3303fe6ececf83268db72c&chksm=eb07bce6dc7035f00658c7cc8f2e6a9b75a7aff072ad0d1fb08b5f25f4609d873ac41aa2fd8d#rd) 
-- [2025-06-03-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517246&idx=1&sn=618b18b29cf9f07e0b11447fd9b690ca&chksm=eb07bc47dc703551290d6c9d66301a3401a21ad510aec8544634c3a505a190179f3101cbd6a6#rd) 
 - [2025-05-15-一名前端用-AI-编辑器重构开发流程](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517219&idx=1&sn=2327e0103e55f7e0a7322f9cfe5547a3&chksm=eb07bc5adc70354c1688426da162c9788ebfe042c95f3cba408cb3188da7e2c6cfbd509501c0#rd) 
 - [2025-05-06-尤雨溪：让-AI-更好的理解-Vue、Vite](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517190&idx=1&sn=b8d5a1394157568fef2cb011b17fcec2&chksm=eb07bc7fdc703569e40705b412311fa5d36e6514637219bf7e8d9e03afa1af6b5a4c65c441ce#rd) 
 - [2025-04-23-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517180&idx=1&sn=51f3d5ce0f623616e0d2a3270a3d14e0&chksm=eb07bb85dc7032931b5e4662a603ed161a7c609a410fa0d5b587a54d2e02bede1c69b0534e05#rd) 

@@ -33,6 +33,8 @@ const DATA_DIR = join(__dirname, '..', '..', 'data')
 const ARTICLES_DIR = join(DATA_DIR, 'articles')
 const PROCESSED_JSON_PATH = join(DATA_DIR, 'processed.json')
 const PROCESSED_JSON_KEY = 'processed.json'
+const LINKS_JSON_PATH = join(DATA_DIR, 'links.json')
+const LINKS_JSON_KEY = 'links.json'
 
 const SKIP_NAMES = new Set([
   '.DS_Store',
@@ -157,6 +159,18 @@ export async function uploadProcessedJson() {
   }
   const ctx = getQiniuContext()
   return uploadFileList([{ fullPath: PROCESSED_JSON_PATH, key: PROCESSED_JSON_KEY }], ctx)
+}
+
+/**
+ * 仅上传 data/links.json 到七牛（key: data/links.json）。
+ * @returns {{ ok: number, skip: number, fail: number }}
+ */
+export async function uploadLinksJson() {
+  if (!pathExistsSync(LINKS_JSON_PATH) || !statSync(LINKS_JSON_PATH).isFile()) {
+    return { ok: 0, skip: 0, fail: 0 }
+  }
+  const ctx = getQiniuContext()
+  return uploadFileList([{ fullPath: LINKS_JSON_PATH, key: LINKS_JSON_KEY }], ctx)
 }
 
 /**

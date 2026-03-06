@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-06 16:25:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 20:32:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -523,7 +523,6 @@
 - [2025-10-10-只有-7-KB！前端圈疯传的-Vue3-转场动效神库！效果炸裂！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505725&idx=1&sn=8cb6362fdf245b00f8974c3f9fa5c191&chksm=ce45c2acf9324bba1cda30b73625bd64379896632ecce991374bfa542232273513557eaa0dc7#rd) 
 - [2025-10-09-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505720&idx=1&sn=5707398440930405a01b4ac530c83c30&chksm=ce45c2a9f9324bbfd54a90a845ec66e203c45250bdb6487ae34192dac81735c0a980e263ea65#rd) 
 - [2025-09-25-Pinia-最强插件发布，包含九大必备功能！](http://mp.weixin.qq.com/s/GnTnn9kXcqhWlgkU8Qe7Cw) 
-- [2025-09-09-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s/uX5S4dpumQi-kC0ITYDGnA) 
 - [2025-09-03-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505516&idx=1&sn=35ce8b2232e7a8ec21e4f9fe548bfc51&chksm=ce45c3fdf9324aeb9faacf84fe161bc1ce48325db3981a5bd596da839473f10208973de14598#rd) 
 - [2025-09-01-Vue3-最强大的-AI-组件库！华为重磅开源！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505487&idx=1&sn=d74d2975a3a24452b8f5835a6ab3c27c&chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd) 
 - [2025-08-29-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg) 
@@ -803,7 +802,6 @@
 - [2022-01-21-技术周报·Vue-3-将成为新的默认版本](https://mp.weixin.qq.com/s/lVLxcwrDkEVCnf41u1zJ4A) 
 - [2026-03-06-Vue-Native-最新进展！](http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=edc814033f32e63879e3d861784d3ae0) 
 - [2025-12-31-vue-难受了！solid.js-一个小改变，让-vue-vapor-很尴尬](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517499&idx=1&sn=6c933f1e0cf2c0a78518513fabb9dd23&chksm=eb07bd42dc7034542a7eb89914f2d8545c985a818e1662cdcafb120a175e7fa6072e77b95fad#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8b9d3e6489acd1a1b57b5135ea1419d6) 
-- [2025-10-28-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517454&idx=1&sn=f72e5a0ba75a92df259ccab9724f88b2&chksm=eb07bd77dc70346134f56954e5fb9d9ae56fd3c6febeafb3530139565ac021bfc0a7da131daa#rd) 
 - [2025-09-29-Vue3-生态-4-大-Hooks-神库！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517438&idx=1&sn=5d138db8f836f95cba6067f8c84e51ad&chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd) 
 - [2025-09-15-Vue-官方插件重磅更新，三大高级功能免费了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517426&idx=1&sn=42ce55079850a61d640211149fd66039&chksm=eb07bc8bdc70359d78a7ff7c0ac5d152bd4a1d072350fddf7a0f9765748cbc2e6b2f80fc11bf#rd) 
 - [2025-09-08-2025-年了，Vite+Vue3-微前端该用啥方案？5-大主流方案实战对比](http://mp.weixin.qq.com/s/g2jP2Q_FptCIeiDNywJDwQ) 
@@ -817,7 +815,6 @@
 - [2025-07-15-尤雨溪-VueConf-2025-主题演讲-PPT-来啦！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517327&idx=1&sn=a29866d1c8eec2f6a78a2295be9da0d7&chksm=eb07bcf6dc7035e0806b0ff515ded0d64e7e8bdd0e64d4303533fe0dc00bc4fab0d19ba6bed2#rd) 
 - [2025-07-14-刚刚，尤雨溪发布-Vue-新版本，无虚拟-DOM-版-Vue-来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517325&idx=1&sn=6e641a1313213f5d815d77dd421bc61f&chksm=eb07bcf4dc7035e2df172f0eda54cd7bcb782ffe6325a18c9401d7074813e8e91103552ab443#rd) 
 - [2025-06-12-Vue-生态新玩具：依赖可视化！兼容-React！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517252&idx=1&sn=3140d1ee010f0af7e552574463af42ca&chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd) 
-- [2025-06-03-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517246&idx=1&sn=618b18b29cf9f07e0b11447fd9b690ca&chksm=eb07bc47dc703551290d6c9d66301a3401a21ad510aec8544634c3a505a190179f3101cbd6a6#rd) 
 - [2025-05-30-Vue3-新趋势：弃用-ECharts！最强图表库诞生！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517240&idx=1&sn=98adeef3bfbc37e9aaaecd06317f18ff&chksm=eb07bc41dc703557852b13af19434a62638f1113e769abbd590749f40b90f630f45063521a12#rd) 
 - [2025-05-16-Vue3-最强组合套装！不得不佩服尤雨溪！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517221&idx=1&sn=8d729dbd52b17bab0d75fa4ce785b430&chksm=eb07bc5cdc70354ab28c8bca8cf370783712df404c9e029aafaf4a074a4a7db4fd03938bee4e#rd) 
 - [2025-05-09-Vue动态弹窗（Dialog）新境界：告别繁琐，拥抱优雅！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517209&idx=1&sn=9f10b711f19467ee69309a1941246952&chksm=eb07bc60dc7035761b812cda9f039c58ef7d6395250b6bd033800f7531e14d15889929f585f0#rd) 

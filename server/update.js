@@ -53,11 +53,12 @@ function isDateInLast7Days(dateStr) {
 
 /** 一次遍历判断 curr 是否应视为重复：同标题且（已有条目标题在七天内 或 当前标题长度>30），或 link 在已删除列表 deleted.json 中 */
 function isDuplicateOfExisting(curr, allExistingItems, deletedUrls) {
-  if (deletedUrls && deletedUrls.has(curr.link)) return true
-  return allExistingItems.some((el) =>
-    el.title === curr.title &&
-    (isDateInLast7Days(el.date) || curr.title.length > 30)
-  )
+  if (deletedUrls) {
+    if (deletedUrls.has(curr.link)) return true
+    const exist = deletedUrls.values().find((link) => utils.isSameLink(link, curr.link))
+    if (exist) return true
+  }
+  return allExistingItems.some((el) => el.title === curr.title && (isDateInLast7Days(el.date) || curr.title.length > 30))
 }
 
 /**

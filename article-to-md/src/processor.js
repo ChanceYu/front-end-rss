@@ -17,6 +17,7 @@ const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
 // Resolves to front-end-rss/data/articles/
 const ARTICLES_DIR = join(__dirname, '..', '..', 'data', 'articles')
+const DELETED_PATH = join(__dirname, '..', '..', 'data', 'deleted.json')
 
 /** Per-link lock so concurrent /once requests for the same article serialize. */
 const linkLockChains = new Map()
@@ -585,7 +586,15 @@ export async function processArticle(article, options = {}) {
           source.items = (source.items ?? []).filter((item) => item.link !== link)
           if (source.items.length < before) changed = true
         }
-        if (changed) outputJsonSync(LINKS_PATH, sources)
+        if (changed) {
+          outputJsonSync(LINKS_PATH, sources)
+          const deleted = existsSync(DELETED_PATH) ? readJsonSync(DELETED_PATH) : []
+          if (Array.isArray(deleted) && !deleted.includes(link)) {
+            deleted.push(link)
+            outputJsonSync(DELETED_PATH, deleted)
+            console.log(`[processor] Appended to deleted.json`)
+          }
+        }
       } catch {}
       return { deleted: true, md5 }
     }

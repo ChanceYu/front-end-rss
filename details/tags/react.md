@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-06 16:25:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 20:32:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -544,7 +544,6 @@
 - [2026-01-20-效率封神！Vue3这4个高性能Hooks库，直接抄作业](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508310&idx=1&sn=6587ce373f534ff2531cf0359b6d515b&chksm=ce45b4c7f9323dd164ae177294e9bebe6d91fc17990a69f83c223aeb1bdfafa77fb708bb5d8c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fc2c8766da911333cd1a187c53ea9823) 
 - [2025-12-16-灾难性-BUG！React-团队正在连夜修复！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247507037&idx=1&sn=ac0277713fdd3f5b5063e22ca9608b77&chksm=ce45c9ccf93240da8c4907c4df6ee1cdadcb06ab44691701f47020dbfdb8a3ea937dbf3c92a5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=01d5e23accdae41f908068ef037be8ae) 
 - [2025-11-05-苹果官网源码被曝光！用的不是-Vue-也不是-React](http://mp.weixin.qq.com/s/PxthZQWjNhyG4Pm3DTQI5g) 
-- [2025-09-09-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s/uX5S4dpumQi-kC0ITYDGnA) 
 - [2025-08-21-Vue和React迎来大融合！开发效率大提升](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505401&idx=1&sn=083542207259901e74e602d4af495cb0&chksm=ce45c068f932497e244f2d55731386613495bb708f20aa7dbe841389f31cecc4de27c1e70f52#rd) 
 - [2025-08-18-Vue3-最新-Hooks-库发布，VueUse或将成为历史](http://mp.weixin.qq.com/s/EAZ8ugTMDaBVi67htSzswg) 
 - [2025-08-07-Vue3-官方推出新的动画方案，对标-React！](http://mp.weixin.qq.com/s/Oa0l88Tnjo85S-LTVq-HQw) 
@@ -711,12 +710,10 @@
 - [2023-01-12-How-to-build-your-own-React:-Didact-解析](https://mp.weixin.qq.com/s/EL3Qu6SB9pct4d_vF7XVtQ) 
 - [2022-04-15-技术周报·2022年的React生态](https://mp.weixin.qq.com/s/OhaWnLLFmP2rwsO_t6YLiA) 
 - [2025-12-23-为什么-next.js-也适合后台管理系统](http://mp.weixin.qq.com/s/o4vSfWPkdHDYq0NCRd9tNQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=209c471395fe9567ff2b2cca4da2e081) 
-- [2025-10-28-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517454&idx=1&sn=f72e5a0ba75a92df259ccab9724f88b2&chksm=eb07bd77dc70346134f56954e5fb9d9ae56fd3c6febeafb3530139565ac021bfc0a7da131daa#rd) 
 - [2025-09-29-Vue3-生态-4-大-Hooks-神库！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517438&idx=1&sn=5d138db8f836f95cba6067f8c84e51ad&chksm=eb07bc87dc703591d97529365d0999a1e8ae6ad01eb2f0d6d743277f9560b22a859d5a950f0e#rd) 
 - [2025-09-02-React，一地鸡毛！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517396&idx=1&sn=9a6ce154102ecdde936aecb480005baf&chksm=eb07bcaddc7035bbdf877c36bbf8c0d25d45a23835a3fefe2b3227bc16a2a6ec45846811b725#rd) 
 - [2025-07-16-我本是写react的，公司让我换赛道搞web3D](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517329&idx=1&sn=ff43bf397481aca79a5e4abba8f403cd&chksm=eb07bce8dc7035fe69324d6114260487ede600d138967b2aed88c44c8b088b1f70f9332fc07f#rd) 
 - [2025-06-12-Vue-生态新玩具：依赖可视化！兼容-React！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517252&idx=1&sn=3140d1ee010f0af7e552574463af42ca&chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd) 
-- [2025-06-03-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517246&idx=1&sn=618b18b29cf9f07e0b11447fd9b690ca&chksm=eb07bc47dc703551290d6c9d66301a3401a21ad510aec8544634c3a505a190179f3101cbd6a6#rd) 
 - [2025-05-19-React-lazy-原来是这么动态加载组件的！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517223&idx=1&sn=e7f3c6e6329b7cbfd5199b55a9aac0c3&chksm=eb07bc5edc7035486ee2021d88fd7f98551092afdcc204df018c3cadd6e73f4890f90233b231#rd) 
 - [2025-04-29-号称最大开源-UI-模板库，包含15000+前端模板！适配React、Vue！关键都贼炫酷！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517188&idx=1&sn=fe04be5fec554b312ac362f24e4bb463&chksm=eb07bc7ddc70356b59462f9740d4d52b3b70137a58b4c96bd5ef0283c5b7a08212b27a1347b9#rd) 
 - [2025-04-11-Rspack-加入-Next.js-生态：携手改进前端工具链](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517164&idx=1&sn=48b598aa3177fcb3a60ffbc844b2e3e2&chksm=eb07bb95dc703283acd6a3f84ce8e3003456fcc561576e8d6e8b364337ee3f0e4b6eb4581905#rd) 

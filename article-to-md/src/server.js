@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
 
 import once from './once.js'
-import { uploadArticleFolder, uploadProcessedJson } from './upload.js'
+import { uploadArticleFolder, uploadProcessedJson, uploadLinksJson } from './upload.js'
 import { urlToMd5, withProcessedUpdate, regenerateSiteFiles, regenerateWritemd, QINIU_ENABLED } from './utils.js'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
@@ -113,6 +113,14 @@ app.post('/article-to-md/remove', async (c) => {
     } catch (err) {
       console.warn(`[server] Failed to update deleted.json: ${err.message}`)
     }
+  }
+
+  try {
+    await uploadProcessedJson()
+    await uploadLinksJson()
+    console.log('[server] Uploaded processed.json/links.json')
+  } catch (err) {
+    console.error('[server] Upload processed.json/links.json failed:', err.message)
   }
 
   let distRegenerated = false
