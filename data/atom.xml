@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-06T03:59:16.129Z</updated>
+    <updated>2026-03-06T05:09:19.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[Vue Native 最新进展！]]></title>
         <id>http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA</id>
         <link href="http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA"/>
+        <updated>2026-03-06T00:00:00.000Z</updated>
+        <published>2026-03-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3664期】Claude Code 系统化方法：从规划到高效交付]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278666&amp;idx=1&amp;sn=6fadb54fb3fca3e1324cb35b3bca3700&amp;chksm=bc3f8be7a739f93a81f57403fae47a620732a523bcfbfb2ec355bc6fa52f9360d3ef7cdd8547&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278666&amp;idx=1&amp;sn=6fadb54fb3fca3e1324cb35b3bca3700&amp;chksm=bc3f8be7a739f93a81f57403fae47a620732a523bcfbfb2ec355bc6fa52f9360d3ef7cdd8547&amp;scene=0#rd"/>
         <updated>2026-03-06T00:00:00.000Z</updated>
         <published>2026-03-06T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[同样用 Electron 重构，为什么 VSCode 性能那么好？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508757&amp;idx=1&amp;sn=ec44f7b7155eeb6fd2f69891aee26259&amp;chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508757&amp;idx=1&amp;sn=ec44f7b7155eeb6fd2f69891aee26259&amp;chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd"/>
-        <updated>2026-02-12T00:00:00.000Z</updated>
-        <published>2026-02-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An experimental Node environment in the browser]]></title>
-        <id>https://nodeweekly.com/issues/611</id>
-        <link href="https://nodeweekly.com/issues/611"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <published>2026-02-12T00:00:00.000Z</published>
     </entry>
