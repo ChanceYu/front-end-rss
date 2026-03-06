@@ -653,11 +653,13 @@ export default {
   margin: .2em 0;
 }
 
-/* 表格外层：仅表格区域横向滚动，与代码块一致避免在手机上抢占垂直滚动 */
+/* 表格外层：圆角、边框、横向滚动；与代码块一致避免在手机上抢占垂直滚动 */
 .md-viewer__content.markdown-body .md-viewer__table-wrap {
   overflow-x: auto;
   overflow-y: hidden;
   margin: 1.25em 0;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
   -webkit-overflow-scrolling: touch;
   touch-action: pan-y pinch-zoom;
   scrollbar-width: thin;
@@ -678,7 +680,7 @@ export default {
   border-radius: 3px;
 }
 
-/* 表格 */
+/* 表格：外框与圆角在外层 .md-viewer__table-wrap，此处仅布局与内部分隔线 */
 .md-viewer__content.markdown-body table {
   width: 100% !important;
   display: table;
@@ -686,9 +688,6 @@ export default {
   border-spacing: 0;
   font-size: .875rem;
   margin: 0;
-  border-radius: 6px;
-  overflow: hidden;
-  box-shadow: 0 0 0 1px #e2e8f0;
 }
 
 .md-viewer__content.markdown-body thead tr {
