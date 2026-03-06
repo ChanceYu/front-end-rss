@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-05T23:47:26.538Z</updated>
+    <updated>2026-03-06T01:08:17.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[愤怒！尤雨溪吐槽：Github！还我钱来！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509088&amp;idx=1&amp;sn=36ea2b2ca2bb5f85db948871d0d67dd0&amp;chksm=ce45b1f1f93238e7873bd28b1211ca6eb4d2a1b51d957980823fc0ec77cdeecd6361edba1c93#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509088&amp;idx=1&amp;sn=36ea2b2ca2bb5f85db948871d0d67dd0&amp;chksm=ce45b1f1f93238e7873bd28b1211ca6eb4d2a1b51d957980823fc0ec77cdeecd6361edba1c93#rd"/>
+        <updated>2026-03-05T00:00:00.000Z</updated>
+        <published>2026-03-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3663期】如何用 Ollama 在本地运行并定制专属 LLM]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd</id>
@@ -39,6 +46,13 @@
         <title type="html"><![CDATA[ICLR 2026 | 基于概念蒸馏的生成式视频复原算法Vivid-VR]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542989&amp;idx=1&amp;sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&amp;chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542989&amp;idx=1&amp;sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&amp;chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd"/>
+        <updated>2026-03-04T00:00:00.000Z</updated>
+        <published>2026-03-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 多年第一，被一只龙虾 100 天干翻了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529334&amp;idx=1&amp;sn=01107838d42e78d358c5618f6d537f3b&amp;chksm=f99275a7cee5fcb1ff61c1fe2b00da91cb29986aa9c48e0a849b79b356e38c0cce5ff53c39d0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529334&amp;idx=1&amp;sn=01107838d42e78d358c5618f6d537f3b&amp;chksm=f99275a7cee5fcb1ff61c1fe2b00da91cb29986aa9c48e0a849b79b356e38c0cce5ff53c39d0#rd"/>
         <updated>2026-03-04T00:00:00.000Z</updated>
         <published>2026-03-04T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542896&amp;idx=1&amp;sn=b1152e8ffd9fdc3a6a4058e9e1602373&amp;chksm=8390db28b4e7523ee656b32696d103fed3781d59c48088c541ac40c8bbb18df921660af7afde#rd"/>
         <updated>2026-02-11T00:00:00.000Z</updated>
         <published>2026-02-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinia 超进化！从此不需要 Axios！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508754&amp;idx=1&amp;sn=14e7a5bfc29c7be4eb24f07ea07fe70c&amp;chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508754&amp;idx=1&amp;sn=14e7a5bfc29c7be4eb24f07ea07fe70c&amp;chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd"/>
-        <updated>2026-02-11T00:00:00.000Z</updated>
-        <published>2026-02-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A fast, modern way to browse and compare npm packages]]></title>
-        <id>https://javascriptweekly.com/issues/772</id>
-        <link href="https://javascriptweekly.com/issues/772"/>
-        <updated>2026-02-10T00:00:00.000Z</updated>
-        <published>2026-02-10T00:00:00.000Z</published>
     </entry>
 </feed>
