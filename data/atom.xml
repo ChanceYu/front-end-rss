@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-06T05:09:19.582Z</updated>
+    <updated>2026-03-06T08:24:53.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[Vue Native 最新进展！]]></title>
         <id>http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA</id>
         <link href="http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA"/>
+        <updated>2026-03-06T00:00:00.000Z</updated>
+        <published>2026-03-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Review 将死于 2026 年]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624094&amp;idx=1&amp;sn=6d1b600f1d9b4f6b83fb7dbb98908b99&amp;chksm=8022455fb755cc4920a8bd82b7f85de214177ad33d7fc139eb6331432a93486c28d7237ca807#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624094&amp;idx=1&amp;sn=6d1b600f1d9b4f6b83fb7dbb98908b99&amp;chksm=8022455fb755cc4920a8bd82b7f85de214177ad33d7fc139eb6331432a93486c28d7237ca807#rd"/>
         <updated>2026-03-06T00:00:00.000Z</updated>
         <published>2026-03-06T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[刚刚，Webpack 官宣 2026 年大动作！]]></title>
         <id>http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ</id>
         <link href="http://mp.weixin.qq.com/s/X6eo9jKJsb3mP4u56wkXnQ"/>
-        <updated>2026-02-12T00:00:00.000Z</updated>
-        <published>2026-02-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同样用 Electron 重构，为什么 VSCode 性能那么好？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508757&amp;idx=1&amp;sn=ec44f7b7155eeb6fd2f69891aee26259&amp;chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508757&amp;idx=1&amp;sn=ec44f7b7155eeb6fd2f69891aee26259&amp;chksm=ce45b684f9323f92ee18042e4c4932ec54ce56e3d8b59c17c1fdcd9238d4a612d58e569beaee#rd"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <published>2026-02-12T00:00:00.000Z</published>
     </entry>

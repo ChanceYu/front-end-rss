@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-06 13:09:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 16:25:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器
 
@@ -165,6 +165,7 @@
 - [2018-11-23-【第1455期】新一代页面生命周期API：来自Chrome官方博客的介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230476&idx=2&sn=be8893c4b3dd7bd2f1b6e2afa39cddff#wechat_redirect) 
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
+- [2026-03-06-Code-Review-将死于-2026-年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624094&idx=1&sn=6d1b600f1d9b4f6b83fb7dbb98908b99&chksm=8022455fb755cc4920a8bd82b7f85de214177ad33d7fc139eb6331432a93486c28d7237ca807#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28d7f0bdc6b8d7d4f216df7d3a0c0f0f) 
 - [2026-02-04-谷歌Chrome觉醒！Gemini-3全面接管，38亿用户一夜进入Agent时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f19826c344ddc5ca5a2cb79a257b9438) 
 - [2026-01-19-Cursor一夜翻车，AI-300万代码写浏览器被打假！全网群嘲「AI泔水」](http://mp.weixin.qq.com/s/3cFHuP9UZRkEIBe5X3rBCw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3e0887dd3467c4526c445d2237894eb7) 
 - [2026-01-05-大多数开发者都错误地使用了Prettier](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623605&idx=2&sn=3ca7742a108174fccbb2a1d7efc89aea&chksm=80224774b755ce62e37b9b2830d71c92e3bcd9e2f9841e42de39350ef796f38c930ac2d0c75f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=00a2566e2044ba8667cfa2b1acdf674a) 
