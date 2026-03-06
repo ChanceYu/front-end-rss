@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-06 20:32:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-07 04:20:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -10,7 +10,7 @@
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=07c3383fcf62788eabf28c5a6dffec8c) 
 - [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a868a823b965435cdfc962b4ac7605da) 
 - [2026-01-07-【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2ff39535b8c26628c9bff92be6871d4c) 
-- [2025-11-21-【第3615期】前端安全：setHTML、Trusted-Types-和-Sanitizer-API-使用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277961&idx=1&sn=8233a680cb05111a5e2d4f66619baedb&chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&scene=0#rd) 
+- [2025-11-21-【第3615期】前端安全：setHTML、Trusted-Types-和-Sanitizer-API-使用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277961&idx=1&sn=8233a680cb05111a5e2d4f66619baedb&chksm=bc7502da4c068fd986eb6ff3649028063f6834f6b3576a92ae9c53df647bca37e56ec1a9fea8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fbec0cc3c9c4fcea53ecd81eab4fa43f) 
 - [2025-10-20-【第3601期】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277679&idx=1&sn=4b3daf212972191ed6ec8ab4b3712d2d&chksm=bc8e4f7dbb140c58ae809ea630ce21cfc202c441b139f0c32acf3dbef4651eb9e6bb93477214&scene=0#rd) 
 - [2025-07-24-【第3557期】使用-useOptimistic-让应用即时响应](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277043&idx=1&sn=dfb90d213c9401e9888a0121b0edce14&chksm=bc1685e5b06f977099fb9344b296723f40b3ad46e73ee66284df7ddf630e164daddb741b9247&scene=0#rd) 
 - [2024-12-12-【早阅】-2024年HTML现状调查报告](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274558&idx=1&sn=b5d5e5e13d8d5531c5ed0f3faacc6574&chksm=bc2a92f23a31e63a6a6293ab24ba6b632080c3e93d114f0528d26dae816a4474300da93a4537&scene=0#rd) 
@@ -64,7 +64,7 @@
 - [2020-09-29-iframe-接班人-微前端框架-qiankun-在中后台系统实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651562436&idx=1&sn=7e72bd9188fd9b39d18a312b465c3ae3&chksm=80257605b752ff13207fbb1b3e937e4ccdb0847699909bd16740c1fe46320b28d03d06c5577c&scene=27#wechat_redirect) 
 - [2020-07-18-玩转前端-Video-播放器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651560647&idx=1&sn=6d10186c6e404de7e596cc152a34ab7a&chksm=80254d06b752c4109b23010e60aa455d3724133902790073bcc92d5f2f486aa535b73d9e6c42&scene=27#wechat_redirect) 
 - [2019-01-06-canvas-中普通动效与粒子动效的实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=1&sn=7c7262f37931a5ec866ccdd2268f0f18#wechat_redirect) 
-- [2025-11-23-Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw) 
+- [2025-11-23-Meta-用一个烂-Web-应用替换原生-WhatsApp：Windows-用户活该将就？](http://mp.weixin.qq.com/s/Z4hMbWBazYbm8Ua45pb5Rw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=32eb586eafeb6eddaae1b0392c1c1ae0) 
 - [2023-08-30-准备好抛弃-HTML-了吗？Dart-3.1-和-Flutter-3.13-发布](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522078&idx=1&sn=34f33faddc1868becc53e8e7019aec35&chksm=f952225dce25ab4b3679de3fa7dca5a2c151646478f7b9358564fbcaead2c4e65e0eb8bedf8b#rd) 
 - [2022-09-19-Meta开源MemLab：轻松解决JavaScript内存泄漏，有效减少50%的系统崩溃](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517984&idx=1&sn=ca9ee5fe833aea911f8ffe8efc7087b5&chksm=f9523263ce25bb75243354b9cc67880d031fb317a4fa3b01f974fb4c96a8b1c885a6dc1117fc#rd) 
 - [2022-09-18-Adobe收购Figma；易联购预售iPhone卷款跑路；脉脉以旷工为由辞退员工，被判赔24万；Meta开源MemLab](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517964&idx=1&sn=fd812c4578cf63ba2924f7d0e5c8b48e&chksm=f952324fce25bb598f78f8a710d2fee125012a6ec4860e1e980b9308631c962c694fe5ab313d#rd) 
