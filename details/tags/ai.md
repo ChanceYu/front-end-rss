@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-07 04:20:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-07 16:17:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -522,6 +522,7 @@
 - [2023-06-29-大模型时代，老板将如何定义你的价值](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512115&idx=1&sn=7b7df89989ebcae78df2edfc8bee3e2b&chksm=eb07884adc70015cc2fe85ecea1a8d0565af83ce23c458ad54b03cfa764281498186fccf0d40#rd) 
 - [2023-06-27-我的第一个-Next.js-+-ChatGPT-项目，24-小时内爆炸-10000-用户！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512032&idx=1&sn=2993b856d32b27fe0451f4cb55c2072b&chksm=eb079799dc701e8f631af649901ccc3cbc8e5e824891d9ff220250ac24bd5a171eac493bf343#rd) 
 - [2023-12-18-尝试借助CSS-@container实现多行文本展开收起](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488723&idx=1&sn=8376aee095e38cb26bc4946ed2519869&chksm=97c6771ca0b1fe0ac7cd68f11dd0a2b1f36c2cb2b449e4f4117bf764c00336af655afd265059#rd) 
+- [2026-03-06-AI工作流在淘宝交易舆情巡检上的探索与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542990&idx=1&sn=c87517f8af9020407cf36f636538fbe3&chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=26754fc2bc8a8a8c3bf28c4b7ab0cca8) 
 - [2026-03-02-AI-Coding思考：从工具提效到范式变革，我们还缺什么？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542970&idx=1&sn=231a9b78e5c7e1054aa26e86556e8ed8&chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1984eb4ab55b67aa2e7f0162e778261d) 
 - [2026-02-27-首届淘宝电商AI挑战赛来了！设350万赛事奖项和千万扶持资源](http://mp.weixin.qq.com/s/fqPFmkHUNvQ5GoQq0gl1Fw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ff89d9590a849ea53f83b033feebefec) 
 - [2026-02-25-AI真人数字人语音对话性能优化实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542923&idx=1&sn=1403311c090693a4dc684ca861e515b6&chksm=8390db53b4e75245e036e1e89b5f5fe80ee19d832b8c76c9946b9456f4091dfc134da88bdc54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a15520b450fa31079a5a615963d81e30) 

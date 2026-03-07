@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-06T20:19:27.953Z</updated>
+    <updated>2026-03-07T08:17:16.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AI工作流在淘宝交易舆情巡检上的探索与实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542990&amp;idx=1&amp;sn=c87517f8af9020407cf36f636538fbe3&amp;chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542990&amp;idx=1&amp;sn=c87517f8af9020407cf36f636538fbe3&amp;chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd"/>
+        <updated>2026-03-06T00:00:00.000Z</updated>
+        <published>2026-03-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue Native 最新进展！]]></title>
         <id>http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/02/glm-5.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/02/glm-5.html"/>
-        <updated>2026-02-12T00:00:00.000Z</updated>
-        <published>2026-02-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS正则表达式y标识符之粘性匹配]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <published>2026-02-12T00:00:00.000Z</published>
     </entry>
