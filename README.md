@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-07 16:17:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-07 18:13:54，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,7 +23,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -31,7 +31,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -150,16 +150,16 @@
 </summary>
 
 
+- [2026-03-07-炸裂！120+-个-Vue3-动画组件正式发布开源！解放双手！](http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcef919002d59ecbc5bde4831b736793)  ![](/assets/new.png) 
+- [2026-03-07-Cursor凉了？从月收入5亿美元，到现在无人问津？](http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5cd26cc76b204eece57369433ac3877c)  ![](/assets/new.png) 
+- [2026-03-07-中国最难入职的IT公司](http://mp.weixin.qq.com/s/C1n3As-VPRJIX-1lZp5tQQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d21e7821578b79b70e83df3d1b8abbef)  ![](/assets/new.png) 
+- [2026-03-06-死了么APP核心开发者，被公司劝退离职！](http://mp.weixin.qq.com/s/dT8NXnH67NSW3CgtbQZgZQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b4298976ac9c53c3f52f2545881459dc)  ![](/assets/new.png) 
 - [2026-03-05-愤怒！尤雨溪吐槽：Github！还我钱来！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509088&idx=1&sn=36ea2b2ca2bb5f85db948871d0d67dd0&chksm=ce45b1f1f93238e7873bd28b1211ca6eb4d2a1b51d957980823fc0ec77cdeecd6361edba1c93#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9744d542b9ff1c0206cd32380f1dbe05)  
 - [2026-03-02-商业级前端转-AI-全栈课程，前端部分全部开源](http://mp.weixin.qq.com/s/OzaUsJOQMPyL4ofe95zSAw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=657ea8f7196bb7d7e71b428938626767)  
 - [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0af49c4bc19f7a84f6803f82691cd538)  
 - [2026-02-25-身为全栈工程师，这一神器让我开发效率翻倍！](http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1f9d266fbac584725af5b9576ee65be2)  
-- [2026-02-24-尤雨溪坦言：我确实不懂Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508955&idx=1&sn=a713dd86a5239421c4611930e631fae7&chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f184ba63d44003c23cee3ae9b99859cd)  
 - [2026-02-24-公司快不行的几个前兆](http://mp.weixin.qq.com/s/_HFUlVZ9Fj0uEaChjz7Thg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a6e9de212ba944c80ab20b940a03b52a)  
-- [2026-02-23-Vue3-新语法！无虚拟DOM-再次进化，效率大提升！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508936&idx=1&sn=49e9483e2f9b438ddf5d7108e94212c0&chksm=ce45b659f9323f4f60a8c0687df51da6df62a38176a1d0aaba3a3b031546e10ce11584b198fe#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c0bddee050dd9d32231c1434675b9a7)  
-- [2026-02-22-Electron-淘汰！新的桌面端框架-更强大、更轻量化](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508927&idx=1&sn=3d645054b3d90f2a399d51db3184bcca&chksm=ce45b62ef9323f38673855592159331d278e4208215eeb387653eb8070ef0e3000c60fcc61a1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=609fbcdf3dc5ab65c99f1ba5bd6d4765)  
-- [2026-02-21-如果人人都存到20万块钱，那这个社会就乱套了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508922&idx=1&sn=98e984731467162f181975f1c5e41299&chksm=ce45b62bf9323f3d7afe649550cc8de62898933a1271f3edab09a3962e765550111288164059#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=29cb04efcb479f63ba587585551db741)  
-- [2026-02-20-为什么没人走后门干程序员？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508921&idx=1&sn=d0282c77ef51ebbcc38155f6a5f41870&chksm=ce45b628f9323f3e60d27627ed49fa4cc2c398334abeb2418893daab5480013bc87cd33b7b22#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=153e49ff5da80334b7d147e1f8892c09)  
+- [2026-02-24-尤雨溪坦言：我确实不懂Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508955&idx=1&sn=a713dd86a5239421c4611930e631fae7&chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f184ba63d44003c23cee3ae9b99859cd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -318,7 +318,7 @@
 </summary>
 
 
-- [2026-03-06-AI工作流在淘宝交易舆情巡检上的探索与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542990&idx=1&sn=c87517f8af9020407cf36f636538fbe3&chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=26754fc2bc8a8a8c3bf28c4b7ab0cca8)  ![](/assets/new.png) 
+- [2026-03-06-AI工作流在淘宝交易舆情巡检上的探索与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542990&idx=1&sn=c87517f8af9020407cf36f636538fbe3&chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=26754fc2bc8a8a8c3bf28c4b7ab0cca8)  
 - [2026-03-04-ICLR-2026-|-基于概念蒸馏的生成式视频复原算法Vivid-VR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542989&idx=1&sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=11962c709d9d70b3ac12e38d170609bf)  
 - [2026-03-02-AI-Coding思考：从工具提效到范式变革，我们还缺什么？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542970&idx=1&sn=231a9b78e5c7e1054aa26e86556e8ed8&chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1984eb4ab55b67aa2e7f0162e778261d)  
 - [2026-02-27-首届淘宝电商AI挑战赛来了！设350万赛事奖项和千万扶持资源](http://mp.weixin.qq.com/s/fqPFmkHUNvQ5GoQq0gl1Fw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ff89d9590a849ea53f83b033feebefec)  

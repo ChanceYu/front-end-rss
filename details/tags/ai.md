@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-07 16:17:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-07 18:13:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -330,6 +330,7 @@
 - [2018-12-30-有了async/await，你可以丢掉promise链了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490202&idx=1&sn=c37e1ad7a35d32c0fc02e4a892391847#wechat_redirect) 
 - [2018-11-11-异步JavaScript的演化史：从回调到Promise再到Async/Await](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489845&idx=1&sn=c13a6669332c8cff60831279755a0d6c#wechat_redirect) 
 - [2018-10-19-Angular-7.0发布，带来CLI-Prompts、虚拟滚动和拖放等特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489707&idx=1&sn=353b21e8554797382e4d588a00870d35#wechat_redirect) 
+- [2026-03-07-Cursor凉了？从月收入5亿美元，到现在无人问津？](http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5cd26cc76b204eece57369433ac3877c) 
 - [2026-03-02-商业级前端转-AI-全栈课程，前端部分全部开源](http://mp.weixin.qq.com/s/OzaUsJOQMPyL4ofe95zSAw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=657ea8f7196bb7d7e71b428938626767) 
 - [2026-02-14-Typescript-最强打包工具，正式发布-AI-版本！更快更顺滑！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508849&idx=1&sn=cfb6c860e9f706a93b1d9aa59659026e&chksm=ce45b6e0f9323ff68618e623b5872c1a2c62313ffb4dbf24a4561c4a861b7596dd017fea19d8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7d58a136a392e4d99b42c3262ce6be36) 
 - [2026-01-31-stars-高达50w+！Github-爆火的-10-个值得学习的-AI-项目！学到了好多！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508610&idx=1&sn=37f34326e37f4855cf0b606a2cc4f458&chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac69df9591acedcddcf5b3b68cf3ec60) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-07 16:17:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-07 18:13:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -2292,6 +2292,7 @@
 - [2018-09-23-Electron-3.0正式版发布，新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489563&idx=1&sn=143a32f20520df0a25651099e14e870c#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-18-多端统一开发框架-Taro-1.0-正式发布，全面支持小程序](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489534&idx=1&sn=45147b46e9e4b2db52d573d2e6b68207#wechat_redirect) 
+- [2026-03-07-炸裂！120+-个-Vue3-动画组件正式发布开源！解放双手！](http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcef919002d59ecbc5bde4831b736793) 
 - [2026-03-02-商业级前端转-AI-全栈课程，前端部分全部开源](http://mp.weixin.qq.com/s/OzaUsJOQMPyL4ofe95zSAw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=657ea8f7196bb7d7e71b428938626767) 
 - [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0af49c4bc19f7a84f6803f82691cd538) 
 - [2026-02-25-身为全栈工程师，这一神器让我开发效率翻倍！](http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1f9d266fbac584725af5b9576ee65be2) 

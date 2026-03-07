@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-07 16:17:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-07 18:13:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -492,6 +492,7 @@
 - [2018-10-15-Vue-CLI-2&amp;3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect) 
 - [2018-10-02-重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect) 
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
+- [2026-03-07-炸裂！120+-个-Vue3-动画组件正式发布开源！解放双手！](http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcef919002d59ecbc5bde4831b736793) 
 - [2026-02-24-尤雨溪坦言：我确实不懂Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508955&idx=1&sn=a713dd86a5239421c4611930e631fae7&chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f184ba63d44003c23cee3ae9b99859cd) 
 - [2026-02-23-Vue3-新语法！无虚拟DOM-再次进化，效率大提升！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508936&idx=1&sn=49e9483e2f9b438ddf5d7108e94212c0&chksm=ce45b659f9323f4f60a8c0687df51da6df62a38176a1d0aaba3a3b031546e10ce11584b198fe#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c0bddee050dd9d32231c1434675b9a7) 
 - [2026-02-11-Pinia-超进化！从此不需要-Axios！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508754&idx=1&sn=14e7a5bfc29c7be4eb24f07ea07fe70c&chksm=ce45b683f9323f9527c4b6d3ff6ab2b4ea353b3f1878b42aaea38d5669059383d7c5fda30185#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=250c96f64aa17bf872fd43cc05ac7a2b) 
