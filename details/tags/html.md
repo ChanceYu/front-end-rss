@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-09 14:46:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-09 18:34:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -145,6 +145,7 @@
 - [2022-04-21-如何使用-JS-实现一个-HTML-解析器](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495537&idx=1&sn=c8d0ef67964f583317add7d1cf4501e3&chksm=ec47a4b2db302da408aa046fd978a4bb008e5704836aaf729d45f1075478401a8a1d99022e81#rd) 
 - [2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution) 
 - [2017-07-27-GCanvas-渲染引擎介绍](https://fed.taobao.org/blog/2017/07/27/gcanvas/) 
+- [2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f9bb84eeb91885069a4c7e57a58b7cc) 
 - [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=822c0f3fd53f1b05b135738d40620e01) 
 - [2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2c63b867d52198ef8e741fd99c850558) 
 - [2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca3e7ca5ba45fcf1d6e8a334a236d45e) 

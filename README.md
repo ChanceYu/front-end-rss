@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-09 14:46:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-09 18:34:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -87,7 +87,7 @@
 </summary>
 
 
-- [2026-03-09-【第3665期】WebMCP：让每个网站都能与智能代理互动的新标准](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278670&idx=1&sn=84b6ee5fcefb778448e75503a51aa54f&chksm=bcb5039191a98d6853af7432405ca3277deb7d7bf7d507099cf824356ff0fe006d8d15bbca2c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d184a0fb01c2c1551c1bd5b362e187f)  ![](/assets/new.png) 
+- [2026-03-09-【第3665期】WebMCP：让每个网站都能与智能代理互动的新标准](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278670&idx=1&sn=84b6ee5fcefb778448e75503a51aa54f&chksm=bcb5039191a98d6853af7432405ca3277deb7d7bf7d507099cf824356ff0fe006d8d15bbca2c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d184a0fb01c2c1551c1bd5b362e187f)  
 - [2026-03-06-【第3664期】Claude-Code-系统化方法：从规划到高效交付](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278666&idx=1&sn=6fadb54fb3fca3e1324cb35b3bca3700&chksm=bc3f8be7a739f93a81f57403fae47a620732a523bcfbfb2ec355bc6fa52f9360d3ef7cdd8547&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=41ea2693294974515c9cff7717366b47)  
 - [2026-03-05-【第3663期】如何用-Ollama-在本地运行并定制专属-LLM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278660&idx=1&sn=01f0220c8ab0fd25fdb6c2038511eb48&chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4377f3ecefeaeae1759e22a2fc67f913)  
 - [2026-03-04-【第3662期】快速上手-Claude-技能：从零到可用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278648&idx=1&sn=89ff449c4a6d350a18230459234e46f3&chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4e6480eda7804b0c40b49a2d14d7c896)  
@@ -339,6 +339,7 @@
 </summary>
 
 
+- [2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f9bb84eeb91885069a4c7e57a58b7cc)  ![](/assets/new.png) 
 - [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=822c0f3fd53f1b05b135738d40620e01)  
 - [2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f82b6fecb642fa5b8e3b8bf3b4cf826)  
 - [2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=58bcd114470f0267ae4de2942db13c23)  
@@ -348,7 +349,6 @@
 - [2026-01-19-CSS-text-decoration-inset属性首发简介](https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca0f23412fec2060ad6ef026c9ac4a2d)  
 - [2026-01-16-纯CSS实现折线连接两个任意元素效果](https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e1a87bc0dec6deb82789431c404af136)  
 - [2026-01-05-学会使用CSSStyleSheet构造CSS样式](https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a933c05ccde830909ddfbd372e12e417)  
-- [2025-12-29-今日学习CSS-style样式查询及其range范围语法](https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bae4e81ab6a2fc85b25f3fdf5410524)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
