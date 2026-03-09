@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-07 18:13:54，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-09 14:46:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -87,6 +87,7 @@
 </summary>
 
 
+- [2026-03-09-【第3665期】WebMCP：让每个网站都能与智能代理互动的新标准](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278670&idx=1&sn=84b6ee5fcefb778448e75503a51aa54f&chksm=bcb5039191a98d6853af7432405ca3277deb7d7bf7d507099cf824356ff0fe006d8d15bbca2c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d184a0fb01c2c1551c1bd5b362e187f)  ![](/assets/new.png) 
 - [2026-03-06-【第3664期】Claude-Code-系统化方法：从规划到高效交付](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278666&idx=1&sn=6fadb54fb3fca3e1324cb35b3bca3700&chksm=bc3f8be7a739f93a81f57403fae47a620732a523bcfbfb2ec355bc6fa52f9360d3ef7cdd8547&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=41ea2693294974515c9cff7717366b47)  
 - [2026-03-05-【第3663期】如何用-Ollama-在本地运行并定制专属-LLM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278660&idx=1&sn=01f0220c8ab0fd25fdb6c2038511eb48&chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4377f3ecefeaeae1759e22a2fc67f913)  
 - [2026-03-04-【第3662期】快速上手-Claude-技能：从零到可用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278648&idx=1&sn=89ff449c4a6d350a18230459234e46f3&chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4e6480eda7804b0c40b49a2d14d7c896)  
@@ -96,7 +97,6 @@
 - [2026-02-27-【早阅】一周重写-Next.js：AI-如何造出更快更小的-vinext？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278624&idx=1&sn=80be0485ee26431b040c99831ee892e0&chksm=bcf95c28d991f67474cce195039d75a5241bd6533bab509e5656b4773967b30e5986571d1f5c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=388eb338223f9ea29479fef775b411b5)  
 - [2026-02-26-【第3658期】从终端到工作空间：MCP-Apps-如何把-UI-带回-Agent-中心](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278618&idx=1&sn=fcdaf49c28f016098071d4e9eeb04b54&chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ba3aa1b6506f33c222b91c57a4a8766d)  
 - [2026-02-25-【第3657期】Visual-Agentic-Dev：让前端开发工程师告别繁琐的代码修改流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278606&idx=1&sn=f1ef8cbb6ce6ecd37d06843f7799ae4b&chksm=bc95f3cd4ca1b7276db8fb4d258f47cd2574e070b9f2c6ff4df21ce5e8d208a13acb0dc0c3c1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=892485f5dad06929ddf848563c631bbd)  
-- [2026-02-24-【第3656期】深入理解-React-的-useEffectEvent：彻底告别闭包陷阱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278602&idx=1&sn=a51d047d864a2178ae921057e3c6073a&chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e2896530dc5e769ad2d7c41b340ebe06)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -150,10 +150,10 @@
 </summary>
 
 
-- [2026-03-07-炸裂！120+-个-Vue3-动画组件正式发布开源！解放双手！](http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcef919002d59ecbc5bde4831b736793)  ![](/assets/new.png) 
-- [2026-03-07-Cursor凉了？从月收入5亿美元，到现在无人问津？](http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5cd26cc76b204eece57369433ac3877c)  ![](/assets/new.png) 
-- [2026-03-07-中国最难入职的IT公司](http://mp.weixin.qq.com/s/C1n3As-VPRJIX-1lZp5tQQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d21e7821578b79b70e83df3d1b8abbef)  ![](/assets/new.png) 
-- [2026-03-06-死了么APP核心开发者，被公司劝退离职！](http://mp.weixin.qq.com/s/dT8NXnH67NSW3CgtbQZgZQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b4298976ac9c53c3f52f2545881459dc)  ![](/assets/new.png) 
+- [2026-03-07-炸裂！120+-个-Vue3-动画组件正式发布开源！解放双手！](http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcef919002d59ecbc5bde4831b736793)  
+- [2026-03-07-Cursor凉了？从月收入5亿美元，到现在无人问津？](http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5cd26cc76b204eece57369433ac3877c)  
+- [2026-03-07-中国最难入职的IT公司](http://mp.weixin.qq.com/s/C1n3As-VPRJIX-1lZp5tQQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d21e7821578b79b70e83df3d1b8abbef)  
+- [2026-03-06-死了么APP核心开发者，被公司劝退离职！](http://mp.weixin.qq.com/s/dT8NXnH67NSW3CgtbQZgZQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b4298976ac9c53c3f52f2545881459dc)  
 - [2026-03-05-愤怒！尤雨溪吐槽：Github！还我钱来！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509088&idx=1&sn=36ea2b2ca2bb5f85db948871d0d67dd0&chksm=ce45b1f1f93238e7873bd28b1211ca6eb4d2a1b51d957980823fc0ec77cdeecd6361edba1c93#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9744d542b9ff1c0206cd32380f1dbe05)  
 - [2026-03-02-商业级前端转-AI-全栈课程，前端部分全部开源](http://mp.weixin.qq.com/s/OzaUsJOQMPyL4ofe95zSAw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=657ea8f7196bb7d7e71b428938626767)  
 - [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0af49c4bc19f7a84f6803f82691cd538)  
