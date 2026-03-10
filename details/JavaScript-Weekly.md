@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-03-06 01:19:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-11 02:34:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7b61aa9e6536635f9f97e85864c97d2c) 
 - [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dbbe04ca63486bcfca913832c3969f09) 
 - [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=050fad08bd23e55077593ec5761eac91) 
 - [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6b724b897f76457956320ded9db76b8a) 
@@ -18,7 +19,7 @@
 - [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a868a823b965435cdfc962b4ac7605da) 
 - [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=69571afe278cb272e54ca5faf2e5e464) 
 - [2025-11-28-Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=87033152d4a434f8e8be914d30c5abe8) 
-- [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762) 
+- [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d6e85b71a6de0681041f043d4ba1a212) 
 - [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761) 
 - [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760) 
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759) 

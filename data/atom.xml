@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-10T05:07:21.138Z</updated>
+    <updated>2026-03-10T18:33:40.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3666期】为什么随意使用 JSON.parse() 可能带来安全风险]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278676&amp;idx=1&amp;sn=9c313c6248be12a503a3e9b68a5bbda8&amp;chksm=bcee8071e208ac697ed23d6e28d6f5e5ed07068cce5ef063b78cc343fa7a4da7460bcf44ee8e&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278676&amp;idx=1&amp;sn=9c313c6248be12a503a3e9b68a5bbda8&amp;chksm=bcee8071e208ac697ed23d6e28d6f5e5ed07068cce5ef063b78cc343fa7a4da7460bcf44ee8e&amp;scene=0#rd"/>
+        <updated>2026-03-10T00:00:00.000Z</updated>
+        <published>2026-03-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 6.0 RC and Solid 2.0 beta arrive]]></title>
+        <id>https://javascriptweekly.com/issues/776</id>
+        <link href="https://javascriptweekly.com/issues/776"/>
         <updated>2026-03-10T00:00:00.000Z</updated>
         <published>2026-03-10T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/612"/>
         <updated>2026-02-19T00:00:00.000Z</updated>
         <published>2026-02-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electrobun v1: Bun-powered desktop apps in 12MB bundles]]></title>
-        <id>https://javascriptweekly.com/issues/773</id>
-        <link href="https://javascriptweekly.com/issues/773"/>
-        <updated>2026-02-17T00:00:00.000Z</updated>
-        <published>2026-02-17T00:00:00.000Z</published>
     </entry>
 </feed>

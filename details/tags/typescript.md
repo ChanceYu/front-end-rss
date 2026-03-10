@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-10 13:07:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-11 02:34:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -41,6 +41,7 @@
 - [2022-05-19-Node-16-LTS-now-on-AWS-Lambda](https://nodeweekly.com/issues/438) 
 - [2022-04-28-Now-Node-16-gets-the-Fetch-API-too](https://nodeweekly.com/issues/435) 
 - [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424) 
+- [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7b61aa9e6536635f9f97e85864c97d2c) 
 - [2026-02-03-Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6b807c8dbdb15b9f73f44d022f2b72df) 
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759) 
 - [2025-10-10-Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756) 

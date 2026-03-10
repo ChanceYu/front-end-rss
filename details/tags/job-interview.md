@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-10 13:07:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-11 02:34:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -878,6 +878,7 @@
 - [2023-08-14-精读《算法题---最小覆盖子串》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487127&idx=1&sn=0aa1d42f299d150748e6981f597e2835&chksm=fc86285dcbf1a14bbf31eece2ac4e3bd2af2a41cb04c1c79ead23292a24a80c2fcdc0fea320c#rd) 
 - [2023-08-07-精读《算法题---统计可以被-K-整除的下标对数目》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487119&idx=1&sn=2c82baddcc55217e27a2bbfc0c227c60&chksm=fc862845cbf1a153de6301f5cecd42bf7c3db31acde004c9edc7f6281be7f6048f8211df778c#rd) 
 - [2023-07-31-精读《算法题---通配符匹配》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487109&idx=1&sn=bfd7fd72f3ba87b06667e529b2410385&chksm=fc86284fcbf1a159f500829d380a12b34f736ba5e9ef12836416bd74780dde0f3325f4418473#rd) 
+- [2026-03-10-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s/0hJRbl2RInw6jQaU7hevGg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8ec7977fe819cad14d012a11d946e774) 
 - [2025-11-25-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517467&idx=1&sn=c4b5a22ba9539b206964b695e5e62403&chksm=eb07bd62dc70347413a0ea10c6ebe55816cd808e0b485e9a889b9f723a72601b3b2daf7eae44#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccccd5ee5efacc56127b0b80552e825d) 
 - [2025-07-21-最近，前端的招聘市场真是疯掉了。。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517337&idx=1&sn=e244c7eb42b89bcd2eb7c64d4af0fcf2&chksm=eb07bce0dc7035f61aad8aa5574f9700f46c37c2f3768b07d63da9e7f66542fbd1c96d87cc79#rd) 
 - [2025-04-03-取代前端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517149&idx=1&sn=f3d9d1f51044d2c7be24d853ec067eb0&chksm=eb07bba4dc7032b29a18cf046514c77ad15fe1a8a796de324ab213424d5f934ecf32bbf130d0#rd) 
