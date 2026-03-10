@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-10T03:58:21.800Z</updated>
+    <updated>2026-03-10T05:07:21.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3666期】为什么随意使用 JSON.parse() 可能带来安全风险]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278676&amp;idx=1&amp;sn=9c313c6248be12a503a3e9b68a5bbda8&amp;chksm=bcee8071e208ac697ed23d6e28d6f5e5ed07068cce5ef063b78cc343fa7a4da7460bcf44ee8e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278676&amp;idx=1&amp;sn=9c313c6248be12a503a3e9b68a5bbda8&amp;chksm=bcee8071e208ac697ed23d6e28d6f5e5ed07068cce5ef063b78cc343fa7a4da7460bcf44ee8e&amp;scene=0#rd"/>
+        <updated>2026-03-10T00:00:00.000Z</updated>
+        <published>2026-03-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML dialog元素新支持了closedBy属性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/773"/>
         <updated>2026-02-17T00:00:00.000Z</updated>
         <published>2026-02-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想成为全栈工程师，必下载的 13 个工具]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508873&amp;idx=1&amp;sn=a5df0fefb162d2954727252ff38020b7&amp;chksm=ce45b618f9323f0ec39198343633cfcca3acaaee238590dc87a51d3cea6bee2f3890a5c0c340#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508873&amp;idx=1&amp;sn=a5df0fefb162d2954727252ff38020b7&amp;chksm=ce45b618f9323f0ec39198343633cfcca3acaaee238590dc87a51d3cea6bee2f3890a5c0c340#rd"/>
-        <updated>2026-02-15T00:00:00.000Z</updated>
-        <published>2026-02-15T00:00:00.000Z</published>
     </entry>
 </feed>
