@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-09 18:34:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-10 11:58:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,14 +25,14 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -192,8 +192,9 @@
 </summary>
 
 
-- [2026-03-06-仅一周！Cloudflare用AI重写了-Next.js，提速-4-倍，打包体积锐减-57%](http://mp.weixin.qq.com/s/Qv8y_x_o6ITIiYV4NnW5rQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=189749723a42f8c71797e9bb7e3a6a8b)  
+- [2026-03-09-WebMCP：让每个网站都能与智能代理互动的新标准](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529373&idx=1&sn=3eb95feba7d888c21c937c803875d60c&chksm=f992754ccee5fc5aca7ff29383da8487980bd94d0f1abff86aeb8f626e4f349431a5f9130876#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=baa60dad95d8dae630d43c2894b7feaa)  ![](/assets/new.png) 
 - [2026-03-06-突发！软考空前大利好！恭喜所有程序员！](http://mp.weixin.qq.com/s/gllBrXcCTks1gnzdbgb5CA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f555b9d611b9a63357c7ab875ef5725)  
+- [2026-03-06-仅一周！Cloudflare用AI重写了-Next.js，提速-4-倍，打包体积锐减-57%](http://mp.weixin.qq.com/s/Qv8y_x_o6ITIiYV4NnW5rQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=189749723a42f8c71797e9bb7e3a6a8b)  
 - [2026-03-05-25-万+-OpenClaw-实例暴露，你的电脑可能也在名单里！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529345&idx=1&sn=3aa8bdf0ce95b306e4be60927c6fd77b&chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=09f27966c3469cd2c99bed99b6893909)  
 - [2026-03-04-React-多年第一，被一只龙虾-100-天干翻了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529334&idx=1&sn=01107838d42e78d358c5618f6d537f3b&chksm=f99275a7cee5fcb1ff61c1fe2b00da91cb29986aa9c48e0a849b79b356e38c0cce5ff53c39d0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bba09257d08b2a44277c3ad609e14b66)  
 - [2026-03-03-Next.js-16-微前端新玩法：Multi-Zone-本地搭建全流程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529327&idx=1&sn=04f4fe12dc7c5234c8dbdfe35dcc4b72&chksm=f99275becee5fca8737b4cb839fdf5de22fb5cfc146e86d067f32cdc7b6bf8857180da84ea1d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4722723b8501a60760d4d3fc3aa107)  
@@ -201,7 +202,6 @@
 - [2026-02-28-前端工程师必备调试神器：SourceMap-原理解析与实战指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529270&idx=1&sn=89e333a5f18b18d4211f27286c867c22&chksm=f99275e7cee5fcf1972ef9ea27ad851bf464ef3dc164d81a74644b22a92e9720ccd9597b540e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ab4f93a2c5e08d0cc6a4213be55847e8)  
 - [2026-02-27-为什么90%的AI项目都死在了落地环节？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529262&idx=1&sn=7b6b86aabaea8ada58f734af27ff4fd3&chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=432b7b08ebba4d6be64206bbb145dddc)  
 - [2026-02-26-Visual-Agentic-Dev：让前端开发工程师告别繁琐的代码修改流程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529241&idx=1&sn=fc7f7e4f4e51dffce7c7a8c9305782e9&chksm=f99275c8cee5fcde1d521915fffc1585cf90f033e5c3dec96d3b728d345f4fb29be65c544696#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e81e72b323de528d0d390e006f2210eb)  
-- [2026-02-25-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529217&idx=1&sn=dc8d1ddaea4e0115261e61a32c535152&chksm=f99275d0cee5fcc6bd471364b733d6f800eb0fd5dc3e259a928d061c5cae8b42369ace4d67d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8b373b60dc3b224731eeacf41f34ed94)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -339,7 +339,7 @@
 </summary>
 
 
-- [2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f9bb84eeb91885069a4c7e57a58b7cc)  ![](/assets/new.png) 
+- [2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f9bb84eeb91885069a4c7e57a58b7cc)  
 - [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=822c0f3fd53f1b05b135738d40620e01)  
 - [2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f82b6fecb642fa5b8e3b8bf3b4cf826)  
 - [2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=58bcd114470f0267ae4de2942db13c23)  
