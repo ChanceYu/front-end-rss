@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-10T18:33:40.998Z</updated>
+    <updated>2026-03-11T05:09:23.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3667期】React Fiber 原理解析：从递归渲染到可中断调度]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278693&amp;idx=1&amp;sn=d28febc993118336805e8e800732415f&amp;chksm=bc46f874bf464ddf092000d682657d2a75395fdec127c6d16151410592aa79003a12342ae2fd&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278693&amp;idx=1&amp;sn=d28febc993118336805e8e800732415f&amp;chksm=bc46f874bf464ddf092000d682657d2a75395fdec127c6d16151410592aa79003a12342ae2fd&amp;scene=0#rd"/>
+        <updated>2026-03-11T00:00:00.000Z</updated>
+        <published>2026-03-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3666期】为什么随意使用 JSON.parse() 可能带来安全风险]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278676&amp;idx=1&amp;sn=9c313c6248be12a503a3e9b68a5bbda8&amp;chksm=bcee8071e208ac697ed23d6e28d6f5e5ed07068cce5ef063b78cc343fa7a4da7460bcf44ee8e&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529191&amp;idx=1&amp;sn=b2b7f5131b31158d4059859712e1e160&amp;chksm=f9927436cee5fd20fb94763006522989279dcad51a1c2a8fe04ced8c48da9439c52f3c3537db#rd"/>
         <updated>2026-02-21T00:00:00.000Z</updated>
         <published>2026-02-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halving Node.js memory usage with pointer compression]]></title>
-        <id>https://nodeweekly.com/issues/612</id>
-        <link href="https://nodeweekly.com/issues/612"/>
-        <updated>2026-02-19T00:00:00.000Z</updated>
-        <published>2026-02-19T00:00:00.000Z</published>
     </entry>
 </feed>
