@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-12T14:40:33.033Z</updated>
+    <updated>2026-03-12T16:46:31.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[Agent 入门书《Hello-Agents》导读]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd"/>
+        <updated>2026-03-12T00:00:00.000Z</updated>
+        <published>2026-03-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can we all code Node like Matteo Collina?]]></title>
+        <id>https://nodeweekly.com/issues/615</id>
+        <link href="https://nodeweekly.com/issues/615"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[NestJS v12 将迎来重大更新：全量 ESM、Vitest 上位、Zod 直连，老项目还能平滑升级？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529207&amp;idx=1&amp;sn=3fb6632884ed593d64e8affb15f6c991&amp;chksm=f9927426cee5fd3024b2fc10cc67f3ebaf2c4f4dfb487cb3d4a6f3ea3adacf85d1add9ca3796#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529207&amp;idx=1&amp;sn=3fb6632884ed593d64e8affb15f6c991&amp;chksm=f9927426cee5fd3024b2fc10cc67f3ebaf2c4f4dfb487cb3d4a6f3ea3adacf85d1add9ca3796#rd"/>
-        <updated>2026-02-24T00:00:00.000Z</updated>
-        <published>2026-02-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪坦言：我确实不懂Vue]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508955&amp;idx=1&amp;sn=a713dd86a5239421c4611930e631fae7&amp;chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508955&amp;idx=1&amp;sn=a713dd86a5239421c4611930e631fae7&amp;chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd"/>
         <updated>2026-02-24T00:00:00.000Z</updated>
         <published>2026-02-24T00:00:00.000Z</published>
     </entry>

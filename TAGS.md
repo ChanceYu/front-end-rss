@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-12 22:41:22。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-13 00:46:44。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -170,6 +170,7 @@
 
 
 
+- [【Node-Weekly】Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fd3d273122c5dd50833d091b8072ee0)
 - [【Node-Weekly】Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f5c57319a5bfc69c25d56c851546cd3)
 - [【Node-Weekly】AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccf8b8c331b88f29e0df7da443c3d11d)
 - [【Node-Weekly】Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10534a1adb1cc6c825d744c1149f1bec)
@@ -179,7 +180,6 @@
 - [【Node-Weekly】requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bd7f7c81026ab3ca691f7cd8743edc91)
 - [【Node-Weekly】A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cc60a67f3bd7d952bacd2b063e489b7e)
 - [【Node-Weekly】The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d87fcd9be9033371119b39761260b334)
-- [【Node-Weekly】'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ee6e35aa8afab5d8c35b76c6ccebe313)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【Node-Weekly】Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fd3d273122c5dd50833d091b8072ee0)
 - [【Node-Weekly】Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f5c57319a5bfc69c25d56c851546cd3)
 - [【Node-Weekly】AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccf8b8c331b88f29e0df7da443c3d11d)
 - [【Node-Weekly】Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10534a1adb1cc6c825d744c1149f1bec)
@@ -593,7 +594,6 @@
 - [【Node-Weekly】requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bd7f7c81026ab3ca691f7cd8743edc91)
 - [【Node-Weekly】A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cc60a67f3bd7d952bacd2b063e489b7e)
 - [【Node-Weekly】The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d87fcd9be9033371119b39761260b334)
-- [【Node-Weekly】'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ee6e35aa8afab5d8c35b76c6ccebe313)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

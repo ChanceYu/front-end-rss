@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-12 22:41:22，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-13 00:46:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fd3d273122c5dd50833d091b8072ee0)  ![](/assets/new.png) 
 - [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f5c57319a5bfc69c25d56c851546cd3)  
 - [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccf8b8c331b88f29e0df7da443c3d11d)  
 - [2026-02-19-Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10534a1adb1cc6c825d744c1149f1bec)  
@@ -54,7 +55,6 @@
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bd7f7c81026ab3ca691f7cd8743edc91)  
 - [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cc60a67f3bd7d952bacd2b063e489b7e)  
 - [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d87fcd9be9033371119b39761260b334)  
-- [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ee6e35aa8afab5d8c35b76c6ccebe313)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -150,9 +150,9 @@
 </summary>
 
 
-- [2026-03-12-效率提升-300%！前端“新玩具”正式开源！短短时间-9.2k-stars！](http://mp.weixin.qq.com/s/NC9UYu9efIxkKy3R2I46iQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e87eb5348f243822490bf3cf131cab0)  ![](/assets/new.png) 
-- [2026-03-12-狂喜！安装龙虾（OpenClaw）国家补贴1000万Tokens！](http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ff6f1647e04ca402ee2945ca1bc01b1f)  ![](/assets/new.png) 
-- [2026-03-11-前端活了？2026求职数量Top20，前端排名第一！](http://mp.weixin.qq.com/s/dTdrAZlEGZryESWToB0uHg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=841905608337d9cb6b2d1dde057d525c)  ![](/assets/new.png) 
+- [2026-03-12-效率提升-300%！前端“新玩具”正式开源！短短时间-9.2k-stars！](http://mp.weixin.qq.com/s/NC9UYu9efIxkKy3R2I46iQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e87eb5348f243822490bf3cf131cab0)  
+- [2026-03-12-狂喜！安装龙虾（OpenClaw）国家补贴1000万Tokens！](http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ff6f1647e04ca402ee2945ca1bc01b1f)  
+- [2026-03-11-前端活了？2026求职数量Top20，前端排名第一！](http://mp.weixin.qq.com/s/dTdrAZlEGZryESWToB0uHg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=841905608337d9cb6b2d1dde057d525c)  
 - [2026-03-10-紧急！这些-JavaScript-API-已经废弃！请慎用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509210&idx=1&sn=5ef97f372f9f3754d9bf1ee625a73a24&chksm=ce45b14bf932385d372158ed2c8851b47ddae0cdd921c6d6e0dfa07cae526b75bb0ecb22713b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=295c742b4442149a4ba7221ffb881c73)  
 - [2026-03-09-uni-app-重生！速度提升-83%，更强、更快、更智能！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509153&idx=1&sn=a871c6d73d46f06a4d645b200e5c944e&chksm=ce45b130f93238262f06968a3e4d4c211259fabf24c0f4a7143d99a8e213983fd47cc1fd486d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7bf5c04c5d2c00528915be23c0b6ba62)  
 - [2026-03-07-炸裂！120+-个-Vue3-动画组件正式发布开源！解放双手！](http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcef919002d59ecbc5bde4831b736793)  

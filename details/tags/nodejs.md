@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-12 22:41:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-13 00:46:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fd3d273122c5dd50833d091b8072ee0) 
 - [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f5c57319a5bfc69c25d56c851546cd3) 
 - [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccf8b8c331b88f29e0df7da443c3d11d) 
 - [2026-02-19-Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10534a1adb1cc6c825d744c1149f1bec) 
