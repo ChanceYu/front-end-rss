@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-12T06:39:20.163Z</updated>
+    <updated>2026-03-12T08:30:05.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[猛裁1.6万人后，网站再崩6小时、一周4次重大事故！官方“紧急复盘”：跟裁员无关，也不是AI写代码的锅]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624119&amp;idx=1&amp;sn=c0f059d33dc24b12d70e159ef7c729fc&amp;chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624119&amp;idx=1&amp;sn=c0f059d33dc24b12d70e159ef7c729fc&amp;chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd"/>
+        <updated>2026-03-12T00:00:00.000Z</updated>
+        <published>2026-03-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3668期】从 Web Streams 到 Async Iterable：重新思考 JavaScript 流式 API]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪坦言：我确实不懂Vue]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508955&amp;idx=1&amp;sn=a713dd86a5239421c4611930e631fae7&amp;chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508955&amp;idx=1&amp;sn=a713dd86a5239421c4611930e631fae7&amp;chksm=ce45b64af9323f5c62218c52a5b8c2f2f1dc83098f5a035195a872acd22207fb299f49c45236#rd"/>
-        <updated>2026-02-24T00:00:00.000Z</updated>
-        <published>2026-02-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3656期】深入理解 React 的 useEffectEvent：彻底告别闭包陷阱]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278602&amp;idx=1&amp;sn=a51d047d864a2178ae921057e3c6073a&amp;chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278602&amp;idx=1&amp;sn=a51d047d864a2178ae921057e3c6073a&amp;chksm=bc9272de0be98fb2c805de1009c49533e36ab4372d0ac97fe4a9bf388071940a0ef54221799d&amp;scene=0#rd"/>
         <updated>2026-02-24T00:00:00.000Z</updated>
         <published>2026-02-24T00:00:00.000Z</published>
     </entry>
