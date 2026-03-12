@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-12 02:39:25。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-12 14:39:58。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -101,7 +101,7 @@
 - [【前端早读课】【图书】Vue.js-3+TypeScript完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=2&sn=d464389d42d609a51f8d65b7685b2c17&chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd)
 - [【前端早读课】【第3042期】重新发明-Vue：经验和教训](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265438&idx=1&sn=a5eac9d685901b1d664c30cef7d4878a&chksm=bd48c01a8a3f490ccba5734cc5acfb2dbb32c91a19dcb5bdf4db399ea71297adaf172f326691#rd)
 - [【前端早读课】【第3026期】React-还是-Vue？@𝖈𝖆𝖑𝖎对-Web-前端现状的看法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264685&idx=1&sn=abd482257802b379e17fd5175e11d9c6&chksm=bd48cf298a3f463f411f6f2f785b20c921c30d12b9bf90763ca01bf98ca36fe741f8a4cefd6e#rd)
-- [【前端早读课】【活动】VueConf-&amp;-ViteConf-2023。8月26日，苏州见。](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=2&sn=8722e592e3dbbe5d11e7412d1207ba47&chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd)
+- [【前端早读课】【第3008期】VueConf-US-2023：State-of-the-Vuenion](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=1&sn=0aca047a6425734aa61f5ab095a0300b&chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd)
 - [查看更多 >](/details/tags/vue.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
