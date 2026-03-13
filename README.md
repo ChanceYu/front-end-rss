@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-13 00:46:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-13 09:03:58，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fd3d273122c5dd50833d091b8072ee0)  ![](/assets/new.png) 
+- [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fd3d273122c5dd50833d091b8072ee0)  
 - [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f5c57319a5bfc69c25d56c851546cd3)  
 - [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccf8b8c331b88f29e0df7da443c3d11d)  
 - [2026-02-19-Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10534a1adb1cc6c825d744c1149f1bec)  
@@ -192,16 +192,16 @@
 </summary>
 
 
+- [2026-03-12-保姆级教程｜从零搭建-OpenClaw+飞书-AI-助手，代码配置直接拿](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529415&idx=1&sn=907725c26dd3a10e7d5599f5199da3c4&chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6ebafce392c5ae51c9737b0bf5993a)  ![](/assets/new.png) 
+- [2026-03-11-用对Claude-Code，收获你的“啊哈”时刻](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529412&idx=1&sn=83d32719746ac446247ce8573202041a&chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2730345fc88700ffbec437ca33c950b5)  ![](/assets/new.png) 
+- [2026-03-10-AI-加持的-Vue-3-开发神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529404&idx=1&sn=7898b00d5b6b493cd18b8ccf6593fef8&chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d56d6a3d6679d37c8491ff5444d544d0)  ![](/assets/new.png) 
 - [2026-03-09-WebMCP：让每个网站都能与智能代理互动的新标准](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529373&idx=1&sn=3eb95feba7d888c21c937c803875d60c&chksm=f992754ccee5fc5aca7ff29383da8487980bd94d0f1abff86aeb8f626e4f349431a5f9130876#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=baa60dad95d8dae630d43c2894b7feaa)  
-- [2026-03-06-突发！软考空前大利好！恭喜所有程序员！](http://mp.weixin.qq.com/s/gllBrXcCTks1gnzdbgb5CA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f555b9d611b9a63357c7ab875ef5725)  
 - [2026-03-06-仅一周！Cloudflare用AI重写了-Next.js，提速-4-倍，打包体积锐减-57%](http://mp.weixin.qq.com/s/Qv8y_x_o6ITIiYV4NnW5rQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=189749723a42f8c71797e9bb7e3a6a8b)  
+- [2026-03-06-突发！软考空前大利好！恭喜所有程序员！](http://mp.weixin.qq.com/s/gllBrXcCTks1gnzdbgb5CA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f555b9d611b9a63357c7ab875ef5725)  
 - [2026-03-05-25-万+-OpenClaw-实例暴露，你的电脑可能也在名单里！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529345&idx=1&sn=3aa8bdf0ce95b306e4be60927c6fd77b&chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=09f27966c3469cd2c99bed99b6893909)  
 - [2026-03-04-React-多年第一，被一只龙虾-100-天干翻了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529334&idx=1&sn=01107838d42e78d358c5618f6d537f3b&chksm=f99275a7cee5fcb1ff61c1fe2b00da91cb29986aa9c48e0a849b79b356e38c0cce5ff53c39d0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bba09257d08b2a44277c3ad609e14b66)  
 - [2026-03-03-Next.js-16-微前端新玩法：Multi-Zone-本地搭建全流程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529327&idx=1&sn=04f4fe12dc7c5234c8dbdfe35dcc4b72&chksm=f99275becee5fca8737b4cb839fdf5de22fb5cfc146e86d067f32cdc7b6bf8857180da84ea1d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4722723b8501a60760d4d3fc3aa107)  
 - [2026-03-02-TypeScript-6.0：迄今最值得关注的变化](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529296&idx=1&sn=0537fbc2930833c213ed81ae06a2e747&chksm=f9927581cee5fc97541fe05a1697bcddf2b60040c71c04c40a8c252c391d1b18a055c7eff1a7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e4cd57aeabad3cd373bc9f97a654cd2)  
-- [2026-02-28-前端工程师必备调试神器：SourceMap-原理解析与实战指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529270&idx=1&sn=89e333a5f18b18d4211f27286c867c22&chksm=f99275e7cee5fcf1972ef9ea27ad851bf464ef3dc164d81a74644b22a92e9720ccd9597b540e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ab4f93a2c5e08d0cc6a4213be55847e8)  
-- [2026-02-27-为什么90%的AI项目都死在了落地环节？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529262&idx=1&sn=7b6b86aabaea8ada58f734af27ff4fd3&chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=432b7b08ebba4d6be64206bbb145dddc)  
-- [2026-02-26-Visual-Agentic-Dev：让前端开发工程师告别繁琐的代码修改流程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529241&idx=1&sn=fc7f7e4f4e51dffce7c7a8c9305782e9&chksm=f99275c8cee5fcde1d521915fffc1585cf90f033e5c3dec96d3b728d345f4fb29be65c544696#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e81e72b323de528d0d390e006f2210eb)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

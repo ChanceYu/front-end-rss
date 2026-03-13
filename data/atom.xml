@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-12T16:46:31.044Z</updated>
+    <updated>2026-03-13T01:03:09.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[保姆级教程｜从零搭建 OpenClaw+飞书 AI 助手，代码配置直接拿]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529415&amp;idx=1&amp;sn=907725c26dd3a10e7d5599f5199da3c4&amp;chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529415&amp;idx=1&amp;sn=907725c26dd3a10e7d5599f5199da3c4&amp;chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd"/>
+        <updated>2026-03-12T00:00:00.000Z</updated>
+        <published>2026-03-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猛裁1.6万人后，网站再崩6小时、一周4次重大事故！官方“紧急复盘”：跟裁员无关，也不是AI写代码的锅]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624119&amp;idx=1&amp;sn=c0f059d33dc24b12d70e159ef7c729fc&amp;chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd</id>
@@ -50,11 +57,25 @@
         <published>2026-03-11T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[用对Claude Code，收获你的“啊哈”时刻]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529412&amp;idx=1&amp;sn=83d32719746ac446247ce8573202041a&amp;chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529412&amp;idx=1&amp;sn=83d32719746ac446247ce8573202041a&amp;chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd"/>
+        <updated>2026-03-11T00:00:00.000Z</updated>
+        <published>2026-03-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3667期】React Fiber 原理解析：从递归渲染到可中断调度]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278693&amp;idx=1&amp;sn=d28febc993118336805e8e800732415f&amp;chksm=bc46f874bf464ddf092000d682657d2a75395fdec127c6d16151410592aa79003a12342ae2fd&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278693&amp;idx=1&amp;sn=d28febc993118336805e8e800732415f&amp;chksm=bc46f874bf464ddf092000d682657d2a75395fdec127c6d16151410592aa79003a12342ae2fd&amp;scene=0#rd"/>
         <updated>2026-03-11T00:00:00.000Z</updated>
         <published>2026-03-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 加持的 Vue 3 开发神器]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529404&amp;idx=1&amp;sn=7898b00d5b6b493cd18b8ccf6593fef8&amp;chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529404&amp;idx=1&amp;sn=7898b00d5b6b493cd18b8ccf6593fef8&amp;chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd"/>
+        <updated>2026-03-10T00:00:00.000Z</updated>
+        <published>2026-03-10T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[紧急！这些 JavaScript API 已经废弃！请慎用！]]></title>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg"/>
         <updated>2026-02-25T00:00:00.000Z</updated>
         <published>2026-02-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3657期】Visual Agentic Dev：让前端开发工程师告别繁琐的代码修改流程]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278606&amp;idx=1&amp;sn=f1ef8cbb6ce6ecd37d06843f7799ae4b&amp;chksm=bc95f3cd4ca1b7276db8fb4d258f47cd2574e070b9f2c6ff4df21ce5e8d208a13acb0dc0c3c1&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278606&amp;idx=1&amp;sn=f1ef8cbb6ce6ecd37d06843f7799ae4b&amp;chksm=bc95f3cd4ca1b7276db8fb4d258f47cd2574e070b9f2c6ff4df21ce5e8d208a13acb0dc0c3c1&amp;scene=0#rd"/>
-        <updated>2026-02-25T00:00:00.000Z</updated>
-        <published>2026-02-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[干掉 Vite ？尤雨溪开始 "强推" Vize ？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517525&amp;idx=1&amp;sn=1934d97f1466647f94c9994a938d5188&amp;chksm=eb07bd2cdc70343a71fac55a2df07044f3b43b9258de4208e78e165141602bff0fa9e305052e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517525&amp;idx=1&amp;sn=1934d97f1466647f94c9994a938d5188&amp;chksm=eb07bd2cdc70343a71fac55a2df07044f3b43b9258de4208e78e165141602bff0fa9e305052e#rd"/>
-        <updated>2026-02-24T00:00:00.000Z</updated>
-        <published>2026-02-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NestJS v12 将迎来重大更新：全量 ESM、Vitest 上位、Zod 直连，老项目还能平滑升级？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529207&amp;idx=1&amp;sn=3fb6632884ed593d64e8affb15f6c991&amp;chksm=f9927426cee5fd3024b2fc10cc67f3ebaf2c4f4dfb487cb3d4a6f3ea3adacf85d1add9ca3796#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529207&amp;idx=1&amp;sn=3fb6632884ed593d64e8affb15f6c991&amp;chksm=f9927426cee5fd3024b2fc10cc67f3ebaf2c4f4dfb487cb3d4a6f3ea3adacf85d1add9ca3796#rd"/>
-        <updated>2026-02-24T00:00:00.000Z</updated>
-        <published>2026-02-24T00:00:00.000Z</published>
     </entry>
 </feed>

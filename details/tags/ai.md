@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-13 00:46:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-13 09:03:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -383,6 +383,9 @@
 - [2022-02-15-JavaScript-深度学习---Hello-World](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061206&idx=2&sn=7a34272359224d9951e3d7a877e09d2a&chksm=87c420c6b0b3a9d0ad8033184e943ca65240f7dd36a8053c91a271e94f894058fa2c210a4bb0#rd) 
 - [2022-01-19-Chrome-DevTools:-修改User-Agent，定制个性化UA](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=1&sn=14f8cc7eb94db6cb06351782681c4875&chksm=87c421afb0b3a8b9a843999348abbef6bc0271530370b7c4c5f3c1a7ca2eea253fdf72e55c10#rd) 
 - [2022-01-01-JavaScript-深度学习---Hello-World](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060772&idx=2&sn=46c6a5435fb75d462afe74bfbffd58a8&chksm=87c42134b0b3a8222c471c7f808ca08b545e6f1c9133b905d8a33249a35c23dcdcb92c1c277e#rd) 
+- [2026-03-12-保姆级教程｜从零搭建-OpenClaw+飞书-AI-助手，代码配置直接拿](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529415&idx=1&sn=907725c26dd3a10e7d5599f5199da3c4&chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6ebafce392c5ae51c9737b0bf5993a) 
+- [2026-03-11-用对Claude-Code，收获你的“啊哈”时刻](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529412&idx=1&sn=83d32719746ac446247ce8573202041a&chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2730345fc88700ffbec437ca33c950b5) 
+- [2026-03-10-AI-加持的-Vue-3-开发神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529404&idx=1&sn=7898b00d5b6b493cd18b8ccf6593fef8&chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d56d6a3d6679d37c8491ff5444d544d0) 
 - [2026-03-06-仅一周！Cloudflare用AI重写了-Next.js，提速-4-倍，打包体积锐减-57%](http://mp.weixin.qq.com/s/Qv8y_x_o6ITIiYV4NnW5rQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=189749723a42f8c71797e9bb7e3a6a8b) 
 - [2026-02-27-为什么90%的AI项目都死在了落地环节？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529262&idx=1&sn=7b6b86aabaea8ada58f734af27ff4fd3&chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=432b7b08ebba4d6be64206bbb145dddc) 
 - [2026-02-26-Visual-Agentic-Dev：让前端开发工程师告别繁琐的代码修改流程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529241&idx=1&sn=fc7f7e4f4e51dffce7c7a8c9305782e9&chksm=f99275c8cee5fcde1d521915fffc1585cf90f033e5c3dec96d3b728d345f4fb29be65c544696#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e81e72b323de528d0d390e006f2210eb) 
