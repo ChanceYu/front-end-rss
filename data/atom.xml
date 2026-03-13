@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-13T01:03:09.334Z</updated>
+    <updated>2026-03-13T04:01:44.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 388 期）：测试是新的护城河]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html"/>
+        <updated>2026-03-13T00:00:00.000Z</updated>
+        <published>2026-03-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保姆级教程｜从零搭建 OpenClaw+飞书 AI 助手，代码配置直接拿]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529415&amp;idx=1&amp;sn=907725c26dd3a10e7d5599f5199da3c4&amp;chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[AI真人数字人语音对话性能优化实践总结]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542923&amp;idx=1&amp;sn=1403311c090693a4dc684ca861e515b6&amp;chksm=8390db53b4e75245e036e1e89b5f5fe80ee19d832b8c76c9946b9456f4091dfc134da88bdc54#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542923&amp;idx=1&amp;sn=1403311c090693a4dc684ca861e515b6&amp;chksm=8390db53b4e75245e036e1e89b5f5fe80ee19d832b8c76c9946b9456f4091dfc134da88bdc54#rd"/>
-        <updated>2026-02-25T00:00:00.000Z</updated>
-        <published>2026-02-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[身为全栈工程师，这一神器让我开发效率翻倍！]]></title>
-        <id>http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg</id>
-        <link href="http://mp.weixin.qq.com/s/rst3SyA4j_yG3dZEutjTcg"/>
         <updated>2026-02-25T00:00:00.000Z</updated>
         <published>2026-02-25T00:00:00.000Z</published>
     </entry>

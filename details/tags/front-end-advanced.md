@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-13 09:03:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-13 12:02:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -3358,6 +3358,7 @@
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-30-妙法攻略：渐变虚框及边框滚动动画的纯CSS实现](https://www.zhangxinxu.com/wordpress/2018/08/css-gradient-dashed-border/) 
 - [2018-08-11-这回试试使用CSS实现抛物线运动效果](https://www.zhangxinxu.com/wordpress/2018/08/css-css3-%e6%8a%9b%e7%89%a9%e7%ba%bf%e5%8a%a8%e7%94%bb/) 
+- [2026-03-13-科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6c79a88a7991391d1f88497e0d26613b) 
 - [2026-01-22-AI-native-Workspace-也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=98cb285d3f906d24de258484860e76af) 
 - [2024-11-15-科技爱好者周刊（第-325-期）：VS-Code-编辑器的下一站是-Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html) 
 - [2024-03-26-2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html) 

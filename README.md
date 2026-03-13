@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-13 09:03:58，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-13 12:02:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,7 +25,7 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -33,7 +33,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 
@@ -192,9 +192,9 @@
 </summary>
 
 
-- [2026-03-12-保姆级教程｜从零搭建-OpenClaw+飞书-AI-助手，代码配置直接拿](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529415&idx=1&sn=907725c26dd3a10e7d5599f5199da3c4&chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6ebafce392c5ae51c9737b0bf5993a)  ![](/assets/new.png) 
-- [2026-03-11-用对Claude-Code，收获你的“啊哈”时刻](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529412&idx=1&sn=83d32719746ac446247ce8573202041a&chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2730345fc88700ffbec437ca33c950b5)  ![](/assets/new.png) 
-- [2026-03-10-AI-加持的-Vue-3-开发神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529404&idx=1&sn=7898b00d5b6b493cd18b8ccf6593fef8&chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d56d6a3d6679d37c8491ff5444d544d0)  ![](/assets/new.png) 
+- [2026-03-12-保姆级教程｜从零搭建-OpenClaw+飞书-AI-助手，代码配置直接拿](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529415&idx=1&sn=907725c26dd3a10e7d5599f5199da3c4&chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6ebafce392c5ae51c9737b0bf5993a)  
+- [2026-03-11-用对Claude-Code，收获你的“啊哈”时刻](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529412&idx=1&sn=83d32719746ac446247ce8573202041a&chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2730345fc88700ffbec437ca33c950b5)  
+- [2026-03-10-AI-加持的-Vue-3-开发神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529404&idx=1&sn=7898b00d5b6b493cd18b8ccf6593fef8&chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d56d6a3d6679d37c8491ff5444d544d0)  
 - [2026-03-09-WebMCP：让每个网站都能与智能代理互动的新标准](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529373&idx=1&sn=3eb95feba7d888c21c937c803875d60c&chksm=f992754ccee5fc5aca7ff29383da8487980bd94d0f1abff86aeb8f626e4f349431a5f9130876#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=baa60dad95d8dae630d43c2894b7feaa)  
 - [2026-03-06-仅一周！Cloudflare用AI重写了-Next.js，提速-4-倍，打包体积锐减-57%](http://mp.weixin.qq.com/s/Qv8y_x_o6ITIiYV4NnW5rQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=189749723a42f8c71797e9bb7e3a6a8b)  
 - [2026-03-06-突发！软考空前大利好！恭喜所有程序员！](http://mp.weixin.qq.com/s/gllBrXcCTks1gnzdbgb5CA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f555b9d611b9a63357c7ab875ef5725)  
@@ -360,6 +360,7 @@
 </summary>
 
 
+- [2026-03-13-科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6c79a88a7991391d1f88497e0d26613b)  ![](/assets/new.png) 
 - [2026-03-12-零安装的"云养虾"：ArkClaw-使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f4d9da2958a384bf8c9921dcbc65d28)  
 - [2026-03-06-科技爱好者周刊（第-387-期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555aecb7a1061f01f63db9951be1a979)  
 - [2026-02-27-科技爱好者周刊（第-386-期）：当外卖员接入-AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=241ea1cb865af38b998fc2766990e63a)  
@@ -369,7 +370,6 @@
 - [2026-02-06-科技爱好者周刊（第-384-期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4519bd5bf772c8a13bafc8e8dfd6b4b9)  
 - [2026-01-30-科技爱好者周刊（第-383-期）：你是第几级-AI-编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c700af1c68846146f888a876755963a)  
 - [2026-01-29-Kimi-的一体化，Manus-的分层](http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=15958741525b04f1d3ad668efba95edf)  
-- [2026-01-23-科技爱好者周刊（第-382-期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a95363d190e0e2ab6364d10a88973ff7)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
