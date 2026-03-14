@@ -94,11 +94,17 @@ function addBlockImgClass (html) {
   return div.innerHTML
 }
 
-// 支持 code-snippet__js 等形式，取 __ 后的部分作为 highlight.js 的 language
+// 支持 code-snippet__js、js_darkmode__1 等：先试 __ 后一段，再试首段（_ 前）
 function normalizeCodeLang (lang) {
   if (!lang) return null
-  const normalized = lang.includes('__') ? lang.split('__').pop() : lang
-  return hljs.getLanguage(normalized) ? normalized : null
+  const candidates = []
+  if (lang.includes('__')) candidates.push(lang.split('__').pop())
+  if (lang.includes('_')) candidates.push(lang.split('_')[0])
+  candidates.push(lang)
+  for (const c of candidates) {
+    if (c && hljs.getLanguage(c)) return c
+  }
+  return null
 }
 
 marked.use(markedHighlight({
