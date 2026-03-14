@@ -451,6 +451,24 @@ export async function processArticle(article, options = {}) {
       if (lang) $code.attr('class', `language-${lang}`)
     })
 
+    // Normalise invalid list nesting: ul/ol as direct child of ul/ol (sibling of li)
+    // e.g. <ul><li>A</li><li>B</li><ul><li>B-1</li></ul></ul> → move inner ul into previous li (B)
+    // Process deepest first so inner lists are re-parented before outer.
+    const orphanLists = $('ul > ul, ul > ol, ol > ul, ol > ol').toArray()
+      .sort((a, b) => $(b).parents('ul,ol').length - $(a).parents('ul,ol').length)
+    orphanLists.forEach((el) => {
+      const $el = $(el)
+      const prev = $el.prev()[0]
+      if (!prev || prev.type !== 'tag') return
+      const prevTag = prev.name.toUpperCase()
+      if (prevTag === 'LI') {
+        $(prev).append($el)
+      } else if (prevTag === 'UL' || prevTag === 'OL') {
+        const lastLi = $(prev).children('li').last()[0]
+        if (lastLi) $(lastLi).append($el)
+      }
+    })
+
     const cleanedHtml = $('body').html() ?? contentHtml
 
     // HTML → Markdown
@@ -465,24 +483,37 @@ export async function processArticle(article, options = {}) {
     // Override list item rule:
     // - single space after the bullet marker (Turndown default is 3)
     // - strip trailing whitespace from each item
-    // - use 2-space indent for continuation lines
+    // - use 2-space indent per nesting level for continuation lines (ul/ol nested in ul/ol)
+    // - do not strip leading bullet/ordinal when content is multi-line (nested list)
     td.addRule('listItem', {
       filter: 'li',
       replacement(content, node, options) {
         const parent = node.parentNode
         const isOrdered = parent.nodeName === 'OL'
 
+        // Count list nesting depth (ul/ol ancestors) for correct indent of nested lists
+        let depth = 0
+        let p = node.parentNode
+        while (p && p.nodeType === 1) {
+          if (p.nodeName === 'UL' || p.nodeName === 'OL') depth++
+          p = p.parentNode
+        }
+        const indent = '  '.repeat(depth)
+
         content = content
           .replace(/^\n+/, '')
           .replace(/\n+$/, '')
-          .replace(/\n/gm, '\n  ')
+          .replace(/\n/gm, `\n${indent}`)
 
-        if (isOrdered) {
-          // Strip leading ordinal injected by site: "1." / "1、" / "1) " / "①" etc.
-          content = content.replace(/^\d+\\?[.、\)]\s*/, '').replace(/^[①②③④⑤⑥⑦⑧⑨⑩]\s*/, '')
-        } else {
-          // Strip leading bullet characters injected by some sites
-          content = content.replace(/^\\?[•·\-–—]\s*/, '')
+        // Only strip leading bullet/ordinal on single-line content (site-injected noise).
+        // Multi-line content may start with a nested list marker; leave it intact.
+        const isSingleLine = !content.includes('\n')
+        if (isSingleLine) {
+          if (isOrdered) {
+            content = content.replace(/^\d+\\?[.、\)]\s*/, '').replace(/^[①②③④⑤⑥⑦⑧⑨⑩]\s*/, '')
+          } else {
+            content = content.replace(/^\\?[•·\-–—]\s*/, '')
+          }
         }
 
         const prefix = isOrdered

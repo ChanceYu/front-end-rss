@@ -67,11 +67,18 @@ import 'highlight.js/styles/github.css'
 
 const ARTICLE_DATA_HOST = process.env.ARTICLE_DATA_HOST || ''
 
+// 支持 code-snippet__js 等形式，取 __ 后的部分作为 highlight.js 的 language
+function normalizeCodeLang (lang) {
+  if (!lang) return null
+  const normalized = lang.includes('__') ? lang.split('__').pop() : lang
+  return hljs.getLanguage(normalized) ? normalized : null
+}
+
 marked.use(markedHighlight({
   emptyLangClass: 'hljs',
   langPrefix: 'hljs language-',
   highlight (code, lang) {
-    const language = lang && hljs.getLanguage(lang) ? lang : null
+    const language = normalizeCodeLang(lang)
     return language
       ? hljs.highlight(code, { language, ignoreIllegals: true }).value
       : hljs.highlightAuto(code).value
@@ -137,7 +144,10 @@ export default {
     },
     visible (val) {
       if (val) {
-        this.$nextTick(() => this._bindBodyScroll())
+        this.$nextTick(() => {
+          if (this.$refs.body) this.$refs.body.scrollTop = 0
+          this._bindBodyScroll()
+        })
       } else {
         this._unbindBodyScroll()
         this.showTitle = false
