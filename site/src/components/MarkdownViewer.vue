@@ -67,6 +67,33 @@ import 'highlight.js/styles/github.css'
 
 const ARTICLE_DATA_HOST = process.env.ARTICLE_DATA_HOST || ''
 
+/** 给符合条件的 img 增加 class block-img：p 内仅一 img 且 p 无文本；或 p 内仅一 a、a 内仅一 img 且 p/a 无文本 */
+function addBlockImgClass (html) {
+  if (typeof document === 'undefined') return html
+  const div = document.createElement('div')
+  div.innerHTML = html
+  div.querySelectorAll('p').forEach(p => {
+    const nodes = Array.from(p.childNodes)
+    const hasText = nodes.some(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim() !== '')
+    if (hasText) return
+    const elements = nodes.filter(n => n.nodeType === Node.ELEMENT_NODE)
+    if (elements.length === 1 && elements[0].tagName === 'IMG') {
+      elements[0].classList.add('block-img')
+      return
+    }
+    if (elements.length === 1 && elements[0].tagName === 'A') {
+      const a = elements[0]
+      const aHasText = Array.from(a.childNodes).some(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim() !== '')
+      if (aHasText) return
+      const aElements = Array.from(a.childNodes).filter(n => n.nodeType === Node.ELEMENT_NODE)
+      if (aElements.length === 1 && aElements[0].tagName === 'IMG') {
+        aElements[0].classList.add('block-img')
+      }
+    }
+  })
+  return div.innerHTML
+}
+
 // 支持 code-snippet__js 等形式，取 __ 后的部分作为 highlight.js 的 language
 function normalizeCodeLang (lang) {
   if (!lang) return null
@@ -256,6 +283,7 @@ export default {
         let html = marked.parse(stripped, { renderer })
         // 原始 HTML 中的 <img src="./images/xxx"> 仍需替换
         html = html.replace(/(src=["'])\.\/images\//g, `$1${base}/images/`)
+        html = addBlockImgClass(html)
         this.renderedHtml = html
       } catch (e) {
         this.error = true
@@ -634,9 +662,8 @@ export default {
   vertical-align: middle;
   border-radius: 2px;
 }
-/* 独占一行的块级图片（p 内唯一子元素） */
-.md-viewer__content.markdown-body p > img:only-child,
-.md-viewer__content.markdown-body p > a:only-child > img:only-child {
+/* 独占一行的块级图片（由 addBlockImgClass 在无文本时添加 .block-img） */
+.md-viewer__content.markdown-body img.block-img {
   display: block;
   height: auto;
   width: auto;
@@ -644,9 +671,8 @@ export default {
   margin: 1.25em auto;
   border-radius: 8px;
 }
-.md-viewer__content.markdown-body p > img:only-child:hover,
-.md-viewer__content.markdown-body p > a:only-child > img:only-child:hover {
-  box-shadow: 0 2px 12px rgba(0,0,0,.08);
+.md-viewer__content.markdown-body img.block-img:hover {
+  /* box-shadow: 0 2px 12px rgba(0,0,0,.08); */
 }
 
 /* 分割线 */
