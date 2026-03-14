@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-13T06:37:29.123Z</updated>
+    <updated>2026-03-14T20:15:29.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[保姆级教程｜从零搭建 OpenClaw+飞书 AI 助手，代码配置直接拿]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529415&amp;idx=1&amp;sn=907725c26dd3a10e7d5599f5199da3c4&amp;chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529415&amp;idx=1&amp;sn=907725c26dd3a10e7d5599f5199da3c4&amp;chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd"/>
+        <updated>2026-03-12T00:00:00.000Z</updated>
+        <published>2026-03-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狂喜！安装龙虾（OpenClaw）国家补贴1000万Tokens！]]></title>
+        <id>http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ</id>
+        <link href="http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
@@ -174,6 +181,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278666&amp;idx=1&amp;sn=6fadb54fb3fca3e1324cb35b3bca3700&amp;chksm=bc3f8be7a739f93a81f57403fae47a620732a523bcfbfb2ec355bc6fa52f9360d3ef7cdd8547&amp;scene=0#rd"/>
         <updated>2026-03-06T00:00:00.000Z</updated>
         <published>2026-03-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 万+ OpenClaw 实例暴露，你的电脑可能也在名单里！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529345&amp;idx=1&amp;sn=3aa8bdf0ce95b306e4be60927c6fd77b&amp;chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529345&amp;idx=1&amp;sn=3aa8bdf0ce95b306e4be60927c6fd77b&amp;chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd"/>
+        <updated>2026-03-05T00:00:00.000Z</updated>
+        <published>2026-03-05T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[愤怒！尤雨溪吐槽：Github！还我钱来！]]></title>
@@ -337,13 +351,6 @@
         <published>2026-02-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visual Agentic Dev：让前端开发工程师告别繁琐的代码修改流程]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529241&amp;idx=1&amp;sn=fc7f7e4f4e51dffce7c7a8c9305782e9&amp;chksm=f99275c8cee5fcde1d521915fffc1585cf90f033e5c3dec96d3b728d345f4fb29be65c544696#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529241&amp;idx=1&amp;sn=fc7f7e4f4e51dffce7c7a8c9305782e9&amp;chksm=f99275c8cee5fcde1d521915fffc1585cf90f033e5c3dec96d3b728d345f4fb29be65c544696#rd"/>
-        <updated>2026-02-26T00:00:00.000Z</updated>
-        <published>2026-02-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【第3658期】从终端到工作空间：MCP Apps 如何把 UI 带回 Agent 中心]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278618&amp;idx=1&amp;sn=fcdaf49c28f016098071d4e9eeb04b54&amp;chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278618&amp;idx=1&amp;sn=fcdaf49c28f016098071d4e9eeb04b54&amp;chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&amp;scene=0#rd"/>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/613"/>
         <updated>2026-02-26T00:00:00.000Z</updated>
         <published>2026-02-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[点击图片放大查看交互效果的最佳实现]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/"/>
-        <updated>2026-02-25T00:00:00.000Z</updated>
-        <published>2026-02-25T00:00:00.000Z</published>
     </entry>
 </feed>
