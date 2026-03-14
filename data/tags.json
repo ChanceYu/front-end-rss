@@ -2,7 +2,7 @@
   {
     "tag": "AI",
     "filename": "ai",
-    "keywords": "\\b(AI|LLM|GPT|GLM|大模型|人工智能|机器学习|深度学习|神经网络|ChatGPT|Cursor|Claude|Copilot|Agent|Gemini|Llama|RAG|Prompt|提示词|向量数据库|Embedding|LangChain|LlamaIndex|AIGC|多模态|微调|自然语言处理|NLP|大语言模型|智能体)\\b",
+    "keywords": "\\b(AI|LLM|GPT|GLM|大模型|人工智能|机器学习|深度学习|神经网络|ChatGPT|Cursor|Codex|Claude|Copilot|Agent|Gemini|Llama|RAG|Prompt|提示词|向量数据库|Embedding|LangChain|LlamaIndex|AIGC|多模态|微调|自然语言处理|NLP|大语言模型|智能体|MCP|OpenClaw)\\b",
     "skill": true
   },
   {
