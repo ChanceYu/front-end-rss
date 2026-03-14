@@ -58,6 +58,10 @@ function handleTags(newData, linksJson, processedMap) {
       })
     })
 
+    tags[i].items = tags[i].items.sort((a, b) => {
+      return a.date < b.date ? 1 : -1
+    })
+
     // details/tags/file.md
     let detailTpl = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString()
     let detailCompiled = _.template(detailTpl)
