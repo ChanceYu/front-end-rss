@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-14T20:15:29.862Z</updated>
+    <updated>2026-03-15T11:03:19.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,34 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
+        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
+        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
+        <updated>2026-03-15T00:00:00.000Z</updated>
+        <published>2026-03-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
+        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
+        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
+        <updated>2026-03-15T00:00:00.000Z</updated>
+        <published>2026-03-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite 8 正式发布！架构彻底推翻，构建从 46 秒干到 6 秒，前端工具链变天了]]></title>
+        <id>http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg</id>
+        <link href="http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg"/>
+        <updated>2026-03-14T00:00:00.000Z</updated>
+        <published>2026-03-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude 上线组团审代码：一条 PR 最高 25 美元，你的代码库还得"上交"给它]]></title>
+        <id>http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw</id>
+        <link href="http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw"/>
+        <updated>2026-03-13T00:00:00.000Z</updated>
+        <published>2026-03-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 388 期）：测试是新的护城河]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html</id>
@@ -27,6 +55,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278743&amp;idx=1&amp;sn=83c555b7d842e1fcb121def22abf5c47&amp;chksm=bc518e556cfbab180889ddb70338879f44ae87dc6cf665a2f1a5edb4af3483e1aa0c7d6aebeb&amp;scene=0#rd"/>
         <updated>2026-03-13T00:00:00.000Z</updated>
         <published>2026-03-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个 PUA Skill 火了：用阿里/字节的绩效话术逼 Claude 不敢放弃，一言不合打 3.25]]></title>
+        <id>http://mp.weixin.qq.com/s/uHnHWI7a9I_A45sLkRAVBA</id>
+        <link href="http://mp.weixin.qq.com/s/uHnHWI7a9I_A45sLkRAVBA"/>
+        <updated>2026-03-12T00:00:00.000Z</updated>
+        <published>2026-03-12T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[保姆级教程｜从零搭建 OpenClaw+飞书 AI 助手，代码配置直接拿]]></title>
@@ -328,40 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/UkgAvcj6B9-eUQc880rf4g"/>
         <updated>2026-02-27T00:00:00.000Z</updated>
         <published>2026-02-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么90%的AI项目都死在了落地环节？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529262&amp;idx=1&amp;sn=7b6b86aabaea8ada58f734af27ff4fd3&amp;chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529262&amp;idx=1&amp;sn=7b6b86aabaea8ada58f734af27ff4fd3&amp;chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd"/>
-        <updated>2026-02-27T00:00:00.000Z</updated>
-        <published>2026-02-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仅用一个技巧，让 JavaScript 性能提速 500%！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508992&amp;idx=1&amp;sn=733842b0b0ece011008a3eea33d8fddb&amp;chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247508992&amp;idx=1&amp;sn=733842b0b0ece011008a3eea33d8fddb&amp;chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd"/>
-        <updated>2026-02-27T00:00:00.000Z</updated>
-        <published>2026-02-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】一周重写 Next.js：AI 如何造出更快更小的 vinext？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278624&amp;idx=1&amp;sn=80be0485ee26431b040c99831ee892e0&amp;chksm=bcf95c28d991f67474cce195039d75a5241bd6533bab509e5656b4773967b30e5986571d1f5c&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278624&amp;idx=1&amp;sn=80be0485ee26431b040c99831ee892e0&amp;chksm=bcf95c28d991f67474cce195039d75a5241bd6533bab509e5656b4773967b30e5986571d1f5c&amp;scene=0#rd"/>
-        <updated>2026-02-27T00:00:00.000Z</updated>
-        <published>2026-02-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3658期】从终端到工作空间：MCP Apps 如何把 UI 带回 Agent 中心]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278618&amp;idx=1&amp;sn=fcdaf49c28f016098071d4e9eeb04b54&amp;chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278618&amp;idx=1&amp;sn=fcdaf49c28f016098071d4e9eeb04b54&amp;chksm=bce178921244d69b1bfb616330b9c7dd50c5c4b612d5534102216675de6e5a620cd8986b5597&amp;scene=0#rd"/>
-        <updated>2026-02-26T00:00:00.000Z</updated>
-        <published>2026-02-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AdonisJS v7 brings batteries-included framework upgrades]]></title>
-        <id>https://nodeweekly.com/issues/613</id>
-        <link href="https://nodeweekly.com/issues/613"/>
-        <updated>2026-02-26T00:00:00.000Z</updated>
-        <published>2026-02-26T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-15 04:15:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-15 19:04:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -7,6 +7,8 @@
 
 
 
+- [2026-03-13-Claude-上线组团审代码：一条-PR-最高-25-美元，你的代码库还得"上交"给它](http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e6495254090123c61d08f233ee8e3548) 
+- [2026-03-12-这个-PUA-Skill-火了：用阿里/字节的绩效话术逼-Claude-不敢放弃，一言不合打-3.25](http://mp.weixin.qq.com/s/uHnHWI7a9I_A45sLkRAVBA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b0af42b1bc0b7dc51914e9f1a45a967) 
 - [2026-03-12-保姆级教程｜从零搭建-OpenClaw+飞书-AI-助手，代码配置直接拿](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529415&idx=1&sn=907725c26dd3a10e7d5599f5199da3c4&chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6ebafce392c5ae51c9737b0bf5993a) 
 - [2026-03-12-狂喜！安装龙虾（OpenClaw）国家补贴1000万Tokens！](http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ff6f1647e04ca402ee2945ca1bc01b1f) 
 - [2026-03-12-猛裁1.6万人后，网站再崩6小时、一周4次重大事故！官方“紧急复盘”：跟裁员无关，也不是AI写代码的锅](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624119&idx=1&sn=c0f059d33dc24b12d70e159ef7c729fc&chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e4006cf1533597d817285bb028a6643f) 

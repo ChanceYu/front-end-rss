@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-15 04:15:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-15 19:04:29，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,11 +31,12 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -318,7 +319,7 @@
 </summary>
 
 
-- [2026-03-13-用自然语言替代复杂代码](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542997&idx=1&sn=d444e39531c09899991f1d638ac53475&chksm=8390db8db4e7529b80590f9d507760232b57c975c89e13c60e5c0665d4ce2c72f1828e8e8ed1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fc97c45fba5ae7c9644c49c88c40ec70)  ![](/assets/new.png) 
+- [2026-03-13-用自然语言替代复杂代码](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542997&idx=1&sn=d444e39531c09899991f1d638ac53475&chksm=8390db8db4e7529b80590f9d507760232b57c975c89e13c60e5c0665d4ce2c72f1828e8e8ed1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fc97c45fba5ae7c9644c49c88c40ec70)  
 - [2026-03-06-AI工作流在淘宝交易舆情巡检上的探索与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542990&idx=1&sn=c87517f8af9020407cf36f636538fbe3&chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=26754fc2bc8a8a8c3bf28c4b7ab0cca8)  
 - [2026-03-04-ICLR-2026-|-基于概念蒸馏的生成式视频复原算法Vivid-VR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542989&idx=1&sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=11962c709d9d70b3ac12e38d170609bf)  
 - [2026-03-02-AI-Coding思考：从工具提效到范式变革，我们还缺什么？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542970&idx=1&sn=231a9b78e5c7e1054aa26e86556e8ed8&chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1984eb4ab55b67aa2e7f0162e778261d)  
@@ -413,6 +414,22 @@
 - [2025-03-29-2025-裸辞计划](https://fenghen.me/posts/2025/03/29/_2025-plan/) 
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
 - [查看更多 >](/details/风痕·術&思.md)
+
+<div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="nodejs技术栈">
+ Nodejs技术栈
+</summary>
+
+
+- [2026-03-15-重磅！尤雨溪宣布-Vite+-开源，所有人免费用，这次前端工具链真要大一统了](http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c15d6501c0e89f7ba3a9aaca59d467fa)  ![](/assets/new.png) 
+- [2026-03-15-Skills-Hub-可视化管理桌面工具发布-v0.3：一大波功能更新！](http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72db04d099f0df12c69698eb420078d4)  ![](/assets/new.png) 
+- [2026-03-14-Vite-8-正式发布！架构彻底推翻，构建从-46-秒干到-6-秒，前端工具链变天了](http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9ef8129deaadb6642fe95cce1a28058b)  ![](/assets/new.png) 
+- [2026-03-13-Claude-上线组团审代码：一条-PR-最高-25-美元，你的代码库还得"上交"给它](http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e6495254090123c61d08f233ee8e3548)  ![](/assets/new.png) 
+- [2026-03-12-这个-PUA-Skill-火了：用阿里/字节的绩效话术逼-Claude-不敢放弃，一言不合打-3.25](http://mp.weixin.qq.com/s/uHnHWI7a9I_A45sLkRAVBA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b0af42b1bc0b7dc51914e9f1a45a967)  ![](/assets/new.png) 
+- [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
 </details>

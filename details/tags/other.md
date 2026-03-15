@@ -1,13 +1,18 @@
-:alarm_clock: 更新时间: 2026-03-15 04:15:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-15 19:04:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-03-15-Skills-Hub-可视化管理桌面工具发布-v0.3：一大波功能更新！](http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72db04d099f0df12c69698eb420078d4) 
+- [2026-03-15-重磅！尤雨溪宣布-Vite+-开源，所有人免费用，这次前端工具链真要大一统了](http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c15d6501c0e89f7ba3a9aaca59d467fa) 
+- [2026-03-14-Vite-8-正式发布！架构彻底推翻，构建从-46-秒干到-6-秒，前端工具链变天了](http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9ef8129deaadb6642fe95cce1a28058b) 
+- [2026-03-13-Claude-上线组团审代码：一条-PR-最高-25-美元，你的代码库还得"上交"给它](http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e6495254090123c61d08f233ee8e3548) 
 - [2026-03-13-科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6c79a88a7991391d1f88497e0d26613b) 
 - [2026-03-13-用自然语言替代复杂代码](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542997&idx=1&sn=d444e39531c09899991f1d638ac53475&chksm=8390db8db4e7529b80590f9d507760232b57c975c89e13c60e5c0665d4ce2c72f1828e8e8ed1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fc97c45fba5ae7c9644c49c88c40ec70) 
 - [2026-03-13-【第3669期】以界面重构文字，GenUI-正式发布！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278743&idx=1&sn=83c555b7d842e1fcb121def22abf5c47&chksm=bc518e556cfbab180889ddb70338879f44ae87dc6cf665a2f1a5edb4af3483e1aa0c7d6aebeb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=281d64ee5f8d9b03c29a54a3a1f0290b) 
+- [2026-03-12-这个-PUA-Skill-火了：用阿里/字节的绩效话术逼-Claude-不敢放弃，一言不合打-3.25](http://mp.weixin.qq.com/s/uHnHWI7a9I_A45sLkRAVBA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b0af42b1bc0b7dc51914e9f1a45a967) 
 - [2026-03-12-零安装的"云养虾"：ArkClaw-使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f4d9da2958a384bf8c9921dcbc65d28) 
 - [2026-03-12-保姆级教程｜从零搭建-OpenClaw+飞书-AI-助手，代码配置直接拿](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529415&idx=1&sn=907725c26dd3a10e7d5599f5199da3c4&chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6ebafce392c5ae51c9737b0bf5993a) 
 - [2026-03-12-狂喜！安装龙虾（OpenClaw）国家补贴1000万Tokens！](http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ff6f1647e04ca402ee2945ca1bc01b1f) 
