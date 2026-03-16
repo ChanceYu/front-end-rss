@@ -22,8 +22,11 @@ function imageFilename(url, detectedExt) {
   return `${hash}${ext}`
 }
 
+const MAX_WIDTH = 1000
+
 /**
  * Compress raw image bytes with sharp and write to destPath.
+ * If original width > MAX_WIDTH, resizes to MAX_WIDTH with proportional scaling.
  * @param {Buffer} raw
  * @param {string} destPath
  */
@@ -32,26 +35,36 @@ async function compressAndSave(raw, destPath) {
   const meta = await image.metadata()
   const format = meta.format ?? 'jpeg'
 
+  // Resize to max width with proportional scaling when larger (prevents distortion)
+  let pipeline = image
+  if (meta.width != null && meta.width > MAX_WIDTH) {
+    pipeline = pipeline.resize({ width: MAX_WIDTH })
+  }
+
   if (COMPRESSIBLE.has(format)) {
     switch (format) {
       case 'jpeg':
       case 'jpg':
-        await image.jpeg({ quality: 80, progressive: true }).toFile(destPath)
+        await pipeline.jpeg({ quality: 80, progressive: true }).toFile(destPath)
         break
       case 'png':
-        await image.png({ compressionLevel: 9, palette: true }).toFile(destPath)
+        await pipeline.png({ compressionLevel: 9, palette: true }).toFile(destPath)
         break
       case 'webp':
-        await image.webp({ quality: 80 }).toFile(destPath)
+        await pipeline.webp({ quality: 80 }).toFile(destPath)
         break
       case 'avif':
-        await image.avif({ quality: 60 }).toFile(destPath)
+        await pipeline.avif({ quality: 60 }).toFile(destPath)
         break
       default:
-        writeFileSync(destPath, raw)
+        await pipeline.toFile(destPath)
     }
   } else {
-    writeFileSync(destPath, raw)
+    if (meta.width != null && meta.width > MAX_WIDTH) {
+      await pipeline.toFile(destPath)
+    } else {
+      writeFileSync(destPath, raw)
+    }
   }
 
   return format
