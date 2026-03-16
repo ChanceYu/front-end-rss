@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-15 19:04:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-16 12:30:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-03-16-【第3670期】AI-工程实战：Claude-Code-团队总结的六条反直觉缓存法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278747&idx=1&sn=123edfcd2136f85e486428c863008faf&chksm=bca29b86b72625b42750c50b71e0dbb486984ae071eb3a19519ccdac9a84eec77ac006a756b8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8717aa9d5a98377bd08ed373d10be35b) 
 - [2026-03-09-uni-app-重生！速度提升-83%，更强、更快、更智能！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509153&idx=1&sn=a871c6d73d46f06a4d645b200e5c944e&chksm=ce45b130f93238262f06968a3e4d4c211259fabf24c0f4a7143d99a8e213983fd47cc1fd486d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7bf5c04c5d2c00528915be23c0b6ba62) 
 - [2026-02-27-仅用一个技巧，让-JavaScript-性能提速-500%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508992&idx=1&sn=733842b0b0ece011008a3eea33d8fddb&chksm=ce45b191f9323887eb2aff395ee2cc4b155c6958ada947645c0f4208c9a87343162fe51cb51b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0af49c4bc19f7a84f6803f82691cd538) 
 - [2026-02-25-AI真人数字人语音对话性能优化实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542923&idx=1&sn=1403311c090693a4dc684ca861e515b6&chksm=8390db53b4e75245e036e1e89b5f5fe80ee19d832b8c76c9946b9456f4091dfc134da88bdc54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a15520b450fa31079a5a615963d81e30) 
@@ -169,8 +170,8 @@
 - [2024-12-03-前端体验优化之渐进式图片](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524408&idx=2&sn=10dd9fcd37fd7c6662aca3fb0ce61ec5&chksm=f99266e9cee5efffa0cf303fad0a08eaaaf41a01b05714fb97df3c3b78738ac8bdcd0d6f629a#rd) 
 - [2024-12-02-会员场景端快照与ER缓存优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537256&idx=1&sn=ea26df1a45265daaf11b1812595ae7ac&chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd) 
 - [2024-11-29-搭建业务的性能优化指南](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537238&idx=1&sn=8e57dca84c4655fc900aa7a2b15f8cab&chksm=8397350eb4e0bc186073ea153851d890d95600036472bca7b31d8b55794799061409f41b0152#rd) 
-- [2024-11-29-【第3423期】代码复用率99%，携程市场洞察平台Donut跨多端高性能技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274301&idx=1&sn=5268de6fca1203e5b71d09978c42c73d&chksm=bc2ba5e7b87372490af910f6e70c3952159ec039a6d2680fc2e7f60e979e73a807c10e4c7745&scene=0#rd) 
 - [2024-11-29-【早阅】如何有效清除NPM和NPX缓存？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274301&idx=2&sn=cd81adafd6f785471d0ee5ae4d54012c&chksm=bc670864a83e738c0f6b8a005ed67301d45b5e4f94eed1b007941753dde2597a6244c07469ed&scene=0#rd) 
+- [2024-11-29-【第3423期】代码复用率99%，携程市场洞察平台Donut跨多端高性能技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274301&idx=1&sn=5268de6fca1203e5b71d09978c42c73d&chksm=bc2ba5e7b87372490af910f6e70c3952159ec039a6d2680fc2e7f60e979e73a807c10e4c7745&scene=0#rd) 
 - [2024-11-28-如何使用流式渲染技术提升用户体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524303&idx=1&sn=0188766dfe875a55d2236a292e3ebf98&chksm=f992991ecee510084072723b66eeef65ae0862ac40842ff8b0aca90cfb88bc1e941becce385a#rd) 
 - [2024-11-28-首个-Tailwind-CSS-v4.0-Beta-版发布，性能至上，专为现代-Web-设计！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524303&idx=2&sn=69df2d39605ff655894e3ac189acf5dc&chksm=f992991ecee51008dd008f730fc5bad8ed90846134f464738d52fd7eb9a443afc68ae4d0dc05#rd) 
 - [2024-11-27-前端要想学好-NodeJs，这些性能监控指标可不能不会！！！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524286&idx=1&sn=1f35aad1221b84f51e5c9d9c7b69c715&chksm=f992996fcee510796dd5c138fedb8d985824aa550c74d2f2a996a7b49c2b9878ca266f9620fb#rd) 
@@ -463,8 +464,8 @@
 - [2022-03-12-前端中如何使用-WebWorker-对用户体验进行革命性的提升](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600339&idx=2&sn=f33800a08b789dcf031062beca5685fe&chksm=8022e212b7556b04421df0313abb7ccede104385b9a8a234266b9265bca8a45355891331a244#rd) 
 - [2022-03-11-超详细的前端缓存，都是知识点](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247504090&idx=3&sn=4c07182700c292b13efae0c744ce34b8&chksm=f992d60bcee55f1dedd7b3ebd0fa5279d7af99daac65fcfd3ea8bdd56c9d4e3c4074db716fc1#rd) 
 - [2022-03-04-2022-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061398&idx=2&sn=530181512fe854ceac140752c205a679&chksm=87c42386b0b3aa908490fc6901296caba51482fee8bd244d6ddeb06aa56f8a52ca2df6589a31#rd) 
-- [2022-02-27-【图书】用户体验四维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252904&idx=2&sn=483d28128871f1baac486ba221a7fad0&chksm=bd49312c8a3eb83ab2973350d7b77826acb7be4532b80cc5af28c04714c00515c42235e13d2a#rd) 
 - [2022-02-27-【第2541期】谈谈性能优化---从用户体验聊起](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252904&idx=1&sn=3727a639b8bd3fb8bae5842eb6d736f6&chksm=bd49312c8a3eb83a1bc30b49f8fb900ddde346dc0aaa86ef1f87668d2a75c23776620b6fbaf8#rd) 
+- [2022-02-27-【图书】用户体验四维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252904&idx=2&sn=483d28128871f1baac486ba221a7fad0&chksm=bd49312c8a3eb83ab2973350d7b77826acb7be4532b80cc5af28c04714c00515c42235e13d2a#rd) 
 - [2022-02-26-什么，lodash-的防抖失效了？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061345&idx=2&sn=52e79a8b1441446f9039502b76687359&chksm=87c42371b0b3aa672c48b19d25cc03558227bf7bb410f19da0ce10f840e657ef62df26bf84e0#rd) 
 - [2022-02-22-谈谈性能优化---从用户体验聊起](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495366&idx=1&sn=41f2849f52833604e3eaee140450633c&chksm=ec47a505db302c13cdd878931907fed5d718e826e8bb883a3d5801d78c180971501cd730d77b#rd) 
 - [2022-02-22-万字长文：分享前端性能优化知识体系](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503494&idx=1&sn=1487579de68d41750c63f6393d5875b4&chksm=f992c857cee541419b3d6c5cb020a2b1f01498f099b7bf5e836ab56cc0062b0f6cab69fa9cdf#rd) 
@@ -554,8 +555,8 @@
 - [2021-02-15-前端搞工程化：从零打造性能检测库「源码-+-视频」](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651570619&idx=2&sn=731f5eed1f460af40882901e288694f6&chksm=8025167ab7529f6cede54d0c6f91060779d615ebd752bf009abf943d340f1877939c39564a78&scene=27#wechat_redirect) 
 - [2021-02-02-Vue实现原理+前端性能优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651570129&idx=2&sn=bd44860c16feb95f48ea9f548ce92dba&chksm=80256810b752e10638c569b7603262755333b6a09ed88215822499623c6022c906b43b2a9e7d&scene=27#wechat_redirect) 
 - [2021-01-30-深入理解Chrome-V8垃圾回收机制](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651569681&idx=1&sn=109ba272a0fe3dcb7310bc23d10c6f21&chksm=802569d0b752e0c6f6059e59f6ab4baf993afd2649641ea17751a312308016a57e0aa9ef65d2&scene=27#wechat_redirect) 
-- [2021-01-26-【第2188期】使用JavaScript跟踪Web应用程序的性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243692&idx=2&sn=7a74a4dd100381948bbcf0bc8f5ed337&chksm=bd491d288a3e943efd9bb05d0b5909f90dc5623103a0c43cecaa1ffba5372ebb2eb5e7b6fcf3&scene=27#wechat_redirect) 
 - [2021-01-26-【招聘】阿里巴巴考拉海购体验技术部招P6～P8前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243692&idx=3&sn=a5ba9fc38fbc9deb40fb09925be63cde&chksm=bd491d288a3e943ef8acbe4106cb41fd2fa8e4837d0f50e42cbd7f084b0e801aee8146d8c167&scene=27#wechat_redirect) 
+- [2021-01-26-【第2188期】使用JavaScript跟踪Web应用程序的性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243692&idx=2&sn=7a74a4dd100381948bbcf0bc8f5ed337&chksm=bd491d288a3e943efd9bb05d0b5909f90dc5623103a0c43cecaa1ffba5372ebb2eb5e7b6fcf3&scene=27#wechat_redirect) 
 - [2021-01-25-JS框架性能对比：Soild-高居榜首，Vue、React-和-Angular-竟纷纷跌出前十](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505990&idx=1&sn=695eadb86d842bead43e29e0588bc7b4&chksm=f9526d05ce25e4130ea1ac84f1255d000e68ab4d64482febfd8af22de6849f23f6c82a6088ac&scene=27#wechat_redirect) 
 - [2021-01-24-【招聘】阿里业务平台体验技术部招前端技术专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243641&idx=2&sn=9d12fef675176d7740c369e598ded6cd&chksm=bd491dfd8a3e94ebf04ee414ecae029d8852b270a36a6e7fd4d06a87ef63ab90850182077e9b&scene=27#wechat_redirect) 
 - [2021-01-19-送给React开发者的八条优化建议](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651567925&idx=1&sn=340b089ce2f78cfe8538eda4bd065393&chksm=802560f4b752e9e2cf08f5de034dcd049255288145182e1584561a653b0f5a76daf146372d06&scene=27#wechat_redirect) 
@@ -581,8 +582,8 @@
 - [2020-12-14-简单粗暴可实操的前端性能优化方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564552&idx=1&sn=cdbe0cb2cc9a5ee653ebebceb968c155&chksm=80257dc9b752f4df9941a05b3dde2f32a1f67d5a301548ad8bb0b6bd32f6033caa9e728e2632&scene=27#wechat_redirect) 
 - [2020-12-10-1.4-万-Star！迄今为止速度最快的端口扫描器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564400&idx=2&sn=55e80edd410e35d066fbed8052f6f1b8&chksm=80257eb1b752f7a7c6b81a47f1a7da28f141e8ea37e44e1fe12bd9d189b23ad89c80facf56ba&scene=27#wechat_redirect) 
 - [2020-12-05-程序员用-M1-MacBook-当主力开发机​是什么体验？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564221&idx=1&sn=9b2f3b07f50e23f4ce15e08b8f4736cb&chksm=80257f7cb752f66ab35fffde302d0ae1bb66033ed490537c99144fd03df0b9e3ab38d0b143e5&scene=27#wechat_redirect) 
-- [2020-12-03-【第2035期】边缘渲染在首屏性能优化上的尝试与突破](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241628&idx=1&sn=f0a9fc7972fd68d34dd03cca45305bcd&chksm=bd4965188a3eec0e9f3723ae2a4eef6e6dfa6976e44e6d100b637af92bf07f8626427582eb90&scene=27#wechat_redirect) 
 - [2020-12-03-【招聘】阿里CBU体验技术团队招前端技术专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241628&idx=2&sn=69c86faa019076048c385eba123744a2&chksm=bd4965188a3eec0e4ca0b3b2888a5fc6805f8f8a9852baf91f31bd0bb70818af5c4cc4db4095&scene=27#wechat_redirect) 
+- [2020-12-03-【第2035期】边缘渲染在首屏性能优化上的尝试与突破](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241628&idx=1&sn=f0a9fc7972fd68d34dd03cca45305bcd&chksm=bd4965188a3eec0e9f3723ae2a4eef6e6dfa6976e44e6d100b637af92bf07f8626427582eb90&scene=27#wechat_redirect) 
 - [2020-12-02-Webpack-的异步加载原理及分包策略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564098&idx=2&sn=54a283756fd6a39269188a351e90d4bc&chksm=80257f83b752f6953a23fa0df06c57997dc8b1d475b61bbb527a22a6efbc906ffb6dfe6ff090&scene=27#wechat_redirect) 
 - [2020-11-30-F=ma，如何使创新具备加速度？-|-活动推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247503844&idx=3&sn=005973f4fee8785e1dc71b781b2162f7&chksm=f9527aa7ce25f3b1063210f5c0e450639ceeb3fc9e91ca56aa6439e2948ef7c4b31e285c6761&scene=27#wechat_redirect) 
 - [2020-11-29-前端周报：Vue-新语法糖引争议；VSCode-现内存泄漏-BUG，官方置若罔闻引不满；百度应用收集](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247503792&idx=1&sn=499561aa83ad813ba337cbf671f8795b&chksm=f9527af3ce25f3e5d277208268ba89772305bbad4ceecb4e19cde8cdebb6dca64facafc5495c&scene=27#wechat_redirect) 
@@ -633,8 +634,8 @@
 - [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238188&idx=1&sn=9095586f9e2be4727a868b9fab746221&chksm=bd4976a88a3effbe4d38d46410518a58ba250673ff93e637c8b76ad5efa908dd1bf62fc4e99d&scene=27#wechat_redirect) 
 - [2020-07-17-Vue-项目性能优化实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651560646&idx=2&sn=974b72c456279cfacc2853a05233ed95&chksm=80254d07b752c411af5f3b9dcef44b025cc94916c13859186247cf08eef0a45ddf8b07f75088&scene=27#wechat_redirect) 
 - [2020-07-17-【早读】修复Web应用程序中的内存泄漏](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238131&idx=3&sn=aa634b4df49c68097cf2a3196072b93f&chksm=bd4977778a3efe611d82a9a13272b4da982817d1bf67a7d2a088a2e5453c9e39f062f3fa63b6&scene=27#wechat_redirect) 
-- [2020-07-14-官方给出的Vue3性能优化数据，其实很保守？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238051&idx=1&sn=526fe16c48c70dd4603b1af1b846dbdf&chksm=bd4977278a3efe310629a48c8d70b42d301650e5ac5a4fee20152730105c8188c2121288f68e&scene=27#wechat_redirect) 
 - [2020-07-14-【第2002期】为什么-setTimeout-有最小时延-4ms-?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238051&idx=2&sn=e5f5ca8cb3cd2a1b23b357db688f0121&chksm=bd4977278a3efe31859414ecfc33a8a9df0e0b273f51d66c1c20ad5a013d1c31784ededb77e3&scene=27#wechat_redirect) 
+- [2020-07-14-官方给出的Vue3性能优化数据，其实很保守？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238051&idx=1&sn=526fe16c48c70dd4603b1af1b846dbdf&chksm=bd4977278a3efe310629a48c8d70b42d301650e5ac5a4fee20152730105c8188c2121288f68e&scene=27#wechat_redirect) 
 - [2020-07-13-cljs中普通与瞬态数据结构性能对比](https://fenghen.me/posts/2020/07/13/cljs-transient-performance/) 
 - [2020-07-13-cljs中普通与瞬态数据结构性能对比](https://hughfenghen.github.io/posts/2020/07/13/cljs-transient-performance/) 
 - [2020-07-09-活久见：巴克莱银行用网页时光机当作某些JS代码的“CDN”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247497732&idx=1&sn=ea265971fb58732db9728d73936c1363&chksm=f9524d47ce25c4514954ec1c0205a6deb64c17694fe27dd5b61b7cdb109c048de59dd649c552&scene=27#wechat_redirect) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-15 19:04:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-16 12:30:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频
 
@@ -148,8 +148,8 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-02-26-什么，lodash-的防抖失效了？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061345&idx=2&sn=52e79a8b1441446f9039502b76687359&chksm=87c42371b0b3aa672c48b19d25cc03558227bf7bb410f19da0ce10f840e657ef62df26bf84e0#rd) 
 - [2022-02-21-ReolAudio---基于分帧的-Web-音频工程解决方案](https://mp.weixin.qq.com/s/2VWAbnM-szhIXOx3n7_JfA) 
-- [2022-01-08-【活动】SEE-Conf-2022，9点直播间见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252080&idx=2&sn=3d86fe867c295107c5ec78bb4d657939&chksm=bd493cf48a3eb5e29950ef4d47a1c73a4dca019ff613e827cf81802cbf84ca5294ebbe50e223#rd) 
 - [2022-01-08-【第2505期】ES6-以上版本代码要不要转码成-ES5?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252080&idx=1&sn=89d2bd490fc5de73c317d3f4a1caeafb&chksm=bd493cf48a3eb5e266b1edb2d81a38897fc9412dc0784a7dd4c4f710dbcb460275ed2f4a84e5#rd) 
+- [2022-01-08-【活动】SEE-Conf-2022，9点直播间见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252080&idx=2&sn=3d86fe867c295107c5ec78bb4d657939&chksm=bd493cf48a3eb5e29950ef4d47a1c73a4dca019ff613e827cf81802cbf84ca5294ebbe50e223#rd) 
 - [2022-01-06-ES6-以上版本代码要不要转码成-ES5?](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495110&idx=1&sn=bd638c3cd97a39e0919f6e2ba3fbdf26&chksm=ec47a605db302f138cdf5aaf7a2782255fb7d833105654722931f3ea2b533ccfb547c6058223#rd) 
 - [2021-12-16-新兴活跃在直播和游戏等各行业中的虚拟角色，你了解过了没？](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=1&sn=a6c86f0de01a8ab2d1c9dc5ffb78616c&chksm=ec47a6dedb302fc81e6c7c83529b82baded0ae568a396614c19887bc945c57e8b1786898bb52#rd) 
 - [2021-07-24-使用ogv.js在Android浏览器解析webM视频](https://www.zhangxinxu.com/wordpress/2021/07/ogv-js-android-webm-video/) 
@@ -164,8 +164,8 @@
 - [2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246110&idx=2&sn=d8a0d3acae6398b99e904704617468aa&chksm=bd49179a8a3e9e8c383b110112ed00b0e534af4ffda48ae40f114234bd91fc286c7f578fdb24&scene=27#wechat_redirect) 
 - [2021-04-29-【图书】WebRTC技术详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245783&idx=2&sn=759c93d7784e80bb338886f9f15a2ef8&chksm=bd4915538a3e9c45249c8e8b1193ca77f49cbfacc0987b0107a84754e0008d04ebf32a6455e0&scene=27#wechat_redirect) 
 - [2021-04-25-JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/) 
-- [2021-04-02-【图书】FFmpeg从入门到精通](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244922&idx=3&sn=6b18963d607edc384ae2c2838739a2d0&chksm=bd4910fe8a3e99e84f46e115ba81f57f0a2f5da7d87a15426951f9bf2856594fc0d2543f5661&scene=27#wechat_redirect) 
 - [2021-04-02-【第2244期】百家号在线视频编辑器的技术演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244922&idx=1&sn=58e737a8485e00107e02d2327dbf08b9&chksm=bd4910fe8a3e99e8a8186b09ea73a6073229c62526d241db27e0bf8558d549c52e77877e0130&scene=27#wechat_redirect) 
+- [2021-04-02-【图书】FFmpeg从入门到精通](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244922&idx=3&sn=6b18963d607edc384ae2c2838739a2d0&chksm=bd4910fe8a3e99e84f46e115ba81f57f0a2f5da7d87a15426951f9bf2856594fc0d2543f5661&scene=27#wechat_redirect) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2021-03-12-字节跳动、美团、阿里等国内大公司的-200+-技术干货视频，任你选-|-活动推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247507294&idx=3&sn=67b11856a380000a908fe8c67528a886&chksm=f952681dce25e10bc5a9fba0f3e7a80756eba1e64b0fb02d9d64e7c137050f21e3e9371fe801&scene=27#wechat_redirect) 
 - [2021-03-07-使用-mask-实现视频弹幕人物遮罩过滤](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651572138&idx=1&sn=0ab9f6f024ba3bc2e858c4e64f48120c&chksm=8025106bb752997dac1b005ce32d835e336cb57cdf666d95977856eb547cee726736ccf3d78c&scene=27#wechat_redirect) 
@@ -234,9 +234,9 @@
 - [2019-07-27-社群直播-|-手把手带你实操-SQL-优化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=3&sn=dbb2b1ad5ce196dd50294b63b9c4e43e&chksm=f952542dce25dd3be7541079d9e85d63ecb279feb11a3cb3ddd0439a24719fb66b5d46c533f0&scene=27#wechat_redirect) 
 - [2019-07-26-腾讯Now直播前端工程化的实践之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=2&sn=42eec8f2490b98028a62f8b18f35a8d8&chksm=f9525421ce25dd3779fd04ceca0844a1ea84ba40f2f36c4b696857a8b2f18815b2c77a1a717b&scene=27#wechat_redirect) 
 - [2019-07-26-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=1&sn=ad60d1da656cb3548191fda92927b557&chksm=80255c0ab752d51cf7a932aed125e55e24971fd747c4838ee14d3f36c9c9de05e44d23c3fb1f#rd) 
-- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect) 
-- [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect) 
 - [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd) 
+- [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect) 
+- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect) 
 - [2019-07-16-Lodash-严重安全漏洞背后：你不得不知道的-JavaScript-知识](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556750&idx=1&sn=05ea01d54b18cc839b01075036ebe021&chksm=80255c4fb752d559b69882900e22511caa29e0e1bbd8235834f8a091ed769de401dca86dd859&scene=27#wechat_redirect) 
 - [2019-07-15-iMovie-入门教程：视频编辑的利器](http://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html) 
 - [2019-07-12-【视频】几行代码让页面自动刷新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd) 
