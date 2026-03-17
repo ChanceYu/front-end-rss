@@ -22,6 +22,8 @@ import fs from 'fs-extra'
 
 const { readFileSync, readdirSync, statSync, pathExistsSync } = fs
 
+const QINIU_CDN_HOST = 'https://fed-data.chanceyu.com'
+
 /** 计算本地文件的 MD5 */
 function getFileMD5(filePath) {
   return createHash('md5').update(readFileSync(filePath)).digest('hex')
@@ -41,6 +43,10 @@ const SKIP_NAMES = new Set([
   'Thumbs.db',
   'desktop.ini',
 ])
+
+function isMdKey(key) {
+  return key.replace(/\\/g, '/').toLowerCase().endsWith('.md')
+}
 
 /** 按扩展名返回上传用的 MIME 类型，避免 .md 等被误判为 image/png */
 function getMimeType(key) {
@@ -100,12 +106,14 @@ function getQiniuContext() {
   const formUploader = new qiniu.form_up.FormUploader(config)
   const putExtra = new qiniu.form_up.PutExtra()
   const bucketManager = new qiniu.rs.BucketManager(mac, config)
-  return { formUploader, putExtra, bucketManager, getOverwriteToken, bucket, prefix }
+  const cdnManager = new qiniu.cdn.CdnManager(mac)
+  const cdnBase = QINIU_CDN_HOST.replace(/\/$/, '')
+  return { formUploader, putExtra, bucketManager, cdnManager, cdnBase, getOverwriteToken, bucket, prefix }
 }
 
-/** 上传文件列表到七牛，返回统计（每个文件使用覆盖凭证） */
+/** 上传文件列表到七牛，返回统计。若远程已存在该 .md 且本次覆盖上传成功，则刷新 CDN 缓存。 */
 async function uploadFileList(files, ctx) {
-  const { formUploader, putExtra, bucketManager, getOverwriteToken, bucket, prefix } = ctx
+  const { formUploader, putExtra, bucketManager, cdnManager, cdnBase, getOverwriteToken, bucket, prefix } = ctx
   let ok = 0
   let skip = 0
   let fail = 0
@@ -119,7 +127,8 @@ async function uploadFileList(files, ctx) {
       } catch {
         statResp = null
       }
-      if (statResp?.resp?.statusCode === 200 && statResp?.data?.md5) {
+      const remoteExisted = statResp?.resp?.statusCode === 200 && statResp?.data?.md5
+      if (remoteExisted) {
         const remoteMD5 = String(statResp.data.md5).trim()
         if (remoteMD5 === localMD5) {
           skip++
@@ -136,6 +145,21 @@ async function uploadFileList(files, ctx) {
       )
       if (resp.statusCode === 200) {
         ok++
+        if (isMdKey(key) && remoteExisted && cdnBase) {
+          const refreshUrl = `${cdnBase}/${objectKey}`
+          try {
+            await new Promise((resolve, reject) => {
+              cdnManager.refreshUrls([refreshUrl], (err, body, info) => {
+                if (err) return reject(err)
+                if (info?.statusCode !== 200) return reject(new Error(`CDN refresh ${info?.statusCode}: ${JSON.stringify(body)}`))
+                resolve()
+              })
+            })
+            console.log(`  [cdn] refreshed ${objectKey}`)
+          } catch (refreshErr) {
+            console.warn(`  [cdn] refresh ${objectKey}:`, refreshErr.message)
+          }
+        }
       } else {
         fail++
         console.error(`  [fail] ${objectKey} status=${resp.statusCode}`, data)
