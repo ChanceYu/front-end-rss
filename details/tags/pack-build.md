@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-17 14:50:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-17 16:39:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -461,8 +461,8 @@
 - [2021-01-05-如何发布-npm-包](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651566487&idx=2&sn=a27386216a793ac44695ca480a89df6d&chksm=80256656b752ef40efdd6073b57954faf959b7a45a46d486aa53dd7ae8dc5606e7131854890b&scene=27#wechat_redirect) 
 - [2021-01-04-你必须知道的-webpack-插件原理分析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651566366&idx=2&sn=d87ea140ece97f4f3d3adf7af8ed1f29&chksm=802566dfb752efc93a594f0c377be10bb433bb0449d696613f6a8ad36b83ce1af7c4b8178502&scene=27#wechat_redirect) 
 - [2020-12-27-备战2021：vite-工程化实践，建议收藏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651565768&idx=2&sn=f0ad0060e38717d30ea1f2ffc8bd8778&chksm=80257909b752f01f6ba2f4d248b486bf60604333b0e0260699010c29967aa2a166a4e451e38e&scene=27#wechat_redirect) 
-- [2020-12-11-Deno-1.6正式发布！支持将TypeScript编译成单个可执行文件，苹果M1可原生运行](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247504128&idx=1&sn=3a1cf14616d336c30f07f15976b97862&chksm=f9526443ce25ed55b09354a73c7dfb3dbad81b4399ed678c057db0c480afc3b132e4e426af7f&scene=27#wechat_redirect) 
 - [2020-12-11-Snowpack-3-RC-版本发布：可跳过-npm-安装步骤](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247504128&idx=2&sn=14f8226d56b01ae0bc630ea78fec5e23&chksm=f9526443ce25ed552afe32c0ff467f7a7f9f1bfec9a313e49c386248c768ab3fd8759679f41a&scene=27#wechat_redirect) 
+- [2020-12-11-Deno-1.6正式发布！支持将TypeScript编译成单个可执行文件，苹果M1可原生运行](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247504128&idx=1&sn=3a1cf14616d336c30f07f15976b97862&chksm=f9526443ce25ed55b09354a73c7dfb3dbad81b4399ed678c057db0c480afc3b132e4e426af7f&scene=27#wechat_redirect) 
 - [2020-12-10-Vue-项目打包部署总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564400&idx=1&sn=b0b4f88643f9b0289906d88d9e1c8481&chksm=80257eb1b752f7a7d1d3867c9be7f81bd5fc9f7a3cd01b34b57cea9c4307691acba6e258613a&scene=27#wechat_redirect) 
 - [2020-12-07-基于Vite搭建Electron+Vue3的开发环境](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247504030&idx=2&sn=be6b9773321030df86795ce04a9eb75b&chksm=f95265ddce25eccbee52c19e1aaf3beead25ed35ea51c80d3ac3f918422af83c12e04dd10317&scene=27#wechat_redirect) 
 - [2020-12-06-工程化构建工具webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241667&idx=2&sn=2d66691f66db2ec190fa1e16fa9d0478&chksm=bd4965478a3eec5183f0c938ebbbe68981d7a8453f663a7f7e47ec3ae73f4c8c531391b5f89a&scene=27#wechat_redirect) 
@@ -514,8 +514,8 @@
 - [2020-05-30-小程序瀑布流组件:支持翻页与图片懒加载](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558929&idx=1&sn=c1e7877e07fb19fe144aa8672e3342cd&chksm=802543d0b752cac6d9ee618764d5c4c07f9b88f6ec0e87188f9b9ccbd6761aa246040c6f22dd&scene=27#wechat_redirect) 
 - [2020-05-28-提高10倍打包速度的神奇工具：Snowpack-2.0发布，再也不需要打包器！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247495448&idx=1&sn=fbd8cde4068134f867ff929ddb675b80&chksm=f9525a5bce25d34d8cb2d70e4b83333cd463a074dfb01b432b3f858e29764e969047829c5eb6&scene=27#wechat_redirect) 
 - [2020-05-17-用-esbuild-让你的构建压缩性能翻倍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558682&idx=1&sn=586ad309e13aec080540d3604634b9f7&chksm=802544dbb752cdcd497dd09e63a1251593f8add0bfa1ff3c2ab3f9ae7cc667f3fd9eef798f73&scene=27#wechat_redirect) 
-- [2020-05-13-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494688&idx=1&sn=9f924231ad2edb07b9d56027f03d3a86&chksm=f9525963ce25d075e9e283bd49fd842bffd83714d62950858e863ee31e32d640e1d81bf12aba&scene=27#wechat_redirect) 
 - [2020-05-13-ESLint-v7.0.0-发布：不再支持-Node.js-v8](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494688&idx=2&sn=5df231e23c22669fe298649469fcc3cf&chksm=f9525963ce25d075d7f0406b4310339badb576373a12a2bfd6f30c8766df70f3912204511238&scene=27#wechat_redirect) 
+- [2020-05-13-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494688&idx=1&sn=9f924231ad2edb07b9d56027f03d3a86&chksm=f9525963ce25d075e9e283bd49fd842bffd83714d62950858e863ee31e32d640e1d81bf12aba&scene=27#wechat_redirect) 
 - [2020-05-12-【第1942期】Vue-SSR-即时编译技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236544&idx=2&sn=8c684c77c6d7b8403409128d4b32dc83&chksm=bd4971448a3ef852b4eb1f022163e91fbb04abadb8f3c9ca332681b6b3888146dd5fb50c4003&scene=27#wechat_redirect) 
 - [2020-05-07-企业如何基于Serverless构建自己的云上应用-｜-GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494406&idx=2&sn=29a516a33c2aaeefcbfc9b169d788264&chksm=f9525e45ce25d753979d8ed370c2dab554ba06fd46fcc5b930280369bdfa8396b429977ce51b&scene=27#wechat_redirect) 
 - [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558216&idx=1&sn=f262151e4e64bf606078c146a24731fa&chksm=80254689b752cf9fd5e9ef6be1c45d09bf1af3661e81a643923e0728ea6646539951a62f356f&scene=27#wechat_redirect) 
@@ -569,8 +569,8 @@
 - [2019-08-09-挑选npm模块很费事？掌握这些技巧就能事半功倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=1&sn=16b7d9def71aaefa5357cae7271d8c9e&chksm=f9525744ce25de520f98e916a33ba5439a0573c0b423b59d82028596177f5edc29f94cbc82da&scene=27#wechat_redirect) 
 - [2019-08-08-WebAssembly到底处于编译阶段的哪个环节？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492081&idx=2&sn=592c6585a6a8a87be0b087f305b9a1d1&chksm=f95254b2ce25dda45648e137de11b893e807ec8a3946007cf1eda749936045a82df58609acfc#rd) 
 - [2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/) 
-- [2019-08-02-Webpack优化技巧，构建效率提升50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=2&sn=6ea74cf4d7127053996fde4ec42fa797&chksm=f95254edce25ddfb6b0335177229752434c454a41259efa9c560daaf9c929570d61cb73b6c62#rd) 
 - [2019-08-02-npm官宣：未来将支持monorepo特性，带来源码管理新姿势！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=1&sn=65a4ee314db77deb1e1e4d21c240fc5d&chksm=f95254edce25ddfbbf75ba59f3f2bf5eda2b674250bede2cb16daa23ebc2ecbfe184e4de5400#rd) 
+- [2019-08-02-Webpack优化技巧，构建效率提升50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=2&sn=6ea74cf4d7127053996fde4ec42fa797&chksm=f95254edce25ddfb6b0335177229752434c454a41259efa9c560daaf9c929570d61cb73b6c62#rd) 
 - [2019-08-01-深入理解-ESLint](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556840&idx=1&sn=37d4554cd243d4f30f53ac06f2dfe109&chksm=80255c29b752d53f34e58c1676eb4ab169605be2b1f9d58fa5855938bdc0dca68eadbe9ca5a5#rd) 
 - [2019-07-31-【第1685期】JavaScript到底是解释型语言还是编译型语言?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233185&idx=1&sn=f97d7de5586509cfaf12e855e4d657ca&chksm=bd4942258a3ecb337dfe5adbb221414031111a599cd169d445da27530129ee1590f2d22ca0d1&scene=27#wechat_redirect) 
 - [2019-07-30-【第1684期】-深入理解ESLint](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233178&idx=1&sn=23d7041105447b655f0f52a53a13207a&chksm=bd49421e8a3ecb08a6108140a047666afd3b89ae1de9228ae479067ed62a580c93ac6b09d257&scene=27#wechat_redirect) 
