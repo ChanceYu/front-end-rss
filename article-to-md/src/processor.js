@@ -60,6 +60,20 @@ function detectLang(raw = '') {
   m = raw.match(/\bbrush:\s*(\w+)/)
   if (m) return m[1]
 
+  // xxx__lang  (e.g. code-snippet__js -> js)
+  m = raw.match(/code-snippet__(\w+)/)
+  if (m) {
+    const lang = m[1].toLowerCase()
+    return lang
+  }
+
+  // lang_xxx  (e.g. js_darkmode__1 -> js)
+  m = raw.match(/\b(\w+)_darkmode__\w+/)
+  if (m) {
+    const lang = m[1].toLowerCase()
+    return lang
+  }
+
   // prettyprint  (Google Code Prettify keeps lang in a separate class)
   m = raw.replace('prettyprint', '').match(/\b([\w+#-]{2,})\b/)
   if (m && !['code', 'pre', 'wrap', 'copy'].includes(m[1])) return m[1]
