@@ -260,19 +260,19 @@ export async function processArticle(article, options = {}) {
     // Extract inner HTML of the content element(s) + log img situation.
     // When contentSelector is an array, each matched element's innerHTML is
     // concatenated in order and separated by a blank line.
-    // If an img's displayed width > content width - 20, mark data-rss-block-img so it renders on its own line in Markdown.
+    // If an img's displayed width >= 30% of content container width, mark data-rss-block-img so it renders on its own line in Markdown.
     const { contentHtml, contentImgs } = await page.evaluate((selectors) => {
       const els = selectors
         .map((sel) => document.querySelector(sel))
         .filter(Boolean)
 
       const imgSource = els.length ? els : [document.body]
-      const contentWidthMargin = 20
+      const blockImageRatio = 0.3
       imgSource.forEach((el) => {
         const contentWidth = el.getBoundingClientRect().width
         el.querySelectorAll('img').forEach((img) => {
           const displayWidth = img.getBoundingClientRect().width
-          if (displayWidth > contentWidth - contentWidthMargin) {
+          if (contentWidth > 0 && displayWidth >= contentWidth * blockImageRatio) {
             img.setAttribute('data-rss-block-img', '1')
           }
         })
@@ -548,7 +548,7 @@ export async function processArticle(article, options = {}) {
       },
     })
 
-    // Img with data-rss-block-img (display width > content width - 20): output on its own line in Markdown
+    // Img with data-rss-block-img (display width >= 30% of container): output on its own line in Markdown
     td.addRule('blockImage', {
       filter(node) {
         return node.nodeName === 'IMG' && node.getAttribute('data-rss-block-img') === '1'
