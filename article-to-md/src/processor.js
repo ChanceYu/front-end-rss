@@ -267,6 +267,29 @@ export async function processArticle(article, options = {}) {
         .filter(Boolean)
 
       const imgSource = els.length ? els : [document.body]
+
+      // If img is inside strong/b, and every node from img up to that strong has only one child (max 4 levels), unwrap so we don't get **![]()** in Markdown
+      imgSource.forEach((el) => {
+        const imgs = [...el.querySelectorAll('img')]
+        imgs.forEach((img) => {
+          let p = img.parentNode
+          for (let level = 0; level < 4 && p; level++) {
+            if (p.children.length !== 1) break
+            if (p.nodeType === 1 && (p.tagName === 'STRONG' || p.tagName === 'B')) {
+              const parent = p.parentNode
+              if (parent) {
+                while (p.firstChild) {
+                  parent.insertBefore(p.firstChild, p)
+                }
+                parent.removeChild(p)
+              }
+              break
+            }
+            p = p.parentNode
+          }
+        })
+      })
+
       const blockImageRatio = 0.3
       imgSource.forEach((el) => {
         const contentWidth = el.getBoundingClientRect().width
@@ -289,9 +312,6 @@ export async function processArticle(article, options = {}) {
       )
       return { contentHtml: html, contentImgs: imgs }
     }, contentSelectors)
-
-    console.log(`[imgs] ${contentImgs.length} <img> tag(s) in content element`)
-    contentImgs.forEach(({ src }) => console.log(`       src="${src.slice(0, 100)}"`))
 
     // Use cheerio to clean up the extracted HTML
     const $ = cheerio.load(contentHtml)
@@ -575,6 +595,9 @@ export async function processArticle(article, options = {}) {
     // Remove anchor links, e.g. [#](#section-id) that many static-site generators inject
     body = body.replace(/\[#\]\(#[^)]*\)\s*/g, '')
 
+    // Remove --- horizontal rule line when it appears immediately before # / ## / ### heading
+    body = body.replace(/(^|\n)---\s*\n+(\s*#{1,3}\s)/g, '$1\n$2')
+
     // Remove leading blank line inside fenced code blocks
     body = body.replace(/(^```[^\n]*\n)\n/gm, '$1')
 
@@ -653,21 +676,6 @@ export async function processArticle(article, options = {}) {
         }
       } catch {}
       return { deleted: true, md5 }
-    }
-
-    // Count downloadable images using the same regex as localizeImages
-    // (run on cleanedHtml so cheerio-normalised relative URLs are included)
-    const cleanedImgSrcs = [
-      ...cleanedHtml.matchAll(/<img[^>]+src="((?:https?:\/\/|data:image\/)[^"]+)"/gi),
-    ].map((m) => m[1])
-    const mdImgCount = new Set(cleanedImgSrcs).size
-    if (mdImgCount === 0) {
-      console.log('[imgs] No downloadable image URLs in content — nothing to download')
-    } else {
-      console.log(`[imgs] ${mdImgCount} unique image URL(s) to download`)
-      if (mdImgCount !== contentImgs.length) {
-        console.warn(`[imgs] ⚠ count mismatch: ${contentImgs.length} <img> tags vs ${mdImgCount} downloadable URLs`)
-      }
     }
 
     // Download & compress images, rewrite references to local paths.

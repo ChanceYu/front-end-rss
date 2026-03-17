@@ -229,12 +229,10 @@ export async function localizeImages(markdown, imagesDir, browserContext = null,
       let filename
       if (url.startsWith('data:image/')) {
         filename = await saveBase64Image(url, imagesDir)
-        console.log(`  [img] ✓ base64 → ${filename}`)
       } else {
         let origin = pageOrigin
         try { origin = new URL(url).origin } catch {}
         filename = await downloadImage(url, imagesDir, origin, browserContext)
-        console.log(`  [img] ✓ ${filename}`)
       }
       results.set(url, filename)
       return filename
