@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-16 12:30:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-17 14:50:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -273,8 +273,8 @@
 - [2022-11-04-Is-Turbopack-really-10x-faster-than-Vite?](https://javascriptweekly.com/issues/613) 
 - [2022-11-03-尤雨溪：Turbopack真的比Vite快10倍吗？](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451064371&idx=1&sn=3324989534d2ef636c4e00a8c983fb87&chksm=87c45f23b0b3d63533d77cc8ae83e290391e2daa4fd7c783b3e3f85b197a4fc54af9e4f2610d#rd) 
 - [2022-10-27-Webpack-创始人推出比-Webpack“快-700-倍”的-Turbopack，基于-Rust-编写](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518351&idx=1&sn=71b9ddea0a5e75ef2568542d5a70fb92&chksm=f9523dccce25b4dacd84ccbe0a5364f0f1705751333098fa2d03cf66b56c63e90a0ce13d6eb9#rd) 
-- [2022-10-24-【第2762期】ViteConf-2022回顾：Vite是如何诞生的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=1&sn=0b4819ecf73d4a9dd0d36431b494d6a5&chksm=bd4927188a3eae0ebebcd055ba22c73f0b2ede66f052a154a64747122762987deda63f4829a8#rd) 
 - [2022-10-24-【课程】深入浅出-Vite](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=3&sn=bbf1284034da9070774b163c5e81cacd&chksm=bd4927188a3eae0e3433134e35cc5c2dd8b8d2dc6d56d2a15e65a9a77df9349625d5b2b2510a#rd) 
+- [2022-10-24-【第2762期】ViteConf-2022回顾：Vite是如何诞生的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=1&sn=0b4819ecf73d4a9dd0d36431b494d6a5&chksm=bd4927188a3eae0ebebcd055ba22c73f0b2ede66f052a154a64747122762987deda63f4829a8#rd) 
 - [2022-10-20-你可能不知道的-npm-实用技巧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487057&idx=1&sn=259c850708b4f970823b67e7f063e877&chksm=ce461bc0f93192d6db96eea47cde6dfe6b1a3ca96c3fa842ec85a19ba6e2fbce6892429b5791#rd) 
 - [2022-10-19-构建-webpack5-知识体系【近万字总结】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487055&idx=1&sn=2ee65c91cfb69f0fe8bb2ddc4b192a2e&chksm=ce461bdef93192c8b4ef71a94b692b33c8764cd8c9f3bcbac88fec06a6c4c3d0769109819bc3#rd) 
 - [2022-10-17-为什么有人说-vite-快，有人却说-vite-慢？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651609717&idx=2&sn=dc79b581cbe83a9ff89a7afe76af8812&chksm=80228db4b75504a2d5298f8656cc97b2afb5a75a79192eaf6999f8aa76d5b16d30b53347e119#rd) 
@@ -558,8 +558,8 @@
 - [2019-09-07-npm沦为金钱工具背后的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=2&sn=25675696a32d274df299ab1ea0fd68b4&chksm=f9525605ce25df13bbb49ce255e9b36a10a34f27554bc3fcd1df8ff12dce270da52718cffed4#rd) 
 - [2019-08-30-Vue-+-Node-+-WebRTC构建一个高逼格的视频应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492319&idx=2&sn=90d6f7f223ff6df6d32694ddd1e07f8a&chksm=f952579cce25de8aaa181068aac8919dfeeee3f34d462bb2eca2013810644ce1705b5c7ff52d#rd) 
 - [2019-08-29-Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556984&idx=1&sn=8f4dd1f66561f6ddde9e8a788f1fde59&chksm=80255bb9b752d2affa202e97140ab6cc4d15df950955ed9d69c8a22580b2c1bdeb5a55299779&scene=27#wechat_redirect) 
-- [2019-08-29-前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd) 
 - [2019-08-29-【第1711期】Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=2&sn=73c142f04bfb546433c6331275628ed6&chksm=bd4944aa8a3ecdbc3aaef3c61077dc073858ce688098bb34d2eb5d01cbac63e61d60ee6e8486#rd) 
+- [2019-08-29-前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd) 
 - [2019-08-25-前端周报：微软发布基于Chromium的Microsoft-Edge预览版；Nuxt发布v2.9.0；npm-发布v6.11.0](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=1&sn=4061ae8c28267a0f091a23af61cf6f03&chksm=f95257e3ce25def555447533381ee64ef91bf034a5f212e130d5de0c9f3706df7bcd0e9567d9#rd) 
 - [2019-08-21-【PPT】the-road-to-webpack-5](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=1&sn=01eb557fc0ed307782f98cc5df2a63a6&chksm=bd4945448a3ecc523982c6ec6eedcadaeb6d847754362b5bba257b7c0a972d38cd4520d7963f&scene=27#wechat_redirect) 
 - [2019-08-19-一文搞定前端-Jenkins-自动化部署](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=2&sn=15ce7024d47dcaa0d5ad522878caaa02&chksm=80255b86b752d290f1538fb9d24ae9c7352aa32543667a55c1efa3e4cd872d583d2a677dd2a7#rd) 
@@ -621,8 +621,8 @@
 - [2018-12-03-前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect) 
 - [2018-12-02-【第1464期】babel7使用手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230594&idx=1&sn=85776d694c8c389c1a529a0f7c13ed70#wechat_redirect) 
 - [2018-11-30-从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect) 
-- [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
+- [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-27-周下载量过200万的npm包被注入恶意代码，Vue、Node项目恐受影响](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489978&idx=1&sn=26b265e2f5a45251cedd631e87624085#wechat_redirect) 
 - [2018-11-26-【第1458期】ElementUI的构建流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230534&idx=1&sn=25761fb0d218c3f11dd97662fbad0f0a#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
