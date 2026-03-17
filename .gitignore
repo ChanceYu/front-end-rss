@@ -26,3 +26,4 @@ node_modules
 .vercel
 dist
 server/.env
+data/articles
