@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-18 02:49:01。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-18 09:09:38。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -560,6 +560,7 @@
 
 
 
+- [【程序员成长指北】web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529455&idx=1&sn=9e4846fe4d0eac846bf48b24ccd4ba8e&chksm=f992753ecee5fc280e28334ac178e44c84756a680aa87d24fdb269eb0e97b64df89a614a5788#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c063faca5c7e7962434644f32114ad5)
 - [【前端从进阶到入院】web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s/0hJRbl2RInw6jQaU7hevGg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8ec7977fe819cad14d012a11d946e774)
 - [【程序员成长指北】web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529217&idx=1&sn=dc8d1ddaea4e0115261e61a32c535152&chksm=f99275d0cee5fcc6bd471364b733d6f800eb0fd5dc3e259a928d061c5cae8b42369ace4d67d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8b373b60dc3b224731eeacf41f34ed94)
 - [【前端大全】20-年-IT-老兵转行“收废品”！200+-场面试无果](http://mp.weixin.qq.com/s/oj2b_Sx2XVYOc4jC-gvpPA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f35cff54a0394aa180fdb78209682f87)
@@ -569,7 +570,6 @@
 - [【前端之神】刷透这套前端面试题，面试官都怕你](http://mp.weixin.qq.com/s/pUi2IAJ1uCUjHOHisTJ7yw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e40b39397e6f6c7e1c593e171545522)
 - [【前端大全】面试：前端如何应对数百万个-API-请求而不会导致系统崩溃](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623461&idx=2&sn=ac0b16ad89afd9f061bc3c80d6a1666d&chksm=802247e4b755cef2b2315bb5e656ac8a19e7ca1891a5a12cab6b61cb324867a0fe4aad391291#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2c0ebf83f06c7a99a8bab84f9367893f)
 - [【前端之巅】全球前端岗位招聘需求断崖下降-9.89%，前端的未来究竟在哪里？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526386&idx=1&sn=e67f786252a6b088d62c6994a014a8a2&chksm=f952d2b1ce255ba76066a1cf107e97324c8a910e331cf75ea4071717e82f9078bb121fa5fa65#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af735bb797a1dfa60413075d2c94f194)
-- [【前端之神】字节面试官：不点击鼠标，怎么触发点击事件？](http://mp.weixin.qq.com/s/IChASg03ZcYRAqBx-4GNnQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f65f4a4fc51bc457bc71332788ba2de9)
 - [查看更多 >](/details/tags/job-interview.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5d45f581f6b0f5577946686c52eb8c3)
+- [【程序员成长指北】web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529455&idx=1&sn=9e4846fe4d0eac846bf48b24ccd4ba8e&chksm=f992753ecee5fc280e28334ac178e44c84756a680aa87d24fdb269eb0e97b64df89a614a5788#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c063faca5c7e7962434644f32114ad5)
 - [【前端之神】统一前端框架？JS-全新语法，让-Vue、React-都慌了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509463&idx=1&sn=918b22cf185465669d3f7e65a05646df&chksm=ce45b046f93239500ceb336a7574fb56e28c8bb40f67271f8c43ae04d674577c3f3895df32f8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6519cd30ff78eff8b4faabbd9fca38)
 - [【前端大全】Karpathy紧急删库！AI职业末日图爆火](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624197&idx=1&sn=dd936eb62120c745be060cd2e37dbf67&chksm=802244c4b755cdd205d798a0cc2eb9e8533f38525a5115ee90a5e07a01bb18ce4a531350678f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=927128057ff137a69a6e17b84bc9ec24)
 - [【前端早读课】【第3671期】面向数十亿行数据的虚拟滚动-——-HighTable-的核心技术解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278760&idx=1&sn=93f07b8a785063f053b723366b88dec7&chksm=bc14e5243416169dfc5f3ee8ffc2e58fef17c7d788af187fc916634feabd4f8ec55490fda008&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f56ce0ec928539fca1af42c695558876)
@@ -593,7 +594,6 @@
 - [【程序员成长指北】尤雨溪出手了：前端工具链的「大一统」时代](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529444&idx=1&sn=66ecac1ef588944e42da34e1f5af9d4f&chksm=f9927535cee5fc232fda8819fa58e36288a6652776414d38f1f3a40e6ca5749feae3f5aed616#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50178b1ebf56ac4bffa41970a011797b)
 - [【前端之神】全体起立！AI-版-Chrome-正式推出！前端开发进入新时代！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509426&idx=1&sn=2f8f879274864fa7c876a7a9c09b75b5&chksm=ce45b023f9323935d1073630053896fd8f33421006d999ba9605f1ff0ad47f596f00267658ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e62923a2ddf00637b71ce055a39a19f7)
 - [【前端大全】48-小时欠谷歌-56-万！三人开发小团队要破产了，只因-Gemini-API-密钥被盗用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624176&idx=1&sn=ca425dffac3520b0df6b941f82248334&chksm=80224531b755cc27f6f0afb18a9498d5f497bfa7030a37d0eaa46a327ffbf7da1a0404d66803#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8cea4c85760db8d1516948d6df9fdc27)
-- [【前端早读课】【第3670期】AI-工程实战：Claude-Code-团队总结的六条反直觉缓存法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278747&idx=1&sn=123edfcd2136f85e486428c863008faf&chksm=bca29b86b72625b42750c50b71e0dbb486984ae071eb3a19519ccdac9a84eec77ac006a756b8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8717aa9d5a98377bd08ed373d10be35b)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

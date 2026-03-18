@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-18 02:49:01，:rocket: 更新条数: +16， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-18 09:09:38，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
@@ -29,9 +29,9 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=faf433affe522ee3f47ca53649f0423a)  ![](/assets/new.png) 
+- [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=faf433affe522ee3f47ca53649f0423a)  
 - [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7b61aa9e6536635f9f97e85864c97d2c)  
 - [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dbbe04ca63486bcfca913832c3969f09)  
 - [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=050fad08bd23e55077593ec5761eac91)  
@@ -109,11 +109,11 @@
 </summary>
 
 
-- [2026-03-17-Karpathy紧急删库！AI职业末日图爆火](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624197&idx=1&sn=dd936eb62120c745be060cd2e37dbf67&chksm=802244c4b755cdd205d798a0cc2eb9e8533f38525a5115ee90a5e07a01bb18ce4a531350678f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=927128057ff137a69a6e17b84bc9ec24)  ![](/assets/new.png) 
-- [2026-03-16-48-小时欠谷歌-56-万！三人开发小团队要破产了，只因-Gemini-API-密钥被盗用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624176&idx=1&sn=ca425dffac3520b0df6b941f82248334&chksm=80224531b755cc27f6f0afb18a9498d5f497bfa7030a37d0eaa46a327ffbf7da1a0404d66803#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8cea4c85760db8d1516948d6df9fdc27)  ![](/assets/new.png) 
-- [2026-03-15-腾讯真给龙虾打钱了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624157&idx=1&sn=a7f45754ff7807ecc8f6ce0bd33514eb&chksm=8022451cb755cc0adf24c2bc9846c34db6335b6479908d424fb7bd0b457b471eea536b2f742c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0c4b60ec49a97b8cd3c850fb680d402)  ![](/assets/new.png) 
-- [2026-03-14-尴尬！龙虾之父指责腾讯“抄袭”，网友吐槽“这很腾讯”，腾讯火速回应](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624144&idx=1&sn=8d647bac490a65f324998ef0b001613c&chksm=80224511b755cc071ba69136165ff5ee76f3ce661d5e10569c1e59c60b4c0765e4467be9cf95#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=565bc267145eec9a01c430c6b0879f74)  ![](/assets/new.png) 
-- [2026-03-13-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624136&idx=1&sn=87d16846a10202c62a08e9376a8ff791&chksm=80224509b755cc1ff87c51453ee25722134a185da529c2d13a8835b9b7fa6fa58b895a5998bc#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a5e2d54acfe4ca96c0b199e39b6a48c)  ![](/assets/new.png) 
+- [2026-03-17-Karpathy紧急删库！AI职业末日图爆火](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624197&idx=1&sn=dd936eb62120c745be060cd2e37dbf67&chksm=802244c4b755cdd205d798a0cc2eb9e8533f38525a5115ee90a5e07a01bb18ce4a531350678f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=927128057ff137a69a6e17b84bc9ec24)  
+- [2026-03-16-48-小时欠谷歌-56-万！三人开发小团队要破产了，只因-Gemini-API-密钥被盗用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624176&idx=1&sn=ca425dffac3520b0df6b941f82248334&chksm=80224531b755cc27f6f0afb18a9498d5f497bfa7030a37d0eaa46a327ffbf7da1a0404d66803#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8cea4c85760db8d1516948d6df9fdc27)  
+- [2026-03-15-腾讯真给龙虾打钱了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624157&idx=1&sn=a7f45754ff7807ecc8f6ce0bd33514eb&chksm=8022451cb755cc0adf24c2bc9846c34db6335b6479908d424fb7bd0b457b471eea536b2f742c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0c4b60ec49a97b8cd3c850fb680d402)  
+- [2026-03-14-尴尬！龙虾之父指责腾讯“抄袭”，网友吐槽“这很腾讯”，腾讯火速回应](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624144&idx=1&sn=8d647bac490a65f324998ef0b001613c&chksm=80224511b755cc071ba69136165ff5ee76f3ce661d5e10569c1e59c60b4c0765e4467be9cf95#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=565bc267145eec9a01c430c6b0879f74)  
+- [2026-03-13-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624136&idx=1&sn=87d16846a10202c62a08e9376a8ff791&chksm=80224509b755cc1ff87c51453ee25722134a185da529c2d13a8835b9b7fa6fa58b895a5998bc#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a5e2d54acfe4ca96c0b199e39b6a48c)  
 - [2026-03-12-猛裁1.6万人后，网站再崩6小时、一周4次重大事故！官方“紧急复盘”：跟裁员无关，也不是AI写代码的锅](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624119&idx=1&sn=c0f059d33dc24b12d70e159ef7c729fc&chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e4006cf1533597d817285bb028a6643f)  
 - [2026-03-06-Code-Review-将死于-2026-年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624094&idx=1&sn=6d1b600f1d9b4f6b83fb7dbb98908b99&chksm=8022455fb755cc4920a8bd82b7f85de214177ad33d7fc139eb6331432a93486c28d7237ca807#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28d7f0bdc6b8d7d4f216df7d3a0c0f0f)  
 - [2026-02-05-20-年-IT-老兵转行“收废品”！200+-场面试无果](http://mp.weixin.qq.com/s/oj2b_Sx2XVYOc4jC-gvpPA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f35cff54a0394aa180fdb78209682f87)  
@@ -151,13 +151,13 @@
 </summary>
 
 
-- [2026-03-17-统一前端框架？JS-全新语法，让-Vue、React-都慌了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509463&idx=1&sn=918b22cf185465669d3f7e65a05646df&chksm=ce45b046f93239500ceb336a7574fb56e28c8bb40f67271f8c43ae04d674577c3f3895df32f8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6519cd30ff78eff8b4faabbd9fca38)  ![](/assets/new.png) 
-- [2026-03-16-全体起立！AI-版-Chrome-正式推出！前端开发进入新时代！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509426&idx=1&sn=2f8f879274864fa7c876a7a9c09b75b5&chksm=ce45b023f9323935d1073630053896fd8f33421006d999ba9605f1ff0ad47f596f00267658ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e62923a2ddf00637b71ce055a39a19f7)  ![](/assets/new.png) 
-- [2026-03-15-打钱了！OpenClaw之父怒喷腾讯后，腾讯真给OpenClaw打钱了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509409&idx=1&sn=fb4ebd4be43e6a1df9854e78fa5fc8e1&chksm=ce45b030f9323926151c18e351c2b7e5a85bbd338ba7d2028bddcd6674882d209b70565a8682#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f9e27ed6c1e541c88f9492447ae505fe)  ![](/assets/new.png) 
-- [2026-03-14-里程碑！尤雨溪：苹果Apple官网引入Vite-+-Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509329&idx=1&sn=592863213bbaaddb725b40640014b886&chksm=ce45b0c0f93239d6cfc75e278bfff910d1227e05868bf6a7f206c0525df71635bc5acee6fc35#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2efdc011d6603fc561dab81e4c71159c)  ![](/assets/new.png) 
-- [2026-03-13-Nuxt-淘汰！尤雨溪推荐全新框架，极致性能，体验感拉满！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509304&idx=1&sn=c5a156762cf10ded43dee28b9f118c12&chksm=ce45b0a9f93239bf87feb0e7eb75033dd37af81c6dd756c829d5edaf0a141c2b04b23fd22da8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a40e3d14c1fa570e7862d9f73a9fe700)  ![](/assets/new.png) 
-- [2026-03-12-狂喜！安装龙虾（OpenClaw）国家补贴1000万Tokens！](http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ff6f1647e04ca402ee2945ca1bc01b1f)  
+- [2026-03-17-统一前端框架？JS-全新语法，让-Vue、React-都慌了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509463&idx=1&sn=918b22cf185465669d3f7e65a05646df&chksm=ce45b046f93239500ceb336a7574fb56e28c8bb40f67271f8c43ae04d674577c3f3895df32f8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6519cd30ff78eff8b4faabbd9fca38)  
+- [2026-03-16-全体起立！AI-版-Chrome-正式推出！前端开发进入新时代！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509426&idx=1&sn=2f8f879274864fa7c876a7a9c09b75b5&chksm=ce45b023f9323935d1073630053896fd8f33421006d999ba9605f1ff0ad47f596f00267658ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e62923a2ddf00637b71ce055a39a19f7)  
+- [2026-03-15-打钱了！OpenClaw之父怒喷腾讯后，腾讯真给OpenClaw打钱了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509409&idx=1&sn=fb4ebd4be43e6a1df9854e78fa5fc8e1&chksm=ce45b030f9323926151c18e351c2b7e5a85bbd338ba7d2028bddcd6674882d209b70565a8682#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f9e27ed6c1e541c88f9492447ae505fe)  
+- [2026-03-14-里程碑！尤雨溪：苹果Apple官网引入Vite-+-Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509329&idx=1&sn=592863213bbaaddb725b40640014b886&chksm=ce45b0c0f93239d6cfc75e278bfff910d1227e05868bf6a7f206c0525df71635bc5acee6fc35#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2efdc011d6603fc561dab81e4c71159c)  
+- [2026-03-13-Nuxt-淘汰！尤雨溪推荐全新框架，极致性能，体验感拉满！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509304&idx=1&sn=c5a156762cf10ded43dee28b9f118c12&chksm=ce45b0a9f93239bf87feb0e7eb75033dd37af81c6dd756c829d5edaf0a141c2b04b23fd22da8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a40e3d14c1fa570e7862d9f73a9fe700)  
 - [2026-03-12-效率提升-300%！前端“新玩具”正式开源！短短时间-9.2k-stars！](http://mp.weixin.qq.com/s/NC9UYu9efIxkKy3R2I46iQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e87eb5348f243822490bf3cf131cab0)  
+- [2026-03-12-狂喜！安装龙虾（OpenClaw）国家补贴1000万Tokens！](http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ff6f1647e04ca402ee2945ca1bc01b1f)  
 - [2026-03-11-前端活了？2026求职数量Top20，前端排名第一！](http://mp.weixin.qq.com/s/dTdrAZlEGZryESWToB0uHg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=841905608337d9cb6b2d1dde057d525c)  
 - [2026-03-10-紧急！这些-JavaScript-API-已经废弃！请慎用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509210&idx=1&sn=5ef97f372f9f3754d9bf1ee625a73a24&chksm=ce45b14bf932385d372158ed2c8851b47ddae0cdd921c6d6e0dfa07cae526b75bb0ecb22713b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=295c742b4442149a4ba7221ffb881c73)  
 - [2026-03-09-uni-app-重生！速度提升-83%，更强、更快、更智能！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509153&idx=1&sn=a871c6d73d46f06a4d645b200e5c944e&chksm=ce45b130f93238262f06968a3e4d4c211259fabf24c0f4a7143d99a8e213983fd47cc1fd486d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7bf5c04c5d2c00528915be23c0b6ba62)  
@@ -193,16 +193,16 @@
 </summary>
 
 
-- [2026-03-16-尤雨溪出手了：前端工具链的「大一统」时代](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529444&idx=1&sn=66ecac1ef588944e42da34e1f5af9d4f&chksm=f9927535cee5fc232fda8819fa58e36288a6652776414d38f1f3a40e6ca5749feae3f5aed616#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50178b1ebf56ac4bffa41970a011797b)  ![](/assets/new.png) 
-- [2026-03-13-“龙虾”创始人指责腾讯抄袭！不是开源吗？！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529429&idx=1&sn=bb395a9eb92a62cb9ea3213925248737&chksm=f9927504cee5fc12ef1fececbb6371ba677eb9a3040c990d30e51da421ad16805d8592f37631#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df4d1e17338ed6713be0d7ca5e231d67)  ![](/assets/new.png) 
+- [2026-03-17-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529455&idx=1&sn=9e4846fe4d0eac846bf48b24ccd4ba8e&chksm=f992753ecee5fc280e28334ac178e44c84756a680aa87d24fdb269eb0e97b64df89a614a5788#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c063faca5c7e7962434644f32114ad5)  ![](/assets/new.png) 
+- [2026-03-16-尤雨溪出手了：前端工具链的「大一统」时代](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529444&idx=1&sn=66ecac1ef588944e42da34e1f5af9d4f&chksm=f9927535cee5fc232fda8819fa58e36288a6652776414d38f1f3a40e6ca5749feae3f5aed616#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50178b1ebf56ac4bffa41970a011797b)  
+- [2026-03-13-“龙虾”创始人指责腾讯抄袭！不是开源吗？！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529429&idx=1&sn=bb395a9eb92a62cb9ea3213925248737&chksm=f9927504cee5fc12ef1fececbb6371ba677eb9a3040c990d30e51da421ad16805d8592f37631#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df4d1e17338ed6713be0d7ca5e231d67)  
 - [2026-03-12-保姆级教程｜从零搭建-OpenClaw+飞书-AI-助手，代码配置直接拿](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529415&idx=1&sn=907725c26dd3a10e7d5599f5199da3c4&chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6ebafce392c5ae51c9737b0bf5993a)  
 - [2026-03-11-用对Claude-Code，收获你的“啊哈”时刻](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529412&idx=1&sn=83d32719746ac446247ce8573202041a&chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2730345fc88700ffbec437ca33c950b5)  
 - [2026-03-10-AI-加持的-Vue-3-开发神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529404&idx=1&sn=7898b00d5b6b493cd18b8ccf6593fef8&chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d56d6a3d6679d37c8491ff5444d544d0)  
 - [2026-03-09-WebMCP：让每个网站都能与智能代理互动的新标准](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529373&idx=1&sn=3eb95feba7d888c21c937c803875d60c&chksm=f992754ccee5fc5aca7ff29383da8487980bd94d0f1abff86aeb8f626e4f349431a5f9130876#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=baa60dad95d8dae630d43c2894b7feaa)  
-- [2026-03-06-突发！软考空前大利好！恭喜所有程序员！](http://mp.weixin.qq.com/s/gllBrXcCTks1gnzdbgb5CA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f555b9d611b9a63357c7ab875ef5725)  
 - [2026-03-06-仅一周！Cloudflare用AI重写了-Next.js，提速-4-倍，打包体积锐减-57%](http://mp.weixin.qq.com/s/Qv8y_x_o6ITIiYV4NnW5rQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=189749723a42f8c71797e9bb7e3a6a8b)  
+- [2026-03-06-突发！软考空前大利好！恭喜所有程序员！](http://mp.weixin.qq.com/s/gllBrXcCTks1gnzdbgb5CA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f555b9d611b9a63357c7ab875ef5725)  
 - [2026-03-05-25-万+-OpenClaw-实例暴露，你的电脑可能也在名单里！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529345&idx=1&sn=3aa8bdf0ce95b306e4be60927c6fd77b&chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=09f27966c3469cd2c99bed99b6893909)  
-- [2026-03-04-React-多年第一，被一只龙虾-100-天干翻了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529334&idx=1&sn=01107838d42e78d358c5618f6d537f3b&chksm=f99275a7cee5fcb1ff61c1fe2b00da91cb29986aa9c48e0a849b79b356e38c0cce5ff53c39d0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bba09257d08b2a44277c3ad609e14b66)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -277,8 +277,8 @@
 </summary>
 
 
-- [2026-03-14-刚刚，尤雨溪宣布正式推出Vite-Plus，竟不收费？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517558&idx=1&sn=6f9b01aa83df8ec54d293cda8da71bce&chksm=eb07bd0fdc7034198e0243735dcb1cf228975f48e68770f0885d650b785e0dea6738ab9d10e8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0471c93eac7a646b8a19f18319c38046)  ![](/assets/new.png) 
-- [2026-03-13-Vite-8.0-来了：2.0-以来的最大更新！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517556&idx=1&sn=3840b8b034f235fe1e12070077343f4d&chksm=eb07bd0ddc70341bf549beee0b1d7ba736c651d991410b820a3e0bdae464e4c414d1f87c9cf4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7462d69a40f0f1d48a4b2d0fd747a6f3)  ![](/assets/new.png) 
+- [2026-03-14-刚刚，尤雨溪宣布正式推出Vite-Plus，竟不收费？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517558&idx=1&sn=6f9b01aa83df8ec54d293cda8da71bce&chksm=eb07bd0fdc7034198e0243735dcb1cf228975f48e68770f0885d650b785e0dea6738ab9d10e8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0471c93eac7a646b8a19f18319c38046)  
+- [2026-03-13-Vite-8.0-来了：2.0-以来的最大更新！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517556&idx=1&sn=3840b8b034f235fe1e12070077343f4d&chksm=eb07bd0ddc70341bf549beee0b1d7ba736c651d991410b820a3e0bdae464e4c414d1f87c9cf4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7462d69a40f0f1d48a4b2d0fd747a6f3)  
 - [2026-03-11-重磅！Vite-DevTools-发布！功能一览！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517554&idx=1&sn=d5a1a3391bf0336d7efc8f592d0d39bb&chksm=eb07bd0bdc70341d241360d2cb7b07599a5da1a0aaaa6826824abdfbb536287cfd4321260e5c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=749d90fa5286e50273b5668ed1eac610)  
 - [2026-03-10-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s/0hJRbl2RInw6jQaU7hevGg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8ec7977fe819cad14d012a11d946e774)  
 - [2026-03-06-Vue-Native-最新进展！](http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=edc814033f32e63879e3d861784d3ae0)  
@@ -319,7 +319,7 @@
 </summary>
 
 
-- [2026-03-16-软件为何越做越乱？万字长文讲透软件的“复杂性”](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543011&idx=1&sn=0e7c2b240306fdf1cd61c79b717845a7&chksm=8390dbbbb4e752ad7217c16a822a053d02da8c68bb6b3fded5ed9411b7607e352f509b180475#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1734e0eba7ecfabfcf1d915cdf3fe717)  ![](/assets/new.png) 
+- [2026-03-16-软件为何越做越乱？万字长文讲透软件的“复杂性”](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543011&idx=1&sn=0e7c2b240306fdf1cd61c79b717845a7&chksm=8390dbbbb4e752ad7217c16a822a053d02da8c68bb6b3fded5ed9411b7607e352f509b180475#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1734e0eba7ecfabfcf1d915cdf3fe717)  
 - [2026-03-13-用自然语言替代复杂代码](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542997&idx=1&sn=d444e39531c09899991f1d638ac53475&chksm=8390db8db4e7529b80590f9d507760232b57c975c89e13c60e5c0665d4ce2c72f1828e8e8ed1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fc97c45fba5ae7c9644c49c88c40ec70)  
 - [2026-03-06-AI工作流在淘宝交易舆情巡检上的探索与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542990&idx=1&sn=c87517f8af9020407cf36f636538fbe3&chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=26754fc2bc8a8a8c3bf28c4b7ab0cca8)  
 - [2026-03-04-ICLR-2026-|-基于概念蒸馏的生成式视频复原算法Vivid-VR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542989&idx=1&sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=11962c709d9d70b3ac12e38d170609bf)  

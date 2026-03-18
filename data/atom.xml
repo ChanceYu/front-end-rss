@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-17T18:45:09.319Z</updated>
+    <updated>2026-03-18T01:08:59.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -274,16 +274,16 @@
         <published>2026-03-09T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[炸裂！120+ 个 Vue3 动画组件正式发布开源！解放双手！]]></title>
-        <id>http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g</id>
-        <link href="http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g"/>
+        <title type="html"><![CDATA[Cursor凉了？从月收入5亿美元，到现在无人问津？]]></title>
+        <id>http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA</id>
+        <link href="http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA"/>
         <updated>2026-03-07T00:00:00.000Z</updated>
         <published>2026-03-07T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cursor凉了？从月收入5亿美元，到现在无人问津？]]></title>
-        <id>http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA</id>
-        <link href="http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA"/>
+        <title type="html"><![CDATA[炸裂！120+ 个 Vue3 动画组件正式发布开源！解放双手！]]></title>
+        <id>http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g</id>
+        <link href="http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g"/>
         <updated>2026-03-07T00:00:00.000Z</updated>
         <published>2026-03-07T00:00:00.000Z</published>
     </entry>
