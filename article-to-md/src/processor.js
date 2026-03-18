@@ -308,6 +308,12 @@ export async function processArticle(article, options = {}) {
       imgSource.forEach((el) => {
         const contentWidth = el.getBoundingClientRect().width
         el.querySelectorAll('img').forEach((img) => {
+          let p = img.parentNode
+          for (let level = 0; level < 3 && p; level++) {
+            if (p.nodeName === 'A') break
+            p = p.parentNode
+          }
+          if (p && p.nodeName === 'A') return
           const displayWidth = img.getBoundingClientRect().width
           if (contentWidth > 0 && displayWidth >= contentWidth * blockImageRatio) {
             img.setAttribute('data-rss-block-img', '1')
@@ -582,10 +588,16 @@ export async function processArticle(article, options = {}) {
       },
     })
 
-    // Img with data-rss-block-img (display width >= 30% of container): output on its own line in Markdown
+    // Img with data-rss-block-img (display width >= 30% of container): output on its own line in Markdown. Skip when img is inside <a> so we get [![](url)](href) on one line.
     td.addRule('blockImage', {
       filter(node) {
-        return node.nodeName === 'IMG' && node.getAttribute('data-rss-block-img') === '1'
+        if (node.nodeName !== 'IMG' || node.getAttribute('data-rss-block-img') !== '1') return false
+        let p = node.parentNode
+        for (let level = 0; level < 3 && p; level++) {
+          if (p.nodeName === 'A') return false
+          p = p.parentNode
+        }
+        return true
       },
       replacement(_, node) {
         const alt = node.getAttribute('alt') || ''
