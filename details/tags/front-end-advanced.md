@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-18 22:55:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-19 06:22:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-03-18-全新体验！npm-极速版发布！更快、更全面！](http://mp.weixin.qq.com/s/r13qC7qWLIhPhIsTn2rA4g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c9cede2797d84b4ebdd5edc29ff45553) 
 - [2026-03-15-Skills-Hub-可视化管理桌面工具发布-v0.3：一大波功能更新！](http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72db04d099f0df12c69698eb420078d4) 
 - [2026-03-14-Vite-8-正式发布！架构彻底推翻，构建从-46-秒干到-6-秒，前端工具链变天了](http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9ef8129deaadb6642fe95cce1a28058b) 
 - [2026-03-13-科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6c79a88a7991391d1f88497e0d26613b) 

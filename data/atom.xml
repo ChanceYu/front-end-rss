@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-18T14:55:27.352Z</updated>
+    <updated>2026-03-18T22:21:31.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,20 @@
         <title type="html"><![CDATA[Claude Code vs Codex：AI 编码协作的官方实践全解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529461&amp;idx=1&amp;sn=1fc622e6d90902c982892e71fa34e777&amp;chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529461&amp;idx=1&amp;sn=1fc622e6d90902c982892e71fa34e777&amp;chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd"/>
+        <updated>2026-03-18T00:00:00.000Z</updated>
+        <published>2026-03-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易辟谣！否认“清退全部外包员工”，称只是正常人员优化]]></title>
+        <id>http://mp.weixin.qq.com/s/YaOapyoPfyypjX6_c3P2zg</id>
+        <link href="http://mp.weixin.qq.com/s/YaOapyoPfyypjX6_c3P2zg"/>
+        <updated>2026-03-18T00:00:00.000Z</updated>
+        <published>2026-03-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全新体验！npm 极速版发布！更快、更全面！]]></title>
+        <id>http://mp.weixin.qq.com/s/r13qC7qWLIhPhIsTn2rA4g</id>
+        <link href="http://mp.weixin.qq.com/s/r13qC7qWLIhPhIsTn2rA4g"/>
         <updated>2026-03-18T00:00:00.000Z</updated>
         <published>2026-03-18T00:00:00.000Z</published>
     </entry>
@@ -295,16 +309,16 @@
         <published>2026-03-09T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cursor凉了？从月收入5亿美元，到现在无人问津？]]></title>
-        <id>http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA</id>
-        <link href="http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA"/>
+        <title type="html"><![CDATA[炸裂！120+ 个 Vue3 动画组件正式发布开源！解放双手！]]></title>
+        <id>http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g</id>
+        <link href="http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g"/>
         <updated>2026-03-07T00:00:00.000Z</updated>
         <published>2026-03-07T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[炸裂！120+ 个 Vue3 动画组件正式发布开源！解放双手！]]></title>
-        <id>http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g</id>
-        <link href="http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g"/>
+        <title type="html"><![CDATA[Cursor凉了？从月收入5亿美元，到现在无人问津？]]></title>
+        <id>http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA</id>
+        <link href="http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA"/>
         <updated>2026-03-07T00:00:00.000Z</updated>
         <published>2026-03-07T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[25 万+ OpenClaw 实例暴露，你的电脑可能也在名单里！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529345&amp;idx=1&amp;sn=3aa8bdf0ce95b306e4be60927c6fd77b&amp;chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529345&amp;idx=1&amp;sn=3aa8bdf0ce95b306e4be60927c6fd77b&amp;chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd"/>
-        <updated>2026-03-05T00:00:00.000Z</updated>
-        <published>2026-03-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愤怒！尤雨溪吐槽：Github！还我钱来！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509088&amp;idx=1&amp;sn=36ea2b2ca2bb5f85db948871d0d67dd0&amp;chksm=ce45b1f1f93238e7873bd28b1211ca6eb4d2a1b51d957980823fc0ec77cdeecd6361edba1c93#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509088&amp;idx=1&amp;sn=36ea2b2ca2bb5f85db948871d0d67dd0&amp;chksm=ce45b1f1f93238e7873bd28b1211ca6eb4d2a1b51d957980823fc0ec77cdeecd6361edba1c93#rd"/>
-        <updated>2026-03-05T00:00:00.000Z</updated>
-        <published>2026-03-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3663期】如何用 Ollama 在本地运行并定制专属 LLM]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd"/>
         <updated>2026-03-05T00:00:00.000Z</updated>
         <published>2026-03-05T00:00:00.000Z</published>
     </entry>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-18 22:55:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-19 06:22:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-03-18-全新体验！npm-极速版发布！更快、更全面！](http://mp.weixin.qq.com/s/r13qC7qWLIhPhIsTn2rA4g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c9cede2797d84b4ebdd5edc29ff45553) 
 - [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=faf433affe522ee3f47ca53649f0423a) 
 - [2026-03-15-重磅！尤雨溪宣布-Vite+-开源，所有人免费用，这次前端工具链真要大一统了](http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c15d6501c0e89f7ba3a9aaca59d467fa) 
 - [2026-03-14-Vite-8-正式发布！架构彻底推翻，构建从-46-秒干到-6-秒，前端工具链变天了](http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9ef8129deaadb6642fe95cce1a28058b) 

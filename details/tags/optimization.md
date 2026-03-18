@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-18 22:55:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-19 06:22:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,8 @@
 
 
 
+- [2026-03-18-网易辟谣！否认“清退全部外包员工”，称只是正常人员优化](http://mp.weixin.qq.com/s/YaOapyoPfyypjX6_c3P2zg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=601ccf647d529ae925b009e87ba5f9c6) 
+- [2026-03-18-全新体验！npm-极速版发布！更快、更全面！](http://mp.weixin.qq.com/s/r13qC7qWLIhPhIsTn2rA4g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c9cede2797d84b4ebdd5edc29ff45553) 
 - [2026-03-16-【第3670期】AI-工程实战：Claude-Code-团队总结的六条反直觉缓存法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278747&idx=1&sn=123edfcd2136f85e486428c863008faf&chksm=bca29b86b72625b42750c50b71e0dbb486984ae071eb3a19519ccdac9a84eec77ac006a756b8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8717aa9d5a98377bd08ed373d10be35b) 
 - [2026-03-13-Nuxt-淘汰！尤雨溪推荐全新框架，极致性能，体验感拉满！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509304&idx=1&sn=c5a156762cf10ded43dee28b9f118c12&chksm=ce45b0a9f93239bf87feb0e7eb75033dd37af81c6dd756c829d5edaf0a141c2b04b23fd22da8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a40e3d14c1fa570e7862d9f73a9fe700) 
 - [2026-03-09-uni-app-重生！速度提升-83%，更强、更快、更智能！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509153&idx=1&sn=a871c6d73d46f06a4d645b200e5c944e&chksm=ce45b130f93238262f06968a3e4d4c211259fabf24c0f4a7143d99a8e213983fd47cc1fd486d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7bf5c04c5d2c00528915be23c0b6ba62) 
