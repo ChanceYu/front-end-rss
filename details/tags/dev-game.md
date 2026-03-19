@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-19 06:22:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-19 09:40:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -11,13 +11,10 @@
 - [2025-10-17-我写出了-Threejs-版城市天际线？！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623197&idx=2&sn=cbf51fa66ef70b4083aeda9acee3ffdc&chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd) 
 - [2025-09-24-【第3594期】拥抱新一代-Web-3D-引擎，Three.js-项目快速升级-Galacean-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277508&idx=1&sn=c3bf6d777fa78916a2def84141deeea5&chksm=bc435a6772de5b27066850c713fd01830189809ff74015308d7fe6c84f10df04823f9095fab9&scene=0#rd) 
 - [2025-06-09-苹果炮轰推理模型全是假思考！4个游戏戳破神话，o3/DeepSeek高难度全崩溃](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622594&idx=1&sn=23fe1edd76ee3d9483575903761f95d4&chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd) 
-- [2025-05-21-字节「AI+前端」新战场：会写Three.js的，薪资比React开发高30%](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504402&idx=1&sn=bd37ee60282255c426cff119cac99738&chksm=ce45c783f9324e957fb36eac1d9f4e37d5a56fbd378843b19070b1329ffa5cdb2e4d8931ca5b#rd) 
 - [2025-04-25-2025淘宝春晚互动小游戏技术方案揭秘](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539808&idx=1&sn=dff0ea411852ebbbb92108a2a3ae4d7b&chksm=8390cf38b4e7462e4816d3da3450c399dbc47ed5c701b83aee29b6c5e89f0edf66611eaba32a#rd) 
 - [2025-03-28-老板花一万大洋让我写的艺术工作室官网？！-HeroSection-再度来袭！Three.js](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622265&idx=1&sn=bb736dcb1d0656d847c9d85c76377b7b&chksm=80225cb8b755d5ae8a035a52e74a3c6e0dbc1c223d7501d7468da38854f63ea31e569ddbee82#rd) 
 - [2025-03-24-【第3477期】基于three.js的虚拟人阴影渲染优化方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276062&idx=1&sn=3587469f07550ed878101b65b85c6ef1&chksm=bca9bbe8b6c4ea29dc28f446cc3d7c3bbce5fca76df57482c4b01b2588eeee5946ff8bb203b0&scene=0#rd) 
 - [2025-03-14-基于three.js的虚拟人阴影渲染优化方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525585&idx=2&sn=8f40b6f9f5c5e10de2ce67129dbd7a3d&chksm=f9926200cee5eb1651cc4c08d3d5f166d8a7d1961022da8c41e16c42fa421235619af15d7fab#rd) 
-- [2024-12-28-使用-Canvas-实现一个【贪吃蛇】小游戏！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501874&idx=1&sn=6462542575474aca99fb3745a50b941f&chksm=ce45dda3f93254b52b724565fddf8eacba4669d1e2d54675d13ca3387496e7e6ad1fee3a1932#rd) 
-- [2024-12-21-前端给客户实现了一个【五子棋】的小游戏，有点6！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501766&idx=1&sn=94e09d23b31b4e8779547ad003e3f4db&chksm=ce45d257f9325b4148f4226bef0ec3227cd776a06230365307dd4d2473a93b9dc9197199882e#rd) 
 - [2024-12-07-用Three.js搞个炫酷风场图](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524571&idx=1&sn=8ea78c7ca6679f73b8f308f137fdbef1&chksm=f992660acee5ef1cfde89358f6fe2d8e88996edbf5e5d8bb2436d98aec9e6c65c4d4a7763289#rd) 
 - [2024-05-07-2024-抖音欢笑中国年五：Wasm、WebGL-在互动技术中的创新应用](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505746&idx=1&sn=68227cec19ed79ad5ba192025300ce09&chksm=cea96053f9dee9453c281bd6923194da6781c4834c8ef6f876f7d1b48528c2ed7f4e8616c62a#rd) 
 - [2024-01-26-【第3181期】webgl-实现透明视频动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268913&idx=1&sn=5cff163a8f7bd3085052f5264baeb99c&chksm=bd48feb58a3f77a3687252439442bc9a822833e4733d1ea5849abb8e205caf88f44d37b1c87b#rd) 
@@ -29,7 +26,6 @@
 - [2023-09-04-【第3048期】CSS-也能实现碰撞检测？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265614&idx=1&sn=0e4eaacba002d352a557b73517eb605c&chksm=bd48c3ca8a3f4adcb9e56520f9b1f5a8a97b54f38150fb615fe86dca632ece62acf695959d9b#rd) 
 - [2023-08-31-Threejs-地图3D可视化](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515960&idx=2&sn=35031a5e092293a4cd56d63752c3656a&chksm=f992b9e9cee530ff141bb2a1944c82f49200abf6a12651928ac8a1984b8177f3aa082205c288#rd) 
 - [2023-08-28-精读《算法题---地下城游戏》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487140&idx=1&sn=5d852d38970d2bc8b85e36766e1069ec&chksm=fc86286ecbf1a178797d43b1038227095d67f1c82ffde95d0ab140aaa9583b1d8433741d2d55#rd) 
-- [2023-08-19-分享10个Three.js相关的开源库](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490020&idx=1&sn=1bdf5cec8d95ff156ac52a1f74b7f3be&chksm=ce460c75f93185637437ed2a6973b999e3eb8377a79d919f2c04995a2628d5d3ae8da18732f4#rd) 
 - [2023-08-14-用-TypeScript-编写一个-2D-格斗游戏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515713&idx=1&sn=8becfa07c86f988b7c1cbc6af81f854f&chksm=f992b890cee531868885b6f7766780181424d8f9d3fd7bfc43108650f6ec13a61f24253831e5#rd) 
 - [2023-08-10-基于vue3+threejs实现可视化大屏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515617&idx=1&sn=a600d7d4c025e52cbde401434cf6d90f&chksm=f992bb30cee53226febadbb767d8549efdba50f6adbe72f7eda4f952e4f941edd28766d7754a#rd) 
 - [2023-08-06-Vue3+Pinia+Koa+Three.js-全栈电商项目总结复盘](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515588&idx=1&sn=6048e4158c64c1e24b9b68766ed31d9e&chksm=f992bb15cee53203f84d5f2d2a74133283869b84db0569fb53025de7479643859336955c1370#rd) 
@@ -71,7 +67,6 @@
 - [2022-02-27-Canvas在超级玛丽游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061347&idx=3&sn=585cb7f75ff968542733b542cbf855fa&chksm=87c42373b0b3aa65e751633354a1c94727ac95af1e28c5585a08c433f0f7ff61c275ab9c0af1#rd) 
 - [2022-02-12-Three.js-实现-2022-冬奥主题-3D-趣味页面](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597221&idx=1&sn=c497dc8da369ae8e470c85d3ba8e4bbc&chksm=8022fe64b7557772b85b7107f14622e29783ffe5b14b8c13a89265baf1a00a0f84cadab5b7dd#rd) 
 - [2022-02-07-Three.js-实现-2022-冬奥主题-3D-冰墩墩-趣味页面](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503089&idx=2&sn=36f5c5f151d1fc6d758ddb93c702f95c&chksm=f992ca20cee543363b08f6fbed1970d34efa4070a509b32c6d8669679e3336f8514b97cd7c1c#rd) 
-- [2022-01-26-想进阶Canvas吗？我熬夜写了3个有趣的小游戏！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485230&idx=1&sn=fbca66fb8092089d61edbb41e94e4b02&chksm=ce4612bff9319ba9c52c3773f9baf81418399235a579ea3fc5276aa282ba24b36b3f10a4f9bd#rd) 
 - [2021-12-20-从WebGL到WebGPU，网页图形的全新时代](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512172&idx=1&sn=7527199067c4f022fd10d2f0f14a528c&chksm=f952052fce258c392f707f840b11f1c14a50b1c8869d656421e734c7b5796bd9a7248d6815bb#rd) 
 - [2021-12-16-新兴活跃在直播和游戏等各行业中的虚拟角色，你了解过了没？](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=1&sn=a6c86f0de01a8ab2d1c9dc5ffb78616c&chksm=ec47a6dedb302fc81e6c7c83529b82baded0ae568a396614c19887bc945c57e8b1786898bb52#rd) 
 - [2021-07-23-科技爱好者周刊（第-168-期）：游戏《底特律：变人》](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html) 

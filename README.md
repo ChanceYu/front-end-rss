@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-19 06:22:29，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-19 09:40:02，:rocket: 更新条数: +0， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,7 +23,6 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -141,27 +140,6 @@
 - [2025-11-16-印度迎来AI工具“0元购”时代！OpenAI、谷歌等巨头内心os：别急，先让他们上瘾，我们再来收费](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526362&idx=1&sn=534112b862b7b641c0cbd3f86fa5d48f&chksm=f952d299ce255b8feffa5fc55414d7d748826d70a7cc4cfac0b8476d94c2e3bf2b87349cdb3f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5076164405d2ee1b6544eef3ab129e03)  
 - [2025-11-11-完整前端代码突然公开？苹果把App-Store“老底”都揭了，开发者社区炸锅！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526357&idx=1&sn=6ef10df8180a60a78224c93566659990&chksm=f952d296ce255b80ecd68e067e2fb215fe727f80c7c370415b28662f6a0c1a40133fdac2f7d7#rd) 
 - [查看更多 >](/details/前端之巅.md)
-
-<div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="前端之神">
- 前端之神
-</summary>
-
-
-- [2026-03-18-全新体验！npm-极速版发布！更快、更全面！](http://mp.weixin.qq.com/s/r13qC7qWLIhPhIsTn2rA4g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c9cede2797d84b4ebdd5edc29ff45553)  ![](/assets/new.png) 
-- [2026-03-18-科大讯飞辟谣！否认“裁员70%、只给0.6n补偿、封杀员工”](http://mp.weixin.qq.com/s/xJoK1q9rqBvv2rsVa1AzQg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7c97a4c66282bff8e28f6d3bcefeb392)  ![](/assets/new.png) 
-- [2026-03-18-工资决定家庭地位：-1、月薪3000：回家主动包揽洗碗拖地，家务全包不吭声-2、月薪4000：可以发表意见，但最终听另一半安排-3、月薪5000：日常小事你说了算，大事一起商量-4、月薪6000：换家电、报兴趣班，基本你拍板-5、月薪8000：节假日去哪玩，主要听你的安排-6、月薪10000：遇事有底气说一句“这钱我来出”-7、月薪15000：家里的财务规划，基本由你定方向-](http://mp.weixin.qq.com/s/RB_kHiqj33vpIsf9OYw9dQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a06688f9abf1f4aeb40563ad778da7e8)  ![](/assets/new.png) 
-- [2026-03-18-网易辟谣！否认“清退全部外包员工”，称只是正常人员优化](http://mp.weixin.qq.com/s/YaOapyoPfyypjX6_c3P2zg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=601ccf647d529ae925b009e87ba5f9c6)  ![](/assets/new.png) 
-- [2026-03-17-统一前端框架？JS-全新语法，让-Vue、React-都慌了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509463&idx=1&sn=918b22cf185465669d3f7e65a05646df&chksm=ce45b046f93239500ceb336a7574fb56e28c8bb40f67271f8c43ae04d674577c3f3895df32f8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6519cd30ff78eff8b4faabbd9fca38)  
-- [2026-03-16-全体起立！AI-版-Chrome-正式推出！前端开发进入新时代！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509426&idx=1&sn=2f8f879274864fa7c876a7a9c09b75b5&chksm=ce45b023f9323935d1073630053896fd8f33421006d999ba9605f1ff0ad47f596f00267658ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e62923a2ddf00637b71ce055a39a19f7)  
-- [2026-03-15-打钱了！OpenClaw之父怒喷腾讯后，腾讯真给OpenClaw打钱了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509409&idx=1&sn=fb4ebd4be43e6a1df9854e78fa5fc8e1&chksm=ce45b030f9323926151c18e351c2b7e5a85bbd338ba7d2028bddcd6674882d209b70565a8682#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f9e27ed6c1e541c88f9492447ae505fe)  
-- [2026-03-14-里程碑！尤雨溪：苹果Apple官网引入Vite-+-Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509329&idx=1&sn=592863213bbaaddb725b40640014b886&chksm=ce45b0c0f93239d6cfc75e278bfff910d1227e05868bf6a7f206c0525df71635bc5acee6fc35#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2efdc011d6603fc561dab81e4c71159c)  
-- [2026-03-13-Nuxt-淘汰！尤雨溪推荐全新框架，极致性能，体验感拉满！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509304&idx=1&sn=c5a156762cf10ded43dee28b9f118c12&chksm=ce45b0a9f93239bf87feb0e7eb75033dd37af81c6dd756c829d5edaf0a141c2b04b23fd22da8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a40e3d14c1fa570e7862d9f73a9fe700)  
-- [2026-03-12-狂喜！安装龙虾（OpenClaw）国家补贴1000万Tokens！](http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ff6f1647e04ca402ee2945ca1bc01b1f)  
-- [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
 </details>

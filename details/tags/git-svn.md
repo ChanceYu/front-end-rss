@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-19 06:22:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-19 09:40:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 版本控制
 
@@ -7,8 +7,6 @@
 
 
 
-- [2026-03-05-愤怒！尤雨溪吐槽：Github！还我钱来！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247509088&idx=1&sn=36ea2b2ca2bb5f85db948871d0d67dd0&chksm=ce45b1f1f93238e7873bd28b1211ca6eb4d2a1b51d957980823fc0ec77cdeecd6361edba1c93#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9744d542b9ff1c0206cd32380f1dbe05) 
-- [2026-01-31-stars-高达50w+！Github-爆火的-10-个值得学习的-AI-项目！学到了好多！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247508610&idx=1&sn=37f34326e37f4855cf0b606a2cc4f458&chksm=ce45b713f9323e05e45af6128758b4819fb91bbe2c1ff581e8075c53fbe842bae73fb8ac339a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac69df9591acedcddcf5b3b68cf3ec60) 
 - [2026-01-29-Clawdbot-空前爆火！github-一天涨-5w+-Star！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529096&idx=1&sn=9013f71a4c3a8ead2f6cd6a76993c29b&chksm=f9927459cee5fd4f964e0208d3a29163b45f609276e841023d9d717cdd1823ca0a241bb8a45c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=971c10d06cb51f2941a4ee88d05122f9) 
 - [2026-01-20-炸锅了！腾讯突然给-GitHub-发函，下架-4000-多个微信聊天记录相关开源仓库。网友：自己的记录都不让导出？](http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=075d66de474bfad95b00778a0b5d5403) 
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759) 
@@ -23,14 +21,12 @@
 - [2025-07-09-印度程序员一人兼-4-份全职，还拿下年薪-20-万美元-Offer：请病假的时候，竟在-GitHub-上给别家写代码？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622759&idx=1&sn=610ba886a63c4f8654b526acd838031a&chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd) 
 - [2025-06-16-GitHub-第-10-亿个仓库封神了！官方祝贺认证，全球程序员笑翻：就爱这野路子！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622639&idx=1&sn=ba4890f461f44440d9b601821f75a005&chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd) 
 - [2025-06-06-科技爱好者周刊（第-351-期）：GitHub-Issues（几乎）是最好的笔记应用](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=82e11c9ca5f9589a31dcc4c7e7005826) 
-- [2025-06-02-2025年04月-GitHub-十大热门项目](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504545&idx=1&sn=514cef4c05f796dd70769da446c56778&chksm=ce45c730f9324e26828d145bb54917ee50e40f4e53a32d82a5f06b47fad538c7c9327cf97006#rd) 
 - [2025-05-29-【第3519期】使用一条-Git-命令推送整个分支栈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276581&idx=1&sn=8e497d9d26636035d7d72febd2b7170a&chksm=bcaf81749157d587f15e421303f7b0e72e517484f0d6d850ff46f772c77227f20452ddf6785f&scene=0#rd) 
 - [2025-05-08-【第3504期】清理已失效的分支](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=1&sn=4ede1b072f0a2de0722d43b45e7a0451&chksm=bc669dd009605d8e0db1bcf03e65a1331ad9aceb9d030df477b34713bf9d1a0870b423acf30f&scene=0#rd) 
 - [2025-04-14-GitHub官方回应中国无法访问的问题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622328&idx=1&sn=94374676972fad8f0cba60ff5baa3682&chksm=80225c79b755d56fd5b4e884e5b0b62de54f01371cba0ed7c633104f7e4371c680734a314b87#rd) 
 - [2025-04-13-突发！GitHub-屏蔽中国-IP](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622318&idx=1&sn=524f6c6ea618b870bd390eb933d44075&chksm=80225c6fb755d579557601e8b0ae0608415fbd808ead0efd95daeaa568ad3a108053177c8f29#rd) 
 - [2025-03-19-历时-5-年，这款开源全栈框架火爆问世，GitHub-狂揽-15K-星！网友：不支持-Vue，差评](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622204&idx=1&sn=f8bb4eb437dbff2e9a5b7b49b4cdb4e8&chksm=80225cfdb755d5ebf591550523fbd0ddf79eb9121d96c2708d34efdc8f9e3014fc00f0f3329a#rd) 
 - [2025-01-10-aiCoder：利用AST实现AI生成代码的合并工具](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525026&idx=1&sn=136a4dbf1cbce1071b3841669ccd3fde&chksm=f9926473cee5ed6522b301bd4ee6bc738526c923fdd7ea6522b63a76df4e498fafe854166cdb#rd) 
-- [2025-01-10-Vue-的-style-加了-scoped，居然也会样式冲突？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502059&idx=1&sn=b388554bde5cb2bdefd81f4206c38155&chksm=ce45dd7af932546c5e05174409242f43923c03de4a5c89b0cb1135e31f023078b3a53799ad19#rd) 
 - [2025-01-10-【早阅】aiCoder：利用AST实现AI生成代码的合并工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275298&idx=1&sn=5d1d7b8da48439333221491e87cd084b&chksm=bc647f685171f0076fec5ac4ce2672854abcb4f363217989f21c68252c292d9f2aecd96e4611&scene=0#rd) 
 - [2025-01-07-2024-年-GitHub-上-star-增长最多的前端-JavaScript-项目](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516982&idx=1&sn=5e7d377669d76dedaafd1c012df84534&chksm=eb07bb4fdc703259344bdf0ee7c7d2ae9bf735362088cad972ccbe651c6ab9d45f693340ca80#rd) 
 - [2024-12-23-只会用-2005-年的-Git-老命令？这-7-个-Git-新命令，很实用！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524787&idx=1&sn=bb288f43005c840c1987d602c8c72ca2&chksm=f9926762cee5ee749c02e35b965784638bcd8687caa2eb94786bcbe685fc69455739fa96776c#rd) 
@@ -51,9 +47,7 @@
 - [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501) 
 - [2023-09-06-开启高效前端规范开发之旅！ESLint-+-Prettier-+-husky-+Commitizen](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513914&idx=1&sn=584d5ecbd7deac7243be1ab8cdc01d49&chksm=eb078f43dc700655d130ff79dc2545417a861a3ff7905280196edbb95564c603f4b9f9626cc4#rd) 
 - [2023-08-27-一个-Github-Star-值多少钱？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513839&idx=2&sn=44977e1d7885409d9dee031942e811c5&chksm=eb078e96dc70078065e0eef70ef67588bde4bca66ffb8f38f5ad556ea7445982fcdeb429dc57#rd) 
-- [2023-07-31-10分钟带你体验github-actions，以后简历可以写-CI/CD-了~亮点！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489814&idx=1&sn=c4e11cac6d52fa01604a9c385af134e9&chksm=ce460c87f931859137ac93b0b2bb308895c251f5e84198d2fb00df208fef51d8d035e0f96956#rd) 
 - [2023-07-14-【第2998期】逆向分析了Github-Copilot](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263858&idx=1&sn=b701da3cdb53378c14a1edd286a15a68&chksm=bd48caf68a3f43e0a1668df432413adef02a255ae08066376bbd9ee3d2e419009c5025c08461#rd) 
-- [2023-07-05-这个前端应用在GitHub7.7K-Star，竟是AI编程做出来的](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489327&idx=1&sn=39f18d52f6d67514c5767cb441422de0&chksm=ce4602bef9318ba8f7b7ffae11ef1d201e5a14b684269ec70ab3d3ea48a19bc04bad98837283#rd) 
 - [2023-06-14-【第2971期】前端开发如何更好的避免样式冲突？级联层CSS@layer](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263239&idx=1&sn=c684aa4e5b5a523999061c2f0c52de5e&chksm=bd48c8838a3f4195a4b4ed385608e341a3c96ad833172e9dbe68acb21cfc15df27bee4334338#rd) 
 - [2023-06-12-这些-Github-项目，藏着-React-最前沿的技术](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511786&idx=1&sn=6d0deec19f578de151db9c18a7d85322&chksm=eb079693dc701f856566bf75af5c6f8150bfe34060640e1cd2a3123cdd2401cabae7c2b350aa#rd) 
 - [2023-06-08-【第2965期】Github-Copiolt：如何提升开发者的生产力和幸福感？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263037&idx=1&sn=c598ff09475d448d3a52b073208c1a7b&chksm=bd48c9b98a3f40aff5ba4873319c8311dc38d454dded01bfcb724dd42922a702877999245894#rd) 
@@ -63,7 +57,6 @@
 - [2023-02-08-奇了怪了，输入法和JS-Enter回车提交冲突](https://www.zhangxinxu.com/wordpress/2023/02/js-enter-submit-compositionupdate/) 
 - [2023-01-06-【第2829期】Monorepo-下-Git-工作流的最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260181&idx=1&sn=aa8055a7b6a253fe95e638b314932d8d&chksm=bd48dc918a3f5587cba4b8905834eae7ab1228441c0d24b50616e581ef077432fc465f2cab2d#rd) 
 - [2022-12-20-【第2817期】git-worktree-的使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259867&idx=1&sn=12ef92b411ac90347e12f76b31fa9bd6&chksm=bd48da5f8a3f53494da73dffb6ff6d21f0e53243e082e3548c0787421c94c9d71a518927372d#rd) 
-- [2022-11-18-工作中如何使用-Git](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487425&idx=1&sn=c522a7efd73837e02f5c2fb6e6560484&chksm=ce461a50f93193465f097f6e95810bfaef66da69eb262b763bb66288eb11d15a05717cefd38d#rd) 
 - [2022-11-15-Git-是如何工作的](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451064549&idx=1&sn=3922357763a2ef0c346cb4c792f1f523&chksm=87c45ff5b0b3d6e3491a22c1e0c6acab926ad5c7f2457967a81973e67e96c6bdf150c1dd9de5#rd) 
 - [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html) 
 - [2022-09-04-东软集团回应成都核酸系统异常；GitHub即将下线Trending功能；Flutter-3.3发布；英伟达披露芯片事件最新进展](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517754&idx=1&sn=d1c6cb20aae550bb810c05f881d557e9&chksm=f9523379ce25ba6f2c48a428c59e54bde179b79884b7297348173d63fe31b81275083380959a#rd) 
@@ -85,7 +78,6 @@
 - [2022-05-01-15K-Star！Github-上最火的低代码开发平台！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602818&idx=1&sn=0c0698b0ad4c13b6e55e01e737ba8081&chksm=8022e843b7556155f30ca45b17d247aea1f49a2058ba5eed6368db96e3e4ae6310769a269a4e#rd) 
 - [2022-04-25-「6.1K-Star-项目推荐」github主页”快速装修“神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506335&idx=1&sn=10371a613870bf32fdb6b1fc4f04b6e0&chksm=f992df4ecee5565881b65cc9d70ea81931e41ee4aaa6048ffc02e6a93e0e22463a2af15c05ac#rd) 
 - [2022-04-24-不记得-Git-命令？-懒人版-Git-值得拥有！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602407&idx=2&sn=833ffb029cb5e90cd6e21fca4a005bbf&chksm=8022ea26b7556330c2ea0174e83766f4153c4ca77ab26e6794698e8a271803d15c6fb27e0230#rd) 
-- [2022-04-09-三心给大家分享一个阅读Github项目代码的小技巧~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486076&idx=1&sn=46ae2cd78ca5803765ec848724558317&chksm=ce461fedf93196fb4ce8ed281f42b490859c4d288e977c71940369a7365f4bf270b4a353b3d4#rd) 
 - [2022-04-05-手摸手教你docker+jenkins+gitlab部署你的前端项目](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505035&idx=1&sn=b4053ac60fa18971111bb378d1d60958&chksm=f992d25acee55b4cb147eb75625e21ae866be8e747b0a265052355ae491898761365b687582a#rd) 
 - [2022-03-22-Git不要只会pull和push，学学这5条提高效率的命令](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247504460&idx=1&sn=92f79b1fe622c6f1e22c5a106e471716&chksm=f992d49dcee55d8b248a14417049a430969621ac531d3331480c2f141d2a8035a3897d8b606f#rd) 
 - [2022-03-17-微前端qiankun+docker+nginx配合gitlab-ci/cd的自动化部署的实现](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247504311&idx=1&sn=7ff2f21947180037565ddb36f29975d9&chksm=f992d766cee55e708b50bdc5ddf93be2629b22fe002b4d601215be3dbcb5802d74df594b5f25#rd) 
