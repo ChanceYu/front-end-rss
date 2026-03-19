@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-19T06:43:25.855Z</updated>
+    <updated>2026-03-19T14:40:20.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Petition calls for ban on AI-generated code in Node.js core]]></title>
+        <id>https://nodeweekly.com/issues/616</id>
+        <link href="https://nodeweekly.com/issues/616"/>
+        <updated>2026-03-19T00:00:00.000Z</updated>
+        <published>2026-03-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Coding前端实践后的复盘总结]]></title>
         <id>http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[TypeScript 6.0：迄今最值得关注的变化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529296&amp;idx=1&amp;sn=0537fbc2930833c213ed81ae06a2e747&amp;chksm=f9927581cee5fc97541fe05a1697bcddf2b60040c71c04c40a8c252c391d1b18a055c7eff1a7#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529296&amp;idx=1&amp;sn=0537fbc2930833c213ed81ae06a2e747&amp;chksm=f9927581cee5fc97541fe05a1697bcddf2b60040c71c04c40a8c252c391d1b18a055c7eff1a7#rd"/>
-        <updated>2026-03-02T00:00:00.000Z</updated>
-        <published>2026-03-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3660期】别再为覆盖率而写测试：真正可靠的单元测试应该这样做]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278637&amp;idx=1&amp;sn=f6788ebf5585eda0b718b2f724366fac&amp;chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278637&amp;idx=1&amp;sn=f6788ebf5585eda0b718b2f724366fac&amp;chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&amp;scene=0#rd"/>
         <updated>2026-03-02T00:00:00.000Z</updated>
         <published>2026-03-02T00:00:00.000Z</published>
     </entry>
