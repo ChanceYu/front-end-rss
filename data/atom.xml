@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-18T22:21:31.504Z</updated>
+    <updated>2026-03-19T06:43:25.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,20 +29,6 @@
         <published>2026-03-18T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网易辟谣！否认“清退全部外包员工”，称只是正常人员优化]]></title>
-        <id>http://mp.weixin.qq.com/s/YaOapyoPfyypjX6_c3P2zg</id>
-        <link href="http://mp.weixin.qq.com/s/YaOapyoPfyypjX6_c3P2zg"/>
-        <updated>2026-03-18T00:00:00.000Z</updated>
-        <published>2026-03-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新体验！npm 极速版发布！更快、更全面！]]></title>
-        <id>http://mp.weixin.qq.com/s/r13qC7qWLIhPhIsTn2rA4g</id>
-        <link href="http://mp.weixin.qq.com/s/r13qC7qWLIhPhIsTn2rA4g"/>
-        <updated>2026-03-18T00:00:00.000Z</updated>
-        <published>2026-03-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【第3672期】CSS 迎来原生随机能力：random() 与 random-item() 初探]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278766&amp;idx=1&amp;sn=f12dfaf066546ca3b50d6cd4d9462fcd&amp;chksm=bcdcdd4b365f2e4cb85cb53e213515970d946d9f9fad8114ec27121d1b4163008ee2aa50a97c&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278766&amp;idx=1&amp;sn=f12dfaf066546ca3b50d6cd4d9462fcd&amp;chksm=bcdcdd4b365f2e4cb85cb53e213515970d946d9f9fad8114ec27121d1b4163008ee2aa50a97c&amp;scene=0#rd"/>
@@ -53,13 +39,6 @@
         <title type="html"><![CDATA[浅学WebTransport API：下一代Web双向通信技术]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/"/>
-        <updated>2026-03-17T00:00:00.000Z</updated>
-        <published>2026-03-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[统一前端框架？JS 全新语法，让 Vue、React 都慌了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509463&amp;idx=1&amp;sn=918b22cf185465669d3f7e65a05646df&amp;chksm=ce45b046f93239500ceb336a7574fb56e28c8bb40f67271f8c43ae04d674577c3f3895df32f8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509463&amp;idx=1&amp;sn=918b22cf185465669d3f7e65a05646df&amp;chksm=ce45b046f93239500ceb336a7574fb56e28c8bb40f67271f8c43ae04d674577c3f3895df32f8#rd"/>
         <updated>2026-03-17T00:00:00.000Z</updated>
         <published>2026-03-17T00:00:00.000Z</published>
     </entry>
@@ -83,13 +62,6 @@
         <link href="https://javascriptweekly.com/issues/777"/>
         <updated>2026-03-17T00:00:00.000Z</updated>
         <published>2026-03-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全体起立！AI 版 Chrome 正式推出！前端开发进入新时代！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509426&amp;idx=1&amp;sn=2f8f879274864fa7c876a7a9c09b75b5&amp;chksm=ce45b023f9323935d1073630053896fd8f33421006d999ba9605f1ff0ad47f596f00267658ef#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509426&amp;idx=1&amp;sn=2f8f879274864fa7c876a7a9c09b75b5&amp;chksm=ce45b023f9323935d1073630053896fd8f33421006d999ba9605f1ff0ad47f596f00267658ef#rd"/>
-        <updated>2026-03-16T00:00:00.000Z</updated>
-        <published>2026-03-16T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[48 小时欠谷歌 56 万！三人开发小团队要破产了，只因 Gemini API 密钥被盗用]]></title>
@@ -120,13 +92,6 @@
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[打钱了！OpenClaw之父怒喷腾讯后，腾讯真给OpenClaw打钱了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509409&amp;idx=1&amp;sn=fb4ebd4be43e6a1df9854e78fa5fc8e1&amp;chksm=ce45b030f9323926151c18e351c2b7e5a85bbd338ba7d2028bddcd6674882d209b70565a8682#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509409&amp;idx=1&amp;sn=fb4ebd4be43e6a1df9854e78fa5fc8e1&amp;chksm=ce45b030f9323926151c18e351c2b7e5a85bbd338ba7d2028bddcd6674882d209b70565a8682#rd"/>
-        <updated>2026-03-15T00:00:00.000Z</updated>
-        <published>2026-03-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[18 岁创业者用 OpenClaw 管 16 个 AI Agent，一个人的 Agent 公司怎么运转]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526537&amp;idx=1&amp;sn=28314d27c60bebda882b03976db9bef0&amp;chksm=f952ddcace2554dc0d6243571dd6c6b9e84dc31c22665eee4179695181a8e55db4f0f7219bad#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526537&amp;idx=1&amp;sn=28314d27c60bebda882b03976db9bef0&amp;chksm=f952ddcace2554dc0d6243571dd6c6b9e84dc31c22665eee4179695181a8e55db4f0f7219bad#rd"/>
@@ -148,13 +113,6 @@
         <published>2026-03-14T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[里程碑！尤雨溪：苹果Apple官网引入Vite + Vue]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509329&amp;idx=1&amp;sn=592863213bbaaddb725b40640014b886&amp;chksm=ce45b0c0f93239d6cfc75e278bfff910d1227e05868bf6a7f206c0525df71635bc5acee6fc35#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509329&amp;idx=1&amp;sn=592863213bbaaddb725b40640014b886&amp;chksm=ce45b0c0f93239d6cfc75e278bfff910d1227e05868bf6a7f206c0525df71635bc5acee6fc35#rd"/>
-        <updated>2026-03-14T00:00:00.000Z</updated>
-        <published>2026-03-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Claude 上线组团审代码：一条 PR 最高 25 美元，你的代码库还得"上交"给它]]></title>
         <id>http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw</id>
         <link href="http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw"/>
@@ -172,13 +130,6 @@
         <title type="html"><![CDATA[Vite 8.0 来了：2.0 以来的最大更新！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517556&amp;idx=1&amp;sn=3840b8b034f235fe1e12070077343f4d&amp;chksm=eb07bd0ddc70341bf549beee0b1d7ba736c651d991410b820a3e0bdae464e4c414d1f87c9cf4#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517556&amp;idx=1&amp;sn=3840b8b034f235fe1e12070077343f4d&amp;chksm=eb07bd0ddc70341bf549beee0b1d7ba736c651d991410b820a3e0bdae464e4c414d1f87c9cf4#rd"/>
-        <updated>2026-03-13T00:00:00.000Z</updated>
-        <published>2026-03-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuxt 淘汰！尤雨溪推荐全新框架，极致性能，体验感拉满！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509304&amp;idx=1&amp;sn=c5a156762cf10ded43dee28b9f118c12&amp;chksm=ce45b0a9f93239bf87feb0e7eb75033dd37af81c6dd756c829d5edaf0a141c2b04b23fd22da8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509304&amp;idx=1&amp;sn=c5a156762cf10ded43dee28b9f118c12&amp;chksm=ce45b0a9f93239bf87feb0e7eb75033dd37af81c6dd756c829d5edaf0a141c2b04b23fd22da8#rd"/>
         <updated>2026-03-13T00:00:00.000Z</updated>
         <published>2026-03-13T00:00:00.000Z</published>
     </entry>
@@ -211,13 +162,6 @@
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[狂喜！安装龙虾（OpenClaw）国家补贴1000万Tokens！]]></title>
-        <id>http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ</id>
-        <link href="http://mp.weixin.qq.com/s/BASYR5cOAuiB0YGcpmuAeQ"/>
-        <updated>2026-03-12T00:00:00.000Z</updated>
-        <published>2026-03-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[猛裁1.6万人后，网站再崩6小时、一周4次重大事故！官方“紧急复盘”：跟裁员无关，也不是AI写代码的锅]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624119&amp;idx=1&amp;sn=c0f059d33dc24b12d70e159ef7c729fc&amp;chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624119&amp;idx=1&amp;sn=c0f059d33dc24b12d70e159ef7c729fc&amp;chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd"/>
@@ -225,16 +169,16 @@
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3668期】从 Web Streams 到 Async Iterable：重新思考 JavaScript 流式 API]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[Agent 入门书《Hello-Agents》导读]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent 入门书《Hello-Agents》导读]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3668期】从 Web Streams 到 Async Iterable：重新思考 JavaScript 流式 API]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
@@ -274,13 +218,6 @@
         <published>2026-03-10T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[紧急！这些 JavaScript API 已经废弃！请慎用！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509210&amp;idx=1&amp;sn=5ef97f372f9f3754d9bf1ee625a73a24&amp;chksm=ce45b14bf932385d372158ed2c8851b47ddae0cdd921c6d6e0dfa07cae526b75bb0ecb22713b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509210&amp;idx=1&amp;sn=5ef97f372f9f3754d9bf1ee625a73a24&amp;chksm=ce45b14bf932385d372158ed2c8851b47ddae0cdd921c6d6e0dfa07cae526b75bb0ecb22713b#rd"/>
-        <updated>2026-03-10T00:00:00.000Z</updated>
-        <published>2026-03-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【第3666期】为什么随意使用 JSON.parse() 可能带来安全风险]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278676&amp;idx=1&amp;sn=9c313c6248be12a503a3e9b68a5bbda8&amp;chksm=bcee8071e208ac697ed23d6e28d6f5e5ed07068cce5ef063b78cc343fa7a4da7460bcf44ee8e&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278676&amp;idx=1&amp;sn=9c313c6248be12a503a3e9b68a5bbda8&amp;chksm=bcee8071e208ac697ed23d6e28d6f5e5ed07068cce5ef063b78cc343fa7a4da7460bcf44ee8e&amp;scene=0#rd"/>
@@ -300,27 +237,6 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/"/>
         <updated>2026-03-09T00:00:00.000Z</updated>
         <published>2026-03-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uni-app 重生！速度提升 83%，更强、更快、更智能！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509153&amp;idx=1&amp;sn=a871c6d73d46f06a4d645b200e5c944e&amp;chksm=ce45b130f93238262f06968a3e4d4c211259fabf24c0f4a7143d99a8e213983fd47cc1fd486d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247509153&amp;idx=1&amp;sn=a871c6d73d46f06a4d645b200e5c944e&amp;chksm=ce45b130f93238262f06968a3e4d4c211259fabf24c0f4a7143d99a8e213983fd47cc1fd486d#rd"/>
-        <updated>2026-03-09T00:00:00.000Z</updated>
-        <published>2026-03-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炸裂！120+ 个 Vue3 动画组件正式发布开源！解放双手！]]></title>
-        <id>http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g</id>
-        <link href="http://mp.weixin.qq.com/s/fXY3PTJjdRciQEZRYSV-3g"/>
-        <updated>2026-03-07T00:00:00.000Z</updated>
-        <published>2026-03-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor凉了？从月收入5亿美元，到现在无人问津？]]></title>
-        <id>http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA</id>
-        <link href="http://mp.weixin.qq.com/s/ngKivhu3nJ7xVL_86CC2sA"/>
-        <updated>2026-03-07T00:00:00.000Z</updated>
-        <published>2026-03-07T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI工作流在淘宝交易舆情巡检上的探索与实践]]></title>
@@ -363,5 +279,89 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529345&amp;idx=1&amp;sn=3aa8bdf0ce95b306e4be60927c6fd77b&amp;chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd"/>
         <updated>2026-03-05T00:00:00.000Z</updated>
         <published>2026-03-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3663期】如何用 Ollama 在本地运行并定制专属 LLM]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd"/>
+        <updated>2026-03-05T00:00:00.000Z</updated>
+        <published>2026-03-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node 25.8 adds permission model audit mode]]></title>
+        <id>https://nodeweekly.com/issues/614</id>
+        <link href="https://nodeweekly.com/issues/614"/>
+        <updated>2026-03-05T00:00:00.000Z</updated>
+        <published>2026-03-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML interestfor属性与悬停popover交互效果]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/"/>
+        <updated>2026-03-04T00:00:00.000Z</updated>
+        <published>2026-03-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICLR 2026 | 基于概念蒸馏的生成式视频复原算法Vivid-VR]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542989&amp;idx=1&amp;sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&amp;chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542989&amp;idx=1&amp;sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&amp;chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd"/>
+        <updated>2026-03-04T00:00:00.000Z</updated>
+        <published>2026-03-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 多年第一，被一只龙虾 100 天干翻了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529334&amp;idx=1&amp;sn=01107838d42e78d358c5618f6d537f3b&amp;chksm=f99275a7cee5fcb1ff61c1fe2b00da91cb29986aa9c48e0a849b79b356e38c0cce5ff53c39d0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529334&amp;idx=1&amp;sn=01107838d42e78d358c5618f6d537f3b&amp;chksm=f99275a7cee5fcb1ff61c1fe2b00da91cb29986aa9c48e0a849b79b356e38c0cce5ff53c39d0#rd"/>
+        <updated>2026-03-04T00:00:00.000Z</updated>
+        <published>2026-03-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3662期】快速上手 Claude 技能：从零到可用]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278648&amp;idx=1&amp;sn=89ff449c4a6d350a18230459234e46f3&amp;chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278648&amp;idx=1&amp;sn=89ff449c4a6d350a18230459234e46f3&amp;chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&amp;scene=0#rd"/>
+        <updated>2026-03-04T00:00:00.000Z</updated>
+        <published>2026-03-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js 16 微前端新玩法：Multi-Zone 本地搭建全流程]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529327&amp;idx=1&amp;sn=04f4fe12dc7c5234c8dbdfe35dcc4b72&amp;chksm=f99275becee5fca8737b4cb839fdf5de22fb5cfc146e86d067f32cdc7b6bf8857180da84ea1d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529327&amp;idx=1&amp;sn=04f4fe12dc7c5234c8dbdfe35dcc4b72&amp;chksm=f99275becee5fca8737b4cb839fdf5de22fb5cfc146e86d067f32cdc7b6bf8857180da84ea1d#rd"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <published>2026-03-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3661期】不用 JS 也能精准定位？CSS Anchor Positioning 实战解析]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278643&amp;idx=1&amp;sn=7161d1df5a6028408bd1968b3c91308c&amp;chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278643&amp;idx=1&amp;sn=7161d1df5a6028408bd1968b3c91308c&amp;chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&amp;scene=0#rd"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <published>2026-03-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[External import maps, a big Bun release, and Node.js schedule changes]]></title>
+        <id>https://javascriptweekly.com/issues/775</id>
+        <link href="https://javascriptweekly.com/issues/775"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <published>2026-03-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Coding思考：从工具提效到范式变革，我们还缺什么？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542970&amp;idx=1&amp;sn=231a9b78e5c7e1054aa26e86556e8ed8&amp;chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542970&amp;idx=1&amp;sn=231a9b78e5c7e1054aa26e86556e8ed8&amp;chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <published>2026-03-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 6.0：迄今最值得关注的变化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529296&amp;idx=1&amp;sn=0537fbc2930833c213ed81ae06a2e747&amp;chksm=f9927581cee5fc97541fe05a1697bcddf2b60040c71c04c40a8c252c391d1b18a055c7eff1a7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529296&amp;idx=1&amp;sn=0537fbc2930833c213ed81ae06a2e747&amp;chksm=f9927581cee5fc97541fe05a1697bcddf2b60040c71c04c40a8c252c391d1b18a055c7eff1a7#rd"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <published>2026-03-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3660期】别再为覆盖率而写测试：真正可靠的单元测试应该这样做]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278637&amp;idx=1&amp;sn=f6788ebf5585eda0b718b2f724366fac&amp;chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278637&amp;idx=1&amp;sn=f6788ebf5585eda0b718b2f724366fac&amp;chksm=bcaa91319289e561736c6add219f4797623f41a7238f940aaa82060b0962f4fdc48dc60a01fc&amp;scene=0#rd"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <published>2026-03-02T00:00:00.000Z</published>
     </entry>
 </feed>
