@@ -148,7 +148,7 @@ app.post('/article-to-md/remove-source', async (c) => {
     const rssList = readJsonSync(RSS_PATH)
     const filtered = rssList.filter((item) => item.title !== title)
     if (filtered.length < rssList.length) {
-      outputJsonSync(RSS_PATH, filtered)
+      outputJsonSync(RSS_PATH, filtered, { spaces: 2 })
       rssRemoved = true
       console.log(`[server] Removed from rss.json`)
     }
