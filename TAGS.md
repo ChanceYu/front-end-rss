@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-20 09:05:08。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-20 14:40:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【前端早读课】【第3673期】OpenAI-Codex-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278792&idx=1&sn=d5d40606140e8224dac84f756628efe1&chksm=bc57f25558b97dcf4249ca510430766dc19d8b3b604b9d7e5f935b290d8123140c6f4564fc40&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=029d651d778bae77f033fa1e074531c8)
 - [【Node-Weekly】Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8304d5c228ab03ce9e37e82e6708c689)
 - [【淘系前端团队】AI-Coding前端实践后的复盘总结](http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50bab1a2ffce0d9bee59f3398a642b69)
 - [【程序员成长指北】Claude-Code-vs-Codex：AI-编码协作的官方实践全解析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529461&idx=1&sn=1fc622e6d90902c982892e71fa34e777&chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6b2e8611f47e16e6dce77eb29ca4cf3b)
@@ -49,7 +50,6 @@
 - [【前端之巅】18-岁创业者用-OpenClaw-管-16-个-AI-Agent，一个人的-Agent-公司怎么运转](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526537&idx=1&sn=28314d27c60bebda882b03976db9bef0&chksm=f952ddcace2554dc0d6243571dd6c6b9e84dc31c22665eee4179695181a8e55db4f0f7219bad#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8c2a551fccd6c05e0fe817392312ef5d)
 - [【Nodejs技术栈】Claude-上线组团审代码：一条-PR-最高-25-美元，你的代码库还得"上交"给它](http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e6495254090123c61d08f233ee8e3548)
 - [【Nodejs技术栈】这个-PUA-Skill-火了：用阿里/字节的绩效话术逼-Claude-不敢放弃，一言不合打-3.25](http://mp.weixin.qq.com/s/uHnHWI7a9I_A45sLkRAVBA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b0af42b1bc0b7dc51914e9f1a45a967)
-- [【程序员成长指北】保姆级教程｜从零搭建-OpenClaw+飞书-AI-助手，代码配置直接拿](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529415&idx=1&sn=907725c26dd3a10e7d5599f5199da3c4&chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca6ebafce392c5ae51c9737b0bf5993a)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3fc7a8ae3d8d2fb67633f194f6aea69e)
+- [【前端早读课】【第3673期】OpenAI-Codex-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278792&idx=1&sn=d5d40606140e8224dac84f756628efe1&chksm=bc57f25558b97dcf4249ca510430766dc19d8b3b604b9d7e5f935b290d8123140c6f4564fc40&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=029d651d778bae77f033fa1e074531c8)
 - [【前端早读课】【早说】编程智能体如何重塑工程、产品与设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278776&idx=1&sn=fc8c8fee0bc0af56ee63bb3660aa20e3&chksm=bceea3f4ba25a4a5595fc00d71d94570866cc5e9efccecfe9867d42c4e0d9c33b824d4796c9a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3537b694c55c71f88edf0a1d63a6ab66)
 - [【Node-Weekly】Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8304d5c228ab03ce9e37e82e6708c689)
 - [【淘系前端团队】AI-Coding前端实践后的复盘总结](http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50bab1a2ffce0d9bee59f3398a642b69)
@@ -593,7 +594,6 @@
 - [【张鑫旭-鑫空间-鑫生活】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5d45f581f6b0f5577946686c52eb8c3)
 - [【程序员成长指北】web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529455&idx=1&sn=9e4846fe4d0eac846bf48b24ccd4ba8e&chksm=f992753ecee5fc280e28334ac178e44c84756a680aa87d24fdb269eb0e97b64df89a614a5788#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c063faca5c7e7962434644f32114ad5)
 - [【前端大全】Karpathy紧急删库！AI职业末日图爆火](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624197&idx=1&sn=dd936eb62120c745be060cd2e37dbf67&chksm=802244c4b755cdd205d798a0cc2eb9e8533f38525a5115ee90a5e07a01bb18ce4a531350678f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=927128057ff137a69a6e17b84bc9ec24)
-- [【前端早读课】【第3671期】面向数十亿行数据的虚拟滚动-——-HighTable-的核心技术解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278760&idx=1&sn=93f07b8a785063f053b723366b88dec7&chksm=bc14e5243416169dfc5f3ee8ffc2e58fef17c7d788af187fc916634feabd4f8ec55490fda008&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f56ce0ec928539fca1af42c695558876)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-20T01:04:46.170Z</updated>
+    <updated>2026-03-20T06:39:42.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3673期】OpenAI Codex 最佳实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278792&amp;idx=1&amp;sn=d5d40606140e8224dac84f756628efe1&amp;chksm=bc57f25558b97dcf4249ca510430766dc19d8b3b604b9d7e5f935b290d8123140c6f4564fc40&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278792&amp;idx=1&amp;sn=d5d40606140e8224dac84f756628efe1&amp;chksm=bc57f25558b97dcf4249ca510430766dc19d8b3b604b9d7e5f935b290d8123140c6f4564fc40&amp;scene=0#rd"/>
+        <updated>2026-03-20T00:00:00.000Z</updated>
+        <published>2026-03-20T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Petition calls for ban on AI-generated code in Node.js core]]></title>
         <id>https://nodeweekly.com/issues/616</id>
@@ -176,16 +183,16 @@
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent 入门书《Hello-Agents》导读]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3668期】从 Web Streams 到 Async Iterable：重新思考 JavaScript 流式 API]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3668期】从 Web Streams 到 Async Iterable：重新思考 JavaScript 流式 API]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[Agent 入门书《Hello-Agents》导读]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[AI Coding思考：从工具提效到范式变革，我们还缺什么？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542970&amp;idx=1&amp;sn=231a9b78e5c7e1054aa26e86556e8ed8&amp;chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542970&amp;idx=1&amp;sn=231a9b78e5c7e1054aa26e86556e8ed8&amp;chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd"/>
-        <updated>2026-03-02T00:00:00.000Z</updated>
-        <published>2026-03-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 6.0：迄今最值得关注的变化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529296&amp;idx=1&amp;sn=0537fbc2930833c213ed81ae06a2e747&amp;chksm=f9927581cee5fc97541fe05a1697bcddf2b60040c71c04c40a8c252c391d1b18a055c7eff1a7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529296&amp;idx=1&amp;sn=0537fbc2930833c213ed81ae06a2e747&amp;chksm=f9927581cee5fc97541fe05a1697bcddf2b60040c71c04c40a8c252c391d1b18a055c7eff1a7#rd"/>
         <updated>2026-03-02T00:00:00.000Z</updated>
         <published>2026-03-02T00:00:00.000Z</published>
     </entry>
