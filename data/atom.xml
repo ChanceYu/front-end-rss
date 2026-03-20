@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-20T06:39:42.992Z</updated>
+    <updated>2026-03-20T12:31:28.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[离谱！王自如招个全栈前端工程师，JD 写了六个岗位的活]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523011&amp;idx=1&amp;sn=5598d790ee2c8f18d675e7fdc1f5f431&amp;chksm=e80fd58ddf785c9b22b3db1b90ba57ab704ba2fce8d69fb1eaf7a4f9e87ceceb8156c36f5ba2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523011&amp;idx=1&amp;sn=5598d790ee2c8f18d675e7fdc1f5f431&amp;chksm=e80fd58ddf785c9b22b3db1b90ba57ab704ba2fce8d69fb1eaf7a4f9e87ceceb8156c36f5ba2#rd"/>
+        <updated>2026-03-20T00:00:00.000Z</updated>
+        <published>2026-03-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3673期】OpenAI Codex 最佳实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278792&amp;idx=1&amp;sn=d5d40606140e8224dac84f756628efe1&amp;chksm=bc57f25558b97dcf4249ca510430766dc19d8b3b604b9d7e5f935b290d8123140c6f4564fc40&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278792&amp;idx=1&amp;sn=d5d40606140e8224dac84f756628efe1&amp;chksm=bc57f25558b97dcf4249ca510430766dc19d8b3b604b9d7e5f935b290d8123140c6f4564fc40&amp;scene=0#rd"/>
@@ -22,11 +29,25 @@
         <published>2026-03-20T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[/loop + 远程控制，让 Claude Code 彻底沦为你的牛马]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523002&amp;idx=1&amp;sn=809fd7e4342952db4daa788998ca85ea&amp;chksm=e80fd5f4df785ce2e4e34e4004296ca6d80475245ef90833f4cb56f7d7c2225003a5ccdbf20b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523002&amp;idx=1&amp;sn=809fd7e4342952db4daa788998ca85ea&amp;chksm=e80fd5f4df785ce2e4e34e4004296ca6d80475245ef90833f4cb56f7d7c2225003a5ccdbf20b#rd"/>
+        <updated>2026-03-19T00:00:00.000Z</updated>
+        <published>2026-03-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Petition calls for ban on AI-generated code in Node.js core]]></title>
         <id>https://nodeweekly.com/issues/616</id>
         <link href="https://nodeweekly.com/issues/616"/>
         <updated>2026-03-19T00:00:00.000Z</updated>
         <published>2026-03-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酷！Node.js 终于支持虚拟文件系统了，作者直言：没有 Claude Code 这不可能发生]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523001&amp;idx=1&amp;sn=3179cde6adc1d1a7a75098696090c6c4&amp;chksm=e80fd5f7df785ce120efa401bdf11ed5cd2f27bc047ef6c4eba442a6617f324a9fce89bd760f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523001&amp;idx=1&amp;sn=3179cde6adc1d1a7a75098696090c6c4&amp;chksm=e80fd5f7df785ce120efa401bdf11ed5cd2f27bc047ef6c4eba442a6617f324a9fce89bd760f#rd"/>
+        <updated>2026-03-18T00:00:00.000Z</updated>
+        <published>2026-03-18T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI Coding前端实践后的复盘总结]]></title>
@@ -48,6 +69,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278766&amp;idx=1&amp;sn=f12dfaf066546ca3b50d6cd4d9462fcd&amp;chksm=bcdcdd4b365f2e4cb85cb53e213515970d946d9f9fad8114ec27121d1b4163008ee2aa50a97c&amp;scene=0#rd"/>
         <updated>2026-03-18T00:00:00.000Z</updated>
         <published>2026-03-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 发布节奏大变！从此每年只发一个大版本，每个版本都是 LTS]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247522990&amp;idx=1&amp;sn=fee4f843aecff4d3b1c557a289b6cd4c&amp;chksm=e80fd5e0df785cf6f1c2520e8bd913f1f7c9be4d76acd281ce4f2b8920ed184bc16efe0c6c9f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247522990&amp;idx=1&amp;sn=fee4f843aecff4d3b1c557a289b6cd4c&amp;chksm=e80fd5e0df785cf6f1c2520e8bd913f1f7c9be4d76acd281ce4f2b8920ed184bc16efe0c6c9f#rd"/>
+        <updated>2026-03-17T00:00:00.000Z</updated>
+        <published>2026-03-17T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[浅学WebTransport API：下一代Web双向通信技术]]></title>
@@ -78,6 +106,13 @@
         <published>2026-03-17T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[硬刚 Next.js！尤雨溪隆重推出 Void，Vite 生态终于有自己的"Vercel"了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247522878&amp;idx=1&amp;sn=3d8fcf18a18ab30c35aeca4d4d0789fc&amp;chksm=e80fd570df785c66f45596f8c329a91fc3a562acd31551149195c027ccaa38278df32aa9ccb7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247522878&amp;idx=1&amp;sn=3d8fcf18a18ab30c35aeca4d4d0789fc&amp;chksm=e80fd570df785c66f45596f8c329a91fc3a562acd31551149195c027ccaa38278df32aa9ccb7#rd"/>
+        <updated>2026-03-16T00:00:00.000Z</updated>
+        <published>2026-03-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[48 小时欠谷歌 56 万！三人开发小团队要破产了，只因 Gemini API 密钥被盗用]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624176&amp;idx=1&amp;sn=ca425dffac3520b0df6b941f82248334&amp;chksm=80224531b755cc27f6f0afb18a9498d5f497bfa7030a37d0eaa46a327ffbf7da1a0404d66803#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624176&amp;idx=1&amp;sn=ca425dffac3520b0df6b941f82248334&amp;chksm=80224531b755cc27f6f0afb18a9498d5f497bfa7030a37d0eaa46a327ffbf7da1a0404d66803#rd"/>
@@ -92,16 +127,16 @@
         <published>2026-03-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
-        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
-        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
+        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
+        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
+        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
-        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
-        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
+        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
+        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
+        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
@@ -328,40 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529334&amp;idx=1&amp;sn=01107838d42e78d358c5618f6d537f3b&amp;chksm=f99275a7cee5fcb1ff61c1fe2b00da91cb29986aa9c48e0a849b79b356e38c0cce5ff53c39d0#rd"/>
         <updated>2026-03-04T00:00:00.000Z</updated>
         <published>2026-03-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3662期】快速上手 Claude 技能：从零到可用]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278648&amp;idx=1&amp;sn=89ff449c4a6d350a18230459234e46f3&amp;chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278648&amp;idx=1&amp;sn=89ff449c4a6d350a18230459234e46f3&amp;chksm=bcaac2cf04b318df8234480582e9deb7819b9b7612092b0f69b7bdf9c031b9b7cf67a6181919&amp;scene=0#rd"/>
-        <updated>2026-03-04T00:00:00.000Z</updated>
-        <published>2026-03-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js 16 微前端新玩法：Multi-Zone 本地搭建全流程]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529327&amp;idx=1&amp;sn=04f4fe12dc7c5234c8dbdfe35dcc4b72&amp;chksm=f99275becee5fca8737b4cb839fdf5de22fb5cfc146e86d067f32cdc7b6bf8857180da84ea1d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529327&amp;idx=1&amp;sn=04f4fe12dc7c5234c8dbdfe35dcc4b72&amp;chksm=f99275becee5fca8737b4cb839fdf5de22fb5cfc146e86d067f32cdc7b6bf8857180da84ea1d#rd"/>
-        <updated>2026-03-03T00:00:00.000Z</updated>
-        <published>2026-03-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3661期】不用 JS 也能精准定位？CSS Anchor Positioning 实战解析]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278643&amp;idx=1&amp;sn=7161d1df5a6028408bd1968b3c91308c&amp;chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278643&amp;idx=1&amp;sn=7161d1df5a6028408bd1968b3c91308c&amp;chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&amp;scene=0#rd"/>
-        <updated>2026-03-03T00:00:00.000Z</updated>
-        <published>2026-03-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[External import maps, a big Bun release, and Node.js schedule changes]]></title>
-        <id>https://javascriptweekly.com/issues/775</id>
-        <link href="https://javascriptweekly.com/issues/775"/>
-        <updated>2026-03-03T00:00:00.000Z</updated>
-        <published>2026-03-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Coding思考：从工具提效到范式变革，我们还缺什么？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542970&amp;idx=1&amp;sn=231a9b78e5c7e1054aa26e86556e8ed8&amp;chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542970&amp;idx=1&amp;sn=231a9b78e5c7e1054aa26e86556e8ed8&amp;chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd"/>
-        <updated>2026-03-02T00:00:00.000Z</updated>
-        <published>2026-03-02T00:00:00.000Z</published>
     </entry>
 </feed>
