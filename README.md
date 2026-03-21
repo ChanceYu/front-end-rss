@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-21 22:16:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-22 04:14:01，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -32,7 +32,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -171,6 +171,8 @@
 </summary>
 
 
+- [2026-03-20-为什么越来越多前端开始重看-WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529493&idx=1&sn=8cf92b7ef4c302f8520300bf46b62f6e&chksm=f99272c4cee5fbd27e92a676b16307ac3c014bfc80031bd0b62b0662a8d944f998ecf5895bc1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e48488bb76dc67e0f2a406113bedc8b3)  ![](/assets/new.png) 
+- [2026-03-19-Node.js-宣布了重大发布调整](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529469&idx=1&sn=c6836110923971eeda1d9516731eec3f&chksm=f992752ccee5fc3af15d3747575db160087a8d46e940b0655966c0a7de9d47c683e199ea44ec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=280bc968c57237b25fdb721ca68fff27)  ![](/assets/new.png) 
 - [2026-03-18-Claude-Code-vs-Codex：AI-编码协作的官方实践全解析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529461&idx=1&sn=1fc622e6d90902c982892e71fa34e777&chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6b2e8611f47e16e6dce77eb29ca4cf3b)  
 - [2026-03-17-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529455&idx=1&sn=9e4846fe4d0eac846bf48b24ccd4ba8e&chksm=f992753ecee5fc280e28334ac178e44c84756a680aa87d24fdb269eb0e97b64df89a614a5788#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c063faca5c7e7962434644f32114ad5)  
 - [2026-03-16-尤雨溪出手了：前端工具链的「大一统」时代](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529444&idx=1&sn=66ecac1ef588944e42da34e1f5af9d4f&chksm=f9927535cee5fc232fda8819fa58e36288a6652776414d38f1f3a40e6ca5749feae3f5aed616#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50178b1ebf56ac4bffa41970a011797b)  
@@ -179,8 +181,6 @@
 - [2026-03-11-用对Claude-Code，收获你的“啊哈”时刻](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529412&idx=1&sn=83d32719746ac446247ce8573202041a&chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2730345fc88700ffbec437ca33c950b5)  
 - [2026-03-10-AI-加持的-Vue-3-开发神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529404&idx=1&sn=7898b00d5b6b493cd18b8ccf6593fef8&chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d56d6a3d6679d37c8491ff5444d544d0)  
 - [2026-03-09-WebMCP：让每个网站都能与智能代理互动的新标准](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529373&idx=1&sn=3eb95feba7d888c21c937c803875d60c&chksm=f992754ccee5fc5aca7ff29383da8487980bd94d0f1abff86aeb8f626e4f349431a5f9130876#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=baa60dad95d8dae630d43c2894b7feaa)  
-- [2026-03-06-突发！软考空前大利好！恭喜所有程序员！](http://mp.weixin.qq.com/s/gllBrXcCTks1gnzdbgb5CA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f555b9d611b9a63357c7ab875ef5725)  
-- [2026-03-06-仅一周！Cloudflare用AI重写了-Next.js，提速-4-倍，打包体积锐减-57%](http://mp.weixin.qq.com/s/Qv8y_x_o6ITIiYV4NnW5rQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=189749723a42f8c71797e9bb7e3a6a8b)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -339,7 +339,7 @@
 </summary>
 
 
-- [2026-03-21-套壳中国大模型撑起500亿美元估值？扒一扒-Cursor-的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1e28186cf9550731b0af785cbcf89ba)  ![](/assets/new.png) 
+- [2026-03-21-套壳中国大模型撑起500亿美元估值？扒一扒-Cursor-的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1e28186cf9550731b0af785cbcf89ba)  
 - [2026-03-20-科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3fc7a8ae3d8d2fb67633f194f6aea69e)  
 - [2026-03-13-科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6c79a88a7991391d1f88497e0d26613b)  
 - [2026-03-12-零安装的"云养虾"：ArkClaw-使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f4d9da2958a384bf8c9921dcbc65d28)  
