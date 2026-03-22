@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-21T20:13:30.131Z</updated>
+    <updated>2026-03-22T22:13:41.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[离谱！王自如招个全栈前端工程师，JD 写了六个岗位的活]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523011&amp;idx=1&amp;sn=5598d790ee2c8f18d675e7fdc1f5f431&amp;chksm=e80fd58ddf785c9b22b3db1b90ba57ab704ba2fce8d69fb1eaf7a4f9e87ceceb8156c36f5ba2#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523011&amp;idx=1&amp;sn=5598d790ee2c8f18d675e7fdc1f5f431&amp;chksm=e80fd58ddf785c9b22b3db1b90ba57ab704ba2fce8d69fb1eaf7a4f9e87ceceb8156c36f5ba2#rd"/>
+        <updated>2026-03-20T00:00:00.000Z</updated>
+        <published>2026-03-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请查收！淘天集团27届实习生校招大事件，文末阅读原文报名宣讲会]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543062&amp;idx=2&amp;sn=f51acd46793fdb53f4a6a998ad935311&amp;chksm=8390dbceb4e752d8f6f15f2c6142ec0c1f56922602b252327390ed41b38f2db956508c610ec5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543062&amp;idx=2&amp;sn=f51acd46793fdb53f4a6a998ad935311&amp;chksm=8390dbceb4e752d8f6f15f2c6142ec0c1f56922602b252327390ed41b38f2db956508c610ec5#rd"/>
         <updated>2026-03-20T00:00:00.000Z</updated>
         <published>2026-03-20T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3663期】如何用 Ollama 在本地运行并定制专属 LLM]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd"/>
-        <updated>2026-03-05T00:00:00.000Z</updated>
-        <published>2026-03-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node 25.8 adds permission model audit mode]]></title>
-        <id>https://nodeweekly.com/issues/614</id>
-        <link href="https://nodeweekly.com/issues/614"/>
         <updated>2026-03-05T00:00:00.000Z</updated>
         <published>2026-03-05T00:00:00.000Z</published>
     </entry>
