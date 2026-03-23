@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-23 14:56:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 16:42:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -417,8 +417,8 @@
 - [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419) 
 - [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418) 
 - [2021-12-02-One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416) 
-- [2021-06-24-Node.js-有难度的面试题，你能答对几个？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578105&idx=2&sn=ace9b43370fea5359b9c6f8af587b8c1&chksm=80250938b752802e300740b2036c5f20f32c1ec50cf41b098528f50c7ebec7abb606e837ff68&scene=27#wechat_redirect) 
 - [2021-06-24-如何用-Node.js-编写-HTTP-Server？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578105&idx=1&sn=b162a5eb7704131e891354cbad708bbf&chksm=80250938b752802e44d2d4b5191b7963e00a37051d3f8336025d54769e9df7c62d3443dd58c4&scene=27#wechat_redirect) 
+- [2021-06-24-Node.js-有难度的面试题，你能答对几个？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578105&idx=2&sn=ace9b43370fea5359b9c6f8af587b8c1&chksm=80250938b752802e300740b2036c5f20f32c1ec50cf41b098528f50c7ebec7abb606e837ff68&scene=27#wechat_redirect) 
 - [2021-06-09-我终于逃离了-Node](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247509944&idx=2&sn=6246cfdd820d235e577faeaf3606a2d1&chksm=f95212fbce259bed8e6be14d95fc760863e857c13ba19115e938228d655aae8f3b274db48fec&scene=27#wechat_redirect) 
 - [2021-06-07-前端高薪必备，通过-Node.js-开发一个-CLI-工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651577217&idx=1&sn=f0a0c9535edaacd19649b43e78f2308e&chksm=80250c40b7528556dfab979ae123d0ca80b9b13e6dce3733f4ffb63a04bd79c51962b7262c72&scene=27#wechat_redirect) 
 - [2021-06-02-【第2297期】WebContainers简介：在你的浏览器中运行Node.js](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246542&idx=2&sn=af9d08bfa3990a4790a321ba70546331&chksm=bd49164a8a3e9f5c511de4a39454990902bc236d01bc2a01cbdf29c842af8c36e60ba0fc2674&scene=27#wechat_redirect) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-23T06:56:24.815Z</updated>
+    <updated>2026-03-23T08:41:56.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html"/>
+        <updated>2026-03-21T00:00:00.000Z</updated>
+        <published>2026-03-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王自如招 01 号“全栈前端工程师”，没说薪资要求还多，堪比“人形项目组”。有人看完窒息，也有吐槽“没几百万年薪谁去啊”]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624234&amp;idx=1&amp;sn=f0b4f74be6c4fc533de871efe49b2239&amp;chksm=802244ebb755cdfdee002530148d03da78d812f2b3218593957b499d5ed04e9c382a370e120a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624234&amp;idx=1&amp;sn=f0b4f74be6c4fc533de871efe49b2239&amp;chksm=802244ebb755cdfdee002530148d03da78d812f2b3218593957b499d5ed04e9c382a370e120a#rd"/>
         <updated>2026-03-21T00:00:00.000Z</updated>
         <published>2026-03-21T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278666&amp;idx=1&amp;sn=6fadb54fb3fca3e1324cb35b3bca3700&amp;chksm=bc3f8be7a739f93a81f57403fae47a620732a523bcfbfb2ec355bc6fa52f9360d3ef7cdd8547&amp;scene=0#rd"/>
         <updated>2026-03-06T00:00:00.000Z</updated>
         <published>2026-03-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 万+ OpenClaw 实例暴露，你的电脑可能也在名单里！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529345&amp;idx=1&amp;sn=3aa8bdf0ce95b306e4be60927c6fd77b&amp;chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529345&amp;idx=1&amp;sn=3aa8bdf0ce95b306e4be60927c6fd77b&amp;chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd"/>
-        <updated>2026-03-05T00:00:00.000Z</updated>
-        <published>2026-03-05T00:00:00.000Z</published>
     </entry>
 </feed>
