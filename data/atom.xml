@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-22T22:13:41.766Z</updated>
+    <updated>2026-03-23T06:56:24.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3674期】Claude Code 技能实战指南：来自 Anthropic 内部的经验总结]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278796&amp;idx=1&amp;sn=ae74d4204ea67ce9a7f9a44df91ec00c&amp;chksm=bc234bff6ad75f48aea9ff5c2aebd0b9b9c0bb755c7bdfc327341ede689ebdb29aa1ffe7d9d7&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278796&amp;idx=1&amp;sn=ae74d4204ea67ce9a7f9a44df91ec00c&amp;chksm=bc234bff6ad75f48aea9ff5c2aebd0b9b9c0bb755c7bdfc327341ede689ebdb29aa1ffe7d9d7&amp;scene=0#rd"/>
+        <updated>2026-03-23T00:00:00.000Z</updated>
+        <published>2026-03-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html</id>
@@ -246,16 +253,16 @@
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3668期】从 Web Streams 到 Async Iterable：重新思考 JavaScript 流式 API]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[Agent 入门书《Hello-Agents》导读]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent 入门书《Hello-Agents》导读]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3668期】从 Web Streams 到 Async Iterable：重新思考 JavaScript 流式 API]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[25 万+ OpenClaw 实例暴露，你的电脑可能也在名单里！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529345&amp;idx=1&amp;sn=3aa8bdf0ce95b306e4be60927c6fd77b&amp;chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529345&amp;idx=1&amp;sn=3aa8bdf0ce95b306e4be60927c6fd77b&amp;chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd"/>
-        <updated>2026-03-05T00:00:00.000Z</updated>
-        <published>2026-03-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3663期】如何用 Ollama 在本地运行并定制专属 LLM]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278660&amp;idx=1&amp;sn=01f0220c8ab0fd25fdb6c2038511eb48&amp;chksm=bc228e6b003f94f247a29d22fa5eb16e64957d3681c12fc20c26d13a13d10f0f9c6638b16911&amp;scene=0#rd"/>
         <updated>2026-03-05T00:00:00.000Z</updated>
         <published>2026-03-05T00:00:00.000Z</published>
     </entry>
