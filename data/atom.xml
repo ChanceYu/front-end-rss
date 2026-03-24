@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-24T10:03:54.671Z</updated>
+    <updated>2026-03-24T10:39:29.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,20 @@
         <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
         <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
         <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
+        <updated>2026-03-23T00:00:00.000Z</updated>
+        <published>2026-03-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知识基座：让“AI 越用越懂业务”的团队经验实践【天猫AI Coding实践系列】]]></title>
+        <id>http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ</id>
+        <link href="http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ"/>
+        <updated>2026-03-23T00:00:00.000Z</updated>
+        <published>2026-03-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知识基座：让“AI 越用越懂业务”的团队经验实践【天猫AI Coding实践系列】]]></title>
+        <id>http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ</id>
+        <link href="http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529412&amp;idx=1&amp;sn=83d32719746ac446247ce8573202041a&amp;chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd"/>
         <updated>2026-03-11T00:00:00.000Z</updated>
         <published>2026-03-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3667期】React Fiber 原理解析：从递归渲染到可中断调度]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278693&amp;idx=1&amp;sn=d28febc993118336805e8e800732415f&amp;chksm=bc46f874bf464ddf092000d682657d2a75395fdec127c6d16151410592aa79003a12342ae2fd&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278693&amp;idx=1&amp;sn=d28febc993118336805e8e800732415f&amp;chksm=bc46f874bf464ddf092000d682657d2a75395fdec127c6d16151410592aa79003a12342ae2fd&amp;scene=0#rd"/>
-        <updated>2026-03-11T00:00:00.000Z</updated>
-        <published>2026-03-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 加持的 Vue 3 开发神器]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529404&amp;idx=1&amp;sn=7898b00d5b6b493cd18b8ccf6593fef8&amp;chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529404&amp;idx=1&amp;sn=7898b00d5b6b493cd18b8ccf6593fef8&amp;chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd"/>
-        <updated>2026-03-10T00:00:00.000Z</updated>
-        <published>2026-03-10T00:00:00.000Z</published>
     </entry>
 </feed>
