@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-24T01:02:05.186Z</updated>
+    <updated>2026-03-24T04:07:21.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,39 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
+        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
+        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
+        <updated>2026-03-23T00:00:00.000Z</updated>
+        <published>2026-03-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
+        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
+        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
+        <updated>2026-03-23T00:00:00.000Z</updated>
+        <published>2026-03-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3674期】Claude Code 技能实战指南：来自 Anthropic 内部的经验总结]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278796&amp;idx=1&amp;sn=ae74d4204ea67ce9a7f9a44df91ec00c&amp;chksm=bc234bff6ad75f48aea9ff5c2aebd0b9b9c0bb755c7bdfc327341ede689ebdb29aa1ffe7d9d7&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278796&amp;idx=1&amp;sn=ae74d4204ea67ce9a7f9a44df91ec00c&amp;chksm=bc234bff6ad75f48aea9ff5c2aebd0b9b9c0bb755c7bdfc327341ede689ebdb29aa1ffe7d9d7&amp;scene=0#rd"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI 从入门到落地，精华整理全在这了！]]></title>
+        <id>http://mp.weixin.qq.com/s/pKEfNUiqyYmbHeaPLUkvbQ</id>
+        <link href="http://mp.weixin.qq.com/s/pKEfNUiqyYmbHeaPLUkvbQ"/>
+        <updated>2026-03-22T00:00:00.000Z</updated>
+        <published>2026-03-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪转发庆祝，Claude.ai 抛弃 SSR 拥抱 Vite，性能飙升！]]></title>
+        <id>http://mp.weixin.qq.com/s/e4KkP-hepeBqhhaIN9IiQg</id>
+        <link href="http://mp.weixin.qq.com/s/e4KkP-hepeBqhhaIN9IiQg"/>
+        <updated>2026-03-21T00:00:00.000Z</updated>
+        <published>2026-03-21T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云]]></title>
@@ -169,16 +197,16 @@
         <published>2026-03-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
-        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
-        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
+        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
+        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
+        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
-        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
-        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
+        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
+        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
+        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
@@ -333,34 +361,6 @@
         <title type="html"><![CDATA[AI工作流在淘宝交易舆情巡检上的探索与实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542990&amp;idx=1&amp;sn=c87517f8af9020407cf36f636538fbe3&amp;chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542990&amp;idx=1&amp;sn=c87517f8af9020407cf36f636538fbe3&amp;chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd"/>
-        <updated>2026-03-06T00:00:00.000Z</updated>
-        <published>2026-03-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue Native 最新进展！]]></title>
-        <id>http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA</id>
-        <link href="http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA"/>
-        <updated>2026-03-06T00:00:00.000Z</updated>
-        <published>2026-03-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仅一周！Cloudflare用AI重写了 Next.js，提速 4 倍，打包体积锐减 57%]]></title>
-        <id>http://mp.weixin.qq.com/s/Qv8y_x_o6ITIiYV4NnW5rQ</id>
-        <link href="http://mp.weixin.qq.com/s/Qv8y_x_o6ITIiYV4NnW5rQ"/>
-        <updated>2026-03-06T00:00:00.000Z</updated>
-        <published>2026-03-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Review 将死于 2026 年]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624094&amp;idx=1&amp;sn=6d1b600f1d9b4f6b83fb7dbb98908b99&amp;chksm=8022455fb755cc4920a8bd82b7f85de214177ad33d7fc139eb6331432a93486c28d7237ca807#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624094&amp;idx=1&amp;sn=6d1b600f1d9b4f6b83fb7dbb98908b99&amp;chksm=8022455fb755cc4920a8bd82b7f85de214177ad33d7fc139eb6331432a93486c28d7237ca807#rd"/>
-        <updated>2026-03-06T00:00:00.000Z</updated>
-        <published>2026-03-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3664期】Claude Code 系统化方法：从规划到高效交付]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278666&amp;idx=1&amp;sn=6fadb54fb3fca3e1324cb35b3bca3700&amp;chksm=bc3f8be7a739f93a81f57403fae47a620732a523bcfbfb2ec355bc6fa52f9360d3ef7cdd8547&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278666&amp;idx=1&amp;sn=6fadb54fb3fca3e1324cb35b3bca3700&amp;chksm=bc3f8be7a739f93a81f57403fae47a620732a523bcfbfb2ec355bc6fa52f9360d3ef7cdd8547&amp;scene=0#rd"/>
         <updated>2026-03-06T00:00:00.000Z</updated>
         <published>2026-03-06T00:00:00.000Z</published>
     </entry>
