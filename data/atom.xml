@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-24T04:07:21.133Z</updated>
+    <updated>2026-03-24T10:03:54.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,27 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[前端发版后页面白屏？一套解决用户停留旧页面问题的完整方案]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529538&amp;idx=1&amp;sn=fa53f719ba91ed033fae434acdf2f443&amp;chksm=f9927293cee5fb856f554e25b5367b1f8bc638c899ff4eb73442b4781657d7f22797f6ee0ef0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529538&amp;idx=1&amp;sn=fa53f719ba91ed033fae434acdf2f443&amp;chksm=f9927293cee5fb856f554e25b5367b1f8bc638c899ff4eb73442b4781657d7f22797f6ee0ef0#rd"/>
+        <updated>2026-03-24T00:00:00.000Z</updated>
+        <published>2026-03-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 已能写 80% 代码，但 Agent 也有致命短板！]]></title>
+        <id>http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A</id>
+        <link href="http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A"/>
+        <updated>2026-03-24T00:00:00.000Z</updated>
+        <published>2026-03-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3675期】别再纠结格式：5 种设计模式，构建真正可靠的 AI Agent]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278808&amp;idx=1&amp;sn=cb062b1747e889741fc1ad1e42b7c225&amp;chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278808&amp;idx=1&amp;sn=cb062b1747e889741fc1ad1e42b7c225&amp;chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&amp;scene=0#rd"/>
+        <updated>2026-03-24T00:00:00.000Z</updated>
+        <published>2026-03-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
         <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
         <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
@@ -25,6 +46,13 @@
         <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
         <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
         <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
+        <updated>2026-03-23T00:00:00.000Z</updated>
+        <published>2026-03-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 nanobot 理解 openclaw 核心设计]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529495&amp;idx=1&amp;sn=49439277e289e9948fb70033f69862e5&amp;chksm=f99272c6cee5fbd0a2e43a039ee7e5eb9fc8958d8eb3e19bee8c4fa9f112dcdcf132db72efa7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529495&amp;idx=1&amp;sn=49439277e289e9948fb70033f69862e5&amp;chksm=f99272c6cee5fbd0a2e43a039ee7e5eb9fc8958d8eb3e19bee8c4fa9f112dcdcf132db72efa7#rd"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
@@ -288,16 +316,16 @@
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent 入门书《Hello-Agents》导读]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3668期】从 Web Streams 到 Async Iterable：重新思考 JavaScript 流式 API]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3668期】从 Web Streams 到 Async Iterable：重新思考 JavaScript 流式 API]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=1&amp;sn=732699cc260b5c65c1a0f7f2a93080eb&amp;chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[Agent 入门书《Hello-Agents》导读]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529404&amp;idx=1&amp;sn=7898b00d5b6b493cd18b8ccf6593fef8&amp;chksm=f992756dcee5fc7b234bab0669f5a91d2b1980ef60c59fc93ef39d572f5b79b10fd290855fc3#rd"/>
         <updated>2026-03-10T00:00:00.000Z</updated>
         <published>2026-03-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3666期】为什么随意使用 JSON.parse() 可能带来安全风险]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278676&amp;idx=1&amp;sn=9c313c6248be12a503a3e9b68a5bbda8&amp;chksm=bcee8071e208ac697ed23d6e28d6f5e5ed07068cce5ef063b78cc343fa7a4da7460bcf44ee8e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278676&amp;idx=1&amp;sn=9c313c6248be12a503a3e9b68a5bbda8&amp;chksm=bcee8071e208ac697ed23d6e28d6f5e5ed07068cce5ef063b78cc343fa7a4da7460bcf44ee8e&amp;scene=0#rd"/>
-        <updated>2026-03-10T00:00:00.000Z</updated>
-        <published>2026-03-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 6.0 RC and Solid 2.0 beta arrive]]></title>
-        <id>https://javascriptweekly.com/issues/776</id>
-        <link href="https://javascriptweekly.com/issues/776"/>
-        <updated>2026-03-10T00:00:00.000Z</updated>
-        <published>2026-03-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML dialog元素新支持了closedBy属性]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/"/>
-        <updated>2026-03-09T00:00:00.000Z</updated>
-        <published>2026-03-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI工作流在淘宝交易舆情巡检上的探索与实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542990&amp;idx=1&amp;sn=c87517f8af9020407cf36f636538fbe3&amp;chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650542990&amp;idx=1&amp;sn=c87517f8af9020407cf36f636538fbe3&amp;chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd"/>
-        <updated>2026-03-06T00:00:00.000Z</updated>
-        <published>2026-03-06T00:00:00.000Z</published>
     </entry>
 </feed>
