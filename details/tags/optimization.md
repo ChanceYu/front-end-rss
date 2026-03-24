@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-23 16:42:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-24 09:02:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -373,8 +373,8 @@
 - [2022-04-28-从《淘特斗地主》说起，前端如何做-h5-游戏的游戏体验](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062878&idx=1&sn=d1832ae065bfc16534e896f577cefde1&chksm=87c4594eb0b3d058b9c17404a1312703200a0ad2675f02b95ed3038f1f9947d7693fc91d295e#rd) 
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [2022-04-27-万字长文：分享前端性能优化知识体系](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062851&idx=1&sn=82e2e98e7b94f4ce27caa25b46ea77d8&chksm=87c45953b0b3d045e94b6d9b685c0811c02bde366eca78c444ff08ea0dc53d4f57db9d0a1f87#rd) 
-- [2022-04-27-你知道如何提升-JSON.stringify-的性能吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602489&idx=1&sn=b67d09cc4d8c636a1d5c718816978a17&chksm=8022e9f8b75560ee73a8434522adc6ba7c5aeef6327635a964842ad085a396fc750410a74784#rd) 
 - [2022-04-27-常见垃圾回收算法与-JS-GC-原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602489&idx=2&sn=ac959a4933ed53c7e07471193d88a478&chksm=8022e9f8b75560ee40b7d6a026acce508a470907e1feba6e6bab060b188f55cf677472c823de#rd) 
+- [2022-04-27-你知道如何提升-JSON.stringify-的性能吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602489&idx=1&sn=b67d09cc4d8c636a1d5c718816978a17&chksm=8022e9f8b75560ee73a8434522adc6ba7c5aeef6327635a964842ad085a396fc750410a74784#rd) 
 - [2022-04-25-【第2598期】ServiceWorker-缓存与-HTTP-缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253998&idx=1&sn=7c651385a6ced1969b912aa4590faa31&chksm=bd49356a8a3ebc7c741f8f99d3d30ee68b31c8a9f37766a2e1872d92bacaebb25b7aa646d50b#rd) 
 - [2022-04-21-过度使用懒加载对-Web-性能的影响](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505324&idx=2&sn=e390d5cfac1c4a7988bb0f700833eb4c&chksm=f992d37dcee55a6bb3673b5bf1bc14d07e8e3527d17163721730db0c0bdae1bedf7bac0f03db#rd) 
 - [2022-04-20-前端从-web-服务器或者-CDN-下载资源](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602318&idx=2&sn=20a9460252ca44543345786c058f703e&chksm=8022ea4fb7556359739a4d79ff93be66c16ebae4d40630f804ab16ab18e5f000d70f0b5818e3#rd) 
@@ -497,8 +497,8 @@
 - [2021-01-15-TypeScript-4.2-Beta版本发布：带来诸多更新，营造更好的开发体验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505623&idx=2&sn=3ff0afaa02c4356db087ca9521410b17&chksm=f9526394ce25ea8250ded28fb1f402278ea29cb76bb4146bad8baf6b8ed1ff582a4c1040eeb5&scene=27#wechat_redirect) 
 - [2021-01-14-RxJS：给你如丝一般顺滑的编程体验（建议收藏）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651567037&idx=1&sn=9304581aa867d8ef6525bf5dd7620b3c&chksm=8025647cb752ed6a33b7feb67446b33b6701e140ba040ba95ee16d10587af8103d2c313f7b23&scene=27#wechat_redirect) 
 - [2021-01-11-Flutter-的性能分析、工程架构与细节处理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505520&idx=1&sn=bf7d628818e0b281693a661e24e1955f&chksm=f9526333ce25ea251ec8b68c2f2f59f609c9525a9640223ca3a3f0c48fb8728cde31c35b25ad&scene=27#wechat_redirect) 
-- [2021-01-10-速度提高几百倍，记一次数据结构在实际工作中的运用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651566755&idx=2&sn=a04a5f0bec6b8f72114db3d953dd2db6&chksm=80256562b752ec74558720b8b2afc2da02eae1484884f67a4e88e0652576ea335e232ad1846b&scene=27#wechat_redirect) 
 - [2021-01-10-拯救你的年底-KPI：前端性能优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651566755&idx=1&sn=b45a07aa4e3f75a2de5ed6a0de5e2be2&chksm=80256562b752ec74c41181e627f187d713afab5ab7339f98e001a176971d4520ac00cd1aa334&scene=27#wechat_redirect) 
+- [2021-01-10-速度提高几百倍，记一次数据结构在实际工作中的运用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651566755&idx=2&sn=a04a5f0bec6b8f72114db3d953dd2db6&chksm=80256562b752ec74558720b8b2afc2da02eae1484884f67a4e88e0652576ea335e232ad1846b&scene=27#wechat_redirect) 
 - [2021-01-08-腾讯文档表格：大型前端项目架构优化探索之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505349&idx=2&sn=1b9db82a3aebf82c4ea161ec538333cb&chksm=f9526086ce25e990686dcbfe5c2fb220c39136d2d254228644c0a0e617a513ab0c01fae5748d&scene=27#wechat_redirect) 
 - [2021-01-08-从Weex到Web，性能逆势如何破局？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505349&idx=1&sn=d54967ce22cc10e4e03b481840370deb&chksm=f9526086ce25e99045e53a9c5a29c5aba2cc3e88e330ae56a9f96422cbf6e39f6055ee0416f3&scene=27#wechat_redirect) 
 - [2020-12-31-【第2164期】在-Node.js-中避免内存泄漏：性能最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651242819&idx=1&sn=630fe01c63aa877790f9e0a339de5c19&chksm=bd4918c78a3e91d19a5df56701eafdd44e4ce5d64386bb2f87359700a2d7190f20b7c93202cc&scene=27#wechat_redirect) 

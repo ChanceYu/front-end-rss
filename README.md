@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-23 16:42:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-24 09:02:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -108,7 +108,8 @@
 </summary>
 
 
-- [2026-03-21-王自如招-01-号“全栈前端工程师”，没说薪资要求还多，堪比“人形项目组”。有人看完窒息，也有吐槽“没几百万年薪谁去啊”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624234&idx=1&sn=f0b4f74be6c4fc533de871efe49b2239&chksm=802244ebb755cdfdee002530148d03da78d812f2b3218593957b499d5ed04e9c382a370e120a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dedc5fd22f10abeaffdc9ef2120b7970)  ![](/assets/new.png) 
+- [2026-03-21-王自如招-01-号“全栈前端工程师”，没说薪资要求还多，堪比“人形项目组”。有人看完窒息，也有吐槽“没几百万年薪谁去啊”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624234&idx=1&sn=f0b4f74be6c4fc533de871efe49b2239&chksm=802244ebb755cdfdee002530148d03da78d812f2b3218593957b499d5ed04e9c382a370e120a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dedc5fd22f10abeaffdc9ef2120b7970)  
+- [2026-03-18-尤雨溪出手了：前端工具链的「大一统」时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624213&idx=1&sn=ebb5c5341120db58a3733290176a4e31&chksm=802244d4b755cdc262771a3d33379a040920464970c196e80157e095c2f338513d24057bc0c8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3e79af6cc4988ed537141cc515eca9ff)  ![](/assets/new.png) 
 - [2026-03-17-Karpathy紧急删库！AI职业末日图爆火](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624197&idx=1&sn=dd936eb62120c745be060cd2e37dbf67&chksm=802244c4b755cdd205d798a0cc2eb9e8533f38525a5115ee90a5e07a01bb18ce4a531350678f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=927128057ff137a69a6e17b84bc9ec24)  
 - [2026-03-16-48-小时欠谷歌-56-万！三人开发小团队要破产了，只因-Gemini-API-密钥被盗用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624176&idx=1&sn=ca425dffac3520b0df6b941f82248334&chksm=80224531b755cc27f6f0afb18a9498d5f497bfa7030a37d0eaa46a327ffbf7da1a0404d66803#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8cea4c85760db8d1516948d6df9fdc27)  
 - [2026-03-15-腾讯真给龙虾打钱了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624157&idx=1&sn=a7f45754ff7807ecc8f6ce0bd33514eb&chksm=8022451cb755cc0adf24c2bc9846c34db6335b6479908d424fb7bd0b457b471eea536b2f742c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0c4b60ec49a97b8cd3c850fb680d402)  
@@ -117,7 +118,6 @@
 - [2026-03-12-猛裁1.6万人后，网站再崩6小时、一周4次重大事故！官方“紧急复盘”：跟裁员无关，也不是AI写代码的锅](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624119&idx=1&sn=c0f059d33dc24b12d70e159ef7c729fc&chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e4006cf1533597d817285bb028a6643f)  
 - [2026-03-06-Code-Review-将死于-2026-年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624094&idx=1&sn=6d1b600f1d9b4f6b83fb7dbb98908b99&chksm=8022455fb755cc4920a8bd82b7f85de214177ad33d7fc139eb6331432a93486c28d7237ca807#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28d7f0bdc6b8d7d4f216df7d3a0c0f0f)  
 - [2026-02-05-20-年-IT-老兵转行“收废品”！200+-场面试无果](http://mp.weixin.qq.com/s/oj2b_Sx2XVYOc4jC-gvpPA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f35cff54a0394aa180fdb78209682f87)  
-- [2026-02-04-AI-Skills-正在重构前端开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=1&sn=13babe9ddebc8bead1645f6c0848cc30&chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e90ff5657c94152b1b2da111ec6f318f)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
