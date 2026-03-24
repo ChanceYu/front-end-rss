@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-24T10:39:29.899Z</updated>
+    <updated>2026-03-24T18:01:15.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[【第3675期】别再纠结格式：5 种设计模式，构建真正可靠的 AI Agent]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278808&amp;idx=1&amp;sn=cb062b1747e889741fc1ad1e42b7c225&amp;chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278808&amp;idx=1&amp;sn=cb062b1747e889741fc1ad1e42b7c225&amp;chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&amp;scene=0#rd"/>
+        <updated>2026-03-24T00:00:00.000Z</updated>
+        <published>2026-03-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 6.0, Next.js 16.2, and a new Node.js runtime]]></title>
+        <id>https://javascriptweekly.com/issues/778</id>
+        <link href="https://javascriptweekly.com/issues/778"/>
         <updated>2026-03-24T00:00:00.000Z</updated>
         <published>2026-03-24T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[重磅！Vite DevTools 发布！功能一览！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517554&amp;idx=1&amp;sn=d5a1a3391bf0336d7efc8f592d0d39bb&amp;chksm=eb07bd0bdc70341d241360d2cb7b07599a5da1a0aaaa6826824abdfbb536287cfd4321260e5c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517554&amp;idx=1&amp;sn=d5a1a3391bf0336d7efc8f592d0d39bb&amp;chksm=eb07bd0bdc70341d241360d2cb7b07599a5da1a0aaaa6826824abdfbb536287cfd4321260e5c#rd"/>
-        <updated>2026-03-11T00:00:00.000Z</updated>
-        <published>2026-03-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用对Claude Code，收获你的“啊哈”时刻]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529412&amp;idx=1&amp;sn=83d32719746ac446247ce8573202041a&amp;chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529412&amp;idx=1&amp;sn=83d32719746ac446247ce8573202041a&amp;chksm=f9927515cee5fc03e7d3a7e8e6f1f292d852df8770ccdfca5cab877ffbd8272c2db88084af30#rd"/>
         <updated>2026-03-11T00:00:00.000Z</updated>
         <published>2026-03-11T00:00:00.000Z</published>
     </entry>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-24 18:40:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 02:01:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d0951a7d0cbc423bd09580c6dc93539d) 
 - [2026-03-19-Node.js-宣布了重大发布调整](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529469&idx=1&sn=c6836110923971eeda1d9516731eec3f&chksm=f992752ccee5fc3af15d3747575db160087a8d46e940b0655966c0a7de9d47c683e199ea44ec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=280bc968c57237b25fdb721ca68fff27) 
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8304d5c228ab03ce9e37e82e6708c689) 
 - [2026-03-18-酷！Node.js-终于支持虚拟文件系统了，作者直言：没有-Claude-Code-这不可能发生](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523001&idx=1&sn=3179cde6adc1d1a7a75098696090c6c4&chksm=e80fd5f7df785ce120efa401bdf11ed5cd2f27bc047ef6c4eba442a6617f324a9fce89bd760f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c8542333b149b5bcf1f2fa92469df451) 

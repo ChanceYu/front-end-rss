@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-24 18:40:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 02:01:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d0951a7d0cbc423bd09580c6dc93539d) 
 - [2026-03-16-硬刚-Next.js！尤雨溪隆重推出-Void，Vite-生态终于有自己的"Vercel"了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247522878&idx=1&sn=3d8fcf18a18ab30c35aeca4d4d0789fc&chksm=e80fd570df785c66f45596f8c329a91fc3a562acd31551149195c027ccaa38278df32aa9ccb7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a17e0ef80e109ad39c0e2cd56e4f01b2) 
 - [2026-03-11-【第3667期】React-Fiber-原理解析：从递归渲染到可中断调度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278693&idx=1&sn=d28febc993118336805e8e800732415f&chksm=bc46f874bf464ddf092000d682657d2a75395fdec127c6d16151410592aa79003a12342ae2fd&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=be1cd0faf3780bde25f0305b305c2600) 
 - [2026-03-06-仅一周！Cloudflare用AI重写了-Next.js，提速-4-倍，打包体积锐减-57%](http://mp.weixin.qq.com/s/Qv8y_x_o6ITIiYV4NnW5rQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=189749723a42f8c71797e9bb7e3a6a8b) 
