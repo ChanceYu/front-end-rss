@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-24T18:01:15.413Z</updated>
+    <updated>2026-03-25T01:07:11.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,16 +43,16 @@
         <published>2026-03-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
-        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
-        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
+        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
+        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
+        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
-        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
-        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
+        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
+        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
+        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
@@ -246,16 +246,16 @@
         <published>2026-03-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
-        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
-        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
+        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
+        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
+        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
-        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
-        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
+        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
+        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
+        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
