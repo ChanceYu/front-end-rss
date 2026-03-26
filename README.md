@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-26 09:12:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-26 14:55:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -29,7 +29,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -87,6 +87,7 @@
 </summary>
 
 
+- [2026-03-26-【早说】智能体工程的八重境界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278825&idx=1&sn=f0b2fbb1b6875140057155fbd56989a8&chksm=bc5746aafc9944fa78e72a3b19fff74b858059a38d70cca896229b414be87694d1261e60143a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=525bf5b9998c670208c123171603328d)  ![](/assets/new.png) 
 - [2026-03-25-【第3676期】Node.js-终于有了虚拟文件系统：node:vfs-来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278813&idx=1&sn=80c81e8f0c210a87af8d57d50eb75cea&chksm=bc3e9b6577e3c0ccdb6665b94de47c558fb761c9df30bd83777f9048d053c6592c2788804ad7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=812473d5e9668d2f7f7b8b84f1c8462e)  
 - [2026-03-24-【第3675期】别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278808&idx=1&sn=cb062b1747e889741fc1ad1e42b7c225&chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=48eb58d9afd8932362d9060125fd08d3)  
 - [2026-03-23-【第3674期】Claude-Code-技能实战指南：来自-Anthropic-内部的经验总结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278796&idx=1&sn=ae74d4204ea67ce9a7f9a44df91ec00c&chksm=bc234bff6ad75f48aea9ff5c2aebd0b9b9c0bb755c7bdfc327341ede689ebdb29aa1ffe7d9d7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c03c0567c066de52e119df074d7d891d)  
@@ -96,7 +97,6 @@
 - [2026-03-17-【第3671期】面向数十亿行数据的虚拟滚动-——-HighTable-的核心技术解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278760&idx=1&sn=93f07b8a785063f053b723366b88dec7&chksm=bc14e5243416169dfc5f3ee8ffc2e58fef17c7d788af187fc916634feabd4f8ec55490fda008&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f56ce0ec928539fca1af42c695558876)  
 - [2026-03-16-【第3670期】AI-工程实战：Claude-Code-团队总结的六条反直觉缓存法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278747&idx=1&sn=123edfcd2136f85e486428c863008faf&chksm=bca29b86b72625b42750c50b71e0dbb486984ae071eb3a19519ccdac9a84eec77ac006a756b8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8717aa9d5a98377bd08ed373d10be35b)  
 - [2026-03-13-【第3669期】以界面重构文字，GenUI-正式发布！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278743&idx=1&sn=83c555b7d842e1fcb121def22abf5c47&chksm=bc518e556cfbab180889ddb70338879f44ae87dc6cf665a2f1a5edb4af3483e1aa0c7d6aebeb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=281d64ee5f8d9b03c29a54a3a1f0290b)  
-- [2026-03-12-【第3668期】从-Web-Streams-到-Async-Iterable：重新思考-JavaScript-流式-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278731&idx=1&sn=732699cc260b5c65c1a0f7f2a93080eb&chksm=bcf7ba8ddfd7d441a68f9d0d448072422250cf74be2b2c7ba3191dbe43dffd55593f84e4fe06&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f394d9fd24f952a1695673fb868ee777)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -278,7 +278,7 @@
 
 - [2026-03-25-拒绝“感觉有效”：用数据证明-AI-Coding-的真实团队价值【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543083&idx=1&sn=b4759cb5c4ce079dc214782e37a0a506&chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=acbe2ba947f22e139471594b060866c3)  
 - [2026-03-23-知识基座：让“AI-越用越懂业务”的团队经验实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cde722a2acae70ca2f77074b5169c471)  
-- [2026-03-18-AI-Coding前端实践后的复盘总结](http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50bab1a2ffce0d9bee59f3398a642b69)  ![](/assets/new.png) 
+- [2026-03-18-AI-Coding前端实践后的复盘总结](http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50bab1a2ffce0d9bee59f3398a642b69)  
 - [2026-03-16-软件为何越做越乱？万字长文讲透软件的“复杂性”](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543011&idx=1&sn=0e7c2b240306fdf1cd61c79b717845a7&chksm=8390dbbbb4e752ad7217c16a822a053d02da8c68bb6b3fded5ed9411b7607e352f509b180475#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1734e0eba7ecfabfcf1d915cdf3fe717)  
 - [2026-03-13-用自然语言替代复杂代码](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542997&idx=1&sn=d444e39531c09899991f1d638ac53475&chksm=8390db8db4e7529b80590f9d507760232b57c975c89e13c60e5c0665d4ce2c72f1828e8e8ed1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fc97c45fba5ae7c9644c49c88c40ec70)  
 - [2026-03-06-AI工作流在淘宝交易舆情巡检上的探索与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542990&idx=1&sn=c87517f8af9020407cf36f636538fbe3&chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=26754fc2bc8a8a8c3bf28c4b7ab0cca8)  
