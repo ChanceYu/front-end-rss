@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-25T22:24:22.949Z</updated>
+    <updated>2026-03-26T01:11:50.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -197,6 +197,13 @@
         <published>2026-03-18T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI Coding前端实践后的复盘总结]]></title>
+        <id>http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA</id>
+        <link href="http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA"/>
+        <updated>2026-03-18T00:00:00.000Z</updated>
+        <published>2026-03-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Claude Code vs Codex：AI 编码协作的官方实践全解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529461&amp;idx=1&amp;sn=1fc622e6d90902c982892e71fa34e777&amp;chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529461&amp;idx=1&amp;sn=1fc622e6d90902c982892e71fa34e777&amp;chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd"/>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[猛裁1.6万人后，网站再崩6小时、一周4次重大事故！官方“紧急复盘”：跟裁员无关，也不是AI写代码的锅]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624119&amp;idx=1&amp;sn=c0f059d33dc24b12d70e159ef7c729fc&amp;chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624119&amp;idx=1&amp;sn=c0f059d33dc24b12d70e159ef7c729fc&amp;chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd"/>
-        <updated>2026-03-12T00:00:00.000Z</updated>
-        <published>2026-03-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent 入门书《Hello-Agents》导读]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278731&amp;idx=2&amp;sn=3d6210252a57211aab3d63b95c748296&amp;chksm=bc59d17f198dbb327bb67922735cea50afdecf5aabc781afef4371a9a1ec809dd3a94901e687&amp;scene=0#rd"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
