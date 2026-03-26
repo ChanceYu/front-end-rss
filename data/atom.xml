@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-26T06:55:04.301Z</updated>
+    <updated>2026-03-26T14:55:46.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[How TypeScript 6.0 affects Node developers]]></title>
+        <id>https://nodeweekly.com/issues/617</id>
+        <link href="https://nodeweekly.com/issues/617"/>
+        <updated>2026-03-26T00:00:00.000Z</updated>
+        <published>2026-03-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拒绝“感觉有效”：用数据证明 AI Coding 的真实团队价值【天猫AI Coding实践系列】]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543083&amp;idx=1&amp;sn=b4759cb5c4ce079dc214782e37a0a506&amp;chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[保姆级教程｜从零搭建 OpenClaw+飞书 AI 助手，代码配置直接拿]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529415&amp;idx=1&amp;sn=907725c26dd3a10e7d5599f5199da3c4&amp;chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529415&amp;idx=1&amp;sn=907725c26dd3a10e7d5599f5199da3c4&amp;chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd"/>
-        <updated>2026-03-12T00:00:00.000Z</updated>
-        <published>2026-03-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猛裁1.6万人后，网站再崩6小时、一周4次重大事故！官方“紧急复盘”：跟裁员无关，也不是AI写代码的锅]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624119&amp;idx=1&amp;sn=c0f059d33dc24b12d70e159ef7c729fc&amp;chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624119&amp;idx=1&amp;sn=c0f059d33dc24b12d70e159ef7c729fc&amp;chksm=80224576b755cc6048038a6023a51fc5e55e394377505355c514b80e19882d1c969a4fa866ae#rd"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
