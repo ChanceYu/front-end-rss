@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-26T14:55:46.668Z</updated>
+    <updated>2026-03-27T04:23:44.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[刚刚，Vite 两个新工具发布！Webpack 完！]]></title>
+        <id>http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw</id>
+        <link href="http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw"/>
+        <updated>2026-03-27T00:00:00.000Z</updated>
+        <published>2026-03-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个 19000 行的 PR 引爆了 Node.js 社区，集体请愿禁止 AI 代码]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523079&amp;idx=1&amp;sn=e80d92be76cdc8f2f96138d009218278&amp;chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523079&amp;idx=1&amp;sn=e80d92be76cdc8f2f96138d009218278&amp;chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd"/>
+        <updated>2026-03-26T00:00:00.000Z</updated>
+        <published>2026-03-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How TypeScript 6.0 affects Node developers]]></title>
         <id>https://nodeweekly.com/issues/617</id>
@@ -71,16 +85,16 @@
         <published>2026-03-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
-        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
-        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
+        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
+        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
+        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
-        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
-        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
+        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
+        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
+        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
@@ -281,16 +295,16 @@
         <published>2026-03-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
-        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
-        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
+        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
+        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
+        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
-        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
-        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
+        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
+        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
+        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278743&amp;idx=1&amp;sn=83c555b7d842e1fcb121def22abf5c47&amp;chksm=bc518e556cfbab180889ddb70338879f44ae87dc6cf665a2f1a5edb4af3483e1aa0c7d6aebeb&amp;scene=0#rd"/>
         <updated>2026-03-13T00:00:00.000Z</updated>
         <published>2026-03-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个 PUA Skill 火了：用阿里/字节的绩效话术逼 Claude 不敢放弃，一言不合打 3.25]]></title>
-        <id>http://mp.weixin.qq.com/s/uHnHWI7a9I_A45sLkRAVBA</id>
-        <link href="http://mp.weixin.qq.com/s/uHnHWI7a9I_A45sLkRAVBA"/>
-        <updated>2026-03-12T00:00:00.000Z</updated>
-        <published>2026-03-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保姆级教程｜从零搭建 OpenClaw+飞书 AI 助手，代码配置直接拿]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529415&amp;idx=1&amp;sn=907725c26dd3a10e7d5599f5199da3c4&amp;chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529415&amp;idx=1&amp;sn=907725c26dd3a10e7d5599f5199da3c4&amp;chksm=f9927516cee5fc006d401f48e5b72046abe92cd5e421a490023137d8e807e9f1b2d34c69784d#rd"/>
-        <updated>2026-03-12T00:00:00.000Z</updated>
-        <published>2026-03-12T00:00:00.000Z</published>
     </entry>
 </feed>
