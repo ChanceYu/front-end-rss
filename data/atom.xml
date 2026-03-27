@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-27T04:23:44.765Z</updated>
+    <updated>2026-03-27T06:55:45.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[刚刚，Vite 两个新工具发布！Webpack 完！]]></title>
         <id>http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw</id>
         <link href="http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw"/>
+        <updated>2026-03-27T00:00:00.000Z</updated>
+        <published>2026-03-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3677期】深入解剖 .claude/ 文件夹：Claude Code 的隐藏控制中枢]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278835&amp;idx=1&amp;sn=4e93359b8c4aeb263947a58a0f553a5f&amp;chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278835&amp;idx=1&amp;sn=4e93359b8c4aeb263947a58a0f553a5f&amp;chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&amp;scene=0#rd"/>
         <updated>2026-03-27T00:00:00.000Z</updated>
         <published>2026-03-27T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624136&amp;idx=1&amp;sn=87d16846a10202c62a08e9376a8ff791&amp;chksm=80224509b755cc1ff87c51453ee25722134a185da529c2d13a8835b9b7fa6fa58b895a5998bc#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624136&amp;idx=1&amp;sn=87d16846a10202c62a08e9376a8ff791&amp;chksm=80224509b755cc1ff87c51453ee25722134a185da529c2d13a8835b9b7fa6fa58b895a5998bc#rd"/>
-        <updated>2026-03-13T00:00:00.000Z</updated>
-        <published>2026-03-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3669期】以界面重构文字，GenUI 正式发布！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278743&amp;idx=1&amp;sn=83c555b7d842e1fcb121def22abf5c47&amp;chksm=bc518e556cfbab180889ddb70338879f44ae87dc6cf665a2f1a5edb4af3483e1aa0c7d6aebeb&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278743&amp;idx=1&amp;sn=83c555b7d842e1fcb121def22abf5c47&amp;chksm=bc518e556cfbab180889ddb70338879f44ae87dc6cf665a2f1a5edb4af3483e1aa0c7d6aebeb&amp;scene=0#rd"/>
         <updated>2026-03-13T00:00:00.000Z</updated>
         <published>2026-03-13T00:00:00.000Z</published>
     </entry>
