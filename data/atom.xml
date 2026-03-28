@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-28T06:43:57.703Z</updated>
+    <updated>2026-03-28T08:26:01.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI Coding实践系列】]]></title>
+        <id>http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g</id>
+        <link href="http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g"/>
+        <updated>2026-03-27T00:00:00.000Z</updated>
+        <published>2026-03-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI Coding实践系列】]]></title>
+        <id>http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g</id>
+        <link href="http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g"/>
+        <updated>2026-03-27T00:00:00.000Z</updated>
+        <published>2026-03-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刚刚，Vite 两个新工具发布！Webpack 完！]]></title>
         <id>http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg"/>
         <updated>2026-03-14T00:00:00.000Z</updated>
         <published>2026-03-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚，尤雨溪宣布正式推出Vite Plus，竟不收费？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517558&amp;idx=1&amp;sn=6f9b01aa83df8ec54d293cda8da71bce&amp;chksm=eb07bd0fdc7034198e0243735dcb1cf228975f48e68770f0885d650b785e0dea6738ab9d10e8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517558&amp;idx=1&amp;sn=6f9b01aa83df8ec54d293cda8da71bce&amp;chksm=eb07bd0fdc7034198e0243735dcb1cf228975f48e68770f0885d650b785e0dea6738ab9d10e8#rd"/>
-        <updated>2026-03-14T00:00:00.000Z</updated>
-        <published>2026-03-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude 上线组团审代码：一条 PR 最高 25 美元，你的代码库还得"上交"给它]]></title>
-        <id>http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw</id>
-        <link href="http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw"/>
-        <updated>2026-03-13T00:00:00.000Z</updated>
-        <published>2026-03-13T00:00:00.000Z</published>
     </entry>
 </feed>

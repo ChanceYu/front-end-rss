@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-28 14:44:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-28 16:26:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -29,8 +29,8 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -108,7 +108,7 @@
 </summary>
 
 
-- [2026-03-26-别搞混了！MCP-和-Agent-Skill-到底有什么区别？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624270&idx=1&sn=5ea044378804aac90c99a512f0841ced&chksm=8022448fb755cd99287d93c79da36f31423d24435ff43c54b7227af4a95586aaa661fadd3d36#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a59a0c17b5ab748744700b1dc34884e)  ![](/assets/new.png) 
+- [2026-03-26-别搞混了！MCP-和-Agent-Skill-到底有什么区别？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624270&idx=1&sn=5ea044378804aac90c99a512f0841ced&chksm=8022448fb755cd99287d93c79da36f31423d24435ff43c54b7227af4a95586aaa661fadd3d36#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a59a0c17b5ab748744700b1dc34884e)  
 - [2026-03-24-AI-已能写-80%-代码，但-Agent-也有致命短板！](http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2fac7d91d3aaa43b49ad19eb1fc8facb)  
 - [2026-03-21-王自如招-01-号“全栈前端工程师”，没说薪资要求还多，堪比“人形项目组”。有人看完窒息，也有吐槽“没几百万年薪谁去啊”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624234&idx=1&sn=f0b4f74be6c4fc533de871efe49b2239&chksm=802244ebb755cdfdee002530148d03da78d812f2b3218593957b499d5ed04e9c382a370e120a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dedc5fd22f10abeaffdc9ef2120b7970)  
 - [2026-03-18-黄仁勋：龙虾就是新操作系统！](http://mp.weixin.qq.com/s/jmxV8-3Kf5j4Ptl5roYMug)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=844fddfdcf4b15ea20a81423e137d57d)  
@@ -276,6 +276,7 @@
 </summary>
 
 
+- [2026-03-27-97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90a1d805c6821557f4eccd1be2d00e16)  ![](/assets/new.png) 
 - [2026-03-25-拒绝“感觉有效”：用数据证明-AI-Coding-的真实团队价值【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543083&idx=1&sn=b4759cb5c4ce079dc214782e37a0a506&chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=acbe2ba947f22e139471594b060866c3)  
 - [2026-03-23-知识基座：让“AI-越用越懂业务”的团队经验实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cde722a2acae70ca2f77074b5169c471)  
 - [2026-03-20-淘天集团2027届实习生招聘正式启动，文末阅读原文查看详情](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543062&idx=1&sn=d453e985ad6644093c56b572c267209c&chksm=8390dbceb4e752d8e6ef8d405f12d66c6edb05bf83e4aa0d085b78794ff60f6fb4340c3e71ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=992c3c1c2fc9e37948813e7e28c2ef1a)  
@@ -285,7 +286,6 @@
 - [2026-03-06-AI工作流在淘宝交易舆情巡检上的探索与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542990&idx=1&sn=c87517f8af9020407cf36f636538fbe3&chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=26754fc2bc8a8a8c3bf28c4b7ab0cca8)  
 - [2026-03-02-AI-Coding思考：从工具提效到范式变革，我们还缺什么？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542970&idx=1&sn=231a9b78e5c7e1054aa26e86556e8ed8&chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1984eb4ab55b67aa2e7f0162e778261d)  
 - [2025-09-22-Safari又出bug了？临时修复-iOS-26弹出键盘后定位错乱问题](http://mp.weixin.qq.com/s/rWmsDUdhRvp8KlPBhvJZaQ) 
-- [2025-08-25-CSS-小技巧：如何将-img-转换成-background-image](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490764&idx=1&sn=5fb164e0dc41dfdbc33b63c23df3455e&chksm=97c67f03a0b1f615220c599cc96c08468ed3e0347620bd05a9c2dba7bbd0b177546e7913378c#rd) 
 - [查看更多 >](/details/前端侦探.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -297,16 +297,16 @@
 </summary>
 
 
+- [2026-03-27-97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90a1d805c6821557f4eccd1be2d00e16)  ![](/assets/new.png) 
 - [2026-03-25-拒绝“感觉有效”：用数据证明-AI-Coding-的真实团队价值【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543083&idx=1&sn=b4759cb5c4ce079dc214782e37a0a506&chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=acbe2ba947f22e139471594b060866c3)  
 - [2026-03-23-知识基座：让“AI-越用越懂业务”的团队经验实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cde722a2acae70ca2f77074b5169c471)  
-- [2026-03-20-请查收！淘天集团27届实习生校招大事件，文末阅读原文报名宣讲会](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543062&idx=2&sn=f51acd46793fdb53f4a6a998ad935311&chksm=8390dbceb4e752d8f6f15f2c6142ec0c1f56922602b252327390ed41b38f2db956508c610ec5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a64f992b9cdd45519de054f96f72991a)  
 - [2026-03-20-淘天集团2027届实习生招聘正式启动，文末阅读原文查看详情](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543062&idx=1&sn=d453e985ad6644093c56b572c267209c&chksm=8390dbceb4e752d8e6ef8d405f12d66c6edb05bf83e4aa0d085b78794ff60f6fb4340c3e71ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=992c3c1c2fc9e37948813e7e28c2ef1a)  
+- [2026-03-20-请查收！淘天集团27届实习生校招大事件，文末阅读原文报名宣讲会](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543062&idx=2&sn=f51acd46793fdb53f4a6a998ad935311&chksm=8390dbceb4e752d8f6f15f2c6142ec0c1f56922602b252327390ed41b38f2db956508c610ec5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a64f992b9cdd45519de054f96f72991a)  
 - [2026-03-18-AI-Coding前端实践后的复盘总结](http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50bab1a2ffce0d9bee59f3398a642b69)  
 - [2026-03-16-软件为何越做越乱？万字长文讲透软件的“复杂性”](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543011&idx=1&sn=0e7c2b240306fdf1cd61c79b717845a7&chksm=8390dbbbb4e752ad7217c16a822a053d02da8c68bb6b3fded5ed9411b7607e352f509b180475#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1734e0eba7ecfabfcf1d915cdf3fe717)  
 - [2026-03-13-用自然语言替代复杂代码](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542997&idx=1&sn=d444e39531c09899991f1d638ac53475&chksm=8390db8db4e7529b80590f9d507760232b57c975c89e13c60e5c0665d4ce2c72f1828e8e8ed1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fc97c45fba5ae7c9644c49c88c40ec70)  
 - [2026-03-06-AI工作流在淘宝交易舆情巡检上的探索与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542990&idx=1&sn=c87517f8af9020407cf36f636538fbe3&chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=26754fc2bc8a8a8c3bf28c4b7ab0cca8)  
 - [2026-03-04-ICLR-2026-|-基于概念蒸馏的生成式视频复原算法Vivid-VR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542989&idx=1&sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=11962c709d9d70b3ac12e38d170609bf)  
-- [2026-03-02-AI-Coding思考：从工具提效到范式变革，我们还缺什么？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542970&idx=1&sn=231a9b78e5c7e1054aa26e86556e8ed8&chksm=8390db62b4e7527499724326233c28a1b3547cf6dd14b845fab526162eef5d68e991cdbb1e27#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1984eb4ab55b67aa2e7f0162e778261d)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

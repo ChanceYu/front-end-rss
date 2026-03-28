@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-28 14:44:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-28 16:26:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -7,6 +7,8 @@
 
 
 
+- [2026-03-27-97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90a1d805c6821557f4eccd1be2d00e16) 
+- [2026-03-27-97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90a1d805c6821557f4eccd1be2d00e16) 
 - [2026-03-27-别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s/hEBK6mHO5nM5Sm8MWEmQWQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3c42bde4e9133a33914dcc292053b348) 
 - [2026-03-27-【第3677期】深入解剖-.claude/-文件夹：Claude-Code-的隐藏控制中枢](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278835&idx=1&sn=4e93359b8c4aeb263947a58a0f553a5f&chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=99add4dd12e2bbba1b91f43a196d574c) 
 - [2026-03-26-一个-19000-行的-PR-引爆了-Node.js-社区，集体请愿禁止-AI-代码](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523079&idx=1&sn=e80d92be76cdc8f2f96138d009218278&chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2c78cb925a901f326a5d100c3b24fffa) 

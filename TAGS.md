@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-28 14:44:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-28 16:26:47。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,8 @@
 
 
 
+- [【淘系前端团队】97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90a1d805c6821557f4eccd1be2d00e16)
+- [【前端侦探】97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90a1d805c6821557f4eccd1be2d00e16)
 - [【程序员成长指北】别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s/hEBK6mHO5nM5Sm8MWEmQWQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3c42bde4e9133a33914dcc292053b348)
 - [【前端早读课】【第3677期】深入解剖-.claude/-文件夹：Claude-Code-的隐藏控制中枢](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278835&idx=1&sn=4e93359b8c4aeb263947a58a0f553a5f&chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=99add4dd12e2bbba1b91f43a196d574c)
 - [【Nodejs技术栈】一个-19000-行的-PR-引爆了-Node.js-社区，集体请愿禁止-AI-代码](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523079&idx=1&sn=e80d92be76cdc8f2f96138d009218278&chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2c78cb925a901f326a5d100c3b24fffa)
@@ -48,8 +50,6 @@
 - [【淘系前端团队】拒绝“感觉有效”：用数据证明-AI-Coding-的真实团队价值【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543083&idx=1&sn=b4759cb5c4ce079dc214782e37a0a506&chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=acbe2ba947f22e139471594b060866c3)
 - [【前端侦探】拒绝“感觉有效”：用数据证明-AI-Coding-的真实团队价值【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543083&idx=1&sn=b4759cb5c4ce079dc214782e37a0a506&chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=acbe2ba947f22e139471594b060866c3)
 - [【前端大全】AI-已能写-80%-代码，但-Agent-也有致命短板！](http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2fac7d91d3aaa43b49ad19eb1fc8facb)
-- [【前端早读课】【第3675期】别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278808&idx=1&sn=cb062b1747e889741fc1ad1e42b7c225&chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=48eb58d9afd8932362d9060125fd08d3)
-- [【Nodejs技术栈】安卓也支持了！微信链接-Claude-Code-保姆级教程](http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=eb35da0a3d29e50bbcbe52c85b94bcd1)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,8 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-390-期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=073df49de2977e08665689ac04a543d0)
+- [【淘系前端团队】97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90a1d805c6821557f4eccd1be2d00e16)
+- [【前端侦探】97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90a1d805c6821557f4eccd1be2d00e16)
 - [【前端从进阶到入院】刚刚，Vite-两个新工具发布！Webpack-完！](http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2235194d632f5ccd6d92556e4123dca2)
 - [【程序员成长指北】别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s/hEBK6mHO5nM5Sm8MWEmQWQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3c42bde4e9133a33914dcc292053b348)
 - [【前端早读课】【第3677期】深入解剖-.claude/-文件夹：Claude-Code-的隐藏控制中枢](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278835&idx=1&sn=4e93359b8c4aeb263947a58a0f553a5f&chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=99add4dd12e2bbba1b91f43a196d574c)
@@ -592,8 +594,6 @@
 - [【程序员成长指北】别再裸用-Claude-Code-了！32-个亲测技能-+-8-个-MCP-服务器，开发效率直接拉满！](http://mp.weixin.qq.com/s/jPZsQsXt3ugysBn4bIHOag)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f657ee79c57bd9c719991e3b736f4de5)
 - [【前端大全】别搞混了！MCP-和-Agent-Skill-到底有什么区别？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624270&idx=1&sn=5ea044378804aac90c99a512f0841ced&chksm=8022448fb755cd99287d93c79da36f31423d24435ff43c54b7227af4a95586aaa661fadd3d36#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a59a0c17b5ab748744700b1dc34884e)
 - [【前端早读课】【早说】智能体工程的八重境界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278825&idx=1&sn=f0b2fbb1b6875140057155fbd56989a8&chksm=bc5746aafc9944fa78e72a3b19fff74b858059a38d70cca896229b414be87694d1261e60143a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=525bf5b9998c670208c123171603328d)
-- [【Node-Weekly】How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e55606bacdcabcc0e704fb0b287afa99)
-- [【Nodejs技术栈】Anthropic-连放两个大招：昨天接管你的电脑，今天甩掉你的审批](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523072&idx=1&sn=76f679904672f2fc2a96a265c76e6288&chksm=e80fd44edf785d586f5c7017b4e62a6db766570f3e7ad14bdbe638c0041be1a2ba8520904bc5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e0faeb9c4ad36b0766fcf81be20ddf68)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
