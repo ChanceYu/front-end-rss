@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-28T01:06:13.859Z</updated>
+    <updated>2026-03-28T04:08:02.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,6 +22,13 @@
         <published>2026-03-27T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[别再纠结格式：5 种设计模式，构建真正可靠的 AI Agent]]></title>
+        <id>http://mp.weixin.qq.com/s/hEBK6mHO5nM5Sm8MWEmQWQ</id>
+        <link href="http://mp.weixin.qq.com/s/hEBK6mHO5nM5Sm8MWEmQWQ"/>
+        <updated>2026-03-27T00:00:00.000Z</updated>
+        <published>2026-03-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3677期】深入解剖 .claude/ 文件夹：Claude Code 的隐藏控制中枢]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278835&amp;idx=1&amp;sn=4e93359b8c4aeb263947a58a0f553a5f&amp;chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278835&amp;idx=1&amp;sn=4e93359b8c4aeb263947a58a0f553a5f&amp;chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&amp;scene=0#rd"/>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[一个 19000 行的 PR 引爆了 Node.js 社区，集体请愿禁止 AI 代码]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523079&amp;idx=1&amp;sn=e80d92be76cdc8f2f96138d009218278&amp;chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523079&amp;idx=1&amp;sn=e80d92be76cdc8f2f96138d009218278&amp;chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd"/>
+        <updated>2026-03-26T00:00:00.000Z</updated>
+        <published>2026-03-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别再裸用 Claude Code 了！32 个亲测技能 + 8 个 MCP 服务器，开发效率直接拉满！]]></title>
+        <id>http://mp.weixin.qq.com/s/jPZsQsXt3ugysBn4bIHOag</id>
+        <link href="http://mp.weixin.qq.com/s/jPZsQsXt3ugysBn4bIHOag"/>
         <updated>2026-03-26T00:00:00.000Z</updated>
         <published>2026-03-26T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 388 期）：测试是新的护城河]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html"/>
-        <updated>2026-03-13T00:00:00.000Z</updated>
-        <published>2026-03-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite 8.0 来了：2.0 以来的最大更新！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517556&amp;idx=1&amp;sn=3840b8b034f235fe1e12070077343f4d&amp;chksm=eb07bd0ddc70341bf549beee0b1d7ba736c651d991410b820a3e0bdae464e4c414d1f87c9cf4#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517556&amp;idx=1&amp;sn=3840b8b034f235fe1e12070077343f4d&amp;chksm=eb07bd0ddc70341bf549beee0b1d7ba736c651d991410b820a3e0bdae464e4c414d1f87c9cf4#rd"/>
-        <updated>2026-03-13T00:00:00.000Z</updated>
-        <published>2026-03-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624136&amp;idx=1&amp;sn=87d16846a10202c62a08e9376a8ff791&amp;chksm=80224509b755cc1ff87c51453ee25722134a185da529c2d13a8835b9b7fa6fa58b895a5998bc#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624136&amp;idx=1&amp;sn=87d16846a10202c62a08e9376a8ff791&amp;chksm=80224509b755cc1ff87c51453ee25722134a185da529c2d13a8835b9b7fa6fa58b895a5998bc#rd"/>
         <updated>2026-03-13T00:00:00.000Z</updated>
         <published>2026-03-13T00:00:00.000Z</published>
     </entry>

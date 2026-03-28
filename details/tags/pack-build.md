@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-28 09:06:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-28 12:08:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -8,6 +8,7 @@
 
 
 - [2026-03-27-刚刚，Vite-两个新工具发布！Webpack-完！](http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2235194d632f5ccd6d92556e4123dca2) 
+- [2026-03-27-别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s/hEBK6mHO5nM5Sm8MWEmQWQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3c42bde4e9133a33914dcc292053b348) 
 - [2026-03-24-【第3675期】别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278808&idx=1&sn=cb062b1747e889741fc1ad1e42b7c225&chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=48eb58d9afd8932362d9060125fd08d3) 
 - [2026-03-21-尤雨溪转发庆祝，Claude.ai-抛弃-SSR-拥抱-Vite，性能飙升！](http://mp.weixin.qq.com/s/e4KkP-hepeBqhhaIN9IiQg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d8328ad201c64d610e707ab0a9ee4ae) 
 - [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=faf433affe522ee3f47ca53649f0423a) 
@@ -71,8 +72,8 @@
 - [2025-06-04-【第3521期】如何在-React-中构建一个库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276606&idx=1&sn=9428064706c9d9b0f531ce5d0d836f65&chksm=bc95b16b37ad279d98879b84590896ccfe0a518ae447ddb6b2dd01d1d561a9d38662176711a0&scene=0#rd) 
 - [2025-05-29-量大管饱，这9个-vite-插件让你的开发更简单！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517238&idx=1&sn=d719880088ae6e08bcb13820d0e4b5fa&chksm=eb07bc4fdc703559d8ad3d6bdc6e63e8f4a74848c0558a46f9a9f7c30e6fc2809b4369c5bc63#rd) 
 - [2025-05-29-vite构建优化，速度提升了73%-&amp;-rollup拆包8.4M降低至1000kb](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526308&idx=1&sn=e216b490720cda5ebfcfd1fbfbea7628&chksm=f9926175cee5e863b26a58d3e844b1ccd63e6557aef6ba52ff144601942966364a8461f2bcb7#rd) 
-- [2025-05-22-ESLint-v9.26.0-发布，支持-MCP-了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=2&sn=2f8528a3c4d1b8cc1e5c204201bb76f7&chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd) 
 - [2025-05-22-Vite打包优化实践：从分包到性能提升](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=1&sn=7ffa75e637ef9ee7aaf37acb1e98672a&chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd) 
+- [2025-05-22-ESLint-v9.26.0-发布，支持-MCP-了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=2&sn=2f8528a3c4d1b8cc1e5c204201bb76f7&chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd) 
 - [2025-05-15-2025年了，npm-与-pnpm我们该如何选择](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526203&idx=2&sn=d305a5a57779ffca6bf60fad6f339550&chksm=f99261eacee5e8fcae46c225dfaa38e547fa798a0abbeeaa20c8111b3430bee5386f421079a7#rd) 
 - [2025-05-14-【第3508期】FunProxy---使用-Rust-构建跨平台全链路测试抓包代理工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276415&idx=1&sn=cb9e09054ffb312debb0041744653b0c&chksm=bc84ab0fdb0598b0c31390f180a0e8a94291d6e05a92ec23040167cdeb2044086ec2ca3422b3&scene=0#rd) 
 - [2025-05-06-尤雨溪：让-AI-更好的理解-Vue、Vite](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517190&idx=1&sn=b8d5a1394157568fef2cb011b17fcec2&chksm=eb07bc7fdc703569e40705b412311fa5d36e6514637219bf7e8d9e03afa1af6b5a4c65c441ce#rd) 
@@ -96,8 +97,8 @@
 - [2025-03-08-写了5个vite插件后，发现其实vite插件并不难](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525526&idx=2&sn=becccd0f94abfd7431ae83f71805ee97&chksm=f9926247cee5eb51b1876ef36cbf4fa13cf3c13b452c62b4cdb9c11560f58de09c6120a843c6#rd) 
 - [2025-03-07-查看-npm-安装的全局包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525518&idx=2&sn=2a49523f3710f9d8e1be4c280530981f&chksm=f992625fcee5eb49b205c4779574b462db34353bb48c62c46c3b7c6785d6356307f44de5aa48#rd) 
 - [2025-03-06-【第3467期】使用-LLMS-构建网站](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275931&idx=1&sn=016edab733228e48f5407e6f733291db&chksm=bc40dcd5857dcdbfb3938094c299d7275008acad09c31862aa448352b73eb1e0d22f67706f48&scene=0#rd) 
-- [2025-03-05-ESlint-过去、现在、未来](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525499&idx=2&sn=08075185c312233eab18e7ff3407d396&chksm=f99262aacee5ebbcaff1796d7ffaceb1fcc9902bb5bb90bf074786eda40689d76c9c7d6987ec#rd) 
 - [2025-03-05-AST、Babel、TSC---啃着啃着就会了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525499&idx=1&sn=2becb2be37a641c06bf873b9f3b7c970&chksm=f99262aacee5ebbcecd834e6c6ac131392bcea8f65468b4ff3b90596acd11d14ec3485126b14#rd) 
+- [2025-03-05-ESlint-过去、现在、未来](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525499&idx=2&sn=08075185c312233eab18e7ff3407d396&chksm=f99262aacee5ebbcaff1796d7ffaceb1fcc9902bb5bb90bf074786eda40689d76c9c7d6987ec#rd) 
 - [2025-02-26-npm-够用吗？初创企业为何追捧这个-JavaScript-软件包注册表？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525814&idx=1&sn=bf3e65ceac08ece072f8e69502fd38f5&chksm=f952d0f5ce2559e366ea2e9b2645a6edd1b2a9928f6865f54317311abf72e3bb3b61c52006d3#rd) 
 - [2025-02-21-面试复盘：Vue-和-React-的区别，从编译原理的角度来聊](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517091&idx=1&sn=55e8c85531035ac491e38f5d854f1a8a&chksm=eb07bbdadc7032ccac4fe38881e14dadbc23a0731fc8dbd9e43e222630194459172c919bf095#rd) 
 - [2025-02-16-React-官方弃用-Create-React-App，尤雨溪推荐这个工具以迁移至-Vite](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525323&idx=1&sn=8a1614637b5094231509c38c3f025a70&chksm=f992651acee5ec0cd06cd829908c7ab7cd0f7a1c82a83032bfa02f3e04b6265f43b34c8d7371#rd) 
@@ -164,8 +165,8 @@
 - [2023-10-23-前端根本不需要构建！“技术邪教”-Ruby-on-Rails-之父再出激进言论引争议](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522638&idx=1&sn=d4e6936f3c00929d8f889e2486659c93&chksm=f9522c0dce25a51b363dc246b528c29970f78f78c52d2a6fde7e57f3df6f9680489afd7aefa0#rd) 
 - [2023-10-19-深度剖析-Vite-配置文件](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617049&idx=2&sn=2476675828c70c22035eb3ac1f66ec1d&chksm=8022a0d8b75529cebf36439b0a4fb04385fdd2436511af77833c3a28223b1aab7d0d125456fc#rd) 
 - [2023-10-18-Bun-炒作的太火了，不过是另一个-yarn-的故事？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514240&idx=1&sn=ba638f871b67a59a54a169933a45a98b&chksm=eb0780f9dc7009ef5926dde199861e9f8e62cc4b66efdd5deedad4039b9fb1b3f3162f3ee812#rd) 
-- [2023-10-18-Vite3+Vue3+ts+pinia+NaiveUI项目实战--国际化配置](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516673&idx=2&sn=35b021eefe3edd9a018569bfbc516fdd&chksm=f99284d0cee50dc6d5c0eb60436639d8f3fe92e605e4fde01cf1ff0f330d7137dddb78146232#rd) 
 - [2023-10-18-一文揭秘Vue3组件库的优雅打包与细节](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516673&idx=1&sn=feae1cb7db06bb08635c1c87d95a8a42&chksm=f99284d0cee50dc61cb53fec7d267ff832c772ca59f96a63d12190d79cc0c16860ccf0ebe1a8#rd) 
+- [2023-10-18-Vite3+Vue3+ts+pinia+NaiveUI项目实战--国际化配置](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516673&idx=2&sn=35b021eefe3edd9a018569bfbc516fdd&chksm=f99284d0cee50dc6d5c0eb60436639d8f3fe92e605e4fde01cf1ff0f330d7137dddb78146232#rd) 
 - [2023-10-17-DHH锐评-“打包工具”：前端根本不需要构建-No-Build](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617025&idx=2&sn=b684f1a353b88dca95e4a636654b8aa9&chksm=8022a0c0b75529d6293d7a3cabdc6d5e7b78460469b05a91136098f0940dee4f470826bf319f#rd) 
 - [2023-10-08-Vite-4.3-正式发布，极致的性能优化！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516545&idx=2&sn=a66508c0a6b1553d84261955af8391ab&chksm=f9928750cee50e46185117ebe2842ef594ebf814878a0375148210fb04489a529f3df9d87dda#rd) 
 - [2023-10-07-Vite-的现状与未来展望](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496763&idx=1&sn=a7956d6447cf2abec401dcf7bc3d426b&chksm=ce2697cdf9511edbbbc00bbd6fb9f04134ccdd087c41246476d51f80a3668cd59963bd482b48#rd) 
@@ -365,8 +366,8 @@
 - [2022-01-25-一文彻底读懂ESLint](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502771&idx=1&sn=160962347281b92b7bf47016a8d2027d&chksm=f992cd62cee5447497d75055eed9bac85175c480d43caf5ed98d1972a1ab31b5f54f5b7e44f9#rd) 
 - [2022-01-22-一文精通-Webpack-构建流程](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060935&idx=2&sn=3351595ab8ac1dad314e0efda7adb0a2&chksm=87c421d7b0b3a8c1d19300c510cf3cac2255797b9db722bb9d263ae288d7c55c3143c49e5f1f#rd) 
 - [2022-01-20-自己动手写符合自己业务需求的-eslint-规则](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495217&idx=1&sn=f5c99bd0d97a90282b2c8aa3b6c9fc0b&chksm=ec47a5f2db302ce489d71e5f046cd10d78380828d19dba5fec72c1fd556eb2711d52b12e69f2#rd) 
-- [2022-01-20-为什么-vue-源码以及生态仓库要迁移-pnpm?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502728&idx=2&sn=cb5aa2698fd2b7fa70711a9f0f2d0b0b&chksm=f992cd59cee5444f97cb6524b52557f71c587a677efe066f56dde4791e31c588f7a911660527#rd) 
 - [2022-01-20-基于pnpm-+-lerna-+-typescript的最佳项目实践---理论篇](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502728&idx=1&sn=21c012b5ef9f3414479e5857596706f1&chksm=f992cd59cee5444f1bc9f4773c1d6fe07ce3a8efb380b262dc4822ed4c4b6abb4cbf3600dabf#rd) 
+- [2022-01-20-为什么-vue-源码以及生态仓库要迁移-pnpm?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502728&idx=2&sn=cb5aa2698fd2b7fa70711a9f0f2d0b0b&chksm=f992cd59cee5444f97cb6524b52557f71c587a677efe066f56dde4791e31c588f7a911660527#rd) 
 - [2022-01-20-前端也要懂编译：Babel-全景上手指南](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060928&idx=2&sn=60165136873388cdffae3a2e947054c6&chksm=87c421d0b0b3a8c61896dd405aef1ee5416c7f8f7678b6dd08ac0e62be6dd20cb27def918dcd#rd) 
 - [2022-01-17-【第2514期】深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252270&idx=1&sn=16fc30a50bf6cbf529a70bb6f9baa021&chksm=bd493faa8a3eb6bc72c747e686f60c4833a48c42aea8d83ee950da8f959b1f91c4e8f5fa8a6c#rd) 
 - [2022-01-16-升级-Yarn-2，大规模瘦身-node_modules](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595189&idx=2&sn=f8666830ba7485bd3126bd0f87610e12&chksm=8022f674b7557f620e05122c2490475f0182ecc82965ff31ebbf546bba0b1dec508d8e36dd23#rd) 
