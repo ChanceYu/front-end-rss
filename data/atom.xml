@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-28T04:08:02.835Z</updated>
+    <updated>2026-03-28T06:43:57.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[别再裸用 Claude Code 了！32 个亲测技能 + 8 个 MCP 服务器，开发效率直接拉满！]]></title>
         <id>http://mp.weixin.qq.com/s/jPZsQsXt3ugysBn4bIHOag</id>
         <link href="http://mp.weixin.qq.com/s/jPZsQsXt3ugysBn4bIHOag"/>
+        <updated>2026-03-26T00:00:00.000Z</updated>
+        <published>2026-03-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别搞混了！MCP 和 Agent Skill 到底有什么区别？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624270&amp;idx=1&amp;sn=5ea044378804aac90c99a512f0841ced&amp;chksm=8022448fb755cd99287d93c79da36f31423d24435ff43c54b7227af4a95586aaa661fadd3d36#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624270&amp;idx=1&amp;sn=5ea044378804aac90c99a512f0841ced&amp;chksm=8022448fb755cd99287d93c79da36f31423d24435ff43c54b7227af4a95586aaa661fadd3d36#rd"/>
         <updated>2026-03-26T00:00:00.000Z</updated>
         <published>2026-03-26T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Claude 上线组团审代码：一条 PR 最高 25 美元，你的代码库还得"上交"给它]]></title>
         <id>http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw</id>
         <link href="http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw"/>
-        <updated>2026-03-13T00:00:00.000Z</updated>
-        <published>2026-03-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 388 期）：测试是新的护城河]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html"/>
         <updated>2026-03-13T00:00:00.000Z</updated>
         <published>2026-03-13T00:00:00.000Z</published>
     </entry>
