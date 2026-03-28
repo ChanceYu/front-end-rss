@@ -95,14 +95,15 @@ function handleTags(newData, linksJson, processedMap) {
 
 /**
  * 生成每个详情页面
+ * @param {boolean} [regenerateAll] - 为 true 时写入全部 RSS 源（脚本直接运行 writemd.js）；否则仅在有 newData 更新时写入对应源
  */
-function handleDetails(newData, linksJson, processedMap) {
+function handleDetails(newData, linksJson, processedMap, regenerateAll) {
   const currentDate = utils.getNowDate()
   let content = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString()
   let compiled = _.template(content)
 
   linksJson.forEach((source) => {
-    if (source.title in newData.rss) {
+    if (regenerateAll || source.title in newData.rss) {
       source.currentDate = currentDate
       source.formatTitle = utils.formatTitle
       source.processedMap = processedMap
@@ -123,20 +124,20 @@ const run = async function (newData = {
   rss: {},
   links: {},
   articles: []
-}, linksJson) {
+}, linksJson, regenerateAll = false) {
   const processedMap = fs.pathExistsSync(ARTICLES_PROCESSED_PATH)
     ? fs.readJsonSync(ARTICLES_PROCESSED_PATH)
     : {}
   await handleREADME(newData, linksJson, processedMap)
   handleTags(newData, linksJson, processedMap)
-  handleDetails(newData, linksJson, processedMap)
+  handleDetails(newData, linksJson, processedMap, regenerateAll)
 }
 
 const isRunAsScript = process.argv[1] && path.basename(process.argv[1]) === 'writemd.js'
 if (isRunAsScript) {
   const linksJson = fs.pathExistsSync(LINKS_PATH) ? fs.readJsonSync(LINKS_PATH) : []
   const newData = { length: 0, titles: [], rss: {}, links: {}, articles: [] }
-  run(newData, linksJson)
+  run(newData, linksJson, true)
     .then(() => process.exit(0))
     .catch((e) => { console.error(e); process.exit(1) })
 }

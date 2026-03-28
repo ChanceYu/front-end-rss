@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-06 01:19:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-28 21:58:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 字节前端-ByteFE
 
@@ -7,7 +7,7 @@
 
 - [2025-12-16-豆包-应用生成「一点都不技术」创作派对-·-一起来玩儿！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506133&idx=1&sn=1d4b9ff25a4a5c879eac3d88e2cd0ae2&chksm=cea96fd4f9dee6c205f1b2f9d1e0a3829c256edf7e519aac00decd02497f2ab6a28b3a72821a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28e4a70aabca6a3ddb9bd49c2281e164) 
 - [2025-12-03-AI赋能成长，豆包-应用生成“一点都不技术”挑战赛创作分享第二期来啦！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506128&idx=1&sn=0b9341c31064697eef8dcccc06272b24&chksm=cea96fd1f9dee6c7052f888c5d1bce132967747c58f7daba3ef4a67e42b4a208c24811a83650#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4926632218fc237d79494d2ac86cf672) 
-- [2025-11-19-和“动物塑”创作者面对面！豆包-应用生成“一点都不技术”挑战赛的创作分享来啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506123&idx=1&sn=469d203c58b7734f580c0a0fc622e1c3&chksm=cea96fcaf9dee6dc48075a1cb7e56be8752cfe5c0fc82d1912e1abb4b6b0bfa80a7c5ac6f7b7#rd) 
+- [2025-11-19-和“动物塑”创作者面对面！豆包-应用生成“一点都不技术”挑战赛的创作分享来啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506123&idx=1&sn=469d203c58b7734f580c0a0fc622e1c3&chksm=cea96fcaf9dee6dc48075a1cb7e56be8752cfe5c0fc82d1912e1abb4b6b0bfa80a7c5ac6f7b7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9069392b62b79aeedf3e45cdec06547c) 
 - [2025-11-11-豆包-应用生成「一点都不技术」创作挑战赛开启，20-万奖池等你解锁！](http://mp.weixin.qq.com/s/xK4w6NX-eupUrdI33mDE8A) 
 - [2025-10-24-豆包编程升级，新增创作模式，让创意轻松实现](http://mp.weixin.qq.com/s/6pT1xECveLM7iTqiYvjH-g) 
 - [2025-09-26-免费报名中，到场即有字节周边｜豆包编程Workshop深圳场---「一点都不技术」的创作派对](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506104&idx=1&sn=31656cdc75c005aa5124784b9298de66&chksm=cea96fb9f9dee6af326fbb5d46997b3294a9a27a57763ce96fadfe4580d8bfc3c624fc962f59#rd) 
