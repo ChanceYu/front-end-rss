@@ -1,12 +1,14 @@
-:alarm_clock: 更新时间: 2026-03-30 15:14:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-31 02:44:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-03-30-Codex-Plugins-来了，我拿它做了第一个实验：把微信接进去，体验翻车了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523103&idx=1&sn=2bebf517423637d86b233186716e7493&chksm=e80fd451df785d479cd744f05176c87e94ffe567e513c89fee93f6643f2f1506f3dd26bbdb82#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14203a7f69ff3459705e49aaaf6c4005) 
 - [2026-03-30-CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e8e5062081b938e9e4df67bf38cc395) 
 - [2026-03-30-【早说】用Karpathy的自动研究法，让Claude技能全自动进化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278841&idx=1&sn=e762bc54b4bbb5b0241fb21e4c55724c&chksm=bc9f23e7052140459dd76fc264be79a0da4e99560e7558995a0a3f74e6bae80db75c12d16599&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=24219f568ce8f9f8b8d8d730e9ebd2e3) 
+- [2026-03-28-Next.js-不写给人类了？新版本的四个改动，全是给-AI-Agent-准备的](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523085&idx=1&sn=ea65083747c5e02cb075955ff60794a5&chksm=e80fd443df785d557c1c665080169b63a803afdfe3974a2b2a91305d0e81a25f2ef873f3372c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5f0f644afc6d1965c71fd7683a11422) 
 - [2026-03-27-科技爱好者周刊（第-390-期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=073df49de2977e08665689ac04a543d0) 
 - [2026-03-27-97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90a1d805c6821557f4eccd1be2d00e16) 
 - [2026-03-27-刚刚，Vite-两个新工具发布！Webpack-完！](http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2235194d632f5ccd6d92556e4123dca2) 
@@ -25,8 +27,8 @@
 - [2026-03-24-AI-已能写-80%-代码，但-Agent-也有致命短板！](http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2fac7d91d3aaa43b49ad19eb1fc8facb) 
 - [2026-03-24-【第3675期】别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278808&idx=1&sn=cb062b1747e889741fc1ad1e42b7c225&chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=48eb58d9afd8932362d9060125fd08d3) 
 - [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d0951a7d0cbc423bd09580c6dc93539d) 
-- [2026-03-23-安卓也支持了！微信链接-Claude-Code-保姆级教程](http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=eb35da0a3d29e50bbcbe52c85b94bcd1) 
 - [2026-03-23-微信刚发布-ClawBot，我就把-Claude-Code-接了进去！](http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8339ccd98bb93b93de1c41fc9c82ae36) 
+- [2026-03-23-安卓也支持了！微信链接-Claude-Code-保姆级教程](http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=eb35da0a3d29e50bbcbe52c85b94bcd1) 
 - [2026-03-23-知识基座：让“AI-越用越懂业务”的团队经验实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cde722a2acae70ca2f77074b5169c471) 
 - [2026-03-23-从-nanobot-理解-openclaw-核心设计](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529495&idx=1&sn=49439277e289e9948fb70033f69862e5&chksm=f99272c6cee5fbd0a2e43a039ee7e5eb9fc8958d8eb3e19bee8c4fa9f112dcdcf132db72efa7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6829985cc37c3fb667d478974ba28203) 
 - [2026-03-23-【第3674期】Claude-Code-技能实战指南：来自-Anthropic-内部的经验总结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278796&idx=1&sn=ae74d4204ea67ce9a7f9a44df91ec00c&chksm=bc234bff6ad75f48aea9ff5c2aebd0b9b9c0bb755c7bdfc327341ede689ebdb29aa1ffe7d9d7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c03c0567c066de52e119df074d7d891d) 
@@ -62,8 +64,8 @@
 - [2026-03-16-尤雨溪出手了：前端工具链的「大一统」时代](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529444&idx=1&sn=66ecac1ef588944e42da34e1f5af9d4f&chksm=f9927535cee5fc232fda8819fa58e36288a6652776414d38f1f3a40e6ca5749feae3f5aed616#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50178b1ebf56ac4bffa41970a011797b) 
 - [2026-03-16-48-小时欠谷歌-56-万！三人开发小团队要破产了，只因-Gemini-API-密钥被盗用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624176&idx=1&sn=ca425dffac3520b0df6b941f82248334&chksm=80224531b755cc27f6f0afb18a9498d5f497bfa7030a37d0eaa46a327ffbf7da1a0404d66803#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8cea4c85760db8d1516948d6df9fdc27) 
 - [2026-03-16-【第3670期】AI-工程实战：Claude-Code-团队总结的六条反直觉缓存法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278747&idx=1&sn=123edfcd2136f85e486428c863008faf&chksm=bca29b86b72625b42750c50b71e0dbb486984ae071eb3a19519ccdac9a84eec77ac006a756b8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8717aa9d5a98377bd08ed373d10be35b) 
-- [2026-03-15-Skills-Hub-可视化管理桌面工具发布-v0.3：一大波功能更新！](http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72db04d099f0df12c69698eb420078d4) 
 - [2026-03-15-重磅！尤雨溪宣布-Vite+-开源，所有人免费用，这次前端工具链真要大一统了](http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c15d6501c0e89f7ba3a9aaca59d467fa) 
+- [2026-03-15-Skills-Hub-可视化管理桌面工具发布-v0.3：一大波功能更新！](http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72db04d099f0df12c69698eb420078d4) 
 - [2026-03-15-18-岁创业者用-OpenClaw-管-16-个-AI-Agent，一个人的-Agent-公司怎么运转](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526537&idx=1&sn=28314d27c60bebda882b03976db9bef0&chksm=f952ddcace2554dc0d6243571dd6c6b9e84dc31c22665eee4179695181a8e55db4f0f7219bad#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8c2a551fccd6c05e0fe817392312ef5d) 
 - [2026-03-15-腾讯真给龙虾打钱了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624157&idx=1&sn=a7f45754ff7807ecc8f6ce0bd33514eb&chksm=8022451cb755cc0adf24c2bc9846c34db6335b6479908d424fb7bd0b457b471eea536b2f742c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0c4b60ec49a97b8cd3c850fb680d402) 
 - [2026-03-14-Vite-8-正式发布！架构彻底推翻，构建从-46-秒干到-6-秒，前端工具链变天了](http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9ef8129deaadb6642fe95cce1a28058b) 

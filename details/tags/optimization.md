@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-30 15:14:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-31 02:44:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-03-30-Codex-Plugins-来了，我拿它做了第一个实验：把微信接进去，体验翻车了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523103&idx=1&sn=2bebf517423637d86b233186716e7493&chksm=e80fd451df785d479cd744f05176c87e94ffe567e513c89fee93f6643f2f1506f3dd26bbdb82#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14203a7f69ff3459705e49aaaf6c4005) 
 - [2026-03-24-前端发版后页面白屏？一套解决用户停留旧页面问题的完整方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529538&idx=1&sn=fa53f719ba91ed033fae434acdf2f443&chksm=f9927293cee5fb856f554e25b5367b1f8bc638c899ff4eb73442b4781657d7f22797f6ee0ef0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f4f0cd4ace5924b2093000c24d1a7522) 
 - [2026-03-21-尤雨溪转发庆祝，Claude.ai-抛弃-SSR-拥抱-Vite，性能飙升！](http://mp.weixin.qq.com/s/e4KkP-hepeBqhhaIN9IiQg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d8328ad201c64d610e707ab0a9ee4ae) 
 - [2026-03-16-【第3670期】AI-工程实战：Claude-Code-团队总结的六条反直觉缓存法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278747&idx=1&sn=123edfcd2136f85e486428c863008faf&chksm=bca29b86b72625b42750c50b71e0dbb486984ae071eb3a19519ccdac9a84eec77ac006a756b8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8717aa9d5a98377bd08ed373d10be35b) 

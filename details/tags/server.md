@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-30 15:14:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-31 02:44:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-03-30-Codex-Plugins-来了，我拿它做了第一个实验：把微信接进去，体验翻车了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523103&idx=1&sn=2bebf517423637d86b233186716e7493&chksm=e80fd451df785d479cd744f05176c87e94ffe567e513c89fee93f6643f2f1506f3dd26bbdb82#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14203a7f69ff3459705e49aaaf6c4005) 
 - [2026-03-26-别再裸用-Claude-Code-了！32-个亲测技能-+-8-个-MCP-服务器，开发效率直接拉满！](http://mp.weixin.qq.com/s/jPZsQsXt3ugysBn4bIHOag)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f657ee79c57bd9c719991e3b736f4de5) 
 - [2026-03-21-尤雨溪转发庆祝，Claude.ai-抛弃-SSR-拥抱-Vite，性能飙升！](http://mp.weixin.qq.com/s/e4KkP-hepeBqhhaIN9IiQg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d8328ad201c64d610e707ab0a9ee4ae) 
 - [2026-03-17-浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5d45f581f6b0f5577946686c52eb8c3) 

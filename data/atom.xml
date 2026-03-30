@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-30T07:13:33.290Z</updated>
+    <updated>2026-03-30T18:43:35.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Codex Plugins 来了，我拿它做了第一个实验：把微信接进去，体验翻车了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523103&amp;idx=1&amp;sn=2bebf517423637d86b233186716e7493&amp;chksm=e80fd451df785d479cd744f05176c87e94ffe567e513c89fee93f6643f2f1506f3dd26bbdb82#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523103&amp;idx=1&amp;sn=2bebf517423637d86b233186716e7493&amp;chksm=e80fd451df785d479cd744f05176c87e94ffe567e513c89fee93f6643f2f1506f3dd26bbdb82#rd"/>
+        <updated>2026-03-30T00:00:00.000Z</updated>
+        <published>2026-03-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS corner-shape与背景底纹技术]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/</id>
@@ -27,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278841&amp;idx=1&amp;sn=e762bc54b4bbb5b0241fb21e4c55724c&amp;chksm=bc9f23e7052140459dd76fc264be79a0da4e99560e7558995a0a3f74e6bae80db75c12d16599&amp;scene=0#rd"/>
         <updated>2026-03-30T00:00:00.000Z</updated>
         <published>2026-03-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js 不写给人类了？新版本的四个改动，全是给 AI Agent 准备的]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523085&amp;idx=1&amp;sn=ea65083747c5e02cb075955ff60794a5&amp;chksm=e80fd443df785d557c1c665080169b63a803afdfe3974a2b2a91305d0e81a25f2ef873f3372c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523085&amp;idx=1&amp;sn=ea65083747c5e02cb075955ff60794a5&amp;chksm=e80fd443df785d557c1c665080169b63a803afdfe3974a2b2a91305d0e81a25f2ef873f3372c#rd"/>
+        <updated>2026-03-28T00:00:00.000Z</updated>
+        <published>2026-03-28T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI Coding实践系列】]]></title>
@@ -127,16 +141,16 @@
         <published>2026-03-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
-        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
-        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
+        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
+        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
+        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
-        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
-        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
+        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
+        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
+        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
@@ -323,16 +337,16 @@
         <published>2026-03-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
-        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
-        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
+        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
+        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
+        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重磅！尤雨溪宣布 Vite+ 开源，所有人免费用，这次前端工具链真要大一统了]]></title>
-        <id>http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg</id>
-        <link href="http://mp.weixin.qq.com/s/R0bDm03YyV2HycJRmuXRsg"/>
+        <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
+        <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
+        <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg"/>
         <updated>2026-03-14T00:00:00.000Z</updated>
         <published>2026-03-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚，尤雨溪宣布正式推出Vite Plus，竟不收费？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517558&amp;idx=1&amp;sn=6f9b01aa83df8ec54d293cda8da71bce&amp;chksm=eb07bd0fdc7034198e0243735dcb1cf228975f48e68770f0885d650b785e0dea6738ab9d10e8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517558&amp;idx=1&amp;sn=6f9b01aa83df8ec54d293cda8da71bce&amp;chksm=eb07bd0fdc7034198e0243735dcb1cf228975f48e68770f0885d650b785e0dea6738ab9d10e8#rd"/>
-        <updated>2026-03-14T00:00:00.000Z</updated>
-        <published>2026-03-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude 上线组团审代码：一条 PR 最高 25 美元，你的代码库还得"上交"给它]]></title>
-        <id>http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw</id>
-        <link href="http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw"/>
-        <updated>2026-03-13T00:00:00.000Z</updated>
-        <published>2026-03-13T00:00:00.000Z</published>
     </entry>
 </feed>
