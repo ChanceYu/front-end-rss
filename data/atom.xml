@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-28T08:26:01.540Z</updated>
+    <updated>2026-03-30T07:13:33.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,18 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI Coding实践系列】]]></title>
-        <id>http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g</id>
-        <link href="http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g"/>
-        <updated>2026-03-27T00:00:00.000Z</updated>
-        <published>2026-03-27T00:00:00.000Z</published>
+        <title type="html"><![CDATA[CSS corner-shape与背景底纹技术]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/"/>
+        <updated>2026-03-30T00:00:00.000Z</updated>
+        <published>2026-03-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早说】用Karpathy的自动研究法，让Claude技能全自动进化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278841&amp;idx=1&amp;sn=e762bc54b4bbb5b0241fb21e4c55724c&amp;chksm=bc9f23e7052140459dd76fc264be79a0da4e99560e7558995a0a3f74e6bae80db75c12d16599&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278841&amp;idx=1&amp;sn=e762bc54b4bbb5b0241fb21e4c55724c&amp;chksm=bc9f23e7052140459dd76fc264be79a0da4e99560e7558995a0a3f74e6bae80db75c12d16599&amp;scene=0#rd"/>
+        <updated>2026-03-30T00:00:00.000Z</updated>
+        <published>2026-03-30T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI Coding实践系列】]]></title>
@@ -85,13 +92,6 @@
         <published>2026-03-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[拒绝“感觉有效”：用数据证明 AI Coding 的真实团队价值【天猫AI Coding实践系列】]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543083&amp;idx=1&amp;sn=b4759cb5c4ce079dc214782e37a0a506&amp;chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543083&amp;idx=1&amp;sn=b4759cb5c4ce079dc214782e37a0a506&amp;chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd"/>
-        <updated>2026-03-25T00:00:00.000Z</updated>
-        <published>2026-03-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【第3676期】Node.js 终于有了虚拟文件系统：node:vfs 来了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278813&amp;idx=1&amp;sn=80c81e8f0c210a87af8d57d50eb75cea&amp;chksm=bc3e9b6577e3c0ccdb6665b94de47c558fb761c9df30bd83777f9048d053c6592c2788804ad7&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278813&amp;idx=1&amp;sn=80c81e8f0c210a87af8d57d50eb75cea&amp;chksm=bc3e9b6577e3c0ccdb6665b94de47c558fb761c9df30bd83777f9048d053c6592c2788804ad7&amp;scene=0#rd"/>
@@ -137,13 +137,6 @@
         <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
         <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
         <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
-        <updated>2026-03-23T00:00:00.000Z</updated>
-        <published>2026-03-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知识基座：让“AI 越用越懂业务”的团队经验实践【天猫AI Coding实践系列】]]></title>
-        <id>http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ</id>
-        <link href="http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
@@ -260,13 +253,6 @@
         <published>2026-03-18T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Coding前端实践后的复盘总结]]></title>
-        <id>http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA</id>
-        <link href="http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA"/>
-        <updated>2026-03-18T00:00:00.000Z</updated>
-        <published>2026-03-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Claude Code vs Codex：AI 编码协作的官方实践全解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529461&amp;idx=1&amp;sn=1fc622e6d90902c982892e71fa34e777&amp;chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529461&amp;idx=1&amp;sn=1fc622e6d90902c982892e71fa34e777&amp;chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd"/>
@@ -363,5 +349,19 @@
         <link href="http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg"/>
         <updated>2026-03-14T00:00:00.000Z</updated>
         <published>2026-03-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚刚，尤雨溪宣布正式推出Vite Plus，竟不收费？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517558&amp;idx=1&amp;sn=6f9b01aa83df8ec54d293cda8da71bce&amp;chksm=eb07bd0fdc7034198e0243735dcb1cf228975f48e68770f0885d650b785e0dea6738ab9d10e8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517558&amp;idx=1&amp;sn=6f9b01aa83df8ec54d293cda8da71bce&amp;chksm=eb07bd0fdc7034198e0243735dcb1cf228975f48e68770f0885d650b785e0dea6738ab9d10e8#rd"/>
+        <updated>2026-03-14T00:00:00.000Z</updated>
+        <published>2026-03-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude 上线组团审代码：一条 PR 最高 25 美元，你的代码库还得"上交"给它]]></title>
+        <id>http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw</id>
+        <link href="http://mp.weixin.qq.com/s/ytJ8a9OuWUUryZJ4E--Quw"/>
+        <updated>2026-03-13T00:00:00.000Z</updated>
+        <published>2026-03-13T00:00:00.000Z</published>
     </entry>
 </feed>

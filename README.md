@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-28 21:58:33，:rocket: 更新条数: +0， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-30 15:14:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -87,6 +87,7 @@
 </summary>
 
 
+- [2026-03-30-【早说】用Karpathy的自动研究法，让Claude技能全自动进化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278841&idx=1&sn=e762bc54b4bbb5b0241fb21e4c55724c&chksm=bc9f23e7052140459dd76fc264be79a0da4e99560e7558995a0a3f74e6bae80db75c12d16599&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=24219f568ce8f9f8b8d8d730e9ebd2e3)  ![](/assets/new.png) 
 - [2026-03-27-【第3677期】深入解剖-.claude/-文件夹：Claude-Code-的隐藏控制中枢](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278835&idx=1&sn=4e93359b8c4aeb263947a58a0f553a5f&chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=99add4dd12e2bbba1b91f43a196d574c)  
 - [2026-03-26-【早说】智能体工程的八重境界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278825&idx=1&sn=f0b2fbb1b6875140057155fbd56989a8&chksm=bc5746aafc9944fa78e72a3b19fff74b858059a38d70cca896229b414be87694d1261e60143a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=525bf5b9998c670208c123171603328d)  
 - [2026-03-25-【第3676期】Node.js-终于有了虚拟文件系统：node:vfs-来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278813&idx=1&sn=80c81e8f0c210a87af8d57d50eb75cea&chksm=bc3e9b6577e3c0ccdb6665b94de47c558fb761c9df30bd83777f9048d053c6592c2788804ad7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=812473d5e9668d2f7f7b8b84f1c8462e)  
@@ -96,7 +97,6 @@
 - [2026-03-19-【早说】编程智能体如何重塑工程、产品与设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278776&idx=1&sn=fc8c8fee0bc0af56ee63bb3660aa20e3&chksm=bceea3f4ba25a4a5595fc00d71d94570866cc5e9efccecfe9867d42c4e0d9c33b824d4796c9a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3537b694c55c71f88edf0a1d63a6ab66)  
 - [2026-03-18-【第3672期】CSS-迎来原生随机能力：random-与-random-item-初探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278766&idx=1&sn=f12dfaf066546ca3b50d6cd4d9462fcd&chksm=bcdcdd4b365f2e4cb85cb53e213515970d946d9f9fad8114ec27121d1b4163008ee2aa50a97c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3a1da667d87bc95250c84b03b23faaab)  
 - [2026-03-17-【第3671期】面向数十亿行数据的虚拟滚动-——-HighTable-的核心技术解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278760&idx=1&sn=93f07b8a785063f053b723366b88dec7&chksm=bc14e5243416169dfc5f3ee8ffc2e58fef17c7d788af187fc916634feabd4f8ec55490fda008&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f56ce0ec928539fca1af42c695558876)  
-- [2026-03-16-【第3670期】AI-工程实战：Claude-Code-团队总结的六条反直觉缓存法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278747&idx=1&sn=123edfcd2136f85e486428c863008faf&chksm=bca29b86b72625b42750c50b71e0dbb486984ae071eb3a19519ccdac9a84eec77ac006a756b8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8717aa9d5a98377bd08ed373d10be35b)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -318,6 +318,7 @@
 </summary>
 
 
+- [2026-03-30-CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e8e5062081b938e9e4df67bf38cc395)  ![](/assets/new.png) 
 - [2026-03-17-浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5d45f581f6b0f5577946686c52eb8c3)  
 - [2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f9bb84eeb91885069a4c7e57a58b7cc)  
 - [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=822c0f3fd53f1b05b135738d40620e01)  
@@ -327,7 +328,6 @@
 - [2026-01-30-告别insertBefore，使用moveBefore移动DOM元素](https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=03ec37e24f1ef7cb060bbedd69b6b39a)  
 - [2026-01-22-Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=075d29e0b1067a2d6e38cdc48862924f)  
 - [2026-01-19-CSS-text-decoration-inset属性首发简介](https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca0f23412fec2060ad6ef026c9ac4a2d)  
-- [2026-01-16-纯CSS实现折线连接两个任意元素效果](https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e1a87bc0dec6deb82789431c404af136)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
