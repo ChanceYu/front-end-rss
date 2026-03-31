@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-30T18:43:35.089Z</updated>
+    <updated>2026-03-31T04:26:08.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3678期】JavaScript 解析 VIN 码：三种方案全面对比]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278846&amp;idx=1&amp;sn=0d115156c8935e60b834012164ef7800&amp;chksm=bceeca05c71c678764c030775f4d20f2c35ef6630abbaaf57b63d2cf160ee4dd7aca2ec8b20f&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278846&amp;idx=1&amp;sn=0d115156c8935e60b834012164ef7800&amp;chksm=bceeca05c71c678764c030775f4d20f2c35ef6630abbaaf57b63d2cf160ee4dd7aca2ec8b20f&amp;scene=0#rd"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <published>2026-03-31T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Codex Plugins 来了，我拿它做了第一个实验：把微信接进去，体验翻车了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523103&amp;idx=1&amp;sn=2bebf517423637d86b233186716e7493&amp;chksm=e80fd451df785d479cd744f05176c87e94ffe567e513c89fee93f6643f2f1506f3dd26bbdb82#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526537&amp;idx=1&amp;sn=28314d27c60bebda882b03976db9bef0&amp;chksm=f952ddcace2554dc0d6243571dd6c6b9e84dc31c22665eee4179695181a8e55db4f0f7219bad#rd"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite 8 正式发布！架构彻底推翻，构建从 46 秒干到 6 秒，前端工具链变天了]]></title>
-        <id>http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg</id>
-        <link href="http://mp.weixin.qq.com/s/_D1rfO9HgKhs-ApOEWDVUg"/>
-        <updated>2026-03-14T00:00:00.000Z</updated>
-        <published>2026-03-14T00:00:00.000Z</published>
     </entry>
 </feed>
