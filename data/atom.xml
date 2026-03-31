@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-31T04:26:08.143Z</updated>
+    <updated>2026-03-31T14:53:57.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[CSS corner-shape与背景底纹技术]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/"/>
+        <updated>2026-03-30T00:00:00.000Z</updated>
+        <published>2026-03-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 Vibe Coding 到范式编程：用 Spec 打造淘系交易的 AI 领域专家]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543105&amp;idx=1&amp;sn=fec6d68f9c81df650d53981a460b0b11&amp;chksm=8390dc19b4e7550f67eb5bcfedd406594f70904fdf5452690d8cda3c1bb13e3fa36df0dcc3ba#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543105&amp;idx=1&amp;sn=fec6d68f9c81df650d53981a460b0b11&amp;chksm=8390dc19b4e7550f67eb5bcfedd406594f70904fdf5452690d8cda3c1bb13e3fa36df0dcc3ba#rd"/>
         <updated>2026-03-30T00:00:00.000Z</updated>
         <published>2026-03-30T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Skills Hub 可视化管理桌面工具发布 v0.3：一大波功能更新！]]></title>
         <id>http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw</id>
         <link href="http://mp.weixin.qq.com/s/zu18WQWnFR7cU3YNRSDPMw"/>
-        <updated>2026-03-15T00:00:00.000Z</updated>
-        <published>2026-03-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18 岁创业者用 OpenClaw 管 16 个 AI Agent，一个人的 Agent 公司怎么运转]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526537&amp;idx=1&amp;sn=28314d27c60bebda882b03976db9bef0&amp;chksm=f952ddcace2554dc0d6243571dd6c6b9e84dc31c22665eee4179695181a8e55db4f0f7219bad#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526537&amp;idx=1&amp;sn=28314d27c60bebda882b03976db9bef0&amp;chksm=f952ddcace2554dc0d6243571dd6c6b9e84dc31c22665eee4179695181a8e55db4f0f7219bad#rd"/>
         <updated>2026-03-15T00:00:00.000Z</updated>
         <published>2026-03-15T00:00:00.000Z</published>
     </entry>
