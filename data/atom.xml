@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-01T10:44:50.288Z</updated>
+    <updated>2026-04-01T12:50:50.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[紧急！Axios 被投毒，3亿项目受到影响！教你怎么自查！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517566&amp;idx=1&amp;sn=92989a760237d4a09b0b767c33b0406b&amp;chksm=eb07bd07dc70341109910e6c0ad1e3a0b21e242f24b400cd18655b6ae5cf1ab66d70c1a93365#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517566&amp;idx=1&amp;sn=92989a760237d4a09b0b767c33b0406b&amp;chksm=eb07bd07dc70341109910e6c0ad1e3a0b21e242f24b400cd18655b6ae5cf1ab66d70c1a93365#rd"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <published>2026-04-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LangGraph：基于图的 AI Agent 编排框架深度解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529639&amp;idx=1&amp;sn=325db2a072d5d2f17c7d84734ca0683a&amp;chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd</id>
@@ -27,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278851&amp;idx=1&amp;sn=345f03042da9e8e147067ba61f53d100&amp;chksm=bcc60dfe4387d045b658feb6d099daafe18623fc66183e42aa721ad37cfa667b479c1b68a077&amp;scene=0#rd"/>
         <updated>2026-04-01T00:00:00.000Z</updated>
         <published>2026-04-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretext：前端文本布局的下一个范式转变]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517564&amp;idx=1&amp;sn=2cd94053d488764d59c532d486d3ad2c&amp;chksm=eb07bd05dc703413e05333028b748e1e4f0f3624682de5898deba9a50dfd447c806fc0451991#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517564&amp;idx=1&amp;sn=2cd94053d488764d59c532d486d3ad2c&amp;chksm=eb07bd05dc703413e05333028b748e1e4f0f3624682de5898deba9a50dfd447c806fc0451991#rd"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <published>2026-03-31T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【D2 演讲实录】从上下文工程到 Harness Engineering]]></title>
@@ -67,6 +81,13 @@
         <title type="html"><![CDATA[从 Vibe Coding 到范式编程：用 Spec 打造淘系交易的 AI 领域专家]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543105&amp;idx=1&amp;sn=fec6d68f9c81df650d53981a460b0b11&amp;chksm=8390dc19b4e7550f67eb5bcfedd406594f70904fdf5452690d8cda3c1bb13e3fa36df0dcc3ba#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543105&amp;idx=1&amp;sn=fec6d68f9c81df650d53981a460b0b11&amp;chksm=8390dc19b4e7550f67eb5bcfedd406594f70904fdf5452690d8cda3c1bb13e3fa36df0dcc3ba#rd"/>
+        <updated>2026-03-30T00:00:00.000Z</updated>
+        <published>2026-03-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDP 是什么？理解它，才算真正懂了前端调试工具链]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517562&amp;idx=1&amp;sn=b173e453dec75217a35c0a9012ed65a7&amp;chksm=eb07bd03dc703415615de2a6c9e1f7d226d052e2846f87d96a2f3e7e5305874f3dd0caf08388#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517562&amp;idx=1&amp;sn=b173e453dec75217a35c0a9012ed65a7&amp;chksm=eb07bd03dc703415615de2a6c9e1f7d226d052e2846f87d96a2f3e7e5305874f3dd0caf08388#rd"/>
         <updated>2026-03-30T00:00:00.000Z</updated>
         <published>2026-03-30T00:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[浅学WebTransport API：下一代Web双向通信技术]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/"/>
-        <updated>2026-03-17T00:00:00.000Z</updated>
-        <published>2026-03-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karpathy紧急删库！AI职业末日图爆火]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624197&amp;idx=1&amp;sn=dd936eb62120c745be060cd2e37dbf67&amp;chksm=802244c4b755cdd205d798a0cc2eb9e8533f38525a5115ee90a5e07a01bb18ce4a531350678f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624197&amp;idx=1&amp;sn=dd936eb62120c745be060cd2e37dbf67&amp;chksm=802244c4b755cdd205d798a0cc2eb9e8533f38525a5115ee90a5e07a01bb18ce4a531350678f#rd"/>
-        <updated>2026-03-17T00:00:00.000Z</updated>
-        <published>2026-03-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3671期】面向数十亿行数据的虚拟滚动 —— HighTable 的核心技术解析]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278760&amp;idx=1&amp;sn=93f07b8a785063f053b723366b88dec7&amp;chksm=bc14e5243416169dfc5f3ee8ffc2e58fef17c7d788af187fc916634feabd4f8ec55490fda008&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278760&amp;idx=1&amp;sn=93f07b8a785063f053b723366b88dec7&amp;chksm=bc14e5243416169dfc5f3ee8ffc2e58fef17c7d788af187fc916634feabd4f8ec55490fda008&amp;scene=0#rd"/>
-        <updated>2026-03-17T00:00:00.000Z</updated>
-        <published>2026-03-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s about time: Temporal advances, Vite accelerates]]></title>
-        <id>https://javascriptweekly.com/issues/777</id>
-        <link href="https://javascriptweekly.com/issues/777"/>
         <updated>2026-03-17T00:00:00.000Z</updated>
         <published>2026-03-17T00:00:00.000Z</published>
     </entry>
