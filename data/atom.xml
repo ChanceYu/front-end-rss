@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-01T04:38:05.302Z</updated>
+    <updated>2026-04-01T10:44:50.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,25 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[LangGraph：基于图的 AI Agent 编排框架深度解析]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529639&amp;idx=1&amp;sn=325db2a072d5d2f17c7d84734ca0683a&amp;chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529639&amp;idx=1&amp;sn=325db2a072d5d2f17c7d84734ca0683a&amp;chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <published>2026-04-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3679期】Worker 线程拯救 Node.js 心跳：Inngest Connect 架构演进]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278851&amp;idx=1&amp;sn=345f03042da9e8e147067ba61f53d100&amp;chksm=bcc60dfe4387d045b658feb6d099daafe18623fc66183e42aa721ad37cfa667b479c1b68a077&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278851&amp;idx=1&amp;sn=345f03042da9e8e147067ba61f53d100&amp;chksm=bcc60dfe4387d045b658feb6d099daafe18623fc66183e42aa721ad37cfa667b479c1b68a077&amp;scene=0#rd"/>
         <updated>2026-04-01T00:00:00.000Z</updated>
         <published>2026-04-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【D2 演讲实录】从上下文工程到 Harness Engineering]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529620&amp;idx=1&amp;sn=d0bba042bb1f4b84b07f5a3075b8f360&amp;chksm=f9927245cee5fb530ec8bb3e239ab3b50b17deab10d2e0e1b9ce4b92516f38708a91e6c6a22a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529620&amp;idx=1&amp;sn=d0bba042bb1f4b84b07f5a3075b8f360&amp;chksm=f9927245cee5fb530ec8bb3e239ab3b50b17deab10d2e0e1b9ce4b92516f38708a91e6c6a22a#rd"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <published>2026-03-31T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3678期】JavaScript 解析 VIN 码：三种方案全面对比]]></title>
@@ -53,6 +67,13 @@
         <title type="html"><![CDATA[从 Vibe Coding 到范式编程：用 Spec 打造淘系交易的 AI 领域专家]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543105&amp;idx=1&amp;sn=fec6d68f9c81df650d53981a460b0b11&amp;chksm=8390dc19b4e7550f67eb5bcfedd406594f70904fdf5452690d8cda3c1bb13e3fa36df0dcc3ba#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543105&amp;idx=1&amp;sn=fec6d68f9c81df650d53981a460b0b11&amp;chksm=8390dc19b4e7550f67eb5bcfedd406594f70904fdf5452690d8cda3c1bb13e3fa36df0dcc3ba#rd"/>
+        <updated>2026-03-30T00:00:00.000Z</updated>
+        <published>2026-03-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嘿，OpenClaw 实战指南来了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529618&amp;idx=1&amp;sn=e91261b0e90c4a0a5615d1b62c4db871&amp;chksm=f9927243cee5fb55b81bae193418261cac2de108ff4922a1f956cfc2973f7e04edfa4bd7ff40#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529618&amp;idx=1&amp;sn=e91261b0e90c4a0a5615d1b62c4db871&amp;chksm=f9927243cee5fb55b81bae193418261cac2de108ff4922a1f956cfc2973f7e04edfa4bd7ff40#rd"/>
         <updated>2026-03-30T00:00:00.000Z</updated>
         <published>2026-03-30T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://javascriptweekly.com/issues/777"/>
         <updated>2026-03-17T00:00:00.000Z</updated>
         <published>2026-03-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硬刚 Next.js！尤雨溪隆重推出 Void，Vite 生态终于有自己的"Vercel"了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247522878&amp;idx=1&amp;sn=3d8fcf18a18ab30c35aeca4d4d0789fc&amp;chksm=e80fd570df785c66f45596f8c329a91fc3a562acd31551149195c027ccaa38278df32aa9ccb7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247522878&amp;idx=1&amp;sn=3d8fcf18a18ab30c35aeca4d4d0789fc&amp;chksm=e80fd570df785c66f45596f8c329a91fc3a562acd31551149195c027ccaa38278df32aa9ccb7#rd"/>
-        <updated>2026-03-16T00:00:00.000Z</updated>
-        <published>2026-03-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[48 小时欠谷歌 56 万！三人开发小团队要破产了，只因 Gemini API 密钥被盗用]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624176&amp;idx=1&amp;sn=ca425dffac3520b0df6b941f82248334&amp;chksm=80224531b755cc27f6f0afb18a9498d5f497bfa7030a37d0eaa46a327ffbf7da1a0404d66803#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624176&amp;idx=1&amp;sn=ca425dffac3520b0df6b941f82248334&amp;chksm=80224531b755cc27f6f0afb18a9498d5f497bfa7030a37d0eaa46a327ffbf7da1a0404d66803#rd"/>
-        <updated>2026-03-16T00:00:00.000Z</updated>
-        <published>2026-03-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3670期】AI 工程实战：Claude Code 团队总结的六条反直觉缓存法则]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278747&amp;idx=1&amp;sn=123edfcd2136f85e486428c863008faf&amp;chksm=bca29b86b72625b42750c50b71e0dbb486984ae071eb3a19519ccdac9a84eec77ac006a756b8&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278747&amp;idx=1&amp;sn=123edfcd2136f85e486428c863008faf&amp;chksm=bca29b86b72625b42750c50b71e0dbb486984ae071eb3a19519ccdac9a84eec77ac006a756b8&amp;scene=0#rd"/>
-        <updated>2026-03-16T00:00:00.000Z</updated>
-        <published>2026-03-16T00:00:00.000Z</published>
     </entry>
 </feed>
