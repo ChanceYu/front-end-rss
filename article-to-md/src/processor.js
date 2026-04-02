@@ -308,12 +308,6 @@ export async function processArticle(article, options = {}) {
       imgSource.forEach((el) => {
         const contentWidth = el.getBoundingClientRect().width
         el.querySelectorAll('img').forEach((img) => {
-          let p = img.parentNode
-          for (let level = 0; level < 3 && p; level++) {
-            if (p.nodeName === 'A') break
-            p = p.parentNode
-          }
-          if (p && p.nodeName === 'A') return
           const displayWidth = img.getBoundingClientRect().width
           if (contentWidth > 0 && displayWidth >= contentWidth * blockImageRatio) {
             img.setAttribute('data-rss-block-img', '1')
@@ -588,16 +582,22 @@ export async function processArticle(article, options = {}) {
       },
     })
 
-    // Img with data-rss-block-img (display width >= 30% of container): output on its own line in Markdown. Skip when img is inside <a> so we get [![](url)](href) on one line.
+    function isBlockImg(node) {
+      return node.nodeName === 'IMG' && node.getAttribute('data-rss-block-img') === '1'
+    }
+    function hasAnchorParent(node) {
+      let p = node.parentNode
+      for (let level = 0; level < 3 && p; level++) {
+        if (p.nodeName === 'A') return true
+        p = p.parentNode
+      }
+      return false
+    }
+
+    // Block-image NOT inside <a>: output on its own line.
     td.addRule('blockImage', {
       filter(node) {
-        if (node.nodeName !== 'IMG' || node.getAttribute('data-rss-block-img') !== '1') return false
-        let p = node.parentNode
-        for (let level = 0; level < 3 && p; level++) {
-          if (p.nodeName === 'A') return false
-          p = p.parentNode
-        }
-        return true
+        return isBlockImg(node) && !hasAnchorParent(node)
       },
       replacement(_, node) {
         const alt = node.getAttribute('alt') || ''
@@ -605,6 +605,25 @@ export async function processArticle(article, options = {}) {
         return `\n\n![${alt}](${src})\n\n`
       },
       priority: 2,
+    })
+
+    // <a> wrapping a block-image: output [![alt](src)](href) on its own line.
+    td.addRule('blockImageLink', {
+      filter(node) {
+        if (node.nodeName !== 'A') return false
+        const img = node.querySelector('img[data-rss-block-img="1"]')
+        if (!img) return false
+        const hasText = node.textContent.replace(img.textContent, '').trim()
+        return !hasText
+      },
+      replacement(_, node) {
+        const href = node.getAttribute('href') || ''
+        const img = node.querySelector('img[data-rss-block-img="1"]')
+        const alt = img?.getAttribute('alt') || ''
+        const src = img?.getAttribute('src') || ''
+        return `\n\n[![${alt}](${src})](${href})\n\n`
+      },
+      priority: 3,
     })
 
     if (rule.turndownRules) {
