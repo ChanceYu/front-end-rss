@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-02T10:07:02.459Z</updated>
+    <updated>2026-04-02T12:43:45.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【早说】AI指数级进化时代的产品管理]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278860&amp;idx=1&amp;sn=54fc7b48572bb519431e0f10a96445c9&amp;chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278860&amp;idx=1&amp;sn=54fc7b48572bb519431e0f10a96445c9&amp;chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&amp;scene=0#rd"/>
+        <updated>2026-04-02T00:00:00.000Z</updated>
+        <published>2026-04-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 25.9 brings --max-heap-size and better, iterable streams]]></title>
+        <id>https://nodeweekly.com/issues/618</id>
+        <link href="https://nodeweekly.com/issues/618"/>
         <updated>2026-04-02T00:00:00.000Z</updated>
         <published>2026-04-02T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Claude Code vs Codex：AI 编码协作的官方实践全解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529461&amp;idx=1&amp;sn=1fc622e6d90902c982892e71fa34e777&amp;chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529461&amp;idx=1&amp;sn=1fc622e6d90902c982892e71fa34e777&amp;chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd"/>
-        <updated>2026-03-18T00:00:00.000Z</updated>
-        <published>2026-03-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3672期】CSS 迎来原生随机能力：random() 与 random-item() 初探]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278766&amp;idx=1&amp;sn=f12dfaf066546ca3b50d6cd4d9462fcd&amp;chksm=bcdcdd4b365f2e4cb85cb53e213515970d946d9f9fad8114ec27121d1b4163008ee2aa50a97c&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278766&amp;idx=1&amp;sn=f12dfaf066546ca3b50d6cd4d9462fcd&amp;chksm=bcdcdd4b365f2e4cb85cb53e213515970d946d9f9fad8114ec27121d1b4163008ee2aa50a97c&amp;scene=0#rd"/>
         <updated>2026-03-18T00:00:00.000Z</updated>
         <published>2026-03-18T00:00:00.000Z</published>
     </entry>
