@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-02T12:43:45.336Z</updated>
+    <updated>2026-04-02T23:41:18.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub Star 暴涨！前 React 核心成员出手，把浏览器 30 年算不好的文字布局问题解决了]]></title>
+        <id>http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg</id>
+        <link href="http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg"/>
+        <updated>2026-04-02T00:00:00.000Z</updated>
+        <published>2026-04-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】AI指数级进化时代的产品管理]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278860&amp;idx=1&amp;sn=54fc7b48572bb519431e0f10a96445c9&amp;chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&amp;scene=0#rd</id>
@@ -27,6 +34,13 @@
         <link href="https://nodeweekly.com/issues/618"/>
         <updated>2026-04-02T00:00:00.000Z</updated>
         <published>2026-04-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[504块咖啡钱，和一个价值千万的 AI 梦]]></title>
+        <id>http://mp.weixin.qq.com/s/9mKWwG8pg1Pn447ETZTfZw</id>
+        <link href="http://mp.weixin.qq.com/s/9mKWwG8pg1Pn447ETZTfZw"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <published>2026-04-01T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[淘宝营销会场智能测试平台的AI落地实践]]></title>
@@ -55,6 +69,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278851&amp;idx=1&amp;sn=345f03042da9e8e147067ba61f53d100&amp;chksm=bcc60dfe4387d045b658feb6d099daafe18623fc66183e42aa721ad37cfa667b479c1b68a077&amp;scene=0#rd"/>
         <updated>2026-04-01T00:00:00.000Z</updated>
         <published>2026-04-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[干不过就加入！OpenAI 把 Codex 搞成插件塞进了 Claude Code]]></title>
+        <id>http://mp.weixin.qq.com/s/w-5jGIW9r-i4DZsZ7687Iw</id>
+        <link href="http://mp.weixin.qq.com/s/w-5jGIW9r-i4DZsZ7687Iw"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <published>2026-03-31T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pretext：前端文本布局的下一个范式转变]]></title>
@@ -232,16 +253,16 @@
         <published>2026-03-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
-        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
-        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
+        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
+        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
+        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
-        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
-        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
+        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
+        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
+        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://nodeweekly.com/issues/616"/>
         <updated>2026-03-19T00:00:00.000Z</updated>
         <published>2026-03-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酷！Node.js 终于支持虚拟文件系统了，作者直言：没有 Claude Code 这不可能发生]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523001&amp;idx=1&amp;sn=3179cde6adc1d1a7a75098696090c6c4&amp;chksm=e80fd5f7df785ce120efa401bdf11ed5cd2f27bc047ef6c4eba442a6617f324a9fce89bd760f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523001&amp;idx=1&amp;sn=3179cde6adc1d1a7a75098696090c6c4&amp;chksm=e80fd5f7df785ce120efa401bdf11ed5cd2f27bc047ef6c4eba442a6617f324a9fce89bd760f#rd"/>
-        <updated>2026-03-18T00:00:00.000Z</updated>
-        <published>2026-03-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Coding前端实践后的复盘总结]]></title>
-        <id>http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA</id>
-        <link href="http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA"/>
-        <updated>2026-03-18T00:00:00.000Z</updated>
-        <published>2026-03-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code vs Codex：AI 编码协作的官方实践全解析]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529461&amp;idx=1&amp;sn=1fc622e6d90902c982892e71fa34e777&amp;chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529461&amp;idx=1&amp;sn=1fc622e6d90902c982892e71fa34e777&amp;chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd"/>
-        <updated>2026-03-18T00:00:00.000Z</updated>
-        <published>2026-03-18T00:00:00.000Z</published>
     </entry>
 </feed>

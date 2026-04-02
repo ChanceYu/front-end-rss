@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-02 20:43:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-03 07:42:18，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -35,7 +35,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0092eef8f955b266308b261ede471c7)  ![](/assets/new.png) 
+- [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0092eef8f955b266308b261ede471c7)  
 - [2026-03-26-How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e55606bacdcabcc0e704fb0b287afa99)  
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8304d5c228ab03ce9e37e82e6708c689)  
 - [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fd3d273122c5dd50833d091b8072ee0)  
@@ -402,16 +402,16 @@
 </summary>
 
 
+- [2026-04-02-GitHub-Star-暴涨！前-React-核心成员出手，把浏览器-30-年算不好的文字布局问题解决了](http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f17f69647c6d7eb365318f05d053617f)  ![](/assets/new.png) 
+- [2026-04-01-504块咖啡钱，和一个价值千万的-AI-梦](http://mp.weixin.qq.com/s/9mKWwG8pg1Pn447ETZTfZw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0837207e4fe100e308eea3c68d1f49a)  ![](/assets/new.png) 
+- [2026-03-31-干不过就加入！OpenAI-把-Codex-搞成插件塞进了-Claude-Code](http://mp.weixin.qq.com/s/w-5jGIW9r-i4DZsZ7687Iw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f3f7bb0ef7353c9e91180508b4bfb0b3)  ![](/assets/new.png) 
+- [2026-03-31-速查！周下载-3-亿次的前端神包，刚被植入了远控木马](http://mp.weixin.qq.com/s/f0C-Vqbz8h6oBhg8RUL2ew)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=746d49acbd08484e3235ef14365cc7d0)  ![](/assets/new.png) 
 - [2026-03-30-Codex-Plugins-来了，我拿它做了第一个实验：把微信接进去，体验翻车了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523103&idx=1&sn=2bebf517423637d86b233186716e7493&chksm=e80fd451df785d479cd744f05176c87e94ffe567e513c89fee93f6643f2f1506f3dd26bbdb82#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14203a7f69ff3459705e49aaaf6c4005)  
 - [2026-03-28-Next.js-不写给人类了？新版本的四个改动，全是给-AI-Agent-准备的](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523085&idx=1&sn=ea65083747c5e02cb075955ff60794a5&chksm=e80fd443df785d557c1c665080169b63a803afdfe3974a2b2a91305d0e81a25f2ef873f3372c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5f0f644afc6d1965c71fd7683a11422)  
 - [2026-03-26-一个-19000-行的-PR-引爆了-Node.js-社区，集体请愿禁止-AI-代码](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523079&idx=1&sn=e80d92be76cdc8f2f96138d009218278&chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2c78cb925a901f326a5d100c3b24fffa)  
 - [2026-03-25-Anthropic-连放两个大招：昨天接管你的电脑，今天甩掉你的审批](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523072&idx=1&sn=76f679904672f2fc2a96a265c76e6288&chksm=e80fd44edf785d586f5c7017b4e62a6db766570f3e7ad14bdbe638c0041be1a2ba8520904bc5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e0faeb9c4ad36b0766fcf81be20ddf68)  
 - [2026-03-24-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523039&idx=1&sn=797548474ec8c4f08dcfbbe6cbaaf95e&chksm=e80fd591df785c873b2f4f463f74775cdabd620cb81b5d6954230ce3ccf8bebc8739b3e6e1d3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61e2e122e3c5a54c1c5412671b2e3288)  
-- [2026-03-23-安卓也支持了！微信链接-Claude-Code-保姆级教程](http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=eb35da0a3d29e50bbcbe52c85b94bcd1)  
 - [2026-03-23-微信刚发布-ClawBot，我就把-Claude-Code-接了进去！](http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8339ccd98bb93b93de1c41fc9c82ae36)  
-- [2026-03-22-Agentic-AI-从入门到落地，精华整理全在这了！](http://mp.weixin.qq.com/s/pKEfNUiqyYmbHeaPLUkvbQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4827a703a80472414e3a8ba438e1bba)  
-- [2026-03-21-尤雨溪转发庆祝，Claude.ai-抛弃-SSR-拥抱-Vite，性能飙升！](http://mp.weixin.qq.com/s/e4KkP-hepeBqhhaIN9IiQg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d8328ad201c64d610e707ab0a9ee4ae)  
-- [2026-03-20-离谱！王自如招个全栈前端工程师，JD-写了六个岗位的活](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523011&idx=1&sn=5598d790ee2c8f18d675e7fdc1f5f431&chksm=e80fd58ddf785c9b22b3db1b90ba57ab704ba2fce8d69fb1eaf7a4f9e87ceceb8156c36f5ba2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=69889ea5ce6d532f915a7ccd49e4089f)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

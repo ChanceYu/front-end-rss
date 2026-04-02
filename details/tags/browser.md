@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-02 20:43:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-03 07:42:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-04-02-GitHub-Star-暴涨！前-React-核心成员出手，把浏览器-30-年算不好的文字布局问题解决了](http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f17f69647c6d7eb365318f05d053617f) 
 - [2026-03-11-重磅！Vite-DevTools-发布！功能一览！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517554&idx=1&sn=d5a1a3391bf0336d7efc8f592d0d39bb&chksm=eb07bd0bdc70341d241360d2cb7b07599a5da1a0aaaa6826824abdfbb536287cfd4321260e5c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=749d90fa5286e50273b5668ed1eac610) 
 - [2026-03-06-Code-Review-将死于-2026-年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624094&idx=1&sn=6d1b600f1d9b4f6b83fb7dbb98908b99&chksm=8022455fb755cc4920a8bd82b7f85de214177ad33d7fc139eb6331432a93486c28d7237ca807#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28d7f0bdc6b8d7d4f216df7d3a0c0f0f) 
 - [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccf8b8c331b88f29e0df7da443c3d11d) 

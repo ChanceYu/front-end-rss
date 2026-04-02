@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-02 20:43:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-03 07:42:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-04-02-GitHub-Star-暴涨！前-React-核心成员出手，把浏览器-30-年算不好的文字布局问题解决了](http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f17f69647c6d7eb365318f05d053617f) 
 - [2026-03-28-Next.js-不写给人类了？新版本的四个改动，全是给-AI-Agent-准备的](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523085&idx=1&sn=ea65083747c5e02cb075955ff60794a5&chksm=e80fd443df785d557c1c665080169b63a803afdfe3974a2b2a91305d0e81a25f2ef873f3372c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5f0f644afc6d1965c71fd7683a11422) 
 - [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d0951a7d0cbc423bd09580c6dc93539d) 
 - [2026-03-16-硬刚-Next.js！尤雨溪隆重推出-Void，Vite-生态终于有自己的"Vercel"了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247522878&idx=1&sn=3d8fcf18a18ab30c35aeca4d4d0789fc&chksm=e80fd570df785c66f45596f8c329a91fc3a562acd31551149195c027ccaa38278df32aa9ccb7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a17e0ef80e109ad39c0e2cd56e4f01b2) 
