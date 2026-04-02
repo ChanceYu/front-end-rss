@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-02T06:58:32.063Z</updated>
+    <updated>2026-04-02T10:07:02.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278860&amp;idx=1&amp;sn=54fc7b48572bb519431e0f10a96445c9&amp;chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&amp;scene=0#rd"/>
         <updated>2026-04-02T00:00:00.000Z</updated>
         <published>2026-04-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘宝营销会场智能测试平台的AI落地实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543144&amp;idx=1&amp;sn=721c1a6266e58ecc7d383e368a04bebd&amp;chksm=8390dc30b4e755269829f70d5ea10ea7281c2b27b5b34cde97c6560b11a7b6f96a82599eee60#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543144&amp;idx=1&amp;sn=721c1a6266e58ecc7d383e368a04bebd&amp;chksm=8390dc30b4e755269829f70d5ea10ea7281c2b27b5b34cde97c6560b11a7b6f96a82599eee60#rd"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <published>2026-04-01T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[紧急！Axios 被投毒，3亿项目受到影响！教你怎么自查！]]></title>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278766&amp;idx=1&amp;sn=f12dfaf066546ca3b50d6cd4d9462fcd&amp;chksm=bcdcdd4b365f2e4cb85cb53e213515970d946d9f9fad8114ec27121d1b4163008ee2aa50a97c&amp;scene=0#rd"/>
         <updated>2026-03-18T00:00:00.000Z</updated>
         <published>2026-03-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 发布节奏大变！从此每年只发一个大版本，每个版本都是 LTS]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247522990&amp;idx=1&amp;sn=fee4f843aecff4d3b1c557a289b6cd4c&amp;chksm=e80fd5e0df785cf6f1c2520e8bd913f1f7c9be4d76acd281ce4f2b8920ed184bc16efe0c6c9f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247522990&amp;idx=1&amp;sn=fee4f843aecff4d3b1c557a289b6cd4c&amp;chksm=e80fd5e0df785cf6f1c2520e8bd913f1f7c9be4d76acd281ce4f2b8920ed184bc16efe0c6c9f#rd"/>
-        <updated>2026-03-17T00:00:00.000Z</updated>
-        <published>2026-03-17T00:00:00.000Z</published>
     </entry>
 </feed>
