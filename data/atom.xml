@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-01T12:50:50.187Z</updated>
+    <updated>2026-04-02T06:58:32.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早说】AI指数级进化时代的产品管理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278860&amp;idx=1&amp;sn=54fc7b48572bb519431e0f10a96445c9&amp;chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278860&amp;idx=1&amp;sn=54fc7b48572bb519431e0f10a96445c9&amp;chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&amp;scene=0#rd"/>
+        <updated>2026-04-02T00:00:00.000Z</updated>
+        <published>2026-04-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紧急！Axios 被投毒，3亿项目受到影响！教你怎么自查！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517566&amp;idx=1&amp;sn=92989a760237d4a09b0b767c33b0406b&amp;chksm=eb07bd07dc70341109910e6c0ad1e3a0b21e242f24b400cd18655b6ae5cf1ab66d70c1a93365#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Node.js 发布节奏大变！从此每年只发一个大版本，每个版本都是 LTS]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247522990&amp;idx=1&amp;sn=fee4f843aecff4d3b1c557a289b6cd4c&amp;chksm=e80fd5e0df785cf6f1c2520e8bd913f1f7c9be4d76acd281ce4f2b8920ed184bc16efe0c6c9f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247522990&amp;idx=1&amp;sn=fee4f843aecff4d3b1c557a289b6cd4c&amp;chksm=e80fd5e0df785cf6f1c2520e8bd913f1f7c9be4d76acd281ce4f2b8920ed184bc16efe0c6c9f#rd"/>
-        <updated>2026-03-17T00:00:00.000Z</updated>
-        <published>2026-03-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅学WebTransport API：下一代Web双向通信技术]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/"/>
         <updated>2026-03-17T00:00:00.000Z</updated>
         <published>2026-03-17T00:00:00.000Z</published>
     </entry>
