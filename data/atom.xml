@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-03T14:35:28.807Z</updated>
+    <updated>2026-04-03T16:26:55.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[GitHub Star 暴涨！前 React 核心成员出手，把浏览器 30 年算不好的文字布局问题解决了]]></title>
         <id>http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg</id>
         <link href="http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg"/>
+        <updated>2026-04-02T00:00:00.000Z</updated>
+        <published>2026-04-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skills 乱麻了！这款开源神器彻底终结噩梦，Cursor/Claude 一键全同步]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529642&amp;idx=1&amp;sn=16005d3929226468a8ee1b8c0ed4c8b6&amp;chksm=f992727bcee5fb6d914cc77966c95fe1545ed7ad4d303da32eade65e5d892b826e4acc3e8b26#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529642&amp;idx=1&amp;sn=16005d3929226468a8ee1b8c0ed4c8b6&amp;chksm=f992727bcee5fb6d914cc77966c95fe1545ed7ad4d303da32eade65e5d892b826e4acc3e8b26#rd"/>
         <updated>2026-04-02T00:00:00.000Z</updated>
         <published>2026-04-02T00:00:00.000Z</published>
     </entry>
@@ -127,9 +134,9 @@
         <published>2026-03-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code 意外泄露 51.2万行 TS 核心代码]]></title>
-        <id>http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA</id>
-        <link href="http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA"/>
+        <title type="html"><![CDATA[Node.js核心成员请愿：项目里应禁止AI辅助开发]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624290&amp;idx=1&amp;sn=666bae099de90637678d7f9bf9774341&amp;chksm=802244a3b755cdb5ee6d01f08e7d8ff082b8a7fdf5cc4e5eb902c29b0d448474d415767e3b83#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624290&amp;idx=1&amp;sn=666bae099de90637678d7f9bf9774341&amp;chksm=802244a3b755cdb5ee6d01f08e7d8ff082b8a7fdf5cc4e5eb902c29b0d448474d415767e3b83#rd"/>
         <updated>2026-03-31T00:00:00.000Z</updated>
         <published>2026-03-31T00:00:00.000Z</published>
     </entry>
@@ -137,6 +144,13 @@
         <title type="html"><![CDATA[前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥]]></title>
         <id>http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw</id>
         <link href="http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <published>2026-03-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code 意外泄露 51.2万行 TS 核心代码]]></title>
+        <id>http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA</id>
+        <link href="http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA"/>
         <updated>2026-03-31T00:00:00.000Z</updated>
         <published>2026-03-31T00:00:00.000Z</published>
     </entry>
@@ -186,6 +200,13 @@
         <title type="html"><![CDATA[嘿，OpenClaw 实战指南来了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529618&amp;idx=1&amp;sn=e91261b0e90c4a0a5615d1b62c4db871&amp;chksm=f9927243cee5fb55b81bae193418261cac2de108ff4922a1f956cfc2973f7e04edfa4bd7ff40#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529618&amp;idx=1&amp;sn=e91261b0e90c4a0a5615d1b62c4db871&amp;chksm=f9927243cee5fb55b81bae193418261cac2de108ff4922a1f956cfc2973f7e04edfa4bd7ff40#rd"/>
+        <updated>2026-03-30T00:00:00.000Z</updated>
+        <published>2026-03-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw 3.28上线！4天爆更上百项重要更新]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624284&amp;idx=1&amp;sn=b9fefd90b5c387d6b3318fe428938918&amp;chksm=8022449db755cd8bb0e0b411950d7c952651614c98126a22035adf2c82c151005cf03fdc55e5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624284&amp;idx=1&amp;sn=b9fefd90b5c387d6b3318fe428938918&amp;chksm=8022449db755cd8bb0e0b411950d7c952651614c98126a22035adf2c82c151005cf03fdc55e5#rd"/>
         <updated>2026-03-30T00:00:00.000Z</updated>
         <published>2026-03-30T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/pKEfNUiqyYmbHeaPLUkvbQ"/>
         <updated>2026-03-22T00:00:00.000Z</updated>
         <published>2026-03-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪转发庆祝，Claude.ai 抛弃 SSR 拥抱 Vite，性能飙升！]]></title>
-        <id>http://mp.weixin.qq.com/s/e4KkP-hepeBqhhaIN9IiQg</id>
-        <link href="http://mp.weixin.qq.com/s/e4KkP-hepeBqhhaIN9IiQg"/>
-        <updated>2026-03-21T00:00:00.000Z</updated>
-        <published>2026-03-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html"/>
-        <updated>2026-03-21T00:00:00.000Z</updated>
-        <published>2026-03-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王自如招 01 号“全栈前端工程师”，没说薪资要求还多，堪比“人形项目组”。有人看完窒息，也有吐槽“没几百万年薪谁去啊”]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624234&amp;idx=1&amp;sn=f0b4f74be6c4fc533de871efe49b2239&amp;chksm=802244ebb755cdfdee002530148d03da78d812f2b3218593957b499d5ed04e9c382a370e120a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624234&amp;idx=1&amp;sn=f0b4f74be6c4fc533de871efe49b2239&amp;chksm=802244ebb755cdfdee002530148d03da78d812f2b3218593957b499d5ed04e9c382a370e120a#rd"/>
-        <updated>2026-03-21T00:00:00.000Z</updated>
-        <published>2026-03-21T00:00:00.000Z</published>
     </entry>
 </feed>
