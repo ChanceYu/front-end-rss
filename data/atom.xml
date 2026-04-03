@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-03T12:36:19.820Z</updated>
+    <updated>2026-04-03T14:35:28.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[刚刚，Cursor 3.0 发布！编辑器没了，变成了 Agent 指挥部]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523156&amp;idx=1&amp;sn=13c401936934f668f2bd9c8c4fdd6024&amp;chksm=e80fd41adf785d0cb06cb551a5c734f8c4f5303c950327706f877b3157571f0272e41b659460#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523156&amp;idx=1&amp;sn=13c401936934f668f2bd9c8c4fdd6024&amp;chksm=e80fd41adf785d0cb06cb551a5c734f8c4f5303c950327706f877b3157571f0272e41b659460#rd"/>
+        <updated>2026-04-03T00:00:00.000Z</updated>
+        <published>2026-04-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 391 期）：AI 的贫富分化]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html"/>
+        <updated>2026-04-03T00:00:00.000Z</updated>
+        <published>2026-04-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘宝跨端体验优化 AI 演进之路]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543161&amp;idx=1&amp;sn=203f52399657de9f0c1d8eced67d9cab&amp;chksm=8390dc21b4e755379d46e4ed6d670ec4c0a5243dad60a4d1f9ed2950d918804a9e3ba5b491f6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543161&amp;idx=1&amp;sn=203f52399657de9f0c1d8eced67d9cab&amp;chksm=8390dc21b4e755379d46e4ed6d670ec4c0a5243dad60a4d1f9ed2950d918804a9e3ba5b491f6#rd"/>
         <updated>2026-04-03T00:00:00.000Z</updated>
         <published>2026-04-03T00:00:00.000Z</published>
     </entry>
@@ -288,16 +302,16 @@
         <published>2026-03-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
-        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
-        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
+        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
+        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
+        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信刚发布 ClawBot，我就把 Claude Code 接了进去！]]></title>
-        <id>http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg</id>
-        <link href="http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg"/>
+        <title type="html"><![CDATA[安卓也支持了！微信链接 Claude Code 保姆级教程]]></title>
+        <id>http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ</id>
+        <link href="http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624234&amp;idx=1&amp;sn=f0b4f74be6c4fc533de871efe49b2239&amp;chksm=802244ebb755cdfdee002530148d03da78d812f2b3218593957b499d5ed04e9c382a370e120a#rd"/>
         <updated>2026-03-21T00:00:00.000Z</updated>
         <published>2026-03-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离谱！王自如招个全栈前端工程师，JD 写了六个岗位的活]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523011&amp;idx=1&amp;sn=5598d790ee2c8f18d675e7fdc1f5f431&amp;chksm=e80fd58ddf785c9b22b3db1b90ba57ab704ba2fce8d69fb1eaf7a4f9e87ceceb8156c36f5ba2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523011&amp;idx=1&amp;sn=5598d790ee2c8f18d675e7fdc1f5f431&amp;chksm=e80fd58ddf785c9b22b3db1b90ba57ab704ba2fce8d69fb1eaf7a4f9e87ceceb8156c36f5ba2#rd"/>
-        <updated>2026-03-20T00:00:00.000Z</updated>
-        <published>2026-03-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请查收！淘天集团27届实习生校招大事件，文末阅读原文报名宣讲会]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543062&amp;idx=2&amp;sn=f51acd46793fdb53f4a6a998ad935311&amp;chksm=8390dbceb4e752d8f6f15f2c6142ec0c1f56922602b252327390ed41b38f2db956508c610ec5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543062&amp;idx=2&amp;sn=f51acd46793fdb53f4a6a998ad935311&amp;chksm=8390dbceb4e752d8f6f15f2c6142ec0c1f56922602b252327390ed41b38f2db956508c610ec5#rd"/>
-        <updated>2026-03-20T00:00:00.000Z</updated>
-        <published>2026-03-20T00:00:00.000Z</published>
     </entry>
 </feed>
