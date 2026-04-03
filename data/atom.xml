@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-03T04:18:16.620Z</updated>
+    <updated>2026-04-03T06:55:26.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 391 期）：AI 的贫富分化]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html"/>
+        <updated>2026-04-03T00:00:00.000Z</updated>
+        <published>2026-04-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早说】Ghostty创始人的AI之旅]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278865&amp;idx=1&amp;sn=72b0e18b749cbe4817d6f7b96c6ea7ed&amp;chksm=bc0ba13f35cf0cd8f410ef892d3490d0c93ca1c3c35d2469057a5c6b627953e4a637451bd6f5&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278865&amp;idx=1&amp;sn=72b0e18b749cbe4817d6f7b96c6ea7ed&amp;chksm=bc0ba13f35cf0cd8f410ef892d3490d0c93ca1c3c35d2469057a5c6b627953e4a637451bd6f5&amp;scene=0#rd"/>
         <updated>2026-04-03T00:00:00.000Z</updated>
         <published>2026-04-03T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[/loop + 远程控制，让 Claude Code 彻底沦为你的牛马]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523002&amp;idx=1&amp;sn=809fd7e4342952db4daa788998ca85ea&amp;chksm=e80fd5f4df785ce2e4e34e4004296ca6d80475245ef90833f4cb56f7d7c2225003a5ccdbf20b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523002&amp;idx=1&amp;sn=809fd7e4342952db4daa788998ca85ea&amp;chksm=e80fd5f4df785ce2e4e34e4004296ca6d80475245ef90833f4cb56f7d7c2225003a5ccdbf20b#rd"/>
-        <updated>2026-03-19T00:00:00.000Z</updated>
-        <published>2026-03-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 宣布了重大发布调整]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529469&amp;idx=1&amp;sn=c6836110923971eeda1d9516731eec3f&amp;chksm=f992752ccee5fc3af15d3747575db160087a8d46e940b0655966c0a7de9d47c683e199ea44ec#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529469&amp;idx=1&amp;sn=c6836110923971eeda1d9516731eec3f&amp;chksm=f992752ccee5fc3af15d3747575db160087a8d46e940b0655966c0a7de9d47c683e199ea44ec#rd"/>
         <updated>2026-03-19T00:00:00.000Z</updated>
         <published>2026-03-19T00:00:00.000Z</published>
     </entry>
