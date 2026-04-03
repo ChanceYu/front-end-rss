@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-02T23:41:18.365Z</updated>
+    <updated>2026-04-03T04:18:16.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 391 期）：AI 的贫富分化]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html"/>
+        <updated>2026-04-03T00:00:00.000Z</updated>
+        <published>2026-04-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Star 暴涨！前 React 核心成员出手，把浏览器 30 年算不好的文字布局问题解决了]]></title>
         <id>http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Node.js 宣布了重大发布调整]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529469&amp;idx=1&amp;sn=c6836110923971eeda1d9516731eec3f&amp;chksm=f992752ccee5fc3af15d3747575db160087a8d46e940b0655966c0a7de9d47c683e199ea44ec#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529469&amp;idx=1&amp;sn=c6836110923971eeda1d9516731eec3f&amp;chksm=f992752ccee5fc3af15d3747575db160087a8d46e940b0655966c0a7de9d47c683e199ea44ec#rd"/>
-        <updated>2026-03-19T00:00:00.000Z</updated>
-        <published>2026-03-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petition calls for ban on AI-generated code in Node.js core]]></title>
-        <id>https://nodeweekly.com/issues/616</id>
-        <link href="https://nodeweekly.com/issues/616"/>
         <updated>2026-03-19T00:00:00.000Z</updated>
         <published>2026-03-19T00:00:00.000Z</published>
     </entry>
