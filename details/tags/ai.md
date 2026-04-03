@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-03 14:55:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-03 20:37:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -14,6 +14,8 @@
 - [2026-04-01-淘宝营销会场智能测试平台的AI落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543144&idx=1&sn=721c1a6266e58ecc7d383e368a04bebd&chksm=8390dc30b4e755269829f70d5ea10ea7281c2b27b5b34cde97c6560b11a7b6f96a82599eee60#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8bebb64e26b7f9fa38e89f0f97c6d4db) 
 - [2026-04-01-LangGraph：基于图的-AI-Agent-编排框架深度解析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529639&idx=1&sn=325db2a072d5d2f17c7d84734ca0683a&chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=27b84778555eecfdf7f5fbfca2c4730e) 
 - [2026-03-31-干不过就加入！OpenAI-把-Codex-搞成插件塞进了-Claude-Code](http://mp.weixin.qq.com/s/w-5jGIW9r-i4DZsZ7687Iw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f3f7bb0ef7353c9e91180508b4bfb0b3) 
+- [2026-03-31-Claude-Code-意外泄露-51.2万行-TS-核心代码](http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1fa5240fac911e4f9fa05daff20c5b30) 
+- [2026-03-31-前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥](http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d2b16fc47e976a71a3705cdb4cbf7885) 
 - [2026-03-30-Codex-Plugins-来了，我拿它做了第一个实验：把微信接进去，体验翻车了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523103&idx=1&sn=2bebf517423637d86b233186716e7493&chksm=e80fd451df785d479cd744f05176c87e94ffe567e513c89fee93f6643f2f1506f3dd26bbdb82#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14203a7f69ff3459705e49aaaf6c4005) 
 - [2026-03-30-从-Vibe-Coding-到范式编程：用-Spec-打造淘系交易的-AI-领域专家](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543105&idx=1&sn=fec6d68f9c81df650d53981a460b0b11&chksm=8390dc19b4e7550f67eb5bcfedd406594f70904fdf5452690d8cda3c1bb13e3fa36df0dcc3ba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=42c72adf37ba71a073269ab89ee10968) 
 - [2026-03-30-嘿，OpenClaw-实战指南来了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529618&idx=1&sn=e91261b0e90c4a0a5615d1b62c4db871&chksm=f9927243cee5fb55b81bae193418261cac2de108ff4922a1f956cfc2973f7e04edfa4bd7ff40#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b321c588c8f86fb8ebc86367cf136328) 
@@ -77,8 +79,8 @@
 - [2026-02-06-基于-AI-生成高质量-Mock-数据的实践](http://mp.weixin.qq.com/s/ASg4d4P9tneHQRKgodq9BA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a7509920aaea759bc0325e634607a266) 
 - [2026-02-06-把-AI-当同事用：Rules、Commands、Skills-的清晰分工](http://mp.weixin.qq.com/s/mjPaoFfYPaPuHTD5lRvH9g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=57d6cb39f7f7dd0c8d1c468c78226b53) 
 - [2026-02-06-【第3655期】浏览器即运行时：一个零后端-AI-应用的前端架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278596&idx=1&sn=dea55dba00065e03f83445a08be9f33e&chksm=bc55038babe13da28ece499bc7c4e5f6365b481fdd22115746df39fd362cd740d8454d164bee&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c7e51c1463946c6de508c85ab31d766d) 
-- [2026-02-04-AI-Skills-正在重构前端开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=1&sn=13babe9ddebc8bead1645f6c0848cc30&chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e90ff5657c94152b1b2da111ec6f318f) 
 - [2026-02-04-谷歌Chrome觉醒！Gemini-3全面接管，38亿用户一夜进入Agent时代](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f19826c344ddc5ca5a2cb79a257b9438) 
+- [2026-02-04-AI-Skills-正在重构前端开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=1&sn=13babe9ddebc8bead1645f6c0848cc30&chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e90ff5657c94152b1b2da111ec6f318f) 
 - [2026-02-04-【早阅】Agent-Trace：给-AI-写的代码留下一条“来龙去脉”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278580&idx=1&sn=a403b60c4548ca106722bb492ed6f504&chksm=bc4466a6eee1321819c1f83cb706680a89d694d04d63131c48266839ff096964e8b396ddbb96&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=080ca8e5c05be49e484145b26ef567f4) 
 - [2026-02-03-AI-Skills-正在重构前端开发](http://mp.weixin.qq.com/s/eYE_QBqUqO1YVeIBNNy7ow)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6ca326be033ed70ebe0d09f02c8ceb79) 
 - [2026-02-03-底裤被扒！Moltbook-150-万-AI-用户几乎全是水军。网友：人骗人全是自导自演](http://mp.weixin.qq.com/s/wsPUgbJlrc-27m0U3bE4sw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=22325a02fe304dae680115d07a1a5ade) 

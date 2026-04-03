@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-03T06:55:26.387Z</updated>
+    <updated>2026-04-03T12:36:19.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,6 +78,13 @@
         <published>2026-04-01T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[紧急预警：Axios 供应链被投毒（附排查与紧急补救指南）]]></title>
+        <id>http://mp.weixin.qq.com/s/5clC4GUlYIkzDhd_ROVcpw</id>
+        <link href="http://mp.weixin.qq.com/s/5clC4GUlYIkzDhd_ROVcpw"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <published>2026-04-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3679期】Worker 线程拯救 Node.js 心跳：Inngest Connect 架构演进]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278851&amp;idx=1&amp;sn=345f03042da9e8e147067ba61f53d100&amp;chksm=bcc60dfe4387d045b658feb6d099daafe18623fc66183e42aa721ad37cfa667b479c1b68a077&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278851&amp;idx=1&amp;sn=345f03042da9e8e147067ba61f53d100&amp;chksm=bcc60dfe4387d045b658feb6d099daafe18623fc66183e42aa721ad37cfa667b479c1b68a077&amp;scene=0#rd"/>
@@ -102,6 +109,20 @@
         <title type="html"><![CDATA[【D2 演讲实录】从上下文工程到 Harness Engineering]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529620&amp;idx=1&amp;sn=d0bba042bb1f4b84b07f5a3075b8f360&amp;chksm=f9927245cee5fb530ec8bb3e239ab3b50b17deab10d2e0e1b9ce4b92516f38708a91e6c6a22a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529620&amp;idx=1&amp;sn=d0bba042bb1f4b84b07f5a3075b8f360&amp;chksm=f9927245cee5fb530ec8bb3e239ab3b50b17deab10d2e0e1b9ce4b92516f38708a91e6c6a22a#rd"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <published>2026-03-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code 意外泄露 51.2万行 TS 核心代码]]></title>
+        <id>http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA</id>
+        <link href="http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <published>2026-03-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥]]></title>
+        <id>http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw</id>
+        <link href="http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw"/>
         <updated>2026-03-31T00:00:00.000Z</updated>
         <published>2026-03-31T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543062&amp;idx=2&amp;sn=f51acd46793fdb53f4a6a998ad935311&amp;chksm=8390dbceb4e752d8f6f15f2c6142ec0c1f56922602b252327390ed41b38f2db956508c610ec5#rd"/>
         <updated>2026-03-20T00:00:00.000Z</updated>
         <published>2026-03-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么越来越多前端开始重看 WebAssembly]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529493&amp;idx=1&amp;sn=8cf92b7ef4c302f8520300bf46b62f6e&amp;chksm=f99272c4cee5fbd27e92a676b16307ac3c014bfc80031bd0b62b0662a8d944f998ecf5895bc1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529493&amp;idx=1&amp;sn=8cf92b7ef4c302f8520300bf46b62f6e&amp;chksm=f99272c4cee5fbd27e92a676b16307ac3c014bfc80031bd0b62b0662a8d944f998ecf5895bc1#rd"/>
-        <updated>2026-03-20T00:00:00.000Z</updated>
-        <published>2026-03-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3673期】OpenAI Codex 最佳实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278792&amp;idx=1&amp;sn=d5d40606140e8224dac84f756628efe1&amp;chksm=bc57f25558b97dcf4249ca510430766dc19d8b3b604b9d7e5f935b290d8123140c6f4564fc40&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278792&amp;idx=1&amp;sn=d5d40606140e8224dac84f756628efe1&amp;chksm=bc57f25558b97dcf4249ca510430766dc19d8b3b604b9d7e5f935b290d8123140c6f4564fc40&amp;scene=0#rd"/>
-        <updated>2026-03-20T00:00:00.000Z</updated>
-        <published>2026-03-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[/loop + 远程控制，让 Claude Code 彻底沦为你的牛马]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523002&amp;idx=1&amp;sn=809fd7e4342952db4daa788998ca85ea&amp;chksm=e80fd5f4df785ce2e4e34e4004296ca6d80475245ef90833f4cb56f7d7c2225003a5ccdbf20b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523002&amp;idx=1&amp;sn=809fd7e4342952db4daa788998ca85ea&amp;chksm=e80fd5f4df785ce2e4e34e4004296ca6d80475245ef90833f4cb56f7d7c2225003a5ccdbf20b#rd"/>
-        <updated>2026-03-19T00:00:00.000Z</updated>
-        <published>2026-03-19T00:00:00.000Z</published>
     </entry>
 </feed>
