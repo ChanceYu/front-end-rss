@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-28T05:20:10.257Z</updated>
+    <updated>2026-04-28T16:04:15.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【早说】生成式 AI 在前端领域的局限性探讨]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278991&amp;idx=1&amp;sn=8244b5a531876446796be3fb2d1119fe&amp;chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278991&amp;idx=1&amp;sn=8244b5a531876446796be3fb2d1119fe&amp;chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&amp;scene=0#rd"/>
+        <updated>2026-04-28T00:00:00.000Z</updated>
+        <published>2026-04-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s actually new in JavaScript (and what’s coming next)]]></title>
+        <id>https://javascriptweekly.com/issues/783</id>
+        <link href="https://javascriptweekly.com/issues/783"/>
         <updated>2026-04-28T00:00:00.000Z</updated>
         <published>2026-04-28T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <published>2026-04-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 答疑助手优化实践：从 RAG 到 LightRAG 的全链路升级]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543171&amp;idx=1&amp;sn=792d48c6fcb2a43c05ef886cd2cf71cd&amp;chksm=8390dc5bb4e7554d8134f191ce27f1914cf36ffe0e72a50794df47761b5bc7ca2b42bf65112d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543171&amp;idx=1&amp;sn=792d48c6fcb2a43c05ef886cd2cf71cd&amp;chksm=8390dc5bb4e7554d8134f191ce27f1914cf36ffe0e72a50794df47761b5bc7ca2b42bf65112d#rd"/>
         <updated>2026-04-10T00:00:00.000Z</updated>
         <published>2026-04-10T00:00:00.000Z</published>
     </entry>
