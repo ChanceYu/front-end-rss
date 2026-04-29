@@ -2,6 +2,9 @@
 .AppleDouble
 .LSOverride
 .svn
+.cursor
+.claude
+.agents
 
 ._*
 
