@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-29 12:37:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-29 19:24:09，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -66,7 +66,7 @@
 </summary>
 
 
-- [2026-04-28-What’s-actually-new-in-JavaScript-and-what’s-coming-next](https://javascriptweekly.com/issues/783)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4dc710698b7a75b51c1657189076c98)  
+- [2026-04-28-What’s-actually-new-in-JavaScript-and-what’s-coming-next](https://javascriptweekly.com/issues/783)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4dc710698b7a75b51c1657189076c98)  ![](/assets/new.png) 
 - [2026-04-21-Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4316ae089e1bc335cde9c737bfaf24)  
 - [2026-04-14-MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b840a6adba863fcd1146306453fc4314)  
 - [2026-04-07-What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aafd5aee5b247137a4ebb770a7324a8f)  
@@ -88,8 +88,8 @@
 
 
 - [2026-04-29-【第3691期】把品味写成规则，让-AI-替你打磨细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278996&idx=1&sn=7c840387d206c8bb4e0bb8cecedc7d26&chksm=bcf2263a1078b8959b23aeacf080a5582911c5d6f566ee644103cf74c099d75608e77e2bfc0c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=31dce549e65359ceb75fc4bf1c3680db)  ![](/assets/new.png) 
-- [2026-04-28-【早说】生成式-AI-在前端领域的局限性探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278991&idx=1&sn=8244b5a531876446796be3fb2d1119fe&chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&scene=0#rd) 
-- [2026-04-27-【第3690期】驾驭-Opus-4.7：Claude-Code-最佳实践全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278978&idx=1&sn=a8351965c5112f4b153ab699d3bbd652&chksm=bcde39b29fcf60c6876b79464f72d46741fc9661802308b63b24d1199e449c0b4dd7aaad768a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fbd6a56b0bcf9a9bb6dfed6368d21c2a)  
+- [2026-04-28-【早说】生成式-AI-在前端领域的局限性探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278991&idx=1&sn=8244b5a531876446796be3fb2d1119fe&chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c03974cc2a61608c9ac99e45ae64180d)  ![](/assets/new.png) 
+- [2026-04-27-【第3690期】驾驭-Opus-4.7：Claude-Code-最佳实践全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278978&idx=1&sn=a8351965c5112f4b153ab699d3bbd652&chksm=bcde39b29fcf60c6876b79464f72d46741fc9661802308b63b24d1199e449c0b4dd7aaad768a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fbd6a56b0bcf9a9bb6dfed6368d21c2a)  ![](/assets/new.png) 
 - [2026-04-24-【早说】理解力负债——AI生成代码的隐性成本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278972&idx=1&sn=d9c567e7e40dec0edb822f358173f88d&chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f76c0aadf400f9868a248ba88816957)  
 - [2026-04-23-【第3689期】MDN-新前端的内部机制](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278964&idx=1&sn=2cc25711f66f3c3672c4186db5961a6b&chksm=bccdfe14e5fb3b0057cddabc09ba26d734fa7c610d89a11025e6481a56fee7886a789a6355ac&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8a7eaf5d2b436406c4db2b10fef340)  
 - [2026-04-22-【第3688期】七大AI策略，终结开发者入职困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278958&idx=1&sn=e83a98cabe42a49a6b5874d16c0c9264&chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c160cce98525774ed42d85af3c8f2c7f)  
@@ -318,7 +318,7 @@
 </summary>
 
 
-- [2026-04-27-如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2c3e2be616f40ed7f6e825154b1f739)  
+- [2026-04-27-如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2c3e2be616f40ed7f6e825154b1f739)  ![](/assets/new.png) 
 - [2026-04-17-借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e724a72a01be2caaa738a09a8f4c56d)  
 - [2026-04-13-务必谨慎使用JS-WeakRef弱引用](https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b986a77b92f02b53098b1a75459a6ead)  
 - [2026-04-07-CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d8c3aaf3f424b639a6bbbf6c48cff1c)  

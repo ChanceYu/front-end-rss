@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-29 12:37:25。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-29 19:24:09。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -41,7 +41,7 @@
 
 
 - [【前端早读课】【第3691期】把品味写成规则，让-AI-替你打磨细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278996&idx=1&sn=7c840387d206c8bb4e0bb8cecedc7d26&chksm=bcf2263a1078b8959b23aeacf080a5582911c5d6f566ee644103cf74c099d75608e77e2bfc0c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=31dce549e65359ceb75fc4bf1c3680db)
-- [【前端早读课】【早说】生成式-AI-在前端领域的局限性探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278991&idx=1&sn=8244b5a531876446796be3fb2d1119fe&chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&scene=0#rd)
+- [【前端早读课】【早说】生成式-AI-在前端领域的局限性探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278991&idx=1&sn=8244b5a531876446796be3fb2d1119fe&chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c03974cc2a61608c9ac99e45ae64180d)
 - [【前端早读课】【第3690期】驾驭-Opus-4.7：Claude-Code-最佳实践全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278978&idx=1&sn=a8351965c5112f4b153ab699d3bbd652&chksm=bcde39b29fcf60c6876b79464f72d46741fc9661802308b63b24d1199e449c0b4dd7aaad768a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fbd6a56b0bcf9a9bb6dfed6368d21c2a)
 - [【Nodejs技术栈】GPT-5.5-凌晨发布！Codex-同步大升级，浏览器、Office、电脑三件套一口气拿下](http://mp.weixin.qq.com/s/A1z1QqGqlwp8Ne6Jv8D9wg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=03e4ead30b6ea53e6261c5917a1e460c)
 - [【淘系前端团队】800行代码实现-Open-Claw-的-Tool、消息总线、子Agent管理架构](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543287&idx=1&sn=a871de8246ffbb5733259e5434958404&chksm=8390dcafb4e755b97be3bff60530b2aa1e3b1a530513eb327e2cbb1b115baeb5f88b81918c23#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6464a7518d7cb9ba9b40032de5e0bd10)
@@ -585,7 +585,7 @@
 
 
 - [【前端早读课】【第3691期】把品味写成规则，让-AI-替你打磨细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278996&idx=1&sn=7c840387d206c8bb4e0bb8cecedc7d26&chksm=bcf2263a1078b8959b23aeacf080a5582911c5d6f566ee644103cf74c099d75608e77e2bfc0c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=31dce549e65359ceb75fc4bf1c3680db)
-- [【前端早读课】【早说】生成式-AI-在前端领域的局限性探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278991&idx=1&sn=8244b5a531876446796be3fb2d1119fe&chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&scene=0#rd)
+- [【前端早读课】【早说】生成式-AI-在前端领域的局限性探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278991&idx=1&sn=8244b5a531876446796be3fb2d1119fe&chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c03974cc2a61608c9ac99e45ae64180d)
 - [【JavaScript-Weekly】What’s-actually-new-in-JavaScript-and-what’s-coming-next](https://javascriptweekly.com/issues/783)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4dc710698b7a75b51c1657189076c98)
 - [【张鑫旭-鑫空间-鑫生活】如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2c3e2be616f40ed7f6e825154b1f739)
 - [【前端早读课】【第3690期】驾驭-Opus-4.7：Claude-Code-最佳实践全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278978&idx=1&sn=a8351965c5112f4b153ab699d3bbd652&chksm=bcde39b29fcf60c6876b79464f72d46741fc9661802308b63b24d1199e449c0b4dd7aaad768a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fbd6a56b0bcf9a9bb6dfed6368d21c2a)
