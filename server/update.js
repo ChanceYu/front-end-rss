@@ -143,6 +143,22 @@ function handleFeed() {
     } else {
       utils.logSuccess('无需更新')
     }
+
+    const threeDaysAgo = moment().subtract(3, 'days').startOf('day')
+    const unprocessedRecent = (linksJson || []).flatMap(rss =>
+      (rss.items || [])
+        .filter(item => {
+          const d = moment(item.date, 'YYYY-MM-DD', true)
+          return d.isValid() && !d.isBefore(threeDaysAgo) && !newData.links[item.link]
+        })
+        .map(item => ({ title: item.title, link: item.link, date: item.date, rssTitle: rss.title }))
+    )
+    if (unprocessedRecent.length) {
+      const base = newData.length ? newData.articles : []
+      utils.logSuccess('重新补充遗漏文章: ' + unprocessedRecent.length)
+      fs.outputJsonSync(path.join(__dirname, 'node_modules', 'new-articles.json'), [...base, ...unprocessedRecent])
+    }
+
     rssJson = null
     linksJson = null
     newData = null
