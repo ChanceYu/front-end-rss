@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-28T16:04:15.773Z</updated>
+    <updated>2026-04-29T04:37:08.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3691期】把品味写成规则，让 AI 替你打磨细节]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278996&amp;idx=1&amp;sn=7c840387d206c8bb4e0bb8cecedc7d26&amp;chksm=bcf2263a1078b8959b23aeacf080a5582911c5d6f566ee644103cf74c099d75608e77e2bfc0c&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278996&amp;idx=1&amp;sn=7c840387d206c8bb4e0bb8cecedc7d26&amp;chksm=bcf2263a1078b8959b23aeacf080a5582911c5d6f566ee644103cf74c099d75608e77e2bfc0c&amp;scene=0#rd"/>
+        <updated>2026-04-29T00:00:00.000Z</updated>
+        <published>2026-04-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】生成式 AI 在前端领域的局限性探讨]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278991&amp;idx=1&amp;sn=8244b5a531876446796be3fb2d1119fe&amp;chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Anthropic 让 Opus 给 Sonnet 当军师：跑分涨了 2.7%，成本还降了 12%]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523209&amp;idx=1&amp;sn=2a157282dd9685675633be9c77cc610f&amp;chksm=e80fd4c7df785dd1cfc9cf920929c3e2cd12fbaab173bb0c33f8ebd0f8ec6f821f383b978cab#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523209&amp;idx=1&amp;sn=2a157282dd9685675633be9c77cc610f&amp;chksm=e80fd4c7df785dd1cfc9cf920929c3e2cd12fbaab173bb0c33f8ebd0f8ec6f821f383b978cab#rd"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <published>2026-04-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html"/>
         <updated>2026-04-10T00:00:00.000Z</updated>
         <published>2026-04-10T00:00:00.000Z</published>
     </entry>
