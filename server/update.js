@@ -14,6 +14,7 @@ const {
   RSS_PATH,
   DELETED_PATH,
   LINKS_PATH,
+  ARTICLES_PROCESSED_PATH,
 } = utils.PATH
 
 const git = simpleGit(RESP_PATH)
@@ -145,11 +146,14 @@ function handleFeed() {
     }
 
     const threeDaysAgo = moment().subtract(3, 'days').startOf('day')
+    const processedMap = fs.pathExistsSync(ARTICLES_PROCESSED_PATH)
+      ? fs.readJsonSync(ARTICLES_PROCESSED_PATH)
+      : {}
     const unprocessedRecent = (linksJson || []).flatMap(rss =>
       (rss.items || [])
         .filter(item => {
           const d = moment(item.date, 'YYYY-MM-DD', true)
-          return d.isValid() && !d.isBefore(threeDaysAgo) && !newData.links[item.link]
+          return d.isValid() && !d.isBefore(threeDaysAgo) && !newData.links[item.link] && !processedMap[item.link]
         })
         .map(item => ({ title: item.title, link: item.link, date: item.date, rssTitle: rss.title }))
     )
