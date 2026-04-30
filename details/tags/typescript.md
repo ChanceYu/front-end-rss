@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-29 21:19:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-30 13:21:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -7,6 +7,8 @@
 
 
 
+- [2026-04-30-Cursor-凌晨开放-TypeScript-SDK，一个-npm-包就能把-Composer-Agent-嵌进你的项目](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523421&idx=1&sn=75954877117bfdff3599359809c9629e&chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=321a6031183879b765ffe750a1ef7390) 
+- [2026-04-29-TS-大神-Matt-Pocock-开源自己的-AI-Skills，主打反-Vibe-Coding](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523414&idx=1&sn=c6f159665b2e21b5402f6edcbd709c23&chksm=e80fd318df785a0e5aad65bbb221f3d1253fc95751a54d6a211334514eac7d426237b42d591b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b2667e110ce041462b048e5ec721241) 
 - [2026-04-23-TypeScript-7.0-Beta-来了：基于-Go-重写，快了整整-10-倍！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517581&idx=1&sn=6096958a5670fbc08ba32b1d160fbb9e&chksm=eb07bdf4dc7034e26fde59e081403f0d16a468b7dbd22692ee3133a27c5418599fc41f65fc6f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b137f04a730e9832bb346ad094dc6417) 
 - [2026-04-14-MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b840a6adba863fcd1146306453fc4314) 
 - [2026-04-09-Anthropic-不只卖模型了！Claude-Managed-Agents-发布，Agent-即服务时代来了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523200&idx=1&sn=f1b91a6cf2fc13001b47176cd7635a7e&chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f2c9ea580079d392ad3f1adc9a378d5) 
@@ -38,8 +40,8 @@
 - [2025-07-28-TypeScript-发布-5.9-预览版！](http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw) 
 - [2025-07-28-别再乱用-as-了，TypeScript-的-satisfies-更香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527370&idx=1&sn=dc02935d0c5698aed8e141d07c619a6b&chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd) 
 - [2025-07-16-【第3551期】使用-Bun/TypeScript-在-10-秒内解析-10-亿行数据](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276991&idx=1&sn=1e374e8041e320a3c4de3a10f23edc7e&chksm=bc4cf84301586f6773ccc57e292b3366e41917c562baf9e1b3bb87e04f5e2e310dd88bd1a159&scene=0#rd) 
-- [2025-07-01-【第3540期】Apache-ECharts-6.0-震撼发布-·-前图无量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=1&sn=ffac034282d8d928845ca6b50b246790&chksm=bc221ee5ff266fc99c446bbf59296d6cf9cb1d1456b1fd2adf3f840010a878db28f5c97df5e8&scene=0#rd) 
 - [2025-07-01-【招聘】百度招聘-ECharts-实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=2&sn=53104cd5f848217ed181acf1dc6d022f&chksm=bcb681c3c5c7f9ffd9a1719bca145646174f1a5feec04f7e62525744ec79f88a83a1d8951c78&scene=0#rd) 
+- [2025-07-01-【第3540期】Apache-ECharts-6.0-震撼发布-·-前图无量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=1&sn=ffac034282d8d928845ca6b50b246790&chksm=bc221ee5ff266fc99c446bbf59296d6cf9cb1d1456b1fd2adf3f840010a878db28f5c97df5e8&scene=0#rd) 
 - [2025-06-27-淘宝直播数字人：TTS语音合成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540777&idx=1&sn=1abacfeabd3ae176250125dc48ded953&chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&scene=0#rd) 
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c92217cfd1f97c6c3a3dd4ddb351b07) 
 - [2025-06-12-TS进阶！深入探索-TypeScript-工具类型：内置神器与高阶扩展](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526505&idx=1&sn=4e8d0b50be605e044c306a08f52ab61a&chksm=f9926eb8cee5e7ae05ad6725b37ca4c10ddc09c172de968f7b14cef2539f183b7252d34a27ce#rd) 
