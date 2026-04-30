@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-30T05:20:06.746Z</updated>
+    <updated>2026-04-30T13:16:43.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[Cursor 凌晨开放 TypeScript SDK，一个 npm 包就能把 Composer Agent 嵌进你的项目]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523421&amp;idx=1&amp;sn=75954877117bfdff3599359809c9629e&amp;chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523421&amp;idx=1&amp;sn=75954877117bfdff3599359809c9629e&amp;chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd"/>
+        <updated>2026-04-30T00:00:00.000Z</updated>
+        <published>2026-04-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pnpm 11.0, AVA 8.0, and a Node 26 delay]]></title>
+        <id>https://nodeweekly.com/issues/622</id>
+        <link href="https://nodeweekly.com/issues/622"/>
         <updated>2026-04-30T00:00:00.000Z</updated>
         <published>2026-04-30T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[AI困境：一个程序员的困境与觉醒]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517571&amp;idx=1&amp;sn=adc1c6d506b250e10f023cd5a05894e5&amp;chksm=eb07bdfadc7034ec67dab203cde244f454d73a3686ce40cb13994a04b53d29a94f673284438d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517571&amp;idx=1&amp;sn=adc1c6d506b250e10f023cd5a05894e5&amp;chksm=eb07bdfadc7034ec67dab203cde244f454d73a3686ce40cb13994a04b53d29a94f673284438d#rd"/>
-        <updated>2026-04-13T00:00:00.000Z</updated>
-        <published>2026-04-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用Claude Code搭了个四个AI的团队，居然真的能协作开发]]></title>
-        <id>http://mp.weixin.qq.com/s/YS-T29rlou-KMkXNs6Zpzg</id>
-        <link href="http://mp.weixin.qq.com/s/YS-T29rlou-KMkXNs6Zpzg"/>
         <updated>2026-04-13T00:00:00.000Z</updated>
         <published>2026-04-13T00:00:00.000Z</published>
     </entry>
