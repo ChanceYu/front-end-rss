@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-30T13:16:43.701Z</updated>
+    <updated>2026-05-02T01:28:10.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -74,6 +74,13 @@
         <title type="html"><![CDATA[如何使用CSS判断鼠标从哪个方向进入元素？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/"/>
+        <updated>2026-04-27T00:00:00.000Z</updated>
+        <published>2026-04-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪赢麻了：Codex、Claude Code 全在用 Vite8 这套工具链！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517589&amp;idx=1&amp;sn=d6b5469af78a9c8f21f3d87d37d5e9b0&amp;chksm=eb07bdecdc7034faef021a4fe079261ce1c5bb5bb67ea0334722a653b958fbd1466fa0a1946d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517589&amp;idx=1&amp;sn=d6b5469af78a9c8f21f3d87d37d5e9b0&amp;chksm=eb07bdecdc7034faef021a4fe079261ce1c5bb5bb67ea0334722a653b958fbd1466fa0a1946d#rd"/>
         <updated>2026-04-27T00:00:00.000Z</updated>
         <published>2026-04-27T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[务必谨慎使用JS WeakRef弱引用]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/"/>
-        <updated>2026-04-13T00:00:00.000Z</updated>
-        <published>2026-04-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI困境：一个程序员的困境与觉醒]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517571&amp;idx=1&amp;sn=adc1c6d506b250e10f023cd5a05894e5&amp;chksm=eb07bdfadc7034ec67dab203cde244f454d73a3686ce40cb13994a04b53d29a94f673284438d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517571&amp;idx=1&amp;sn=adc1c6d506b250e10f023cd5a05894e5&amp;chksm=eb07bdfadc7034ec67dab203cde244f454d73a3686ce40cb13994a04b53d29a94f673284438d#rd"/>
         <updated>2026-04-13T00:00:00.000Z</updated>
         <published>2026-04-13T00:00:00.000Z</published>
     </entry>
