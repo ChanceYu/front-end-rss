@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-02 15:17:47，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-02 16:56:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -297,8 +297,8 @@
 </summary>
 
 
-- [2026-04-29-面向电商直播场景的全模态大模型推理加速方案](http://mp.weixin.qq.com/s/zdo09vHJV3ItVSL8PT5tmw) ![](/assets/new.png) 
-- [2026-04-27-淘天营销中后台生码工作流最佳实践](http://mp.weixin.qq.com/s/VjTyHFr17l_bObG6x8-Mmw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca455beb29938e44d4e2873f314c2adc)  ![](/assets/new.png) 
+- [2026-04-29-面向电商直播场景的全模态大模型推理加速方案](http://mp.weixin.qq.com/s/zdo09vHJV3ItVSL8PT5tmw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=702dc80ffc54ac5c23fe0dddc5ae1e7e)  ![](/assets/new.png) 
+- [2026-04-27-淘天营销中后台生码工作流最佳实践](http://mp.weixin.qq.com/s/VjTyHFr17l_bObG6x8-Mmw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca455beb29938e44d4e2873f314c2adc)  
 - [2026-04-24-800行代码实现-Open-Claw-的-Tool、消息总线、子Agent管理架构](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543287&idx=1&sn=a871de8246ffbb5733259e5434958404&chksm=8390dcafb4e755b97be3bff60530b2aa1e3b1a530513eb327e2cbb1b115baeb5f88b81918c23#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6464a7518d7cb9ba9b40032de5e0bd10)  
 - [2026-04-22-MNN-Sana-Edit-V2：端侧运行的图像漫画风编辑大模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543249&idx=1&sn=77581e427502183f7b367489c86269c2&chksm=8390dc89b4e7559f89c58afea8f6a7d3fb9363169fc1898ed72d78227a6512fcda49eb742914#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3d3d3b8a9f5cd859e483498c0c6e8e5)  
 - [2026-04-20-Codeindex-·-让大模型更好地理解你的代码](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543241&idx=1&sn=d5c2de59eea1b5e190a394b7913c7577&chksm=8390dc91b4e7558727131f6b36b67b7995a645ce90ac76f5a86b348d91956123bbd6da3cd0f6#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3b74f882c39dd90303f767267a6907d1)  
