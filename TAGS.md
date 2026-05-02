@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-02 16:56:25。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-03 06:29:14。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -170,6 +170,7 @@
 
 
 
+- [【Nodejs技术栈】连尤雨溪都在用，这个-ORM-让-Bun-跑出了比-Go-还低的延迟](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523430&idx=1&sn=6f7fe3a06fd36a644a63ba5c75bf53eb&chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d71b674d2f108d643980e8d3654143e4)
 - [【Node-Weekly】pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=67fb43d0ed2de82048441dc6fbd694bf)
 - [【Nodejs技术栈】Hono-成了-Node.js-新项目的新宠，Adapter-v2-再提速-2.3-倍，值得认真看了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523406&idx=1&sn=045ebb0e203e11c68df8139d85100942&chksm=e80fd300df785a1658a20a7e595704a0e743f86dc4d8038e4d9139e7fb1c346652d874a42333#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=899a5f7a59fa4b661c851eeae8e6a9ef)
 - [【Nodejs技术栈】Bun-下一版要支持安卓了！但作者警告：千万别拿它写-App](http://mp.weixin.qq.com/s/KbiF-UdSvNcW4ZwJXo4OWw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9023f5a2bcfd6d3b4a31a2d835665e12)
@@ -179,7 +180,6 @@
 - [【前端早读课】【第3686期】从-Node.js-到-Bun：一次-5-倍吞吐量跃迁的全程实录](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278944&idx=1&sn=bd4a7e4187c77a8f821007ae28b8ec88&chksm=bc5acc588c9576f5b68fc96ae5022d7dfaccbdb84ead33c4a6dcc0fb7240424244d38b1ab3e7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8531524e9b2ad8bf77d6c3954726cdab)
 - [【Node-Weekly】Node-moves-toward-Temporal-by-default](https://nodeweekly.com/issues/620)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dad993ebd7c6a7675b65fc17ca6efefe)
 - [【Nodejs技术栈】Node.js-25.9.0-发布：终于可以用环境变量控制堆内存了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523210&idx=1&sn=9489af7dfb7abef3b1d3303fd599c8e8&chksm=e80fd4c4df785dd2234a2798a82f17e17238a990dce02ea3731683ec34e78aefed196da0067c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bbf8737c0d2b7d5f98c70bfec2423a7)
-- [【Node-Weekly】Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25cbe0bf91baee921ebc6c8539d8da58)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -508,6 +508,7 @@
 
 
 
+- [【Nodejs技术栈】连尤雨溪都在用，这个-ORM-让-Bun-跑出了比-Go-还低的延迟](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523430&idx=1&sn=6f7fe3a06fd36a644a63ba5c75bf53eb&chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d71b674d2f108d643980e8d3654143e4)
 - [【JavaScript-Weekly】What’s-actually-new-in-JavaScript-and-what’s-coming-next](https://javascriptweekly.com/issues/783)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4dc710698b7a75b51c1657189076c98)
 - [【阮一峰的网络日志】科技爱好者周刊（第-394-期）：第二次-API-开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d870bf0e2804d72d4ada788b77395c7d)
 - [【Node-Weekly】Playwright's-exciting-new-page.screencast-API](https://nodeweekly.com/issues/621)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1562b83b6b5ebe53a419c8d6c175244a)
@@ -517,7 +518,6 @@
 - [【前端早读课】【第3685期】给-Codex-最好用的工具，是量身定制的命令行](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278934&idx=1&sn=a985f6989509cf91e418e69b5a8a9678&chksm=bc1909f16fe74b4917ee059142ded9da308f7fcbc88ffcbd9efe2d337afe73ecd5f866b3a47e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b97b6a9d7535a956efced27db1d3d224)
 - [【前端早读课】【早说】命令行才是AI工具的未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278926&idx=1&sn=97ebb35375d3f1640fa2fc8b52f51a02&chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a3467f8eeee98d99279861cbda65fa2)
 - [【Nodejs技术栈】76.8K-Star！OpenClaw-迎来最强对手-Hermes-Agent，还内置了一键迁移命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523227&idx=1&sn=34bda0d2eef7db056cd9e32161e8851b&chksm=e80fd4d5df785dc3dd55efabe78a1acdfdf56400c91352fc837a9ded5df8455bb2f5125b0d13#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=137dbef021564cfcf1dd785b4e78a86f)
-- [【前端早读课】【第3683期】从被动补全到主动编排：用技能架构驾驭AI编程助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278916&idx=1&sn=7ff277a43cd9c3a0bf9c575159257c5b&chksm=bcee0aff16672f1494a35509b09ab65c050f98df8a8b20abdaea4a46662ba0c35d3a437cba5d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=33164809b0c4ab6052e87bf07acdf4ef)
 - [查看更多 >](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【Nodejs技术栈】连尤雨溪都在用，这个-ORM-让-Bun-跑出了比-Go-还低的延迟](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523430&idx=1&sn=6f7fe3a06fd36a644a63ba5c75bf53eb&chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d71b674d2f108d643980e8d3654143e4)
 - [【Nodejs技术栈】Cursor-凌晨开放-TypeScript-SDK，一个-npm-包就能把-Composer-Agent-嵌进你的项目](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523421&idx=1&sn=75954877117bfdff3599359809c9629e&chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=321a6031183879b765ffe750a1ef7390)
 - [【前端从进阶到入院】VS-Code-1.117-版本新功能速览！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517593&idx=1&sn=e2e9a9751a26b042aa7cbc535375acc1&chksm=eb07bde0dc7034f6d82a5238ffc9b95e0c0737528233f431b85422e8b592dfba270a4e4782b0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7c96a094e3c38eb54c48f36826cf84cc)
 - [【前端早读课】【早说】依赖冷却期，是在让你搭别人的便车](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279004&idx=1&sn=4f08579ed837965b843b1a013e64901f&chksm=bc34d4247adc077207d2a4acc99489bde50777b6bb69a24d3391cc87e2aaf7e3217ae32b4fa6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=712c74ebfb04500e40f4391f763f1f5f)
@@ -593,7 +594,6 @@
 - [【前端从进阶到入院】本周前端开发最干货的-8-篇文章](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517591&idx=1&sn=8c2c81106f10454c6b7d760864145186&chksm=eb07bdeedc7034f85fc91346460e6d4465fba89b5c68f2227e72cc5e13cd2ead7e83dcd1751e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6159fbbcf18463d8b82200a9ba5cf1a3)
 - [【前端早读课】【第3691期】把品味写成规则，让-AI-替你打磨细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278996&idx=1&sn=7c840387d206c8bb4e0bb8cecedc7d26&chksm=bcf2263a1078b8959b23aeacf080a5582911c5d6f566ee644103cf74c099d75608e77e2bfc0c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=31dce549e65359ceb75fc4bf1c3680db)
 - [【Nodejs技术栈】Karpathy-想要的那个-LLM-Wiki-产品来了，装一个-Skill-就能用](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523408&idx=1&sn=2fa7fbb3a31cc6341e5024a60297f825&chksm=e80fd31edf785a08cf2839281b06477b8f0fe18f911d2a8d9d569bfda0b0d5837f697f8e1551#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=361b1f2f8610772340b3e1b18497f3ff)
-- [【前端早读课】【早说】生成式-AI-在前端领域的局限性探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278991&idx=1&sn=8244b5a531876446796be3fb2d1119fe&chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c03974cc2a61608c9ac99e45ae64180d)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

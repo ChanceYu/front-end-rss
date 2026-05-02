@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-02 16:56:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-03 06:29:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-05-02-连尤雨溪都在用，这个-ORM-让-Bun-跑出了比-Go-还低的延迟](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523430&idx=1&sn=6f7fe3a06fd36a644a63ba5c75bf53eb&chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d71b674d2f108d643980e8d3654143e4) 
 - [2026-04-30-pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=67fb43d0ed2de82048441dc6fbd694bf) 
 - [2026-04-27-Hono-成了-Node.js-新项目的新宠，Adapter-v2-再提速-2.3-倍，值得认真看了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523406&idx=1&sn=045ebb0e203e11c68df8139d85100942&chksm=e80fd300df785a1658a20a7e595704a0e743f86dc4d8038e4d9139e7fb1c346652d874a42333#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=899a5f7a59fa4b661c851eeae8e6a9ef) 
 - [2026-04-25-Bun-下一版要支持安卓了！但作者警告：千万别拿它写-App](http://mp.weixin.qq.com/s/KbiF-UdSvNcW4ZwJXo4OWw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9023f5a2bcfd6d3b4a31a2d835665e12) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-02T07:17:12.242Z</updated>
+    <updated>2026-05-02T22:28:53.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[连尤雨溪都在用，这个 ORM 让 Bun 跑出了比 Go 还低的延迟]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523430&amp;idx=1&amp;sn=6f7fe3a06fd36a644a63ba5c75bf53eb&amp;chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523430&amp;idx=1&amp;sn=6f7fe3a06fd36a644a63ba5c75bf53eb&amp;chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd"/>
+        <updated>2026-05-02T00:00:00.000Z</updated>
+        <published>2026-05-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cursor 凌晨开放 TypeScript SDK，一个 npm 包就能把 Composer Agent 嵌进你的项目]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523421&amp;idx=1&amp;sn=75954877117bfdff3599359809c9629e&amp;chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/781"/>
         <updated>2026-04-14T00:00:00.000Z</updated>
         <published>2026-04-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify 把后台读写权限开放给 AI Agent 了，Claude Code 现在可以直接操作你的店铺！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523221&amp;idx=1&amp;sn=5e47abd84897e1cab461cb9a0668a90d&amp;chksm=e80fd4dbdf785dcd9e64124c6418319ddddd504e0ebd09b6a3b7c1eb715b68920a15527e761a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523221&amp;idx=1&amp;sn=5e47abd84897e1cab461cb9a0668a90d&amp;chksm=e80fd4dbdf785dcd9e64124c6418319ddddd504e0ebd09b6a3b7c1eb715b68920a15527e761a#rd"/>
-        <updated>2026-04-13T00:00:00.000Z</updated>
-        <published>2026-04-13T00:00:00.000Z</published>
     </entry>
 </feed>

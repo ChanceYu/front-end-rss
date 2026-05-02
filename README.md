@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-02 16:56:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-03 06:29:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,12 +30,12 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -297,7 +297,7 @@
 </summary>
 
 
-- [2026-04-29-面向电商直播场景的全模态大模型推理加速方案](http://mp.weixin.qq.com/s/zdo09vHJV3ItVSL8PT5tmw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=702dc80ffc54ac5c23fe0dddc5ae1e7e)  ![](/assets/new.png) 
+- [2026-04-29-面向电商直播场景的全模态大模型推理加速方案](http://mp.weixin.qq.com/s/zdo09vHJV3ItVSL8PT5tmw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=702dc80ffc54ac5c23fe0dddc5ae1e7e)  
 - [2026-04-27-淘天营销中后台生码工作流最佳实践](http://mp.weixin.qq.com/s/VjTyHFr17l_bObG6x8-Mmw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca455beb29938e44d4e2873f314c2adc)  
 - [2026-04-24-800行代码实现-Open-Claw-的-Tool、消息总线、子Agent管理架构](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543287&idx=1&sn=a871de8246ffbb5733259e5434958404&chksm=8390dcafb4e755b97be3bff60530b2aa1e3b1a530513eb327e2cbb1b115baeb5f88b81918c23#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6464a7518d7cb9ba9b40032de5e0bd10)  
 - [2026-04-22-MNN-Sana-Edit-V2：端侧运行的图像漫画风编辑大模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543249&idx=1&sn=77581e427502183f7b367489c86269c2&chksm=8390dc89b4e7559f89c58afea8f6a7d3fb9363169fc1898ed72d78227a6512fcda49eb742914#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3d3d3b8a9f5cd859e483498c0c6e8e5)  
@@ -402,6 +402,7 @@
 </summary>
 
 
+- [2026-05-02-连尤雨溪都在用，这个-ORM-让-Bun-跑出了比-Go-还低的延迟](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523430&idx=1&sn=6f7fe3a06fd36a644a63ba5c75bf53eb&chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d71b674d2f108d643980e8d3654143e4)  ![](/assets/new.png) 
 - [2026-04-30-Cursor-凌晨开放-TypeScript-SDK，一个-npm-包就能把-Composer-Agent-嵌进你的项目](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523421&idx=1&sn=75954877117bfdff3599359809c9629e&chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=321a6031183879b765ffe750a1ef7390)  
 - [2026-04-29-TS-大神-Matt-Pocock-开源自己的-AI-Skills，主打反-Vibe-Coding](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523414&idx=1&sn=c6f159665b2e21b5402f6edcbd709c23&chksm=e80fd318df785a0e5aad65bbb221f3d1253fc95751a54d6a211334514eac7d426237b42d591b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b2667e110ce041462b048e5ec721241)  
 - [2026-04-28-Karpathy-想要的那个-LLM-Wiki-产品来了，装一个-Skill-就能用](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523408&idx=1&sn=2fa7fbb3a31cc6341e5024a60297f825&chksm=e80fd31edf785a08cf2839281b06477b8f0fe18f911d2a8d9d569bfda0b0d5837f697f8e1551#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=361b1f2f8610772340b3e1b18497f3ff)  
@@ -411,7 +412,6 @@
 - [2026-04-23-马斯克-600-亿买-Cursor，真正想要的根本不是这个编辑器](http://mp.weixin.qq.com/s/Usiiw3oQ6NjeLKpBYc3luw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e92445030fb65fd2fdfdbd39605d7d0)  
 - [2026-04-22-为什么说Harness是AI时代的操作系统](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523314&idx=1&sn=fea1c8f580e7c51ea330bf472edd83a2&chksm=e80fd4bcdf785daa96441e42c61b3e2b035e1f87f849e6ff65e7c056a2a6f5609c4998642d97#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ffa31ae7fb96d60dd02737ae5fdc321f)  
 - [2026-04-21-Next.js-母公司-Vercel-被端了！前端人的-API-Key-正被-200-万美元挂出去卖](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523301&idx=1&sn=3970c7cd297e95ccc6e0767b0815b199&chksm=e80fd4abdf785dbd405a068df856931d46760a5abe4e90d262bb0f6430699e843a0710549a0c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7d9d1df480dae33f186cd456c147c3d4)  
-- [2026-04-20-强烈推荐！这个-Skill-画架构图质量超高，一句话出图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523289&idx=1&sn=806fc13bce3840caf61aac285adf23c8&chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6f19baa77101658b353d94dbf1e7c856)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
