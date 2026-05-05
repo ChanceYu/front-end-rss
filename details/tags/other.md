@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-05-03 06:29:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-06 01:13:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-05-05-Remix-3-drops-React](https://javascriptweekly.com/issues/784)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6877ea408c57aed49f2171fc425fcb3) 
 - [2026-05-02-连尤雨溪都在用，这个-ORM-让-Bun-跑出了比-Go-还低的延迟](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523430&idx=1&sn=6f7fe3a06fd36a644a63ba5c75bf53eb&chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d71b674d2f108d643980e8d3654143e4) 
 - [2026-04-30-Cursor-凌晨开放-TypeScript-SDK，一个-npm-包就能把-Composer-Agent-嵌进你的项目](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523421&idx=1&sn=75954877117bfdff3599359809c9629e&chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=321a6031183879b765ffe750a1ef7390) 
 - [2026-04-30-VS-Code-1.117-版本新功能速览！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517593&idx=1&sn=e2e9a9751a26b042aa7cbc535375acc1&chksm=eb07bde0dc7034f6d82a5238ffc9b95e0c0737528233f431b85422e8b592dfba270a4e4782b0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7c96a094e3c38eb54c48f36826cf84cc) 

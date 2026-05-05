@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-03 06:29:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-06 01:13:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -66,6 +66,7 @@
 
 
 
+- [【JavaScript-Weekly】Remix-3-drops-React](https://javascriptweekly.com/issues/784)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6877ea408c57aed49f2171fc425fcb3)
 - [【前端从进阶到入院】弃坑-PDF.js！800-倍速-PDF-渲染方案，Vue、React-亲测可用！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517579&idx=1&sn=9473251e51102851c102f3b05b133efb&chksm=eb07bdf2dc7034e412f255d1c946d83c34cdb890b4a408cca225d46d2fd491c4aa4671f453d5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d34e9256225a90c38cf1332c2dcd7cdd)
 - [【Nodejs技术栈】Next.js-母公司-Vercel-被端了！前端人的-API-Key-正被-200-万美元挂出去卖](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523301&idx=1&sn=3970c7cd297e95ccc6e0767b0815b199&chksm=e80fd4abdf785dbd405a068df856931d46760a5abe4e90d262bb0f6430699e843a0710549a0c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7d9d1df480dae33f186cd456c147c3d4)
 - [【前端从进阶到入院】最大的-React-性能杀手不就是你？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517577&idx=1&sn=b21e25b3f11ed5d95eecbe987b4c7145&chksm=eb07bdf0dc7034e60bb6aa9b50a75221afea5c5257da28e52baf7a90f51e96e618336e5563e1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cea80bf34fd35f9c3386390ec4786fe4)
@@ -75,7 +76,6 @@
 - [【Nodejs技术栈】Next.js-不写给人类了？新版本的四个改动，全是给-AI-Agent-准备的](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523085&idx=1&sn=ea65083747c5e02cb075955ff60794a5&chksm=e80fd443df785d557c1c665080169b63a803afdfe3974a2b2a91305d0e81a25f2ef873f3372c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5f0f644afc6d1965c71fd7683a11422)
 - [【JavaScript-Weekly】TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d0951a7d0cbc423bd09580c6dc93539d)
 - [【Nodejs技术栈】硬刚-Next.js！尤雨溪隆重推出-Void，Vite-生态终于有自己的"Vercel"了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247522878&idx=1&sn=3d8fcf18a18ab30c35aeca4d4d0789fc&chksm=e80fd570df785c66f45596f8c329a91fc3a562acd31551149195c027ccaa38278df32aa9ccb7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a17e0ef80e109ad39c0e2cd56e4f01b2)
-- [【前端早读课】【第3667期】React-Fiber-原理解析：从递归渲染到可中断调度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278693&idx=1&sn=d28febc993118336805e8e800732415f&chksm=bc46f874bf464ddf092000d682657d2a75395fdec127c6d16151410592aa79003a12342ae2fd&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=be1cd0faf3780bde25f0305b305c2600)
 - [查看更多 >](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【JavaScript-Weekly】Remix-3-drops-React](https://javascriptweekly.com/issues/784)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6877ea408c57aed49f2171fc425fcb3)
 - [【Nodejs技术栈】连尤雨溪都在用，这个-ORM-让-Bun-跑出了比-Go-还低的延迟](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523430&idx=1&sn=6f7fe3a06fd36a644a63ba5c75bf53eb&chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d71b674d2f108d643980e8d3654143e4)
 - [【Nodejs技术栈】Cursor-凌晨开放-TypeScript-SDK，一个-npm-包就能把-Composer-Agent-嵌进你的项目](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523421&idx=1&sn=75954877117bfdff3599359809c9629e&chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=321a6031183879b765ffe750a1ef7390)
 - [【前端从进阶到入院】VS-Code-1.117-版本新功能速览！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517593&idx=1&sn=e2e9a9751a26b042aa7cbc535375acc1&chksm=eb07bde0dc7034f6d82a5238ffc9b95e0c0737528233f431b85422e8b592dfba270a4e4782b0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7c96a094e3c38eb54c48f36826cf84cc)
@@ -593,7 +594,6 @@
 - [【淘系前端团队】面向电商直播场景的全模态大模型推理加速方案](http://mp.weixin.qq.com/s/zdo09vHJV3ItVSL8PT5tmw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=702dc80ffc54ac5c23fe0dddc5ae1e7e)
 - [【前端从进阶到入院】本周前端开发最干货的-8-篇文章](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517591&idx=1&sn=8c2c81106f10454c6b7d760864145186&chksm=eb07bdeedc7034f85fc91346460e6d4465fba89b5c68f2227e72cc5e13cd2ead7e83dcd1751e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6159fbbcf18463d8b82200a9ba5cf1a3)
 - [【前端早读课】【第3691期】把品味写成规则，让-AI-替你打磨细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278996&idx=1&sn=7c840387d206c8bb4e0bb8cecedc7d26&chksm=bcf2263a1078b8959b23aeacf080a5582911c5d6f566ee644103cf74c099d75608e77e2bfc0c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=31dce549e65359ceb75fc4bf1c3680db)
-- [【Nodejs技术栈】Karpathy-想要的那个-LLM-Wiki-产品来了，装一个-Skill-就能用](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523408&idx=1&sn=2fa7fbb3a31cc6341e5024a60297f825&chksm=e80fd31edf785a08cf2839281b06477b8f0fe18f911d2a8d9d569bfda0b0d5837f697f8e1551#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=361b1f2f8610772340b3e1b18497f3ff)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-02T22:28:53.388Z</updated>
+    <updated>2026-05-05T17:13:16.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Remix 3 drops React]]></title>
+        <id>https://javascriptweekly.com/issues/784</id>
+        <link href="https://javascriptweekly.com/issues/784"/>
+        <updated>2026-05-05T00:00:00.000Z</updated>
+        <published>2026-05-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[连尤雨溪都在用，这个 ORM 让 Bun 跑出了比 Go 还低的延迟]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523430&amp;idx=1&amp;sn=6f7fe3a06fd36a644a63ba5c75bf53eb&amp;chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3684期】最低发布时限：最简单却最有效的供应链防线]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278921&amp;idx=1&amp;sn=7f1d2bb7758618ecb95ec9685440242b&amp;chksm=bc113861189c53cace2dd2ae0a2bb83de8ec903f1e6d200fba6bc82280e802f2b658d669ff6d&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278921&amp;idx=1&amp;sn=7f1d2bb7758618ecb95ec9685440242b&amp;chksm=bc113861189c53cace2dd2ae0a2bb83de8ec903f1e6d200fba6bc82280e802f2b658d669ff6d&amp;scene=0#rd"/>
-        <updated>2026-04-14T00:00:00.000Z</updated>
-        <published>2026-04-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDN ditches React for web components in frontend rebuild]]></title>
-        <id>https://javascriptweekly.com/issues/781</id>
-        <link href="https://javascriptweekly.com/issues/781"/>
         <updated>2026-04-14T00:00:00.000Z</updated>
         <published>2026-04-14T00:00:00.000Z</published>
     </entry>
