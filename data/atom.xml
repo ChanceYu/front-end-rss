@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-06T17:21:21.645Z</updated>
+    <updated>2026-05-06T21:01:04.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,13 @@
         <link href="https://javascriptweekly.com/issues/784"/>
         <updated>2026-05-05T00:00:00.000Z</updated>
         <published>2026-05-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 装了十年的 Sharp，Bun 说：不用装了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523438&amp;idx=1&amp;sn=d795aa1c2dfb80cb0eaa88a2d43f1059&amp;chksm=e80fd320df785a367c4d543e08261ce79c1c0d022c58dda6c90a9f84ce1d9e9d84acdb751a15#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523438&amp;idx=1&amp;sn=d795aa1c2dfb80cb0eaa88a2d43f1059&amp;chksm=e80fd320df785a367c4d543e08261ce79c1c0d022c58dda6c90a9f84ce1d9e9d84acdb751a15#rd"/>
+        <updated>2026-05-04T00:00:00.000Z</updated>
+        <published>2026-05-04T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[连尤雨溪都在用，这个 ORM 让 Bun 跑出了比 Go 还低的延迟]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[从全量启动到最小核： 手淘外链唤端链路的三次架构演进]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543182&amp;idx=1&amp;sn=f52ba106e3ecb3a514faa80f0ca4e607&amp;chksm=8390dc56b4e7554013a81c8d23caab46287b404cdce8ba42a0962dddacde74790740657ece40#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543182&amp;idx=1&amp;sn=f52ba106e3ecb3a514faa80f0ca4e607&amp;chksm=8390dc56b4e7554013a81c8d23caab46287b404cdce8ba42a0962dddacde74790740657ece40#rd"/>
-        <updated>2026-04-14T00:00:00.000Z</updated>
-        <published>2026-04-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【真诚建议】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档]]></title>
-        <id>http://mp.weixin.qq.com/s/IWg4ANuFWfb04htxBZlfoA</id>
-        <link href="http://mp.weixin.qq.com/s/IWg4ANuFWfb04htxBZlfoA"/>
         <updated>2026-04-14T00:00:00.000Z</updated>
         <published>2026-04-14T00:00:00.000Z</published>
     </entry>
