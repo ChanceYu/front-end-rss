@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-07T01:47:03.441Z</updated>
+    <updated>2026-05-07T05:21:21.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3692期】告别基础设施焦虑：用Claude托管代理轻松构建代码审查工具]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279013&amp;idx=1&amp;sn=4bb79bd9f784df7ff3e875bae9344991&amp;chksm=bc29256271ede6abfb70a490d877a39470c369d3f0b67472dd2f1f18be53600d06e5105e3165&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279013&amp;idx=1&amp;sn=4bb79bd9f784df7ff3e875bae9344991&amp;chksm=bc29256271ede6abfb70a490d877a39470c369d3f0b67472dd2f1f18be53600d06e5105e3165&amp;scene=0#rd"/>
+        <updated>2026-05-07T00:00:00.000Z</updated>
+        <published>2026-05-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JSON.rawJSON方法的作用是什么？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278926&amp;idx=1&amp;sn=97ebb35375d3f1640fa2fc8b52f51a02&amp;chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&amp;scene=0#rd"/>
         <updated>2026-04-15T00:00:00.000Z</updated>
         <published>2026-04-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[76.8K Star！OpenClaw 迎来最强对手 Hermes Agent，还内置了一键迁移命令]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523227&amp;idx=1&amp;sn=34bda0d2eef7db056cd9e32161e8851b&amp;chksm=e80fd4d5df785dc3dd55efabe78a1acdfdf56400c91352fc837a9ded5df8455bb2f5125b0d13#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523227&amp;idx=1&amp;sn=34bda0d2eef7db056cd9e32161e8851b&amp;chksm=e80fd4d5df785dc3dd55efabe78a1acdfdf56400c91352fc837a9ded5df8455bb2f5125b0d13#rd"/>
-        <updated>2026-04-14T00:00:00.000Z</updated>
-        <published>2026-04-14T00:00:00.000Z</published>
     </entry>
 </feed>
