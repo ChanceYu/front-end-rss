@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-06T21:01:04.844Z</updated>
+    <updated>2026-05-07T01:47:03.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[JSON.rawJSON方法的作用是什么？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/"/>
+        <updated>2026-05-06T00:00:00.000Z</updated>
+        <published>2026-05-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文吃透AST与LSP：为什么AI代码工具都离不开它？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529717&amp;idx=1&amp;sn=e4fe9464b4d34642fde66bf1a25db622&amp;chksm=f9927224cee5fb3266d68bf941a2dd31e9c20a4dd4a4b606c2a993fc298573cac783ad0b2a57#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529717&amp;idx=1&amp;sn=e4fe9464b4d34642fde66bf1a25db622&amp;chksm=f9927224cee5fb3266d68bf941a2dd31e9c20a4dd4a4b606c2a993fc298573cac783ad0b2a57#rd"/>
         <updated>2026-05-06T00:00:00.000Z</updated>
         <published>2026-05-06T00:00:00.000Z</published>
     </entry>
@@ -232,16 +239,16 @@
         <published>2026-04-21T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js 子进程管理：我是如何被 spawn 逼疯的]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd"/>
+        <title type="html"><![CDATA[详解 Node.js 中的子进程]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=2&amp;sn=12b827645f6c31b27ddba4a30cb34266&amp;chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=2&amp;sn=12b827645f6c31b27ddba4a30cb34266&amp;chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd"/>
         <updated>2026-04-21T00:00:00.000Z</updated>
         <published>2026-04-21T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[详解 Node.js 中的子进程]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=2&amp;sn=12b827645f6c31b27ddba4a30cb34266&amp;chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=2&amp;sn=12b827645f6c31b27ddba4a30cb34266&amp;chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd"/>
+        <title type="html"><![CDATA[Node.js 子进程管理：我是如何被 spawn 逼疯的]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd"/>
         <updated>2026-04-21T00:00:00.000Z</updated>
         <published>2026-04-21T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[76.8K Star！OpenClaw 迎来最强对手 Hermes Agent，还内置了一键迁移命令]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523227&amp;idx=1&amp;sn=34bda0d2eef7db056cd9e32161e8851b&amp;chksm=e80fd4d5df785dc3dd55efabe78a1acdfdf56400c91352fc837a9ded5df8455bb2f5125b0d13#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523227&amp;idx=1&amp;sn=34bda0d2eef7db056cd9e32161e8851b&amp;chksm=e80fd4d5df785dc3dd55efabe78a1acdfdf56400c91352fc837a9ded5df8455bb2f5125b0d13#rd"/>
-        <updated>2026-04-14T00:00:00.000Z</updated>
-        <published>2026-04-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从全量启动到最小核： 手淘外链唤端链路的三次架构演进]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543182&amp;idx=1&amp;sn=f52ba106e3ecb3a514faa80f0ca4e607&amp;chksm=8390dc56b4e7554013a81c8d23caab46287b404cdce8ba42a0962dddacde74790740657ece40#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543182&amp;idx=1&amp;sn=f52ba106e3ecb3a514faa80f0ca4e607&amp;chksm=8390dc56b4e7554013a81c8d23caab46287b404cdce8ba42a0962dddacde74790740657ece40#rd"/>
         <updated>2026-04-14T00:00:00.000Z</updated>
         <published>2026-04-14T00:00:00.000Z</published>
     </entry>
