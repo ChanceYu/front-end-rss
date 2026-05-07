@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-07T05:21:21.922Z</updated>
+    <updated>2026-05-07T13:24:03.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[JSON.rawJSON方法的作用是什么？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/"/>
+        <updated>2026-05-06T00:00:00.000Z</updated>
+        <published>2026-05-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天猫新品营销技术团队AI编码实战指南（上）]]></title>
+        <id>http://mp.weixin.qq.com/s/cMEwc2l9-MhI_asvL-AkxA</id>
+        <link href="http://mp.weixin.qq.com/s/cMEwc2l9-MhI_asvL-AkxA"/>
         <updated>2026-05-06T00:00:00.000Z</updated>
         <published>2026-05-06T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[刚刚，Cursor被扒底裤！Claude Code套壳实锤，500亿估值全靠Ctrl+H？]]></title>
         <id>http://mp.weixin.qq.com/s/HxMbpBXLEFhSYnW8vwnclw</id>
         <link href="http://mp.weixin.qq.com/s/HxMbpBXLEFhSYnW8vwnclw"/>
-        <updated>2026-04-15T00:00:00.000Z</updated>
-        <published>2026-04-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】命令行才是AI工具的未来]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278926&amp;idx=1&amp;sn=97ebb35375d3f1640fa2fc8b52f51a02&amp;chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278926&amp;idx=1&amp;sn=97ebb35375d3f1640fa2fc8b52f51a02&amp;chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&amp;scene=0#rd"/>
         <updated>2026-04-15T00:00:00.000Z</updated>
         <published>2026-04-15T00:00:00.000Z</published>
     </entry>
