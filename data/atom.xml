@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-07T15:57:06.677Z</updated>
+    <updated>2026-05-08T04:46:46.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3693期】从提示词到工程框架：AI工程的成长之路]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=1&amp;sn=3d28af3c06d14ce8f7276ef1765e80c6&amp;chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=1&amp;sn=3d28af3c06d14ce8f7276ef1765e80c6&amp;chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&amp;scene=0#rd"/>
+        <updated>2026-05-08T00:00:00.000Z</updated>
+        <published>2026-05-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【图书】Claude Code 实战：Harness工程之道]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd"/>
+        <updated>2026-05-08T00:00:00.000Z</updated>
+        <published>2026-05-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3692期】告别基础设施焦虑：用Claude托管代理轻松构建代码审查工具]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279013&amp;idx=1&amp;sn=4bb79bd9f784df7ff3e875bae9344991&amp;chksm=bc29256271ede6abfb70a490d877a39470c369d3f0b67472dd2f1f18be53600d06e5105e3165&amp;scene=0#rd</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278934&amp;idx=1&amp;sn=a985f6989509cf91e418e69b5a8a9678&amp;chksm=bc1909f16fe74b4917ee059142ded9da308f7fcbc88ffcbd9efe2d337afe73ecd5f866b3a47e&amp;scene=0#rd"/>
         <updated>2026-04-16T00:00:00.000Z</updated>
         <published>2026-04-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node moves toward Temporal by default]]></title>
-        <id>https://nodeweekly.com/issues/620</id>
-        <link href="https://nodeweekly.com/issues/620"/>
-        <updated>2026-04-16T00:00:00.000Z</updated>
-        <published>2026-04-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凌晨，Claude 和 Cursor 同时宣布：以后不用半夜爬起来看 Sentry 了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523240&amp;idx=1&amp;sn=c92c9e9c0e67dfb37ce9081cf903c296&amp;chksm=e80fd4e6df785df040edc08b5308123c5af019296aa120e54dda5ad474c79684553b8db5013c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523240&amp;idx=1&amp;sn=c92c9e9c0e67dfb37ce9081cf903c296&amp;chksm=e80fd4e6df785df040edc08b5308123c5af019296aa120e54dda5ad474c79684553b8db5013c#rd"/>
-        <updated>2026-04-15T00:00:00.000Z</updated>
-        <published>2026-04-15T00:00:00.000Z</published>
     </entry>
 </feed>
