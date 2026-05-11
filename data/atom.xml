@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-11T08:54:16.970Z</updated>
+    <updated>2026-05-11T12:33:27.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Bun 要把底层从 Zig 换成 Rust？把 Node.js 也搞得蠢蠢欲动了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523481&amp;idx=1&amp;sn=9e1a68f3335f04c637685271973f0d99&amp;chksm=e80fd3d7df785ac1102c21914da7d0c5aa16e2cd42d8e11ce7b5e4639577e0b4127bef93222e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523481&amp;idx=1&amp;sn=9e1a68f3335f04c637685271973f0d99&amp;chksm=e80fd3d7df785ac1102c21914da7d0c5aa16e2cd42d8e11ce7b5e4639577e0b4127bef93222e#rd"/>
+        <updated>2026-05-11T00:00:00.000Z</updated>
+        <published>2026-05-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pretext与文字四面环绕效果的实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/782"/>
         <updated>2026-04-21T00:00:00.000Z</updated>
         <published>2026-04-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[强烈推荐！这个 Skill 画架构图质量超高，一句话出图]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523289&amp;idx=1&amp;sn=806fc13bce3840caf61aac285adf23c8&amp;chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523289&amp;idx=1&amp;sn=806fc13bce3840caf61aac285adf23c8&amp;chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd"/>
-        <updated>2026-04-20T00:00:00.000Z</updated>
-        <published>2026-04-20T00:00:00.000Z</published>
     </entry>
 </feed>
