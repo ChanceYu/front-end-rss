@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-09T04:59:08.857Z</updated>
+    <updated>2026-05-11T01:54:13.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[天猫新品团队AI编码实战指南（下）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543388&amp;idx=1&amp;sn=7c5a8274283f465c9c7d01da938afda1&amp;chksm=8390dd04b4e75412e1247d2c4f23d1adbeb05c7d5c3f39664cb62072ccaf19dc0db018dea3d1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543388&amp;idx=1&amp;sn=7c5a8274283f465c9c7d01da938afda1&amp;chksm=8390dd04b4e75412e1247d2c4f23d1adbeb05c7d5c3f39664cb62072ccaf19dc0db018dea3d1#rd"/>
+        <updated>2026-05-08T00:00:00.000Z</updated>
+        <published>2026-05-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor 官方偷偷用了 2 年的内部工作流，现在全部开源了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529765&amp;idx=1&amp;sn=387ffd1321d825fd5caaf7ce1e6db1c7&amp;chksm=f99273f4cee5fae24cd073c2c0adad52f06dbffd3c5cddb25a739481d90ef2c44b620bd6fe74#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529765&amp;idx=1&amp;sn=387ffd1321d825fd5caaf7ce1e6db1c7&amp;chksm=f99273f4cee5fae24cd073c2c0adad52f06dbffd3c5cddb25a739481d90ef2c44b620bd6fe74#rd"/>
+        <updated>2026-05-08T00:00:00.000Z</updated>
+        <published>2026-05-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【图书】Claude Code 实战：Harness工程之道]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd</id>
@@ -274,16 +288,16 @@
         <published>2026-04-21T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[详解 Node.js 中的子进程]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=2&amp;sn=12b827645f6c31b27ddba4a30cb34266&amp;chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=2&amp;sn=12b827645f6c31b27ddba4a30cb34266&amp;chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd"/>
+        <title type="html"><![CDATA[Node.js 子进程管理：我是如何被 spawn 逼疯的]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd"/>
         <updated>2026-04-21T00:00:00.000Z</updated>
         <published>2026-04-21T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js 子进程管理：我是如何被 spawn 逼疯的]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd"/>
+        <title type="html"><![CDATA[详解 Node.js 中的子进程]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=2&amp;sn=12b827645f6c31b27ddba4a30cb34266&amp;chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=2&amp;sn=12b827645f6c31b27ddba4a30cb34266&amp;chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd"/>
         <updated>2026-04-21T00:00:00.000Z</updated>
         <published>2026-04-21T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[请停止过度设计：浏览器已经解决了这 8 个问题]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517575&amp;idx=1&amp;sn=20f90cd8662c443a56a455b951b56773&amp;chksm=eb07bdfedc7034e8cbd0a4087d19390f22571318bc87646f4891cf03db693771c079a0d35b79#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517575&amp;idx=1&amp;sn=20f90cd8662c443a56a455b951b56773&amp;chksm=eb07bdfedc7034e8cbd0a4087d19390f22571318bc87646f4891cf03db693771c079a0d35b79#rd"/>
-        <updated>2026-04-16T00:00:00.000Z</updated>
-        <published>2026-04-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突发：Claude引入强实名制验证！必须真人手持证件自拍，否则直接封号！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624380&amp;idx=1&amp;sn=a5fe535833e41db9510c4c17e4da1f68&amp;chksm=8022447db755cd6b5034551bd0874e272c36d0d8c13c3ea61fd9ad66d9593ad9b7cd2a2d511b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624380&amp;idx=1&amp;sn=a5fe535833e41db9510c4c17e4da1f68&amp;chksm=8022447db755cd6b5034551bd0874e272c36d0d8c13c3ea61fd9ad66d9593ad9b7cd2a2d511b#rd"/>
-        <updated>2026-04-16T00:00:00.000Z</updated>
-        <published>2026-04-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3685期】给 Codex 最好用的工具，是量身定制的命令行]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278934&amp;idx=1&amp;sn=a985f6989509cf91e418e69b5a8a9678&amp;chksm=bc1909f16fe74b4917ee059142ded9da308f7fcbc88ffcbd9efe2d337afe73ecd5f866b3a47e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278934&amp;idx=1&amp;sn=a985f6989509cf91e418e69b5a8a9678&amp;chksm=bc1909f16fe74b4917ee059142ded9da308f7fcbc88ffcbd9efe2d337afe73ecd5f866b3a47e&amp;scene=0#rd"/>
         <updated>2026-04-16T00:00:00.000Z</updated>
         <published>2026-04-16T00:00:00.000Z</published>
     </entry>
