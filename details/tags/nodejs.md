@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-11 13:49:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 16:55:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,8 @@
 
 
 
+- [2026-05-09-Redis-之父为-DeepSeek-V4-手写-AI-推理引擎，Node.js-大佬亲自点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523463&idx=1&sn=d78ab783d26ff8f871eac60cbc02072a&chksm=e80fd3c9df785adf0e208b69ed23675f12bb61c721152fe9573881996622c58965ee5e703f0d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f5065083973e0251dc46f05d32dd154b) 
+- [2026-05-07-Node.js-26-发布：用了-10-年的版本号规则，从下一版起作废](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523444&idx=1&sn=813daf0e2da8b011acf951fc7706a175&chksm=e80fd33adf785a2cde0303325c83d8c7279a21581a7d578174f0d9e9eac0c6b9084727425c0b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cf465f2564629130acda78e69fc648f9) 
 - [2026-05-07-Node-26.0-ships-Temporal;-Node-26.1-brings-FFI](https://nodeweekly.com/issues/623)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1b2e3354d00f0c545128f2358fd7d512) 
 - [2026-05-04-Node.js-装了十年的-Sharp，Bun-说：不用装了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523438&idx=1&sn=d795aa1c2dfb80cb0eaa88a2d43f1059&chksm=e80fd320df785a367c4d543e08261ce79c1c0d022c58dda6c90a9f84ce1d9e9d84acdb751a15#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2740934e402f0e9b9850ea606b4c6e8) 
 - [2026-05-02-连尤雨溪都在用，这个-ORM-让-Bun-跑出了比-Go-还低的延迟](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523430&idx=1&sn=6f7fe3a06fd36a644a63ba5c75bf53eb&chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d71b674d2f108d643980e8d3654143e4) 

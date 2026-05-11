@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-11 13:49:40，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 16:55:18，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -28,14 +28,14 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -87,7 +87,7 @@
 </summary>
 
 
-- [2026-05-11-【第3695期】下一代图片格式-AVIF-在-vivo-社区的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279053&idx=1&sn=5e473cf9e9955cf6fbc4173846092f00&chksm=bc5d204e85759016a9ce149a2a96d0357ce6ca5b388d7467f5412efdc6741cf56f38edef05e4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=55da839d9504d2f25dd662529ccca288)  ![](/assets/new.png) 
+- [2026-05-11-【第3695期】下一代图片格式-AVIF-在-vivo-社区的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279053&idx=1&sn=5e473cf9e9955cf6fbc4173846092f00&chksm=bc5d204e85759016a9ce149a2a96d0357ce6ca5b388d7467f5412efdc6741cf56f38edef05e4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=55da839d9504d2f25dd662529ccca288)  
 - [2026-05-09-【第3694期】智能体框架深度解剖](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279046&idx=1&sn=ec91828738d5f52ca1143822e69dfa8e&chksm=bc2ca796447d9ee7ecdbad2efd42a09cc06a6d9ba339b56e4f6d7976c718b613263b03b8fe12&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=55146543a76f2c32305ab26e361c46ba)  
 - [2026-05-08-【图书】Claude-Code-实战：Harness工程之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279034&idx=2&sn=e11923e659525118dc441638139bba7b&chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2b6c84a93c54c8f2a60e4ab6df81e1ab)  
 - [2026-05-08-【第3693期】从提示词到工程框架：AI工程的成长之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279034&idx=1&sn=3d28af3c06d14ce8f7276ef1765e80c6&chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1c352c5b782e8871d9a4ed3941e3de57)  
@@ -255,7 +255,7 @@
 </summary>
 
 
-- [2026-05-08-VS-Code-1.119-版本新功能速览！Agent-交互体验大幅升级](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517598&idx=1&sn=413110079acd82bd09e58c92d7147284&chksm=eb07bde7dc7034f1899cd64d108f4f4e64cf9ab9a149fa2023cebd75b7c9e5585bc3bb510b1f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=eeb5340eecf3ad53eaafdb7bb21fb1b4)  ![](/assets/new.png) 
+- [2026-05-08-VS-Code-1.119-版本新功能速览！Agent-交互体验大幅升级](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517598&idx=1&sn=413110079acd82bd09e58c92d7147284&chksm=eb07bde7dc7034f1899cd64d108f4f4e64cf9ab9a149fa2023cebd75b7c9e5585bc3bb510b1f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=eeb5340eecf3ad53eaafdb7bb21fb1b4)  
 - [2026-04-30-VS-Code-1.117-版本新功能速览！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517593&idx=1&sn=e2e9a9751a26b042aa7cbc535375acc1&chksm=eb07bde0dc7034f6d82a5238ffc9b95e0c0737528233f431b85422e8b592dfba270a4e4782b0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7c96a094e3c38eb54c48f36826cf84cc)  
 - [2026-04-29-本周前端开发最干货的-8-篇文章](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517591&idx=1&sn=8c2c81106f10454c6b7d760864145186&chksm=eb07bdeedc7034f85fc91346460e6d4465fba89b5c68f2227e72cc5e13cd2ead7e83dcd1751e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6159fbbcf18463d8b82200a9ba5cf1a3)  
 - [2026-04-27-尤雨溪赢麻了：Codex、Claude-Code-全在用-Vite8-这套工具链！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517589&idx=1&sn=d6b5469af78a9c8f21f3d87d37d5e9b0&chksm=eb07bdecdc7034faef021a4fe079261ce1c5bb5bb67ea0334722a653b958fbd1466fa0a1946d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f40e1ec2b2d43d035c0058571001eb0b)  
@@ -318,7 +318,7 @@
 </summary>
 
 
-- [2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8720eabc63cbc79d1333be9882c0eacb)  ![](/assets/new.png) 
+- [2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8720eabc63cbc79d1333be9882c0eacb)  
 - [2026-05-06-JSON.rawJSON方法的作用是什么？](https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d7bee8b30ce5112016570da4313ac1c)  
 - [2026-04-27-如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2c3e2be616f40ed7f6e825154b1f739)  
 - [2026-04-17-借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e724a72a01be2caaa738a09a8f4c56d)  
@@ -402,16 +402,16 @@
 </summary>
 
 
+- [2026-05-10-Markdown-凉了？Claude-Code-工程师亲口说：我已经全面切换到-HTML-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523473&idx=1&sn=4b69b573dc7f277e0ef299e4231f4c9e&chksm=e80fd3dfdf785ac98a1f6b3c4887086e4ee68f4c20679b4a3da75abad2c62d52d9797853d2a2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f4a8cb74bbddf77abb7d48e94da037e2)  ![](/assets/new.png) 
+- [2026-05-09-Redis-之父为-DeepSeek-V4-手写-AI-推理引擎，Node.js-大佬亲自点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523463&idx=1&sn=d78ab783d26ff8f871eac60cbc02072a&chksm=e80fd3c9df785adf0e208b69ed23675f12bb61c721152fe9573881996622c58965ee5e703f0d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f5065083973e0251dc46f05d32dd154b)  ![](/assets/new.png) 
+- [2026-05-08-Rolldown-1.0-正式发布！比-Rollup-快-30-倍，周下载量已破-2000-万](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523454&idx=1&sn=cdc896d65304d1d40a0cb56a7945cfa3&chksm=e80fd330df785a266964cd24210a5b65cebc5a733feb2a575df02a4cbddb94befd18e62c0f81#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7c4c060b000cd8c7320b059659a239e7)  ![](/assets/new.png) 
+- [2026-05-07-Node.js-26-发布：用了-10-年的版本号规则，从下一版起作废](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523444&idx=1&sn=813daf0e2da8b011acf951fc7706a175&chksm=e80fd33adf785a2cde0303325c83d8c7279a21581a7d578174f0d9e9eac0c6b9084727425c0b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cf465f2564629130acda78e69fc648f9)  ![](/assets/new.png) 
 - [2026-05-04-Node.js-装了十年的-Sharp，Bun-说：不用装了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523438&idx=1&sn=d795aa1c2dfb80cb0eaa88a2d43f1059&chksm=e80fd320df785a367c4d543e08261ce79c1c0d022c58dda6c90a9f84ce1d9e9d84acdb751a15#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2740934e402f0e9b9850ea606b4c6e8)  
 - [2026-05-02-连尤雨溪都在用，这个-ORM-让-Bun-跑出了比-Go-还低的延迟](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523430&idx=1&sn=6f7fe3a06fd36a644a63ba5c75bf53eb&chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d71b674d2f108d643980e8d3654143e4)  
 - [2026-04-30-Cursor-凌晨开放-TypeScript-SDK，一个-npm-包就能把-Composer-Agent-嵌进你的项目](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523421&idx=1&sn=75954877117bfdff3599359809c9629e&chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=321a6031183879b765ffe750a1ef7390)  
 - [2026-04-29-TS-大神-Matt-Pocock-开源自己的-AI-Skills，主打反-Vibe-Coding](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523414&idx=1&sn=c6f159665b2e21b5402f6edcbd709c23&chksm=e80fd318df785a0e5aad65bbb221f3d1253fc95751a54d6a211334514eac7d426237b42d591b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b2667e110ce041462b048e5ec721241)  
 - [2026-04-28-Karpathy-想要的那个-LLM-Wiki-产品来了，装一个-Skill-就能用](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523408&idx=1&sn=2fa7fbb3a31cc6341e5024a60297f825&chksm=e80fd31edf785a08cf2839281b06477b8f0fe18f911d2a8d9d569bfda0b0d5837f697f8e1551#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=361b1f2f8610772340b3e1b18497f3ff)  
 - [2026-04-27-Hono-成了-Node.js-新项目的新宠，Adapter-v2-再提速-2.3-倍，值得认真看了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523406&idx=1&sn=045ebb0e203e11c68df8139d85100942&chksm=e80fd300df785a1658a20a7e595704a0e743f86dc4d8038e4d9139e7fb1c346652d874a42333#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=899a5f7a59fa4b661c851eeae8e6a9ef)  
-- [2026-04-25-Bun-下一版要支持安卓了！但作者警告：千万别拿它写-App](http://mp.weixin.qq.com/s/KbiF-UdSvNcW4ZwJXo4OWw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9023f5a2bcfd6d3b4a31a2d835665e12)  
-- [2026-04-24-GPT-5.5-凌晨发布！Codex-同步大升级，浏览器、Office、电脑三件套一口气拿下](http://mp.weixin.qq.com/s/A1z1QqGqlwp8Ne6Jv8D9wg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=03e4ead30b6ea53e6261c5917a1e460c)  
-- [2026-04-23-马斯克-600-亿买-Cursor，真正想要的根本不是这个编辑器](http://mp.weixin.qq.com/s/Usiiw3oQ6NjeLKpBYc3luw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e92445030fb65fd2fdfdbd39605d7d0)  
-- [2026-04-22-为什么说Harness是AI时代的操作系统](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523314&idx=1&sn=fea1c8f580e7c51ea330bf472edd83a2&chksm=e80fd4bcdf785daa96441e42c61b3e2b035e1f87f849e6ff65e7c056a2a6f5609c4998642d97#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ffa31ae7fb96d60dd02737ae5fdc321f)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

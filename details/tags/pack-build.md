@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-11 13:49:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 16:55:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-05-08-Rolldown-1.0-正式发布！比-Rollup-快-30-倍，周下载量已破-2000-万](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523454&idx=1&sn=cdc896d65304d1d40a0cb56a7945cfa3&chksm=e80fd330df785a266964cd24210a5b65cebc5a733feb2a575df02a4cbddb94befd18e62c0f81#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7c4c060b000cd8c7320b059659a239e7) 
 - [2026-05-07-【第3692期】告别基础设施焦虑：用Claude托管代理轻松构建代码审查工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279013&idx=1&sn=4bb79bd9f784df7ff3e875bae9344991&chksm=bc29256271ede6abfb70a490d877a39470c369d3f0b67472dd2f1f18be53600d06e5105e3165&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2f0730f027dcf552b497a27398153498) 
 - [2026-04-30-Cursor-凌晨开放-TypeScript-SDK，一个-npm-包就能把-Composer-Agent-嵌进你的项目](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523421&idx=1&sn=75954877117bfdff3599359809c9629e&chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=321a6031183879b765ffe750a1ef7390) 
 - [2026-04-30-pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=67fb43d0ed2de82048441dc6fbd694bf) 

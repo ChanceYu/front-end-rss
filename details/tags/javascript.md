@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-11 13:49:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 16:55:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,8 @@
 
 
 
+- [2026-05-09-Redis-之父为-DeepSeek-V4-手写-AI-推理引擎，Node.js-大佬亲自点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523463&idx=1&sn=d78ab783d26ff8f871eac60cbc02072a&chksm=e80fd3c9df785adf0e208b69ed23675f12bb61c721152fe9573881996622c58965ee5e703f0d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f5065083973e0251dc46f05d32dd154b) 
+- [2026-05-07-Node.js-26-发布：用了-10-年的版本号规则，从下一版起作废](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523444&idx=1&sn=813daf0e2da8b011acf951fc7706a175&chksm=e80fd33adf785a2cde0303325c83d8c7279a21581a7d578174f0d9e9eac0c6b9084727425c0b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cf465f2564629130acda78e69fc648f9) 
 - [2026-05-06-JSON.rawJSON方法的作用是什么？](https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d7bee8b30ce5112016570da4313ac1c) 
 - [2026-05-04-Node.js-装了十年的-Sharp，Bun-说：不用装了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523438&idx=1&sn=d795aa1c2dfb80cb0eaa88a2d43f1059&chksm=e80fd320df785a367c4d543e08261ce79c1c0d022c58dda6c90a9f84ce1d9e9d84acdb751a15#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2740934e402f0e9b9850ea606b4c6e8) 
 - [2026-04-28-What’s-actually-new-in-JavaScript-and-what’s-coming-next](https://javascriptweekly.com/issues/783)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4dc710698b7a75b51c1657189076c98) 

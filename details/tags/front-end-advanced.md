@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-11 13:49:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 16:55:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -8,6 +8,8 @@
 
 
 - [2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8720eabc63cbc79d1333be9882c0eacb) 
+- [2026-05-08-Rolldown-1.0-正式发布！比-Rollup-快-30-倍，周下载量已破-2000-万](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523454&idx=1&sn=cdc896d65304d1d40a0cb56a7945cfa3&chksm=e80fd330df785a266964cd24210a5b65cebc5a733feb2a575df02a4cbddb94befd18e62c0f81#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7c4c060b000cd8c7320b059659a239e7) 
+- [2026-05-07-Node.js-26-发布：用了-10-年的版本号规则，从下一版起作废](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523444&idx=1&sn=813daf0e2da8b011acf951fc7706a175&chksm=e80fd33adf785a2cde0303325c83d8c7279a21581a7d578174f0d9e9eac0c6b9084727425c0b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cf465f2564629130acda78e69fc648f9) 
 - [2026-05-07-Node-26.0-ships-Temporal;-Node-26.1-brings-FFI](https://nodeweekly.com/issues/623)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1b2e3354d00f0c545128f2358fd7d512) 
 - [2026-05-06-一文吃透AST与LSP：为什么AI代码工具都离不开它？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529717&idx=1&sn=e4fe9464b4d34642fde66bf1a25db622&chksm=f9927224cee5fb3266d68bf941a2dd31e9c20a4dd4a4b606c2a993fc298573cac783ad0b2a57#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=92e21c29f62be64c89940c8ba2e79948) 
 - [2026-04-30-Cursor-凌晨开放-TypeScript-SDK，一个-npm-包就能把-Composer-Agent-嵌进你的项目](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523421&idx=1&sn=75954877117bfdff3599359809c9629e&chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=321a6031183879b765ffe750a1ef7390) 
