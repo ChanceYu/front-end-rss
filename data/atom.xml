@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-12T13:48:24.632Z</updated>
+    <updated>2026-05-12T19:25:41.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3696期】Github：差异对比行的性能攀登之路]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279063&amp;idx=1&amp;sn=e13575e9dc5154706b28ad835abe6fc5&amp;chksm=bce37a93bd4182224d88720c359adff418f9c0507a2ae68abcda9f95c871e53da0d9ca464709&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279063&amp;idx=1&amp;sn=e13575e9dc5154706b28ad835abe6fc5&amp;chksm=bce37a93bd4182224d88720c359adff418f9c0507a2ae68abcda9f95c871e53da0d9ca464709&amp;scene=0#rd"/>
+        <updated>2026-05-12T00:00:00.000Z</updated>
+        <published>2026-05-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptographically valid malware hits npm]]></title>
+        <id>https://javascriptweekly.com/issues/785</id>
+        <link href="https://javascriptweekly.com/issues/785"/>
         <updated>2026-05-12T00:00:00.000Z</updated>
         <published>2026-05-12T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Node.js 子进程管理：我是如何被 spawn 逼疯的]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd"/>
-        <updated>2026-04-21T00:00:00.000Z</updated>
-        <published>2026-04-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解 Node.js 中的子进程]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=2&amp;sn=12b827645f6c31b27ddba4a30cb34266&amp;chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=2&amp;sn=12b827645f6c31b27ddba4a30cb34266&amp;chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd"/>
         <updated>2026-04-21T00:00:00.000Z</updated>
         <published>2026-04-21T00:00:00.000Z</published>
     </entry>
