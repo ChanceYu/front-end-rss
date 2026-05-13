@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-13T05:39:47.178Z</updated>
+    <updated>2026-05-13T16:23:32.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AI-Generated UI 技术深度解析：模型流式输出与 UI 渲染实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543420&amp;idx=1&amp;sn=76ea38246b7ca484a7b6aab94076fdbd&amp;chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543420&amp;idx=1&amp;sn=76ea38246b7ca484a7b6aab94076fdbd&amp;chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd"/>
+        <updated>2026-05-13T00:00:00.000Z</updated>
+        <published>2026-05-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3697期】Claude Code 自动记忆功能详解：告别重复交代，让 AI 记住你的项目]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279074&amp;idx=1&amp;sn=b2e523cedefdde4cc76c44101be80210&amp;chksm=bcce0d639516b6fe0d30ca085508032711a9f1bb339943ffd55ef232e68a96fa900f5b93fa3c&amp;scene=0#rd</id>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[pretext与文字四面环绕效果的实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/"/>
+        <updated>2026-05-11T00:00:00.000Z</updated>
+        <published>2026-05-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缓存使用实践总结：以淘宝交易结算场景为例]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543415&amp;idx=1&amp;sn=7fbf20f7e85a9e76d205fddb5887272f&amp;chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543415&amp;idx=1&amp;sn=7fbf20f7e85a9e76d205fddb5887272f&amp;chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd"/>
         <updated>2026-05-11T00:00:00.000Z</updated>
         <published>2026-05-11T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517579&amp;idx=1&amp;sn=9473251e51102851c102f3b05b133efb&amp;chksm=eb07bdf2dc7034e412f255d1c946d83c34cdb890b4a408cca225d46d2fd491c4aa4671f453d5#rd"/>
         <updated>2026-04-22T00:00:00.000Z</updated>
         <published>2026-04-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3688期】七大AI策略，终结开发者入职困局]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278958&amp;idx=1&amp;sn=e83a98cabe42a49a6b5874d16c0c9264&amp;chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278958&amp;idx=1&amp;sn=e83a98cabe42a49a6b5874d16c0c9264&amp;chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&amp;scene=0#rd"/>
-        <updated>2026-04-22T00:00:00.000Z</updated>
-        <published>2026-04-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js 母公司 Vercel 被端了！前端人的 API Key 正被 200 万美元挂出去卖]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523301&amp;idx=1&amp;sn=3970c7cd297e95ccc6e0767b0815b199&amp;chksm=e80fd4abdf785dbd405a068df856931d46760a5abe4e90d262bb0f6430699e843a0710549a0c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523301&amp;idx=1&amp;sn=3970c7cd297e95ccc6e0767b0815b199&amp;chksm=e80fd4abdf785dbd405a068df856931d46760a5abe4e90d262bb0f6430699e843a0710549a0c#rd"/>
-        <updated>2026-04-21T00:00:00.000Z</updated>
-        <published>2026-04-21T00:00:00.000Z</published>
     </entry>
 </feed>
