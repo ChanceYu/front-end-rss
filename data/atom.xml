@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-12T19:25:41.857Z</updated>
+    <updated>2026-05-13T05:39:47.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3697期】Claude Code 自动记忆功能详解：告别重复交代，让 AI 记住你的项目]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279074&amp;idx=1&amp;sn=b2e523cedefdde4cc76c44101be80210&amp;chksm=bcce0d639516b6fe0d30ca085508032711a9f1bb339943ffd55ef232e68a96fa900f5b93fa3c&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279074&amp;idx=1&amp;sn=b2e523cedefdde4cc76c44101be80210&amp;chksm=bcce0d639516b6fe0d30ca085508032711a9f1bb339943ffd55ef232e68a96fa900f5b93fa3c&amp;scene=0#rd"/>
+        <updated>2026-05-13T00:00:00.000Z</updated>
+        <published>2026-05-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3696期】Github：差异对比行的性能攀登之路]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279063&amp;idx=1&amp;sn=e13575e9dc5154706b28ad835abe6fc5&amp;chksm=bce37a93bd4182224d88720c359adff418f9c0507a2ae68abcda9f95c871e53da0d9ca464709&amp;scene=0#rd</id>
@@ -92,16 +99,16 @@
         <published>2026-05-08T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】Claude Code 实战：Harness工程之道]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3693期】从提示词到工程框架：AI工程的成长之路]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=1&amp;sn=3d28af3c06d14ce8f7276ef1765e80c6&amp;chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=1&amp;sn=3d28af3c06d14ce8f7276ef1765e80c6&amp;chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&amp;scene=0#rd"/>
         <updated>2026-05-08T00:00:00.000Z</updated>
         <published>2026-05-08T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3693期】从提示词到工程框架：AI工程的成长之路]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=1&amp;sn=3d28af3c06d14ce8f7276ef1765e80c6&amp;chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=1&amp;sn=3d28af3c06d14ce8f7276ef1765e80c6&amp;chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】Claude Code 实战：Harness工程之道]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd"/>
         <updated>2026-05-08T00:00:00.000Z</updated>
         <published>2026-05-08T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Next.js 母公司 Vercel 被端了！前端人的 API Key 正被 200 万美元挂出去卖]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523301&amp;idx=1&amp;sn=3970c7cd297e95ccc6e0767b0815b199&amp;chksm=e80fd4abdf785dbd405a068df856931d46760a5abe4e90d262bb0f6430699e843a0710549a0c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523301&amp;idx=1&amp;sn=3970c7cd297e95ccc6e0767b0815b199&amp;chksm=e80fd4abdf785dbd405a068df856931d46760a5abe4e90d262bb0f6430699e843a0710549a0c#rd"/>
-        <updated>2026-04-21T00:00:00.000Z</updated>
-        <published>2026-04-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 子进程管理：我是如何被 spawn 逼疯的]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529682&amp;idx=1&amp;sn=15b6113a8839043fc830ca03a64aa5f9&amp;chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd"/>
         <updated>2026-04-21T00:00:00.000Z</updated>
         <published>2026-04-21T00:00:00.000Z</published>
     </entry>
