@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-13T16:23:32.450Z</updated>
+    <updated>2026-05-13T19:28:06.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[AI-Generated UI 技术深度解析：模型流式输出与 UI 渲染实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543420&amp;idx=1&amp;sn=76ea38246b7ca484a7b6aab94076fdbd&amp;chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543420&amp;idx=1&amp;sn=76ea38246b7ca484a7b6aab94076fdbd&amp;chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd"/>
+        <updated>2026-05-13T00:00:00.000Z</updated>
+        <published>2026-05-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG 向量检索，90% 的人都搞错了这 3 个概念]]></title>
+        <id>http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA</id>
+        <link href="http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA"/>
         <updated>2026-05-13T00:00:00.000Z</updated>
         <published>2026-05-13T00:00:00.000Z</published>
     </entry>
@@ -60,6 +67,13 @@
         <title type="html"><![CDATA[缓存使用实践总结：以淘宝交易结算场景为例]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543415&amp;idx=1&amp;sn=7fbf20f7e85a9e76d205fddb5887272f&amp;chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543415&amp;idx=1&amp;sn=7fbf20f7e85a9e76d205fddb5887272f&amp;chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd"/>
+        <updated>2026-05-11T00:00:00.000Z</updated>
+        <published>2026-05-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么你让 AI 写的 Skill 总是不好用？这个官方工具给出了答案]]></title>
+        <id>http://mp.weixin.qq.com/s/wDnRngMmzBgSb1y0Zl-VdA</id>
+        <link href="http://mp.weixin.qq.com/s/wDnRngMmzBgSb1y0Zl-VdA"/>
         <updated>2026-05-11T00:00:00.000Z</updated>
         <published>2026-05-11T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[为什么说Harness是AI时代的操作系统]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523314&amp;idx=1&amp;sn=fea1c8f580e7c51ea330bf472edd83a2&amp;chksm=e80fd4bcdf785daa96441e42c61b3e2b035e1f87f849e6ff65e7c056a2a6f5609c4998642d97#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523314&amp;idx=1&amp;sn=fea1c8f580e7c51ea330bf472edd83a2&amp;chksm=e80fd4bcdf785daa96441e42c61b3e2b035e1f87f849e6ff65e7c056a2a6f5609c4998642d97#rd"/>
-        <updated>2026-04-22T00:00:00.000Z</updated>
-        <published>2026-04-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MNN-Sana-Edit-V2：端侧运行的图像漫画风编辑大模型]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543249&amp;idx=1&amp;sn=77581e427502183f7b367489c86269c2&amp;chksm=8390dc89b4e7559f89c58afea8f6a7d3fb9363169fc1898ed72d78227a6512fcda49eb742914#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543249&amp;idx=1&amp;sn=77581e427502183f7b367489c86269c2&amp;chksm=8390dc89b4e7559f89c58afea8f6a7d3fb9363169fc1898ed72d78227a6512fcda49eb742914#rd"/>
-        <updated>2026-04-22T00:00:00.000Z</updated>
-        <published>2026-04-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弃坑 PDF.js！800 倍速 PDF 渲染方案，Vue、React 亲测可用！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517579&amp;idx=1&amp;sn=9473251e51102851c102f3b05b133efb&amp;chksm=eb07bdf2dc7034e412f255d1c946d83c34cdb890b4a408cca225d46d2fd491c4aa4671f453d5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517579&amp;idx=1&amp;sn=9473251e51102851c102f3b05b133efb&amp;chksm=eb07bdf2dc7034e412f255d1c946d83c34cdb890b4a408cca225d46d2fd491c4aa4671f453d5#rd"/>
         <updated>2026-04-22T00:00:00.000Z</updated>
         <published>2026-04-22T00:00:00.000Z</published>
     </entry>
