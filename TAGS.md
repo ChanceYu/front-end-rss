@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-14 03:28:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-14 13:40:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【前端早读课】【第3698期】AI可观测性：大语言模型与智能体的全链路透视](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279085&idx=1&sn=5d37952256d053f8cfd2ca80abfc9fb7&chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5fd3591ba4c1ef596b3614a11b7f77fe)
 - [【淘系前端团队】AI-Generated-UI-技术深度解析：模型流式输出与-UI-渲染实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543420&idx=1&sn=76ea38246b7ca484a7b6aab94076fdbd&chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=86db63662d716a83547dd486ee26526f)
 - [【程序员成长指北】RAG-向量检索，90%-的人都搞错了这-3-个概念](http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=afc7c111d807bdc1ceec8f5abcda9686)
 - [【前端早读课】【第3697期】Claude-Code-自动记忆功能详解：告别重复交代，让-AI-记住你的项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279074&idx=1&sn=b2e523cedefdde4cc76c44101be80210&chksm=bcce0d639516b6fe0d30ca085508032711a9f1bb339943ffd55ef232e68a96fa900f5b93fa3c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2640a6cd253580d7001e88b839741f69)
@@ -49,7 +50,6 @@
 - [【淘系前端团队】天猫新品团队AI编码实战指南（下）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543388&idx=1&sn=7c5a8274283f465c9c7d01da938afda1&chksm=8390dd04b4e75412e1247d2c4f23d1adbeb05c7d5c3f39664cb62072ccaf19dc0db018dea3d1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d566dbd4131296ff3ba1b242155e79cb)
 - [【前端从进阶到入院】VS-Code-1.119-版本新功能速览！Agent-交互体验大幅升级](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517598&idx=1&sn=413110079acd82bd09e58c92d7147284&chksm=eb07bde7dc7034f1899cd64d108f4f4e64cf9ab9a149fa2023cebd75b7c9e5585bc3bb510b1f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=eeb5340eecf3ad53eaafdb7bb21fb1b4)
 - [【程序员成长指北】Cursor-官方偷偷用了-2-年的内部工作流，现在全部开源了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529765&idx=1&sn=387ffd1321d825fd5caaf7ce1e6db1c7&chksm=f99273f4cee5fae24cd073c2c0adad52f06dbffd3c5cddb25a739481d90ef2c44b620bd6fe74#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=097a9d970098b92a7507d08a44011be1)
-- [【前端早读课】【第3693期】从提示词到工程框架：AI工程的成长之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279034&idx=1&sn=3d28af3c06d14ce8f7276ef1765e80c6&chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1c352c5b782e8871d9a4ed3941e3de57)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【前端早读课】【第3698期】AI可观测性：大语言模型与智能体的全链路透视](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279085&idx=1&sn=5d37952256d053f8cfd2ca80abfc9fb7&chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5fd3591ba4c1ef596b3614a11b7f77fe)
 - [【淘系前端团队】AI-Generated-UI-技术深度解析：模型流式输出与-UI-渲染实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543420&idx=1&sn=76ea38246b7ca484a7b6aab94076fdbd&chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=86db63662d716a83547dd486ee26526f)
 - [【程序员成长指北】RAG-向量检索，90%-的人都搞错了这-3-个概念](http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=afc7c111d807bdc1ceec8f5abcda9686)
 - [【前端早读课】【第3697期】Claude-Code-自动记忆功能详解：告别重复交代，让-AI-记住你的项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279074&idx=1&sn=b2e523cedefdde4cc76c44101be80210&chksm=bcce0d639516b6fe0d30ca085508032711a9f1bb339943ffd55ef232e68a96fa900f5b93fa3c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2640a6cd253580d7001e88b839741f69)
@@ -593,7 +594,6 @@
 - [【张鑫旭-鑫空间-鑫生活】pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8720eabc63cbc79d1333be9882c0eacb)
 - [【淘系前端团队】缓存使用实践总结：以淘宝交易结算场景为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543415&idx=1&sn=7fbf20f7e85a9e76d205fddb5887272f&chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a6db90db9e6db45b0b417ad0f6672297)
 - [【程序员成长指北】为什么你让-AI-写的-Skill-总是不好用？这个官方工具给出了答案](http://mp.weixin.qq.com/s/wDnRngMmzBgSb1y0Zl-VdA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1cda1eb12674441f1f1613ce7947608f)
-- [【前端早读课】【第3695期】下一代图片格式-AVIF-在-vivo-社区的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279053&idx=1&sn=5e473cf9e9955cf6fbc4173846092f00&chksm=bc5d204e85759016a9ce149a2a96d0357ce6ca5b388d7467f5412efdc6741cf56f38edef05e4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=55da839d9504d2f25dd662529ccca288)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
