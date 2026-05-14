@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-14 13:40:30。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-14 16:25:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -153,7 +153,7 @@
 - [【Nodejs技术栈】Hono-成了-Node.js-新项目的新宠，Adapter-v2-再提速-2.3-倍，值得认真看了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523406&idx=1&sn=045ebb0e203e11c68df8139d85100942&chksm=e80fd300df785a1658a20a7e595704a0e743f86dc4d8038e4d9139e7fb1c346652d874a42333#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=899a5f7a59fa4b661c851eeae8e6a9ef)
 - [【前端从进阶到入院】弃坑-PDF.js！800-倍速-PDF-渲染方案，Vue、React-亲测可用！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517579&idx=1&sn=9473251e51102851c102f3b05b133efb&chksm=eb07bdf2dc7034e412f255d1c946d83c34cdb890b4a408cca225d46d2fd491c4aa4671f453d5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d34e9256225a90c38cf1332c2dcd7cdd)
 - [【Nodejs技术栈】Next.js-母公司-Vercel-被端了！前端人的-API-Key-正被-200-万美元挂出去卖](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523301&idx=1&sn=3970c7cd297e95ccc6e0767b0815b199&chksm=e80fd4abdf785dbd405a068df856931d46760a5abe4e90d262bb0f6430699e843a0710549a0c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7d9d1df480dae33f186cd456c147c3d4)
-- [【程序员成长指北】详解-Node.js-中的子进程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=2&sn=12b827645f6c31b27ddba4a30cb34266&chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d475b97651b0a9b37aa2fe38ea4f7fa2)
+- [【程序员成长指北】Node.js-子进程管理：我是如何被-spawn-逼疯的](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=1&sn=15b6113a8839043fc830ca03a64aa5f9&chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b007aab885bd21d01e4c950cfc6b5f9b)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -179,7 +179,7 @@
 - [【Node-Weekly】pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=67fb43d0ed2de82048441dc6fbd694bf)
 - [【Nodejs技术栈】Hono-成了-Node.js-新项目的新宠，Adapter-v2-再提速-2.3-倍，值得认真看了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523406&idx=1&sn=045ebb0e203e11c68df8139d85100942&chksm=e80fd300df785a1658a20a7e595704a0e743f86dc4d8038e4d9139e7fb1c346652d874a42333#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=899a5f7a59fa4b661c851eeae8e6a9ef)
 - [【Nodejs技术栈】Bun-下一版要支持安卓了！但作者警告：千万别拿它写-App](http://mp.weixin.qq.com/s/KbiF-UdSvNcW4ZwJXo4OWw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9023f5a2bcfd6d3b4a31a2d835665e12)
-- [【程序员成长指北】详解-Node.js-中的子进程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=2&sn=12b827645f6c31b27ddba4a30cb34266&chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d475b97651b0a9b37aa2fe38ea4f7fa2)
+- [【程序员成长指北】Node.js-子进程管理：我是如何被-spawn-逼疯的](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=1&sn=15b6113a8839043fc830ca03a64aa5f9&chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b007aab885bd21d01e4c950cfc6b5f9b)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【程序员成长指北】用了几周明基-RD280UG，我终于明白程序员为什么需要一台“专用显示器”](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529815&idx=1&sn=a2d66cffd74e5158eec2a4f111305f22&chksm=f9927386cee5fa90085e6aedd5c099865e14538ca422c7e08286db85a0bba948f88c7ee3c7c3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b7359290ccdaced3ae0aac9e2f0770f4)
 - [【前端早读课】【第3698期】AI可观测性：大语言模型与智能体的全链路透视](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279085&idx=1&sn=5d37952256d053f8cfd2ca80abfc9fb7&chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5fd3591ba4c1ef596b3614a11b7f77fe)
 - [【淘系前端团队】AI-Generated-UI-技术深度解析：模型流式输出与-UI-渲染实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543420&idx=1&sn=76ea38246b7ca484a7b6aab94076fdbd&chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=86db63662d716a83547dd486ee26526f)
 - [【程序员成长指北】RAG-向量检索，90%-的人都搞错了这-3-个概念](http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=afc7c111d807bdc1ceec8f5abcda9686)
@@ -593,7 +594,6 @@
 - [【Nodejs技术栈】Bun-要把底层从-Zig-换成-Rust？把-Node.js-也搞得蠢蠢欲动了！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523481&idx=1&sn=9e1a68f3335f04c637685271973f0d99&chksm=e80fd3d7df785ac1102c21914da7d0c5aa16e2cd42d8e11ce7b5e4639577e0b4127bef93222e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c4673c0ac691dfac988614bd798f8d5e)
 - [【张鑫旭-鑫空间-鑫生活】pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8720eabc63cbc79d1333be9882c0eacb)
 - [【淘系前端团队】缓存使用实践总结：以淘宝交易结算场景为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543415&idx=1&sn=7fbf20f7e85a9e76d205fddb5887272f&chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a6db90db9e6db45b0b417ad0f6672297)
-- [【程序员成长指北】为什么你让-AI-写的-Skill-总是不好用？这个官方工具给出了答案](http://mp.weixin.qq.com/s/wDnRngMmzBgSb1y0Zl-VdA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1cda1eb12674441f1f1613ce7947608f)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

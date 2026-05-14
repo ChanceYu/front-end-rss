@@ -14,17 +14,17 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-14 13:40:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-14 16:25:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -87,7 +87,7 @@
 </summary>
 
 
-- [2026-05-14-【第3698期】AI可观测性：大语言模型与智能体的全链路透视](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279085&idx=1&sn=5d37952256d053f8cfd2ca80abfc9fb7&chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5fd3591ba4c1ef596b3614a11b7f77fe)  ![](/assets/new.png) 
+- [2026-05-14-【第3698期】AI可观测性：大语言模型与智能体的全链路透视](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279085&idx=1&sn=5d37952256d053f8cfd2ca80abfc9fb7&chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5fd3591ba4c1ef596b3614a11b7f77fe)  
 - [2026-05-13-【第3697期】Claude-Code-自动记忆功能详解：告别重复交代，让-AI-记住你的项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279074&idx=1&sn=b2e523cedefdde4cc76c44101be80210&chksm=bcce0d639516b6fe0d30ca085508032711a9f1bb339943ffd55ef232e68a96fa900f5b93fa3c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2640a6cd253580d7001e88b839741f69)  
 - [2026-05-12-【第3696期】Github：差异对比行的性能攀登之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279063&idx=1&sn=e13575e9dc5154706b28ad835abe6fc5&chksm=bce37a93bd4182224d88720c359adff418f9c0507a2ae68abcda9f95c871e53da0d9ca464709&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4680011c9c720656b34fef3cf6944fef)  
 - [2026-05-11-【第3695期】下一代图片格式-AVIF-在-vivo-社区的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279053&idx=1&sn=5e473cf9e9955cf6fbc4173846092f00&chksm=bc5d204e85759016a9ce149a2a96d0357ce6ca5b388d7467f5412efdc6741cf56f38edef05e4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=55da839d9504d2f25dd662529ccca288)  
@@ -171,16 +171,16 @@
 </summary>
 
 
+- [2026-05-14-用了几周明基-RD280UG，我终于明白程序员为什么需要一台“专用显示器”](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529815&idx=1&sn=a2d66cffd74e5158eec2a4f111305f22&chksm=f9927386cee5fa90085e6aedd5c099865e14538ca422c7e08286db85a0bba948f88c7ee3c7c3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b7359290ccdaced3ae0aac9e2f0770f4)  ![](/assets/new.png) 
 - [2026-05-13-RAG-向量检索，90%-的人都搞错了这-3-个概念](http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=afc7c111d807bdc1ceec8f5abcda9686)  
 - [2026-05-11-为什么你让-AI-写的-Skill-总是不好用？这个官方工具给出了答案](http://mp.weixin.qq.com/s/wDnRngMmzBgSb1y0Zl-VdA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1cda1eb12674441f1f1613ce7947608f)  
 - [2026-05-08-Cursor-官方偷偷用了-2-年的内部工作流，现在全部开源了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529765&idx=1&sn=387ffd1321d825fd5caaf7ce1e6db1c7&chksm=f99273f4cee5fae24cd073c2c0adad52f06dbffd3c5cddb25a739481d90ef2c44b620bd6fe74#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=097a9d970098b92a7507d08a44011be1)  
 - [2026-05-06-一文吃透AST与LSP：为什么AI代码工具都离不开它？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529717&idx=1&sn=e4fe9464b4d34642fde66bf1a25db622&chksm=f9927224cee5fb3266d68bf941a2dd31e9c20a4dd4a4b606c2a993fc298573cac783ad0b2a57#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=92e21c29f62be64c89940c8ba2e79948)  
-- [2026-04-21-Node.js-子进程管理：我是如何被-spawn-逼疯的](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=1&sn=15b6113a8839043fc830ca03a64aa5f9&chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b007aab885bd21d01e4c950cfc6b5f9b)  
 - [2026-04-21-详解-Node.js-中的子进程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=2&sn=12b827645f6c31b27ddba4a30cb34266&chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d475b97651b0a9b37aa2fe38ea4f7fa2)  
+- [2026-04-21-Node.js-子进程管理：我是如何被-spawn-逼疯的](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=1&sn=15b6113a8839043fc830ca03a64aa5f9&chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b007aab885bd21d01e4c950cfc6b5f9b)  
 - [2026-04-14-【真诚建议】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档](http://mp.weixin.qq.com/s/IWg4ANuFWfb04htxBZlfoA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2cd4e76047dadaa78df319b4f0896c67)  
 - [2026-04-07-Harness-工程：不是新词，而是-Agent-工程终于被讲明白了](http://mp.weixin.qq.com/s/B8KmFuSPZs-iBI9b-GoNLQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=697936a9e56eaffb23f327c4550b5852)  
 - [2026-04-02-Skills-乱麻了！这款开源神器彻底终结噩梦，Cursor/Claude-一键全同步](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529642&idx=1&sn=16005d3929226468a8ee1b8c0ed4c8b6&chksm=f992727bcee5fb6d914cc77966c95fe1545ed7ad4d303da32eade65e5d892b826e4acc3e8b26#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=19f3ce33241b6645338b72c2f8cd13f1)  
-- [2026-04-01-LangGraph：基于图的-AI-Agent-编排框架深度解析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529639&idx=1&sn=325db2a072d5d2f17c7d84734ca0683a&chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=27b84778555eecfdf7f5fbfca2c4730e)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
