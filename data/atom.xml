@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-14T08:24:49.159Z</updated>
+    <updated>2026-05-14T16:03:04.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3698期】AI可观测性：大语言模型与智能体的全链路透视]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279085&amp;idx=1&amp;sn=5d37952256d053f8cfd2ca80abfc9fb7&amp;chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279085&amp;idx=1&amp;sn=5d37952256d053f8cfd2ca80abfc9fb7&amp;chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&amp;scene=0#rd"/>
+        <updated>2026-05-14T00:00:00.000Z</updated>
+        <published>2026-05-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's go deep into Node's internals]]></title>
+        <id>https://nodeweekly.com/issues/624</id>
+        <link href="https://nodeweekly.com/issues/624"/>
         <updated>2026-05-14T00:00:00.000Z</updated>
         <published>2026-05-14T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[TypeScript 7.0 Beta 来了：基于 Go 重写，快了整整 10 倍！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517581&amp;idx=1&amp;sn=6096958a5670fbc08ba32b1d160fbb9e&amp;chksm=eb07bdf4dc7034e26fde59e081403f0d16a468b7dbd22692ee3133a27c5418599fc41f65fc6f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517581&amp;idx=1&amp;sn=6096958a5670fbc08ba32b1d160fbb9e&amp;chksm=eb07bdf4dc7034e26fde59e081403f0d16a468b7dbd22692ee3133a27c5418599fc41f65fc6f#rd"/>
-        <updated>2026-04-23T00:00:00.000Z</updated>
-        <published>2026-04-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playwright's exciting new page.screencast API]]></title>
-        <id>https://nodeweekly.com/issues/621</id>
-        <link href="https://nodeweekly.com/issues/621"/>
         <updated>2026-04-23T00:00:00.000Z</updated>
         <published>2026-04-23T00:00:00.000Z</published>
     </entry>
