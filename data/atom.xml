@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-15T08:36:13.005Z</updated>
+    <updated>2026-05-15T11:46:40.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279093&amp;idx=1&amp;sn=f024641d6b041365cded1666a809a875&amp;chksm=bc1579337494e675c59ea31ae7cc889467ad907c3b891c58adf6eb649b3444a0b907fe6992a7&amp;scene=0#rd"/>
         <updated>2026-05-15T00:00:00.000Z</updated>
         <published>2026-05-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun v1.3.14 发布，Rust 版即将进 Claude Code 内测，下一版可能就告别 Zig]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523499&amp;idx=1&amp;sn=afd62935f7346523f097eede12cf0e19&amp;chksm=e80fd3e5df785af36ac310d7b005c7b0c19272d58f522254ebde71fda7314b6c2f4c05fb219b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523499&amp;idx=1&amp;sn=afd62935f7346523f097eede12cf0e19&amp;chksm=e80fd3e5df785af36ac310d7b005c7b0c19272d58f522254ebde71fda7314b6c2f4c05fb219b#rd"/>
+        <updated>2026-05-14T00:00:00.000Z</updated>
+        <published>2026-05-14T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3698期】AI可观测性：大语言模型与智能体的全链路透视]]></title>
@@ -55,6 +62,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279074&amp;idx=1&amp;sn=b2e523cedefdde4cc76c44101be80210&amp;chksm=bcce0d639516b6fe0d30ca085508032711a9f1bb339943ffd55ef232e68a96fa900f5b93fa3c&amp;scene=0#rd"/>
         <updated>2026-05-13T00:00:00.000Z</updated>
         <published>2026-05-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun 刚试着投奔 Rust，Vercel 转头用 Zig 造了个 ZeroNative]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523488&amp;idx=1&amp;sn=582bc83c0c84a0bf7404a5762d64a32f&amp;chksm=e80fd3eedf785af87d5b856a9add2e55fdb53e595a7512db060d81ddabc74efbd1bfca748e97#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523488&amp;idx=1&amp;sn=582bc83c0c84a0bf7404a5762d64a32f&amp;chksm=e80fd3eedf785af87d5b856a9add2e55fdb53e595a7512db060d81ddabc74efbd1bfca748e97#rd"/>
+        <updated>2026-05-12T00:00:00.000Z</updated>
+        <published>2026-05-12T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3696期】Github：差异对比行的性能攀登之路]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278972&amp;idx=1&amp;sn=d9c567e7e40dec0edb822f358173f88d&amp;chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&amp;scene=0#rd"/>
         <updated>2026-04-24T00:00:00.000Z</updated>
         <published>2026-04-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克 600 亿买 Cursor，真正想要的根本不是这个编辑器]]></title>
-        <id>http://mp.weixin.qq.com/s/Usiiw3oQ6NjeLKpBYc3luw</id>
-        <link href="http://mp.weixin.qq.com/s/Usiiw3oQ6NjeLKpBYc3luw"/>
-        <updated>2026-04-23T00:00:00.000Z</updated>
-        <published>2026-04-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 时代的程序与程序员]]></title>
-        <id>https://fenghen.me/posts/2026/04/23/ai-era-programmers/</id>
-        <link href="https://fenghen.me/posts/2026/04/23/ai-era-programmers/"/>
-        <updated>2026-04-23T00:00:00.000Z</updated>
-        <published>2026-04-23T00:00:00.000Z</published>
     </entry>
 </feed>
