@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-15T05:45:40.332Z</updated>
+    <updated>2026-05-15T08:36:13.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3699期】Karpathy的4条规则让Claude出错率骤降，但还不够。Mnimiy又加了8条]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279093&amp;idx=1&amp;sn=f024641d6b041365cded1666a809a875&amp;chksm=bc1579337494e675c59ea31ae7cc889467ad907c3b891c58adf6eb649b3444a0b907fe6992a7&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279093&amp;idx=1&amp;sn=f024641d6b041365cded1666a809a875&amp;chksm=bc1579337494e675c59ea31ae7cc889467ad907c3b891c58adf6eb649b3444a0b907fe6992a7&amp;scene=0#rd"/>
+        <updated>2026-05-15T00:00:00.000Z</updated>
+        <published>2026-05-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3698期】AI可观测性：大语言模型与智能体的全链路透视]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279085&amp;idx=1&amp;sn=5d37952256d053f8cfd2ca80abfc9fb7&amp;chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&amp;scene=0#rd</id>
@@ -141,16 +148,16 @@
         <published>2026-05-08T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】Claude Code 实战：Harness工程之道]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3693期】从提示词到工程框架：AI工程的成长之路]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=1&amp;sn=3d28af3c06d14ce8f7276ef1765e80c6&amp;chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=1&amp;sn=3d28af3c06d14ce8f7276ef1765e80c6&amp;chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&amp;scene=0#rd"/>
         <updated>2026-05-08T00:00:00.000Z</updated>
         <published>2026-05-08T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3693期】从提示词到工程框架：AI工程的成长之路]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=1&amp;sn=3d28af3c06d14ce8f7276ef1765e80c6&amp;chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=1&amp;sn=3d28af3c06d14ce8f7276ef1765e80c6&amp;chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】Claude Code 实战：Harness工程之道]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd"/>
         <updated>2026-05-08T00:00:00.000Z</updated>
         <published>2026-05-08T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[AI 时代的程序与程序员]]></title>
         <id>https://fenghen.me/posts/2026/04/23/ai-era-programmers/</id>
         <link href="https://fenghen.me/posts/2026/04/23/ai-era-programmers/"/>
-        <updated>2026-04-23T00:00:00.000Z</updated>
-        <published>2026-04-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 7.0 Beta 来了：基于 Go 重写，快了整整 10 倍！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517581&amp;idx=1&amp;sn=6096958a5670fbc08ba32b1d160fbb9e&amp;chksm=eb07bdf4dc7034e26fde59e081403f0d16a468b7dbd22692ee3133a27c5418599fc41f65fc6f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517581&amp;idx=1&amp;sn=6096958a5670fbc08ba32b1d160fbb9e&amp;chksm=eb07bdf4dc7034e26fde59e081403f0d16a468b7dbd22692ee3133a27c5418599fc41f65fc6f#rd"/>
         <updated>2026-04-23T00:00:00.000Z</updated>
         <published>2026-04-23T00:00:00.000Z</published>
     </entry>
