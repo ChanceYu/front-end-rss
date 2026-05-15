@@ -16,6 +16,12 @@
 
 :alarm_clock: 更新时间: 2026-05-15 13:46:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
+## 赞助商
+
+<a href="https://github.com/Doloffer-g/guide" target="_blank"><img width="120" src="https://doloffer.com/assets/logo-CxQRGpM5.png" alt="doloffer" /></a>
+
+doloffer 提供 ChatGPT、Claude 会员订阅与充值服务，支持正版订阅与售后保障；访问 [doloffer 官网](https://doloffer.com) 使用优惠码 `AI8888` 享 9 折优惠。
+
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
