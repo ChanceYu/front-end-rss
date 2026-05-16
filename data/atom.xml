@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-15T11:46:40.519Z</updated>
+    <updated>2026-05-16T05:17:36.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[面向智能导购的Agent评测实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543468&amp;idx=1&amp;sn=f87e00d562d95669959e6690436c3df0&amp;chksm=8390dd74b4e75462d23809c38a201c20011a01ea7c6a53fb3d83173a7dc70f2c24ba55f4155c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543468&amp;idx=1&amp;sn=f87e00d562d95669959e6690436c3df0&amp;chksm=8390dd74b4e75462d23809c38a201c20011a01ea7c6a53fb3d83173a7dc70f2c24ba55f4155c#rd"/>
+        <updated>2026-05-15T00:00:00.000Z</updated>
+        <published>2026-05-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3699期】Karpathy的4条规则让Claude出错率骤降，但还不够。Mnimiy又加了8条]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279093&amp;idx=1&amp;sn=f024641d6b041365cded1666a809a875&amp;chksm=bc1579337494e675c59ea31ae7cc889467ad907c3b891c58adf6eb649b3444a0b907fe6992a7&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[AI时代的金矿：揭秘人工智能如何帮你赚取第一桶金]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517587&amp;idx=1&amp;sn=0d50ffe7d9491e683c9b5680ae574637&amp;chksm=eb07bdeadc7034fc25efae5e7be41c9458fbe40a4c9fafde7049c56b198c03e6256ccba7948a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517587&amp;idx=1&amp;sn=0d50ffe7d9491e683c9b5680ae574637&amp;chksm=eb07bdeadc7034fc25efae5e7be41c9458fbe40a4c9fafde7049c56b198c03e6256ccba7948a#rd"/>
-        <updated>2026-04-24T00:00:00.000Z</updated>
-        <published>2026-04-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】理解力负债——AI生成代码的隐性成本]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278972&amp;idx=1&amp;sn=d9c567e7e40dec0edb822f358173f88d&amp;chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278972&amp;idx=1&amp;sn=d9c567e7e40dec0edb822f358173f88d&amp;chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&amp;scene=0#rd"/>
         <updated>2026-04-24T00:00:00.000Z</updated>
         <published>2026-04-24T00:00:00.000Z</published>
     </entry>
