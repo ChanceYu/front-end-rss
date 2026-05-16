@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-16 13:17:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-17 02:46:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-05-13-Markdown要凉…卡帕西也站HTML了](http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e25d2a30b26374b6c0e50068f6efe3fe) 
 - [2026-05-10-Markdown-凉了？Claude-Code-工程师亲口说：我已经全面切换到-HTML-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523473&idx=1&sn=4b69b573dc7f277e0ef299e4231f4c9e&chksm=e80fd3dfdf785ac98a1f6b3c4887086e4ee68f4c20679b4a3da75abad2c62d52d9797853d2a2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f4a8cb74bbddf77abb7d48e94da037e2) 
 - [2026-04-21-Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4316ae089e1bc335cde9c737bfaf24) 
 - [2026-04-08-【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278888&idx=1&sn=ac784db94bd203f501429cb0e7e81ecf&chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bbc893e3c14d51549f5e0951fa983649) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-16T05:17:36.976Z</updated>
+    <updated>2026-05-16T18:45:41.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -60,6 +60,13 @@
         <title type="html"><![CDATA[RAG 向量检索，90% 的人都搞错了这 3 个概念]]></title>
         <id>http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA</id>
         <link href="http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA"/>
+        <updated>2026-05-13T00:00:00.000Z</updated>
+        <published>2026-05-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown要凉…卡帕西也站HTML了]]></title>
+        <id>http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw</id>
+        <link href="http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw"/>
         <updated>2026-05-13T00:00:00.000Z</updated>
         <published>2026-05-13T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[800行代码实现 Open Claw 的 Tool、消息总线、子Agent管理架构]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543287&amp;idx=1&amp;sn=a871de8246ffbb5733259e5434958404&amp;chksm=8390dcafb4e755b97be3bff60530b2aa1e3b1a530513eb327e2cbb1b115baeb5f88b81918c23#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543287&amp;idx=1&amp;sn=a871de8246ffbb5733259e5434958404&amp;chksm=8390dcafb4e755b97be3bff60530b2aa1e3b1a530513eb327e2cbb1b115baeb5f88b81918c23#rd"/>
-        <updated>2026-04-24T00:00:00.000Z</updated>
-        <published>2026-04-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI时代的金矿：揭秘人工智能如何帮你赚取第一桶金]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517587&amp;idx=1&amp;sn=0d50ffe7d9491e683c9b5680ae574637&amp;chksm=eb07bdeadc7034fc25efae5e7be41c9458fbe40a4c9fafde7049c56b198c03e6256ccba7948a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517587&amp;idx=1&amp;sn=0d50ffe7d9491e683c9b5680ae574637&amp;chksm=eb07bdeadc7034fc25efae5e7be41c9458fbe40a4c9fafde7049c56b198c03e6256ccba7948a#rd"/>
         <updated>2026-04-24T00:00:00.000Z</updated>
         <published>2026-04-24T00:00:00.000Z</published>
     </entry>

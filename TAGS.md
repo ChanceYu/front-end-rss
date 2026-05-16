@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-16 13:17:58。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-17 02:46:08。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -222,6 +222,7 @@
 
 
 
+- [【前端大全】Markdown要凉…卡帕西也站HTML了](http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e25d2a30b26374b6c0e50068f6efe3fe)
 - [【Nodejs技术栈】Markdown-凉了？Claude-Code-工程师亲口说：我已经全面切换到-HTML-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523473&idx=1&sn=4b69b573dc7f277e0ef299e4231f4c9e&chksm=e80fd3dfdf785ac98a1f6b3c4887086e4ee68f4c20679b4a3da75abad2c62d52d9797853d2a2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f4a8cb74bbddf77abb7d48e94da037e2)
 - [【JavaScript-Weekly】Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4316ae089e1bc335cde9c737bfaf24)
 - [【前端早读课】【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278888&idx=1&sn=ac784db94bd203f501429cb0e7e81ecf&chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bbc893e3c14d51549f5e0951fa983649)
@@ -231,7 +232,6 @@
 - [【淘系前端团队】AI-无障碍-CR-与自动适配实践：从问题洞察到效果验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542406&idx=1&sn=c89b4adb5deec25be5dc4ea1a457135a&chksm=8390d95eb4e750482af226d6188dc30f517e75f23da16eb97be227d774d61a4ff201d402b8aa#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ed2045e03c011ac332f9f6ffcd5654e)
 - [【前端从进阶到入院】Chrome-新-API：仅-6-行-HTML！页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517507&idx=1&sn=a6f4ad2cc56005263c666f6dbce84219&chksm=eb07bd3adc70342cbf1c3b729fdbf1d623262f31a883d3c6f9d62eb9648b879f68c696f97e26#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7a2a483828d3582bded0c9a99428b6e5)
 - [【程序员成长指北】浅谈-import.meta.env-和-process.env-的区别](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528897&idx=1&sn=e2376b422982b6d06d72409e12feffde&chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=967c27ada9a16ca702dbce7d202010a4)
-- [【前端早读课】【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2ff39535b8c26628c9bff92be6871d4c)
 - [查看更多 >](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -593,7 +593,7 @@
 - [【Node-Weekly】Let's-go-deep-into-Node's-internals](https://nodeweekly.com/issues/624)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b37f86ea344936e79d91578ecc6d366e)
 - [【淘系前端团队】AI-Generated-UI-技术深度解析：模型流式输出与-UI-渲染实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543420&idx=1&sn=76ea38246b7ca484a7b6aab94076fdbd&chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=86db63662d716a83547dd486ee26526f)
 - [【程序员成长指北】RAG-向量检索，90%-的人都搞错了这-3-个概念](http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=afc7c111d807bdc1ceec8f5abcda9686)
-- [【前端早读课】【第3697期】Claude-Code-自动记忆功能详解：告别重复交代，让-AI-记住你的项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279074&idx=1&sn=b2e523cedefdde4cc76c44101be80210&chksm=bcce0d639516b6fe0d30ca085508032711a9f1bb339943ffd55ef232e68a96fa900f5b93fa3c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2640a6cd253580d7001e88b839741f69)
+- [【前端大全】Markdown要凉…卡帕西也站HTML了](http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e25d2a30b26374b6c0e50068f6efe3fe)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-16 13:17:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-17 02:46:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -27,7 +27,7 @@
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -36,7 +36,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -114,6 +114,7 @@
 </summary>
 
 
+- [2026-05-13-Markdown要凉…卡帕西也站HTML了](http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e25d2a30b26374b6c0e50068f6efe3fe)  ![](/assets/new.png) 
 - [2026-05-09-最近，前端的招聘市场已经疯掉了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624408&idx=1&sn=f83a90a45702d2e60456f15e6b68deba&chksm=80224419b755cd0f5b96bbacf4f7d61d3b9c1c2214449c0f9978310e7b529bc1df6caa7f755d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bab885b855deaa8ef95b731aa3d6eb3)  
 - [2026-05-06-豆包突然收费引吐槽！网友火力全开，“豆包把付费说的如此清新脱俗”上热搜了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624399&idx=1&sn=e09e8072b433d3998b205590f6fbe7eb&chksm=8022440eb755cd18d537b27f380ea87d9ca9b0522570d99997999d6f1fb745f279d2b786e019#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=98d59343ea3a42b7c4edfc16e5c094c9)  
 - [2026-04-24-取代前端岗，又一新兴岗位在崛起！这才是前端未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624391&idx=1&sn=627728a6d23367ed85eb66e0ad8f008c&chksm=80224406b755cd106addea2a34ae09d7a38722e6b1b590fefcd1c04ae170016fd5565b1790e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25706f48b693a3454b8c241481008f7d)  
@@ -123,7 +124,6 @@
 - [2026-04-08-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624359&idx=1&sn=fcf6cc8a8091787bdc6d9952398b4622&chksm=80224466b755cd7024e6b28caa4baad33fb08aeaf57458c600684b85b71382409101771fa78d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f78e5c572aee19745c74d9084d74947)  
 - [2026-04-07-前任、老板、同事…全部token化！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624343&idx=1&sn=1f6aa3aaeda39cbc02921f2043643a2e&chksm=80224456b755cd40ad627eb1bac65c569efe9853bd02e7846748b807f733b88b001e525521df#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1a002350ee2d91f8e23ed8d54c4533c)  
 - [2026-04-06-Cursor-3-发布：IDE-不重要了，智能体控制台上位，VS-Code-这一套开始失效](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624335&idx=1&sn=2e582e6aab952823b7e65eb8b0a6288e&chksm=8022444eb755cd58d67ce869725d6a4d8857bcfa6444500edad814c269335c25880e6226f9e9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=59f74ba9bd24488fb0e011e1f61005cc)  
-- [2026-04-01-紧急预警：Axios-供应链被投毒（附排查与紧急补救指南）](http://mp.weixin.qq.com/s/5clC4GUlYIkzDhd_ROVcpw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b7cd5137bbc85a4fc44d24079287f289)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-05-15-面向智能导购的Agent评测实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543468&idx=1&sn=f87e00d562d95669959e6690436c3df0&chksm=8390dd74b4e75462d23809c38a201c20011a01ea7c6a53fb3d83173a7dc70f2c24ba55f4155c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af6c3fb13ae47415738c1369d05a4b77)  ![](/assets/new.png) 
+- [2026-05-15-面向智能导购的Agent评测实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543468&idx=1&sn=f87e00d562d95669959e6690436c3df0&chksm=8390dd74b4e75462d23809c38a201c20011a01ea7c6a53fb3d83173a7dc70f2c24ba55f4155c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af6c3fb13ae47415738c1369d05a4b77)  
 - [2026-05-13-AI-Generated-UI-技术深度解析：模型流式输出与-UI-渲染实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543420&idx=1&sn=76ea38246b7ca484a7b6aab94076fdbd&chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=86db63662d716a83547dd486ee26526f)  
 - [2026-05-11-缓存使用实践总结：以淘宝交易结算场景为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543415&idx=1&sn=7fbf20f7e85a9e76d205fddb5887272f&chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a6db90db9e6db45b0b417ad0f6672297)  
 - [2026-05-08-天猫新品团队AI编码实战指南（下）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543388&idx=1&sn=7c5a8274283f465c9c7d01da938afda1&chksm=8390dd04b4e75412e1247d2c4f23d1adbeb05c7d5c3f39664cb62072ccaf19dc0db018dea3d1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d566dbd4131296ff3ba1b242155e79cb)  
