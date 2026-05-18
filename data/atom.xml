@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-18T05:15:43.091Z</updated>
+    <updated>2026-05-18T07:53:06.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[光标的形状也能设置了，就是CSS caret-shape属性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/"/>
+        <updated>2026-05-18T00:00:00.000Z</updated>
+        <published>2026-05-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3700期】善用 Codex goal模式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279104&amp;idx=1&amp;sn=0b6e868589db3255c3ce97129f8e533d&amp;chksm=bc34183706bf57bba7c2a4b06ea74a433bc6e9efe940806bc74901c2860820defc24d1b1a3a5&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[GPT-5.5 凌晨发布！Codex 同步大升级，浏览器、Office、电脑三件套一口气拿下]]></title>
         <id>http://mp.weixin.qq.com/s/A1z1QqGqlwp8Ne6Jv8D9wg</id>
         <link href="http://mp.weixin.qq.com/s/A1z1QqGqlwp8Ne6Jv8D9wg"/>
-        <updated>2026-04-24T00:00:00.000Z</updated>
-        <published>2026-04-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 394 期）：第二次 API 开放浪潮]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html"/>
         <updated>2026-04-24T00:00:00.000Z</updated>
         <published>2026-04-24T00:00:00.000Z</published>
     </entry>
