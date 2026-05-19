@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-05-13 03:25:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-20 01:56:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1917476702340e9caf1105227e054071) 
 - [2026-05-12-Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efe790c4af335598033df5bf66f2ebf4) 
 - [2026-05-05-Remix-3-drops-React](https://javascriptweekly.com/issues/784)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6877ea408c57aed49f2171fc425fcb3) 
 - [2026-04-28-What’s-actually-new-in-JavaScript-and-what’s-coming-next](https://javascriptweekly.com/issues/783)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4dc710698b7a75b51c1657189076c98) 

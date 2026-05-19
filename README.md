@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-19 18:52:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-20 01:56:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -25,8 +25,8 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1917476702340e9caf1105227e054071)  ![](/assets/new.png) 
 - [2026-05-12-Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efe790c4af335598033df5bf66f2ebf4)  
 - [2026-05-05-Remix-3-drops-React](https://javascriptweekly.com/issues/784)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6877ea408c57aed49f2171fc425fcb3)  
 - [2026-04-28-What’s-actually-new-in-JavaScript-and-what’s-coming-next](https://javascriptweekly.com/issues/783)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4dc710698b7a75b51c1657189076c98)  
@@ -81,7 +82,6 @@
 - [2026-03-31-A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a38f983bf5b0be6c9bef393b01c22eca)  
 - [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d0951a7d0cbc423bd09580c6dc93539d)  
 - [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=faf433affe522ee3f47ca53649f0423a)  
-- [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7b61aa9e6536635f9f97e85864c97d2c)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2026-05-19-【第3701期】告别-React，拥抱原生：借助-nanotags-完成迁移节省-100-KB](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279109&idx=1&sn=18b0cb0d03d5d426758cd64c42c005fc&chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da9e7edea645eed98c8a7d1a416a4d52)  ![](/assets/new.png) 
+- [2026-05-19-【第3701期】告别-React，拥抱原生：借助-nanotags-完成迁移节省-100-KB](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279109&idx=1&sn=18b0cb0d03d5d426758cd64c42c005fc&chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da9e7edea645eed98c8a7d1a416a4d52)  
 - [2026-05-18-【第3700期】善用-Codex-goal模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279104&idx=1&sn=0b6e868589db3255c3ce97129f8e533d&chksm=bc34183706bf57bba7c2a4b06ea74a433bc6e9efe940806bc74901c2860820defc24d1b1a3a5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a22c2b506b6f8349802bf70bfffdbf90)  
 - [2026-05-15-【第3699期】Karpathy的4条规则让Claude出错率骤降，但还不够。Mnimiy又加了8条](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279093&idx=1&sn=f024641d6b041365cded1666a809a875&chksm=bc1579337494e675c59ea31ae7cc889467ad907c3b891c58adf6eb649b3444a0b907fe6992a7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6b4c4b49a952807f24616f2703181b45)  
 - [2026-05-14-【第3698期】AI可观测性：大语言模型与智能体的全链路透视](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279085&idx=1&sn=5d37952256d053f8cfd2ca80abfc9fb7&chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5fd3591ba4c1ef596b3614a11b7f77fe)  

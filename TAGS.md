@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-19 18:52:33。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-20 01:56:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -585,6 +585,7 @@
 
 
 - [【前端早读课】【第3701期】告别-React，拥抱原生：借助-nanotags-完成迁移节省-100-KB](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279109&idx=1&sn=18b0cb0d03d5d426758cd64c42c005fc&chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da9e7edea645eed98c8a7d1a416a4d52)
+- [【JavaScript-Weekly】Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1917476702340e9caf1105227e054071)
 - [【张鑫旭-鑫空间-鑫生活】光标的形状也能设置了，就是CSS-caret-shape属性](https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e54624944b656be9b339715536bdd9a6)
 - [【前端早读课】【第3700期】善用-Codex-goal模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279104&idx=1&sn=0b6e868589db3255c3ce97129f8e533d&chksm=bc34183706bf57bba7c2a4b06ea74a433bc6e9efe940806bc74901c2860820defc24d1b1a3a5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a22c2b506b6f8349802bf70bfffdbf90)
 - [【阮一峰的网络日志】科技爱好者周刊（第-396-期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=39823b46233af9171f7b74ff5d8c2d28)
@@ -593,7 +594,6 @@
 - [【Nodejs技术栈】Bun-v1.3.14-发布，Rust-版即将进-Claude-Code-内测，下一版可能就告别-Zig](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523499&idx=1&sn=afd62935f7346523f097eede12cf0e19&chksm=e80fd3e5df785af36ac310d7b005c7b0c19272d58f522254ebde71fda7314b6c2f4c05fb219b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=be7c7ee16f233a5e5dcc70de48a840d8)
 - [【程序员成长指北】用了几周明基-RD280UG，我终于明白程序员为什么需要一台“专用显示器”](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529815&idx=1&sn=a2d66cffd74e5158eec2a4f111305f22&chksm=f9927386cee5fa90085e6aedd5c099865e14538ca422c7e08286db85a0bba948f88c7ee3c7c3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b7359290ccdaced3ae0aac9e2f0770f4)
 - [【前端早读课】【第3698期】AI可观测性：大语言模型与智能体的全链路透视](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279085&idx=1&sn=5d37952256d053f8cfd2ca80abfc9fb7&chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5fd3591ba4c1ef596b3614a11b7f77fe)
-- [【Node-Weekly】Let's-go-deep-into-Node's-internals](https://nodeweekly.com/issues/624)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b37f86ea344936e79d91578ecc6d366e)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

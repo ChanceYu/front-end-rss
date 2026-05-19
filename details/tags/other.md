@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-19 18:52:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-20 01:56:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2026-05-19-【第3701期】告别-React，拥抱原生：借助-nanotags-完成迁移节省-100-KB](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279109&idx=1&sn=18b0cb0d03d5d426758cd64c42c005fc&chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da9e7edea645eed98c8a7d1a416a4d52) 
+- [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1917476702340e9caf1105227e054071) 
 - [2026-05-18-光标的形状也能设置了，就是CSS-caret-shape属性](https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e54624944b656be9b339715536bdd9a6) 
 - [2026-05-18-【第3700期】善用-Codex-goal模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279104&idx=1&sn=0b6e868589db3255c3ce97129f8e533d&chksm=bc34183706bf57bba7c2a4b06ea74a433bc6e9efe940806bc74901c2860820defc24d1b1a3a5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a22c2b506b6f8349802bf70bfffdbf90) 
 - [2026-05-15-科技爱好者周刊（第-396-期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=39823b46233af9171f7b74ff5d8c2d28) 
