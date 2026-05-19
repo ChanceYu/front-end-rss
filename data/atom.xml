@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-19T19:40:58.027Z</updated>
+    <updated>2026-05-19T21:09:52.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[光标的形状也能设置了，就是CSS caret-shape属性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/"/>
+        <updated>2026-05-18T00:00:00.000Z</updated>
+        <published>2026-05-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG 全链路技术详解]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543478&amp;idx=1&amp;sn=3d53b81dc195e7ccd6e652000bcf8ba8&amp;chksm=8390dd6eb4e75478580dd2e857da4a06d0b9b644fbb6cefbb3492a5217ca7304b465127f37a9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543478&amp;idx=1&amp;sn=3d53b81dc195e7ccd6e652000bcf8ba8&amp;chksm=8390dd6eb4e75478580dd2e857da4a06d0b9b644fbb6cefbb3492a5217ca7304b465127f37a9#rd"/>
         <updated>2026-05-18T00:00:00.000Z</updated>
         <published>2026-05-18T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Hono 成了 Node.js 新项目的新宠，Adapter v2 再提速 2.3 倍，值得认真看了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523406&amp;idx=1&amp;sn=045ebb0e203e11c68df8139d85100942&amp;chksm=e80fd300df785a1658a20a7e595704a0e743f86dc4d8038e4d9139e7fb1c346652d874a42333#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523406&amp;idx=1&amp;sn=045ebb0e203e11c68df8139d85100942&amp;chksm=e80fd300df785a1658a20a7e595704a0e743f86dc4d8038e4d9139e7fb1c346652d874a42333#rd"/>
-        <updated>2026-04-27T00:00:00.000Z</updated>
-        <published>2026-04-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用CSS判断鼠标从哪个方向进入元素？]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/"/>
         <updated>2026-04-27T00:00:00.000Z</updated>
         <published>2026-04-27T00:00:00.000Z</published>
     </entry>
