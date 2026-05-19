@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-19T17:56:05.511Z</updated>
+    <updated>2026-05-19T19:40:58.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,20 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Karpathy 的 4 条规则让 Claude 出错率骤降，但还不够。Mnimiy 又加了 8 条]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529834&amp;idx=1&amp;sn=cff9a8b4b07b328f840e25497a196045&amp;chksm=f99273bbcee5faada11e6f8c13674cb89ae4ac35b379b020aa9adb7562105111f4e0f6b2b447#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529834&amp;idx=1&amp;sn=cff9a8b4b07b328f840e25497a196045&amp;chksm=f99273bbcee5faada11e6f8c13674cb89ae4ac35b379b020aa9adb7562105111f4e0f6b2b447#rd"/>
+        <updated>2026-05-19T00:00:00.000Z</updated>
+        <published>2026-05-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被开除5分钟后，34岁工程师一口气删掉96个“国家级数据库”，转头问AI：日志怎么清？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624430&amp;idx=1&amp;sn=d74ecfc7f4ca4f48e86fd6540636ff91&amp;chksm=8022442fb755cd39d9f6c396be6b95a865e617a89f5cca357c159b12794b6f5bcc73ce9e4d04#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624430&amp;idx=1&amp;sn=d74ecfc7f4ca4f48e86fd6540636ff91&amp;chksm=8022442fb755cd39d9f6c396be6b95a865e617a89f5cca357c159b12794b6f5bcc73ce9e4d04#rd"/>
+        <updated>2026-05-19T00:00:00.000Z</updated>
+        <published>2026-05-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3701期】告别 React，拥抱原生：借助 nanotags 完成迁移节省 100 KB]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279109&amp;idx=1&amp;sn=18b0cb0d03d5d426758cd64c42c005fc&amp;chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279109&amp;idx=1&amp;sn=18b0cb0d03d5d426758cd64c42c005fc&amp;chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&amp;scene=0#rd"/>
@@ -25,6 +39,13 @@
         <title type="html"><![CDATA[光标的形状也能设置了，就是CSS caret-shape属性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/"/>
+        <updated>2026-05-18T00:00:00.000Z</updated>
+        <published>2026-05-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“10周的工作量，AI只用4天！”Anthropic发布会全程实录：你引以为傲的复杂工程，在模型眼里只是个玩具]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624424&amp;idx=1&amp;sn=87c0495e54bba7785820b545f3fe67ec&amp;chksm=80224429b755cd3f54ec11ffa1556b4116fbd5acdf14bcc8c821e40b52a2c80584c9d2cb3fbb#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624424&amp;idx=1&amp;sn=87c0495e54bba7785820b545f3fe67ec&amp;chksm=80224429b755cd3f54ec11ffa1556b4116fbd5acdf14bcc8c821e40b52a2c80584c9d2cb3fbb#rd"/>
         <updated>2026-05-18T00:00:00.000Z</updated>
         <published>2026-05-18T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/"/>
         <updated>2026-04-27T00:00:00.000Z</updated>
         <published>2026-04-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪赢麻了：Codex、Claude Code 全在用 Vite8 这套工具链！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517589&amp;idx=1&amp;sn=d6b5469af78a9c8f21f3d87d37d5e9b0&amp;chksm=eb07bdecdc7034faef021a4fe079261ce1c5bb5bb67ea0334722a653b958fbd1466fa0a1946d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517589&amp;idx=1&amp;sn=d6b5469af78a9c8f21f3d87d37d5e9b0&amp;chksm=eb07bdecdc7034faef021a4fe079261ce1c5bb5bb67ea0334722a653b958fbd1466fa0a1946d#rd"/>
-        <updated>2026-04-27T00:00:00.000Z</updated>
-        <published>2026-04-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3690期】驾驭 Opus 4.7：Claude Code 最佳实践全攻略]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278978&amp;idx=1&amp;sn=a8351965c5112f4b153ab699d3bbd652&amp;chksm=bcde39b29fcf60c6876b79464f72d46741fc9661802308b63b24d1199e449c0b4dd7aaad768a&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278978&amp;idx=1&amp;sn=a8351965c5112f4b153ab699d3bbd652&amp;chksm=bcde39b29fcf60c6876b79464f72d46741fc9661802308b63b24d1199e449c0b4dd7aaad768a&amp;scene=0#rd"/>
-        <updated>2026-04-27T00:00:00.000Z</updated>
-        <published>2026-04-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun 下一版要支持安卓了！但作者警告：千万别拿它写 App]]></title>
-        <id>http://mp.weixin.qq.com/s/KbiF-UdSvNcW4ZwJXo4OWw</id>
-        <link href="http://mp.weixin.qq.com/s/KbiF-UdSvNcW4ZwJXo4OWw"/>
-        <updated>2026-04-25T00:00:00.000Z</updated>
-        <published>2026-04-25T00:00:00.000Z</published>
     </entry>
 </feed>
