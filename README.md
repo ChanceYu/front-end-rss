@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-20 18:41:24，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-22 01:49:35，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -24,10 +24,10 @@
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -51,6 +51,7 @@
 </summary>
 
 
+- [2026-05-21-Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cb2b663066fe1ac78e794f78a40ccd38)  ![](/assets/new.png) 
 - [2026-05-14-Let's-go-deep-into-Node's-internals](https://nodeweekly.com/issues/624)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b37f86ea344936e79d91578ecc6d366e)  
 - [2026-05-07-Node-26.0-ships-Temporal;-Node-26.1-brings-FFI](https://nodeweekly.com/issues/623)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1b2e3354d00f0c545128f2358fd7d512)  
 - [2026-04-30-pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=67fb43d0ed2de82048441dc6fbd694bf)  
@@ -60,7 +61,6 @@
 - [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0092eef8f955b266308b261ede471c7)  
 - [2026-03-26-How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e55606bacdcabcc0e704fb0b287afa99)  
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8304d5c228ab03ce9e37e82e6708c689)  
-- [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fd3d273122c5dd50833d091b8072ee0)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -93,7 +93,8 @@
 </summary>
 
 
-- [2026-05-20-【第3702期】Agent-Skills-原理及其在中后台页面中的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279131&idx=1&sn=ecfe33a6fbad7250057e2576ce8d1fe7&chksm=bcd7d5c111b7dbcc5e92e19bc47a0377beae25914ec710259849c5a3ddd0247bb0df751ce191&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c7d724d09311d3d23d9cd76ea0a37020)  ![](/assets/new.png) 
+- [2026-05-21-【早说】不要将学习外包出去](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279136&idx=1&sn=0c7d1f5614ba41ba9adea0c6e6157cbf&chksm=bc8f095f6c66dd5f5df662979be0b152c2fcd0985591816dd93992202d9e14fbab9a7968cb3d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7599c26f96e3e3a4b7c7375e13d86ba)  ![](/assets/new.png) 
+- [2026-05-20-【第3702期】Agent-Skills-原理及其在中后台页面中的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279131&idx=1&sn=ecfe33a6fbad7250057e2576ce8d1fe7&chksm=bcd7d5c111b7dbcc5e92e19bc47a0377beae25914ec710259849c5a3ddd0247bb0df751ce191&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c7d724d09311d3d23d9cd76ea0a37020)  
 - [2026-05-19-【第3701期】告别-React，拥抱原生：借助-nanotags-完成迁移节省-100-KB](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279109&idx=1&sn=18b0cb0d03d5d426758cd64c42c005fc&chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da9e7edea645eed98c8a7d1a416a4d52)  
 - [2026-05-18-【第3700期】善用-Codex-goal模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279104&idx=1&sn=0b6e868589db3255c3ce97129f8e533d&chksm=bc34183706bf57bba7c2a4b06ea74a433bc6e9efe940806bc74901c2860820defc24d1b1a3a5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a22c2b506b6f8349802bf70bfffdbf90)  
 - [2026-05-15-【第3699期】Karpathy的4条规则让Claude出错率骤降，但还不够。Mnimiy又加了8条](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279093&idx=1&sn=f024641d6b041365cded1666a809a875&chksm=bc1579337494e675c59ea31ae7cc889467ad907c3b891c58adf6eb649b3444a0b907fe6992a7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6b4c4b49a952807f24616f2703181b45)  
@@ -102,7 +103,6 @@
 - [2026-05-12-【第3696期】Github：差异对比行的性能攀登之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279063&idx=1&sn=e13575e9dc5154706b28ad835abe6fc5&chksm=bce37a93bd4182224d88720c359adff418f9c0507a2ae68abcda9f95c871e53da0d9ca464709&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4680011c9c720656b34fef3cf6944fef)  
 - [2026-05-11-【第3695期】下一代图片格式-AVIF-在-vivo-社区的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279053&idx=1&sn=5e473cf9e9955cf6fbc4173846092f00&chksm=bc5d204e85759016a9ce149a2a96d0357ce6ca5b388d7467f5412efdc6741cf56f38edef05e4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=55da839d9504d2f25dd662529ccca288)  
 - [2026-05-09-【第3694期】智能体框架深度解剖](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279046&idx=1&sn=ec91828738d5f52ca1143822e69dfa8e&chksm=bc2ca796447d9ee7ecdbad2efd42a09cc06a6d9ba339b56e4f6d7976c718b613263b03b8fe12&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=55146543a76f2c32305ab26e361c46ba)  
-- [2026-05-08-【第3693期】从提示词到工程框架：AI工程的成长之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279034&idx=1&sn=3d28af3c06d14ce8f7276ef1765e80c6&chksm=bc0ad28cf2ef345c80349927efb4d508b10a06ae48cf72870602236d892b5909d4eb81f798ca&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1c352c5b782e8871d9a4ed3941e3de57)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -114,7 +114,7 @@
 </summary>
 
 
-- [2026-05-20-3-个校友捐赠-20-亿-Token。网友吐槽：捐出-20-亿元的气势。校方：不在乎值多少钱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624441&idx=1&sn=ab89663b8f90168a9f640988c25cc501&chksm=80224438b755cd2e73e9634b6bf2a9283d6de8338cbb90d94fa85a68ee19a0dbbfb9195b9295#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9e7d119aa5f53539d3b4eada33eb5048)  ![](/assets/new.png) 
+- [2026-05-20-3-个校友捐赠-20-亿-Token。网友吐槽：捐出-20-亿元的气势。校方：不在乎值多少钱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624441&idx=1&sn=ab89663b8f90168a9f640988c25cc501&chksm=80224438b755cd2e73e9634b6bf2a9283d6de8338cbb90d94fa85a68ee19a0dbbfb9195b9295#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9e7d119aa5f53539d3b4eada33eb5048)  
 - [2026-05-19-被开除5分钟后，34岁工程师一口气删掉96个“国家级数据库”，转头问AI：日志怎么清？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624430&idx=1&sn=d74ecfc7f4ca4f48e86fd6540636ff91&chksm=8022442fb755cd39d9f6c396be6b95a865e617a89f5cca357c159b12794b6f5bcc73ce9e4d04#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6d8a6c919ad243d552644ba5d9210f65)  
 - [2026-05-18-“10周的工作量，AI只用4天！”Anthropic发布会全程实录：你引以为傲的复杂工程，在模型眼里只是个玩具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624424&idx=1&sn=87c0495e54bba7785820b545f3fe67ec&chksm=80224429b755cd3f54ec11ffa1556b4116fbd5acdf14bcc8c821e40b52a2c80584c9d2cb3fbb#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=12b5000b1c461911bd90de418173a5c5)  
 - [2026-05-13-Markdown要凉…卡帕西也站HTML了](http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e25d2a30b26374b6c0e50068f6efe3fe)  

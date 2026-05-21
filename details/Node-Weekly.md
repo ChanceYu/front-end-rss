@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-05-15 00:03:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-22 01:49:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2026-05-21-Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cb2b663066fe1ac78e794f78a40ccd38) 
 - [2026-05-14-Let's-go-deep-into-Node's-internals](https://nodeweekly.com/issues/624)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b37f86ea344936e79d91578ecc6d366e) 
 - [2026-05-07-Node-26.0-ships-Temporal;-Node-26.1-brings-FFI](https://nodeweekly.com/issues/623)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1b2e3354d00f0c545128f2358fd7d512) 
 - [2026-04-30-pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=67fb43d0ed2de82048441dc6fbd694bf) 
