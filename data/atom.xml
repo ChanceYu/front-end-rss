@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-22T05:11:31.002Z</updated>
+    <updated>2026-05-22T21:02:29.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[ClaudeCode 保姆级教程，最懂工程的AI工具 ！！]]></title>
         <id>http://mp.weixin.qq.com/s/WN2K9LE4DHnErckKgxZlbA</id>
         <link href="http://mp.weixin.qq.com/s/WN2K9LE4DHnErckKgxZlbA"/>
+        <updated>2026-05-21T00:00:00.000Z</updated>
+        <published>2026-05-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端圈炸了！AntV、VS Code 插件同时被投毒！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624455&amp;idx=1&amp;sn=b14d868250a86ca7856cab59bd60947a&amp;chksm=802243c6b755cad02fcf30b6c70ab1fbdfe523058bae8682deaba429b2d6355f4d61c28f0abf#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624455&amp;idx=1&amp;sn=b14d868250a86ca7856cab59bd60947a&amp;chksm=802243c6b755cad02fcf30b6c70ab1fbdfe523058bae8682deaba429b2d6355f4d61c28f0abf#rd"/>
         <updated>2026-05-21T00:00:00.000Z</updated>
         <published>2026-05-21T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523430&amp;idx=1&amp;sn=6f7fe3a06fd36a644a63ba5c75bf53eb&amp;chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd"/>
         <updated>2026-05-02T00:00:00.000Z</updated>
         <published>2026-05-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor 凌晨开放 TypeScript SDK，一个 npm 包就能把 Composer Agent 嵌进你的项目]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523421&amp;idx=1&amp;sn=75954877117bfdff3599359809c9629e&amp;chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523421&amp;idx=1&amp;sn=75954877117bfdff3599359809c9629e&amp;chksm=e80fd313df785a059783c4275b88be5714f24b9fc67421f098a2a0aaee56705717dd70f37aea#rd"/>
-        <updated>2026-04-30T00:00:00.000Z</updated>
-        <published>2026-04-30T00:00:00.000Z</published>
     </entry>
 </feed>
