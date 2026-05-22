@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-21T17:49:09.436Z</updated>
+    <updated>2026-05-22T02:01:53.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 397 期）：财富正在向 AI 集中]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html"/>
+        <updated>2026-05-22T00:00:00.000Z</updated>
+        <published>2026-05-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should we rewrite Node.js in Rust?]]></title>
         <id>https://nodeweekly.com/issues/625</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Karpathy 想要的那个 LLM Wiki 产品来了，装一个 Skill 就能用]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523408&amp;idx=1&amp;sn=2fa7fbb3a31cc6341e5024a60297f825&amp;chksm=e80fd31edf785a08cf2839281b06477b8f0fe18f911d2a8d9d569bfda0b0d5837f697f8e1551#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523408&amp;idx=1&amp;sn=2fa7fbb3a31cc6341e5024a60297f825&amp;chksm=e80fd31edf785a08cf2839281b06477b8f0fe18f911d2a8d9d569bfda0b0d5837f697f8e1551#rd"/>
-        <updated>2026-04-28T00:00:00.000Z</updated>
-        <published>2026-04-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】生成式 AI 在前端领域的局限性探讨]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278991&amp;idx=1&amp;sn=8244b5a531876446796be3fb2d1119fe&amp;chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278991&amp;idx=1&amp;sn=8244b5a531876446796be3fb2d1119fe&amp;chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&amp;scene=0#rd"/>
         <updated>2026-04-28T00:00:00.000Z</updated>
         <published>2026-04-28T00:00:00.000Z</published>
     </entry>
