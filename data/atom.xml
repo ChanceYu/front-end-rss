@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-23T05:31:07.133Z</updated>
+    <updated>2026-05-23T16:46:15.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[浏览器自动化：从GUI到OpenCLI]]></title>
         <id>http://mp.weixin.qq.com/s/hp8yj2_qc2MmCi1jYpfx5g</id>
         <link href="http://mp.weixin.qq.com/s/hp8yj2_qc2MmCi1jYpfx5g"/>
+        <updated>2026-05-22T00:00:00.000Z</updated>
+        <published>2026-05-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026，这些 JavaScript API 已经废弃！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517600&amp;idx=1&amp;sn=e2da84f8bfc22261ed4844d32edcd97f&amp;chksm=eb07bdd9dc7034cf3d331eac9cd32d8264b32d3cc94a83bde052d227ae42eb12988c8a4249a9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517600&amp;idx=1&amp;sn=e2da84f8bfc22261ed4844d32edcd97f&amp;chksm=eb07bdd9dc7034cf3d331eac9cd32d8264b32d3cc94a83bde052d227ae42eb12988c8a4249a9#rd"/>
         <updated>2026-05-22T00:00:00.000Z</updated>
         <published>2026-05-22T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/784"/>
         <updated>2026-05-05T00:00:00.000Z</updated>
         <published>2026-05-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 装了十年的 Sharp，Bun 说：不用装了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523438&amp;idx=1&amp;sn=d795aa1c2dfb80cb0eaa88a2d43f1059&amp;chksm=e80fd320df785a367c4d543e08261ce79c1c0d022c58dda6c90a9f84ce1d9e9d84acdb751a15#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523438&amp;idx=1&amp;sn=d795aa1c2dfb80cb0eaa88a2d43f1059&amp;chksm=e80fd320df785a367c4d543e08261ce79c1c0d022c58dda6c90a9f84ce1d9e9d84acdb751a15#rd"/>
-        <updated>2026-05-04T00:00:00.000Z</updated>
-        <published>2026-05-04T00:00:00.000Z</published>
     </entry>
 </feed>
