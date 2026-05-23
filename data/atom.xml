@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-23T16:46:15.481Z</updated>
+    <updated>2026-05-23T22:41:54.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Deno 2.8 发布：创始人承认速度打不过 Bun，但 Node.js 兼容性是 Bun 的两倍]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523580&amp;idx=1&amp;sn=a09d8bdbbd11403ed774601e95c33926&amp;chksm=e80fd3b2df785aa4a39570631a57605fa81c322db4535901f4bb9467707dd3e954295dd55af1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523580&amp;idx=1&amp;sn=a09d8bdbbd11403ed774601e95c33926&amp;chksm=e80fd3b2df785aa4a39570631a57605fa81c322db4535901f4bb9467707dd3e954295dd55af1#rd"/>
+        <updated>2026-05-23T00:00:00.000Z</updated>
+        <published>2026-05-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他们用 Node.js 把《毁灭战士》搬进了终端，还有人说 JS 靠它能追上 Python]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523574&amp;idx=1&amp;sn=ed88e054b94a214db581c751cdc0f443&amp;chksm=e80fd3b8df785aae336d1c87e49dcdab98cdaea8252a0691730c4a48dc0b5dc0c8e660a4eccc#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523574&amp;idx=1&amp;sn=ed88e054b94a214db581c751cdc0f443&amp;chksm=e80fd3b8df785aae336d1c87e49dcdab98cdaea8252a0691730c4a48dc0b5dc0c8e660a4eccc#rd"/>
+        <updated>2026-05-22T00:00:00.000Z</updated>
+        <published>2026-05-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 397 期）：财富正在向 AI 集中]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/cMEwc2l9-MhI_asvL-AkxA"/>
         <updated>2026-05-06T00:00:00.000Z</updated>
         <published>2026-05-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文吃透AST与LSP：为什么AI代码工具都离不开它？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529717&amp;idx=1&amp;sn=e4fe9464b4d34642fde66bf1a25db622&amp;chksm=f9927224cee5fb3266d68bf941a2dd31e9c20a4dd4a4b606c2a993fc298573cac783ad0b2a57#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529717&amp;idx=1&amp;sn=e4fe9464b4d34642fde66bf1a25db622&amp;chksm=f9927224cee5fb3266d68bf941a2dd31e9c20a4dd4a4b606c2a993fc298573cac783ad0b2a57#rd"/>
-        <updated>2026-05-06T00:00:00.000Z</updated>
-        <published>2026-05-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remix 3 drops React]]></title>
-        <id>https://javascriptweekly.com/issues/784</id>
-        <link href="https://javascriptweekly.com/issues/784"/>
-        <updated>2026-05-05T00:00:00.000Z</updated>
-        <published>2026-05-05T00:00:00.000Z</published>
     </entry>
 </feed>
