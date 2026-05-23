@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-22T21:02:29.634Z</updated>
+    <updated>2026-05-23T05:31:07.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 397 期）：财富正在向 AI 集中]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html"/>
+        <updated>2026-05-22T00:00:00.000Z</updated>
+        <published>2026-05-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器自动化：从GUI到OpenCLI]]></title>
+        <id>http://mp.weixin.qq.com/s/hp8yj2_qc2MmCi1jYpfx5g</id>
+        <link href="http://mp.weixin.qq.com/s/hp8yj2_qc2MmCi1jYpfx5g"/>
         <updated>2026-05-22T00:00:00.000Z</updated>
         <published>2026-05-22T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523438&amp;idx=1&amp;sn=d795aa1c2dfb80cb0eaa88a2d43f1059&amp;chksm=e80fd320df785a367c4d543e08261ce79c1c0d022c58dda6c90a9f84ce1d9e9d84acdb751a15#rd"/>
         <updated>2026-05-04T00:00:00.000Z</updated>
         <published>2026-05-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[连尤雨溪都在用，这个 ORM 让 Bun 跑出了比 Go 还低的延迟]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523430&amp;idx=1&amp;sn=6f7fe3a06fd36a644a63ba5c75bf53eb&amp;chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523430&amp;idx=1&amp;sn=6f7fe3a06fd36a644a63ba5c75bf53eb&amp;chksm=e80fd328df785a3ef864f01afbad9c516ec7a0d251e5dc239e25c96d61b78cdcd7bd95eb0fec#rd"/>
-        <updated>2026-05-02T00:00:00.000Z</updated>
-        <published>2026-05-02T00:00:00.000Z</published>
     </entry>
 </feed>
