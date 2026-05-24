@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-23T22:41:54.095Z</updated>
+    <updated>2026-05-24T05:57:45.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[创新视频剪辑交互：二维时间轴 + 文字轨]]></title>
+        <id>https://fenghen.me/posts/2026/05/24/dimcut/</id>
+        <link href="https://fenghen.me/posts/2026/05/24/dimcut/"/>
+        <updated>2026-05-24T00:00:00.000Z</updated>
+        <published>2026-05-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deno 2.8 发布：创始人承认速度打不过 Bun，但 Node.js 兼容性是 Bun 的两倍]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523580&amp;idx=1&amp;sn=a09d8bdbbd11403ed774601e95c33926&amp;chksm=e80fd3b2df785aa4a39570631a57605fa81c322db4535901f4bb9467707dd3e954295dd55af1#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[JSON.rawJSON方法的作用是什么？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/"/>
-        <updated>2026-05-06T00:00:00.000Z</updated>
-        <published>2026-05-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天猫新品营销技术团队AI编码实战指南（上）]]></title>
-        <id>http://mp.weixin.qq.com/s/cMEwc2l9-MhI_asvL-AkxA</id>
-        <link href="http://mp.weixin.qq.com/s/cMEwc2l9-MhI_asvL-AkxA"/>
         <updated>2026-05-06T00:00:00.000Z</updated>
         <published>2026-05-06T00:00:00.000Z</published>
     </entry>
