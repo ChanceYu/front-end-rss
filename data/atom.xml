@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-25T16:13:57.256Z</updated>
+    <updated>2026-05-25T19:14:09.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -34,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279147&amp;idx=1&amp;sn=7bd6cb65bb2e0f521aa8b3ca3c7d2a13&amp;chksm=bc82ad507e9cacd289ac977c40cd313980a83e572fa01d7ae7f2c8efeaa8a4c584db63a9ca96&amp;scene=0#rd"/>
         <updated>2026-05-25T00:00:00.000Z</updated>
         <published>2026-05-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 重写 AI 味太浓，Bun 被 yt-dlp 封版本、Electrobun 直接解绑]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523590&amp;idx=1&amp;sn=3395ab3f9a1fe234f9aebabd8e1398a3&amp;chksm=e80fd248df785b5e3e013e04a335b969ce00b2f3bbc4312d32563b2111bd00f230048d539286#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523590&amp;idx=1&amp;sn=3395ab3f9a1fe234f9aebabd8e1398a3&amp;chksm=e80fd248df785b5e3e013e04a335b969ce00b2f3bbc4312d32563b2111bd00f230048d539286#rd"/>
+        <updated>2026-05-24T00:00:00.000Z</updated>
+        <published>2026-05-24T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[创新视频剪辑交互：二维时间轴 + 文字轨]]></title>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd"/>
         <updated>2026-05-08T00:00:00.000Z</updated>
         <published>2026-05-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 26 发布：用了 10 年的版本号规则，从下一版起作废]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523444&amp;idx=1&amp;sn=813daf0e2da8b011acf951fc7706a175&amp;chksm=e80fd33adf785a2cde0303325c83d8c7279a21581a7d578174f0d9e9eac0c6b9084727425c0b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523444&amp;idx=1&amp;sn=813daf0e2da8b011acf951fc7706a175&amp;chksm=e80fd33adf785a2cde0303325c83d8c7279a21581a7d578174f0d9e9eac0c6b9084727425c0b#rd"/>
-        <updated>2026-05-07T00:00:00.000Z</updated>
-        <published>2026-05-07T00:00:00.000Z</published>
     </entry>
 </feed>
