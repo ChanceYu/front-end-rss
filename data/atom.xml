@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-24T05:57:45.776Z</updated>
+    <updated>2026-05-25T12:55:51.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[1分钟速度了解text-align match-parent声明]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/05/css-text-align-match-parent/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/05/css-text-align-match-parent/"/>
+        <updated>2026-05-25T00:00:00.000Z</updated>
+        <published>2026-05-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创新视频剪辑交互：二维时间轴 + 文字轨]]></title>
         <id>https://fenghen.me/posts/2026/05/24/dimcut/</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/623"/>
         <updated>2026-05-07T00:00:00.000Z</updated>
         <published>2026-05-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON.rawJSON方法的作用是什么？]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/"/>
-        <updated>2026-05-06T00:00:00.000Z</updated>
-        <published>2026-05-06T00:00:00.000Z</published>
     </entry>
 </feed>
