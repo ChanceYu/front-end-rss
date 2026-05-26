@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-26T09:40:24.707Z</updated>
+    <updated>2026-05-26T17:17:53.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[曾经的王，Vue3倒下了！！！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517626&amp;idx=1&amp;sn=e2d837c20e68f19801716a4e6b5e1f4d&amp;chksm=eb07bdc3dc7034d5d62aa1413c8d296295989405a040fa08f6b22f4526d37fce624a8c35337a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517626&amp;idx=1&amp;sn=e2d837c20e68f19801716a4e6b5e1f4d&amp;chksm=eb07bdc3dc7034d5d62aa1413c8d296295989405a040fa08f6b22f4526d37fce624a8c35337a#rd"/>
+        <updated>2026-05-26T00:00:00.000Z</updated>
+        <published>2026-05-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3705期】让 Codex 物尽其用：从编程助手到全能工作系统]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279159&amp;idx=1&amp;sn=40f71ba2ace9c79fcf04a7a767999b3c&amp;chksm=bc81ce6d02efe440257300115f877cb897e9f7df0a97d239185276bb0b55c94686f973be37f5&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279159&amp;idx=1&amp;sn=40f71ba2ace9c79fcf04a7a767999b3c&amp;chksm=bc81ce6d02efe440257300115f877cb897e9f7df0a97d239185276bb0b55c94686f973be37f5&amp;scene=0#rd"/>
+        <updated>2026-05-26T00:00:00.000Z</updated>
+        <published>2026-05-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm and pnpm introduce staged publishing]]></title>
+        <id>https://javascriptweekly.com/issues/787</id>
+        <link href="https://javascriptweekly.com/issues/787"/>
         <updated>2026-05-26T00:00:00.000Z</updated>
         <published>2026-05-26T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[VS Code 1.119 版本新功能速览！Agent 交互体验大幅升级]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517598&amp;idx=1&amp;sn=413110079acd82bd09e58c92d7147284&amp;chksm=eb07bde7dc7034f1899cd64d108f4f4e64cf9ab9a149fa2023cebd75b7c9e5585bc3bb510b1f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517598&amp;idx=1&amp;sn=413110079acd82bd09e58c92d7147284&amp;chksm=eb07bde7dc7034f1899cd64d108f4f4e64cf9ab9a149fa2023cebd75b7c9e5585bc3bb510b1f#rd"/>
-        <updated>2026-05-08T00:00:00.000Z</updated>
-        <published>2026-05-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor 官方偷偷用了 2 年的内部工作流，现在全部开源了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529765&amp;idx=1&amp;sn=387ffd1321d825fd5caaf7ce1e6db1c7&amp;chksm=f99273f4cee5fae24cd073c2c0adad52f06dbffd3c5cddb25a739481d90ef2c44b620bd6fe74#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529765&amp;idx=1&amp;sn=387ffd1321d825fd5caaf7ce1e6db1c7&amp;chksm=f99273f4cee5fae24cd073c2c0adad52f06dbffd3c5cddb25a739481d90ef2c44b620bd6fe74#rd"/>
-        <updated>2026-05-08T00:00:00.000Z</updated>
-        <published>2026-05-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】Claude Code 实战：Harness工程之道]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279034&amp;idx=2&amp;sn=e11923e659525118dc441638139bba7b&amp;chksm=bc6804137242437c2c2318cd20a16cc08ec404e7c8cdd263b3d545e8b8f3b6e42a8d8d4f6d41&amp;scene=0#rd"/>
         <updated>2026-05-08T00:00:00.000Z</updated>
         <published>2026-05-08T00:00:00.000Z</published>
     </entry>
