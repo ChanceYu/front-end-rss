@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-27T05:27:35.752Z</updated>
+    <updated>2026-05-27T18:16:26.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[一个人做宣传片、写游戏、盯热点？实测这个“全干版AI专家”三天全搞定]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523699&amp;idx=1&amp;sn=5ab270cdf167031f779eecc279099637&amp;chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523699&amp;idx=1&amp;sn=5ab270cdf167031f779eecc279099637&amp;chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd"/>
+        <updated>2026-05-27T00:00:00.000Z</updated>
+        <published>2026-05-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】AI让你更快，却未必让你更强]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd</id>
@@ -27,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <published>2026-05-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node、Deno、Bun 到底怎么选？我把这道送命题甩给了天工]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523661&amp;idx=1&amp;sn=ccc20fa10bcf25872a1c2370117b7f6e&amp;chksm=e80fd203df785b150580f2840024c1c4d14e8f00d4ce43a4372e5bb00b1fdfe6155eac04187f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523661&amp;idx=1&amp;sn=ccc20fa10bcf25872a1c2370117b7f6e&amp;chksm=e80fd203df785b150580f2840024c1c4d14e8f00d4ce43a4372e5bb00b1fdfe6155eac04187f#rd"/>
+        <updated>2026-05-26T00:00:00.000Z</updated>
+        <published>2026-05-26T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[曾经的王，Vue3倒下了！！！]]></title>
@@ -71,6 +85,13 @@
         <published>2026-05-25T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[前端转全栈别乱学：15 个 Node.js 高质量资源推荐，按能力地图整理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529859&amp;idx=1&amp;sn=328851a5bacdebc05ef0adfa57ee5db4&amp;chksm=f9927352cee5fa444b23f9cb75fbc39e356cb8812a05232fafdf00b5504f51db6c36d3e9c30e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529859&amp;idx=1&amp;sn=328851a5bacdebc05ef0adfa57ee5db4&amp;chksm=f9927352cee5fa444b23f9cb75fbc39e356cb8812a05232fafdf00b5504f51db6c36d3e9c30e#rd"/>
+        <updated>2026-05-25T00:00:00.000Z</updated>
+        <published>2026-05-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3704期】谁来掌控组件树？重新理解 RSC 的本质]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279147&amp;idx=1&amp;sn=7bd6cb65bb2e0f521aa8b3ca3c7d2a13&amp;chksm=bc82ad507e9cacd289ac977c40cd313980a83e572fa01d7ae7f2c8efeaa8a4c584db63a9ca96&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279147&amp;idx=1&amp;sn=7bd6cb65bb2e0f521aa8b3ca3c7d2a13&amp;chksm=bc82ad507e9cacd289ac977c40cd313980a83e572fa01d7ae7f2c8efeaa8a4c584db63a9ca96&amp;scene=0#rd"/>
@@ -88,6 +109,13 @@
         <title type="html"><![CDATA[创新视频剪辑交互：二维时间轴 + 文字轨]]></title>
         <id>https://fenghen.me/posts/2026/05/24/dimcut/</id>
         <link href="https://fenghen.me/posts/2026/05/24/dimcut/"/>
+        <updated>2026-05-24T00:00:00.000Z</updated>
+        <published>2026-05-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex 手机端来了：别再守着电脑等 AI 写代码了（带实操）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529845&amp;idx=1&amp;sn=b85f9321265172ee0fde883535250b9f&amp;chksm=f99273a4cee5fab24d931e4d6328133c9106e2ec39782b8b51205100ddb89931b5e07fa8bd3c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529845&amp;idx=1&amp;sn=b85f9321265172ee0fde883535250b9f&amp;chksm=f99273a4cee5fab24d931e4d6328133c9106e2ec39782b8b51205100ddb89931b5e07fa8bd3c#rd"/>
         <updated>2026-05-24T00:00:00.000Z</updated>
         <published>2026-05-24T00:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543415&amp;idx=1&amp;sn=7fbf20f7e85a9e76d205fddb5887272f&amp;chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd"/>
         <updated>2026-05-11T00:00:00.000Z</updated>
         <published>2026-05-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么你让 AI 写的 Skill 总是不好用？这个官方工具给出了答案]]></title>
-        <id>http://mp.weixin.qq.com/s/wDnRngMmzBgSb1y0Zl-VdA</id>
-        <link href="http://mp.weixin.qq.com/s/wDnRngMmzBgSb1y0Zl-VdA"/>
-        <updated>2026-05-11T00:00:00.000Z</updated>
-        <published>2026-05-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3695期】下一代图片格式 AVIF 在 vivo 社区的落地实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279053&amp;idx=1&amp;sn=5e473cf9e9955cf6fbc4173846092f00&amp;chksm=bc5d204e85759016a9ce149a2a96d0357ce6ca5b388d7467f5412efdc6741cf56f38edef05e4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279053&amp;idx=1&amp;sn=5e473cf9e9955cf6fbc4173846092f00&amp;chksm=bc5d204e85759016a9ce149a2a96d0357ce6ca5b388d7467f5412efdc6741cf56f38edef05e4&amp;scene=0#rd"/>
-        <updated>2026-05-11T00:00:00.000Z</updated>
-        <published>2026-05-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markdown 凉了？Claude Code 工程师亲口说：我已经全面切换到 HTML 了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523473&amp;idx=1&amp;sn=4b69b573dc7f277e0ef299e4231f4c9e&amp;chksm=e80fd3dfdf785ac98a1f6b3c4887086e4ee68f4c20679b4a3da75abad2c62d52d9797853d2a2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523473&amp;idx=1&amp;sn=4b69b573dc7f277e0ef299e4231f4c9e&amp;chksm=e80fd3dfdf785ac98a1f6b3c4887086e4ee68f4c20679b4a3da75abad2c62d52d9797853d2a2#rd"/>
-        <updated>2026-05-10T00:00:00.000Z</updated>
-        <published>2026-05-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis 之父为 DeepSeek V4 手写 AI 推理引擎，Node.js 大佬亲自点赞]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523463&amp;idx=1&amp;sn=d78ab783d26ff8f871eac60cbc02072a&amp;chksm=e80fd3c9df785adf0e208b69ed23675f12bb61c721152fe9573881996622c58965ee5e703f0d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523463&amp;idx=1&amp;sn=d78ab783d26ff8f871eac60cbc02072a&amp;chksm=e80fd3c9df785adf0e208b69ed23675f12bb61c721152fe9573881996622c58965ee5e703f0d#rd"/>
-        <updated>2026-05-09T00:00:00.000Z</updated>
-        <published>2026-05-09T00:00:00.000Z</published>
     </entry>
 </feed>
