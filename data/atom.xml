@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-28T06:00:39.195Z</updated>
+    <updated>2026-05-28T17:30:37.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3706期】Node.js Stream 没有在做背压控制，正在悄悄吃掉内存]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279174&amp;idx=1&amp;sn=8b6d812bae24d88634f0fb0ec25c3422&amp;chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279174&amp;idx=1&amp;sn=8b6d812bae24d88634f0fb0ec25c3422&amp;chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&amp;scene=0#rd"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <published>2026-05-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno hits 76% Node.js compatibility]]></title>
+        <id>https://nodeweekly.com/issues/626</id>
+        <link href="https://nodeweekly.com/issues/626"/>
         <updated>2026-05-28T00:00:00.000Z</updated>
         <published>2026-05-28T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Bun 要把底层从 Zig 换成 Rust？把 Node.js 也搞得蠢蠢欲动了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523481&amp;idx=1&amp;sn=9e1a68f3335f04c637685271973f0d99&amp;chksm=e80fd3d7df785ac1102c21914da7d0c5aa16e2cd42d8e11ce7b5e4639577e0b4127bef93222e#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523481&amp;idx=1&amp;sn=9e1a68f3335f04c637685271973f0d99&amp;chksm=e80fd3d7df785ac1102c21914da7d0c5aa16e2cd42d8e11ce7b5e4639577e0b4127bef93222e#rd"/>
-        <updated>2026-05-11T00:00:00.000Z</updated>
-        <published>2026-05-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pretext与文字四面环绕效果的实现]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/"/>
         <updated>2026-05-11T00:00:00.000Z</updated>
         <published>2026-05-11T00:00:00.000Z</published>
     </entry>
