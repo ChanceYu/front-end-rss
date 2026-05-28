@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-27T21:43:46.027Z</updated>
+    <updated>2026-05-28T06:00:39.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[【第3706期】Node.js Stream 没有在做背压控制，正在悄悄吃掉内存]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279174&amp;idx=1&amp;sn=8b6d812bae24d88634f0fb0ec25c3422&amp;chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279174&amp;idx=1&amp;sn=8b6d812bae24d88634f0fb0ec25c3422&amp;chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&amp;scene=0#rd"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <published>2026-05-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一个人做宣传片、写游戏、盯热点？实测这个“全干版AI专家”三天全搞定]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523699&amp;idx=1&amp;sn=5ab270cdf167031f779eecc279099637&amp;chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523699&amp;idx=1&amp;sn=5ab270cdf167031f779eecc279099637&amp;chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd"/>
@@ -22,16 +29,16 @@
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】AI让你更快，却未必让你更强]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】Trae与AI Agent协作实战：多智能体AI编程全栈指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】Trae与AI Agent协作实战：多智能体AI编程全栈指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【早说】AI让你更快，却未必让你更强]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[pretext与文字四面环绕效果的实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/"/>
-        <updated>2026-05-11T00:00:00.000Z</updated>
-        <published>2026-05-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缓存使用实践总结：以淘宝交易结算场景为例]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543415&amp;idx=1&amp;sn=7fbf20f7e85a9e76d205fddb5887272f&amp;chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543415&amp;idx=1&amp;sn=7fbf20f7e85a9e76d205fddb5887272f&amp;chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd"/>
         <updated>2026-05-11T00:00:00.000Z</updated>
         <published>2026-05-11T00:00:00.000Z</published>
     </entry>
