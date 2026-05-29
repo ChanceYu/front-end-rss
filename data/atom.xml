@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-29T06:07:59.818Z</updated>
+    <updated>2026-05-29T11:17:20.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3707期】Node.js 流泄漏的生产实战手册]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279180&amp;idx=1&amp;sn=617062faa7a92a87c7321721d169c5ca&amp;chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279180&amp;idx=1&amp;sn=617062faa7a92a87c7321721d169c5ca&amp;chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&amp;scene=0#rd"/>
+        <updated>2026-05-29T00:00:00.000Z</updated>
+        <published>2026-05-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3706期】Node.js Stream 没有在做背压控制，正在悄悄吃掉内存]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279174&amp;idx=1&amp;sn=8b6d812bae24d88634f0fb0ec25c3422&amp;chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&amp;scene=0#rd</id>
@@ -36,9 +43,9 @@
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】Trae与AI Agent协作实战：多智能体AI编程全栈指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[从人机协作到AI主导：我们是怎么把代码质量交给“数字SRE”的？]]></title>
+        <id>http://mp.weixin.qq.com/s/jBXkp2Fz4hpcTEyBl6RwZg</id>
+        <link href="http://mp.weixin.qq.com/s/jBXkp2Fz4hpcTEyBl6RwZg"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[【早说】AI让你更快，却未必让你更强]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd"/>
+        <updated>2026-05-27T00:00:00.000Z</updated>
+        <published>2026-05-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【图书】Trae与AI Agent协作实战：多智能体AI编程全栈指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279063&amp;idx=1&amp;sn=e13575e9dc5154706b28ad835abe6fc5&amp;chksm=bce37a93bd4182224d88720c359adff418f9c0507a2ae68abcda9f95c871e53da0d9ca464709&amp;scene=0#rd"/>
         <updated>2026-05-12T00:00:00.000Z</updated>
         <published>2026-05-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptographically valid malware hits npm]]></title>
-        <id>https://javascriptweekly.com/issues/785</id>
-        <link href="https://javascriptweekly.com/issues/785"/>
-        <updated>2026-05-12T00:00:00.000Z</updated>
-        <published>2026-05-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun 要把底层从 Zig 换成 Rust？把 Node.js 也搞得蠢蠢欲动了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523481&amp;idx=1&amp;sn=9e1a68f3335f04c637685271973f0d99&amp;chksm=e80fd3d7df785ac1102c21914da7d0c5aa16e2cd42d8e11ce7b5e4639577e0b4127bef93222e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523481&amp;idx=1&amp;sn=9e1a68f3335f04c637685271973f0d99&amp;chksm=e80fd3d7df785ac1102c21914da7d0c5aa16e2cd42d8e11ce7b5e4639577e0b4127bef93222e#rd"/>
-        <updated>2026-05-11T00:00:00.000Z</updated>
-        <published>2026-05-11T00:00:00.000Z</published>
     </entry>
 </feed>

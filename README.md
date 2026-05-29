@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-29 14:08:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-29 19:18:08，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -26,7 +26,7 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -36,9 +36,9 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -93,16 +93,16 @@
 </summary>
 
 
+- [2026-05-29-【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815)  ![](/assets/new.png) 
 - [2026-05-28-【第3706期】Node.js-Stream-没有在做背压控制，正在悄悄吃掉内存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279174&idx=1&sn=8b6d812bae24d88634f0fb0ec25c3422&chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d52d7c0978cb6bbf0bf6a8f549349640)  
-- [2026-05-27-【早说】AI让你更快，却未必让你更强](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=1&sn=4f47ccfe47e4476bdf5c9b34faa649ec&chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e67356b8289ff9027845fde5dc3539e)  
 - [2026-05-27-【图书】Trae与AI-Agent协作实战：多智能体AI编程全栈指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=2&sn=8b198de0e6651997f01745b58dba4a42&chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90780a7c30e01156eb0bb6e1be40fb78)  
+- [2026-05-27-【早说】AI让你更快，却未必让你更强](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=1&sn=4f47ccfe47e4476bdf5c9b34faa649ec&chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e67356b8289ff9027845fde5dc3539e)  
 - [2026-05-26-【第3705期】让-Codex-物尽其用：从编程助手到全能工作系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279159&idx=1&sn=40f71ba2ace9c79fcf04a7a767999b3c&chksm=bc81ce6d02efe440257300115f877cb897e9f7df0a97d239185276bb0b55c94686f973be37f5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8b24a569f6fa07029cd486c5d04d0a1b)  
 - [2026-05-25-【第3704期】谁来掌控组件树？重新理解-RSC-的本质](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279147&idx=1&sn=7bd6cb65bb2e0f521aa8b3ca3c7d2a13&chksm=bc82ad507e9cacd289ac977c40cd313980a83e572fa01d7ae7f2c8efeaa8a4c584db63a9ca96&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=632baacd4253ff72cbc208aec4c7cce9)  
 - [2026-05-22-【第3703期】VAPD-AgentKit：可组合-Agent-前端通用库实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279143&idx=1&sn=6831c62577f2dbc9b82caec3b58c5c9c&chksm=bc98f8ea296d11badc44e3384b2251c74e9ee25ea68525974ad7e829d2a06339d4474a8fe199&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d3d521c1f784024cbdfd180e32ab0d5)  
 - [2026-05-21-【早说】不要将学习外包出去](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279136&idx=1&sn=0c7d1f5614ba41ba9adea0c6e6157cbf&chksm=bc8f095f6c66dd5f5df662979be0b152c2fcd0985591816dd93992202d9e14fbab9a7968cb3d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7599c26f96e3e3a4b7c7375e13d86ba)  
 - [2026-05-20-【第3702期】Agent-Skills-原理及其在中后台页面中的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279131&idx=1&sn=ecfe33a6fbad7250057e2576ce8d1fe7&chksm=bcd7d5c111b7dbcc5e92e19bc47a0377beae25914ec710259849c5a3ddd0247bb0df751ce191&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c7d724d09311d3d23d9cd76ea0a37020)  
 - [2026-05-19-【第3701期】告别-React，拥抱原生：借助-nanotags-完成迁移节省-100-KB](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279109&idx=1&sn=18b0cb0d03d5d426758cd64c42c005fc&chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da9e7edea645eed98c8a7d1a416a4d52)  
-- [2026-05-18-【第3700期】善用-Codex-goal模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279104&idx=1&sn=0b6e868589db3255c3ce97129f8e533d&chksm=bc34183706bf57bba7c2a4b06ea74a433bc6e9efe940806bc74901c2860820defc24d1b1a3a5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a22c2b506b6f8349802bf70bfffdbf90)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -303,6 +303,7 @@
 </summary>
 
 
+- [2026-05-27-从人机协作到AI主导：我们是怎么把代码质量交给“数字SRE”的？](http://mp.weixin.qq.com/s/jBXkp2Fz4hpcTEyBl6RwZg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ceccf4c517ee20f0793fcc993a638a44)  ![](/assets/new.png) 
 - [2026-05-25-万级实时推理的商品领域Agent实践思考和总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543633&idx=1&sn=076f88d30fe724c90899196daae7cd9d&chksm=8390de09b4e7571f099f3145d219bedec263555cc21ef1e91165f31a3953e29b6a93e2bfe02e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4d1aeb076cee8dc884f79c5a6b6d1972)  
 - [2026-05-22-浏览器自动化：从GUI到OpenCLI](http://mp.weixin.qq.com/s/hp8yj2_qc2MmCi1jYpfx5g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=04e7ef71773433bc7f14c26ee5b7c8e6)  
 - [2026-05-20-TLiveOmni-1.0:-直播视频多模态理解大模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543551&idx=1&sn=1c54bcc7ec88c7e19655ae7a299cdf2e&chksm=8390dda7b4e754b1c8c8defeee65bbc9b2f175b4f8b0edc42b02e9301fd6f509afb188becf73#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f75ef602788cd86edfaaa072a21569ed)  
@@ -312,7 +313,6 @@
 - [2026-05-11-缓存使用实践总结：以淘宝交易结算场景为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543415&idx=1&sn=7fbf20f7e85a9e76d205fddb5887272f&chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a6db90db9e6db45b0b417ad0f6672297)  
 - [2026-05-08-天猫新品团队AI编码实战指南（下）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543388&idx=1&sn=7c5a8274283f465c9c7d01da938afda1&chksm=8390dd04b4e75412e1247d2c4f23d1adbeb05c7d5c3f39664cb62072ccaf19dc0db018dea3d1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d566dbd4131296ff3ba1b242155e79cb)  
 - [2026-05-06-天猫新品营销技术团队AI编码实战指南（上）](http://mp.weixin.qq.com/s/cMEwc2l9-MhI_asvL-AkxA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1052cd04f102c07b7c66499df5801cf3)  
-- [2026-04-29-面向电商直播场景的全模态大模型推理加速方案](http://mp.weixin.qq.com/s/zdo09vHJV3ItVSL8PT5tmw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=702dc80ffc54ac5c23fe0dddc5ae1e7e)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -324,6 +324,7 @@
 </summary>
 
 
+- [2026-05-29-新特性速递：focus行为新增focusVisible控制](https://www.zhangxinxu.com/wordpress/2026/05/js-focus-focusvisible/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95ac667c89f8671180ce90248a267fac)  ![](/assets/new.png) 
 - [2026-05-25-1分钟速度了解text-align-match-parent声明](https://www.zhangxinxu.com/wordpress/2026/05/css-text-align-match-parent/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2f264dd47962c57aec9d15d267ca7519)  
 - [2026-05-18-光标的形状也能设置了，就是CSS-caret-shape属性](https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e54624944b656be9b339715536bdd9a6)  
 - [2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8720eabc63cbc79d1333be9882c0eacb)  
@@ -333,7 +334,6 @@
 - [2026-04-13-务必谨慎使用JS-WeakRef弱引用](https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b986a77b92f02b53098b1a75459a6ead)  
 - [2026-04-07-CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d8c3aaf3f424b639a6bbbf6c48cff1c)  
 - [2026-03-30-CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e8e5062081b938e9e4df67bf38cc395)  
-- [2026-03-17-浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5d45f581f6b0f5577946686c52eb8c3)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -345,7 +345,7 @@
 </summary>
 
 
-- [2026-05-29-科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a43bfae8cebc5f5550749895b8e45ff7)  ![](/assets/new.png) 
+- [2026-05-29-科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a43bfae8cebc5f5550749895b8e45ff7)  
 - [2026-05-22-科技爱好者周刊（第-397-期）：财富正在向-AI-集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=debddd5d63c6416087610aaede13adb8)  
 - [2026-05-15-科技爱好者周刊（第-396-期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=39823b46233af9171f7b74ff5d8c2d28)  
 - [2026-05-08-科技爱好者周刊（第-395-期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b7b54e1d747275184444d2a345327d4f)  
