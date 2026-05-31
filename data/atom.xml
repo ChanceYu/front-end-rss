@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-31T02:07:56.511Z</updated>
+    <updated>2026-05-31T07:37:20.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,32 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[从定制Workflow到AI自主决策的架构演进——以TMIC AI小新为例]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543765&amp;idx=1&amp;sn=4961784aef454d7fc2bf45e57a901431&amp;chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543765&amp;idx=1&amp;sn=4961784aef454d7fc2bf45e57a901431&amp;chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd"/>
+        <updated>2026-05-29T00:00:00.000Z</updated>
+        <published>2026-05-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 产品从 Demo 到上线，中间隔着 24 个坑]]></title>
+        <id>http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg</id>
+        <link href="http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg"/>
+        <updated>2026-05-29T00:00:00.000Z</updated>
+        <published>2026-05-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3707期】Node.js 流泄漏的生产实战手册]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279180&amp;idx=1&amp;sn=617062faa7a92a87c7321721d169c5ca&amp;chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279180&amp;idx=1&amp;sn=617062faa7a92a87c7321721d169c5ca&amp;chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&amp;scene=0#rd"/>
         <updated>2026-05-29T00:00:00.000Z</updated>
         <published>2026-05-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[68K Star！前端动效神器升级，复杂动画终于不用硬写了]]></title>
+        <id>http://mp.weixin.qq.com/s/GYFM0GVKm5MCbhlVj4i6iA</id>
+        <link href="http://mp.weixin.qq.com/s/GYFM0GVKm5MCbhlVj4i6iA"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <published>2026-05-28T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3706期】Node.js Stream 没有在做背压控制，正在悄悄吃掉内存]]></title>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw"/>
         <updated>2026-05-13T00:00:00.000Z</updated>
         <published>2026-05-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3697期】Claude Code 自动记忆功能详解：告别重复交代，让 AI 记住你的项目]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279074&amp;idx=1&amp;sn=b2e523cedefdde4cc76c44101be80210&amp;chksm=bcce0d639516b6fe0d30ca085508032711a9f1bb339943ffd55ef232e68a96fa900f5b93fa3c&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279074&amp;idx=1&amp;sn=b2e523cedefdde4cc76c44101be80210&amp;chksm=bcce0d639516b6fe0d30ca085508032711a9f1bb339943ffd55ef232e68a96fa900f5b93fa3c&amp;scene=0#rd"/>
-        <updated>2026-05-13T00:00:00.000Z</updated>
-        <published>2026-05-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun 刚试着投奔 Rust，Vercel 转头用 Zig 造了个 ZeroNative]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523488&amp;idx=1&amp;sn=582bc83c0c84a0bf7404a5762d64a32f&amp;chksm=e80fd3eedf785af87d5b856a9add2e55fdb53e595a7512db060d81ddabc74efbd1bfca748e97#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523488&amp;idx=1&amp;sn=582bc83c0c84a0bf7404a5762d64a32f&amp;chksm=e80fd3eedf785af87d5b856a9add2e55fdb53e595a7512db060d81ddabc74efbd1bfca748e97#rd"/>
-        <updated>2026-05-12T00:00:00.000Z</updated>
-        <published>2026-05-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3696期】Github：差异对比行的性能攀登之路]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279063&amp;idx=1&amp;sn=e13575e9dc5154706b28ad835abe6fc5&amp;chksm=bce37a93bd4182224d88720c359adff418f9c0507a2ae68abcda9f95c871e53da0d9ca464709&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279063&amp;idx=1&amp;sn=e13575e9dc5154706b28ad835abe6fc5&amp;chksm=bce37a93bd4182224d88720c359adff418f9c0507a2ae68abcda9f95c871e53da0d9ca464709&amp;scene=0#rd"/>
-        <updated>2026-05-12T00:00:00.000Z</updated>
-        <published>2026-05-12T00:00:00.000Z</published>
     </entry>
 </feed>
