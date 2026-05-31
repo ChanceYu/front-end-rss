@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-29 19:18:08，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-31 10:08:36，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -26,8 +26,8 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -36,8 +36,8 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2026-05-29-【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815)  ![](/assets/new.png) 
+- [2026-05-29-【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815)  
 - [2026-05-28-【第3706期】Node.js-Stream-没有在做背压控制，正在悄悄吃掉内存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279174&idx=1&sn=8b6d812bae24d88634f0fb0ec25c3422&chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d52d7c0978cb6bbf0bf6a8f549349640)  
 - [2026-05-27-【图书】Trae与AI-Agent协作实战：多智能体AI编程全栈指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=2&sn=8b198de0e6651997f01745b58dba4a42&chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90780a7c30e01156eb0bb6e1be40fb78)  
 - [2026-05-27-【早说】AI让你更快，却未必让你更强](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=1&sn=4f47ccfe47e4476bdf5c9b34faa649ec&chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e67356b8289ff9027845fde5dc3539e)  
@@ -114,6 +114,9 @@
 </summary>
 
 
+- [2026-05-29-苹果憋了-5-年！MacBook-Pro-史诗级大改，触控屏终于来了](http://mp.weixin.qq.com/s/sRsQakQkuLrJYYjdG9Zoxg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4129c46594ef779c44a8bd8c970fafed)  ![](/assets/new.png) 
+- [2026-05-28-阿里薪酬大调整！取消“13-薪”，改为“并肩前行年奖”](http://mp.weixin.qq.com/s/HElIGq4sy-faI81HSUbz0A)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f8b0585928f5e9bd7925387f7e477ff)  ![](/assets/new.png) 
+- [2026-05-28-马斯克转发的这张梗图，藏着工程界最朴素的真理](http://mp.weixin.qq.com/s/L1C1szzHljQh5PlbrqQ9eg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cada6236b26015d6c703605b86064c89)  ![](/assets/new.png) 
 - [2026-05-27-最高年费-5088！豆包收费让网友炸锅了，人民日报发声定调](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624488&idx=1&sn=ae8487f4f8fd56b6dfa552240e5f8ccc&chksm=802243e9b755caffef6b1fcfc283ac7ae52ff454d7dd5d5af21db6face6f4175097e704c1218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d134c9f73909bde43ca092aea1bc35d6)  
 - [2026-05-26-被裁程序员吐槽：Meta-是我见过最有毒的公司。我所在部门-90%-是华裔，日常沟通普通话，非华裔常遭排挤](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624480&idx=1&sn=0165be95de97a3efcbb5374c1f3de08d&chksm=802243e1b755caf76bf026b9c8af6098430118def9028a5e67b43055c6bb91c694c15da49b25#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=888653598030f95f9c7fd7a96344596c)  
 - [2026-05-25-歌手胡彦斌居然也在-vibe-coding-了，而是随地大小修-bug-的那种。网友：来抢程序员饭碗了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624473&idx=1&sn=cd8039723bf2d3ad63eaee5cac4f17ec&chksm=802243d8b755cace82b6726ba479277538ee39095b445a1a0c51d693ad401124ed358637009f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=03984f765af71f727a0118adbb263d69)  
@@ -121,9 +124,6 @@
 - [2026-05-21-前端圈炸了！AntV、VS-Code-插件同时被投毒！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624455&idx=1&sn=b14d868250a86ca7856cab59bd60947a&chksm=802243c6b755cad02fcf30b6c70ab1fbdfe523058bae8682deaba429b2d6355f4d61c28f0abf#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7001cac751695b7e32b5e9ffeb9ff9b)  
 - [2026-05-20-3-个校友捐赠-20-亿-Token。网友吐槽：捐出-20-亿元的气势。校方：不在乎值多少钱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624441&idx=1&sn=ab89663b8f90168a9f640988c25cc501&chksm=80224438b755cd2e73e9634b6bf2a9283d6de8338cbb90d94fa85a68ee19a0dbbfb9195b9295#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9e7d119aa5f53539d3b4eada33eb5048)  
 - [2026-05-19-被开除5分钟后，34岁工程师一口气删掉96个“国家级数据库”，转头问AI：日志怎么清？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624430&idx=1&sn=d74ecfc7f4ca4f48e86fd6540636ff91&chksm=8022442fb755cd39d9f6c396be6b95a865e617a89f5cca357c159b12794b6f5bcc73ce9e4d04#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6d8a6c919ad243d552644ba5d9210f65)  
-- [2026-05-18-“10周的工作量，AI只用4天！”Anthropic发布会全程实录：你引以为傲的复杂工程，在模型眼里只是个玩具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624424&idx=1&sn=87c0495e54bba7785820b545f3fe67ec&chksm=80224429b755cd3f54ec11ffa1556b4116fbd5acdf14bcc8c821e40b52a2c80584c9d2cb3fbb#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=12b5000b1c461911bd90de418173a5c5)  
-- [2026-05-13-Markdown要凉…卡帕西也站HTML了](http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e25d2a30b26374b6c0e50068f6efe3fe)  
-- [2026-05-09-最近，前端的招聘市场已经疯掉了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624408&idx=1&sn=f83a90a45702d2e60456f15e6b68deba&chksm=80224419b755cd0f5b96bbacf4f7d61d3b9c1c2214449c0f9978310e7b529bc1df6caa7f755d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bab885b855deaa8ef95b731aa3d6eb3)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-05-27-从人机协作到AI主导：我们是怎么把代码质量交给“数字SRE”的？](http://mp.weixin.qq.com/s/jBXkp2Fz4hpcTEyBl6RwZg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ceccf4c517ee20f0793fcc993a638a44)  ![](/assets/new.png) 
+- [2026-05-27-从人机协作到AI主导：我们是怎么把代码质量交给“数字SRE”的？](http://mp.weixin.qq.com/s/jBXkp2Fz4hpcTEyBl6RwZg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ceccf4c517ee20f0793fcc993a638a44)  
 - [2026-05-25-万级实时推理的商品领域Agent实践思考和总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543633&idx=1&sn=076f88d30fe724c90899196daae7cd9d&chksm=8390de09b4e7571f099f3145d219bedec263555cc21ef1e91165f31a3953e29b6a93e2bfe02e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4d1aeb076cee8dc884f79c5a6b6d1972)  
 - [2026-05-22-浏览器自动化：从GUI到OpenCLI](http://mp.weixin.qq.com/s/hp8yj2_qc2MmCi1jYpfx5g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=04e7ef71773433bc7f14c26ee5b7c8e6)  
 - [2026-05-20-TLiveOmni-1.0:-直播视频多模态理解大模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543551&idx=1&sn=1c54bcc7ec88c7e19655ae7a299cdf2e&chksm=8390dda7b4e754b1c8c8defeee65bbc9b2f175b4f8b0edc42b02e9301fd6f509afb188becf73#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f75ef602788cd86edfaaa072a21569ed)  
@@ -324,7 +324,7 @@
 </summary>
 
 
-- [2026-05-29-新特性速递：focus行为新增focusVisible控制](https://www.zhangxinxu.com/wordpress/2026/05/js-focus-focusvisible/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95ac667c89f8671180ce90248a267fac)  ![](/assets/new.png) 
+- [2026-05-29-新特性速递：focus行为新增focusVisible控制](https://www.zhangxinxu.com/wordpress/2026/05/js-focus-focusvisible/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95ac667c89f8671180ce90248a267fac)  
 - [2026-05-25-1分钟速度了解text-align-match-parent声明](https://www.zhangxinxu.com/wordpress/2026/05/css-text-align-match-parent/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2f264dd47962c57aec9d15d267ca7519)  
 - [2026-05-18-光标的形状也能设置了，就是CSS-caret-shape属性](https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e54624944b656be9b339715536bdd9a6)  
 - [2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8720eabc63cbc79d1333be9882c0eacb)  

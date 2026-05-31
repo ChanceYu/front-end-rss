@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-29 19:18:08。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-31 10:08:36。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -586,14 +586,14 @@
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a43bfae8cebc5f5550749895b8e45ff7)
 - [【张鑫旭-鑫空间-鑫生活】新特性速递：focus行为新增focusVisible控制](https://www.zhangxinxu.com/wordpress/2026/05/js-focus-focusvisible/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95ac667c89f8671180ce90248a267fac)
+- [【前端大全】苹果憋了-5-年！MacBook-Pro-史诗级大改，触控屏终于来了](http://mp.weixin.qq.com/s/sRsQakQkuLrJYYjdG9Zoxg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4129c46594ef779c44a8bd8c970fafed)
 - [【前端早读课】【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815)
+- [【前端大全】马斯克转发的这张梗图，藏着工程界最朴素的真理](http://mp.weixin.qq.com/s/L1C1szzHljQh5PlbrqQ9eg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cada6236b26015d6c703605b86064c89)
+- [【前端大全】阿里薪酬大调整！取消“13-薪”，改为“并肩前行年奖”](http://mp.weixin.qq.com/s/HElIGq4sy-faI81HSUbz0A)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f8b0585928f5e9bd7925387f7e477ff)
 - [【前端早读课】【第3706期】Node.js-Stream-没有在做背压控制，正在悄悄吃掉内存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279174&idx=1&sn=8b6d812bae24d88634f0fb0ec25c3422&chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d52d7c0978cb6bbf0bf6a8f549349640)
 - [【Node-Weekly】Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcdb2c41a5b103b112ece1664296629b)
 - [【Nodejs技术栈】一个人做宣传片、写游戏、盯热点？实测这个“全干版AI专家”三天全搞定](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523699&idx=1&sn=5ab270cdf167031f779eecc279099637&chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=71cf504e2b226f5e1f73b6d315ba52d2)
 - [【淘系前端团队】从人机协作到AI主导：我们是怎么把代码质量交给“数字SRE”的？](http://mp.weixin.qq.com/s/jBXkp2Fz4hpcTEyBl6RwZg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ceccf4c517ee20f0793fcc993a638a44)
-- [【前端大全】最高年费-5088！豆包收费让网友炸锅了，人民日报发声定调](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624488&idx=1&sn=ae8487f4f8fd56b6dfa552240e5f8ccc&chksm=802243e9b755caffef6b1fcfc283ac7ae52ff454d7dd5d5af21db6face6f4175097e704c1218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d134c9f73909bde43ca092aea1bc35d6)
-- [【前端早读课】【早说】AI让你更快，却未必让你更强](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=1&sn=4f47ccfe47e4476bdf5c9b34faa649ec&chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e67356b8289ff9027845fde5dc3539e)
-- [【前端早读课】【图书】Trae与AI-Agent协作实战：多智能体AI编程全栈指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=2&sn=8b198de0e6651997f01745b58dba4a42&chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90780a7c30e01156eb0bb6e1be40fb78)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
