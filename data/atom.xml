@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-01T15:45:21.857Z</updated>
+    <updated>2026-06-01T20:09:13.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[CSS contrast-color()函数简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/"/>
+        <updated>2026-06-01T00:00:00.000Z</updated>
+        <published>2026-06-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向 LLM 的架构设计：什么是真正的 AI Friendly 架构？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543768&amp;idx=1&amp;sn=b1c0207772c8a6d9550815a6afc01bf4&amp;chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543768&amp;idx=1&amp;sn=b1c0207772c8a6d9550815a6afc01bf4&amp;chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd"/>
         <updated>2026-06-01T00:00:00.000Z</updated>
         <published>2026-06-01T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3698期】AI可观测性：大语言模型与智能体的全链路透视]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279085&amp;idx=1&amp;sn=5d37952256d053f8cfd2ca80abfc9fb7&amp;chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279085&amp;idx=1&amp;sn=5d37952256d053f8cfd2ca80abfc9fb7&amp;chksm=bce2c9a5ded9d8ef358989140f92fb7a6cbff6f8b849421831bc11596a5e6dfd05f5df65f107&amp;scene=0#rd"/>
-        <updated>2026-05-14T00:00:00.000Z</updated>
-        <published>2026-05-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's go deep into Node's internals]]></title>
-        <id>https://nodeweekly.com/issues/624</id>
-        <link href="https://nodeweekly.com/issues/624"/>
         <updated>2026-05-14T00:00:00.000Z</updated>
         <published>2026-05-14T00:00:00.000Z</published>
     </entry>
