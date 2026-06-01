@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-01T09:09:31.028Z</updated>
+    <updated>2026-06-01T15:45:21.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS contrast-color()函数简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/"/>
+        <updated>2026-06-01T00:00:00.000Z</updated>
+        <published>2026-06-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3708期】智能体引擎优化：当AI成为你文档的头号读者]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279185&amp;idx=1&amp;sn=aa66b7e38286abae9ed971c57f6aa41c&amp;chksm=bc76b09caf42c10b68859c73a37d8b077b843a8073364b999720dc11c30ae4b45d2c769e95b5&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279185&amp;idx=1&amp;sn=aa66b7e38286abae9ed971c57f6aa41c&amp;chksm=bc76b09caf42c10b68859c73a37d8b077b843a8073364b999720dc11c30ae4b45d2c769e95b5&amp;scene=0#rd"/>
+        <updated>2026-06-01T00:00:00.000Z</updated>
+        <published>2026-06-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英伟达 + Arm + Windows：PC 新时代来了]]></title>
         <id>http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw</id>
@@ -78,16 +92,16 @@
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】AI让你更快，却未必让你更强]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】Trae与AI Agent协作实战：多智能体AI编程全栈指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】Trae与AI Agent协作实战：多智能体AI编程全栈指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【早说】AI让你更快，却未必让你更强]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://nodeweekly.com/issues/624"/>
         <updated>2026-05-14T00:00:00.000Z</updated>
         <published>2026-05-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Generated UI 技术深度解析：模型流式输出与 UI 渲染实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543420&amp;idx=1&amp;sn=76ea38246b7ca484a7b6aab94076fdbd&amp;chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543420&amp;idx=1&amp;sn=76ea38246b7ca484a7b6aab94076fdbd&amp;chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd"/>
-        <updated>2026-05-13T00:00:00.000Z</updated>
-        <published>2026-05-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG 向量检索，90% 的人都搞错了这 3 个概念]]></title>
-        <id>http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA</id>
-        <link href="http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA"/>
-        <updated>2026-05-13T00:00:00.000Z</updated>
-        <published>2026-05-13T00:00:00.000Z</published>
     </entry>
 </feed>
