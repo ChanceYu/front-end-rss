@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-31T07:37:20.430Z</updated>
+    <updated>2026-06-01T09:09:31.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[英伟达 + Arm + Windows：PC 新时代来了]]></title>
+        <id>http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw</id>
+        <link href="http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw"/>
+        <updated>2026-05-31T00:00:00.000Z</updated>
+        <published>2026-05-31T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从定制Workflow到AI自主决策的架构演进——以TMIC AI小新为例]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543765&amp;idx=1&amp;sn=4961784aef454d7fc2bf45e57a901431&amp;chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[RAG 向量检索，90% 的人都搞错了这 3 个概念]]></title>
         <id>http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA</id>
         <link href="http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA"/>
-        <updated>2026-05-13T00:00:00.000Z</updated>
-        <published>2026-05-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markdown要凉…卡帕西也站HTML了]]></title>
-        <id>http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw</id>
-        <link href="http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw"/>
         <updated>2026-05-13T00:00:00.000Z</updated>
         <published>2026-05-13T00:00:00.000Z</published>
     </entry>
