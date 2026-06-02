@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-02 16:18:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-03 01:58:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2026-06-02-【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b) 
+- [2026-06-02-How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7610eac06ab378ac827599e733631f3c) 
 - [2026-06-01-CSS-contrast-color函数简介](https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c47788cbcecd2d58b7d53dcec9aa245a) 
 - [2026-06-01-面向-LLM-的架构设计：什么是真正的-AI-Friendly-架构？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543768&idx=1&sn=b1c0207772c8a6d9550815a6afc01bf4&chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=904ed82e2c17d8ba322575ae2f819f6e) 
 - [2026-06-01-别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da) 

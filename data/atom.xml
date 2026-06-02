@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-02T08:18:24.164Z</updated>
+    <updated>2026-06-02T17:58:29.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3709期】React 常见设计模式完全指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279190&amp;idx=1&amp;sn=a17eb52f2d87ebc824ef76d8200725e7&amp;chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279190&amp;idx=1&amp;sn=a17eb52f2d87ebc824ef76d8200725e7&amp;chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&amp;scene=0#rd"/>
+        <updated>2026-06-02T00:00:00.000Z</updated>
+        <published>2026-06-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to vet an npm package in 2026]]></title>
+        <id>https://javascriptweekly.com/issues/788</id>
+        <link href="https://javascriptweekly.com/issues/788"/>
         <updated>2026-06-02T00:00:00.000Z</updated>
         <published>2026-06-02T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面向智能导购的Agent评测实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543468&amp;idx=1&amp;sn=f87e00d562d95669959e6690436c3df0&amp;chksm=8390dd74b4e75462d23809c38a201c20011a01ea7c6a53fb3d83173a7dc70f2c24ba55f4155c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543468&amp;idx=1&amp;sn=f87e00d562d95669959e6690436c3df0&amp;chksm=8390dd74b4e75462d23809c38a201c20011a01ea7c6a53fb3d83173a7dc70f2c24ba55f4155c#rd"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <published>2026-05-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3699期】Karpathy的4条规则让Claude出错率骤降，但还不够。Mnimiy又加了8条]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279093&amp;idx=1&amp;sn=f024641d6b041365cded1666a809a875&amp;chksm=bc1579337494e675c59ea31ae7cc889467ad907c3b891c58adf6eb649b3444a0b907fe6992a7&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279093&amp;idx=1&amp;sn=f024641d6b041365cded1666a809a875&amp;chksm=bc1579337494e675c59ea31ae7cc889467ad907c3b891c58adf6eb649b3444a0b907fe6992a7&amp;scene=0#rd"/>
         <updated>2026-05-15T00:00:00.000Z</updated>
         <published>2026-05-15T00:00:00.000Z</published>
     </entry>

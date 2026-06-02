@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-02 16:18:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-03 01:58:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -25,12 +25,12 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2026-06-02-How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7610eac06ab378ac827599e733631f3c)  ![](/assets/new.png) 
 - [2026-05-26-npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6cda4d37774fb94444321edfe4093a58)  
 - [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1917476702340e9caf1105227e054071)  
 - [2026-05-12-Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efe790c4af335598033df5bf66f2ebf4)  
@@ -81,7 +82,6 @@
 - [2026-04-14-MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b840a6adba863fcd1146306453fc4314)  
 - [2026-04-07-What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aafd5aee5b247137a4ebb770a7324a8f)  
 - [2026-03-31-A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a38f983bf5b0be6c9bef393b01c22eca)  
-- [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d0951a7d0cbc423bd09580c6dc93539d)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2026-06-02-【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b)  ![](/assets/new.png) 
+- [2026-06-02-【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b)  
 - [2026-06-01-【第3708期】智能体引擎优化：当AI成为你文档的头号读者](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279185&idx=1&sn=aa66b7e38286abae9ed971c57f6aa41c&chksm=bc76b09caf42c10b68859c73a37d8b077b843a8073364b999720dc11c30ae4b45d2c769e95b5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9730e8d2d5356310d70cb846df50e6d6)  
 - [2026-05-29-【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815)  
 - [2026-05-28-【第3706期】Node.js-Stream-没有在做背压控制，正在悄悄吃掉内存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279174&idx=1&sn=8b6d812bae24d88634f0fb0ec25c3422&chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d52d7c0978cb6bbf0bf6a8f549349640)  
@@ -177,7 +177,7 @@
 </summary>
 
 
-- [2026-06-01-别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)  ![](/assets/new.png) 
+- [2026-06-01-别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)  
 - [2026-05-29-AI-产品从-Demo-到上线，中间隔着-24-个坑](http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5389eb3d7e55a3ea0f4f3f8608d04330)  
 - [2026-05-28-68K-Star！前端动效神器升级，复杂动画终于不用硬写了](http://mp.weixin.qq.com/s/GYFM0GVKm5MCbhlVj4i6iA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c2f24533b15804d6ba0a441d44662bfb)  
 - [2026-05-25-前端转全栈别乱学：15-个-Node.js-高质量资源推荐，按能力地图整理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529859&idx=1&sn=328851a5bacdebc05ef0adfa57ee5db4&chksm=f9927352cee5fa444b23f9cb75fbc39e356cb8812a05232fafdf00b5504f51db6c36d3e9c30e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=961533c6ef1ab8bb3708cfc15e22343b)  

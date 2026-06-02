@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-02 16:18:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-03 01:58:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-02-How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7610eac06ab378ac827599e733631f3c) 
 - [2026-05-26-npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6cda4d37774fb94444321edfe4093a58) 
 - [2026-05-12-Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efe790c4af335598033df5bf66f2ebf4) 
 - [2026-05-08-Rolldown-1.0-正式发布！比-Rollup-快-30-倍，周下载量已破-2000-万](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523454&idx=1&sn=cdc896d65304d1d40a0cb56a7945cfa3&chksm=e80fd330df785a266964cd24210a5b65cebc5a733feb2a575df02a4cbddb94befd18e62c0f81#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7c4c060b000cd8c7320b059659a239e7) 

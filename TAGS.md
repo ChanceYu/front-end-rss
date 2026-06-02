@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-02 16:18:55。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-03 01:58:41。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -248,6 +248,7 @@
 
 
 
+- [【JavaScript-Weekly】How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7610eac06ab378ac827599e733631f3c)
 - [【JavaScript-Weekly】npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6cda4d37774fb94444321edfe4093a58)
 - [【JavaScript-Weekly】Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efe790c4af335598033df5bf66f2ebf4)
 - [【Nodejs技术栈】Rolldown-1.0-正式发布！比-Rollup-快-30-倍，周下载量已破-2000-万](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523454&idx=1&sn=cdc896d65304d1d40a0cb56a7945cfa3&chksm=e80fd330df785a266964cd24210a5b65cebc5a733feb2a575df02a4cbddb94befd18e62c0f81#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7c4c060b000cd8c7320b059659a239e7)
@@ -257,7 +258,6 @@
 - [【前端从进阶到入院】尤雨溪赢麻了：Codex、Claude-Code-全在用-Vite8-这套工具链！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517589&idx=1&sn=d6b5469af78a9c8f21f3d87d37d5e9b0&chksm=eb07bdecdc7034faef021a4fe079261ce1c5bb5bb67ea0334722a653b958fbd1466fa0a1946d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f40e1ec2b2d43d035c0058571001eb0b)
 - [【JavaScript-Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a38f983bf5b0be6c9bef393b01c22eca)
 - [【前端从进阶到入院】刚刚，Vite-两个新工具发布！Webpack-完！](http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2235194d632f5ccd6d92556e4123dca2)
-- [【程序员成长指北】别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s/hEBK6mHO5nM5Sm8MWEmQWQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3c42bde4e9133a33914dcc292053b348)
 - [查看更多 >](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,7 @@
 
 
 - [【前端早读课】【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b)
+- [【JavaScript-Weekly】How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7610eac06ab378ac827599e733631f3c)
 - [【张鑫旭-鑫空间-鑫生活】CSS-contrast-color函数简介](https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c47788cbcecd2d58b7d53dcec9aa245a)
 - [【淘系前端团队】面向-LLM-的架构设计：什么是真正的-AI-Friendly-架构？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543768&idx=1&sn=b1c0207772c8a6d9550815a6afc01bf4&chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=904ed82e2c17d8ba322575ae2f819f6e)
 - [【程序员成长指北】别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)
@@ -593,7 +594,6 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a43bfae8cebc5f5550749895b8e45ff7)
 - [【张鑫旭-鑫空间-鑫生活】新特性速递：focus行为新增focusVisible控制](https://www.zhangxinxu.com/wordpress/2026/05/js-focus-focusvisible/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95ac667c89f8671180ce90248a267fac)
 - [【淘系前端团队】从定制Workflow到AI自主决策的架构演进——以TMIC-AI小新为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543765&idx=1&sn=4961784aef454d7fc2bf45e57a901431&chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=709ce084e06772ca2793ca5f5910e51d)
-- [【程序员成长指北】AI-产品从-Demo-到上线，中间隔着-24-个坑](http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5389eb3d7e55a3ea0f4f3f8608d04330)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
