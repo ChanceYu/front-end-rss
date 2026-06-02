@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-02 04:09:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-02 16:18:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -26,17 +26,17 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -93,16 +93,16 @@
 </summary>
 
 
+- [2026-06-02-【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b)  ![](/assets/new.png) 
 - [2026-06-01-【第3708期】智能体引擎优化：当AI成为你文档的头号读者](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279185&idx=1&sn=aa66b7e38286abae9ed971c57f6aa41c&chksm=bc76b09caf42c10b68859c73a37d8b077b843a8073364b999720dc11c30ae4b45d2c769e95b5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9730e8d2d5356310d70cb846df50e6d6)  
 - [2026-05-29-【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815)  
 - [2026-05-28-【第3706期】Node.js-Stream-没有在做背压控制，正在悄悄吃掉内存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279174&idx=1&sn=8b6d812bae24d88634f0fb0ec25c3422&chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d52d7c0978cb6bbf0bf6a8f549349640)  
-- [2026-05-27-【早说】AI让你更快，却未必让你更强](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=1&sn=4f47ccfe47e4476bdf5c9b34faa649ec&chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e67356b8289ff9027845fde5dc3539e)  
 - [2026-05-27-【图书】Trae与AI-Agent协作实战：多智能体AI编程全栈指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=2&sn=8b198de0e6651997f01745b58dba4a42&chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90780a7c30e01156eb0bb6e1be40fb78)  
+- [2026-05-27-【早说】AI让你更快，却未必让你更强](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=1&sn=4f47ccfe47e4476bdf5c9b34faa649ec&chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e67356b8289ff9027845fde5dc3539e)  
 - [2026-05-26-【第3705期】让-Codex-物尽其用：从编程助手到全能工作系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279159&idx=1&sn=40f71ba2ace9c79fcf04a7a767999b3c&chksm=bc81ce6d02efe440257300115f877cb897e9f7df0a97d239185276bb0b55c94686f973be37f5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8b24a569f6fa07029cd486c5d04d0a1b)  
 - [2026-05-25-【第3704期】谁来掌控组件树？重新理解-RSC-的本质](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279147&idx=1&sn=7bd6cb65bb2e0f521aa8b3ca3c7d2a13&chksm=bc82ad507e9cacd289ac977c40cd313980a83e572fa01d7ae7f2c8efeaa8a4c584db63a9ca96&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=632baacd4253ff72cbc208aec4c7cce9)  
 - [2026-05-22-【第3703期】VAPD-AgentKit：可组合-Agent-前端通用库实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279143&idx=1&sn=6831c62577f2dbc9b82caec3b58c5c9c&chksm=bc98f8ea296d11badc44e3384b2251c74e9ee25ea68525974ad7e829d2a06339d4474a8fe199&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d3d521c1f784024cbdfd180e32ab0d5)  
 - [2026-05-21-【早说】不要将学习外包出去](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279136&idx=1&sn=0c7d1f5614ba41ba9adea0c6e6157cbf&chksm=bc8f095f6c66dd5f5df662979be0b152c2fcd0985591816dd93992202d9e14fbab9a7968cb3d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7599c26f96e3e3a4b7c7375e13d86ba)  
-- [2026-05-20-【第3702期】Agent-Skills-原理及其在中后台页面中的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279131&idx=1&sn=ecfe33a6fbad7250057e2576ce8d1fe7&chksm=bcd7d5c111b7dbcc5e92e19bc47a0377beae25914ec710259849c5a3ddd0247bb0df751ce191&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c7d724d09311d3d23d9cd76ea0a37020)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -177,6 +177,7 @@
 </summary>
 
 
+- [2026-06-01-别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)  ![](/assets/new.png) 
 - [2026-05-29-AI-产品从-Demo-到上线，中间隔着-24-个坑](http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5389eb3d7e55a3ea0f4f3f8608d04330)  
 - [2026-05-28-68K-Star！前端动效神器升级，复杂动画终于不用硬写了](http://mp.weixin.qq.com/s/GYFM0GVKm5MCbhlVj4i6iA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c2f24533b15804d6ba0a441d44662bfb)  
 - [2026-05-25-前端转全栈别乱学：15-个-Node.js-高质量资源推荐，按能力地图整理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529859&idx=1&sn=328851a5bacdebc05ef0adfa57ee5db4&chksm=f9927352cee5fa444b23f9cb75fbc39e356cb8812a05232fafdf00b5504f51db6c36d3e9c30e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=961533c6ef1ab8bb3708cfc15e22343b)  
@@ -186,7 +187,6 @@
 - [2026-05-14-用了几周明基-RD280UG，我终于明白程序员为什么需要一台“专用显示器”](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529815&idx=1&sn=a2d66cffd74e5158eec2a4f111305f22&chksm=f9927386cee5fa90085e6aedd5c099865e14538ca422c7e08286db85a0bba948f88c7ee3c7c3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b7359290ccdaced3ae0aac9e2f0770f4)  
 - [2026-05-13-RAG-向量检索，90%-的人都搞错了这-3-个概念](http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=afc7c111d807bdc1ceec8f5abcda9686)  
 - [2026-05-11-为什么你让-AI-写的-Skill-总是不好用？这个官方工具给出了答案](http://mp.weixin.qq.com/s/wDnRngMmzBgSb1y0Zl-VdA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1cda1eb12674441f1f1613ce7947608f)  
-- [2026-05-08-Cursor-官方偷偷用了-2-年的内部工作流，现在全部开源了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529765&idx=1&sn=387ffd1321d825fd5caaf7ce1e6db1c7&chksm=f99273f4cee5fae24cd073c2c0adad52f06dbffd3c5cddb25a739481d90ef2c44b620bd6fe74#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=097a9d970098b92a7507d08a44011be1)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-06-01-面向-LLM-的架构设计：什么是真正的-AI-Friendly-架构？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543768&idx=1&sn=b1c0207772c8a6d9550815a6afc01bf4&chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=904ed82e2c17d8ba322575ae2f819f6e)  ![](/assets/new.png) 
+- [2026-06-01-面向-LLM-的架构设计：什么是真正的-AI-Friendly-架构？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543768&idx=1&sn=b1c0207772c8a6d9550815a6afc01bf4&chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=904ed82e2c17d8ba322575ae2f819f6e)  
 - [2026-05-29-从定制Workflow到AI自主决策的架构演进——以TMIC-AI小新为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543765&idx=1&sn=4961784aef454d7fc2bf45e57a901431&chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=709ce084e06772ca2793ca5f5910e51d)  
 - [2026-05-27-从人机协作到AI主导：我们是怎么把代码质量交给“数字SRE”的？](http://mp.weixin.qq.com/s/jBXkp2Fz4hpcTEyBl6RwZg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ceccf4c517ee20f0793fcc993a638a44)  
 - [2026-05-25-万级实时推理的商品领域Agent实践思考和总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543633&idx=1&sn=076f88d30fe724c90899196daae7cd9d&chksm=8390de09b4e7571f099f3145d219bedec263555cc21ef1e91165f31a3953e29b6a93e2bfe02e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4d1aeb076cee8dc884f79c5a6b6d1972)  
