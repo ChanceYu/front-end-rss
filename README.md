@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-03 01:58:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-03 04:41:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -25,9 +25,9 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -72,7 +72,7 @@
 </summary>
 
 
-- [2026-06-02-How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7610eac06ab378ac827599e733631f3c)  ![](/assets/new.png) 
+- [2026-06-02-How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7610eac06ab378ac827599e733631f3c)  
 - [2026-05-26-npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6cda4d37774fb94444321edfe4093a58)  
 - [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1917476702340e9caf1105227e054071)  
 - [2026-05-12-Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efe790c4af335598033df5bf66f2ebf4)  
@@ -114,16 +114,16 @@
 </summary>
 
 
+- [2026-06-02-美团产品员工吐槽“更应该裁掉的是研发”！用-AI-5-分钟就完成的，研发评审却要-3-小时。网友的反驳杀伤力拉满](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624519&idx=1&sn=de621af12ef780489cb5546ace52f75f&chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2b80c6c51a3a7e56db0351161b411c5a)  ![](/assets/new.png) 
 - [2026-05-31-英伟达-+-Arm-+-Windows：PC-新时代来了](http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5c93e386a7ed96a8069794e30d027c6)  
 - [2026-05-29-苹果憋了-5-年！MacBook-Pro-史诗级大改，触控屏终于来了](http://mp.weixin.qq.com/s/sRsQakQkuLrJYYjdG9Zoxg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4129c46594ef779c44a8bd8c970fafed)  
-- [2026-05-28-马斯克转发的这张梗图，藏着工程界最朴素的真理](http://mp.weixin.qq.com/s/L1C1szzHljQh5PlbrqQ9eg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cada6236b26015d6c703605b86064c89)  
 - [2026-05-28-阿里薪酬大调整！取消“13-薪”，改为“并肩前行年奖”](http://mp.weixin.qq.com/s/HElIGq4sy-faI81HSUbz0A)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f8b0585928f5e9bd7925387f7e477ff)  
+- [2026-05-28-马斯克转发的这张梗图，藏着工程界最朴素的真理](http://mp.weixin.qq.com/s/L1C1szzHljQh5PlbrqQ9eg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cada6236b26015d6c703605b86064c89)  
 - [2026-05-27-最高年费-5088！豆包收费让网友炸锅了，人民日报发声定调](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624488&idx=1&sn=ae8487f4f8fd56b6dfa552240e5f8ccc&chksm=802243e9b755caffef6b1fcfc283ac7ae52ff454d7dd5d5af21db6face6f4175097e704c1218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d134c9f73909bde43ca092aea1bc35d6)  
 - [2026-05-26-被裁程序员吐槽：Meta-是我见过最有毒的公司。我所在部门-90%-是华裔，日常沟通普通话，非华裔常遭排挤](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624480&idx=1&sn=0165be95de97a3efcbb5374c1f3de08d&chksm=802243e1b755caf76bf026b9c8af6098430118def9028a5e67b43055c6bb91c694c15da49b25#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=888653598030f95f9c7fd7a96344596c)  
 - [2026-05-25-歌手胡彦斌居然也在-vibe-coding-了，而是随地大小修-bug-的那种。网友：来抢程序员饭碗了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624473&idx=1&sn=cd8039723bf2d3ad63eaee5cac4f17ec&chksm=802243d8b755cace82b6726ba479277538ee39095b445a1a0c51d693ad401124ed358637009f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=03984f765af71f727a0118adbb263d69)  
 - [2026-05-22-前端行情跌到谷底了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624467&idx=1&sn=a5cb0faad9d5b94723a9a2c8e1a17c0e&chksm=802243d2b755cac4b17204822f4194806078caa2492a3f6e4a49c565da53a8ae54b3e3a83349#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ff1d8373f92abc97f68fef0b4779fb87)  
 - [2026-05-21-前端圈炸了！AntV、VS-Code-插件同时被投毒！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624455&idx=1&sn=b14d868250a86ca7856cab59bd60947a&chksm=802243c6b755cad02fcf30b6c70ab1fbdfe523058bae8682deaba429b2d6355f4d61c28f0abf#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7001cac751695b7e32b5e9ffeb9ff9b)  
-- [2026-05-20-3-个校友捐赠-20-亿-Token。网友吐槽：捐出-20-亿元的气势。校方：不在乎值多少钱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624441&idx=1&sn=ab89663b8f90168a9f640988c25cc501&chksm=80224438b755cd2e73e9634b6bf2a9283d6de8338cbb90d94fa85a68ee19a0dbbfb9195b9295#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9e7d119aa5f53539d3b4eada33eb5048)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

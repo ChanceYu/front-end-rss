@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-02T17:58:29.248Z</updated>
+    <updated>2026-06-02T20:40:48.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[美团产品员工吐槽“更应该裁掉的是研发”！用 AI 5 分钟就完成的，研发评审却要 3 小时。网友的反驳杀伤力拉满]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624519&amp;idx=1&amp;sn=de621af12ef780489cb5546ace52f75f&amp;chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624519&amp;idx=1&amp;sn=de621af12ef780489cb5546ace52f75f&amp;chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd"/>
+        <updated>2026-06-02T00:00:00.000Z</updated>
+        <published>2026-06-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3709期】React 常见设计模式完全指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279190&amp;idx=1&amp;sn=a17eb52f2d87ebc824ef76d8200725e7&amp;chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279104&amp;idx=1&amp;sn=0b6e868589db3255c3ce97129f8e533d&amp;chksm=bc34183706bf57bba7c2a4b06ea74a433bc6e9efe940806bc74901c2860820defc24d1b1a3a5&amp;scene=0#rd"/>
         <updated>2026-05-18T00:00:00.000Z</updated>
         <published>2026-05-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向智能导购的Agent评测实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543468&amp;idx=1&amp;sn=f87e00d562d95669959e6690436c3df0&amp;chksm=8390dd74b4e75462d23809c38a201c20011a01ea7c6a53fb3d83173a7dc70f2c24ba55f4155c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543468&amp;idx=1&amp;sn=f87e00d562d95669959e6690436c3df0&amp;chksm=8390dd74b4e75462d23809c38a201c20011a01ea7c6a53fb3d83173a7dc70f2c24ba55f4155c#rd"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <published>2026-05-15T00:00:00.000Z</published>
     </entry>
 </feed>

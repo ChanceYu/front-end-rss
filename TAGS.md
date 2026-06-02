@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-03 01:58:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-03 04:41:05。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【前端大全】美团产品员工吐槽“更应该裁掉的是研发”！用-AI-5-分钟就完成的，研发评审却要-3-小时。网友的反驳杀伤力拉满](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624519&idx=1&sn=de621af12ef780489cb5546ace52f75f&chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2b80c6c51a3a7e56db0351161b411c5a)
 - [【淘系前端团队】面向-LLM-的架构设计：什么是真正的-AI-Friendly-架构？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543768&idx=1&sn=b1c0207772c8a6d9550815a6afc01bf4&chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=904ed82e2c17d8ba322575ae2f819f6e)
 - [【前端早读课】【第3708期】智能体引擎优化：当AI成为你文档的头号读者](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279185&idx=1&sn=aa66b7e38286abae9ed971c57f6aa41c&chksm=bc76b09caf42c10b68859c73a37d8b077b843a8073364b999720dc11c30ae4b45d2c769e95b5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9730e8d2d5356310d70cb846df50e6d6)
 - [【淘系前端团队】从定制Workflow到AI自主决策的架构演进——以TMIC-AI小新为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543765&idx=1&sn=4961784aef454d7fc2bf45e57a901431&chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=709ce084e06772ca2793ca5f5910e51d)
@@ -49,7 +50,6 @@
 - [【前端早读课】【早说】AI让你更快，却未必让你更强](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=1&sn=4f47ccfe47e4476bdf5c9b34faa649ec&chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e67356b8289ff9027845fde5dc3539e)
 - [【前端早读课】【图书】Trae与AI-Agent协作实战：多智能体AI编程全栈指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=2&sn=8b198de0e6651997f01745b58dba4a42&chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90780a7c30e01156eb0bb6e1be40fb78)
 - [【前端早读课】【第3705期】让-Codex-物尽其用：从编程助手到全能工作系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279159&idx=1&sn=40f71ba2ace9c79fcf04a7a767999b3c&chksm=bc81ce6d02efe440257300115f877cb897e9f7df0a97d239185276bb0b55c94686f973be37f5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8b24a569f6fa07029cd486c5d04d0a1b)
-- [【淘系前端团队】万级实时推理的商品领域Agent实践思考和总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543633&idx=1&sn=076f88d30fe724c90899196daae7cd9d&chksm=8390de09b4e7571f099f3145d219bedec263555cc21ef1e91165f31a3953e29b6a93e2bfe02e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4d1aeb076cee8dc884f79c5a6b6d1972)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【前端大全】美团产品员工吐槽“更应该裁掉的是研发”！用-AI-5-分钟就完成的，研发评审却要-3-小时。网友的反驳杀伤力拉满](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624519&idx=1&sn=de621af12ef780489cb5546ace52f75f&chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2b80c6c51a3a7e56db0351161b411c5a)
 - [【前端早读课】【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b)
 - [【JavaScript-Weekly】How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7610eac06ab378ac827599e733631f3c)
 - [【张鑫旭-鑫空间-鑫生活】CSS-contrast-color函数简介](https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c47788cbcecd2d58b7d53dcec9aa245a)
@@ -593,7 +594,6 @@
 - [【前端大全】英伟达-+-Arm-+-Windows：PC-新时代来了](http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5c93e386a7ed96a8069794e30d027c6)
 - [【阮一峰的网络日志】科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a43bfae8cebc5f5550749895b8e45ff7)
 - [【张鑫旭-鑫空间-鑫生活】新特性速递：focus行为新增focusVisible控制](https://www.zhangxinxu.com/wordpress/2026/05/js-focus-focusvisible/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95ac667c89f8671180ce90248a267fac)
-- [【淘系前端团队】从定制Workflow到AI自主决策的架构演进——以TMIC-AI小新为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543765&idx=1&sn=4961784aef454d7fc2bf45e57a901431&chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=709ce084e06772ca2793ca5f5910e51d)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
