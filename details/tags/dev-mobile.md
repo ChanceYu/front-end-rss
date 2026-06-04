@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-03 04:41:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-04 22:18:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 手机应用
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-05-31-离谱！为了反-AI-编程，这个-Java-库作者竟然亲自投毒！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523760&idx=1&sn=4342a234ce649963649c3e47f7e7bd5d&chksm=e80fd2fedf785be8daccfe137ba1f701b18af6872566a8db02a0e30db3710e4267b5a887911c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9882c7785793084546abfac4e79d0bd2) 
 - [2026-03-06-Vue-Native-最新进展！](http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=edc814033f32e63879e3d861784d3ae0) 
 - [2026-01-22-AI-native-Workspace-也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=98cb285d3f906d24de258484860e76af) 
 - [2025-12-10-Jimi：打造Java程序员专属的开源ClaudeCode](http://mp.weixin.qq.com/s/a6zOCKaBey0IQnywOd4xWg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c792f9d96a8f4dc858ca22b59dffdab5) 
@@ -272,8 +273,8 @@
 - [2019-02-01-杀鸡儆猴！苹果撤销Facebook的iOS企业证书](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490387&idx=1&sn=b57f34a139062990207f7cb92f590b81#wechat_redirect) 
 - [2019-01-27-Swift-5新特性详解：ABI-稳定终于来了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490356&idx=1&sn=1c07c5ea368941bee788b66b51a5ef77#wechat_redirect) 
 - [2019-01-26-移动应用框架-Ionic-4-正式版发布：Ionic-for-Everyone](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=1&sn=2bf613e82d6c5271f18cc75d9877799e#wechat_redirect) 
-- [2019-01-24-【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect) 
 - [2019-01-24-【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect) 
+- [2019-01-24-【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect) 
 - [2019-01-21-使用Flutter一年后，这是我得到的经验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490316&idx=1&sn=7e5f81004e944e16f25621aaf7493b22#wechat_redirect) 
 - [2019-01-19-Fuchsia被证实支持Android应用，今年5月即可体验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490304&idx=1&sn=8d569372a94f211f38fec6986ce492b1#wechat_redirect) 
 - [2019-01-12-Ionic-框架宣布-2019-年将正式支持-Vue-和-React](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555699&idx=1&sn=9b92973711feb1e03397c48a81886055#wechat_redirect) 

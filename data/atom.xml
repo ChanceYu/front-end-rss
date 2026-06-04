@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-02T20:40:48.237Z</updated>
+    <updated>2026-06-04T14:16:56.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3711期】Claude Code 在大型代码库中的工作原理：最佳实践与入门指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279208&amp;idx=1&amp;sn=8ed61620207ba97d265b874778b6a1d8&amp;chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279208&amp;idx=1&amp;sn=8ed61620207ba97d265b874778b6a1d8&amp;chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&amp;scene=0#rd"/>
+        <updated>2026-06-04T00:00:00.000Z</updated>
+        <published>2026-06-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团产品员工吐槽“更应该裁掉的是研发”！用 AI 5 分钟就完成的，研发评审却要 3 小时。网友的反驳杀伤力拉满]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624519&amp;idx=1&amp;sn=de621af12ef780489cb5546ace52f75f&amp;chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd</id>
@@ -64,11 +71,32 @@
         <published>2026-06-01T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[离谱！为了反 AI 编程，这个 Java 库作者竟然亲自投毒！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523760&amp;idx=1&amp;sn=4342a234ce649963649c3e47f7e7bd5d&amp;chksm=e80fd2fedf785be8daccfe137ba1f701b18af6872566a8db02a0e30db3710e4267b5a887911c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523760&amp;idx=1&amp;sn=4342a234ce649963649c3e47f7e7bd5d&amp;chksm=e80fd2fedf785be8daccfe137ba1f701b18af6872566a8db02a0e30db3710e4267b5a887911c#rd"/>
+        <updated>2026-05-31T00:00:00.000Z</updated>
+        <published>2026-05-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[英伟达 + Arm + Windows：PC 新时代来了]]></title>
         <id>http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw</id>
         <link href="http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw"/>
         <updated>2026-05-31T00:00:00.000Z</updated>
         <published>2026-05-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[105k star 的 Gemini CLI 是 TS 写的，谷歌转头用 Go 把它重造了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523731&amp;idx=1&amp;sn=312186a9faa749195c5b12a0ed68e981&amp;chksm=e80fd2dddf785bcb3e397ed67a3bb502dc5ed9cec76c76925e358d50c196bb1d4f4bc65ff982#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523731&amp;idx=1&amp;sn=312186a9faa749195c5b12a0ed68e981&amp;chksm=e80fd2dddf785bcb3e397ed67a3bb502dc5ed9cec76c76925e358d50c196bb1d4f4bc65ff982#rd"/>
+        <updated>2026-05-30T00:00:00.000Z</updated>
+        <published>2026-05-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.8 发布，Bun 作者说 6 天用 Rust 重写 Bun 靠的是这个新功能]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523723&amp;idx=1&amp;sn=1c9e39fa922d7dfbefaafa35ed7ed2ce&amp;chksm=e80fd2c5df785bd3e415fface520f91cfe29d58cc6f9b26856604e1b4dbb0bde96487367a91e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523723&amp;idx=1&amp;sn=1c9e39fa922d7dfbefaafa35ed7ed2ce&amp;chksm=e80fd2c5df785bd3e415fface520f91cfe29d58cc6f9b26856604e1b4dbb0bde96487367a91e#rd"/>
+        <updated>2026-05-29T00:00:00.000Z</updated>
+        <published>2026-05-29T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[从定制Workflow到AI自主决策的架构演进——以TMIC AI小新为例]]></title>
@@ -90,6 +118,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279180&amp;idx=1&amp;sn=617062faa7a92a87c7321721d169c5ca&amp;chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&amp;scene=0#rd"/>
         <updated>2026-05-29T00:00:00.000Z</updated>
         <published>2026-05-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[放弃 Python，Kimi 用 TS + Node.js 重写了一个 Kimi Code]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523714&amp;idx=1&amp;sn=f61d35b3ce606d9278c51b4f9bee6313&amp;chksm=e80fd2ccdf785bdad54e8c2c23b0da538ef6790561834aa05464edb97b644b48b1b0a88c4b8a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523714&amp;idx=1&amp;sn=f61d35b3ce606d9278c51b4f9bee6313&amp;chksm=e80fd2ccdf785bdad54e8c2c23b0da538ef6790561834aa05464edb97b644b48b1b0a88c4b8a#rd"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <published>2026-05-28T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[68K Star！前端动效神器升级，复杂动画终于不用硬写了]]></title>
@@ -127,16 +162,16 @@
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】AI让你更快，却未必让你更强]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】Trae与AI Agent协作实战：多智能体AI编程全栈指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】Trae与AI Agent协作实战：多智能体AI编程全栈指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【早说】AI让你更快，却未必让你更强]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=1&amp;sn=4f47ccfe47e4476bdf5c9b34faa649ec&amp;chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&amp;scene=0#rd"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
@@ -328,40 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279109&amp;idx=1&amp;sn=18b0cb0d03d5d426758cd64c42c005fc&amp;chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&amp;scene=0#rd"/>
         <updated>2026-05-19T00:00:00.000Z</updated>
         <published>2026-05-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[照抄就行，Anthropic 教你做 AI 时代一人公司]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523507&amp;idx=1&amp;sn=5035f644031462adee69c3822356bdc8&amp;chksm=e80fd3fddf785aebe40b349d2f4c149561fcd3f03187e6bc384abccc90fe34944bd3760704bb#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523507&amp;idx=1&amp;sn=5035f644031462adee69c3822356bdc8&amp;chksm=e80fd3fddf785aebe40b349d2f4c149561fcd3f03187e6bc384abccc90fe34944bd3760704bb#rd"/>
-        <updated>2026-05-18T00:00:00.000Z</updated>
-        <published>2026-05-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光标的形状也能设置了，就是CSS caret-shape属性]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/"/>
-        <updated>2026-05-18T00:00:00.000Z</updated>
-        <published>2026-05-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG 全链路技术详解]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543478&amp;idx=1&amp;sn=3d53b81dc195e7ccd6e652000bcf8ba8&amp;chksm=8390dd6eb4e75478580dd2e857da4a06d0b9b644fbb6cefbb3492a5217ca7304b465127f37a9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543478&amp;idx=1&amp;sn=3d53b81dc195e7ccd6e652000bcf8ba8&amp;chksm=8390dd6eb4e75478580dd2e857da4a06d0b9b644fbb6cefbb3492a5217ca7304b465127f37a9#rd"/>
-        <updated>2026-05-18T00:00:00.000Z</updated>
-        <published>2026-05-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“10周的工作量，AI只用4天！”Anthropic发布会全程实录：你引以为傲的复杂工程，在模型眼里只是个玩具]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624424&amp;idx=1&amp;sn=87c0495e54bba7785820b545f3fe67ec&amp;chksm=80224429b755cd3f54ec11ffa1556b4116fbd5acdf14bcc8c821e40b52a2c80584c9d2cb3fbb#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624424&amp;idx=1&amp;sn=87c0495e54bba7785820b545f3fe67ec&amp;chksm=80224429b755cd3f54ec11ffa1556b4116fbd5acdf14bcc8c821e40b52a2c80584c9d2cb3fbb#rd"/>
-        <updated>2026-05-18T00:00:00.000Z</updated>
-        <published>2026-05-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3700期】善用 Codex goal模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279104&amp;idx=1&amp;sn=0b6e868589db3255c3ce97129f8e533d&amp;chksm=bc34183706bf57bba7c2a4b06ea74a433bc6e9efe940806bc74901c2860820defc24d1b1a3a5&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279104&amp;idx=1&amp;sn=0b6e868589db3255c3ce97129f8e533d&amp;chksm=bc34183706bf57bba7c2a4b06ea74a433bc6e9efe940806bc74901c2860820defc24d1b1a3a5&amp;scene=0#rd"/>
-        <updated>2026-05-18T00:00:00.000Z</updated>
-        <published>2026-05-18T00:00:00.000Z</published>
     </entry>
 </feed>

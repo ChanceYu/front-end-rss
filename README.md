@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-03 04:41:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-04 22:18:24，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -26,8 +26,8 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -93,16 +93,16 @@
 </summary>
 
 
+- [2026-06-04-【第3711期】Claude-Code-在大型代码库中的工作原理：最佳实践与入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279208&idx=1&sn=8ed61620207ba97d265b874778b6a1d8&chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6469adbc7c9f48b64d0a7f45be76cd61)  ![](/assets/new.png) 
+- [2026-06-03-【第3710期】智能体驱动框架的解剖与推演](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279198&idx=1&sn=264d03eade31e32fc9f0cc6c16e6aeb1&chksm=bc1d9d16d173d61b53a9a3a19c959942632a1f6d758ca76c40f9305e1867764c3adf4d4a2bcc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=922f7a44ef2dca35693df9db21d8a72a)  ![](/assets/new.png) 
 - [2026-06-02-【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b)  
 - [2026-06-01-【第3708期】智能体引擎优化：当AI成为你文档的头号读者](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279185&idx=1&sn=aa66b7e38286abae9ed971c57f6aa41c&chksm=bc76b09caf42c10b68859c73a37d8b077b843a8073364b999720dc11c30ae4b45d2c769e95b5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9730e8d2d5356310d70cb846df50e6d6)  
 - [2026-05-29-【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815)  
 - [2026-05-28-【第3706期】Node.js-Stream-没有在做背压控制，正在悄悄吃掉内存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279174&idx=1&sn=8b6d812bae24d88634f0fb0ec25c3422&chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d52d7c0978cb6bbf0bf6a8f549349640)  
-- [2026-05-27-【图书】Trae与AI-Agent协作实战：多智能体AI编程全栈指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=2&sn=8b198de0e6651997f01745b58dba4a42&chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90780a7c30e01156eb0bb6e1be40fb78)  
 - [2026-05-27-【早说】AI让你更快，却未必让你更强](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=1&sn=4f47ccfe47e4476bdf5c9b34faa649ec&chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e67356b8289ff9027845fde5dc3539e)  
+- [2026-05-27-【图书】Trae与AI-Agent协作实战：多智能体AI编程全栈指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=2&sn=8b198de0e6651997f01745b58dba4a42&chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90780a7c30e01156eb0bb6e1be40fb78)  
 - [2026-05-26-【第3705期】让-Codex-物尽其用：从编程助手到全能工作系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279159&idx=1&sn=40f71ba2ace9c79fcf04a7a767999b3c&chksm=bc81ce6d02efe440257300115f877cb897e9f7df0a97d239185276bb0b55c94686f973be37f5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8b24a569f6fa07029cd486c5d04d0a1b)  
 - [2026-05-25-【第3704期】谁来掌控组件树？重新理解-RSC-的本质](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279147&idx=1&sn=7bd6cb65bb2e0f521aa8b3ca3c7d2a13&chksm=bc82ad507e9cacd289ac977c40cd313980a83e572fa01d7ae7f2c8efeaa8a4c584db63a9ca96&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=632baacd4253ff72cbc208aec4c7cce9)  
-- [2026-05-22-【第3703期】VAPD-AgentKit：可组合-Agent-前端通用库实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279143&idx=1&sn=6831c62577f2dbc9b82caec3b58c5c9c&chksm=bc98f8ea296d11badc44e3384b2251c74e9ee25ea68525974ad7e829d2a06339d4474a8fe199&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d3d521c1f784024cbdfd180e32ab0d5)  
-- [2026-05-21-【早说】不要将学习外包出去](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279136&idx=1&sn=0c7d1f5614ba41ba9adea0c6e6157cbf&chksm=bc8f095f6c66dd5f5df662979be0b152c2fcd0985591816dd93992202d9e14fbab9a7968cb3d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7599c26f96e3e3a4b7c7375e13d86ba)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -114,7 +114,7 @@
 </summary>
 
 
-- [2026-06-02-美团产品员工吐槽“更应该裁掉的是研发”！用-AI-5-分钟就完成的，研发评审却要-3-小时。网友的反驳杀伤力拉满](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624519&idx=1&sn=de621af12ef780489cb5546ace52f75f&chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2b80c6c51a3a7e56db0351161b411c5a)  ![](/assets/new.png) 
+- [2026-06-02-美团产品员工吐槽“更应该裁掉的是研发”！用-AI-5-分钟就完成的，研发评审却要-3-小时。网友的反驳杀伤力拉满](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624519&idx=1&sn=de621af12ef780489cb5546ace52f75f&chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2b80c6c51a3a7e56db0351161b411c5a)  
 - [2026-05-31-英伟达-+-Arm-+-Windows：PC-新时代来了](http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5c93e386a7ed96a8069794e30d027c6)  
 - [2026-05-29-苹果憋了-5-年！MacBook-Pro-史诗级大改，触控屏终于来了](http://mp.weixin.qq.com/s/sRsQakQkuLrJYYjdG9Zoxg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4129c46594ef779c44a8bd8c970fafed)  
 - [2026-05-28-阿里薪酬大调整！取消“13-薪”，改为“并肩前行年奖”](http://mp.weixin.qq.com/s/HElIGq4sy-faI81HSUbz0A)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f8b0585928f5e9bd7925387f7e477ff)  
@@ -408,16 +408,16 @@
 </summary>
 
 
+- [2026-05-31-离谱！为了反-AI-编程，这个-Java-库作者竟然亲自投毒！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523760&idx=1&sn=4342a234ce649963649c3e47f7e7bd5d&chksm=e80fd2fedf785be8daccfe137ba1f701b18af6872566a8db02a0e30db3710e4267b5a887911c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9882c7785793084546abfac4e79d0bd2)  ![](/assets/new.png) 
+- [2026-05-30-105k-star-的-Gemini-CLI-是-TS-写的，谷歌转头用-Go-把它重造了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523731&idx=1&sn=312186a9faa749195c5b12a0ed68e981&chksm=e80fd2dddf785bcb3e397ed67a3bb502dc5ed9cec76c76925e358d50c196bb1d4f4bc65ff982#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=20410dfd23f104829b7e7642f8519ee7)  ![](/assets/new.png) 
+- [2026-05-29-Claude-Opus-4.8-发布，Bun-作者说-6-天用-Rust-重写-Bun-靠的是这个新功能](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523723&idx=1&sn=1c9e39fa922d7dfbefaafa35ed7ed2ce&chksm=e80fd2c5df785bd3e415fface520f91cfe29d58cc6f9b26856604e1b4dbb0bde96487367a91e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0dd07d3edd1af951a3d65ec602676466)  ![](/assets/new.png) 
+- [2026-05-28-放弃-Python，Kimi-用-TS-+-Node.js-重写了一个-Kimi-Code](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523714&idx=1&sn=f61d35b3ce606d9278c51b4f9bee6313&chksm=e80fd2ccdf785bdad54e8c2c23b0da538ef6790561834aa05464edb97b644b48b1b0a88c4b8a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=706658411954aa28bce053ae9e4ade48)  ![](/assets/new.png) 
 - [2026-05-27-一个人做宣传片、写游戏、盯热点？实测这个“全干版AI专家”三天全搞定](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523699&idx=1&sn=5ab270cdf167031f779eecc279099637&chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=71cf504e2b226f5e1f73b6d315ba52d2)  
 - [2026-05-26-Node、Deno、Bun-到底怎么选？我把这道送命题甩给了天工](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523661&idx=1&sn=ccc20fa10bcf25872a1c2370117b7f6e&chksm=e80fd203df785b150580f2840024c1c4d14e8f00d4ce43a4372e5bb00b1fdfe6155eac04187f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=64014b26e4c6a080f3b08205441fc7a6)  
 - [2026-05-24-Rust-重写-AI-味太浓，Bun-被-yt-dlp-封版本、Electrobun-直接解绑](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523590&idx=1&sn=3395ab3f9a1fe234f9aebabd8e1398a3&chksm=e80fd248df785b5e3e013e04a335b969ce00b2f3bbc4312d32563b2111bd00f230048d539286#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=064611791c58b99a63112e80eef1f019)  
 - [2026-05-23-Deno-2.8-发布：创始人承认速度打不过-Bun，但-Node.js-兼容性是-Bun-的两倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523580&idx=1&sn=a09d8bdbbd11403ed774601e95c33926&chksm=e80fd3b2df785aa4a39570631a57605fa81c322db4535901f4bb9467707dd3e954295dd55af1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=775010e20031ef03fc600ac5e4cc884c)  
 - [2026-05-22-他们用-Node.js-把《毁灭战士》搬进了终端，还有人说-JS-靠它能追上-Python](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523574&idx=1&sn=ed88e054b94a214db581c751cdc0f443&chksm=e80fd3b8df785aae336d1c87e49dcdab98cdaea8252a0691730c4a48dc0b5dc0c8e660a4eccc#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7fdf78cba2df79e7b789a85b08552fd2)  
 - [2026-05-21-ClaudeCode-保姆级教程，最懂工程的AI工具-！！](http://mp.weixin.qq.com/s/WN2K9LE4DHnErckKgxZlbA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2f011097c2693a4c00f73430a4adf3f0)  
-- [2026-05-19-刚刚！Cursor-发布最强自研模型-Composer-2.5，性能追平-Opus-4.7，马斯克亲自下场试用](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523521&idx=1&sn=6bc1d7bbaf87559b6dec1bafa82d936a&chksm=e80fd38fdf785a99e39eb2245709289513507c5925c12955e1b9cde5421ca9181dd6564ae343#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=176c34d3481a4561e043db86a502e3a0)  
-- [2026-05-18-照抄就行，Anthropic-教你做-AI-时代一人公司](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523507&idx=1&sn=5035f644031462adee69c3822356bdc8&chksm=e80fd3fddf785aebe40b349d2f4c149561fcd3f03187e6bc384abccc90fe34944bd3760704bb#rd) 
-- [2026-05-14-Bun-v1.3.14-发布，Rust-版即将进-Claude-Code-内测，下一版可能就告别-Zig](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523499&idx=1&sn=afd62935f7346523f097eede12cf0e19&chksm=e80fd3e5df785af36ac310d7b005c7b0c19272d58f522254ebde71fda7314b6c2f4c05fb219b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=be7c7ee16f233a5e5dcc70de48a840d8)  
-- [2026-05-12-Bun-刚试着投奔-Rust，Vercel-转头用-Zig-造了个-ZeroNative](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523488&idx=1&sn=582bc83c0c84a0bf7404a5762d64a32f&chksm=e80fd3eedf785af87d5b856a9add2e55fdb53e595a7512db060d81ddabc74efbd1bfca748e97#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=32fc1a84fbf88396cb921a1964eebde7)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

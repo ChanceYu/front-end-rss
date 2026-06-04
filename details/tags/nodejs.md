@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-03 04:41:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-04 22:18:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,7 +7,9 @@
 
 
 
+- [2026-05-29-Claude-Opus-4.8-发布，Bun-作者说-6-天用-Rust-重写-Bun-靠的是这个新功能](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523723&idx=1&sn=1c9e39fa922d7dfbefaafa35ed7ed2ce&chksm=e80fd2c5df785bd3e415fface520f91cfe29d58cc6f9b26856604e1b4dbb0bde96487367a91e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0dd07d3edd1af951a3d65ec602676466) 
 - [2026-05-29-【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815) 
+- [2026-05-28-放弃-Python，Kimi-用-TS-+-Node.js-重写了一个-Kimi-Code](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523714&idx=1&sn=f61d35b3ce606d9278c51b4f9bee6313&chksm=e80fd2ccdf785bdad54e8c2c23b0da538ef6790561834aa05464edb97b644b48b1b0a88c4b8a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=706658411954aa28bce053ae9e4ade48) 
 - [2026-05-28-【第3706期】Node.js-Stream-没有在做背压控制，正在悄悄吃掉内存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279174&idx=1&sn=8b6d812bae24d88634f0fb0ec25c3422&chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d52d7c0978cb6bbf0bf6a8f549349640) 
 - [2026-05-28-Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcdb2c41a5b103b112ece1664296629b) 
 - [2026-05-26-Node、Deno、Bun-到底怎么选？我把这道送命题甩给了天工](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523661&idx=1&sn=ccc20fa10bcf25872a1c2370117b7f6e&chksm=e80fd203df785b150580f2840024c1c4d14e8f00d4ce43a4372e5bb00b1fdfe6155eac04187f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=64014b26e4c6a080f3b08205441fc7a6) 
@@ -327,8 +329,8 @@
 - [2022-08-05-试图颠覆-JavaScript-生态？亲身试用新-JS-运行时-Bun-后，我觉得未来可期](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516765&idx=1&sn=b899b050ea9125222ed283bbe76acc85&chksm=f952371ece25be08bcf259c6cd8a1a9fbd6fe5b5f75e9c9512f1f75799adacbc046aebdeb741#rd) 
 - [2022-08-01-2022-年最值得关注的-8-个-Node.js-项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607860&idx=2&sn=6f97b143189aadb2af9dc6bc6a619b85&chksm=802284f5b7550de328ef52d6221a0ab149df87b1afb1ba07203ae312923298cb749dc41008be#rd) 
 - [2022-07-31-你可能需要一个优质-前端-Node-交流群](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510056&idx=2&sn=ccbabe45b7e249d5052bf959852a65c9&chksm=f992aef9cee527efb7dfdb0ed90904c6793cc7d19045d0bcae8c2e83e0a014c68a00f5278469#rd) 
-- [2022-07-30-【第2686期】蚂蚁@天猪：我的Node.js-十年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256915&idx=1&sn=9b89cf88137cc70f3a3c2ae9cee1e07d&chksm=bd4921d78a3ea8c198f181c2b5246397f2a4aec8d2461c5ed0797f32f8e6591357bbdb49a428#rd) 
 - [2022-07-30-【活动】2022年8月8日，NodeParty-来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256915&idx=2&sn=05053d91f2698d1f5281137944f71a55&chksm=bd4921d78a3ea8c1ec9aa1253c0be2eceaa4ff6ebbd7b380bca6b644b864676fdcb6c1df68d4#rd) 
+- [2022-07-30-【第2686期】蚂蚁@天猪：我的Node.js-十年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256915&idx=1&sn=9b89cf88137cc70f3a3c2ae9cee1e07d&chksm=bd4921d78a3ea8c198f181c2b5246397f2a4aec8d2461c5ed0797f32f8e6591357bbdb49a428#rd) 
 - [2022-07-28-Using-Rust-to-build-Node-modules](https://nodeweekly.com/issues/448) 
 - [2022-07-27-如何统一前端项目的-Node-版本和包管理器？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607771&idx=1&sn=39e62efb04ac0b50b19d028c824a7975&chksm=8022851ab7550c0c54cf54293bf6b1e7391d088e8d760263a5395c749c05fbc2ecbd83fc59b2#rd) 
 - [2022-07-24-Nest.js-用了-Express-但也没完全用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607694&idx=2&sn=216f0e66ba2b7c0f34388a376d86f1b6&chksm=8022854fb7550c59e3c288b9a9f0ca97357a303f90352fb19c5a150ef7ec4621ddacf96e99c9#rd) 
@@ -602,8 +604,8 @@
 - [2019-06-26-【图书】狼书（卷1）：更了不起的Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=2&sn=cb47a5978f35475f19ae1403988f65d6#rd) 
 - [2019-06-19-Vue+Node+高德地图+Echart做一款出行可视化全栈webapp](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556589&idx=1&sn=c90b04503006996ee31174ae555d7419#rd) 
 - [2019-05-22-Node.js-微服务实践二](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=2&sn=bc52c75b077a9cc5d4f2c4f48fb778ec#rd) 
-- [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd) 
 - [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd) 
+- [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd) 
 - [2019-05-09-Node-12-值得关注的新特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=1&sn=6ca10d0ea644a8de6e564be25d5b2063#rd) 
 - [2019-04-30-Node.js对Java：一场史诗级的争夺开发者注意力的对决](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491136&idx=1&sn=e3ceb6f5b6b0323b1eee3d2bdd477261#rd) 
 - [2019-04-24-Node.js-12发布！更快启动速度、默认TLS-1.3](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491065&idx=1&sn=501033e2302fb56baa6c71e65e0385af#rd) 
@@ -626,8 +628,8 @@
 - [2019-01-18-【招聘】AliExpress招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=2&sn=18853570ec0182fbfd36648d46694dea#wechat_redirect) 
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-14-GitHub年度盘点：Deno赶超Node，跃升第四！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490270&idx=1&sn=59e786008d6bba785c37dd355006e887#wechat_redirect) 
-- [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2019-01-05-【第1496期】新手向之Vue.js-+-Node.jskoa-合体指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=1&sn=de2805651f5208b68ca93d77e3459844#wechat_redirect) 
+- [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-25-Electron-4.0稳定版发布，集成Node-10和Chromium-69](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490177&idx=1&sn=3603f58f6b326943fcf7b51b723a92ba#wechat_redirect) 
 - [2018-12-22-在2019年，如何成为更好的Node.js开发者？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490145&idx=1&sn=46558991e9f530030255c55a73e79bdd#wechat_redirect) 
 - [2018-12-22-【第1484期】被污染的-npm-包：event-stream](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230782&idx=1&sn=a507bb9c9c61ad9f9cb4a30d6a4c2392#wechat_redirect) 
