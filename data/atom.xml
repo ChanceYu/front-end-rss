@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-04T14:16:56.123Z</updated>
+    <updated>2026-06-04T16:43:33.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3711期】Claude Code 在大型代码库中的工作原理：最佳实践与入门指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279208&amp;idx=1&amp;sn=8ed61620207ba97d265b874778b6a1d8&amp;chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279208&amp;idx=1&amp;sn=8ed61620207ba97d265b874778b6a1d8&amp;chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&amp;scene=0#rd"/>
+        <updated>2026-06-04T00:00:00.000Z</updated>
+        <published>2026-06-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find better alternatives to npm packages]]></title>
+        <id>https://nodeweekly.com/issues/627</id>
+        <link href="https://nodeweekly.com/issues/627"/>
         <updated>2026-06-04T00:00:00.000Z</updated>
         <published>2026-06-04T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[被开除5分钟后，34岁工程师一口气删掉96个“国家级数据库”，转头问AI：日志怎么清？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624430&amp;idx=1&amp;sn=d74ecfc7f4ca4f48e86fd6540636ff91&amp;chksm=8022442fb755cd39d9f6c396be6b95a865e617a89f5cca357c159b12794b6f5bcc73ce9e4d04#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624430&amp;idx=1&amp;sn=d74ecfc7f4ca4f48e86fd6540636ff91&amp;chksm=8022442fb755cd39d9f6c396be6b95a865e617a89f5cca357c159b12794b6f5bcc73ce9e4d04#rd"/>
-        <updated>2026-05-19T00:00:00.000Z</updated>
-        <published>2026-05-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3701期】告别 React，拥抱原生：借助 nanotags 完成迁移节省 100 KB]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279109&amp;idx=1&amp;sn=18b0cb0d03d5d426758cd64c42c005fc&amp;chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279109&amp;idx=1&amp;sn=18b0cb0d03d5d426758cd64c42c005fc&amp;chksm=bc3e735257e2bfbfc318e41e685d8e41dc51a3b539407d8ce23a36d15c3f23d85d98c45d42be&amp;scene=0#rd"/>
         <updated>2026-05-19T00:00:00.000Z</updated>
         <published>2026-05-19T00:00:00.000Z</published>
     </entry>
