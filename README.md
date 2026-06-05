@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-05 15:59:47，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-05 19:21:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -26,11 +26,11 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2026-06-05-【第3712期】Claude-Dreaming功能：Anthropic的自我改进型智能体记忆系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279213&idx=1&sn=326bbb399248c13c604f7bd7ab7766f9&chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72210fd013ba1f9cd18d7c23ea40a1ea)  ![](/assets/new.png) 
+- [2026-06-05-【第3712期】Claude-Dreaming功能：Anthropic的自我改进型智能体记忆系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279213&idx=1&sn=326bbb399248c13c604f7bd7ab7766f9&chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72210fd013ba1f9cd18d7c23ea40a1ea)  
 - [2026-06-04-【第3711期】Claude-Code-在大型代码库中的工作原理：最佳实践与入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279208&idx=1&sn=8ed61620207ba97d265b874778b6a1d8&chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6469adbc7c9f48b64d0a7f45be76cd61)  
 - [2026-06-03-【第3710期】智能体驱动框架的解剖与推演](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279198&idx=1&sn=264d03eade31e32fc9f0cc6c16e6aeb1&chksm=bc1d9d16d173d61b53a9a3a19c959942632a1f6d758ca76c40f9305e1867764c3adf4d4a2bcc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=922f7a44ef2dca35693df9db21d8a72a)  
 - [2026-06-02-【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b)  
@@ -114,7 +114,7 @@
 </summary>
 
 
-- [2026-06-05-Cloudflare-收购尤雨溪创办的-VoidZero](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624524&idx=1&sn=60c99160d57349488d1504230cd94d17&chksm=8022438db755ca9bda9f761deccf9cf471a44e45f932e6e9227e75597f4515d9c98c60c91939#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d7ea7df1b2d1388b5c912b6e6e25b79)  ![](/assets/new.png) 
+- [2026-06-05-Cloudflare-收购尤雨溪创办的-VoidZero](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624524&idx=1&sn=60c99160d57349488d1504230cd94d17&chksm=8022438db755ca9bda9f761deccf9cf471a44e45f932e6e9227e75597f4515d9c98c60c91939#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d7ea7df1b2d1388b5c912b6e6e25b79)  
 - [2026-06-02-美团产品员工吐槽“更应该裁掉的是研发”！用-AI-5-分钟就完成的，研发评审却要-3-小时。网友的反驳杀伤力拉满](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624519&idx=1&sn=de621af12ef780489cb5546ace52f75f&chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2b80c6c51a3a7e56db0351161b411c5a)  
 - [2026-05-31-英伟达-+-Arm-+-Windows：PC-新时代来了](http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5c93e386a7ed96a8069794e30d027c6)  
 - [2026-05-29-苹果憋了-5-年！MacBook-Pro-史诗级大改，触控屏终于来了](http://mp.weixin.qq.com/s/sRsQakQkuLrJYYjdG9Zoxg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4129c46594ef779c44a8bd8c970fafed)  
@@ -177,6 +177,7 @@
 </summary>
 
 
+- [2026-06-05-告别-README：为什么你的代码库必须立刻增加一个-AGENTS.md？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529926&idx=1&sn=56764ccea1d5425f484c24bd12b3855e&chksm=f9927317cee5fa01ed170d602966becadf4d9f0ceb3ed285d70beee64713947d694d90477093#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a989b721241ed491d5a1ebe9455791a2)  ![](/assets/new.png) 
 - [2026-06-04-用-Codex-千万别犯这-7-个错误：不然-AI-写代码越帮越忙](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529912&idx=1&sn=73b0fda47949e0f4d89af7fe4e6631c2&chksm=f9927369cee5fa7f839514adf81a501b2815a770482cd48a0dde115f48cf9eab7010b35bddf7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a3fcf8211e3803a7a41bd1445cda4988)  
 - [2026-06-01-别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)  
 - [2026-05-29-AI-产品从-Demo-到上线，中间隔着-24-个坑](http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5389eb3d7e55a3ea0f4f3f8608d04330)  
@@ -186,7 +187,6 @@
 - [2026-05-19-Karpathy-的-4-条规则让-Claude-出错率骤降，但还不够。Mnimiy-又加了-8-条](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529834&idx=1&sn=cff9a8b4b07b328f840e25497a196045&chksm=f99273bbcee5faada11e6f8c13674cb89ae4ac35b379b020aa9adb7562105111f4e0f6b2b447#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3b6fc713d73881d7931d346d2607eb8e)  
 - [2026-05-18-看完-Anthropic-这份内部手册，很多人后悔创业太早了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529829&idx=1&sn=6b9799352c9a2f833c7f617e6bc34abf&chksm=f99273b4cee5faa2c746b1eb7cc1568af6c43f3805ae87b1dd1bb87d8555cb61e7df2eb96352#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5cb5b74fc8e5af342e316b2e92d563b)  
 - [2026-05-14-用了几周明基-RD280UG，我终于明白程序员为什么需要一台“专用显示器”](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529815&idx=1&sn=a2d66cffd74e5158eec2a4f111305f22&chksm=f9927386cee5fa90085e6aedd5c099865e14538ca422c7e08286db85a0bba948f88c7ee3c7c3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b7359290ccdaced3ae0aac9e2f0770f4)  
-- [2026-05-13-RAG-向量检索，90%-的人都搞错了这-3-个概念](http://mp.weixin.qq.com/s/oLWAGYi0YmCPHpv-51vMeA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=afc7c111d807bdc1ceec8f5abcda9686)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -345,7 +345,7 @@
 </summary>
 
 
-- [2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) ![](/assets/new.png) 
+- [2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1e417faaef0b6b38a80b14ce048f75f)  ![](/assets/new.png) 
 - [2026-05-29-科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a43bfae8cebc5f5550749895b8e45ff7)  
 - [2026-05-22-科技爱好者周刊（第-397-期）：财富正在向-AI-集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=debddd5d63c6416087610aaede13adb8)  
 - [2026-05-15-科技爱好者周刊（第-396-期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=39823b46233af9171f7b74ff5d8c2d28)  

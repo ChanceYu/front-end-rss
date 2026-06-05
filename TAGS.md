@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-05 15:59:47。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-05 19:21:46。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,7 +40,7 @@
 
 
 
-- [【阮一峰的网络日志】科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1e417faaef0b6b38a80b14ce048f75f)
 - [【前端早读课】【第3712期】Claude-Dreaming功能：Anthropic的自我改进型智能体记忆系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279213&idx=1&sn=326bbb399248c13c604f7bd7ab7766f9&chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72210fd013ba1f9cd18d7c23ea40a1ea)
 - [【Nodejs技术栈】VS-Code-可以卸载了？连-Copilot-的亲爹都搬出去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523786&idx=1&sn=f1d791daffcd7c9410601a27ded07cb1&chksm=e80fd284df785b923a21e7ebe24811f51bc4ea76d644c175c5b2d8bab345788ce742b955d7e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd02514be6f34320ff4809bf881c0fc3)
 - [【程序员成长指北】用-Codex-千万别犯这-7-个错误：不然-AI-写代码越帮越忙](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529912&idx=1&sn=73b0fda47949e0f4d89af7fe4e6631c2&chksm=f9927369cee5fa7f839514adf81a501b2815a770482cd48a0dde115f48cf9eab7010b35bddf7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a3fcf8211e3803a7a41bd1445cda4988)
@@ -118,6 +118,7 @@
 
 
 
+- [【程序员成长指北】告别-README：为什么你的代码库必须立刻增加一个-AGENTS.md？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529926&idx=1&sn=56764ccea1d5425f484c24bd12b3855e&chksm=f9927317cee5fa01ed170d602966becadf4d9f0ceb3ed285d70beee64713947d694d90477093#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a989b721241ed491d5a1ebe9455791a2)
 - [【Nodejs技术栈】Astro-把-Claude-Code-那套东西做成了一个纯-TypeScript-框架开源了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523769&idx=1&sn=a64d90f2ffb161d06e1175662247c04b&chksm=e80fd2f7df785be1e2cdc1a43e22582b4cf09d9360c4147a4a18964e6ca269fce1e07ee93c8b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0f18fefbf482bd565b48cf2233d5863)
 - [【Nodejs技术栈】105k-star-的-Gemini-CLI-是-TS-写的，谷歌转头用-Go-把它重造了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523731&idx=1&sn=312186a9faa749195c5b12a0ed68e981&chksm=e80fd2dddf785bcb3e397ed67a3bb502dc5ed9cec76c76925e358d50c196bb1d4f4bc65ff982#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=20410dfd23f104829b7e7642f8519ee7)
 - [【Nodejs技术栈】放弃-Python，Kimi-用-TS-+-Node.js-重写了一个-Kimi-Code](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523714&idx=1&sn=f61d35b3ce606d9278c51b4f9bee6313&chksm=e80fd2ccdf785bdad54e8c2c23b0da538ef6790561834aa05464edb97b644b48b1b0a88c4b8a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=706658411954aa28bce053ae9e4ade48)
@@ -127,7 +128,6 @@
 - [【Nodejs技术栈】TS-大神-Matt-Pocock-开源自己的-AI-Skills，主打反-Vibe-Coding](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523414&idx=1&sn=c6f159665b2e21b5402f6edcbd709c23&chksm=e80fd318df785a0e5aad65bbb221f3d1253fc95751a54d6a211334514eac7d426237b42d591b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b2667e110ce041462b048e5ec721241)
 - [【前端从进阶到入院】TypeScript-7.0-Beta-来了：基于-Go-重写，快了整整-10-倍！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517581&idx=1&sn=6096958a5670fbc08ba32b1d160fbb9e&chksm=eb07bdf4dc7034e26fde59e081403f0d16a468b7dbd22692ee3133a27c5418599fc41f65fc6f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b137f04a730e9832bb346ad094dc6417)
 - [【JavaScript-Weekly】MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b840a6adba863fcd1146306453fc4314)
-- [【Nodejs技术栈】Anthropic-不只卖模型了！Claude-Managed-Agents-发布，Agent-即服务时代来了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523200&idx=1&sn=f1b91a6cf2fc13001b47176cd7635a7e&chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f2c9ea580079d392ad3f1adc9a378d5)
 - [查看更多 >](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,7 +584,8 @@
 
 
 
-- [【阮一峰的网络日志】科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1e417faaef0b6b38a80b14ce048f75f)
+- [【程序员成长指北】告别-README：为什么你的代码库必须立刻增加一个-AGENTS.md？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529926&idx=1&sn=56764ccea1d5425f484c24bd12b3855e&chksm=f9927317cee5fa01ed170d602966becadf4d9f0ceb3ed285d70beee64713947d694d90477093#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a989b721241ed491d5a1ebe9455791a2)
 - [【前端大全】Cloudflare-收购尤雨溪创办的-VoidZero](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624524&idx=1&sn=60c99160d57349488d1504230cd94d17&chksm=8022438db755ca9bda9f761deccf9cf471a44e45f932e6e9227e75597f4515d9c98c60c91939#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d7ea7df1b2d1388b5c912b6e6e25b79)
 - [【前端早读课】【第3712期】Claude-Dreaming功能：Anthropic的自我改进型智能体记忆系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279213&idx=1&sn=326bbb399248c13c604f7bd7ab7766f9&chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72210fd013ba1f9cd18d7c23ea40a1ea)
 - [【Nodejs技术栈】VS-Code-可以卸载了？连-Copilot-的亲爹都搬出去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523786&idx=1&sn=f1d791daffcd7c9410601a27ded07cb1&chksm=e80fd284df785b923a21e7ebe24811f51bc4ea76d644c175c5b2d8bab345788ce742b955d7e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd02514be6f34320ff4809bf881c0fc3)
@@ -593,7 +594,6 @@
 - [【Node-Weekly】Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f820d917cc5e6279315d8351741c705)
 - [【Nodejs技术栈】Lovable-把-React+Vite-换掉了，用-TanStack-Start-重构后每周跑出-100-万个应用](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523776&idx=1&sn=68ca2b8cf6ff07e4d5e4cae683cb3ad8&chksm=e80fd28edf785b98772d009e5b1b807f8fc8ea774bad094107af30ce8ab1f326ae5ebe9089b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fa97cd2492873f479824df6dfe599112)
 - [【前端早读课】【第3710期】智能体驱动框架的解剖与推演](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279198&idx=1&sn=264d03eade31e32fc9f0cc6c16e6aeb1&chksm=bc1d9d16d173d61b53a9a3a19c959942632a1f6d758ca76c40f9305e1867764c3adf4d4a2bcc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=922f7a44ef2dca35693df9db21d8a72a)
-- [【Nodejs技术栈】Astro-把-Claude-Code-那套东西做成了一个纯-TypeScript-框架开源了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523769&idx=1&sn=a64d90f2ffb161d06e1175662247c04b&chksm=e80fd2f7df785be1e2cdc1a43e22582b4cf09d9360c4147a4a18964e6ca269fce1e07ee93c8b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0f18fefbf482bd565b48cf2233d5863)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
