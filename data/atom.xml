@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-05T11:21:14.878Z</updated>
+    <updated>2026-06-05T21:15:44.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 399 期）：中国 AI 大厂访问记]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html"/>
+        <updated>2026-06-05T00:00:00.000Z</updated>
+        <published>2026-06-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517631&amp;idx=1&amp;sn=7110283e96d7a9aa5cc40224f21a8a7f&amp;chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517631&amp;idx=1&amp;sn=7110283e96d7a9aa5cc40224f21a8a7f&amp;chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd"/>
         <updated>2026-06-05T00:00:00.000Z</updated>
         <published>2026-06-05T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2026，这些 JavaScript API 已经废弃！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517600&amp;idx=1&amp;sn=e2da84f8bfc22261ed4844d32edcd97f&amp;chksm=eb07bdd9dc7034cf3d331eac9cd32d8264b32d3cc94a83bde052d227ae42eb12988c8a4249a9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517600&amp;idx=1&amp;sn=e2da84f8bfc22261ed4844d32edcd97f&amp;chksm=eb07bdd9dc7034cf3d331eac9cd32d8264b32d3cc94a83bde052d227ae42eb12988c8a4249a9#rd"/>
-        <updated>2026-05-22T00:00:00.000Z</updated>
-        <published>2026-05-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3703期】VAPD AgentKit：可组合 Agent 前端通用库实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279143&amp;idx=1&amp;sn=6831c62577f2dbc9b82caec3b58c5c9c&amp;chksm=bc98f8ea296d11badc44e3384b2251c74e9ee25ea68525974ad7e829d2a06339d4474a8fe199&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279143&amp;idx=1&amp;sn=6831c62577f2dbc9b82caec3b58c5c9c&amp;chksm=bc98f8ea296d11badc44e3384b2251c74e9ee25ea68525974ad7e829d2a06339d4474a8fe199&amp;scene=0#rd"/>
         <updated>2026-05-22T00:00:00.000Z</updated>
         <published>2026-05-22T00:00:00.000Z</published>
     </entry>

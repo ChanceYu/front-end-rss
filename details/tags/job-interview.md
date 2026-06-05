@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-05 19:21:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-06 05:16:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-05-学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517631&idx=1&sn=7110283e96d7a9aa5cc40224f21a8a7f&chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8b6c0e7e973f2ea65b3a71dfa51bf50) 
 - [2026-05-09-最近，前端的招聘市场已经疯掉了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624408&idx=1&sn=f83a90a45702d2e60456f15e6b68deba&chksm=80224419b755cd0f5b96bbacf4f7d61d3b9c1c2214449c0f9978310e7b529bc1df6caa7f755d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bab885b855deaa8ef95b731aa3d6eb3) 
 - [2026-04-24-取代前端岗，又一新兴岗位在崛起！这才是前端未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624391&idx=1&sn=627728a6d23367ed85eb66e0ad8f008c&chksm=80224406b755cd106addea2a34ae09d7a38722e6b1b590fefcd1c04ae170016fd5565b1790e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25706f48b693a3454b8c241481008f7d) 
 - [2026-03-25-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s/9HRDafcOghUyk1QFFW9R6Q)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1ae2a6c36cb02dc10dcb430de4fb8571) 

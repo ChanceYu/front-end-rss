@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-05 19:21:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-06 05:16:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -8,6 +8,7 @@
 
 
 - [2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1e417faaef0b6b38a80b14ce048f75f) 
+- [2026-06-05-学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517631&idx=1&sn=7110283e96d7a9aa5cc40224f21a8a7f&chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8b6c0e7e973f2ea65b3a71dfa51bf50) 
 - [2026-06-05-【第3712期】Claude-Dreaming功能：Anthropic的自我改进型智能体记忆系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279213&idx=1&sn=326bbb399248c13c604f7bd7ab7766f9&chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72210fd013ba1f9cd18d7c23ea40a1ea) 
 - [2026-06-04-VS-Code-可以卸载了？连-Copilot-的亲爹都搬出去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523786&idx=1&sn=f1d791daffcd7c9410601a27ded07cb1&chksm=e80fd284df785b923a21e7ebe24811f51bc4ea76d644c175c5b2d8bab345788ce742b955d7e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd02514be6f34320ff4809bf881c0fc3) 
 - [2026-06-04-用-Codex-千万别犯这-7-个错误：不然-AI-写代码越帮越忙](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529912&idx=1&sn=73b0fda47949e0f4d89af7fe4e6631c2&chksm=f9927369cee5fa7f839514adf81a501b2815a770482cd48a0dde115f48cf9eab7010b35bddf7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a3fcf8211e3803a7a41bd1445cda4988) 

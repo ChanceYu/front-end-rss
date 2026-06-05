@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-05 19:21:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-06 05:16:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -30,15 +30,15 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -177,7 +177,7 @@
 </summary>
 
 
-- [2026-06-05-告别-README：为什么你的代码库必须立刻增加一个-AGENTS.md？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529926&idx=1&sn=56764ccea1d5425f484c24bd12b3855e&chksm=f9927317cee5fa01ed170d602966becadf4d9f0ceb3ed285d70beee64713947d694d90477093#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a989b721241ed491d5a1ebe9455791a2)  ![](/assets/new.png) 
+- [2026-06-05-告别-README：为什么你的代码库必须立刻增加一个-AGENTS.md？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529926&idx=1&sn=56764ccea1d5425f484c24bd12b3855e&chksm=f9927317cee5fa01ed170d602966becadf4d9f0ceb3ed285d70beee64713947d694d90477093#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a989b721241ed491d5a1ebe9455791a2)  
 - [2026-06-04-用-Codex-千万别犯这-7-个错误：不然-AI-写代码越帮越忙](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529912&idx=1&sn=73b0fda47949e0f4d89af7fe4e6631c2&chksm=f9927369cee5fa7f839514adf81a501b2815a770482cd48a0dde115f48cf9eab7010b35bddf7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a3fcf8211e3803a7a41bd1445cda4988)  
 - [2026-06-01-别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)  
 - [2026-05-29-AI-产品从-Demo-到上线，中间隔着-24-个坑](http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5389eb3d7e55a3ea0f4f3f8608d04330)  
@@ -261,6 +261,7 @@
 </summary>
 
 
+- [2026-06-05-学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517631&idx=1&sn=7110283e96d7a9aa5cc40224f21a8a7f&chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8b6c0e7e973f2ea65b3a71dfa51bf50)  ![](/assets/new.png) 
 - [2026-05-26-曾经的王，Vue3倒下了！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517626&idx=1&sn=e2d837c20e68f19801716a4e6b5e1f4d&chksm=eb07bdc3dc7034d5d62aa1413c8d296295989405a040fa08f6b22f4526d37fce624a8c35337a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2e1f42d436a8c82be5c261f997f4e08d)  
 - [2026-05-25-2026-年值得关注的前端开发趋势](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517602&idx=1&sn=e88f9ba737531a9afc23f5384179b499&chksm=eb07bddbdc7034cdb7490e218e2a37f3be0285e349ef6a6adaf0067c7045d08124fdfc7c326b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28f62cf8f84c91c65b64d2e93f6aa739)  
 - [2026-05-22-2026，这些-JavaScript-API-已经废弃！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517600&idx=1&sn=e2da84f8bfc22261ed4844d32edcd97f&chksm=eb07bdd9dc7034cf3d331eac9cd32d8264b32d3cc94a83bde052d227ae42eb12988c8a4249a9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0fab06760112f190bf516498e5ffdeae)  
@@ -270,7 +271,6 @@
 - [2026-04-27-尤雨溪赢麻了：Codex、Claude-Code-全在用-Vite8-这套工具链！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517589&idx=1&sn=d6b5469af78a9c8f21f3d87d37d5e9b0&chksm=eb07bdecdc7034faef021a4fe079261ce1c5bb5bb67ea0334722a653b958fbd1466fa0a1946d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f40e1ec2b2d43d035c0058571001eb0b)  
 - [2026-04-24-AI时代的金矿：揭秘人工智能如何帮你赚取第一桶金](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517587&idx=1&sn=0d50ffe7d9491e683c9b5680ae574637&chksm=eb07bdeadc7034fc25efae5e7be41c9458fbe40a4c9fafde7049c56b198c03e6256ccba7948a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=66925f4b26f5f4bc315b05d3d929b177)  
 - [2026-04-23-TypeScript-7.0-Beta-来了：基于-Go-重写，快了整整-10-倍！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517581&idx=1&sn=6096958a5670fbc08ba32b1d160fbb9e&chksm=eb07bdf4dc7034e26fde59e081403f0d16a468b7dbd22692ee3133a27c5418599fc41f65fc6f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b137f04a730e9832bb346ad094dc6417)  
-- [2026-04-22-弃坑-PDF.js！800-倍速-PDF-渲染方案，Vue、React-亲测可用！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517579&idx=1&sn=9473251e51102851c102f3b05b133efb&chksm=eb07bdf2dc7034e412f255d1c946d83c34cdb890b4a408cca225d46d2fd491c4aa4671f453d5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d34e9256225a90c38cf1332c2dcd7cdd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -345,7 +345,7 @@
 </summary>
 
 
-- [2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1e417faaef0b6b38a80b14ce048f75f)  ![](/assets/new.png) 
+- [2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1e417faaef0b6b38a80b14ce048f75f)  
 - [2026-05-29-科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a43bfae8cebc5f5550749895b8e45ff7)  
 - [2026-05-22-科技爱好者周刊（第-397-期）：财富正在向-AI-集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=debddd5d63c6416087610aaede13adb8)  
 - [2026-05-15-科技爱好者周刊（第-396-期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=39823b46233af9171f7b74ff5d8c2d28)  

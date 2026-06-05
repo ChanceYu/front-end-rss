@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-05 19:21:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-06 05:16:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -41,6 +41,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1e417faaef0b6b38a80b14ce048f75f)
+- [【前端从进阶到入院】学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517631&idx=1&sn=7110283e96d7a9aa5cc40224f21a8a7f&chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8b6c0e7e973f2ea65b3a71dfa51bf50)
 - [【前端早读课】【第3712期】Claude-Dreaming功能：Anthropic的自我改进型智能体记忆系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279213&idx=1&sn=326bbb399248c13c604f7bd7ab7766f9&chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72210fd013ba1f9cd18d7c23ea40a1ea)
 - [【Nodejs技术栈】VS-Code-可以卸载了？连-Copilot-的亲爹都搬出去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523786&idx=1&sn=f1d791daffcd7c9410601a27ded07cb1&chksm=e80fd284df785b923a21e7ebe24811f51bc4ea76d644c175c5b2d8bab345788ce742b955d7e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd02514be6f34320ff4809bf881c0fc3)
 - [【程序员成长指北】用-Codex-千万别犯这-7-个错误：不然-AI-写代码越帮越忙](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529912&idx=1&sn=73b0fda47949e0f4d89af7fe4e6631c2&chksm=f9927369cee5fa7f839514adf81a501b2815a770482cd48a0dde115f48cf9eab7010b35bddf7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a3fcf8211e3803a7a41bd1445cda4988)
@@ -49,7 +50,6 @@
 - [【前端大全】美团产品员工吐槽“更应该裁掉的是研发”！用-AI-5-分钟就完成的，研发评审却要-3-小时。网友的反驳杀伤力拉满](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624519&idx=1&sn=de621af12ef780489cb5546ace52f75f&chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2b80c6c51a3a7e56db0351161b411c5a)
 - [【Nodejs技术栈】用惯了-Cursor-和-Claude-Code，我被义乌小老板的"AI-开单"整懵了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523763&idx=1&sn=33803771c3a03fdf1525a2afe2950553&chksm=e80fd2fddf785bebb89796ed530931f7e4b11d8dcc11addc29be2aae36d547fcc058e4a72e8f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b45cb6cb7eeb7cf9390aef089ca0815b)
 - [【淘系前端团队】面向-LLM-的架构设计：什么是真正的-AI-Friendly-架构？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543768&idx=1&sn=b1c0207772c8a6d9550815a6afc01bf4&chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=904ed82e2c17d8ba322575ae2f819f6e)
-- [【前端早读课】【第3708期】智能体引擎优化：当AI成为你文档的头号读者](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279185&idx=1&sn=aa66b7e38286abae9ed971c57f6aa41c&chksm=bc76b09caf42c10b68859c73a37d8b077b843a8073364b999720dc11c30ae4b45d2c769e95b5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9730e8d2d5356310d70cb846df50e6d6)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -560,6 +560,7 @@
 
 
 
+- [【前端从进阶到入院】学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517631&idx=1&sn=7110283e96d7a9aa5cc40224f21a8a7f&chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8b6c0e7e973f2ea65b3a71dfa51bf50)
 - [【前端大全】最近，前端的招聘市场已经疯掉了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624408&idx=1&sn=f83a90a45702d2e60456f15e6b68deba&chksm=80224419b755cd0f5b96bbacf4f7d61d3b9c1c2214449c0f9978310e7b529bc1df6caa7f755d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bab885b855deaa8ef95b731aa3d6eb3)
 - [【前端大全】取代前端岗，又一新兴岗位在崛起！这才是前端未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624391&idx=1&sn=627728a6d23367ed85eb66e0ad8f008c&chksm=80224406b755cd106addea2a34ae09d7a38722e6b1b590fefcd1c04ae170016fd5565b1790e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25706f48b693a3454b8c241481008f7d)
 - [【程序员成长指北】web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s/9HRDafcOghUyk1QFFW9R6Q)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1ae2a6c36cb02dc10dcb430de4fb8571)
@@ -569,7 +570,6 @@
 - [【淘系前端团队】淘天集团2027届实习生招聘正式启动，文末阅读原文查看详情](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543062&idx=1&sn=d453e985ad6644093c56b572c267209c&chksm=8390dbceb4e752d8e6ef8d405f12d66c6edb05bf83e4aa0d085b78794ff60f6fb4340c3e71ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=992c3c1c2fc9e37948813e7e28c2ef1a)
 - [【程序员成长指北】web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529455&idx=1&sn=9e4846fe4d0eac846bf48b24ccd4ba8e&chksm=f992753ecee5fc280e28334ac178e44c84756a680aa87d24fdb269eb0e97b64df89a614a5788#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c063faca5c7e7962434644f32114ad5)
 - [【前端从进阶到入院】web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s/0hJRbl2RInw6jQaU7hevGg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8ec7977fe819cad14d012a11d946e774)
-- [【程序员成长指北】web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529217&idx=1&sn=dc8d1ddaea4e0115261e61a32c535152&chksm=f99275d0cee5fcc6bd471364b733d6f800eb0fd5dc3e259a928d061c5cae8b42369ace4d67d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8b373b60dc3b224731eeacf41f34ed94)
 - [查看更多 >](/details/tags/job-interview.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1e417faaef0b6b38a80b14ce048f75f)
+- [【前端从进阶到入院】学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517631&idx=1&sn=7110283e96d7a9aa5cc40224f21a8a7f&chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8b6c0e7e973f2ea65b3a71dfa51bf50)
 - [【程序员成长指北】告别-README：为什么你的代码库必须立刻增加一个-AGENTS.md？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529926&idx=1&sn=56764ccea1d5425f484c24bd12b3855e&chksm=f9927317cee5fa01ed170d602966becadf4d9f0ceb3ed285d70beee64713947d694d90477093#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a989b721241ed491d5a1ebe9455791a2)
 - [【前端大全】Cloudflare-收购尤雨溪创办的-VoidZero](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624524&idx=1&sn=60c99160d57349488d1504230cd94d17&chksm=8022438db755ca9bda9f761deccf9cf471a44e45f932e6e9227e75597f4515d9c98c60c91939#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d7ea7df1b2d1388b5c912b6e6e25b79)
 - [【前端早读课】【第3712期】Claude-Dreaming功能：Anthropic的自我改进型智能体记忆系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279213&idx=1&sn=326bbb399248c13c604f7bd7ab7766f9&chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72210fd013ba1f9cd18d7c23ea40a1ea)
@@ -593,7 +594,6 @@
 - [【前端早读课】【第3711期】Claude-Code-在大型代码库中的工作原理：最佳实践与入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279208&idx=1&sn=8ed61620207ba97d265b874778b6a1d8&chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6469adbc7c9f48b64d0a7f45be76cd61)
 - [【Node-Weekly】Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f820d917cc5e6279315d8351741c705)
 - [【Nodejs技术栈】Lovable-把-React+Vite-换掉了，用-TanStack-Start-重构后每周跑出-100-万个应用](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523776&idx=1&sn=68ca2b8cf6ff07e4d5e4cae683cb3ad8&chksm=e80fd28edf785b98772d009e5b1b807f8fc8ea774bad094107af30ce8ab1f326ae5ebe9089b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fa97cd2492873f479824df6dfe599112)
-- [【前端早读课】【第3710期】智能体驱动框架的解剖与推演](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279198&idx=1&sn=264d03eade31e32fc9f0cc6c16e6aeb1&chksm=bc1d9d16d173d61b53a9a3a19c959942632a1f6d758ca76c40f9305e1867764c3adf4d4a2bcc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=922f7a44ef2dca35693df9db21d8a72a)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
