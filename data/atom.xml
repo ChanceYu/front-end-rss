@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-06T01:56:24.939Z</updated>
+    <updated>2026-06-06T11:14:53.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[VS Code 真要废了！曾经 Cursor 最强对手 Windsurf，也不搞编辑器了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523809&amp;idx=1&amp;sn=66ae35688bda8711be3af6eecb573e51&amp;chksm=e80fd2afdf785bb95afa848f84250aea2aa7a6e0a31ef07e42ee294764717d45f7ba3e7a8728#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523809&amp;idx=1&amp;sn=66ae35688bda8711be3af6eecb573e51&amp;chksm=e80fd2afdf785bb95afa848f84250aea2aa7a6e0a31ef07e42ee294764717d45f7ba3e7a8728#rd"/>
+        <updated>2026-06-06T00:00:00.000Z</updated>
+        <published>2026-06-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突发！尤雨溪的 VoidZero 被 Cloudflare 收购，Vite 全家桶集体易主]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523808&amp;idx=1&amp;sn=17cf46ebe1bafd1954d1449e62accda4&amp;chksm=e80fd2aedf785bb89930d12b889345a1044321a270534025a684970eab9f91d8a4792e73777f#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 397 期）：财富正在向 AI 集中]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html"/>
-        <updated>2026-05-22T00:00:00.000Z</updated>
-        <published>2026-05-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器自动化：从GUI到OpenCLI]]></title>
-        <id>http://mp.weixin.qq.com/s/hp8yj2_qc2MmCi1jYpfx5g</id>
-        <link href="http://mp.weixin.qq.com/s/hp8yj2_qc2MmCi1jYpfx5g"/>
         <updated>2026-05-22T00:00:00.000Z</updated>
         <published>2026-05-22T00:00:00.000Z</published>
     </entry>
