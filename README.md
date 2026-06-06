@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-06 19:15:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-07 00:57:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -36,12 +36,12 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -303,6 +303,8 @@
 </summary>
 
 
+- [2026-06-05-CCIG-2026-|-TaoAvatar：3D真人数字人在淘宝Vision领域的应用](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544017&idx=1&sn=7c1a0cc4a43ea9b7cd5417ed44822e76&chksm=8390df89b4e7569f8c39e4fc9dcb597cc12ad38afac25faa95f31a606e4f51213e382449200c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3a3ffb6beeb3895e5fd51a3e2043f061)  ![](/assets/new.png) 
+- [2026-06-03-Agent-Memory-评测全景：基准、评估与记忆系统（理论篇）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543910&idx=1&sn=4359b93141cc75aaa1976382d4cb39df&chksm=8390df3eb4e75628eea5247e62afe6462278cd21455276939912dc0eab5be7fda60e48df85c0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=75e0d30ef30c4d0b4a8589be687d3bd8)  ![](/assets/new.png) 
 - [2026-06-01-面向-LLM-的架构设计：什么是真正的-AI-Friendly-架构？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543768&idx=1&sn=b1c0207772c8a6d9550815a6afc01bf4&chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=904ed82e2c17d8ba322575ae2f819f6e)  
 - [2026-05-29-从定制Workflow到AI自主决策的架构演进——以TMIC-AI小新为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543765&idx=1&sn=4961784aef454d7fc2bf45e57a901431&chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=709ce084e06772ca2793ca5f5910e51d)  
 - [2026-05-27-从人机协作到AI主导：我们是怎么把代码质量交给“数字SRE”的？](http://mp.weixin.qq.com/s/jBXkp2Fz4hpcTEyBl6RwZg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ceccf4c517ee20f0793fcc993a638a44)  
@@ -311,8 +313,6 @@
 - [2026-05-20-TLiveOmni-1.0:-直播视频多模态理解大模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543551&idx=1&sn=1c54bcc7ec88c7e19655ae7a299cdf2e&chksm=8390dda7b4e754b1c8c8defeee65bbc9b2f175b4f8b0edc42b02e9301fd6f509afb188becf73#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f75ef602788cd86edfaaa072a21569ed)  
 - [2026-05-18-RAG-全链路技术详解](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543478&idx=1&sn=3d53b81dc195e7ccd6e652000bcf8ba8&chksm=8390dd6eb4e75478580dd2e857da4a06d0b9b644fbb6cefbb3492a5217ca7304b465127f37a9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4ca358790bb18ee075debac6e0803bc)  
 - [2026-05-15-面向智能导购的Agent评测实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543468&idx=1&sn=f87e00d562d95669959e6690436c3df0&chksm=8390dd74b4e75462d23809c38a201c20011a01ea7c6a53fb3d83173a7dc70f2c24ba55f4155c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af6c3fb13ae47415738c1369d05a4b77)  
-- [2026-05-13-AI-Generated-UI-技术深度解析：模型流式输出与-UI-渲染实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543420&idx=1&sn=76ea38246b7ca484a7b6aab94076fdbd&chksm=8390dd24b4e75432cc265926c95c2b90c14d8df76f06f060b9057e1824dba2a0f15bccba6549#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=86db63662d716a83547dd486ee26526f)  
-- [2026-05-11-缓存使用实践总结：以淘宝交易结算场景为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543415&idx=1&sn=7fbf20f7e85a9e76d205fddb5887272f&chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a6db90db9e6db45b0b417ad0f6672297)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2026-06-06-VS-Code-真要废了！曾经-Cursor-最强对手-Windsurf，也不搞编辑器了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523809&idx=1&sn=66ae35688bda8711be3af6eecb573e51&chksm=e80fd2afdf785bb95afa848f84250aea2aa7a6e0a31ef07e42ee294764717d45f7ba3e7a8728#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5737d865548cbd18b61b8f2dcdd82d7)  ![](/assets/new.png) 
+- [2026-06-06-VS-Code-真要废了！曾经-Cursor-最强对手-Windsurf，也不搞编辑器了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523809&idx=1&sn=66ae35688bda8711be3af6eecb573e51&chksm=e80fd2afdf785bb95afa848f84250aea2aa7a6e0a31ef07e42ee294764717d45f7ba3e7a8728#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5737d865548cbd18b61b8f2dcdd82d7)  
 - [2026-06-05-突发！尤雨溪的-VoidZero-被-Cloudflare-收购，Vite-全家桶集体易主](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523808&idx=1&sn=17cf46ebe1bafd1954d1449e62accda4&chksm=e80fd2aedf785bb89930d12b889345a1044321a270534025a684970eab9f91d8a4792e73777f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28c0707271f8ba55164c2d81d2b14e31)  
 - [2026-06-04-VS-Code-可以卸载了？连-Copilot-的亲爹都搬出去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523786&idx=1&sn=f1d791daffcd7c9410601a27ded07cb1&chksm=e80fd284df785b923a21e7ebe24811f51bc4ea76d644c175c5b2d8bab345788ce742b955d7e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd02514be6f34320ff4809bf881c0fc3)  
 - [2026-06-03-Lovable-把-React+Vite-换掉了，用-TanStack-Start-重构后每周跑出-100-万个应用](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523776&idx=1&sn=68ca2b8cf6ff07e4d5e4cae683cb3ad8&chksm=e80fd28edf785b98772d009e5b1b807f8fc8ea774bad094107af30ce8ab1f326ae5ebe9089b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fa97cd2492873f479824df6dfe599112)  
