@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-06T16:56:34.574Z</updated>
+    <updated>2026-06-07T15:16:39.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Deno 换掉 TS 解析底座，迁移到尤雨溪 VoidZero 旗下的 OXC]]></title>
+        <id>http://mp.weixin.qq.com/s/fo2NQJlR4PCLBcS70105JQ</id>
+        <link href="http://mp.weixin.qq.com/s/fo2NQJlR4PCLBcS70105JQ"/>
+        <updated>2026-06-07T00:00:00.000Z</updated>
+        <published>2026-06-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VS Code 真要废了！曾经 Cursor 最强对手 Windsurf，也不搞编辑器了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523809&amp;idx=1&amp;sn=66ae35688bda8711be3af6eecb573e51&amp;chksm=e80fd2afdf785bb95afa848f84250aea2aa7a6e0a31ef07e42ee294764717d45f7ba3e7a8728#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529845&amp;idx=1&amp;sn=b85f9321265172ee0fde883535250b9f&amp;chksm=f99273a4cee5fab24d931e4d6328133c9106e2ec39782b8b51205100ddb89931b5e07fa8bd3c#rd"/>
         <updated>2026-05-24T00:00:00.000Z</updated>
         <published>2026-05-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deno 2.8 发布：创始人承认速度打不过 Bun，但 Node.js 兼容性是 Bun 的两倍]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523580&amp;idx=1&amp;sn=a09d8bdbbd11403ed774601e95c33926&amp;chksm=e80fd3b2df785aa4a39570631a57605fa81c322db4535901f4bb9467707dd3e954295dd55af1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523580&amp;idx=1&amp;sn=a09d8bdbbd11403ed774601e95c33926&amp;chksm=e80fd3b2df785aa4a39570631a57605fa81c322db4535901f4bb9467707dd3e954295dd55af1#rd"/>
-        <updated>2026-05-23T00:00:00.000Z</updated>
-        <published>2026-05-23T00:00:00.000Z</published>
     </entry>
 </feed>
