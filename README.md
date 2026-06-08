@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-07 23:16:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-08 21:57:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -26,11 +26,11 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -93,6 +93,7 @@
 </summary>
 
 
+- [2026-06-08-【早说】智能体-AI-省钱指南：缓存、路由与上下文优化实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279256&idx=1&sn=207683769fa266b0b144ef75aa78f364&chksm=bc68daa32f57cda3b449402f67ffd95bc47f442fce9e3c622a040c5037d320718d1feaf51fd4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aab08c8dfe634859554e528f0b15d316)  ![](/assets/new.png) 
 - [2026-06-05-【第3712期】Claude-Dreaming功能：Anthropic的自我改进型智能体记忆系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279213&idx=1&sn=326bbb399248c13c604f7bd7ab7766f9&chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72210fd013ba1f9cd18d7c23ea40a1ea)  
 - [2026-06-04-【第3711期】Claude-Code-在大型代码库中的工作原理：最佳实践与入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279208&idx=1&sn=8ed61620207ba97d265b874778b6a1d8&chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6469adbc7c9f48b64d0a7f45be76cd61)  
 - [2026-06-03-【第3710期】智能体驱动框架的解剖与推演](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279198&idx=1&sn=264d03eade31e32fc9f0cc6c16e6aeb1&chksm=bc1d9d16d173d61b53a9a3a19c959942632a1f6d758ca76c40f9305e1867764c3adf4d4a2bcc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=922f7a44ef2dca35693df9db21d8a72a)  
@@ -100,9 +101,8 @@
 - [2026-06-01-【第3708期】智能体引擎优化：当AI成为你文档的头号读者](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279185&idx=1&sn=aa66b7e38286abae9ed971c57f6aa41c&chksm=bc76b09caf42c10b68859c73a37d8b077b843a8073364b999720dc11c30ae4b45d2c769e95b5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9730e8d2d5356310d70cb846df50e6d6)  
 - [2026-05-29-【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815)  
 - [2026-05-28-【第3706期】Node.js-Stream-没有在做背压控制，正在悄悄吃掉内存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279174&idx=1&sn=8b6d812bae24d88634f0fb0ec25c3422&chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d52d7c0978cb6bbf0bf6a8f549349640)  
-- [2026-05-27-【图书】Trae与AI-Agent协作实战：多智能体AI编程全栈指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=2&sn=8b198de0e6651997f01745b58dba4a42&chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90780a7c30e01156eb0bb6e1be40fb78)  
 - [2026-05-27-【早说】AI让你更快，却未必让你更强](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=1&sn=4f47ccfe47e4476bdf5c9b34faa649ec&chksm=bcad4d2d83407797ab1d81db562892efda9cc19bba262cd42949f8ed622fd03b9f348bae67c7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e67356b8289ff9027845fde5dc3539e)  
-- [2026-05-26-【第3705期】让-Codex-物尽其用：从编程助手到全能工作系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279159&idx=1&sn=40f71ba2ace9c79fcf04a7a767999b3c&chksm=bc81ce6d02efe440257300115f877cb897e9f7df0a97d239185276bb0b55c94686f973be37f5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8b24a569f6fa07029cd486c5d04d0a1b)  
+- [2026-05-27-【图书】Trae与AI-Agent协作实战：多智能体AI编程全栈指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279169&idx=2&sn=8b198de0e6651997f01745b58dba4a42&chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90780a7c30e01156eb0bb6e1be40fb78)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -177,6 +177,7 @@
 </summary>
 
 
+- [2026-06-08-让-Claude-Code-少胡说：我整理了-4-个最有用的配置](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529933&idx=1&sn=03ea77a9c314a12ecc69bd3517d9d51b&chksm=f992731ccee5fa0a8ce1d5c4815b21cdd031c0505aa6719cc06ed2b817e55d0f856f627872ba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1b8376c13abed6849930364f198f8efc)  ![](/assets/new.png) 
 - [2026-06-05-告别-README：为什么你的代码库必须立刻增加一个-AGENTS.md？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529926&idx=1&sn=56764ccea1d5425f484c24bd12b3855e&chksm=f9927317cee5fa01ed170d602966becadf4d9f0ceb3ed285d70beee64713947d694d90477093#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a989b721241ed491d5a1ebe9455791a2)  
 - [2026-06-04-用-Codex-千万别犯这-7-个错误：不然-AI-写代码越帮越忙](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529912&idx=1&sn=73b0fda47949e0f4d89af7fe4e6631c2&chksm=f9927369cee5fa7f839514adf81a501b2815a770482cd48a0dde115f48cf9eab7010b35bddf7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a3fcf8211e3803a7a41bd1445cda4988)  
 - [2026-06-01-别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)  
@@ -186,7 +187,6 @@
 - [2026-05-24-Codex-手机端来了：别再守着电脑等-AI-写代码了（带实操）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529845&idx=1&sn=b85f9321265172ee0fde883535250b9f&chksm=f99273a4cee5fab24d931e4d6328133c9106e2ec39782b8b51205100ddb89931b5e07fa8bd3c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c9f18187fc3ed8e4d77f24d98963524d)  
 - [2026-05-19-Karpathy-的-4-条规则让-Claude-出错率骤降，但还不够。Mnimiy-又加了-8-条](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529834&idx=1&sn=cff9a8b4b07b328f840e25497a196045&chksm=f99273bbcee5faada11e6f8c13674cb89ae4ac35b379b020aa9adb7562105111f4e0f6b2b447#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3b6fc713d73881d7931d346d2607eb8e)  
 - [2026-05-18-看完-Anthropic-这份内部手册，很多人后悔创业太早了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529829&idx=1&sn=6b9799352c9a2f833c7f617e6bc34abf&chksm=f99273b4cee5faa2c746b1eb7cc1568af6c43f3805ae87b1dd1bb87d8555cb61e7df2eb96352#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5cb5b74fc8e5af342e316b2e92d563b)  
-- [2026-05-14-用了几周明基-RD280UG，我终于明白程序员为什么需要一台“专用显示器”](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529815&idx=1&sn=a2d66cffd74e5158eec2a4f111305f22&chksm=f9927386cee5fa90085e6aedd5c099865e14538ca422c7e08286db85a0bba948f88c7ee3c7c3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b7359290ccdaced3ae0aac9e2f0770f4)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2026-06-07-Deno-换掉-TS-解析底座，迁移到尤雨溪-VoidZero-旗下的-OXC](http://mp.weixin.qq.com/s/fo2NQJlR4PCLBcS70105JQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5876557b09f2537e4820fe72b4d24e5)  ![](/assets/new.png) 
+- [2026-06-07-Deno-换掉-TS-解析底座，迁移到尤雨溪-VoidZero-旗下的-OXC](http://mp.weixin.qq.com/s/fo2NQJlR4PCLBcS70105JQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5876557b09f2537e4820fe72b4d24e5)  
 - [2026-06-06-VS-Code-真要废了！曾经-Cursor-最强对手-Windsurf，也不搞编辑器了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523809&idx=1&sn=66ae35688bda8711be3af6eecb573e51&chksm=e80fd2afdf785bb95afa848f84250aea2aa7a6e0a31ef07e42ee294764717d45f7ba3e7a8728#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5737d865548cbd18b61b8f2dcdd82d7)  
 - [2026-06-05-突发！尤雨溪的-VoidZero-被-Cloudflare-收购，Vite-全家桶集体易主](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523808&idx=1&sn=17cf46ebe1bafd1954d1449e62accda4&chksm=e80fd2aedf785bb89930d12b889345a1044321a270534025a684970eab9f91d8a4792e73777f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28c0707271f8ba55164c2d81d2b14e31)  
 - [2026-06-04-VS-Code-可以卸载了？连-Copilot-的亲爹都搬出去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523786&idx=1&sn=f1d791daffcd7c9410601a27ded07cb1&chksm=e80fd284df785b923a21e7ebe24811f51bc4ea76d644c175c5b2d8bab345788ce742b955d7e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd02514be6f34320ff4809bf881c0fc3)  
