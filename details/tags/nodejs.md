@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-10 00:25:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-10 05:29:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,8 @@
 
 
 
+- [2026-06-09-用-Codex-造了一个-Node.js-运行时，两周，本来要一年](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523844&idx=1&sn=74c1d32bdb9fdd37b8760f1e8728edef&chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e7ff9b29fe958bf703fbff9cd599e9e) 
+- [2026-06-08-Bun-作者要给-JS-搞真多线程了？worker_threads-那种不算](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523828&idx=1&sn=9b3e524a71e2125cd0ae6b07a63127b3&chksm=e80fd2badf785bac13c4b3d10bf4f8d19953508120570d1e07e3d9c596cd54a1d8019b095aad#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0b30d9e686d1e1d16254014770f7795) 
 - [2026-06-07-Deno-换掉-TS-解析底座，迁移到尤雨溪-VoidZero-旗下的-OXC](http://mp.weixin.qq.com/s/fo2NQJlR4PCLBcS70105JQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5876557b09f2537e4820fe72b4d24e5) 
 - [2026-05-29-Claude-Opus-4.8-发布，Bun-作者说-6-天用-Rust-重写-Bun-靠的是这个新功能](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523723&idx=1&sn=1c9e39fa922d7dfbefaafa35ed7ed2ce&chksm=e80fd2c5df785bd3e415fface520f91cfe29d58cc6f9b26856604e1b4dbb0bde96487367a91e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0dd07d3edd1af951a3d65ec602676466) 
 - [2026-05-29-【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815) 

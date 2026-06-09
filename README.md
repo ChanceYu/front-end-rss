@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-10 00:25:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-10 05:29:12，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -25,7 +25,7 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -72,7 +72,7 @@
 </summary>
 
 
-- [2026-06-09-VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a263be7baa09034ac7994d6305700116)  ![](/assets/new.png) 
+- [2026-06-09-VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a263be7baa09034ac7994d6305700116)  
 - [2026-06-02-How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7610eac06ab378ac827599e733631f3c)  
 - [2026-05-26-npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6cda4d37774fb94444321edfe4093a58)  
 - [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1917476702340e9caf1105227e054071)  
@@ -408,6 +408,8 @@
 </summary>
 
 
+- [2026-06-09-用-Codex-造了一个-Node.js-运行时，两周，本来要一年](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523844&idx=1&sn=74c1d32bdb9fdd37b8760f1e8728edef&chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e7ff9b29fe958bf703fbff9cd599e9e)  ![](/assets/new.png) 
+- [2026-06-08-Bun-作者要给-JS-搞真多线程了？worker_threads-那种不算](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523828&idx=1&sn=9b3e524a71e2125cd0ae6b07a63127b3&chksm=e80fd2badf785bac13c4b3d10bf4f8d19953508120570d1e07e3d9c596cd54a1d8019b095aad#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0b30d9e686d1e1d16254014770f7795)  ![](/assets/new.png) 
 - [2026-06-07-Deno-换掉-TS-解析底座，迁移到尤雨溪-VoidZero-旗下的-OXC](http://mp.weixin.qq.com/s/fo2NQJlR4PCLBcS70105JQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5876557b09f2537e4820fe72b4d24e5)  
 - [2026-06-06-VS-Code-真要废了！曾经-Cursor-最强对手-Windsurf，也不搞编辑器了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523809&idx=1&sn=66ae35688bda8711be3af6eecb573e51&chksm=e80fd2afdf785bb95afa848f84250aea2aa7a6e0a31ef07e42ee294764717d45f7ba3e7a8728#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5737d865548cbd18b61b8f2dcdd82d7)  
 - [2026-06-05-突发！尤雨溪的-VoidZero-被-Cloudflare-收购，Vite-全家桶集体易主](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523808&idx=1&sn=17cf46ebe1bafd1954d1449e62accda4&chksm=e80fd2aedf785bb89930d12b889345a1044321a270534025a684970eab9f91d8a4792e73777f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28c0707271f8ba55164c2d81d2b14e31)  
@@ -416,8 +418,6 @@
 - [2026-06-02-Astro-把-Claude-Code-那套东西做成了一个纯-TypeScript-框架开源了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523769&idx=1&sn=a64d90f2ffb161d06e1175662247c04b&chksm=e80fd2f7df785be1e2cdc1a43e22582b4cf09d9360c4147a4a18964e6ca269fce1e07ee93c8b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0f18fefbf482bd565b48cf2233d5863)  
 - [2026-06-01-用惯了-Cursor-和-Claude-Code，我被义乌小老板的"AI-开单"整懵了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523763&idx=1&sn=33803771c3a03fdf1525a2afe2950553&chksm=e80fd2fddf785bebb89796ed530931f7e4b11d8dcc11addc29be2aae36d547fcc058e4a72e8f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b45cb6cb7eeb7cf9390aef089ca0815b)  
 - [2026-05-31-离谱！为了反-AI-编程，这个-Java-库作者竟然亲自投毒！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523760&idx=1&sn=4342a234ce649963649c3e47f7e7bd5d&chksm=e80fd2fedf785be8daccfe137ba1f701b18af6872566a8db02a0e30db3710e4267b5a887911c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9882c7785793084546abfac4e79d0bd2)  
-- [2026-05-30-105k-star-的-Gemini-CLI-是-TS-写的，谷歌转头用-Go-把它重造了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523731&idx=1&sn=312186a9faa749195c5b12a0ed68e981&chksm=e80fd2dddf785bcb3e397ed67a3bb502dc5ed9cec76c76925e358d50c196bb1d4f4bc65ff982#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=20410dfd23f104829b7e7642f8519ee7)  
-- [2026-05-29-Claude-Opus-4.8-发布，Bun-作者说-6-天用-Rust-重写-Bun-靠的是这个新功能](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523723&idx=1&sn=1c9e39fa922d7dfbefaafa35ed7ed2ce&chksm=e80fd2c5df785bd3e415fface520f91cfe29d58cc6f9b26856604e1b4dbb0bde96487367a91e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0dd07d3edd1af951a3d65ec602676466)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

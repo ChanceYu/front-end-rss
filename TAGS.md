@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-10 00:25:30。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-10 05:29:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【Nodejs技术栈】用-Codex-造了一个-Node.js-运行时，两周，本来要一年](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523844&idx=1&sn=74c1d32bdb9fdd37b8760f1e8728edef&chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e7ff9b29fe958bf703fbff9cd599e9e)
 - [【前端早读课】【第3713期】Perplexity-Agent-技能设计、打磨与维护完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279262&idx=1&sn=f3a3ac1e3fb8328ffa17cb1084cba018&chksm=bc7ad1c44f4d058e300b7c5c612591c76033dc7b50839e396c89ec4eca0a8ab72a33a7a61acc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=821c78ad8c56973574438671fe6f8b49)
 - [【淘系前端团队】《AI重塑经营：2026中国电商AI应用白皮书》正式发布！](http://mp.weixin.qq.com/s/5AeTnVgxqoyCqhD9MfMa7Q)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4d987cd74e41e9ed0c5a0405ce58347f)
 - [【程序员成长指北】让-Claude-Code-少胡说：我整理了-4-个最有用的配置](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529933&idx=1&sn=03ea77a9c314a12ecc69bd3517d9d51b&chksm=f992731ccee5fa0a8ce1d5c4815b21cdd031c0505aa6719cc06ed2b817e55d0f856f627872ba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1b8376c13abed6849930364f198f8efc)
@@ -49,7 +50,6 @@
 - [【前端从进阶到入院】学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517631&idx=1&sn=7110283e96d7a9aa5cc40224f21a8a7f&chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8b6c0e7e973f2ea65b3a71dfa51bf50)
 - [【前端早读课】【第3712期】Claude-Dreaming功能：Anthropic的自我改进型智能体记忆系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279213&idx=1&sn=326bbb399248c13c604f7bd7ab7766f9&chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72210fd013ba1f9cd18d7c23ea40a1ea)
 - [【Nodejs技术栈】VS-Code-可以卸载了？连-Copilot-的亲爹都搬出去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523786&idx=1&sn=f1d791daffcd7c9410601a27ded07cb1&chksm=e80fd284df785b923a21e7ebe24811f51bc4ea76d644c175c5b2d8bab345788ce742b955d7e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd02514be6f34320ff4809bf881c0fc3)
-- [【程序员成长指北】用-Codex-千万别犯这-7-个错误：不然-AI-写代码越帮越忙](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529912&idx=1&sn=73b0fda47949e0f4d89af7fe4e6631c2&chksm=f9927369cee5fa7f839514adf81a501b2815a770482cd48a0dde115f48cf9eab7010b35bddf7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a3fcf8211e3803a7a41bd1445cda4988)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -144,6 +144,8 @@
 
 
 
+- [【Nodejs技术栈】用-Codex-造了一个-Node.js-运行时，两周，本来要一年](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523844&idx=1&sn=74c1d32bdb9fdd37b8760f1e8728edef&chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e7ff9b29fe958bf703fbff9cd599e9e)
+- [【Nodejs技术栈】Bun-作者要给-JS-搞真多线程了？worker_threads-那种不算](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523828&idx=1&sn=9b3e524a71e2125cd0ae6b07a63127b3&chksm=e80fd2badf785bac13c4b3d10bf4f8d19953508120570d1e07e3d9c596cd54a1d8019b095aad#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0b30d9e686d1e1d16254014770f7795)
 - [【前端早读课】【早说】智能体-AI-省钱指南：缓存、路由与上下文优化实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279256&idx=1&sn=207683769fa266b0b144ef75aa78f364&chksm=bc68daa32f57cda3b449402f67ffd95bc47f442fce9e3c622a040c5037d320718d1feaf51fd4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aab08c8dfe634859554e528f0b15d316)
 - [【程序员成长指北】别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)
 - [【前端早读课】【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815)
@@ -152,8 +154,6 @@
 - [【Node-Weekly】Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcdb2c41a5b103b112ece1664296629b)
 - [【程序员成长指北】前端转全栈别乱学：15-个-Node.js-高质量资源推荐，按能力地图整理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529859&idx=1&sn=328851a5bacdebc05ef0adfa57ee5db4&chksm=f9927352cee5fa444b23f9cb75fbc39e356cb8812a05232fafdf00b5504f51db6c36d3e9c30e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=961533c6ef1ab8bb3708cfc15e22343b)
 - [【前端早读课】【第3704期】谁来掌控组件树？重新理解-RSC-的本质](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279147&idx=1&sn=7bd6cb65bb2e0f521aa8b3ca3c7d2a13&chksm=bc82ad507e9cacd289ac977c40cd313980a83e572fa01d7ae7f2c8efeaa8a4c584db63a9ca96&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=632baacd4253ff72cbc208aec4c7cce9)
-- [【Nodejs技术栈】Deno-2.8-发布：创始人承认速度打不过-Bun，但-Node.js-兼容性是-Bun-的两倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523580&idx=1&sn=a09d8bdbbd11403ed774601e95c33926&chksm=e80fd3b2df785aa4a39570631a57605fa81c322db4535901f4bb9467707dd3e954295dd55af1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=775010e20031ef03fc600ac5e4cc884c)
-- [【Nodejs技术栈】他们用-Node.js-把《毁灭战士》搬进了终端，还有人说-JS-靠它能追上-Python](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523574&idx=1&sn=ed88e054b94a214db581c751cdc0f443&chksm=e80fd3b8df785aae336d1c87e49dcdab98cdaea8252a0691730c4a48dc0b5dc0c8e660a4eccc#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7fdf78cba2df79e7b789a85b08552fd2)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -170,6 +170,8 @@
 
 
 
+- [【Nodejs技术栈】用-Codex-造了一个-Node.js-运行时，两周，本来要一年](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523844&idx=1&sn=74c1d32bdb9fdd37b8760f1e8728edef&chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e7ff9b29fe958bf703fbff9cd599e9e)
+- [【Nodejs技术栈】Bun-作者要给-JS-搞真多线程了？worker_threads-那种不算](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523828&idx=1&sn=9b3e524a71e2125cd0ae6b07a63127b3&chksm=e80fd2badf785bac13c4b3d10bf4f8d19953508120570d1e07e3d9c596cd54a1d8019b095aad#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0b30d9e686d1e1d16254014770f7795)
 - [【Nodejs技术栈】Deno-换掉-TS-解析底座，迁移到尤雨溪-VoidZero-旗下的-OXC](http://mp.weixin.qq.com/s/fo2NQJlR4PCLBcS70105JQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5876557b09f2537e4820fe72b4d24e5)
 - [【Nodejs技术栈】Claude-Opus-4.8-发布，Bun-作者说-6-天用-Rust-重写-Bun-靠的是这个新功能](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523723&idx=1&sn=1c9e39fa922d7dfbefaafa35ed7ed2ce&chksm=e80fd2c5df785bd3e415fface520f91cfe29d58cc6f9b26856604e1b4dbb0bde96487367a91e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0dd07d3edd1af951a3d65ec602676466)
 - [【前端早读课】【第3707期】Node.js-流泄漏的生产实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279180&idx=1&sn=617062faa7a92a87c7321721d169c5ca&chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b609605cd25118d074520bf6e2f1c815)
@@ -178,8 +180,6 @@
 - [【Node-Weekly】Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcdb2c41a5b103b112ece1664296629b)
 - [【Nodejs技术栈】Node、Deno、Bun-到底怎么选？我把这道送命题甩给了天工](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523661&idx=1&sn=ccc20fa10bcf25872a1c2370117b7f6e&chksm=e80fd203df785b150580f2840024c1c4d14e8f00d4ce43a4372e5bb00b1fdfe6155eac04187f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=64014b26e4c6a080f3b08205441fc7a6)
 - [【程序员成长指北】前端转全栈别乱学：15-个-Node.js-高质量资源推荐，按能力地图整理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529859&idx=1&sn=328851a5bacdebc05ef0adfa57ee5db4&chksm=f9927352cee5fa444b23f9cb75fbc39e356cb8812a05232fafdf00b5504f51db6c36d3e9c30e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=961533c6ef1ab8bb3708cfc15e22343b)
-- [【Nodejs技术栈】Rust-重写-AI-味太浓，Bun-被-yt-dlp-封版本、Electrobun-直接解绑](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523590&idx=1&sn=3395ab3f9a1fe234f9aebabd8e1398a3&chksm=e80fd248df785b5e3e013e04a335b969ce00b2f3bbc4312d32563b2111bd00f230048d539286#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=064611791c58b99a63112e80eef1f019)
-- [【Nodejs技术栈】Deno-2.8-发布：创始人承认速度打不过-Bun，但-Node.js-兼容性是-Bun-的两倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523580&idx=1&sn=a09d8bdbbd11403ed774601e95c33926&chksm=e80fd3b2df785aa4a39570631a57605fa81c322db4535901f4bb9467707dd3e954295dd55af1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=775010e20031ef03fc600ac5e4cc884c)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,16 +584,16 @@
 
 
 
+- [【Nodejs技术栈】用-Codex-造了一个-Node.js-运行时，两周，本来要一年](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523844&idx=1&sn=74c1d32bdb9fdd37b8760f1e8728edef&chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e7ff9b29fe958bf703fbff9cd599e9e)
 - [【前端早读课】【第3713期】Perplexity-Agent-技能设计、打磨与维护完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279262&idx=1&sn=f3a3ac1e3fb8328ffa17cb1084cba018&chksm=bc7ad1c44f4d058e300b7c5c612591c76033dc7b50839e396c89ec4eca0a8ab72a33a7a61acc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=821c78ad8c56973574438671fe6f8b49)
 - [【JavaScript-Weekly】VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a263be7baa09034ac7994d6305700116)
+- [【Nodejs技术栈】Bun-作者要给-JS-搞真多线程了？worker_threads-那种不算](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523828&idx=1&sn=9b3e524a71e2125cd0ae6b07a63127b3&chksm=e80fd2badf785bac13c4b3d10bf4f8d19953508120570d1e07e3d9c596cd54a1d8019b095aad#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0b30d9e686d1e1d16254014770f7795)
 - [【淘系前端团队】《AI重塑经营：2026中国电商AI应用白皮书》正式发布！](http://mp.weixin.qq.com/s/5AeTnVgxqoyCqhD9MfMa7Q)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4d987cd74e41e9ed0c5a0405ce58347f)
 - [【程序员成长指北】让-Claude-Code-少胡说：我整理了-4-个最有用的配置](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529933&idx=1&sn=03ea77a9c314a12ecc69bd3517d9d51b&chksm=f992731ccee5fa0a8ce1d5c4815b21cdd031c0505aa6719cc06ed2b817e55d0f856f627872ba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1b8376c13abed6849930364f198f8efc)
 - [【前端大全】Angular-22-发布！这一次，真的太超前了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624530&idx=1&sn=3a5c8a3a3549cb9a672c7b85c2720fda&chksm=80224393b755ca851def67bae5100964f6aa010c797b4aa80b3837f702d4c221e1a2a61c3b7b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=675b41e3d9085051dee83532eb943460)
 - [【前端早读课】【早说】智能体-AI-省钱指南：缓存、路由与上下文优化实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279256&idx=1&sn=207683769fa266b0b144ef75aa78f364&chksm=bc68daa32f57cda3b449402f67ffd95bc47f442fce9e3c622a040c5037d320718d1feaf51fd4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aab08c8dfe634859554e528f0b15d316)
 - [【Nodejs技术栈】Deno-换掉-TS-解析底座，迁移到尤雨溪-VoidZero-旗下的-OXC](http://mp.weixin.qq.com/s/fo2NQJlR4PCLBcS70105JQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5876557b09f2537e4820fe72b4d24e5)
 - [【Nodejs技术栈】VS-Code-真要废了！曾经-Cursor-最强对手-Windsurf，也不搞编辑器了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523809&idx=1&sn=66ae35688bda8711be3af6eecb573e51&chksm=e80fd2afdf785bb95afa848f84250aea2aa7a6e0a31ef07e42ee294764717d45f7ba3e7a8728#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5737d865548cbd18b61b8f2dcdd82d7)
-- [【Nodejs技术栈】突发！尤雨溪的-VoidZero-被-Cloudflare-收购，Vite-全家桶集体易主](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523808&idx=1&sn=17cf46ebe1bafd1954d1449e62accda4&chksm=e80fd2aedf785bb89930d12b889345a1044321a270534025a684970eab9f91d8a4792e73777f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28c0707271f8ba55164c2d81d2b14e31)
-- [【阮一峰的网络日志】科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1e417faaef0b6b38a80b14ce048f75f)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
