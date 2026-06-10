@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-09T21:28:41.237Z</updated>
+    <updated>2026-06-10T07:59:37.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[全新的CSS border-shape属性简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/"/>
+        <updated>2026-06-10T00:00:00.000Z</updated>
+        <published>2026-06-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用 Codex 造了一个 Node.js 运行时，两周，本来要一年]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523844&amp;idx=1&amp;sn=74c1d32bdb9fdd37b8760f1e8728edef&amp;chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3705期】让 Codex 物尽其用：从编程助手到全能工作系统]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279159&amp;idx=1&amp;sn=40f71ba2ace9c79fcf04a7a767999b3c&amp;chksm=bc81ce6d02efe440257300115f877cb897e9f7df0a97d239185276bb0b55c94686f973be37f5&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279159&amp;idx=1&amp;sn=40f71ba2ace9c79fcf04a7a767999b3c&amp;chksm=bc81ce6d02efe440257300115f877cb897e9f7df0a97d239185276bb0b55c94686f973be37f5&amp;scene=0#rd"/>
-        <updated>2026-05-26T00:00:00.000Z</updated>
-        <published>2026-05-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm and pnpm introduce staged publishing]]></title>
-        <id>https://javascriptweekly.com/issues/787</id>
-        <link href="https://javascriptweekly.com/issues/787"/>
         <updated>2026-05-26T00:00:00.000Z</updated>
         <published>2026-05-26T00:00:00.000Z</published>
     </entry>
