@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-11T02:15:51.193Z</updated>
+    <updated>2026-06-11T08:27:10.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3715期】循环工程：不再亲自提示AI，而是设计系统替你提示]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279283&amp;idx=1&amp;sn=e1de710da6afaf137fb503d7d3d25adf&amp;chksm=bc903e59d586e37d252054d00def48e05c48cd00be8b7bbe5cc0e88aa6c6fb0fe6131efc485e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279283&amp;idx=1&amp;sn=e1de710da6afaf137fb503d7d3d25adf&amp;chksm=bc903e59d586e37d252054d00def48e05c48cd00be8b7bbe5cc0e88aa6c6fb0fe6131efc485e&amp;scene=0#rd"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <published>2026-06-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学 Bun！React 官方编译器也 Rust 重构了，代码大半 Claude 写的]]></title>
         <id>http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/626"/>
         <updated>2026-05-28T00:00:00.000Z</updated>
         <published>2026-05-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个人做宣传片、写游戏、盯热点？实测这个“全干版AI专家”三天全搞定]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523699&amp;idx=1&amp;sn=5ab270cdf167031f779eecc279099637&amp;chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523699&amp;idx=1&amp;sn=5ab270cdf167031f779eecc279099637&amp;chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd"/>
-        <updated>2026-05-27T00:00:00.000Z</updated>
-        <published>2026-05-27T00:00:00.000Z</published>
     </entry>
 </feed>
