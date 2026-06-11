@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-10T21:49:10.231Z</updated>
+    <updated>2026-06-11T02:15:51.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,6 +43,13 @@
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[为什么现在程序员都扎堆学多 Agent]]></title>
+        <id>http://mp.weixin.qq.com/s/GYIPf8L5mVqgw-KjDRe4PQ</id>
+        <link href="http://mp.weixin.qq.com/s/GYIPf8L5mVqgw-KjDRe4PQ"/>
+        <updated>2026-06-10T00:00:00.000Z</updated>
+        <published>2026-06-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3714期】浏览器中的大文件处理：如何在前端创建5GB文件]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279277&amp;idx=1&amp;sn=f0722899c750fa73525cc3463fef3eda&amp;chksm=bc24b1ac58f757d687f1195792198a556c768a247d1ecf15d681bd8c41c42af64236b90de28d&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279277&amp;idx=1&amp;sn=f0722899c750fa73525cc3463fef3eda&amp;chksm=bc24b1ac58f757d687f1195792198a556c768a247d1ecf15d681bd8c41c42af64236b90de28d&amp;scene=0#rd"/>
@@ -53,6 +60,13 @@
         <title type="html"><![CDATA[用 Codex 造了一个 Node.js 运行时，两周，本来要一年]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523844&amp;idx=1&amp;sn=74c1d32bdb9fdd37b8760f1e8728edef&amp;chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523844&amp;idx=1&amp;sn=74c1d32bdb9fdd37b8760f1e8728edef&amp;chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd"/>
+        <updated>2026-06-09T00:00:00.000Z</updated>
+        <published>2026-06-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex 官方新增这个插件，终于补上了 UI 短板]]></title>
+        <id>http://mp.weixin.qq.com/s/LfpLt19Jv_OGU5IRjU2AIg</id>
+        <link href="http://mp.weixin.qq.com/s/LfpLt19Jv_OGU5IRjU2AIg"/>
         <updated>2026-06-09T00:00:00.000Z</updated>
         <published>2026-06-09T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[一个人做宣传片、写游戏、盯热点？实测这个“全干版AI专家”三天全搞定]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523699&amp;idx=1&amp;sn=5ab270cdf167031f779eecc279099637&amp;chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523699&amp;idx=1&amp;sn=5ab270cdf167031f779eecc279099637&amp;chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd"/>
-        <updated>2026-05-27T00:00:00.000Z</updated>
-        <published>2026-05-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从人机协作到AI主导：我们是怎么把代码质量交给“数字SRE”的？]]></title>
-        <id>http://mp.weixin.qq.com/s/jBXkp2Fz4hpcTEyBl6RwZg</id>
-        <link href="http://mp.weixin.qq.com/s/jBXkp2Fz4hpcTEyBl6RwZg"/>
-        <updated>2026-05-27T00:00:00.000Z</updated>
-        <published>2026-05-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】Trae与AI Agent协作实战：多智能体AI编程全栈指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279169&amp;idx=2&amp;sn=8b198de0e6651997f01745b58dba4a42&amp;chksm=bce6cb34d10d649b0dc0c5f813631c6ad5bc5dbf3ab2cf53e1c8d9dcc4d20331242c41077df9&amp;scene=0#rd"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <published>2026-05-27T00:00:00.000Z</published>
     </entry>
