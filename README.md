@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-11 21:49:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-12 10:12:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -24,7 +24,7 @@
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -34,14 +34,14 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -51,7 +51,7 @@
 </summary>
 
 
-- [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=217dd885c01f10d7551395e2a8537b09)  ![](/assets/new.png) 
+- [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=217dd885c01f10d7551395e2a8537b09)  
 - [2026-06-04-Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f820d917cc5e6279315d8351741c705)  
 - [2026-05-28-Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcdb2c41a5b103b112ece1664296629b)  
 - [2026-05-21-Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cb2b663066fe1ac78e794f78a40ccd38)  
@@ -261,6 +261,7 @@
 </summary>
 
 
+- [2026-06-11-从-PRD-到可验证代码：AI-需求开发闭环实践](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517633&idx=1&sn=1528f96c812f200aceb12b554ba09adf&chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e75846f9c8230262c25b3d322a514200)  ![](/assets/new.png) 
 - [2026-06-05-学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517631&idx=1&sn=7110283e96d7a9aa5cc40224f21a8a7f&chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8b6c0e7e973f2ea65b3a71dfa51bf50)  
 - [2026-05-26-曾经的王，Vue3倒下了！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517626&idx=1&sn=e2d837c20e68f19801716a4e6b5e1f4d&chksm=eb07bdc3dc7034d5d62aa1413c8d296295989405a040fa08f6b22f4526d37fce624a8c35337a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2e1f42d436a8c82be5c261f997f4e08d)  
 - [2026-05-25-2026-年值得关注的前端开发趋势](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517602&idx=1&sn=e88f9ba737531a9afc23f5384179b499&chksm=eb07bddbdc7034cdb7490e218e2a37f3be0285e349ef6a6adaf0067c7045d08124fdfc7c326b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28f62cf8f84c91c65b64d2e93f6aa739)  
@@ -270,7 +271,6 @@
 - [2026-04-29-本周前端开发最干货的-8-篇文章](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517591&idx=1&sn=8c2c81106f10454c6b7d760864145186&chksm=eb07bdeedc7034f85fc91346460e6d4465fba89b5c68f2227e72cc5e13cd2ead7e83dcd1751e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6159fbbcf18463d8b82200a9ba5cf1a3)  
 - [2026-04-27-尤雨溪赢麻了：Codex、Claude-Code-全在用-Vite8-这套工具链！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517589&idx=1&sn=d6b5469af78a9c8f21f3d87d37d5e9b0&chksm=eb07bdecdc7034faef021a4fe079261ce1c5bb5bb67ea0334722a653b958fbd1466fa0a1946d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f40e1ec2b2d43d035c0058571001eb0b)  
 - [2026-04-24-AI时代的金矿：揭秘人工智能如何帮你赚取第一桶金](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517587&idx=1&sn=0d50ffe7d9491e683c9b5680ae574637&chksm=eb07bdeadc7034fc25efae5e7be41c9458fbe40a4c9fafde7049c56b198c03e6256ccba7948a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=66925f4b26f5f4bc315b05d3d929b177)  
-- [2026-04-23-TypeScript-7.0-Beta-来了：基于-Go-重写，快了整整-10-倍！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517581&idx=1&sn=6096958a5670fbc08ba32b1d160fbb9e&chksm=eb07bdf4dc7034e26fde59e081403f0d16a468b7dbd22692ee3133a27c5418599fc41f65fc6f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b137f04a730e9832bb346ad094dc6417)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -408,8 +408,9 @@
 </summary>
 
 
-- [2026-06-10-用-Claude-Code-花一周搭了个-Dify](http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1ccaf4d19b434117fd0441eab009823)  
+- [2026-06-11-小米-5-人两周搞出个开源编程-Agent，跑分直接把-Claude-Code-比下去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523882&idx=1&sn=74362527cd661e260ee3a8f48f1e2cc2&chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dd0c68c16af0e690dee890f8f4af425f)  ![](/assets/new.png) 
 - [2026-06-10-学-Bun！React-官方编译器也-Rust-重构了，代码大半-Claude-写的](http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7812addaf9845c0d56eecd939140dd7b)  
+- [2026-06-10-用-Claude-Code-花一周搭了个-Dify](http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1ccaf4d19b434117fd0441eab009823)  
 - [2026-06-09-用-Codex-造了一个-Node.js-运行时，两周，本来要一年](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523844&idx=1&sn=74c1d32bdb9fdd37b8760f1e8728edef&chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e7ff9b29fe958bf703fbff9cd599e9e)  
 - [2026-06-08-Bun-作者要给-JS-搞真多线程了？worker_threads-那种不算](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523828&idx=1&sn=9b3e524a71e2125cd0ae6b07a63127b3&chksm=e80fd2badf785bac13c4b3d10bf4f8d19953508120570d1e07e3d9c596cd54a1d8019b095aad#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0b30d9e686d1e1d16254014770f7795)  
 - [2026-06-07-Deno-换掉-TS-解析底座，迁移到尤雨溪-VoidZero-旗下的-OXC](http://mp.weixin.qq.com/s/fo2NQJlR4PCLBcS70105JQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5876557b09f2537e4820fe72b4d24e5)  
@@ -417,7 +418,6 @@
 - [2026-06-05-突发！尤雨溪的-VoidZero-被-Cloudflare-收购，Vite-全家桶集体易主](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523808&idx=1&sn=17cf46ebe1bafd1954d1449e62accda4&chksm=e80fd2aedf785bb89930d12b889345a1044321a270534025a684970eab9f91d8a4792e73777f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28c0707271f8ba55164c2d81d2b14e31)  
 - [2026-06-04-VS-Code-可以卸载了？连-Copilot-的亲爹都搬出去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523786&idx=1&sn=f1d791daffcd7c9410601a27ded07cb1&chksm=e80fd284df785b923a21e7ebe24811f51bc4ea76d644c175c5b2d8bab345788ce742b955d7e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd02514be6f34320ff4809bf881c0fc3)  
 - [2026-06-03-Lovable-把-React+Vite-换掉了，用-TanStack-Start-重构后每周跑出-100-万个应用](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523776&idx=1&sn=68ca2b8cf6ff07e4d5e4cae683cb3ad8&chksm=e80fd28edf785b98772d009e5b1b807f8fc8ea774bad094107af30ce8ab1f326ae5ebe9089b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fa97cd2492873f479824df6dfe599112)  
-- [2026-06-02-Astro-把-Claude-Code-那套东西做成了一个纯-TypeScript-框架开源了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523769&idx=1&sn=a64d90f2ffb161d06e1175662247c04b&chksm=e80fd2f7df785be1e2cdc1a43e22582b4cf09d9360c4147a4a18964e6ca269fce1e07ee93c8b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0f18fefbf482bd565b48cf2233d5863)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

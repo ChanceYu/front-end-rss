@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-11T13:49:09.244Z</updated>
+    <updated>2026-06-12T02:12:13.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[小米 5 人两周搞出个开源编程 Agent，跑分直接把 Claude Code 比下去了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523882&amp;idx=1&amp;sn=74362527cd661e260ee3a8f48f1e2cc2&amp;chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523882&amp;idx=1&amp;sn=74362527cd661e260ee3a8f48f1e2cc2&amp;chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <published>2026-06-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 PRD 到可验证代码：AI 需求开发闭环实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517633&amp;idx=1&amp;sn=1528f96c812f200aceb12b554ba09adf&amp;chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517633&amp;idx=1&amp;sn=1528f96c812f200aceb12b554ba09adf&amp;chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <published>2026-06-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3715期】循环工程：不再亲自提示AI，而是设计系统替你提示]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279283&amp;idx=1&amp;sn=e1de710da6afaf137fb503d7d3d25adf&amp;chksm=bc903e59d586e37d252054d00def48e05c48cd00be8b7bbe5cc0e88aa6c6fb0fe6131efc485e&amp;scene=0#rd</id>
@@ -29,16 +43,16 @@
         <published>2026-06-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[学 Bun！React 官方编译器也 Rust 重构了，代码大半 Claude 写的]]></title>
-        <id>http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ</id>
-        <link href="http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ"/>
+        <title type="html"><![CDATA[用 Claude Code 花一周搭了个 Dify]]></title>
+        <id>http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ</id>
+        <link href="http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用 Claude Code 花一周搭了个 Dify]]></title>
-        <id>http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ</id>
-        <link href="http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ"/>
+        <title type="html"><![CDATA[学 Bun！React 官方编译器也 Rust 重构了，代码大半 Claude 写的]]></title>
+        <id>http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ</id>
+        <link href="http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[放弃 Python，Kimi 用 TS + Node.js 重写了一个 Kimi Code]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523714&amp;idx=1&amp;sn=f61d35b3ce606d9278c51b4f9bee6313&amp;chksm=e80fd2ccdf785bdad54e8c2c23b0da538ef6790561834aa05464edb97b644b48b1b0a88c4b8a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523714&amp;idx=1&amp;sn=f61d35b3ce606d9278c51b4f9bee6313&amp;chksm=e80fd2ccdf785bdad54e8c2c23b0da538ef6790561834aa05464edb97b644b48b1b0a88c4b8a#rd"/>
-        <updated>2026-05-28T00:00:00.000Z</updated>
-        <published>2026-05-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[68K Star！前端动效神器升级，复杂动画终于不用硬写了]]></title>
-        <id>http://mp.weixin.qq.com/s/GYFM0GVKm5MCbhlVj4i6iA</id>
-        <link href="http://mp.weixin.qq.com/s/GYFM0GVKm5MCbhlVj4i6iA"/>
-        <updated>2026-05-28T00:00:00.000Z</updated>
-        <published>2026-05-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3706期】Node.js Stream 没有在做背压控制，正在悄悄吃掉内存]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279174&amp;idx=1&amp;sn=8b6d812bae24d88634f0fb0ec25c3422&amp;chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279174&amp;idx=1&amp;sn=8b6d812bae24d88634f0fb0ec25c3422&amp;chksm=bcd65926b0248da5f9633652bfc80af07e92ef4b49bc27bc75206baaf05257bb9bf45b7ab892&amp;scene=0#rd"/>
         <updated>2026-05-28T00:00:00.000Z</updated>
         <published>2026-05-28T00:00:00.000Z</published>
     </entry>
