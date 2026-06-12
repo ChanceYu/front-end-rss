@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-13 03:50:08。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-13 05:23:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,16 +40,16 @@
 
 
 
+- [【淘系前端团队】Agent-skill-迭代式编写实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544291&idx=1&sn=ba44a1e5b3259dbc70e1a5adc6bf0f77&chksm=8390d0bbb4e759adce8a28fb1a7d89badcfe46ec351371e63f38b4a667fd208f9550e4bcc4d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=54309d73df44c723f6d90c308604ceb3)
 - [【前端早读课】【第3716期】为每项任务量身打造——Claude-Code-动态工作流详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279304&idx=1&sn=9fe176b4ce5d5516dc80c7f9a9791641&chksm=bce44da37e4b1eea11d5196ceef3b4ce393f2d7d4d2a774e801c5e0520b66a65ce6cdd88d139&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4814ed75bdc4e43da406903d1bf4787d)
 - [【Nodejs技术栈】小米-5-人两周搞出个开源编程-Agent，跑分直接把-Claude-Code-比下去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523882&idx=1&sn=74362527cd661e260ee3a8f48f1e2cc2&chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dd0c68c16af0e690dee890f8f4af425f)
 - [【前端从进阶到入院】从-PRD-到可验证代码：AI-需求开发闭环实践](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517633&idx=1&sn=1528f96c812f200aceb12b554ba09adf&chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e75846f9c8230262c25b3d322a514200)
+- [【程序员成长指北】Codex-不得不装的-12-个插件，都在这了](http://mp.weixin.qq.com/s/teqG-LYD5xlZmN8WGUsAnA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b5f1d655b3c6a775fb88f215d505ef1c)
 - [【前端早读课】【第3715期】循环工程：不再亲自提示AI，而是设计系统替你提示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279283&idx=1&sn=e1de710da6afaf137fb503d7d3d25adf&chksm=bc903e59d586e37d252054d00def48e05c48cd00be8b7bbe5cc0e88aa6c6fb0fe6131efc485e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=314840dd2d03199d35b403d6ed3a1868)
 - [【Nodejs技术栈】用-Claude-Code-花一周搭了个-Dify](http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1ccaf4d19b434117fd0441eab009823)
 - [【Nodejs技术栈】学-Bun！React-官方编译器也-Rust-重构了，代码大半-Claude-写的](http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7812addaf9845c0d56eecd939140dd7b)
 - [【程序员成长指北】为什么现在程序员都扎堆学多-Agent](http://mp.weixin.qq.com/s/GYIPf8L5mVqgw-KjDRe4PQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e3d659e7bc7aeab7bbf638bfafcc733)
 - [【Nodejs技术栈】用-Codex-造了一个-Node.js-运行时，两周，本来要一年](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523844&idx=1&sn=74c1d32bdb9fdd37b8760f1e8728edef&chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e7ff9b29fe958bf703fbff9cd599e9e)
-- [【程序员成长指北】Codex-官方新增这个插件，终于补上了-UI-短板](http://mp.weixin.qq.com/s/LfpLt19Jv_OGU5IRjU2AIg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10fe20b40d32e6b69f64710045afba98)
-- [【前端大全】React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624539&idx=1&sn=4e23f627a1716f953b2d0d03d0521242&chksm=8022439ab755ca8ce77450c0f2eec1d79249b630dd724929e6eee34c315a4c87d4127446887d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0a1bba2e9f75048c967ca2f2c825a393)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,15 +585,15 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d00a04d6403a87a5e8b59ba37753127b)
+- [【淘系前端团队】Agent-skill-迭代式编写实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544291&idx=1&sn=ba44a1e5b3259dbc70e1a5adc6bf0f77&chksm=8390d0bbb4e759adce8a28fb1a7d89badcfe46ec351371e63f38b4a667fd208f9550e4bcc4d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=54309d73df44c723f6d90c308604ceb3)
+- [【前端从进阶到入院】2026年，前端离职潮彻底消失了。。。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517639&idx=1&sn=50fefe3e9b31bf7deb32fa3c474441c7&chksm=eb07bdbedc7034a81be7426c6e49388896cf690ac900a764d1bc776c17919e4c565e9a2af7c5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=09594409daa6b631f01ab2a2ceac4fca)
 - [【前端大全】SpaceX一上市，连食堂阿姨都要成百万富翁了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624544&idx=1&sn=5302bbb0a92d581900dd0f67289be173&chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e6b9e95e2a2963800faa1a3e52f702f)
 - [【前端早读课】【第3716期】为每项任务量身打造——Claude-Code-动态工作流详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279304&idx=1&sn=9fe176b4ce5d5516dc80c7f9a9791641&chksm=bce44da37e4b1eea11d5196ceef3b4ce393f2d7d4d2a774e801c5e0520b66a65ce6cdd88d139&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4814ed75bdc4e43da406903d1bf4787d)
 - [【Nodejs技术栈】小米-5-人两周搞出个开源编程-Agent，跑分直接把-Claude-Code-比下去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523882&idx=1&sn=74362527cd661e260ee3a8f48f1e2cc2&chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dd0c68c16af0e690dee890f8f4af425f)
 - [【前端从进阶到入院】从-PRD-到可验证代码：AI-需求开发闭环实践](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517633&idx=1&sn=1528f96c812f200aceb12b554ba09adf&chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e75846f9c8230262c25b3d322a514200)
+- [【程序员成长指北】Codex-不得不装的-12-个插件，都在这了](http://mp.weixin.qq.com/s/teqG-LYD5xlZmN8WGUsAnA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b5f1d655b3c6a775fb88f215d505ef1c)
 - [【前端早读课】【第3715期】循环工程：不再亲自提示AI，而是设计系统替你提示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279283&idx=1&sn=e1de710da6afaf137fb503d7d3d25adf&chksm=bc903e59d586e37d252054d00def48e05c48cd00be8b7bbe5cc0e88aa6c6fb0fe6131efc485e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=314840dd2d03199d35b403d6ed3a1868)
 - [【Node-Weekly】npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=217dd885c01f10d7551395e2a8537b09)
-- [【Nodejs技术栈】用-Claude-Code-花一周搭了个-Dify](http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1ccaf4d19b434117fd0441eab009823)
-- [【Nodejs技术栈】学-Bun！React-官方编译器也-Rust-重构了，代码大半-Claude-写的](http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7812addaf9845c0d56eecd939140dd7b)
-- [【张鑫旭-鑫空间-鑫生活】全新的CSS-border-shape属性简介](https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=58f5865d3b9be7ad3563f4e76ed5bc4d)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

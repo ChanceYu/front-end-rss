@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-12T19:49:49.385Z</updated>
+    <updated>2026-06-12T21:22:26.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 400 期）：rsync 的争论]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html"/>
+        <updated>2026-06-12T00:00:00.000Z</updated>
+        <published>2026-06-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent skill 迭代式编写实战]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544291&amp;idx=1&amp;sn=ba44a1e5b3259dbc70e1a5adc6bf0f77&amp;chksm=8390d0bbb4e759adce8a28fb1a7d89badcfe46ec351371e63f38b4a667fd208f9550e4bcc4d2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544291&amp;idx=1&amp;sn=ba44a1e5b3259dbc70e1a5adc6bf0f77&amp;chksm=8390d0bbb4e759adce8a28fb1a7d89badcfe46ec351371e63f38b4a667fd208f9550e4bcc4d2#rd"/>
         <updated>2026-06-12T00:00:00.000Z</updated>
         <published>2026-06-12T00:00:00.000Z</published>
     </entry>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[从 PRD 到可验证代码：AI 需求开发闭环实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517633&amp;idx=1&amp;sn=1528f96c812f200aceb12b554ba09adf&amp;chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517633&amp;idx=1&amp;sn=1528f96c812f200aceb12b554ba09adf&amp;chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <published>2026-06-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex 不得不装的 12 个插件，都在这了]]></title>
+        <id>http://mp.weixin.qq.com/s/teqG-LYD5xlZmN8WGUsAnA</id>
+        <link href="http://mp.weixin.qq.com/s/teqG-LYD5xlZmN8WGUsAnA"/>
         <updated>2026-06-11T00:00:00.000Z</updated>
         <published>2026-06-11T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523731&amp;idx=1&amp;sn=312186a9faa749195c5b12a0ed68e981&amp;chksm=e80fd2dddf785bcb3e397ed67a3bb502dc5ed9cec76c76925e358d50c196bb1d4f4bc65ff982#rd"/>
         <updated>2026-05-30T00:00:00.000Z</updated>
         <published>2026-05-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Opus 4.8 发布，Bun 作者说 6 天用 Rust 重写 Bun 靠的是这个新功能]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523723&amp;idx=1&amp;sn=1c9e39fa922d7dfbefaafa35ed7ed2ce&amp;chksm=e80fd2c5df785bd3e415fface520f91cfe29d58cc6f9b26856604e1b4dbb0bde96487367a91e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523723&amp;idx=1&amp;sn=1c9e39fa922d7dfbefaafa35ed7ed2ce&amp;chksm=e80fd2c5df785bd3e415fface520f91cfe29d58cc6f9b26856604e1b4dbb0bde96487367a91e#rd"/>
-        <updated>2026-05-29T00:00:00.000Z</updated>
-        <published>2026-05-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从定制Workflow到AI自主决策的架构演进——以TMIC AI小新为例]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543765&amp;idx=1&amp;sn=4961784aef454d7fc2bf45e57a901431&amp;chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543765&amp;idx=1&amp;sn=4961784aef454d7fc2bf45e57a901431&amp;chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd"/>
-        <updated>2026-05-29T00:00:00.000Z</updated>
-        <published>2026-05-29T00:00:00.000Z</published>
     </entry>
 </feed>
