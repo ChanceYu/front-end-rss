@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-12T02:12:13.996Z</updated>
+    <updated>2026-06-12T08:15:27.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 400 期）：rsync 的争论]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html"/>
+        <updated>2026-06-12T00:00:00.000Z</updated>
+        <published>2026-06-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX一上市，连食堂阿姨都要成百万富翁了。。。]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624544&amp;idx=1&amp;sn=5302bbb0a92d581900dd0f67289be173&amp;chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624544&amp;idx=1&amp;sn=5302bbb0a92d581900dd0f67289be173&amp;chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd"/>
+        <updated>2026-06-12T00:00:00.000Z</updated>
+        <published>2026-06-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米 5 人两周搞出个开源编程 Agent，跑分直接把 Claude Code 比下去了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523882&amp;idx=1&amp;sn=74362527cd661e260ee3a8f48f1e2cc2&amp;chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg"/>
         <updated>2026-05-29T00:00:00.000Z</updated>
         <published>2026-05-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3707期】Node.js 流泄漏的生产实战手册]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279180&amp;idx=1&amp;sn=617062faa7a92a87c7321721d169c5ca&amp;chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279180&amp;idx=1&amp;sn=617062faa7a92a87c7321721d169c5ca&amp;chksm=bca92006820c709566f6080fb4c4364fb5a182605f1ea93d732d5a24fcea12efb3121f86c9ed&amp;scene=0#rd"/>
-        <updated>2026-05-29T00:00:00.000Z</updated>
-        <published>2026-05-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[放弃 Python，Kimi 用 TS + Node.js 重写了一个 Kimi Code]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523714&amp;idx=1&amp;sn=f61d35b3ce606d9278c51b4f9bee6313&amp;chksm=e80fd2ccdf785bdad54e8c2c23b0da538ef6790561834aa05464edb97b644b48b1b0a88c4b8a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523714&amp;idx=1&amp;sn=f61d35b3ce606d9278c51b4f9bee6313&amp;chksm=e80fd2ccdf785bdad54e8c2c23b0da538ef6790561834aa05464edb97b644b48b1b0a88c4b8a#rd"/>
-        <updated>2026-05-28T00:00:00.000Z</updated>
-        <published>2026-05-28T00:00:00.000Z</published>
     </entry>
 </feed>
