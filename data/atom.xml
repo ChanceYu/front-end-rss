@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-12T08:15:27.084Z</updated>
+    <updated>2026-06-12T19:49:49.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[SpaceX一上市，连食堂阿姨都要成百万富翁了。。。]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624544&amp;idx=1&amp;sn=5302bbb0a92d581900dd0f67289be173&amp;chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624544&amp;idx=1&amp;sn=5302bbb0a92d581900dd0f67289be173&amp;chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd"/>
+        <updated>2026-06-12T00:00:00.000Z</updated>
+        <published>2026-06-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3716期】为每项任务量身打造——Claude Code 动态工作流详解]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279304&amp;idx=1&amp;sn=9fe176b4ce5d5516dc80c7f9a9791641&amp;chksm=bce44da37e4b1eea11d5196ceef3b4ce393f2d7d4d2a774e801c5e0520b66a65ce6cdd88d139&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279304&amp;idx=1&amp;sn=9fe176b4ce5d5516dc80c7f9a9791641&amp;chksm=bce44da37e4b1eea11d5196ceef3b4ce393f2d7d4d2a774e801c5e0520b66a65ce6cdd88d139&amp;scene=0#rd"/>
         <updated>2026-06-12T00:00:00.000Z</updated>
         <published>2026-06-12T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[从定制Workflow到AI自主决策的架构演进——以TMIC AI小新为例]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543765&amp;idx=1&amp;sn=4961784aef454d7fc2bf45e57a901431&amp;chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543765&amp;idx=1&amp;sn=4961784aef454d7fc2bf45e57a901431&amp;chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd"/>
-        <updated>2026-05-29T00:00:00.000Z</updated>
-        <published>2026-05-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 产品从 Demo 到上线，中间隔着 24 个坑]]></title>
-        <id>http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg</id>
-        <link href="http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg"/>
         <updated>2026-05-29T00:00:00.000Z</updated>
         <published>2026-05-29T00:00:00.000Z</published>
     </entry>
