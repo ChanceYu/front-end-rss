@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-13T18:15:58.698Z</updated>
+    <updated>2026-06-13T22:53:06.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[突发！Claude 新旗舰上线 3 天紧急下架，国模 GLM-5.2 火速开放]]></title>
+        <id>http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw</id>
+        <link href="http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw"/>
+        <updated>2026-06-13T00:00:00.000Z</updated>
+        <published>2026-06-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个 npm install，坑了前端 15 年！终被废！]]></title>
         <id>http://mp.weixin.qq.com/s/un_ddVeyL1GeH60vXa7J_w</id>
@@ -85,16 +92,16 @@
         <published>2026-06-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[学 Bun！React 官方编译器也 Rust 重构了，代码大半 Claude 写的]]></title>
-        <id>http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ</id>
-        <link href="http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ"/>
+        <title type="html"><![CDATA[用 Claude Code 花一周搭了个 Dify]]></title>
+        <id>http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ</id>
+        <link href="http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用 Claude Code 花一周搭了个 Dify]]></title>
-        <id>http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ</id>
-        <link href="http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ"/>
+        <title type="html"><![CDATA[学 Bun！React 官方编译器也 Rust 重构了，代码大半 Claude 写的]]></title>
+        <id>http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ</id>
+        <link href="http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[离谱！为了反 AI 编程，这个 Java 库作者竟然亲自投毒！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523760&amp;idx=1&amp;sn=4342a234ce649963649c3e47f7e7bd5d&amp;chksm=e80fd2fedf785be8daccfe137ba1f701b18af6872566a8db02a0e30db3710e4267b5a887911c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523760&amp;idx=1&amp;sn=4342a234ce649963649c3e47f7e7bd5d&amp;chksm=e80fd2fedf785be8daccfe137ba1f701b18af6872566a8db02a0e30db3710e4267b5a887911c#rd"/>
-        <updated>2026-05-31T00:00:00.000Z</updated>
-        <published>2026-05-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达 + Arm + Windows：PC 新时代来了]]></title>
-        <id>http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw</id>
-        <link href="http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw"/>
         <updated>2026-05-31T00:00:00.000Z</updated>
         <published>2026-05-31T00:00:00.000Z</published>
     </entry>
