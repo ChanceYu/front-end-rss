@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-13 10:05:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-13 23:24:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -40,8 +40,8 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -387,16 +387,16 @@
 </summary>
 
 
+- [2026-06-13-此心光明，硅芯可鉴](https://fenghen.me/posts/2026/06/13/bright-heart-silicon-witness/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=011830fdbb332aa91c15d85aafc6dd1c)  ![](/assets/new.png) 
 - [2026-05-24-创新视频剪辑交互：二维时间轴-+-文字轨](https://fenghen.me/posts/2026/05/24/dimcut/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7d2789615140542e758cb62495957949)  
 - [2026-04-23-AI-时代的程序与程序员](https://fenghen.me/posts/2026/04/23/ai-era-programmers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=127b8fe1c3b079682644bcd71f798f14)  
 - [2026-02-03-2025-年终总结](https://fenghen.me/posts/2026/02/03/_2025-year-end-summary/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3fa045da9a0b2ffd9bdd839d3c46b1)  
 - [2025-10-17-笔记软件孕育数字分身](https://fenghen.me/posts/2025/10/17/notes-and-digital-twin/) 
 - [2025-09-09-终端开发环境搭建](https://fenghen.me/posts/2025/09/09/terminal-dev-env/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8bdf56f0343341866fbcbeb1ac546518)  
-- [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/) 
 - [2025-09-01-ZingAI.video-在线口播视频剪辑](https://fenghen.me/posts/2025/09/01/overview/) 
+- [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/) 
 - [2025-08-20-互联网“骨干协议”-——-BGP-协议](https://fenghen.me/posts/2025/08/20/bgp/) 
 - [2025-07-07-视频编辑，如何选择技术方案](https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/) 
-- [2025-04-11-商务合作（帅气博主在线接单）](https://fenghen.me/posts/2025/04/11/business-cooperation/) 
 - [查看更多 >](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2026-06-12-牛逼!后端兄弟开发了个逆天社交软件，居然不能聊天](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523883&idx=1&sn=a70d5796cf0907456075ba317f7d180d&chksm=e80fd165df785873c3b84819c3432d48135699f10fffa7f99c6f68c3b31043c28cdad59a1253#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2816c39029e5432cfffef2ad7f041a11)  ![](/assets/new.png) 
+- [2026-06-12-牛逼!后端兄弟开发了个逆天社交软件，居然不能聊天](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523883&idx=1&sn=a70d5796cf0907456075ba317f7d180d&chksm=e80fd165df785873c3b84819c3432d48135699f10fffa7f99c6f68c3b31043c28cdad59a1253#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2816c39029e5432cfffef2ad7f041a11)  
 - [2026-06-11-小米-5-人两周搞出个开源编程-Agent，跑分直接把-Claude-Code-比下去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523882&idx=1&sn=74362527cd661e260ee3a8f48f1e2cc2&chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dd0c68c16af0e690dee890f8f4af425f)  
 - [2026-06-10-用-Claude-Code-花一周搭了个-Dify](http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1ccaf4d19b434117fd0441eab009823)  
 - [2026-06-10-学-Bun！React-官方编译器也-Rust-重构了，代码大半-Claude-写的](http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7812addaf9845c0d56eecd939140dd7b)  

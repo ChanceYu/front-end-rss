@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-13 10:05:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-13 23:24:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -715,10 +715,10 @@
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
 - [2018-09-22-自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
-- [2018-05-06-VuePress-集成第三方评论模块](https://fenghen.me/posts/2018/05/06/vuepress-gitment/) 
 - [2018-05-06-VuePress-集成第三方评论模块](https://hughfenghen.github.io/posts/2018/05/06/vuepress-gitment/) 
-- [2018-05-01-基于vue-directive实现声明式埋点方案](https://fenghen.me/posts/2018/05/01/vue-directive-track/) 
+- [2018-05-06-VuePress-集成第三方评论模块](https://fenghen.me/posts/2018/05/06/vuepress-gitment/) 
 - [2018-05-01-基于vue-directive实现声明式埋点方案](https://hughfenghen.github.io/posts/2018/05/01/vue-directive-track/) 
+- [2018-05-01-基于vue-directive实现声明式埋点方案](https://fenghen.me/posts/2018/05/01/vue-directive-track/) 
 - [2017-07-17-Vue-探索与实践](https://jelly.jd.com/article/6006b1045b6c6a01506c87ec) 
 - [2016-12-28-一个栗子实践vue2.0与1.0的区别](https://jelly.jd.com/article/6006b1045b6c6a01506c87d0) 
 - [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://jelly.jd.com/article/6030a20b239b6e014a19fc07) 

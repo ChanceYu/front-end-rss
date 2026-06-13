@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-13 10:05:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-13 23:24:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -168,8 +168,8 @@
 - [2024-11-20-前端性能优化-开启-HTTP-缓存](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621625&idx=2&sn=af676b5f746ba8de77cdd711645809df&chksm=80225f38b755d62e4fb5bcc06f738b3cb20c5e3f225dc7120f12ca73e1ed8bcfb72b16d4901f#rd) 
 - [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711) 
 - [2024-08-10-页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/) 
-- [2024-07-27-WebCodecs-的性能表现及优化思路](https://hughfenghen.github.io/posts/2024/07/27/webcodecs-performance-benchmark/) 
 - [2024-07-27-WebCodecs-性能表现及优化思路](https://fenghen.me/posts/2024/07/27/webcodecs-performance-benchmark/) 
+- [2024-07-27-WebCodecs-的性能表现及优化思路](https://hughfenghen.github.io/posts/2024/07/27/webcodecs-performance-benchmark/) 
 - [2024-05-29-2024-抖音欢笑中国年六：前端互动场景中的性能优化](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505862&idx=1&sn=8362f9b48670b6affc724e37601d598b&chksm=cea960c7f9dee9d13ab582c7d5bb18a04e81f7d7df756511f40d26f3a5a9c0cf8b9cc891afd5#rd) 
 - [2024-05-16-有奖征文-|-性能优化的实践与经验分享](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505859&idx=1&sn=813a3d5f5400486a591d938d5aae0d36&chksm=cea960c2f9dee9d408a2eb6587f493e78e7427bafdc0afe967968b83545a8ef2cff09e167c19#rd) 
 - [2024-05-10-云音乐桌面端-3.0-改版前端性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515774&idx=1&sn=4eb6d7ca8a1e7e7c9b5c936f94700547&chksm=eb078607dc700f11a9506a5dd5084dedc04a5c83c7664706f7a044b91fd59f237f84bf2967f3#rd) 
@@ -281,8 +281,8 @@
 - [2023-04-14-速度提高几百倍，记一次数据结构在实际工作中的运用](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514286&idx=1&sn=ef8e13ceac198f4ade606d29f22e7e12&chksm=f992be7fcee537699002b43028acfb011e0df4c300994c8401e9e2690fa31e6c7db2eb17a8bc#rd) 
 - [2023-04-13-实践指南-前端性能提升-270%](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899638&idx=1&sn=5571863db55c99029f68075f72008067&chksm=8c5fa4b8bb282dae576cb38ff03e85dc138ac38806be06627c753ae431d6b81851a4468728b9#rd) 
 - [2023-04-07-【第2908期】现代图片性能优化及体验优化指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261723&idx=1&sn=ba612f0e3049fe3ab9a23068b15a2fcb&chksm=bd48d29f8a3f5b89c249582605c60e28afe824eb8526985ffd57a50efdda77d30cd65f957aef#rd) 
-- [2023-04-03-JS-检测设备性能](https://fenghen.me/posts/2023/04/03/js-perf-detect/) 
 - [2023-04-03-JS-检测设备性能](https://hughfenghen.github.io/posts/2023/04/03/js-perf-detect/) 
+- [2023-04-03-JS-检测设备性能](https://fenghen.me/posts/2023/04/03/js-perf-detect/) 
 - [2023-04-03-弃用-Electron，微软重新设计-Microsoft-Teams：速度提升-2-倍，内存减少-50%](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520562&idx=1&sn=b533cf4293733443ebe15ff4e31eb788&chksm=f9522471ce25ad67e5d427d2593484a94810e487e9f9805cd61a92b6eb2d02bcc99c329b9250#rd) 
 - [2023-03-31-多编译内核生态下的极速研发体验](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899577&idx=1&sn=320a8fb4fe66bb3391b7c95e45df30ce&chksm=8c5fa4f7bb282de1b84ab3256bee010e616741e09e1f11bba2ef3909512dc5dafb9b9539e856#rd) 
 - [2023-03-31-面试遇到-性能优化-必答的-9-个点，加分！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513989&idx=1&sn=2526be3901b10f21d1810c614b7ec8ae&chksm=f992b154cee538420ad1ebcbed047b7acf4db3526b58f619e2fdcc6d5ccf6f00473d27d4f3cc#rd) 
@@ -584,8 +584,8 @@
 - [2020-07-17-【早读】修复Web应用程序中的内存泄漏](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238131&idx=3&sn=aa634b4df49c68097cf2a3196072b93f&chksm=bd4977778a3efe611d82a9a13272b4da982817d1bf67a7d2a088a2e5453c9e39f062f3fa63b6&scene=27#wechat_redirect) 
 - [2020-07-14-【第2002期】为什么-setTimeout-有最小时延-4ms-?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238051&idx=2&sn=e5f5ca8cb3cd2a1b23b357db688f0121&chksm=bd4977278a3efe31859414ecfc33a8a9df0e0b273f51d66c1c20ad5a013d1c31784ededb77e3&scene=27#wechat_redirect) 
 - [2020-07-14-官方给出的Vue3性能优化数据，其实很保守？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238051&idx=1&sn=526fe16c48c70dd4603b1af1b846dbdf&chksm=bd4977278a3efe310629a48c8d70b42d301650e5ac5a4fee20152730105c8188c2121288f68e&scene=27#wechat_redirect) 
-- [2020-07-13-cljs中普通与瞬态数据结构性能对比](https://fenghen.me/posts/2020/07/13/cljs-transient-performance/) 
 - [2020-07-13-cljs中普通与瞬态数据结构性能对比](https://hughfenghen.github.io/posts/2020/07/13/cljs-transient-performance/) 
+- [2020-07-13-cljs中普通与瞬态数据结构性能对比](https://fenghen.me/posts/2020/07/13/cljs-transient-performance/) 
 - [2020-07-09-活久见：巴克莱银行用网页时光机当作某些JS代码的“CDN”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247497732&idx=1&sn=ea265971fb58732db9728d73936c1363&chksm=f9524d47ce25c4514954ec1c0205a6deb64c17694fe27dd5b61b7cdb109c048de59dd649c552&scene=27#wechat_redirect) 
 - [2020-07-08-Flutter-vs-React-Native-vs-Native：深度性能比较](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247497703&idx=1&sn=8dd37b237d2c7566c2d13427ab68585c&chksm=f95242a4ce25cbb26956d5b52e708fcc959cb9e1aa49f99541fddb5fc131320e81b3a82784c5&scene=27#wechat_redirect) 
 - [2020-07-08-【第1996期】前端性能优化：当页面渲染遇上边缘计算](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237937&idx=1&sn=e548aa7465ff0be4e3040a690509b79a&chksm=bd4977b58a3efea380e9f04817b25093a44853907ce86c9283d635b6a6d61d562aa25ddfdcd7&scene=27#wechat_redirect) 

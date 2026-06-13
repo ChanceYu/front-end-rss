@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-13 10:05:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-13 23:24:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -584,6 +584,7 @@
 
 
 
+- [【风痕·術&思】此心光明，硅芯可鉴](https://fenghen.me/posts/2026/06/13/bright-heart-silicon-witness/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=011830fdbb332aa91c15d85aafc6dd1c)
 - [【Nodejs技术栈】牛逼!后端兄弟开发了个逆天社交软件，居然不能聊天](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523883&idx=1&sn=a70d5796cf0907456075ba317f7d180d&chksm=e80fd165df785873c3b84819c3432d48135699f10fffa7f99c6f68c3b31043c28cdad59a1253#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2816c39029e5432cfffef2ad7f041a11)
 - [【阮一峰的网络日志】科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d00a04d6403a87a5e8b59ba37753127b)
 - [【淘系前端团队】Agent-skill-迭代式编写实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544291&idx=1&sn=ba44a1e5b3259dbc70e1a5adc6bf0f77&chksm=8390d0bbb4e759adce8a28fb1a7d89badcfe46ec351371e63f38b4a667fd208f9550e4bcc4d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=54309d73df44c723f6d90c308604ceb3)
@@ -593,7 +594,6 @@
 - [【Nodejs技术栈】小米-5-人两周搞出个开源编程-Agent，跑分直接把-Claude-Code-比下去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523882&idx=1&sn=74362527cd661e260ee3a8f48f1e2cc2&chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dd0c68c16af0e690dee890f8f4af425f)
 - [【前端从进阶到入院】从-PRD-到可验证代码：AI-需求开发闭环实践](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517633&idx=1&sn=1528f96c812f200aceb12b554ba09adf&chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e75846f9c8230262c25b3d322a514200)
 - [【程序员成长指北】Codex-不得不装的-12-个插件，都在这了](http://mp.weixin.qq.com/s/teqG-LYD5xlZmN8WGUsAnA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b5f1d655b3c6a775fb88f215d505ef1c)
-- [【前端早读课】【第3715期】循环工程：不再亲自提示AI，而是设计系统替你提示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279283&idx=1&sn=e1de710da6afaf137fb503d7d3d25adf&chksm=bc903e59d586e37d252054d00def48e05c48cd00be8b7bbe5cc0e88aa6c6fb0fe6131efc485e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=314840dd2d03199d35b403d6ed3a1868)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

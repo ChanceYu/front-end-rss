@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-13 10:05:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-13 23:24:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -176,8 +176,8 @@
 - [2019-01-12-【第1504期】送你一份微信小程序-web-view-开发踩坑大全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=1&sn=23e3672f02759871efc872b0cbbf8525#wechat_redirect) 
 - [2019-01-10-如何入门微信小程序开发？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=1&sn=d762f660272e234cd3a6d86486e27e1f#wechat_redirect) 
 - [2019-01-09-直击微信公开课：2019年小程序会有哪些变化？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490246&idx=1&sn=84bd1f1e50963f4c737f2656018d6711#wechat_redirect) 
-- [2019-01-01-小程序的思考](https://fenghen.me/posts/2019/01/01/thinking-miniprogram/) 
 - [2019-01-01-小程序的思考](https://hughfenghen.github.io/posts/2019/01/01/thinking-miniprogram/) 
+- [2019-01-01-小程序的思考](https://fenghen.me/posts/2019/01/01/thinking-miniprogram/) 
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://jelly.jd.com/article/5c2de45917b02c004733146d) 
 - [2018-12-13-百度发布智能小程序开发方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490098&idx=1&sn=64db463561039ed05843a1ca3cde3375#wechat_redirect) 

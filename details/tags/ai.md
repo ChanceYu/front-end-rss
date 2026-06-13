@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-13 10:05:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-13 23:24:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -429,8 +429,8 @@
 - [2025-03-17-AI赋能：大模型创新的模板生成与内容填充](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539065&idx=1&sn=f53acd34955ae0fc8aa788bf428e510a&chksm=8390cc21b4e74537f084bc6d69ed0686610e91f18c45390d51dfaeffc3a2035e15057f74a196#rd) 
 - [2025-03-14-淘宝直播AI提效探索的一些心得](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539038&idx=1&sn=70fd255b456b392126a422c98e14b7e5&chksm=8390cc06b4e74510cd70310b16ed218c01c7c000a8e5b6cc078fccb12b022b3f8c874cd22aca#rd) 
 - [2025-03-14-Trae-x-稀土掘金：与-AI-结伴，编程不孤单，推荐&amp;学习有好礼！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506085&idx=1&sn=b3add3c5011dda34f3ab6ba3346eff1a&chksm=cea96fa4f9dee6b22768572d68c962b96b9acfb2f3f130b49c191c91e1582a11abcd687ce7a1#rd) 
-- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
+- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
 - [2025-03-12-最佳实践-5倍效率+覆盖率90%，大部分程序员不知道的-Cursor-单测生成黑科技](http://mp.weixin.qq.com/s/xbsRnZSjx1rk9QlIAFsqqg) 
 - [2025-03-12-【第3471期】别再为人编写代码——未来属于-AI-Agents](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275961&idx=1&sn=ed6a888e0161119c53c2460cb9b2008c&chksm=bc92ba0f77b54595ba211dc325cc9872a1ed056d5b88aca6b75efe4604ac00ee53667975babd&scene=0#rd) 
 - [2025-03-11-现在就是最好的时机！AI-FOR-CODE挑战赛「创意赛道」作品提交指南，用Idea传递无限可能](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506074&idx=1&sn=faf465b3b94df1b1abd5a0976e1cc718&chksm=cea96f9bf9dee68ddaf21c2f92624d922c78a564a5fc731b0aa624b8b89763e8df629f799aa3#rd) 
