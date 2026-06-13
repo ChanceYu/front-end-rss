@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-13T15:24:02.508Z</updated>
+    <updated>2026-06-13T18:15:58.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[一个 npm install，坑了前端 15 年！终被废！]]></title>
+        <id>http://mp.weixin.qq.com/s/un_ddVeyL1GeH60vXa7J_w</id>
+        <link href="http://mp.weixin.qq.com/s/un_ddVeyL1GeH60vXa7J_w"/>
+        <updated>2026-06-13T00:00:00.000Z</updated>
+        <published>2026-06-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 400 期）：rsync 的争论]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw"/>
         <updated>2026-05-31T00:00:00.000Z</updated>
         <published>2026-05-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[105k star 的 Gemini CLI 是 TS 写的，谷歌转头用 Go 把它重造了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523731&amp;idx=1&amp;sn=312186a9faa749195c5b12a0ed68e981&amp;chksm=e80fd2dddf785bcb3e397ed67a3bb502dc5ed9cec76c76925e358d50c196bb1d4f4bc65ff982#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523731&amp;idx=1&amp;sn=312186a9faa749195c5b12a0ed68e981&amp;chksm=e80fd2dddf785bcb3e397ed67a3bb502dc5ed9cec76c76925e358d50c196bb1d4f4bc65ff982#rd"/>
-        <updated>2026-05-30T00:00:00.000Z</updated>
-        <published>2026-05-30T00:00:00.000Z</published>
     </entry>
 </feed>
