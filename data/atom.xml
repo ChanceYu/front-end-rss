@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-12T21:22:26.924Z</updated>
+    <updated>2026-06-13T02:05:30.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,16 +78,16 @@
         <published>2026-06-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用 Claude Code 花一周搭了个 Dify]]></title>
-        <id>http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ</id>
-        <link href="http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ"/>
+        <title type="html"><![CDATA[学 Bun！React 官方编译器也 Rust 重构了，代码大半 Claude 写的]]></title>
+        <id>http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ</id>
+        <link href="http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[学 Bun！React 官方编译器也 Rust 重构了，代码大半 Claude 写的]]></title>
-        <id>http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ</id>
-        <link href="http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ"/>
+        <title type="html"><![CDATA[用 Claude Code 花一周搭了个 Dify]]></title>
+        <id>http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ</id>
+        <link href="http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
