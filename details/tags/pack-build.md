@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-14 21:23:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-15 01:06:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-14-npm-装包会偷偷跑别人的代码，这个设计坑了前端十几年，终于要被办了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523896&idx=1&sn=c5c846a760377c39d94a63ce8a7deabb&chksm=e80fd176df7858609417dfce1db4c97edf2fa4b9613826546714f09c4a776d65319e9b3ef01c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9e8b10badc1d05b9767a51215c2b7dbe) 
 - [2026-06-13-一个-npm-install，坑了前端-15-年！终被废！](http://mp.weixin.qq.com/s/un_ddVeyL1GeH60vXa7J_w)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6eaa6da792a5ac168e1033e38a69a242) 
 - [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=217dd885c01f10d7551395e2a8537b09) 
 - [2026-06-10-学-Bun！React-官方编译器也-Rust-重构了，代码大半-Claude-写的](http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7812addaf9845c0d56eecd939140dd7b) 

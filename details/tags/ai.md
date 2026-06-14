@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-14 21:23:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-15 01:06:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -14,8 +14,8 @@
 - [2026-06-11-从-PRD-到可验证代码：AI-需求开发闭环实践](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517633&idx=1&sn=1528f96c812f200aceb12b554ba09adf&chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e75846f9c8230262c25b3d322a514200) 
 - [2026-06-11-Codex-不得不装的-12-个插件，都在这了](http://mp.weixin.qq.com/s/teqG-LYD5xlZmN8WGUsAnA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b5f1d655b3c6a775fb88f215d505ef1c) 
 - [2026-06-11-【第3715期】循环工程：不再亲自提示AI，而是设计系统替你提示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279283&idx=1&sn=e1de710da6afaf137fb503d7d3d25adf&chksm=bc903e59d586e37d252054d00def48e05c48cd00be8b7bbe5cc0e88aa6c6fb0fe6131efc485e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=314840dd2d03199d35b403d6ed3a1868) 
-- [2026-06-10-用-Claude-Code-花一周搭了个-Dify](http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1ccaf4d19b434117fd0441eab009823) 
 - [2026-06-10-学-Bun！React-官方编译器也-Rust-重构了，代码大半-Claude-写的](http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7812addaf9845c0d56eecd939140dd7b) 
+- [2026-06-10-用-Claude-Code-花一周搭了个-Dify](http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1ccaf4d19b434117fd0441eab009823) 
 - [2026-06-10-为什么现在程序员都扎堆学多-Agent](http://mp.weixin.qq.com/s/GYIPf8L5mVqgw-KjDRe4PQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e3d659e7bc7aeab7bbf638bfafcc733) 
 - [2026-06-09-用-Codex-造了一个-Node.js-运行时，两周，本来要一年](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523844&idx=1&sn=74c1d32bdb9fdd37b8760f1e8728edef&chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e7ff9b29fe958bf703fbff9cd599e9e) 
 - [2026-06-09-Codex-官方新增这个插件，终于补上了-UI-短板](http://mp.weixin.qq.com/s/LfpLt19Jv_OGU5IRjU2AIg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10fe20b40d32e6b69f64710045afba98) 
@@ -147,8 +147,8 @@
 - [2026-03-25-拒绝“感觉有效”：用数据证明-AI-Coding-的真实团队价值【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543083&idx=1&sn=b4759cb5c4ce079dc214782e37a0a506&chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=acbe2ba947f22e139471594b060866c3) 
 - [2026-03-24-AI-已能写-80%-代码，但-Agent-也有致命短板！](http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2fac7d91d3aaa43b49ad19eb1fc8facb) 
 - [2026-03-24-【第3675期】别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278808&idx=1&sn=cb062b1747e889741fc1ad1e42b7c225&chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=48eb58d9afd8932362d9060125fd08d3) 
-- [2026-03-23-微信刚发布-ClawBot，我就把-Claude-Code-接了进去！](http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8339ccd98bb93b93de1c41fc9c82ae36) 
 - [2026-03-23-安卓也支持了！微信链接-Claude-Code-保姆级教程](http://mp.weixin.qq.com/s/745V4wfyihsm6irqT0PABQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=eb35da0a3d29e50bbcbe52c85b94bcd1) 
+- [2026-03-23-微信刚发布-ClawBot，我就把-Claude-Code-接了进去！](http://mp.weixin.qq.com/s/MIFeD6l904T4neQZfdo3Dg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8339ccd98bb93b93de1c41fc9c82ae36) 
 - [2026-03-23-知识基座：让“AI-越用越懂业务”的团队经验实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cde722a2acae70ca2f77074b5169c471) 
 - [2026-03-23-从-nanobot-理解-openclaw-核心设计](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529495&idx=1&sn=49439277e289e9948fb70033f69862e5&chksm=f99272c6cee5fbd0a2e43a039ee7e5eb9fc8958d8eb3e19bee8c4fa9f112dcdcf132db72efa7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6829985cc37c3fb667d478974ba28203) 
 - [2026-03-23-【第3674期】Claude-Code-技能实战指南：来自-Anthropic-内部的经验总结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278796&idx=1&sn=ae74d4204ea67ce9a7f9a44df91ec00c&chksm=bc234bff6ad75f48aea9ff5c2aebd0b9b9c0bb755c7bdfc327341ede689ebdb29aa1ffe7d9d7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c03c0567c066de52e119df074d7d891d) 
