@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-14 06:53:27。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-14 21:23:57。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -482,6 +482,7 @@
 
 
 
+- [【前端大全】这两个-SpaceX-百万富翁老哥，接受采访时嘴角的开心，完全压不住啊！](http://mp.weixin.qq.com/s/el_f0aK2pQU4Wgf1m59WIA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=088b63b7c27647bcc2a18866b32924ee)
 - [【前端大全】SpaceX一上市，连食堂阿姨都要成百万富翁了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624544&idx=1&sn=5302bbb0a92d581900dd0f67289be173&chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e6b9e95e2a2963800faa1a3e52f702f)
 - [【前端早读课】【第3715期】循环工程：不再亲自提示AI，而是设计系统替你提示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279283&idx=1&sn=e1de710da6afaf137fb503d7d3d25adf&chksm=bc903e59d586e37d252054d00def48e05c48cd00be8b7bbe5cc0e88aa6c6fb0fe6131efc485e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=314840dd2d03199d35b403d6ed3a1868)
 - [【淘系前端团队】《AI重塑经营：2026中国电商AI应用白皮书》正式发布！](http://mp.weixin.qq.com/s/5AeTnVgxqoyCqhD9MfMa7Q)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4d987cd74e41e9ed0c5a0405ce58347f)
@@ -491,7 +492,6 @@
 - [【Nodejs技术栈】Astro-把-Claude-Code-那套东西做成了一个纯-TypeScript-框架开源了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523769&idx=1&sn=a64d90f2ffb161d06e1175662247c04b&chksm=e80fd2f7df785be1e2cdc1a43e22582b4cf09d9360c4147a4a18964e6ca269fce1e07ee93c8b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0f18fefbf482bd565b48cf2233d5863)
 - [【前端早读课】【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b)
 - [【张鑫旭-鑫空间-鑫生活】CSS-contrast-color函数简介](https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c47788cbcecd2d58b7d53dcec9aa245a)
-- [【淘系前端团队】面向-LLM-的架构设计：什么是真正的-AI-Friendly-架构？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543768&idx=1&sn=b1c0207772c8a6d9550815a6afc01bf4&chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=904ed82e2c17d8ba322575ae2f819f6e)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【前端大全】这两个-SpaceX-百万富翁老哥，接受采访时嘴角的开心，完全压不住啊！](http://mp.weixin.qq.com/s/el_f0aK2pQU4Wgf1m59WIA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=088b63b7c27647bcc2a18866b32924ee)
 - [【Nodejs技术栈】突发！Claude-新旗舰上线-3-天紧急下架，国模-GLM-5.2-火速开放](http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e76c5d6a35e45ad5aa3059a0d279a4e2)
 - [【风痕·術&思】此心光明，硅芯可鉴](https://fenghen.me/posts/2026/06/13/bright-heart-silicon-witness/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=011830fdbb332aa91c15d85aafc6dd1c)
 - [【前端大全】一个-npm-install，坑了前端-15-年！终被废！](http://mp.weixin.qq.com/s/un_ddVeyL1GeH60vXa7J_w)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6eaa6da792a5ac168e1033e38a69a242)
@@ -593,7 +594,6 @@
 - [【前端从进阶到入院】2026年，前端离职潮彻底消失了。。。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517639&idx=1&sn=50fefe3e9b31bf7deb32fa3c474441c7&chksm=eb07bdbedc7034a81be7426c6e49388896cf690ac900a764d1bc776c17919e4c565e9a2af7c5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=09594409daa6b631f01ab2a2ceac4fca)
 - [【前端大全】SpaceX一上市，连食堂阿姨都要成百万富翁了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624544&idx=1&sn=5302bbb0a92d581900dd0f67289be173&chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e6b9e95e2a2963800faa1a3e52f702f)
 - [【前端早读课】【第3716期】为每项任务量身打造——Claude-Code-动态工作流详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279304&idx=1&sn=9fe176b4ce5d5516dc80c7f9a9791641&chksm=bce44da37e4b1eea11d5196ceef3b4ce393f2d7d4d2a774e801c5e0520b66a65ce6cdd88d139&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4814ed75bdc4e43da406903d1bf4787d)
-- [【Nodejs技术栈】小米-5-人两周搞出个开源编程-Agent，跑分直接把-Claude-Code-比下去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523882&idx=1&sn=74362527cd661e260ee3a8f48f1e2cc2&chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dd0c68c16af0e690dee890f8f4af425f)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

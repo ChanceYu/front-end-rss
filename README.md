@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-14 06:53:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-14 21:23:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 赞助商
 
@@ -27,7 +27,7 @@
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -114,6 +114,7 @@
 </summary>
 
 
+- [2026-06-14-这两个-SpaceX-百万富翁老哥，接受采访时嘴角的开心，完全压不住啊！](http://mp.weixin.qq.com/s/el_f0aK2pQU4Wgf1m59WIA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=088b63b7c27647bcc2a18866b32924ee)  ![](/assets/new.png) 
 - [2026-06-13-一个-npm-install，坑了前端-15-年！终被废！](http://mp.weixin.qq.com/s/un_ddVeyL1GeH60vXa7J_w)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6eaa6da792a5ac168e1033e38a69a242)  
 - [2026-06-12-SpaceX一上市，连食堂阿姨都要成百万富翁了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624544&idx=1&sn=5302bbb0a92d581900dd0f67289be173&chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e6b9e95e2a2963800faa1a3e52f702f)  
 - [2026-06-09-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624539&idx=1&sn=4e23f627a1716f953b2d0d03d0521242&chksm=8022439ab755ca8ce77450c0f2eec1d79249b630dd724929e6eee34c315a4c87d4127446887d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0a1bba2e9f75048c967ca2f2c825a393)  
@@ -122,7 +123,6 @@
 - [2026-06-02-美团产品员工吐槽“更应该裁掉的是研发”！用-AI-5-分钟就完成的，研发评审却要-3-小时。网友的反驳杀伤力拉满](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624519&idx=1&sn=de621af12ef780489cb5546ace52f75f&chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2b80c6c51a3a7e56db0351161b411c5a)  
 - [2026-05-31-英伟达-+-Arm-+-Windows：PC-新时代来了](http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5c93e386a7ed96a8069794e30d027c6)  
 - [2026-05-29-苹果憋了-5-年！MacBook-Pro-史诗级大改，触控屏终于来了](http://mp.weixin.qq.com/s/sRsQakQkuLrJYYjdG9Zoxg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4129c46594ef779c44a8bd8c970fafed)  
-- [2026-05-28-马斯克转发的这张梗图，藏着工程界最朴素的真理](http://mp.weixin.qq.com/s/L1C1szzHljQh5PlbrqQ9eg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cada6236b26015d6c703605b86064c89)  
 - [2026-05-28-阿里薪酬大调整！取消“13-薪”，改为“并肩前行年奖”](http://mp.weixin.qq.com/s/HElIGq4sy-faI81HSUbz0A)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f8b0585928f5e9bd7925387f7e477ff)  
 - [查看更多 >](/details/前端大全.md)
 
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2026-06-13-突发！Claude-新旗舰上线-3-天紧急下架，国模-GLM-5.2-火速开放](http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e76c5d6a35e45ad5aa3059a0d279a4e2)  ![](/assets/new.png) 
+- [2026-06-13-突发！Claude-新旗舰上线-3-天紧急下架，国模-GLM-5.2-火速开放](http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e76c5d6a35e45ad5aa3059a0d279a4e2)  
 - [2026-06-12-牛逼!后端兄弟开发了个逆天社交软件，居然不能聊天](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523883&idx=1&sn=a70d5796cf0907456075ba317f7d180d&chksm=e80fd165df785873c3b84819c3432d48135699f10fffa7f99c6f68c3b31043c28cdad59a1253#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2816c39029e5432cfffef2ad7f041a11)  
 - [2026-06-11-小米-5-人两周搞出个开源编程-Agent，跑分直接把-Claude-Code-比下去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523882&idx=1&sn=74362527cd661e260ee3a8f48f1e2cc2&chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dd0c68c16af0e690dee890f8f4af425f)  
 - [2026-06-10-学-Bun！React-官方编译器也-Rust-重构了，代码大半-Claude-写的](http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7812addaf9845c0d56eecd939140dd7b)  

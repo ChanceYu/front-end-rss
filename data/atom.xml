@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-13T22:53:06.393Z</updated>
+    <updated>2026-06-14T13:23:38.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[这两个 SpaceX 百万富翁老哥，接受采访时嘴角的开心，完全压不住啊！]]></title>
+        <id>http://mp.weixin.qq.com/s/el_f0aK2pQU4Wgf1m59WIA</id>
+        <link href="http://mp.weixin.qq.com/s/el_f0aK2pQU4Wgf1m59WIA"/>
+        <updated>2026-06-14T00:00:00.000Z</updated>
+        <published>2026-06-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突发！Claude 新旗舰上线 3 天紧急下架，国模 GLM-5.2 火速开放]]></title>
         <id>http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279185&amp;idx=1&amp;sn=aa66b7e38286abae9ed971c57f6aa41c&amp;chksm=bc76b09caf42c10b68859c73a37d8b077b843a8073364b999720dc11c30ae4b45d2c769e95b5&amp;scene=0#rd"/>
         <updated>2026-06-01T00:00:00.000Z</updated>
         <published>2026-06-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离谱！为了反 AI 编程，这个 Java 库作者竟然亲自投毒！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523760&amp;idx=1&amp;sn=4342a234ce649963649c3e47f7e7bd5d&amp;chksm=e80fd2fedf785be8daccfe137ba1f701b18af6872566a8db02a0e30db3710e4267b5a887911c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523760&amp;idx=1&amp;sn=4342a234ce649963649c3e47f7e7bd5d&amp;chksm=e80fd2fedf785be8daccfe137ba1f701b18af6872566a8db02a0e30db3710e4267b5a887911c#rd"/>
-        <updated>2026-05-31T00:00:00.000Z</updated>
-        <published>2026-05-31T00:00:00.000Z</published>
     </entry>
 </feed>
