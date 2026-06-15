@@ -16,11 +16,11 @@
 
 :alarm_clock: 更新时间: 2026-06-15 01:06:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
-## 赞助商
+## 开源推荐
 
-<a href="https://github.com/Doloffer-g/guide" target="_blank"><img width="120" src="https://doloffer.com/assets/logo-CxQRGpM5.png" alt="doloffer" /></a>
+### [CoPet](https://github.com/ChanceYu/CoPet) - AI 桌面宠物
 
-[doloffer](https://github.com/Doloffer-g/guide) 提供 ChatGPT、Claude 会员订阅与充值服务，支持正版订阅与售后保障；访问 [doloffer 官网](https://doloffer.com) 使用优惠码 `AI8888` 享 9 折优惠。
+<a href="https://github.com/ChanceYu/CoPet" target="_blank"><img width="240" src="https://github.com/ChanceYu/CoPet/raw/main/public/pet.png" alt="CoPet" /></a>
 
 ## 文章来源
 
