@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-15T15:34:51.976Z</updated>
+    <updated>2026-06-15T22:09:35.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,20 @@
         <title type="html"><![CDATA[用 AI Skills 打通中间件迁移：定位服务从 Android 到鸿蒙的完整实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544335&amp;idx=1&amp;sn=4bd077bfe079f01874d3cebe4b1e80ab&amp;chksm=8390d0d7b4e759c19409a451e936f4615f2a31057e5c26720e9d9ffaeafeacec0bc6b0a2a4fd#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544335&amp;idx=1&amp;sn=4bd077bfe079f01874d3cebe4b1e80ab&amp;chksm=8390d0d7b4e759c19409a451e936f4615f2a31057e5c26720e9d9ffaeafeacec0bc6b0a2a4fd#rd"/>
+        <updated>2026-06-15T00:00:00.000Z</updated>
+        <published>2026-06-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex 怎么买、怎么充值？先把这两套计费搞清楚]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530008&amp;idx=1&amp;sn=deba47a8cda7e021415af996672670d3&amp;chksm=f99270c9cee5f9df752b4419f37cd96c941b17c4204433de81f59bb043773dbe26c18edcf656#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530008&amp;idx=1&amp;sn=deba47a8cda7e021415af996672670d3&amp;chksm=f99270c9cee5f9df752b4419f37cd96c941b17c4204433de81f59bb043773dbe26c18edcf656#rd"/>
+        <updated>2026-06-15T00:00:00.000Z</updated>
+        <published>2026-06-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[突发！用Claude要实名制了，Anthropic新政策下个月生效]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624560&amp;idx=1&amp;sn=0ac4219ed3c3b8deb7c230876fee891a&amp;chksm=802243b1b755caa761ccf434357a2682a9dd1738e34e436d5645123c17a10c7f1e72288b2659#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624560&amp;idx=1&amp;sn=0ac4219ed3c3b8deb7c230876fee891a&amp;chksm=802243b1b755caa761ccf434357a2682a9dd1738e34e436d5645123c17a10c7f1e72288b2659#rd"/>
         <updated>2026-06-15T00:00:00.000Z</updated>
         <published>2026-06-15T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279190&amp;idx=1&amp;sn=a17eb52f2d87ebc824ef76d8200725e7&amp;chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&amp;scene=0#rd"/>
         <updated>2026-06-02T00:00:00.000Z</updated>
         <published>2026-06-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to vet an npm package in 2026]]></title>
-        <id>https://javascriptweekly.com/issues/788</id>
-        <link href="https://javascriptweekly.com/issues/788"/>
-        <updated>2026-06-02T00:00:00.000Z</updated>
-        <published>2026-06-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用惯了 Cursor 和 Claude Code，我被义乌小老板的"AI 开单"整懵了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523763&amp;idx=1&amp;sn=33803771c3a03fdf1525a2afe2950553&amp;chksm=e80fd2fddf785bebb89796ed530931f7e4b11d8dcc11addc29be2aae36d547fcc058e4a72e8f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523763&amp;idx=1&amp;sn=33803771c3a03fdf1525a2afe2950553&amp;chksm=e80fd2fddf785bebb89796ed530931f7e4b11d8dcc11addc29be2aae36d547fcc058e4a72e8f#rd"/>
-        <updated>2026-06-01T00:00:00.000Z</updated>
-        <published>2026-06-01T00:00:00.000Z</published>
     </entry>
 </feed>
