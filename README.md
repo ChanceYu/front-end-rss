@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-15 01:06:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-15 14:31:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -26,7 +26,7 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2026-06-15-【图书】深度学习的数学工程：模型背后的数学原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279312&idx=2&sn=7f6a17abf56d466296781dc080fcf4bf&chksm=bc285e606a44d55aa569ca32743439536d529f412cb94d8598ab1a20e1518c6fe60656c76fde&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a2d5ba0e93f1f2dd29ea7655ba89029)  ![](/assets/new.png) 
+- [2026-06-15-【第3717期】将-unknown-纳入类型领域](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279312&idx=1&sn=9b4c0bf99ebeb443a4f2ec52e0e0806d&chksm=bcb98d9a25e90ddb5f6b91e4a43f02868645485b150a607437edecbe30134cc59407078ba72f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d57678fcfd3045446212589e4e09ae13)  ![](/assets/new.png) 
 - [2026-06-12-【第3716期】为每项任务量身打造——Claude-Code-动态工作流详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279304&idx=1&sn=9fe176b4ce5d5516dc80c7f9a9791641&chksm=bce44da37e4b1eea11d5196ceef3b4ce393f2d7d4d2a774e801c5e0520b66a65ce6cdd88d139&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4814ed75bdc4e43da406903d1bf4787d)  
 - [2026-06-11-【第3715期】循环工程：不再亲自提示AI，而是设计系统替你提示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279283&idx=1&sn=e1de710da6afaf137fb503d7d3d25adf&chksm=bc903e59d586e37d252054d00def48e05c48cd00be8b7bbe5cc0e88aa6c6fb0fe6131efc485e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=314840dd2d03199d35b403d6ed3a1868)  
 - [2026-06-10-【第3714期】浏览器中的大文件处理：如何在前端创建5GB文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279277&idx=1&sn=f0722899c750fa73525cc3463fef3eda&chksm=bc24b1ac58f757d687f1195792198a556c768a247d1ecf15d681bd8c41c42af64236b90de28d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1874d264d284f5f510433d3f9b5003c5)  
@@ -101,8 +103,6 @@
 - [2026-06-05-【第3712期】Claude-Dreaming功能：Anthropic的自我改进型智能体记忆系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279213&idx=1&sn=326bbb399248c13c604f7bd7ab7766f9&chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=72210fd013ba1f9cd18d7c23ea40a1ea)  
 - [2026-06-04-【第3711期】Claude-Code-在大型代码库中的工作原理：最佳实践与入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279208&idx=1&sn=8ed61620207ba97d265b874778b6a1d8&chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6469adbc7c9f48b64d0a7f45be76cd61)  
 - [2026-06-03-【第3710期】智能体驱动框架的解剖与推演](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279198&idx=1&sn=264d03eade31e32fc9f0cc6c16e6aeb1&chksm=bc1d9d16d173d61b53a9a3a19c959942632a1f6d758ca76c40f9305e1867764c3adf4d4a2bcc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=922f7a44ef2dca35693df9db21d8a72a)  
-- [2026-06-02-【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b)  
-- [2026-06-01-【第3708期】智能体引擎优化：当AI成为你文档的头号读者](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279185&idx=1&sn=aa66b7e38286abae9ed971c57f6aa41c&chksm=bc76b09caf42c10b68859c73a37d8b077b843a8073364b999720dc11c30ae4b45d2c769e95b5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9730e8d2d5356310d70cb846df50e6d6)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2026-06-14-npm-装包会偷偷跑别人的代码，这个设计坑了前端十几年，终于要被办了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523896&idx=1&sn=c5c846a760377c39d94a63ce8a7deabb&chksm=e80fd176df7858609417dfce1db4c97edf2fa4b9613826546714f09c4a776d65319e9b3ef01c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9e8b10badc1d05b9767a51215c2b7dbe)  ![](/assets/new.png) 
+- [2026-06-14-npm-装包会偷偷跑别人的代码，这个设计坑了前端十几年，终于要被办了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523896&idx=1&sn=c5c846a760377c39d94a63ce8a7deabb&chksm=e80fd176df7858609417dfce1db4c97edf2fa4b9613826546714f09c4a776d65319e9b3ef01c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9e8b10badc1d05b9767a51215c2b7dbe)  
 - [2026-06-13-突发！Claude-新旗舰上线-3-天紧急下架，国模-GLM-5.2-火速开放](http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e76c5d6a35e45ad5aa3059a0d279a4e2)  
 - [2026-06-12-牛逼!后端兄弟开发了个逆天社交软件，居然不能聊天](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523883&idx=1&sn=a70d5796cf0907456075ba317f7d180d&chksm=e80fd165df785873c3b84819c3432d48135699f10fffa7f99c6f68c3b31043c28cdad59a1253#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2816c39029e5432cfffef2ad7f041a11)  
 - [2026-06-11-小米-5-人两周搞出个开源编程-Agent，跑分直接把-Claude-Code-比下去了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523882&idx=1&sn=74362527cd661e260ee3a8f48f1e2cc2&chksm=e80fd164df78587278ff612a811d5c7d85456ea839e26915ff75faff608b6239c1d3e1676218#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dd0c68c16af0e690dee890f8f4af425f)  

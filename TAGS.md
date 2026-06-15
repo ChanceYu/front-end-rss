@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-15 01:06:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-15 14:31:51。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -482,6 +482,7 @@
 
 
 
+- [【前端早读课】【图书】深度学习的数学工程：模型背后的数学原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279312&idx=2&sn=7f6a17abf56d466296781dc080fcf4bf&chksm=bc285e606a44d55aa569ca32743439536d529f412cb94d8598ab1a20e1518c6fe60656c76fde&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a2d5ba0e93f1f2dd29ea7655ba89029)
 - [【前端大全】这两个-SpaceX-百万富翁老哥，接受采访时嘴角的开心，完全压不住啊！](http://mp.weixin.qq.com/s/el_f0aK2pQU4Wgf1m59WIA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=088b63b7c27647bcc2a18866b32924ee)
 - [【前端大全】SpaceX一上市，连食堂阿姨都要成百万富翁了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624544&idx=1&sn=5302bbb0a92d581900dd0f67289be173&chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e6b9e95e2a2963800faa1a3e52f702f)
 - [【前端早读课】【第3715期】循环工程：不再亲自提示AI，而是设计系统替你提示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279283&idx=1&sn=e1de710da6afaf137fb503d7d3d25adf&chksm=bc903e59d586e37d252054d00def48e05c48cd00be8b7bbe5cc0e88aa6c6fb0fe6131efc485e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=314840dd2d03199d35b403d6ed3a1868)
@@ -491,7 +492,6 @@
 - [【前端早读课】【第3711期】Claude-Code-在大型代码库中的工作原理：最佳实践与入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279208&idx=1&sn=8ed61620207ba97d265b874778b6a1d8&chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6469adbc7c9f48b64d0a7f45be76cd61)
 - [【Nodejs技术栈】Astro-把-Claude-Code-那套东西做成了一个纯-TypeScript-框架开源了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523769&idx=1&sn=a64d90f2ffb161d06e1175662247c04b&chksm=e80fd2f7df785be1e2cdc1a43e22582b4cf09d9360c4147a4a18964e6ca269fce1e07ee93c8b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0f18fefbf482bd565b48cf2233d5863)
 - [【前端早读课】【第3709期】React-常见设计模式完全指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279190&idx=1&sn=a17eb52f2d87ebc824ef76d8200725e7&chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4c4f58b6eca4df9a4a568f35dc65aa5b)
-- [【张鑫旭-鑫空间-鑫生活】CSS-contrast-color函数简介](https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c47788cbcecd2d58b7d53dcec9aa245a)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,8 @@
 
 
 
+- [【前端早读课】【第3717期】将-unknown-纳入类型领域](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279312&idx=1&sn=9b4c0bf99ebeb443a4f2ec52e0e0806d&chksm=bcb98d9a25e90ddb5f6b91e4a43f02868645485b150a607437edecbe30134cc59407078ba72f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d57678fcfd3045446212589e4e09ae13)
+- [【前端早读课】【图书】深度学习的数学工程：模型背后的数学原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279312&idx=2&sn=7f6a17abf56d466296781dc080fcf4bf&chksm=bc285e606a44d55aa569ca32743439536d529f412cb94d8598ab1a20e1518c6fe60656c76fde&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a2d5ba0e93f1f2dd29ea7655ba89029)
 - [【Nodejs技术栈】npm-装包会偷偷跑别人的代码，这个设计坑了前端十几年，终于要被办了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523896&idx=1&sn=c5c846a760377c39d94a63ce8a7deabb&chksm=e80fd176df7858609417dfce1db4c97edf2fa4b9613826546714f09c4a776d65319e9b3ef01c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9e8b10badc1d05b9767a51215c2b7dbe)
 - [【前端大全】这两个-SpaceX-百万富翁老哥，接受采访时嘴角的开心，完全压不住啊！](http://mp.weixin.qq.com/s/el_f0aK2pQU4Wgf1m59WIA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=088b63b7c27647bcc2a18866b32924ee)
 - [【Nodejs技术栈】突发！Claude-新旗舰上线-3-天紧急下架，国模-GLM-5.2-火速开放](http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e76c5d6a35e45ad5aa3059a0d279a4e2)
@@ -592,8 +594,6 @@
 - [【Nodejs技术栈】牛逼!后端兄弟开发了个逆天社交软件，居然不能聊天](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523883&idx=1&sn=a70d5796cf0907456075ba317f7d180d&chksm=e80fd165df785873c3b84819c3432d48135699f10fffa7f99c6f68c3b31043c28cdad59a1253#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2816c39029e5432cfffef2ad7f041a11)
 - [【阮一峰的网络日志】科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d00a04d6403a87a5e8b59ba37753127b)
 - [【淘系前端团队】Agent-skill-迭代式编写实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544291&idx=1&sn=ba44a1e5b3259dbc70e1a5adc6bf0f77&chksm=8390d0bbb4e759adce8a28fb1a7d89badcfe46ec351371e63f38b4a667fd208f9550e4bcc4d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=54309d73df44c723f6d90c308604ceb3)
-- [【前端从进阶到入院】2026年，前端离职潮彻底消失了。。。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517639&idx=1&sn=50fefe3e9b31bf7deb32fa3c474441c7&chksm=eb07bdbedc7034a81be7426c6e49388896cf690ac900a764d1bc776c17919e4c565e9a2af7c5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=09594409daa6b631f01ab2a2ceac4fca)
-- [【前端大全】SpaceX一上市，连食堂阿姨都要成百万富翁了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624544&idx=1&sn=5302bbb0a92d581900dd0f67289be173&chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e6b9e95e2a2963800faa1a3e52f702f)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

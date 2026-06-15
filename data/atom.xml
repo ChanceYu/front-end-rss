@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-14T17:06:32.887Z</updated>
+    <updated>2026-06-15T06:31:16.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【图书】深度学习的数学工程：模型背后的数学原理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279312&amp;idx=2&amp;sn=7f6a17abf56d466296781dc080fcf4bf&amp;chksm=bc285e606a44d55aa569ca32743439536d529f412cb94d8598ab1a20e1518c6fe60656c76fde&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279312&amp;idx=2&amp;sn=7f6a17abf56d466296781dc080fcf4bf&amp;chksm=bc285e606a44d55aa569ca32743439536d529f412cb94d8598ab1a20e1518c6fe60656c76fde&amp;scene=0#rd"/>
+        <updated>2026-06-15T00:00:00.000Z</updated>
+        <published>2026-06-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[npm 装包会偷偷跑别人的代码，这个设计坑了前端十几年，终于要被办了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523896&amp;idx=1&amp;sn=c5c846a760377c39d94a63ce8a7deabb&amp;chksm=e80fd176df7858609417dfce1db4c97edf2fa4b9613826546714f09c4a776d65319e9b3ef01c#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面向 LLM 的架构设计：什么是真正的 AI Friendly 架构？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543768&amp;idx=1&amp;sn=b1c0207772c8a6d9550815a6afc01bf4&amp;chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543768&amp;idx=1&amp;sn=b1c0207772c8a6d9550815a6afc01bf4&amp;chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd"/>
-        <updated>2026-06-01T00:00:00.000Z</updated>
-        <published>2026-06-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再一次性渲染 10 万条数据了：Vue Virtual Scroller 大列表性能指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529910&amp;idx=1&amp;sn=ff0b7d77683d8d6226aae31ebba84be7&amp;chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529910&amp;idx=1&amp;sn=ff0b7d77683d8d6226aae31ebba84be7&amp;chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd"/>
         <updated>2026-06-01T00:00:00.000Z</updated>
         <published>2026-06-01T00:00:00.000Z</published>
     </entry>
