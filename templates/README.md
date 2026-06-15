@@ -20,7 +20,7 @@
 
 ### [CoPet](https://github.com/ChanceYu/CoPet) - AI 桌面宠物
 
-<a href="https://github.com/ChanceYu/CoPet" target="_blank"><img width="240" src="https://github.com/ChanceYu/CoPet/raw/main/public/pet.png" alt="CoPet" /></a>
+<a href="https://github.com/ChanceYu/CoPet" target="_blank"><img width="200" src="https://github.com/ChanceYu/CoPet/raw/main/public/pet.png" alt="CoPet" /></a>
 
 ## 文章来源
 <% _.each(obj.linksJson, function(e){ var rssTitle = obj.formatTitle(e.title); %>
