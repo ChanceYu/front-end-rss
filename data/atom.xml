@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-15T22:09:35.060Z</updated>
+    <updated>2026-06-16T09:14:51.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3718期】如何用 AI 辅助挖出 Node.js 的 UAF 漏洞并绕过权限模型]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=1&amp;sn=64f1a10ea8cf9e018285cc17b5f1f575&amp;chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=1&amp;sn=64f1a10ea8cf9e018285cc17b5f1f575&amp;chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&amp;scene=0#rd"/>
+        <updated>2026-06-16T00:00:00.000Z</updated>
+        <published>2026-06-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【招聘】字节跳动 AI Data  &  Safety 招聘 全栈研发工程师 - AI 数据与安全]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=2&amp;sn=1094c44a34c37af5d450e7b8ed0ac3a7&amp;chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=2&amp;sn=1094c44a34c37af5d450e7b8ed0ac3a7&amp;chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&amp;scene=0#rd"/>
+        <updated>2026-06-16T00:00:00.000Z</updated>
+        <published>2026-06-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的 React 代码可能一身病，12.4K star 的 react-doctor 一行命令揪出来]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523906&amp;idx=1&amp;sn=151926cceaf9c072aced7cbc5f17f0e7&amp;chksm=e80fd10cdf78581adb742fb6a918e403ebd0efc269925c2906ede969dd0037a7669dfb90ca45#rd</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Astro 把 Claude Code 那套东西做成了一个纯 TypeScript 框架开源了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523769&amp;idx=1&amp;sn=a64d90f2ffb161d06e1175662247c04b&amp;chksm=e80fd2f7df785be1e2cdc1a43e22582b4cf09d9360c4147a4a18964e6ca269fce1e07ee93c8b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523769&amp;idx=1&amp;sn=a64d90f2ffb161d06e1175662247c04b&amp;chksm=e80fd2f7df785be1e2cdc1a43e22582b4cf09d9360c4147a4a18964e6ca269fce1e07ee93c8b#rd"/>
-        <updated>2026-06-02T00:00:00.000Z</updated>
-        <published>2026-06-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团产品员工吐槽“更应该裁掉的是研发”！用 AI 5 分钟就完成的，研发评审却要 3 小时。网友的反驳杀伤力拉满]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624519&amp;idx=1&amp;sn=de621af12ef780489cb5546ace52f75f&amp;chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624519&amp;idx=1&amp;sn=de621af12ef780489cb5546ace52f75f&amp;chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd"/>
-        <updated>2026-06-02T00:00:00.000Z</updated>
-        <published>2026-06-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3709期】React 常见设计模式完全指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279190&amp;idx=1&amp;sn=a17eb52f2d87ebc824ef76d8200725e7&amp;chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279190&amp;idx=1&amp;sn=a17eb52f2d87ebc824ef76d8200725e7&amp;chksm=bc8adb01e2f93deccd6a9eeca5eea879c1d7e49f4677642b0868ca3193cecb8f992187242a7d&amp;scene=0#rd"/>
         <updated>2026-06-02T00:00:00.000Z</updated>
         <published>2026-06-02T00:00:00.000Z</published>
     </entry>
