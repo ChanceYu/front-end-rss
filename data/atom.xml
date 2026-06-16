@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-16T09:14:51.267Z</updated>
+    <updated>2026-06-16T19:25:57.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[【招聘】字节跳动 AI Data  &  Safety 招聘 全栈研发工程师 - AI 数据与安全]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=2&amp;sn=1094c44a34c37af5d450e7b8ed0ac3a7&amp;chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=2&amp;sn=1094c44a34c37af5d450e7b8ed0ac3a7&amp;chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&amp;scene=0#rd"/>
+        <updated>2026-06-16T00:00:00.000Z</updated>
+        <published>2026-06-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flow vs TypeScript in 2026]]></title>
+        <id>https://javascriptweekly.com/issues/790</id>
+        <link href="https://javascriptweekly.com/issues/790"/>
         <updated>2026-06-16T00:00:00.000Z</updated>
         <published>2026-06-16T00:00:00.000Z</published>
     </entry>
@@ -155,16 +162,16 @@
         <published>2026-06-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用 Claude Code 花一周搭了个 Dify]]></title>
-        <id>http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ</id>
-        <link href="http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ"/>
+        <title type="html"><![CDATA[学 Bun！React 官方编译器也 Rust 重构了，代码大半 Claude 写的]]></title>
+        <id>http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ</id>
+        <link href="http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[学 Bun！React 官方编译器也 Rust 重构了，代码大半 Claude 写的]]></title>
-        <id>http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ</id>
-        <link href="http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ"/>
+        <title type="html"><![CDATA[用 Claude Code 花一周搭了个 Dify]]></title>
+        <id>http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ</id>
+        <link href="http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543910&amp;idx=1&amp;sn=4359b93141cc75aaa1976382d4cb39df&amp;chksm=8390df3eb4e75628eea5247e62afe6462278cd21455276939912dc0eab5be7fda60e48df85c0#rd"/>
         <updated>2026-06-03T00:00:00.000Z</updated>
         <published>2026-06-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro 把 Claude Code 那套东西做成了一个纯 TypeScript 框架开源了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523769&amp;idx=1&amp;sn=a64d90f2ffb161d06e1175662247c04b&amp;chksm=e80fd2f7df785be1e2cdc1a43e22582b4cf09d9360c4147a4a18964e6ca269fce1e07ee93c8b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523769&amp;idx=1&amp;sn=a64d90f2ffb161d06e1175662247c04b&amp;chksm=e80fd2f7df785be1e2cdc1a43e22582b4cf09d9360c4147a4a18964e6ca269fce1e07ee93c8b#rd"/>
-        <updated>2026-06-02T00:00:00.000Z</updated>
-        <published>2026-06-02T00:00:00.000Z</published>
     </entry>
 </feed>
