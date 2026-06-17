@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-16T19:25:57.670Z</updated>
+    <updated>2026-06-17T02:30:47.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AI 时代下 JS 的 Lint 工具能多快？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517641&amp;idx=1&amp;sn=9606ab9491dd60e684d7c55d61beb79d&amp;chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517641&amp;idx=1&amp;sn=9606ab9491dd60e684d7c55d61beb79d&amp;chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd"/>
+        <updated>2026-06-16T00:00:00.000Z</updated>
+        <published>2026-06-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3718期】如何用 AI 辅助挖出 Node.js 的 UAF 漏洞并绕过权限模型]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=1&amp;sn=64f1a10ea8cf9e018285cc17b5f1f575&amp;chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Lovable 把 React+Vite 换掉了，用 TanStack Start 重构后每周跑出 100 万个应用]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523776&amp;idx=1&amp;sn=68ca2b8cf6ff07e4d5e4cae683cb3ad8&amp;chksm=e80fd28edf785b98772d009e5b1b807f8fc8ea774bad094107af30ce8ab1f326ae5ebe9089b1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523776&amp;idx=1&amp;sn=68ca2b8cf6ff07e4d5e4cae683cb3ad8&amp;chksm=e80fd28edf785b98772d009e5b1b807f8fc8ea774bad094107af30ce8ab1f326ae5ebe9089b1#rd"/>
-        <updated>2026-06-03T00:00:00.000Z</updated>
-        <published>2026-06-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent-Memory 评测全景：基准、评估与记忆系统（理论篇）]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543910&amp;idx=1&amp;sn=4359b93141cc75aaa1976382d4cb39df&amp;chksm=8390df3eb4e75628eea5247e62afe6462278cd21455276939912dc0eab5be7fda60e48df85c0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543910&amp;idx=1&amp;sn=4359b93141cc75aaa1976382d4cb39df&amp;chksm=8390df3eb4e75628eea5247e62afe6462278cd21455276939912dc0eab5be7fda60e48df85c0#rd"/>
         <updated>2026-06-03T00:00:00.000Z</updated>
         <published>2026-06-03T00:00:00.000Z</published>
     </entry>
