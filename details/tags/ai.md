@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-18 03:55:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-18 05:51:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -8,7 +8,9 @@
 
 
 - [2026-06-17-浙江大学经济学院百人计划研究员、博士生导师评价《2026-中国电商AI-应用白皮书》：AI-从技术可得走向经营能力平权](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544373&idx=2&sn=a58194aeb4381a8ab85b695f74a853a5&chksm=8390d0edb4e759fbda268bfc94e2c0a8c9cdc0693d61d6565e092d7124bc0ba65fb079450d8d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5ee928f44cbc39d2e1c10c5eb1aa487b) 
+- [2026-06-17-支付宝偷偷做了个-AI-版-–-怎么获取邀请码？附免费领取方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530031&idx=1&sn=9f3f5eaded0e551c09c73dd15476ec31&chksm=f99270fecee5f9e865ef8dfc31403c2b2a0e21df5efda0e93ade60521ae963fa7df445f75b01#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8759f27c407758be7b4f77c8a7c8308c) 
 - [2026-06-16-AI-时代下-JS-的-Lint-工具能多快？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517641&idx=1&sn=9606ab9491dd60e684d7c55d61beb79d&chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df01e1f6acabfa0981553fc2796b2c13) 
+- [2026-06-16-Codex-小白入门：从安装到插件、MCP、Skills，一篇把配置讲明白](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530021&idx=1&sn=2504f0921ce3003f478a7294156c0125&chksm=f99270f4cee5f9e2290570629a2baf9c24f476599bc4adf43c89e9507c14cc2e64ebcf4f0a6a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f5046851df369075cdf52ccc1e65e2d0) 
 - [2026-06-16-【招聘】字节跳动-AI-Data-&amp;-Safety-招聘-全栈研发工程师---AI-数据与安全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=2&sn=1094c44a34c37af5d450e7b8ed0ac3a7&chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e6397a536aafb1b28e3b78b25318a591) 
 - [2026-06-16-【第3718期】如何用-AI-辅助挖出-Node.js-的-UAF-漏洞并绕过权限模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=1&sn=64f1a10ea8cf9e018285cc17b5f1f575&chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac5611700fbdcb0dd451ecb389d5ebba) 
 - [2026-06-15-用-AI-Skills-打通中间件迁移：定位服务从-Android-到鸿蒙的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544335&idx=1&sn=4bd077bfe079f01874d3cebe4b1e80ab&chksm=8390d0d7b4e759c19409a451e936f4615f2a31057e5c26720e9d9ffaeafeacec0bc6b0a2a4fd#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=630f448b9a4dfc73e680521cc58dedd1) 
@@ -381,8 +383,8 @@
 - [2025-06-03-【图书】MCP原理与实战：高效AI-Agent智能体开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=2&sn=0d4d5f290917268692e6ea82d16b380c&chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&scene=0#rd) 
 - [2025-06-02-🤖-如何让-Cursor-AI-Agent始终遵守项目规范：使用自动规则生成技术](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526316&idx=1&sn=7acd2a4fb4c6f2dab985550d1683d32a&chksm=f992617dcee5e86beaeb3f1568a65a70aa36c04da447216107542d43e6824b62c8c08e5d261e#rd) 
 - [2025-05-29-用印度程序员冒充AI的“独角兽”彻底倒闭了！伪AI烧光5亿美元，连微软和亚马逊都被“坑”了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526046&idx=1&sn=bfb62e9e1be7fb29e60a880b25429991&chksm=f952d3ddce255acb82d791a760d40feb73b57115ab9b61b72b8ab979adeb7f2464f14bcbb289#rd) 
-- [2025-05-27-LLM与外部世界的交互能力](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=2&sn=f7da7b4e7babbb06dbd6a19b6431c0da&chksm=f9926143cee5e855ba17f6ab6a308c7102f8310525c06091800021e43bf10f573266a401feaf#rd) 
 - [2025-05-27-前端也需要了解的-MCP-知识](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=1&sn=35d65ec8a6863f9b65561b038b6fe167&chksm=f9926143cee5e8551546bd2ef282262f649dff9619db4f547c2463c087a2b9cf52155e5b5893#rd) 
+- [2025-05-27-LLM与外部世界的交互能力](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=2&sn=f7da7b4e7babbb06dbd6a19b6431c0da&chksm=f9926143cee5e855ba17f6ab6a308c7102f8310525c06091800021e43bf10f573266a401feaf#rd) 
 - [2025-05-27-【第3517期】stagewise：让AI与代码编辑器无缝连接](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276516&idx=1&sn=d1dfeb7103ef039786dc7098a1fbeace&chksm=bc0a86affcfc7c5004fcaf5b16977c2b05c137e59cd55b5821fab47d73e5eda45465dbc6d731&scene=0#rd) 
 - [2025-05-26-Java-之父怒斥：AI-是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622523&idx=1&sn=6d41ee9991b52c3a8dfbe51a783e01aa&chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd) 
 - [2025-05-23-淘宝Java工程师的LLM开发实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540249&idx=1&sn=1c8a9137594bc9772f863bc0e4dc972d&chksm=826307b256b557840c679d626771c1b3f5f861c8b60de62b82f06628a10f0347e7c729d55c1e&scene=0#rd) 

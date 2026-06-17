@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-18 03:55:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-18 05:51:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -30,7 +30,7 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -177,6 +177,8 @@
 </summary>
 
 
+- [2026-06-17-支付宝偷偷做了个-AI-版-–-怎么获取邀请码？附免费领取方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530031&idx=1&sn=9f3f5eaded0e551c09c73dd15476ec31&chksm=f99270fecee5f9e865ef8dfc31403c2b2a0e21df5efda0e93ade60521ae963fa7df445f75b01#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8759f27c407758be7b4f77c8a7c8308c)  ![](/assets/new.png) 
+- [2026-06-16-Codex-小白入门：从安装到插件、MCP、Skills，一篇把配置讲明白](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530021&idx=1&sn=2504f0921ce3003f478a7294156c0125&chksm=f99270f4cee5f9e2290570629a2baf9c24f476599bc4adf43c89e9507c14cc2e64ebcf4f0a6a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f5046851df369075cdf52ccc1e65e2d0)  ![](/assets/new.png) 
 - [2026-06-15-Codex-怎么买、怎么充值？先把这两套计费搞清楚](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530008&idx=1&sn=deba47a8cda7e021415af996672670d3&chksm=f99270c9cee5f9df752b4419f37cd96c941b17c4204433de81f59bb043773dbe26c18edcf656#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a547a207ca3b9d376d200fcf2bac8a7)  
 - [2026-06-11-Codex-不得不装的-12-个插件，都在这了](http://mp.weixin.qq.com/s/teqG-LYD5xlZmN8WGUsAnA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b5f1d655b3c6a775fb88f215d505ef1c)  
 - [2026-06-10-为什么现在程序员都扎堆学多-Agent](http://mp.weixin.qq.com/s/GYIPf8L5mVqgw-KjDRe4PQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e3d659e7bc7aeab7bbf638bfafcc733)  
@@ -185,8 +187,6 @@
 - [2026-06-05-告别-README：为什么你的代码库必须立刻增加一个-AGENTS.md？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529926&idx=1&sn=56764ccea1d5425f484c24bd12b3855e&chksm=f9927317cee5fa01ed170d602966becadf4d9f0ceb3ed285d70beee64713947d694d90477093#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a989b721241ed491d5a1ebe9455791a2)  
 - [2026-06-04-用-Codex-千万别犯这-7-个错误：不然-AI-写代码越帮越忙](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529912&idx=1&sn=73b0fda47949e0f4d89af7fe4e6631c2&chksm=f9927369cee5fa7f839514adf81a501b2815a770482cd48a0dde115f48cf9eab7010b35bddf7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a3fcf8211e3803a7a41bd1445cda4988)  
 - [2026-06-01-别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)  
-- [2026-05-29-AI-产品从-Demo-到上线，中间隔着-24-个坑](http://mp.weixin.qq.com/s/x33Q5T-C09985IcAlNE5Hg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5389eb3d7e55a3ea0f4f3f8608d04330)  
-- [2026-05-28-68K-Star！前端动效神器升级，复杂动画终于不用硬写了](http://mp.weixin.qq.com/s/GYFM0GVKm5MCbhlVj4i6iA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c2f24533b15804d6ba0a441d44662bfb)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2026-06-17-不用-Electron-也不用-Tauri，Deno-把桌面应用塞进了一行命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523918&idx=1&sn=72b585fbdb8af5cf794280cf678c380f&chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c008125682703c34a254b3f0b05031b1)  ![](/assets/new.png) 
+- [2026-06-17-不用-Electron-也不用-Tauri，Deno-把桌面应用塞进了一行命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523918&idx=1&sn=72b585fbdb8af5cf794280cf678c380f&chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c008125682703c34a254b3f0b05031b1)  
 - [2026-06-16-TanStack-杀疯了，这次要抢-Vercel-的饭碗](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523911&idx=1&sn=58897e8517f0f72823b391be714d326d&chksm=e80fd109df78581f5cfbf4fed69c31ee9f13aad2cc857582ad1d365206527d0106ce2e74cd72#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=37b5b9ff186d6d61ae4bfb87611c407a)  
 - [2026-06-15-你的-React-代码可能一身病，12.4K-star-的-react-doctor-一行命令揪出来](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523906&idx=1&sn=151926cceaf9c072aced7cbc5f17f0e7&chksm=e80fd10cdf78581adb742fb6a918e403ebd0efc269925c2906ede969dd0037a7669dfb90ca45#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=de8561db49a26318f14e5b122effcc17)  
 - [2026-06-14-npm-装包会偷偷跑别人的代码，这个设计坑了前端十几年，终于要被办了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523896&idx=1&sn=c5c846a760377c39d94a63ce8a7deabb&chksm=e80fd176df7858609417dfce1db4c97edf2fa4b9613826546714f09c4a776d65319e9b3ef01c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9e8b10badc1d05b9767a51215c2b7dbe)  

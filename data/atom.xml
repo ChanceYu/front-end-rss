@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-17T19:55:13.984Z</updated>
+    <updated>2026-06-17T21:51:07.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,6 +29,13 @@
         <published>2026-06-17T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[支付宝偷偷做了个 AI 版 – 怎么获取邀请码？附免费领取方式]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530031&amp;idx=1&amp;sn=9f3f5eaded0e551c09c73dd15476ec31&amp;chksm=f99270fecee5f9e865ef8dfc31403c2b2a0e21df5efda0e93ade60521ae963fa7df445f75b01#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530031&amp;idx=1&amp;sn=9f3f5eaded0e551c09c73dd15476ec31&amp;chksm=f99270fecee5f9e865ef8dfc31403c2b2a0e21df5efda0e93ade60521ae963fa7df445f75b01#rd"/>
+        <updated>2026-06-17T00:00:00.000Z</updated>
+        <published>2026-06-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3719期】从过度 Chaining 到清晰 Steps：JavaScript 编码观念转变]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279324&amp;idx=1&amp;sn=83f6e56ae81accaeb7f13989c81c3608&amp;chksm=bca556d6cb36d40666c5dad5776b24210c8bba98fc6f4ad954c25ec74ed9ce2b726cf655c681&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279324&amp;idx=1&amp;sn=83f6e56ae81accaeb7f13989c81c3608&amp;chksm=bca556d6cb36d40666c5dad5776b24210c8bba98fc6f4ad954c25ec74ed9ce2b726cf655c681&amp;scene=0#rd"/>
@@ -39,6 +46,13 @@
         <title type="html"><![CDATA[AI 时代下 JS 的 Lint 工具能多快？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517641&amp;idx=1&amp;sn=9606ab9491dd60e684d7c55d61beb79d&amp;chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517641&amp;idx=1&amp;sn=9606ab9491dd60e684d7c55d61beb79d&amp;chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd"/>
+        <updated>2026-06-16T00:00:00.000Z</updated>
+        <published>2026-06-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex 小白入门：从安装到插件、MCP、Skills，一篇把配置讲明白]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530021&amp;idx=1&amp;sn=2504f0921ce3003f478a7294156c0125&amp;chksm=f99270f4cee5f9e2290570629a2baf9c24f476599bc4adf43c89e9507c14cc2e64ebcf4f0a6a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530021&amp;idx=1&amp;sn=2504f0921ce3003f478a7294156c0125&amp;chksm=f99270f4cee5f9e2290570629a2baf9c24f476599bc4adf43c89e9507c14cc2e64ebcf4f0a6a#rd"/>
         <updated>2026-06-16T00:00:00.000Z</updated>
         <published>2026-06-16T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279213&amp;idx=1&amp;sn=326bbb399248c13c604f7bd7ab7766f9&amp;chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&amp;scene=0#rd"/>
         <updated>2026-06-05T00:00:00.000Z</updated>
         <published>2026-06-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code 可以卸载了？连 Copilot 的亲爹都搬出去了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523786&amp;idx=1&amp;sn=f1d791daffcd7c9410601a27ded07cb1&amp;chksm=e80fd284df785b923a21e7ebe24811f51bc4ea76d644c175c5b2d8bab345788ce742b955d7e2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523786&amp;idx=1&amp;sn=f1d791daffcd7c9410601a27ded07cb1&amp;chksm=e80fd284df785b923a21e7ebe24811f51bc4ea76d644c175c5b2d8bab345788ce742b955d7e2#rd"/>
-        <updated>2026-06-04T00:00:00.000Z</updated>
-        <published>2026-06-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 Codex 千万别犯这 7 个错误：不然 AI 写代码越帮越忙]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529912&amp;idx=1&amp;sn=73b0fda47949e0f4d89af7fe4e6631c2&amp;chksm=f9927369cee5fa7f839514adf81a501b2815a770482cd48a0dde115f48cf9eab7010b35bddf7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529912&amp;idx=1&amp;sn=73b0fda47949e0f4d89af7fe4e6631c2&amp;chksm=f9927369cee5fa7f839514adf81a501b2815a770482cd48a0dde115f48cf9eab7010b35bddf7#rd"/>
-        <updated>2026-06-04T00:00:00.000Z</updated>
-        <published>2026-06-04T00:00:00.000Z</published>
     </entry>
 </feed>
