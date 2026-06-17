@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-17T08:52:17.336Z</updated>
+    <updated>2026-06-17T16:49:46.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[浙江大学经济学院百人计划研究员、博士生导师评价《2026 中国电商AI 应用白皮书》：AI 从技术可得走向经营能力平权]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544373&amp;idx=2&amp;sn=a58194aeb4381a8ab85b695f74a853a5&amp;chksm=8390d0edb4e759fbda268bfc94e2c0a8c9cdc0693d61d6565e092d7124bc0ba65fb079450d8d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544373&amp;idx=2&amp;sn=a58194aeb4381a8ab85b695f74a853a5&amp;chksm=8390d0edb4e759fbda268bfc94e2c0a8c9cdc0693d61d6565e092d7124bc0ba65fb079450d8d#rd"/>
+        <updated>2026-06-17T00:00:00.000Z</updated>
+        <published>2026-06-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3719期】从过度 Chaining 到清晰 Steps：JavaScript 编码观念转变]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279324&amp;idx=1&amp;sn=83f6e56ae81accaeb7f13989c81c3608&amp;chksm=bca556d6cb36d40666c5dad5776b24210c8bba98fc6f4ad954c25ec74ed9ce2b726cf655c681&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3711期】Claude Code 在大型代码库中的工作原理：最佳实践与入门指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279208&amp;idx=1&amp;sn=8ed61620207ba97d265b874778b6a1d8&amp;chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279208&amp;idx=1&amp;sn=8ed61620207ba97d265b874778b6a1d8&amp;chksm=bc0436952212c692d96d74afee58fa9a17601ca8e675537261194129dae75af1836d9f51b415&amp;scene=0#rd"/>
-        <updated>2026-06-04T00:00:00.000Z</updated>
-        <published>2026-06-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find better alternatives to npm packages]]></title>
-        <id>https://nodeweekly.com/issues/627</id>
-        <link href="https://nodeweekly.com/issues/627"/>
         <updated>2026-06-04T00:00:00.000Z</updated>
         <published>2026-06-04T00:00:00.000Z</published>
     </entry>
