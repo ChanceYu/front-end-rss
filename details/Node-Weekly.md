@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-06-11 21:49:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-19 00:49:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2026-06-18-Extending-Node-instead-of-replacing-it](https://nodeweekly.com/issues/629)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e402e391dbedcbc0a498c8cf82a91da3) 
 - [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=217dd885c01f10d7551395e2a8537b09) 
 - [2026-06-04-Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f820d917cc5e6279315d8351741c705) 
 - [2026-05-28-Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcdb2c41a5b103b112ece1664296629b) 

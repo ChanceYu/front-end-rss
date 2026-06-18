@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-18T08:28:34.109Z</updated>
+    <updated>2026-06-18T16:49:17.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[【早说】Codex 不止 OpenAI，全面拥抱开源大模型！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279339&amp;idx=2&amp;sn=728154a99da6b904d3ae0bb8450e0578&amp;chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279339&amp;idx=2&amp;sn=728154a99da6b904d3ae0bb8450e0578&amp;chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&amp;scene=0#rd"/>
+        <updated>2026-06-18T00:00:00.000Z</updated>
+        <published>2026-06-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extending Node instead of replacing it]]></title>
+        <id>https://nodeweekly.com/issues/629</id>
+        <link href="https://nodeweekly.com/issues/629"/>
         <updated>2026-06-18T00:00:00.000Z</updated>
         <published>2026-06-18T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[CCIG 2026 | TaoAvatar：3D真人数字人在淘宝Vision领域的应用]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544017&amp;idx=1&amp;sn=7c1a0cc4a43ea9b7cd5417ed44822e76&amp;chksm=8390df89b4e7569f8c39e4fc9dcb597cc12ad38afac25faa95f31a606e4f51213e382449200c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544017&amp;idx=1&amp;sn=7c1a0cc4a43ea9b7cd5417ed44822e76&amp;chksm=8390df89b4e7569f8c39e4fc9dcb597cc12ad38afac25faa95f31a606e4f51213e382449200c#rd"/>
-        <updated>2026-06-05T00:00:00.000Z</updated>
-        <published>2026-06-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517631&amp;idx=1&amp;sn=7110283e96d7a9aa5cc40224f21a8a7f&amp;chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517631&amp;idx=1&amp;sn=7110283e96d7a9aa5cc40224f21a8a7f&amp;chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd"/>
         <updated>2026-06-05T00:00:00.000Z</updated>
         <published>2026-06-05T00:00:00.000Z</published>
     </entry>

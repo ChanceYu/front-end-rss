@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-18 16:29:05，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-19 00:49:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -24,9 +24,9 @@
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -51,6 +51,7 @@
 </summary>
 
 
+- [2026-06-18-Extending-Node-instead-of-replacing-it](https://nodeweekly.com/issues/629)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e402e391dbedcbc0a498c8cf82a91da3)  ![](/assets/new.png) 
 - [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=217dd885c01f10d7551395e2a8537b09)  
 - [2026-06-04-Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f820d917cc5e6279315d8351741c705)  
 - [2026-05-28-Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcdb2c41a5b103b112ece1664296629b)  
@@ -60,7 +61,6 @@
 - [2026-04-30-pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=67fb43d0ed2de82048441dc6fbd694bf)  
 - [2026-04-23-Playwright's-exciting-new-page.screencast-API](https://nodeweekly.com/issues/621)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1562b83b6b5ebe53a419c8d6c175244a)  
 - [2026-04-16-Node-moves-toward-Temporal-by-default](https://nodeweekly.com/issues/620)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dad993ebd7c6a7675b65fc17ca6efefe)  
-- [2026-04-09-Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25cbe0bf91baee921ebc6c8539d8da58)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2026-06-18-【早说】Codex-不止-OpenAI，全面拥抱开源大模型！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=2&sn=728154a99da6b904d3ae0bb8450e0578&chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9784f4958e69990b1ad12fa01574abb)  ![](/assets/new.png) 
-- [2026-06-18-【第3720期】智能体时代的代码审查](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=1&sn=44f5e97799ad1b0d711dfc4f965d0913&chksm=bcfda41d99c9d28f8bea1084529ece0e149a9a0ac00baa791fbbb989308c4ff5924f7f452853&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e72be3ac23140cad47bd5bb3a6a39b29)  ![](/assets/new.png) 
+- [2026-06-18-【早说】Codex-不止-OpenAI，全面拥抱开源大模型！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=2&sn=728154a99da6b904d3ae0bb8450e0578&chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9784f4958e69990b1ad12fa01574abb)  
+- [2026-06-18-【第3720期】智能体时代的代码审查](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=1&sn=44f5e97799ad1b0d711dfc4f965d0913&chksm=bcfda41d99c9d28f8bea1084529ece0e149a9a0ac00baa791fbbb989308c4ff5924f7f452853&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e72be3ac23140cad47bd5bb3a6a39b29)  
 - [2026-06-17-【第3719期】从过度-Chaining-到清晰-Steps：JavaScript-编码观念转变](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279324&idx=1&sn=83f6e56ae81accaeb7f13989c81c3608&chksm=bca556d6cb36d40666c5dad5776b24210c8bba98fc6f4ad954c25ec74ed9ce2b726cf655c681&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dc29d12ad09356f4927304f4abdf887a)  
 - [2026-06-16-【招聘】字节跳动-AI-Data-&amp;-Safety-招聘-全栈研发工程师---AI-数据与安全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=2&sn=1094c44a34c37af5d450e7b8ed0ac3a7&chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e6397a536aafb1b28e3b78b25318a591)  
 - [2026-06-16-【第3718期】如何用-AI-辅助挖出-Node.js-的-UAF-漏洞并绕过权限模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=1&sn=64f1a10ea8cf9e018285cc17b5f1f575&chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac5611700fbdcb0dd451ecb389d5ebba)  

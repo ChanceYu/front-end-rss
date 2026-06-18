@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-18 16:29:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-19 00:49:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -7,6 +7,7 @@
 
 - [2026-06-18-【第3720期】智能体时代的代码审查](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=1&sn=44f5e97799ad1b0d711dfc4f965d0913&chksm=bcfda41d99c9d28f8bea1084529ece0e149a9a0ac00baa791fbbb989308c4ff5924f7f452853&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e72be3ac23140cad47bd5bb3a6a39b29) 
 - [2026-06-18-【早说】Codex-不止-OpenAI，全面拥抱开源大模型！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=2&sn=728154a99da6b904d3ae0bb8450e0578&chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9784f4958e69990b1ad12fa01574abb) 
+- [2026-06-18-Extending-Node-instead-of-replacing-it](https://nodeweekly.com/issues/629)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e402e391dbedcbc0a498c8cf82a91da3) 
 - [2026-06-17-不用-Electron-也不用-Tauri，Deno-把桌面应用塞进了一行命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523918&idx=1&sn=72b585fbdb8af5cf794280cf678c380f&chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c008125682703c34a254b3f0b05031b1) 
 - [2026-06-17-浙江大学经济学院百人计划研究员、博士生导师评价《2026-中国电商AI-应用白皮书》：AI-从技术可得走向经营能力平权](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544373&idx=2&sn=a58194aeb4381a8ab85b695f74a853a5&chksm=8390d0edb4e759fbda268bfc94e2c0a8c9cdc0693d61d6565e092d7124bc0ba65fb079450d8d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5ee928f44cbc39d2e1c10c5eb1aa487b) 
 - [2026-06-17-面向Skills编程-淘宝企业购端对端研发提效实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544373&idx=1&sn=75abfa18658ce69faaa3c10da19a136c&chksm=8390d0edb4e759fbaea76699b3b3871b5c6503be6340514e0dfcd924f6635170ecde886580f2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1262bcd26f10a09e5e1eb3377f21cbd7) 
