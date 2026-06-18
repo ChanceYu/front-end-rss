@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-17T21:51:07.895Z</updated>
+    <updated>2026-06-18T08:28:34.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3720期】智能体时代的代码审查]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279339&amp;idx=1&amp;sn=44f5e97799ad1b0d711dfc4f965d0913&amp;chksm=bcfda41d99c9d28f8bea1084529ece0e149a9a0ac00baa791fbbb989308c4ff5924f7f452853&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279339&amp;idx=1&amp;sn=44f5e97799ad1b0d711dfc4f965d0913&amp;chksm=bcfda41d99c9d28f8bea1084529ece0e149a9a0ac00baa791fbbb989308c4ff5924f7f452853&amp;scene=0#rd"/>
+        <updated>2026-06-18T00:00:00.000Z</updated>
+        <published>2026-06-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早说】Codex 不止 OpenAI，全面拥抱开源大模型！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279339&amp;idx=2&amp;sn=728154a99da6b904d3ae0bb8450e0578&amp;chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279339&amp;idx=2&amp;sn=728154a99da6b904d3ae0bb8450e0578&amp;chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&amp;scene=0#rd"/>
+        <updated>2026-06-18T00:00:00.000Z</updated>
+        <published>2026-06-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不用 Electron 也不用 Tauri，Deno 把桌面应用塞进了一行命令]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523918&amp;idx=1&amp;sn=72b585fbdb8af5cf794280cf678c380f&amp;chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd</id>
@@ -57,16 +71,16 @@
         <published>2026-06-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【招聘】字节跳动 AI Data  &  Safety 招聘 全栈研发工程师 - AI 数据与安全]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=2&amp;sn=1094c44a34c37af5d450e7b8ed0ac3a7&amp;chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=2&amp;sn=1094c44a34c37af5d450e7b8ed0ac3a7&amp;chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3718期】如何用 AI 辅助挖出 Node.js 的 UAF 漏洞并绕过权限模型]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=1&amp;sn=64f1a10ea8cf9e018285cc17b5f1f575&amp;chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=1&amp;sn=64f1a10ea8cf9e018285cc17b5f1f575&amp;chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&amp;scene=0#rd"/>
         <updated>2026-06-16T00:00:00.000Z</updated>
         <published>2026-06-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3718期】如何用 AI 辅助挖出 Node.js 的 UAF 漏洞并绕过权限模型]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=1&amp;sn=64f1a10ea8cf9e018285cc17b5f1f575&amp;chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=1&amp;sn=64f1a10ea8cf9e018285cc17b5f1f575&amp;chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【招聘】字节跳动 AI Data  &  Safety 招聘 全栈研发工程师 - AI 数据与安全]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=2&amp;sn=1094c44a34c37af5d450e7b8ed0ac3a7&amp;chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279319&amp;idx=2&amp;sn=1094c44a34c37af5d450e7b8ed0ac3a7&amp;chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&amp;scene=0#rd"/>
         <updated>2026-06-16T00:00:00.000Z</updated>
         <published>2026-06-16T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517631&amp;idx=1&amp;sn=7110283e96d7a9aa5cc40224f21a8a7f&amp;chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517631&amp;idx=1&amp;sn=7110283e96d7a9aa5cc40224f21a8a7f&amp;chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd"/>
-        <updated>2026-06-05T00:00:00.000Z</updated>
-        <published>2026-06-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告别 README：为什么你的代码库必须立刻增加一个 AGENTS.md？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529926&amp;idx=1&amp;sn=56764ccea1d5425f484c24bd12b3855e&amp;chksm=f9927317cee5fa01ed170d602966becadf4d9f0ceb3ed285d70beee64713947d694d90477093#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529926&amp;idx=1&amp;sn=56764ccea1d5425f484c24bd12b3855e&amp;chksm=f9927317cee5fa01ed170d602966becadf4d9f0ceb3ed285d70beee64713947d694d90477093#rd"/>
-        <updated>2026-06-05T00:00:00.000Z</updated>
-        <published>2026-06-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3712期】Claude Dreaming功能：Anthropic的自我改进型智能体记忆系统]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279213&amp;idx=1&amp;sn=326bbb399248c13c604f7bd7ab7766f9&amp;chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279213&amp;idx=1&amp;sn=326bbb399248c13c604f7bd7ab7766f9&amp;chksm=bc5480c341bb143cdecdffffecb58183647cf1923178646f2730cfc28f45b1aa35a047eb4c56&amp;scene=0#rd"/>
         <updated>2026-06-05T00:00:00.000Z</updated>
         <published>2026-06-05T00:00:00.000Z</published>
     </entry>

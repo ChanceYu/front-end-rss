@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-18 05:51:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-18 16:29:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,16 +40,16 @@
 
 
 
+- [【前端早读课】【早说】Codex-不止-OpenAI，全面拥抱开源大模型！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=2&sn=728154a99da6b904d3ae0bb8450e0578&chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9784f4958e69990b1ad12fa01574abb)
 - [【淘系前端团队】浙江大学经济学院百人计划研究员、博士生导师评价《2026-中国电商AI-应用白皮书》：AI-从技术可得走向经营能力平权](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544373&idx=2&sn=a58194aeb4381a8ab85b695f74a853a5&chksm=8390d0edb4e759fbda268bfc94e2c0a8c9cdc0693d61d6565e092d7124bc0ba65fb079450d8d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5ee928f44cbc39d2e1c10c5eb1aa487b)
 - [【程序员成长指北】支付宝偷偷做了个-AI-版-–-怎么获取邀请码？附免费领取方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530031&idx=1&sn=9f3f5eaded0e551c09c73dd15476ec31&chksm=f99270fecee5f9e865ef8dfc31403c2b2a0e21df5efda0e93ade60521ae963fa7df445f75b01#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8759f27c407758be7b4f77c8a7c8308c)
 - [【前端从进阶到入院】AI-时代下-JS-的-Lint-工具能多快？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517641&idx=1&sn=9606ab9491dd60e684d7c55d61beb79d&chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df01e1f6acabfa0981553fc2796b2c13)
 - [【程序员成长指北】Codex-小白入门：从安装到插件、MCP、Skills，一篇把配置讲明白](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530021&idx=1&sn=2504f0921ce3003f478a7294156c0125&chksm=f99270f4cee5f9e2290570629a2baf9c24f476599bc4adf43c89e9507c14cc2e64ebcf4f0a6a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f5046851df369075cdf52ccc1e65e2d0)
-- [【前端早读课】【招聘】字节跳动-AI-Data-&amp;-Safety-招聘-全栈研发工程师---AI-数据与安全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=2&sn=1094c44a34c37af5d450e7b8ed0ac3a7&chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e6397a536aafb1b28e3b78b25318a591)
 - [【前端早读课】【第3718期】如何用-AI-辅助挖出-Node.js-的-UAF-漏洞并绕过权限模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=1&sn=64f1a10ea8cf9e018285cc17b5f1f575&chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac5611700fbdcb0dd451ecb389d5ebba)
+- [【前端早读课】【招聘】字节跳动-AI-Data-&amp;-Safety-招聘-全栈研发工程师---AI-数据与安全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=2&sn=1094c44a34c37af5d450e7b8ed0ac3a7&chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e6397a536aafb1b28e3b78b25318a591)
 - [【淘系前端团队】用-AI-Skills-打通中间件迁移：定位服务从-Android-到鸿蒙的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544335&idx=1&sn=4bd077bfe079f01874d3cebe4b1e80ab&chksm=8390d0d7b4e759c19409a451e936f4615f2a31057e5c26720e9d9ffaeafeacec0bc6b0a2a4fd#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=630f448b9a4dfc73e680521cc58dedd1)
 - [【程序员成长指北】Codex-怎么买、怎么充值？先把这两套计费搞清楚](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530008&idx=1&sn=deba47a8cda7e021415af996672670d3&chksm=f99270c9cee5f9df752b4419f37cd96c941b17c4204433de81f59bb043773dbe26c18edcf656#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a547a207ca3b9d376d200fcf2bac8a7)
 - [【前端大全】突发！用Claude要实名制了，Anthropic新政策下个月生效](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624560&idx=1&sn=0ac4219ed3c3b8deb7c230876fee891a&chksm=802243b1b755caa761ccf434357a2682a9dd1738e34e436d5645123c17a10c7f1e72288b2659#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=99279d9f12781c97e23922f2d89c44e1)
-- [【Nodejs技术栈】突发！Claude-新旗舰上线-3-天紧急下架，国模-GLM-5.2-火速开放](http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e76c5d6a35e45ad5aa3059a0d279a4e2)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -534,6 +534,7 @@
 
 
 
+- [【前端早读课】【第3720期】智能体时代的代码审查](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=1&sn=44f5e97799ad1b0d711dfc4f965d0913&chksm=bcfda41d99c9d28f8bea1084529ece0e149a9a0ac00baa791fbbb989308c4ff5924f7f452853&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e72be3ac23140cad47bd5bb3a6a39b29)
 - [【前端早读课】【第3696期】Github：差异对比行的性能攀登之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279063&idx=1&sn=e13575e9dc5154706b28ad835abe6fc5&chksm=bce37a93bd4182224d88720c359adff418f9c0507a2ae68abcda9f95c871e53da0d9ca464709&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4680011c9c720656b34fef3cf6944fef)
 - [【前端早读课】【第3692期】告别基础设施焦虑：用Claude托管代理轻松构建代码审查工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279013&idx=1&sn=4bb79bd9f784df7ff3e875bae9344991&chksm=bc29256271ede6abfb70a490d877a39470c369d3f0b67472dd2f1f18be53600d06e5105e3165&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2f0730f027dcf552b497a27398153498)
 - [【Nodejs技术栈】GitHub-Star-暴涨！前-React-核心成员出手，把浏览器-30-年算不好的文字布局问题解决了](http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f17f69647c6d7eb365318f05d053617f)
@@ -543,7 +544,6 @@
 - [【前端早读课】【第3591期】GitHub-Spec-Kit：规范驱动开发走在正确的方向上---严谨、渐进式的-Vibe-Coding](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277468&idx=1&sn=555fad29ddf6adaed65dd6b2032b9ec7&chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&scene=0#rd)
 - [【前端大全】“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”](http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg)
 - [【程序员成长指北】再也不用背命令！Cursor-终端-Cmd+K-=-你的专属-Linux-&amp;-Git-智能助手](http://mp.weixin.qq.com/s/k1A7W0QwfqGZMFgfU50e_Q)
-- [【前端早读课】【第3579期】OODA-循环与-Git-Worktrees：来自-AI-辅助开发的九个启示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277328&idx=1&sn=36651ba5d2e57954793aadc84c1c434c&chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&scene=0#rd)
 - [查看更多 >](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,8 @@
 
 
 
+- [【前端早读课】【第3720期】智能体时代的代码审查](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=1&sn=44f5e97799ad1b0d711dfc4f965d0913&chksm=bcfda41d99c9d28f8bea1084529ece0e149a9a0ac00baa791fbbb989308c4ff5924f7f452853&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e72be3ac23140cad47bd5bb3a6a39b29)
+- [【前端早读课】【早说】Codex-不止-OpenAI，全面拥抱开源大模型！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=2&sn=728154a99da6b904d3ae0bb8450e0578&chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9784f4958e69990b1ad12fa01574abb)
 - [【Nodejs技术栈】不用-Electron-也不用-Tauri，Deno-把桌面应用塞进了一行命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523918&idx=1&sn=72b585fbdb8af5cf794280cf678c380f&chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c008125682703c34a254b3f0b05031b1)
 - [【淘系前端团队】浙江大学经济学院百人计划研究员、博士生导师评价《2026-中国电商AI-应用白皮书》：AI-从技术可得走向经营能力平权](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544373&idx=2&sn=a58194aeb4381a8ab85b695f74a853a5&chksm=8390d0edb4e759fbda268bfc94e2c0a8c9cdc0693d61d6565e092d7124bc0ba65fb079450d8d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5ee928f44cbc39d2e1c10c5eb1aa487b)
 - [【淘系前端团队】面向Skills编程-淘宝企业购端对端研发提效实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544373&idx=1&sn=75abfa18658ce69faaa3c10da19a136c&chksm=8390d0edb4e759fbaea76699b3b3871b5c6503be6340514e0dfcd924f6635170ecde886580f2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1262bcd26f10a09e5e1eb3377f21cbd7)
@@ -592,8 +594,6 @@
 - [【Nodejs技术栈】TanStack-杀疯了，这次要抢-Vercel-的饭碗](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523911&idx=1&sn=58897e8517f0f72823b391be714d326d&chksm=e80fd109df78581f5cfbf4fed69c31ee9f13aad2cc857582ad1d365206527d0106ce2e74cd72#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=37b5b9ff186d6d61ae4bfb87611c407a)
 - [【前端从进阶到入院】AI-时代下-JS-的-Lint-工具能多快？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517641&idx=1&sn=9606ab9491dd60e684d7c55d61beb79d&chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df01e1f6acabfa0981553fc2796b2c13)
 - [【程序员成长指北】Codex-小白入门：从安装到插件、MCP、Skills，一篇把配置讲明白](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530021&idx=1&sn=2504f0921ce3003f478a7294156c0125&chksm=f99270f4cee5f9e2290570629a2baf9c24f476599bc4adf43c89e9507c14cc2e64ebcf4f0a6a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f5046851df369075cdf52ccc1e65e2d0)
-- [【前端早读课】【招聘】字节跳动-AI-Data-&amp;-Safety-招聘-全栈研发工程师---AI-数据与安全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=2&sn=1094c44a34c37af5d450e7b8ed0ac3a7&chksm=bcafa67c9126d489be1bb081a374c6a68ba7076ba4edce14d7ef102eaa51412daf455c12966e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e6397a536aafb1b28e3b78b25318a591)
-- [【前端早读课】【第3718期】如何用-AI-辅助挖出-Node.js-的-UAF-漏洞并绕过权限模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=1&sn=64f1a10ea8cf9e018285cc17b5f1f575&chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac5611700fbdcb0dd451ecb389d5ebba)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
