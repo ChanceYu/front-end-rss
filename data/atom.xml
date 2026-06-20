@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-19T16:27:05.797Z</updated>
+    <updated>2026-06-20T02:05:15.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,23 @@
         <published>2026-06-19T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Codex 也学会“拼夕夕”了？邀请好友就能拿额度重置，怎么领、怎么用、哪些坑别踩]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530061&amp;idx=1&amp;sn=50460e7fd381b827e8edb93779e0e685&amp;chksm=f992709ccee5f98a4dfbfbb4a744d815248c42ca365bc1b95cd102828f7986973229086996b1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530061&amp;idx=1&amp;sn=50460e7fd381b827e8edb93779e0e685&amp;chksm=f992709ccee5f98a4dfbfbb4a744d815248c42ca365bc1b95cd102828f7986973229086996b1#rd"/>
+        <updated>2026-06-19T00:00:00.000Z</updated>
+        <published>2026-06-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vercel 造了个全新的 Agent 框架，用的居然还是当年 Next.js 那套]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523946&amp;idx=1&amp;sn=7d208541f0e3435bfae71bc86de76990&amp;chksm=e80fd124df78583276ad37136e3f182bce6707c8bf656a2250d5c2fe9a2552a3ae896242aa08#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523946&amp;idx=1&amp;sn=7d208541f0e3435bfae71bc86de76990&amp;chksm=e80fd124df78583276ad37136e3f182bce6707c8bf656a2250d5c2fe9a2552a3ae896242aa08#rd"/>
+        <updated>2026-06-18T00:00:00.000Z</updated>
+        <published>2026-06-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek、Kimi、Qwen、GLM 怎么接入 Codex？这篇一次讲清楚]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530049&amp;idx=1&amp;sn=9190a2a93b7847f5877c4366c9bdf0a9&amp;chksm=f9927090cee5f986531472d6b8eb90a13b5c784b3ccb6a30ca7ee3d81612cc31416ca9bd0b3e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530049&amp;idx=1&amp;sn=9190a2a93b7847f5877c4366c9bdf0a9&amp;chksm=f9927090cee5f986531472d6b8eb90a13b5c784b3ccb6a30ca7ee3d81612cc31416ca9bd0b3e#rd"/>
         <updated>2026-06-18T00:00:00.000Z</updated>
         <published>2026-06-18T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/fo2NQJlR4PCLBcS70105JQ"/>
         <updated>2026-06-07T00:00:00.000Z</updated>
         <published>2026-06-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code 真要废了！曾经 Cursor 最强对手 Windsurf，也不搞编辑器了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523809&amp;idx=1&amp;sn=66ae35688bda8711be3af6eecb573e51&amp;chksm=e80fd2afdf785bb95afa848f84250aea2aa7a6e0a31ef07e42ee294764717d45f7ba3e7a8728#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523809&amp;idx=1&amp;sn=66ae35688bda8711be3af6eecb573e51&amp;chksm=e80fd2afdf785bb95afa848f84250aea2aa7a6e0a31ef07e42ee294764717d45f7ba3e7a8728#rd"/>
-        <updated>2026-06-06T00:00:00.000Z</updated>
-        <published>2026-06-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突发！尤雨溪的 VoidZero 被 Cloudflare 收购，Vite 全家桶集体易主]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523808&amp;idx=1&amp;sn=17cf46ebe1bafd1954d1449e62accda4&amp;chksm=e80fd2aedf785bb89930d12b889345a1044321a270534025a684970eab9f91d8a4792e73777f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523808&amp;idx=1&amp;sn=17cf46ebe1bafd1954d1449e62accda4&amp;chksm=e80fd2aedf785bb89930d12b889345a1044321a270534025a684970eab9f91d8a4792e73777f#rd"/>
-        <updated>2026-06-05T00:00:00.000Z</updated>
-        <published>2026-06-05T00:00:00.000Z</published>
     </entry>
 </feed>
