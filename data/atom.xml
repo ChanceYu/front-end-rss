@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-23T14:58:30.404Z</updated>
+    <updated>2026-06-23T22:23:18.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[场景营销前端 AI Coding — 从问题到方案]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544388&amp;idx=1&amp;sn=a8a494898588bbce7e5c3c0f523d2a25&amp;chksm=8390d11cb4e7580a858e7bbba64d114bafde06f8a6502c91a804fe9abc37135e00228aab3ab6#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544388&amp;idx=1&amp;sn=a8a494898588bbce7e5c3c0f523d2a25&amp;chksm=8390d11cb4e7580a858e7bbba64d114bafde06f8a6502c91a804fe9abc37135e00228aab3ab6#rd"/>
+        <updated>2026-06-22T00:00:00.000Z</updated>
+        <published>2026-06-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不是干掉 Node：Nub 想做的是 Node.js Plus]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530070&amp;idx=1&amp;sn=c7282c5d34ad6c0e09601009d61740b9&amp;chksm=f9927087cee5f991be2df990124a3923de0a8c5d52df480083d896081064560d24fb97738bb1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530070&amp;idx=1&amp;sn=c7282c5d34ad6c0e09601009d61740b9&amp;chksm=f9927087cee5f991be2df990124a3923de0a8c5d52df480083d896081064560d24fb97738bb1#rd"/>
         <updated>2026-06-22T00:00:00.000Z</updated>
         <published>2026-06-22T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[为什么现在程序员都扎堆学多 Agent]]></title>
         <id>http://mp.weixin.qq.com/s/GYIPf8L5mVqgw-KjDRe4PQ</id>
         <link href="http://mp.weixin.qq.com/s/GYIPf8L5mVqgw-KjDRe4PQ"/>
-        <updated>2026-06-10T00:00:00.000Z</updated>
-        <published>2026-06-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3714期】浏览器中的大文件处理：如何在前端创建5GB文件]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279277&amp;idx=1&amp;sn=f0722899c750fa73525cc3463fef3eda&amp;chksm=bc24b1ac58f757d687f1195792198a556c768a247d1ecf15d681bd8c41c42af64236b90de28d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279277&amp;idx=1&amp;sn=f0722899c750fa73525cc3463fef3eda&amp;chksm=bc24b1ac58f757d687f1195792198a556c768a247d1ecf15d681bd8c41c42af64236b90de28d&amp;scene=0#rd"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
