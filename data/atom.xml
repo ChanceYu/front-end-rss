@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-23T05:16:41.542Z</updated>
+    <updated>2026-06-23T12:50:03.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[全是好东西！HTML command属性和JS toggle事件]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/"/>
+        <updated>2026-06-22T00:00:00.000Z</updated>
+        <published>2026-06-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[场景营销前端 AI Coding — 从问题到方案]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544388&amp;idx=1&amp;sn=a8a494898588bbce7e5c3c0f523d2a25&amp;chksm=8390d11cb4e7580a858e7bbba64d114bafde06f8a6502c91a804fe9abc37135e00228aab3ab6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544388&amp;idx=1&amp;sn=a8a494898588bbce7e5c3c0f523d2a25&amp;chksm=8390d11cb4e7580a858e7bbba64d114bafde06f8a6502c91a804fe9abc37135e00228aab3ab6#rd"/>
         <updated>2026-06-22T00:00:00.000Z</updated>
         <published>2026-06-22T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Codex 官方新增这个插件，终于补上了 UI 短板]]></title>
         <id>http://mp.weixin.qq.com/s/LfpLt19Jv_OGU5IRjU2AIg</id>
         <link href="http://mp.weixin.qq.com/s/LfpLt19Jv_OGU5IRjU2AIg"/>
-        <updated>2026-06-09T00:00:00.000Z</updated>
-        <published>2026-06-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624539&amp;idx=1&amp;sn=4e23f627a1716f953b2d0d03d0521242&amp;chksm=8022439ab755ca8ce77450c0f2eec1d79249b630dd724929e6eee34c315a4c87d4127446887d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624539&amp;idx=1&amp;sn=4e23f627a1716f953b2d0d03d0521242&amp;chksm=8022439ab755ca8ce77450c0f2eec1d79249b630dd724929e6eee34c315a4c87d4127446887d#rd"/>
         <updated>2026-06-09T00:00:00.000Z</updated>
         <published>2026-06-09T00:00:00.000Z</published>
     </entry>

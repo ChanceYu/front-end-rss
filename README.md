@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-23 13:16:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-23 20:50:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -26,7 +26,7 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -36,7 +36,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2026-06-23-【第3722期】Navigation-API-开启单页应用导航新时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279350&idx=1&sn=410b071b02ad346108703451f7e7b5f5&chksm=bc51df8dac9ccb9ffb6a62f86ba78a90e2db347d15e37156cebfdb589af243d6329c2d2e95d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f23e89c74e548099e30fea0e6ecb81ce)  ![](/assets/new.png) 
+- [2026-06-23-【第3722期】Navigation-API-开启单页应用导航新时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279350&idx=1&sn=410b071b02ad346108703451f7e7b5f5&chksm=bc51df8dac9ccb9ffb6a62f86ba78a90e2db347d15e37156cebfdb589af243d6329c2d2e95d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f23e89c74e548099e30fea0e6ecb81ce)  
 - [2026-06-22-【第3721期】讲透-Codex-操控电脑的三种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279345&idx=1&sn=bf1a5e9ca9e3ecb4f764999794741ba9&chksm=bcf99a06e63acfca3a9cd486846d1590e44fe6623ce2818ee23d9408c9564754b89328d85af6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=19c708acd09040cbc32f1040a98d7a6a)  
 - [2026-06-18-【早说】Codex-不止-OpenAI，全面拥抱开源大模型！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=2&sn=728154a99da6b904d3ae0bb8450e0578&chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9784f4958e69990b1ad12fa01574abb)  
 - [2026-06-18-【第3720期】智能体时代的代码审查](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=1&sn=44f5e97799ad1b0d711dfc4f965d0913&chksm=bcfda41d99c9d28f8bea1084529ece0e149a9a0ac00baa791fbbb989308c4ff5924f7f452853&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e72be3ac23140cad47bd5bb3a6a39b29)  
@@ -303,8 +303,9 @@
 </summary>
 
 
-- [2026-06-17-面向Skills编程-淘宝企业购端对端研发提效实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544373&idx=1&sn=75abfa18658ce69faaa3c10da19a136c&chksm=8390d0edb4e759fbaea76699b3b3871b5c6503be6340514e0dfcd924f6635170ecde886580f2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1262bcd26f10a09e5e1eb3377f21cbd7)  
+- [2026-06-22-场景营销前端-AI-Coding-—-从问题到方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544388&idx=1&sn=a8a494898588bbce7e5c3c0f523d2a25&chksm=8390d11cb4e7580a858e7bbba64d114bafde06f8a6502c91a804fe9abc37135e00228aab3ab6#rd) ![](/assets/new.png) 
 - [2026-06-17-浙江大学经济学院百人计划研究员、博士生导师评价《2026-中国电商AI-应用白皮书》：AI-从技术可得走向经营能力平权](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544373&idx=2&sn=a58194aeb4381a8ab85b695f74a853a5&chksm=8390d0edb4e759fbda268bfc94e2c0a8c9cdc0693d61d6565e092d7124bc0ba65fb079450d8d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5ee928f44cbc39d2e1c10c5eb1aa487b)  
+- [2026-06-17-面向Skills编程-淘宝企业购端对端研发提效实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544373&idx=1&sn=75abfa18658ce69faaa3c10da19a136c&chksm=8390d0edb4e759fbaea76699b3b3871b5c6503be6340514e0dfcd924f6635170ecde886580f2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1262bcd26f10a09e5e1eb3377f21cbd7)  
 - [2026-06-15-用-AI-Skills-打通中间件迁移：定位服务从-Android-到鸿蒙的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544335&idx=1&sn=4bd077bfe079f01874d3cebe4b1e80ab&chksm=8390d0d7b4e759c19409a451e936f4615f2a31057e5c26720e9d9ffaeafeacec0bc6b0a2a4fd#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=630f448b9a4dfc73e680521cc58dedd1)  
 - [2026-06-12-Agent-skill-迭代式编写实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544291&idx=1&sn=ba44a1e5b3259dbc70e1a5adc6bf0f77&chksm=8390d0bbb4e759adce8a28fb1a7d89badcfe46ec351371e63f38b4a667fd208f9550e4bcc4d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=54309d73df44c723f6d90c308604ceb3)  
 - [2026-06-10-如何构建一个更“好”的知识库？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544166&idx=1&sn=5fb2b766c5d144702bd7c3601523ba42&chksm=8390d03eb4e759288c7c558636030c332509a7f1d8eddfd2a09e8f997f248c90d8fd0c65808d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd33f1ea04547d1b95b87d5712febf23)  
@@ -312,7 +313,6 @@
 - [2026-06-05-CCIG-2026-|-TaoAvatar：3D真人数字人在淘宝Vision领域的应用](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544017&idx=1&sn=7c1a0cc4a43ea9b7cd5417ed44822e76&chksm=8390df89b4e7569f8c39e4fc9dcb597cc12ad38afac25faa95f31a606e4f51213e382449200c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3a3ffb6beeb3895e5fd51a3e2043f061)  
 - [2026-06-03-Agent-Memory-评测全景：基准、评估与记忆系统（理论篇）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543910&idx=1&sn=4359b93141cc75aaa1976382d4cb39df&chksm=8390df3eb4e75628eea5247e62afe6462278cd21455276939912dc0eab5be7fda60e48df85c0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=75e0d30ef30c4d0b4a8589be687d3bd8)  
 - [2026-06-01-面向-LLM-的架构设计：什么是真正的-AI-Friendly-架构？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543768&idx=1&sn=b1c0207772c8a6d9550815a6afc01bf4&chksm=8390de80b4e75796400641a726a0050f058c03387b602fb64deed5f9600e7d7c2325fcc57835#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=904ed82e2c17d8ba322575ae2f819f6e)  
-- [2026-05-29-从定制Workflow到AI自主决策的架构演进——以TMIC-AI小新为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543765&idx=1&sn=4961784aef454d7fc2bf45e57a901431&chksm=8390de8db4e7579b6e3f32ff1343ae3612d02ec371865b2b24229f88d435b2eb2ff1954dacd5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=709ce084e06772ca2793ca5f5910e51d)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
