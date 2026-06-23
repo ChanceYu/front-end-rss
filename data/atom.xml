@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-23T12:50:03.979Z</updated>
+    <updated>2026-06-23T14:58:30.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Astro 7.0 版本新功能速览！全面拥抱 Rust，构建速度提升 15-61%]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517643&amp;idx=1&amp;sn=4e5a8127af79d8f1d1b0ac46cd098f8f&amp;chksm=eb07bdb2dc7034a49c59983b6af4c551621f2551e0f88f8a0a41ddeea956dd6ba079a45ce472#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517643&amp;idx=1&amp;sn=4e5a8127af79d8f1d1b0ac46cd098f8f&amp;chksm=eb07bdb2dc7034a49c59983b6af4c551621f2551e0f88f8a0a41ddeea956dd6ba079a45ce472#rd"/>
+        <updated>2026-06-23T00:00:00.000Z</updated>
+        <published>2026-06-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3722期】Navigation API 开启单页应用导航新时代]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279350&amp;idx=1&amp;sn=410b071b02ad346108703451f7e7b5f5&amp;chksm=bc51df8dac9ccb9ffb6a62f86ba78a90e2db347d15e37156cebfdb589af243d6329c2d2e95d5&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279350&amp;idx=1&amp;sn=410b071b02ad346108703451f7e7b5f5&amp;chksm=bc51df8dac9ccb9ffb6a62f86ba78a90e2db347d15e37156cebfdb589af243d6329c2d2e95d5&amp;scene=0#rd"/>
+        <updated>2026-06-23T00:00:00.000Z</updated>
+        <published>2026-06-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Babel 8.0, Vite 8.1, and TypeScript 7.0 RC]]></title>
+        <id>https://javascriptweekly.com/issues/791</id>
+        <link href="https://javascriptweekly.com/issues/791"/>
         <updated>2026-06-23T00:00:00.000Z</updated>
         <published>2026-06-23T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279277&amp;idx=1&amp;sn=f0722899c750fa73525cc3463fef3eda&amp;chksm=bc24b1ac58f757d687f1195792198a556c768a247d1ecf15d681bd8c41c42af64236b90de28d&amp;scene=0#rd"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 Codex 造了一个 Node.js 运行时，两周，本来要一年]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523844&amp;idx=1&amp;sn=74c1d32bdb9fdd37b8760f1e8728edef&amp;chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523844&amp;idx=1&amp;sn=74c1d32bdb9fdd37b8760f1e8728edef&amp;chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd"/>
-        <updated>2026-06-09T00:00:00.000Z</updated>
-        <published>2026-06-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex 官方新增这个插件，终于补上了 UI 短板]]></title>
-        <id>http://mp.weixin.qq.com/s/LfpLt19Jv_OGU5IRjU2AIg</id>
-        <link href="http://mp.weixin.qq.com/s/LfpLt19Jv_OGU5IRjU2AIg"/>
-        <updated>2026-06-09T00:00:00.000Z</updated>
-        <published>2026-06-09T00:00:00.000Z</published>
     </entry>
 </feed>
