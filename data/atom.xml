@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-24T20:30:57.569Z</updated>
+    <updated>2026-06-25T03:00:07.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[CSS color-scheme属性与light-dark()颜色函数]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/"/>
+        <updated>2026-06-24T00:00:00.000Z</updated>
+        <published>2026-06-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[场景营销前端 AI Coding — AI Native 的视觉稿还原]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544417&amp;idx=1&amp;sn=b464075a0ff3f06d98f1919331b6b7ff&amp;chksm=8390d139b4e7582f6f76fd1769393679c81e51080b44d8851361364570005e2403ab8acc3ce2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544417&amp;idx=1&amp;sn=b464075a0ff3f06d98f1919331b6b7ff&amp;chksm=8390d139b4e7582f6f76fd1769393679c81e51080b44d8851361364570005e2403ab8acc3ce2#rd"/>
         <updated>2026-06-24T00:00:00.000Z</updated>
         <published>2026-06-24T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[用 Claude Code 花一周搭了个 Dify]]></title>
         <id>http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ</id>
         <link href="http://mp.weixin.qq.com/s/nVWZf2XkyBDHatCledZnXQ"/>
-        <updated>2026-06-10T00:00:00.000Z</updated>
-        <published>2026-06-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学 Bun！React 官方编译器也 Rust 重构了，代码大半 Claude 写的]]></title>
-        <id>http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ</id>
-        <link href="http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ"/>
         <updated>2026-06-10T00:00:00.000Z</updated>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
