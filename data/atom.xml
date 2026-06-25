@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-25T05:17:28.449Z</updated>
+    <updated>2026-06-25T14:55:11.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[【开源】Agent Reach]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279372&amp;idx=2&amp;sn=8e62081ba7d595934feb81bdbf6f3501&amp;chksm=bc5fd8e743624a841d052f8fd7e9a17273faec25ef5029d5c4e8dab872431859a4f0e571ffbb&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279372&amp;idx=2&amp;sn=8e62081ba7d595934feb81bdbf6f3501&amp;chksm=bc5fd8e743624a841d052f8fd7e9a17273faec25ef5029d5c4e8dab872431859a4f0e571ffbb&amp;scene=0#rd"/>
+        <updated>2026-06-25T00:00:00.000Z</updated>
+        <published>2026-06-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 26.4 lands package maps]]></title>
+        <id>https://nodeweekly.com/issues/630</id>
+        <link href="https://nodeweekly.com/issues/630"/>
         <updated>2026-06-25T00:00:00.000Z</updated>
         <published>2026-06-25T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[从 PRD 到可验证代码：AI 需求开发闭环实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517633&amp;idx=1&amp;sn=1528f96c812f200aceb12b554ba09adf&amp;chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517633&amp;idx=1&amp;sn=1528f96c812f200aceb12b554ba09adf&amp;chksm=eb07bdb8dc7034aecf3a82799ed2af1149f178e342c7d69ce8f1ec40849d919f17bcb099904d#rd"/>
-        <updated>2026-06-11T00:00:00.000Z</updated>
-        <published>2026-06-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex 不得不装的 12 个插件，都在这了]]></title>
-        <id>http://mp.weixin.qq.com/s/teqG-LYD5xlZmN8WGUsAnA</id>
-        <link href="http://mp.weixin.qq.com/s/teqG-LYD5xlZmN8WGUsAnA"/>
         <updated>2026-06-11T00:00:00.000Z</updated>
         <published>2026-06-11T00:00:00.000Z</published>
     </entry>
