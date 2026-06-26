@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-26 13:23:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-27 00:37:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 图形图像
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-25-PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390) 
 - [2026-06-05-CCIG-2026-|-TaoAvatar：3D真人数字人在淘宝Vision领域的应用](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544017&idx=1&sn=7c1a0cc4a43ea9b7cd5417ed44822e76&chksm=8390df89b4e7569f8c39e4fc9dcb597cc12ad38afac25faa95f31a606e4f51213e382449200c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3a3ffb6beeb3895e5fd51a3e2043f061) 
 - [2026-06-01-别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da) 
 - [2026-05-22-浏览器自动化：从GUI到OpenCLI](http://mp.weixin.qq.com/s/hp8yj2_qc2MmCi1jYpfx5g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=04e7ef71773433bc7f14c26ee5b7c8e6) 
@@ -253,8 +254,8 @@
 - [2021-06-27-JS判断图像背景颜色单一还是丰富](https://www.zhangxinxu.com/wordpress/2021/06/js-image-colorful-or-pure/) 
 - [2021-06-14-Event-Loop-和-JS-引擎、渲染引擎的关系](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651577476&idx=2&sn=dd428dbda211adf70d040f3c412ddef1&chksm=80250b45b7528253eea5c8ad9616a3e9252da67bae7aad3ab5cd2cc7c155532f9a3e2908f1b5&scene=27#wechat_redirect) 
 - [2021-06-10-Webpack-PK-Vite，2021谁是下一代的前端构建工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246989&idx=1&sn=e48996cbe92180d349998ee8faa69870&chksm=bd4908098a3e811f9d6a80fba25168f2e6ddaf4d76866dda40ab1f64519dec71b3611f69bf25&scene=27#wechat_redirect) 
-- [2021-06-09-设计灵感-：12款磨砂玻璃材质在APP设计中的应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651577309&idx=4&sn=3cc58ee884b607d197454a5515070e2a&chksm=80250c1cb752850aabed777f33ea694b9669a07e20f0f08b34ffe6a713eaf27173d40fc3f3b0&scene=27#wechat_redirect) 
 - [2021-06-09-有点难的-webpack-知识点：Dependency-Graph-深度解析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651577309&idx=2&sn=718c1ce5654738f10ce9ad7989d91afc&chksm=80250c1cb752850ae606eceaed65d3dbf8c71aaf4259bfd32918dfba036be6cb80e3beb6254a&scene=27#wechat_redirect) 
+- [2021-06-09-设计灵感-：12款磨砂玻璃材质在APP设计中的应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651577309&idx=4&sn=3cc58ee884b607d197454a5515070e2a&chksm=80250c1cb752850aabed777f33ea694b9669a07e20f0f08b34ffe6a713eaf27173d40fc3f3b0&scene=27#wechat_redirect) 
 - [2021-06-04-我们为什么从-Webpack-转向-Vite](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247509810&idx=2&sn=45fbb3ed470b3b3de8ef3430070bb926&chksm=f9521271ce259b674d4fbd05621c1a89ee56e3ee5a4e7f2a48ed84c2c66a569d0b7779fbcedf&scene=27#wechat_redirect) 
 - [2021-06-02-从-0-到-1-掌握Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246542&idx=1&sn=ba3c1060f812a65bc6db39d31457799f&chksm=bd49164a8a3e9f5ca1205152e684e0b91550a3e9a3953ab9669946382842f7e7749681ec77a1&scene=27#wechat_redirect) 
 - [2021-05-24-20k以上面试必问，Webpack原理和优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651576288&idx=1&sn=b64f0f5cc71ce270396cb13ba558173a&chksm=80250021b7528937f73eb3857d6acea971489ca34b26582d7340b8c7e6c559ce824cb617c243&scene=27#wechat_redirect) 
@@ -267,8 +268,8 @@
 - [2021-05-05-万字总结-一文吃透-Webpack-核心原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651575294&idx=1&sn=1dd505d1aa299188a442e50c66bd5a56&chksm=8025043fb7528d2974d4865f33409af880f219ae832fdea9a1d2496491b66922835f734fa748&scene=27#wechat_redirect) 
 - [2021-05-01-项目实战-Webpack-to-Vite，-为开发提速！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651575240&idx=2&sn=e9c3f6b6bb2c59955701afcbdad51e48&chksm=80250409b7528d1f460212f0302c5897dec204eda8e62148464351d96b8a67113f9f5582be84&scene=27#wechat_redirect) 
 - [2021-04-28-【第2267期】如何1人5天开发完3D数据可视化大屏之三](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245750&idx=2&sn=7d20f34029457a5dd5479fd89480fb0d&chksm=bd4915328a3e9c2434d9ed5bf92d76e1ef191704c1270cc56d7f69bd8e33d34e084fa62747d0&scene=27#wechat_redirect) 
-- [2021-04-20-手写一个-webpack，看看-AST-怎么用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651574123&idx=1&sn=fe667414ad3fde8654a65a1a26184af6&chksm=802518aab75291bc0b2a67c92686fe617059cbdf0da03d468eda9a9130ba20232dab607a55fa&scene=27#wechat_redirect) 
 - [2021-04-20-关于从入门-three.js-到做出-3d-地球这件事通俗易懂的入门](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651574123&idx=2&sn=52a2852d0105d69e69b3027f90f34b42&chksm=802518aab75291bc237a2b0ea3dfa3e2d36def01fc200ceedc65f79c63f50622b6bced485f74&scene=27#wechat_redirect) 
+- [2021-04-20-手写一个-webpack，看看-AST-怎么用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651574123&idx=1&sn=fe667414ad3fde8654a65a1a26184af6&chksm=802518aab75291bc0b2a67c92686fe617059cbdf0da03d468eda9a9130ba20232dab607a55fa&scene=27#wechat_redirect) 
 - [2021-04-17-聊聊-Webpack-热更新以及原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651573997&idx=2&sn=b3cd6102ead0d7b9e28962206a9f8d82&chksm=8025192cb752903ad14abd9c2542faebee76e1583848a3e09439ed092b06abee9d66798c18e3&scene=27#wechat_redirect) 
 - [2021-04-14-当面试官问Webpack的时候他想知道什么](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651573982&idx=1&sn=90d8ab51533a0c1cb3c4dff2e127ac9f&chksm=8025191fb7529009c80342a7129bae16c84b714715680a80fdc4b43230d7f765834d5fc660d1&scene=27#wechat_redirect) 
 - [2021-04-11-分享15个-Webpack-实用的插件！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651573707&idx=2&sn=e3eeadbf95d7fcf017d488249e7bf01c&chksm=80251a0ab752931cc041cd6d29efc92d653101bcb0d7bf290d596c8ee33fa31dac027fd38fa0&scene=27#wechat_redirect) 

@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-26 13:23:09，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-27 00:37:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -26,8 +26,8 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2026-06-26-【开源】alibaba/page-agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=2&sn=b79e2aefa53d8bb08a3c2a98adf79266&chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=682e18aab6329e42e641bd7348dff137)  ![](/assets/new.png) 
-- [2026-06-26-【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=1&sn=c5972211ae62772c403d467ae22545cd&chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d862da3a538899836a8fbf688eec3007)  ![](/assets/new.png) 
+- [2026-06-26-【开源】alibaba/page-agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=2&sn=b79e2aefa53d8bb08a3c2a98adf79266&chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=682e18aab6329e42e641bd7348dff137)  
+- [2026-06-26-【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=1&sn=c5972211ae62772c403d467ae22545cd&chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d862da3a538899836a8fbf688eec3007)  
 - [2026-06-25-【早说】慢即是快：用AI写出更好的代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=1&sn=3faf01d8de17459ab64d01f563506465&chksm=bceaea0ac63deafdfe05a7b86b77edbf380d340be86936a5c53b792c0579b0a12c49b8c74296&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0e1a1ec10fca7a79e1de39ac1015842)  
 - [2026-06-25-【开源】Agent-Reach](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=2&sn=8e62081ba7d595934feb81bdbf6f3501&chksm=bc5fd8e743624a841d052f8fd7e9a17273faec25ef5029d5c4e8dab872431859a4f0e571ffbb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2b1b633687580d71d8c78e2851c9df9)  
 - [2026-06-24-【第3723期】用-CSS-::search-text-美化浏览器搜索高亮](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279362&idx=1&sn=526eb1010472d0edaddbb18364b22ae1&chksm=bc5560124a6ec22b8c4752d47e5957ae2aa0d26d2d2500ffa20a47e3f3463b5866e638e0590b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=228ef1b65d0b375c7ab1f25947b1d657)  
@@ -114,6 +114,7 @@
 </summary>
 
 
+- [2026-06-25-PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)  ![](/assets/new.png) 
 - [2026-06-24-离谱！小米电视误发地震预警！…有人着急跑路被反锁在门外最终找师傅付费开锁](http://mp.weixin.qq.com/s/7BknwM15sP43VwtOXD_6Kg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aed4ba58f0b6f929aae935b72f6b1eb6)  
 - [2026-06-22-Claude-Code之父删了IDE！干掉提示词，只写循环](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624577&idx=1&sn=32cc203488092a202ebd971126b0494f&chksm=80224340b755ca5658f65d33ce32e1d6d697e9514b1ce7bdfa1de730b15e7c39ea5e54b832c8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=881c126291ad5eb6d5f202ea08ea28ca)  
 - [2026-06-15-突发！用Claude要实名制了，Anthropic新政策下个月生效](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624560&idx=1&sn=0ac4219ed3c3b8deb7c230876fee891a&chksm=802243b1b755caa761ccf434357a2682a9dd1738e34e436d5645123c17a10c7f1e72288b2659#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=99279d9f12781c97e23922f2d89c44e1)  
@@ -123,7 +124,6 @@
 - [2026-06-09-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624539&idx=1&sn=4e23f627a1716f953b2d0d03d0521242&chksm=8022439ab755ca8ce77450c0f2eec1d79249b630dd724929e6eee34c315a4c87d4127446887d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0a1bba2e9f75048c967ca2f2c825a393)  
 - [2026-06-08-Angular-22-发布！这一次，真的太超前了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624530&idx=1&sn=3a5c8a3a3549cb9a672c7b85c2720fda&chksm=80224393b755ca851def67bae5100964f6aa010c797b4aa80b3837f702d4c221e1a2a61c3b7b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=675b41e3d9085051dee83532eb943460)  
 - [2026-06-05-Cloudflare-收购尤雨溪创办的-VoidZero](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624524&idx=1&sn=60c99160d57349488d1504230cd94d17&chksm=8022438db755ca9bda9f761deccf9cf471a44e45f932e6e9227e75597f4515d9c98c60c91939#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d7ea7df1b2d1388b5c912b6e6e25b79)  
-- [2026-06-02-美团产品员工吐槽“更应该裁掉的是研发”！用-AI-5-分钟就完成的，研发评审却要-3-小时。网友的反驳杀伤力拉满](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624519&idx=1&sn=de621af12ef780489cb5546ace52f75f&chksm=80224386b755ca90338f7cded79d71a9cd08ee0c779b27fcfe487b45f5eb3cc371c056d06940#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2b80c6c51a3a7e56db0351161b411c5a)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

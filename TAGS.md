@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-26 13:23:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-27 00:37:41。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -144,6 +144,7 @@
 
 
 
+- [【前端大全】PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)
 - [【Node-Weekly】Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b195d7b7f4d482edbea013eede2d72f)
 - [【Nodejs技术栈】前端和-Node.js-开发者，怎么转向-AI-Agent-全栈？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523983&idx=1&sn=0054d9dc65b1c7d82fa9fb140ef06d5d&chksm=e80fd1c1df7858d7e31005915efc154c09bf23d943788c2fde297adec10d6597ff4d6f942dba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9cafbb4bad102744f34181a5f174086)
 - [【张鑫旭-鑫空间-鑫生活】全是好东西！HTML-command属性和JS-toggle事件](https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=304e595d8d687ff5924831116bd48389)
@@ -153,7 +154,6 @@
 - [【前端早读课】【第3719期】从过度-Chaining-到清晰-Steps：JavaScript-编码观念转变](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279324&idx=1&sn=83f6e56ae81accaeb7f13989c81c3608&chksm=bca556d6cb36d40666c5dad5776b24210c8bba98fc6f4ad954c25ec74ed9ce2b726cf655c681&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dc29d12ad09356f4927304f4abdf887a)
 - [【前端从进阶到入院】AI-时代下-JS-的-Lint-工具能多快？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517641&idx=1&sn=9606ab9491dd60e684d7c55d61beb79d&chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df01e1f6acabfa0981553fc2796b2c13)
 - [【前端早读课】【第3718期】如何用-AI-辅助挖出-Node.js-的-UAF-漏洞并绕过权限模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=1&sn=64f1a10ea8cf9e018285cc17b5f1f575&chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac5611700fbdcb0dd451ecb389d5ebba)
-- [【Nodejs技术栈】用-Codex-造了一个-Node.js-运行时，两周，本来要一年](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523844&idx=1&sn=74c1d32bdb9fdd37b8760f1e8728edef&chksm=e80fd14adf78585cf3b86751421fcc3eda16ed5d830be527b5176c76ae5708b34bd5273cfd47#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e7ff9b29fe958bf703fbff9cd599e9e)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -222,6 +222,7 @@
 
 
 
+- [【前端大全】PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)
 - [【张鑫旭-鑫空间-鑫生活】全是好东西！HTML-command属性和JS-toggle事件](https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=304e595d8d687ff5924831116bd48389)
 - [【前端大全】被裁程序员吐槽：Meta-是我见过最有毒的公司。我所在部门-90%-是华裔，日常沟通普通话，非华裔常遭排挤](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624480&idx=1&sn=0165be95de97a3efcbb5374c1f3de08d&chksm=802243e1b755caf76bf026b9c8af6098430118def9028a5e67b43055c6bb91c694c15da49b25#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=888653598030f95f9c7fd7a96344596c)
 - [【前端大全】Markdown要凉…卡帕西也站HTML了](http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e25d2a30b26374b6c0e50068f6efe3fe)
@@ -231,7 +232,6 @@
 - [【张鑫旭-鑫空间-鑫生活】HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f9bb84eeb91885069a4c7e57a58b7cc)
 - [【张鑫旭-鑫空间-鑫生活】HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=822c0f3fd53f1b05b135738d40620e01)
 - [【程序员成长指北】前端指纹技术是如何实现的？（Canvas、Audio、硬件API-核心原理解密）](http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=96d3cf561da87fe6ff40c460cf1e47ba)
-- [【淘系前端团队】AI-无障碍-CR-与自动适配实践：从问题洞察到效果验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542406&idx=1&sn=c89b4adb5deec25be5dc4ea1a457135a&chksm=8390d95eb4e750482af226d6188dc30f517e75f23da16eb97be227d774d61a4ff201d402b8aa#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ed2045e03c011ac332f9f6ffcd5654e)
 - [查看更多 >](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -378,6 +378,7 @@
 
 
 
+- [【前端大全】PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)
 - [【Nodejs技术栈】一个人做宣传片、写游戏、盯热点？实测这个“全干版AI专家”三天全搞定](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523699&idx=1&sn=5ab270cdf167031f779eecc279099637&chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=71cf504e2b226f5e1f73b6d315ba52d2)
 - [【前端大全】员工一律禁用AI！50年老牌游戏公司下发最严禁令](http://mp.weixin.qq.com/s/zzG0u5XiRYOn5I-8sGyB7g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=983d3332c9ef8f211906ab255923660d)
 - [【前端大全】我写出了-Threejs-版城市天际线？！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623197&idx=2&sn=cbf51fa66ef70b4083aeda9acee3ffdc&chksm=802258dcb755d1ca8074efe0f0e80ae9dd1cf7ea172b111e0a04d1b60dabb6a6027bc7f8759e#rd)
@@ -387,7 +388,6 @@
 - [【前端大全】老板花一万大洋让我写的艺术工作室官网？！-HeroSection-再度来袭！Three.js](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622265&idx=1&sn=bb736dcb1d0656d847c9d85c76377b7b&chksm=80225cb8b755d5ae8a035a52e74a3c6e0dbc1c223d7501d7468da38854f63ea31e569ddbee82#rd)
 - [【前端早读课】【第3477期】基于three.js的虚拟人阴影渲染优化方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276062&idx=1&sn=3587469f07550ed878101b65b85c6ef1&chksm=bca9bbe8b6c4ea29dc28f446cc3d7c3bbce5fca76df57482c4b01b2588eeee5946ff8bb203b0&scene=0#rd)
 - [【程序员成长指北】基于three.js的虚拟人阴影渲染优化方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525585&idx=2&sn=8f40b6f9f5c5e10de2ce67129dbd7a3d&chksm=f9926200cee5eb1651cc4c08d3d5f166d8a7d1961022da8c41e16c42fa421235619af15d7fab#rd)
-- [【程序员成长指北】用Three.js搞个炫酷风场图](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524571&idx=1&sn=8ea78c7ca6679f73b8f308f137fdbef1&chksm=f992660acee5ef1cfde89358f6fe2d8e88996edbf5e5d8bb2436d98aec9e6c65c4d4a7763289#rd)
 - [查看更多 >](/details/tags/dev-game.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -404,6 +404,7 @@
 
 
 
+- [【前端大全】PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)
 - [【淘系前端团队】CCIG-2026-|-TaoAvatar：3D真人数字人在淘宝Vision领域的应用](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544017&idx=1&sn=7c1a0cc4a43ea9b7cd5417ed44822e76&chksm=8390df89b4e7569f8c39e4fc9dcb597cc12ad38afac25faa95f31a606e4f51213e382449200c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3a3ffb6beeb3895e5fd51a3e2043f061)
 - [【程序员成长指北】别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)
 - [【淘系前端团队】浏览器自动化：从GUI到OpenCLI](http://mp.weixin.qq.com/s/hp8yj2_qc2MmCi1jYpfx5g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=04e7ef71773433bc7f14c26ee5b7c8e6)
@@ -413,7 +414,6 @@
 - [【淘系前端团队】MNN-Sana-Edit-V2：端侧运行的图像漫画风编辑大模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543249&idx=1&sn=77581e427502183f7b367489c86269c2&chksm=8390dc89b4e7559f89c58afea8f6a7d3fb9363169fc1898ed72d78227a6512fcda49eb742914#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3d3d3b8a9f5cd859e483498c0c6e8e5)
 - [【前端从进阶到入院】弃坑-PDF.js！800-倍速-PDF-渲染方案，Vue、React-亲测可用！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517579&idx=1&sn=9473251e51102851c102f3b05b133efb&chksm=eb07bdf2dc7034e412f255d1c946d83c34cdb890b4a408cca225d46d2fd491c4aa4671f453d5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d34e9256225a90c38cf1332c2dcd7cdd)
 - [【张鑫旭-鑫空间-鑫生活】借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e724a72a01be2caaa738a09a8f4c56d)
-- [【Nodejs技术栈】终端里也能用鼠标点位置了！Claude-Code-推出-NO_FLICKER-全新渲染模式](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523162&idx=1&sn=6ca3752e4965862f3f65295c75ea5724&chksm=e80fd414df785d022800924de4f825d831e31e51614be9c2b505902ccdbe11edaa6ef8678338#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e049a9dd4ae94c5a9070e490ddaa945)
 - [查看更多 >](/details/tags/canvas-image.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -588,12 +588,12 @@
 - [【前端早读课】【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=1&sn=c5972211ae62772c403d467ae22545cd&chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d862da3a538899836a8fbf688eec3007)
 - [【前端早读课】【开源】alibaba/page-agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=2&sn=b79e2aefa53d8bb08a3c2a98adf79266&chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=682e18aab6329e42e641bd7348dff137)
 - [【Nodejs技术栈】实测完腾讯-Marvis，我在它身上看到了-Claude-Code-那套-Agent，有点上头](http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6dcb4a0b8512b8afac3fd2432c191b36)
+- [【前端大全】PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)
 - [【前端早读课】【开源】Agent-Reach](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=2&sn=8e62081ba7d595934feb81bdbf6f3501&chksm=bc5fd8e743624a841d052f8fd7e9a17273faec25ef5029d5c4e8dab872431859a4f0e571ffbb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2b1b633687580d71d8c78e2851c9df9)
 - [【前端早读课】【早说】慢即是快：用AI写出更好的代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=1&sn=3faf01d8de17459ab64d01f563506465&chksm=bceaea0ac63deafdfe05a7b86b77edbf380d340be86936a5c53b792c0579b0a12c49b8c74296&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0e1a1ec10fca7a79e1de39ac1015842)
 - [【Node-Weekly】Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b195d7b7f4d482edbea013eede2d72f)
 - [【张鑫旭-鑫空间-鑫生活】CSS-color-scheme属性与light-dark颜色函数](https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e5cae0c6bfcc61bedd304b0d65e9f22)
 - [【淘系前端团队】场景营销前端-AI-Coding-—-AI-Native-的视觉稿还原](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544417&idx=1&sn=b464075a0ff3f06d98f1919331b6b7ff&chksm=8390d139b4e7582f6f76fd1769393679c81e51080b44d8851361364570005e2403ab8acc3ce2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=637273cef3f31cfdc032cc48f483c5f2)
-- [【前端大全】离谱！小米电视误发地震预警！…有人着急跑路被反锁在门外最终找师傅付费开锁](http://mp.weixin.qq.com/s/7BknwM15sP43VwtOXD_6Kg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aed4ba58f0b6f929aae935b72f6b1eb6)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

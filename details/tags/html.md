@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-26 13:23:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-27 00:37:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-25-PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390) 
 - [2026-06-22-全是好东西！HTML-command属性和JS-toggle事件](https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=304e595d8d687ff5924831116bd48389) 
 - [2026-05-26-被裁程序员吐槽：Meta-是我见过最有毒的公司。我所在部门-90%-是华裔，日常沟通普通话，非华裔常遭排挤](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624480&idx=1&sn=0165be95de97a3efcbb5374c1f3de08d&chksm=802243e1b755caf76bf026b9c8af6098430118def9028a5e67b43055c6bb91c694c15da49b25#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=888653598030f95f9c7fd7a96344596c) 
 - [2026-05-13-Markdown要凉…卡帕西也站HTML了](http://mp.weixin.qq.com/s/1tRUtIlYqgJ_wD6ia0fCSw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e25d2a30b26374b6c0e50068f6efe3fe) 

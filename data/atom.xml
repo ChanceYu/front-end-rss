@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-26T05:22:36.663Z</updated>
+    <updated>2026-06-26T16:37:21.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[实测完腾讯 Marvis，我在它身上看到了 Claude Code 那套 Agent，有点上头]]></title>
         <id>http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g</id>
         <link href="http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g"/>
+        <updated>2026-06-25T00:00:00.000Z</updated>
+        <published>2026-06-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PixiJS 火了：HTML-in-Canvas 真的落地了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624589&amp;idx=1&amp;sn=72d205255bcb3eb6c2adafe7aa9165fb&amp;chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624589&amp;idx=1&amp;sn=72d205255bcb3eb6c2adafe7aa9165fb&amp;chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd"/>
         <updated>2026-06-25T00:00:00.000Z</updated>
         <published>2026-06-25T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[SpaceX一上市，连食堂阿姨都要成百万富翁了。。。]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624544&amp;idx=1&amp;sn=5302bbb0a92d581900dd0f67289be173&amp;chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624544&amp;idx=1&amp;sn=5302bbb0a92d581900dd0f67289be173&amp;chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd"/>
-        <updated>2026-06-12T00:00:00.000Z</updated>
-        <published>2026-06-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3716期】为每项任务量身打造——Claude Code 动态工作流详解]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279304&amp;idx=1&amp;sn=9fe176b4ce5d5516dc80c7f9a9791641&amp;chksm=bce44da37e4b1eea11d5196ceef3b4ce393f2d7d4d2a774e801c5e0520b66a65ce6cdd88d139&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279304&amp;idx=1&amp;sn=9fe176b4ce5d5516dc80c7f9a9791641&amp;chksm=bce44da37e4b1eea11d5196ceef3b4ce393f2d7d4d2a774e801c5e0520b66a65ce6cdd88d139&amp;scene=0#rd"/>
         <updated>2026-06-12T00:00:00.000Z</updated>
         <published>2026-06-12T00:00:00.000Z</published>
     </entry>
