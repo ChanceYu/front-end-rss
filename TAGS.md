@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-26 08:26:48。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-26 13:23:09。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,16 +40,16 @@
 
 
 
+- [【前端早读课】【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=1&sn=c5972211ae62772c403d467ae22545cd&chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d862da3a538899836a8fbf688eec3007)
+- [【前端早读课】【开源】alibaba/page-agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=2&sn=b79e2aefa53d8bb08a3c2a98adf79266&chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=682e18aab6329e42e641bd7348dff137)
 - [【Nodejs技术栈】实测完腾讯-Marvis，我在它身上看到了-Claude-Code-那套-Agent，有点上头](http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6dcb4a0b8512b8afac3fd2432c191b36)
-- [【前端早读课】【早说】慢即是快：用AI写出更好的代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=1&sn=3faf01d8de17459ab64d01f563506465&chksm=bceaea0ac63deafdfe05a7b86b77edbf380d340be86936a5c53b792c0579b0a12c49b8c74296&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0e1a1ec10fca7a79e1de39ac1015842)
 - [【前端早读课】【开源】Agent-Reach](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=2&sn=8e62081ba7d595934feb81bdbf6f3501&chksm=bc5fd8e743624a841d052f8fd7e9a17273faec25ef5029d5c4e8dab872431859a4f0e571ffbb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2b1b633687580d71d8c78e2851c9df9)
+- [【前端早读课】【早说】慢即是快：用AI写出更好的代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=1&sn=3faf01d8de17459ab64d01f563506465&chksm=bceaea0ac63deafdfe05a7b86b77edbf380d340be86936a5c53b792c0579b0a12c49b8c74296&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0e1a1ec10fca7a79e1de39ac1015842)
 - [【淘系前端团队】场景营销前端-AI-Coding-—-AI-Native-的视觉稿还原](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544417&idx=1&sn=b464075a0ff3f06d98f1919331b6b7ff&chksm=8390d139b4e7582f6f76fd1769393679c81e51080b44d8851361364570005e2403ab8acc3ce2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=637273cef3f31cfdc032cc48f483c5f2)
 - [【Nodejs技术栈】前端和-Node.js-开发者，怎么转向-AI-Agent-全栈？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523983&idx=1&sn=0054d9dc65b1c7d82fa9fb140ef06d5d&chksm=e80fd1c1df7858d7e31005915efc154c09bf23d943788c2fde297adec10d6597ff4d6f942dba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9cafbb4bad102744f34181a5f174086)
 - [【淘系前端团队】场景营销前端-AI-Coding-—-从问题到方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544388&idx=1&sn=a8a494898588bbce7e5c3c0f523d2a25&chksm=8390d11cb4e7580a858e7bbba64d114bafde06f8a6502c91a804fe9abc37135e00228aab3ab6#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f1f9a77f2b8a01b84c412752430aa68)
 - [【前端大全】Claude-Code之父删了IDE！干掉提示词，只写循环](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624577&idx=1&sn=32cc203488092a202ebd971126b0494f&chksm=80224340b755ca5658f65d33ce32e1d6d697e9514b1ce7bdfa1de730b15e7c39ea5e54b832c8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=881c126291ad5eb6d5f202ea08ea28ca)
 - [【前端早读课】【第3721期】讲透-Codex-操控电脑的三种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279345&idx=1&sn=bf1a5e9ca9e3ecb4f764999794741ba9&chksm=bcf99a06e63acfca3a9cd486846d1590e44fe6623ce2818ee23d9408c9564754b89328d85af6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=19c708acd09040cbc32f1040a98d7a6a)
-- [【Nodejs技术栈】再见-Nodejs-Roadmap！我开源了这张-AI-Agent-全栈路线图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523954&idx=1&sn=83823141eb463bf7481355b3e4748c53&chksm=e80fd13cdf78582a664958b0da936963214c54f05cf69bdbe5946b2776031e04de4f052d76ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=20471d18dcce09d0fe3fb5817ad1ce8a)
-- [【程序员成长指北】Codex-也学会“拼夕夕”了？邀请好友就能拿额度重置，怎么领、怎么用、哪些坑别踩](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530061&idx=1&sn=50460e7fd381b827e8edb93779e0e685&chksm=f992709ccee5f98a4dfbfbb4a744d815248c42ca365bc1b95cd102828f7986973229086996b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3ac4461c223052243233425c444a2617)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,15 +585,15 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-401-期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca9f5852dd812db01a793c14445686be)
+- [【前端早读课】【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=1&sn=c5972211ae62772c403d467ae22545cd&chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d862da3a538899836a8fbf688eec3007)
+- [【前端早读课】【开源】alibaba/page-agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=2&sn=b79e2aefa53d8bb08a3c2a98adf79266&chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=682e18aab6329e42e641bd7348dff137)
 - [【Nodejs技术栈】实测完腾讯-Marvis，我在它身上看到了-Claude-Code-那套-Agent，有点上头](http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6dcb4a0b8512b8afac3fd2432c191b36)
-- [【前端早读课】【早说】慢即是快：用AI写出更好的代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=1&sn=3faf01d8de17459ab64d01f563506465&chksm=bceaea0ac63deafdfe05a7b86b77edbf380d340be86936a5c53b792c0579b0a12c49b8c74296&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0e1a1ec10fca7a79e1de39ac1015842)
 - [【前端早读课】【开源】Agent-Reach](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=2&sn=8e62081ba7d595934feb81bdbf6f3501&chksm=bc5fd8e743624a841d052f8fd7e9a17273faec25ef5029d5c4e8dab872431859a4f0e571ffbb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2b1b633687580d71d8c78e2851c9df9)
+- [【前端早读课】【早说】慢即是快：用AI写出更好的代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=1&sn=3faf01d8de17459ab64d01f563506465&chksm=bceaea0ac63deafdfe05a7b86b77edbf380d340be86936a5c53b792c0579b0a12c49b8c74296&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0e1a1ec10fca7a79e1de39ac1015842)
 - [【Node-Weekly】Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b195d7b7f4d482edbea013eede2d72f)
 - [【张鑫旭-鑫空间-鑫生活】CSS-color-scheme属性与light-dark颜色函数](https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e5cae0c6bfcc61bedd304b0d65e9f22)
 - [【淘系前端团队】场景营销前端-AI-Coding-—-AI-Native-的视觉稿还原](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544417&idx=1&sn=b464075a0ff3f06d98f1919331b6b7ff&chksm=8390d139b4e7582f6f76fd1769393679c81e51080b44d8851361364570005e2403ab8acc3ce2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=637273cef3f31cfdc032cc48f483c5f2)
 - [【前端大全】离谱！小米电视误发地震预警！…有人着急跑路被反锁在门外最终找师傅付费开锁](http://mp.weixin.qq.com/s/7BknwM15sP43VwtOXD_6Kg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aed4ba58f0b6f929aae935b72f6b1eb6)
-- [【前端早读课】【第3723期】用-CSS-::search-text-美化浏览器搜索高亮](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279362&idx=1&sn=526eb1010472d0edaddbb18364b22ae1&chksm=bc5560124a6ec22b8c4752d47e5957ae2aa0d26d2d2500ffa20a47e3f3463b5866e638e0590b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=228ef1b65d0b375c7ab1f25947b1d657)
-- [【前端从进阶到入院】Astro-7.0-版本新功能速览！全面拥抱-Rust，构建速度提升-15-61%](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517643&idx=1&sn=4e5a8127af79d8f1d1b0ac46cd098f8f&chksm=eb07bdb2dc7034a49c59983b6af4c551621f2551e0f88f8a0a41ddeea956dd6ba079a45ce472#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b543fc4505e1ee7ad1a467270d60a4c4)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
