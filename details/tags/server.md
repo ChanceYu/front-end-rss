@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-27 00:37:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-27 02:31:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端
 
@@ -8,6 +8,7 @@
 
 
 - [2026-06-24-离谱！小米电视误发地震预警！…有人着急跑路被反锁在门外最终找师傅付费开锁](http://mp.weixin.qq.com/s/7BknwM15sP43VwtOXD_6Kg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aed4ba58f0b6f929aae935b72f6b1eb6) 
+- [2026-06-23-Astro-7-正式发布：编译器从-Go-重写为-Rust，构建提速-60%](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524010&idx=1&sn=c2bbd9fdda8492e042f0aa8e7ae70820&chksm=e80fd1e4df7858f2e01e76e0f418fd5c1a9aa1378aee900042c6e5a31c6ab07ae618ee1db5f9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7f6968b665eda05d82b1c1aad04238e9) 
 - [2026-06-23-Astro-7.0-版本新功能速览！全面拥抱-Rust，构建速度提升-15-61%](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517643&idx=1&sn=4e5a8127af79d8f1d1b0ac46cd098f8f&chksm=eb07bdb2dc7034a49c59983b6af4c551621f2551e0f88f8a0a41ddeea956dd6ba079a45ce472#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b543fc4505e1ee7ad1a467270d60a4c4) 
 - [2026-06-23-【第3722期】Navigation-API-开启单页应用导航新时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279350&idx=1&sn=410b071b02ad346108703451f7e7b5f5&chksm=bc51df8dac9ccb9ffb6a62f86ba78a90e2db347d15e37156cebfdb589af243d6329c2d2e95d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f23e89c74e548099e30fea0e6ecb81ce) 
 - [2026-06-17-不用-Electron-也不用-Tauri，Deno-把桌面应用塞进了一行命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523918&idx=1&sn=72b585fbdb8af5cf794280cf678c380f&chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c008125682703c34a254b3f0b05031b1) 

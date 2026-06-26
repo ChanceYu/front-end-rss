@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-26T16:37:21.382Z</updated>
+    <updated>2026-06-26T18:30:41.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Bun 将原生集成 React Compiler，速度直接干到 Babel 的 20 倍]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524041&amp;idx=1&amp;sn=9d65a4f4e1bf6251c11a068948640a76&amp;chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524041&amp;idx=1&amp;sn=9d65a4f4e1bf6251c11a068948640a76&amp;chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd"/>
+        <updated>2026-06-26T00:00:00.000Z</updated>
+        <published>2026-06-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QoderWork Skills 开发实践：从传统数科到 AI 数科的转型探索-我的Skills进阶之旅]]></title>
+        <id>http://mp.weixin.qq.com/s/DN2_sqc9aKuA7IU-VYJpDw</id>
+        <link href="http://mp.weixin.qq.com/s/DN2_sqc9aKuA7IU-VYJpDw"/>
+        <updated>2026-06-26T00:00:00.000Z</updated>
+        <published>2026-06-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 7.0采用Go语言重写编译器，类型检查提速10倍]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517645&amp;idx=1&amp;sn=5b24c6b013ddc15caf175cc3f858d040&amp;chksm=eb07bdb4dc7034a2266af3eef3729fff35b5c6b8a5c276bffed2ddab1e36c11033c0eb9949a8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517645&amp;idx=1&amp;sn=5b24c6b013ddc15caf175cc3f858d040&amp;chksm=eb07bdb4dc7034a2266af3eef3729fff35b5c6b8a5c276bffed2ddab1e36c11033c0eb9949a8#rd"/>
+        <updated>2026-06-26T00:00:00.000Z</updated>
+        <published>2026-06-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279391&amp;idx=1&amp;sn=c5972211ae62772c403d467ae22545cd&amp;chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&amp;scene=0#rd</id>
@@ -64,6 +85,13 @@
         <published>2026-06-25T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vite 8.1 发布：大型前端项目的噩梦终于被解决了，启动快了 15 倍]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524027&amp;idx=1&amp;sn=ab7566653846d8c33d534e80ba9e490a&amp;chksm=e80fd1f5df7858e390af4a6a34176b14877e268c6abcae852ecb84e730c1f34394a0d1953e9f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524027&amp;idx=1&amp;sn=ab7566653846d8c33d534e80ba9e490a&amp;chksm=e80fd1f5df7858e390af4a6a34176b14877e268c6abcae852ecb84e730c1f34394a0d1953e9f#rd"/>
+        <updated>2026-06-24T00:00:00.000Z</updated>
+        <published>2026-06-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS color-scheme属性与light-dark()颜色函数]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/"/>
@@ -90,6 +118,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279362&amp;idx=1&amp;sn=526eb1010472d0edaddbb18364b22ae1&amp;chksm=bc5560124a6ec22b8c4752d47e5957ae2aa0d26d2d2500ffa20a47e3f3463b5866e638e0590b&amp;scene=0#rd"/>
         <updated>2026-06-24T00:00:00.000Z</updated>
         <published>2026-06-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro 7 正式发布：编译器从 Go 重写为 Rust，构建提速 60%]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524010&amp;idx=1&amp;sn=c2bbd9fdda8492e042f0aa8e7ae70820&amp;chksm=e80fd1e4df7858f2e01e76e0f418fd5c1a9aa1378aee900042c6e5a31c6ab07ae618ee1db5f9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524010&amp;idx=1&amp;sn=c2bbd9fdda8492e042f0aa8e7ae70820&amp;chksm=e80fd1e4df7858f2e01e76e0f418fd5c1a9aa1378aee900042c6e5a31c6ab07ae618ee1db5f9#rd"/>
+        <updated>2026-06-23T00:00:00.000Z</updated>
+        <published>2026-06-23T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Astro 7.0 版本新功能速览！全面拥抱 Rust，构建速度提升 15-61%]]></title>
@@ -328,40 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/el_f0aK2pQU4Wgf1m59WIA"/>
         <updated>2026-06-14T00:00:00.000Z</updated>
         <published>2026-06-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突发！Claude 新旗舰上线 3 天紧急下架，国模 GLM-5.2 火速开放]]></title>
-        <id>http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw</id>
-        <link href="http://mp.weixin.qq.com/s/eQLw1k-k619h-FBYYa8Nkw"/>
-        <updated>2026-06-13T00:00:00.000Z</updated>
-        <published>2026-06-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个 npm install，坑了前端 15 年！终被废！]]></title>
-        <id>http://mp.weixin.qq.com/s/un_ddVeyL1GeH60vXa7J_w</id>
-        <link href="http://mp.weixin.qq.com/s/un_ddVeyL1GeH60vXa7J_w"/>
-        <updated>2026-06-13T00:00:00.000Z</updated>
-        <published>2026-06-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 400 期）：rsync 的争论]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html"/>
-        <updated>2026-06-12T00:00:00.000Z</updated>
-        <published>2026-06-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent skill 迭代式编写实战]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544291&amp;idx=1&amp;sn=ba44a1e5b3259dbc70e1a5adc6bf0f77&amp;chksm=8390d0bbb4e759adce8a28fb1a7d89badcfe46ec351371e63f38b4a667fd208f9550e4bcc4d2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544291&amp;idx=1&amp;sn=ba44a1e5b3259dbc70e1a5adc6bf0f77&amp;chksm=8390d0bbb4e759adce8a28fb1a7d89badcfe46ec351371e63f38b4a667fd208f9550e4bcc4d2#rd"/>
-        <updated>2026-06-12T00:00:00.000Z</updated>
-        <published>2026-06-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX一上市，连食堂阿姨都要成百万富翁了。。。]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624544&amp;idx=1&amp;sn=5302bbb0a92d581900dd0f67289be173&amp;chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624544&amp;idx=1&amp;sn=5302bbb0a92d581900dd0f67289be173&amp;chksm=802243a1b755cab762c4e7bb7fc2b21a87456622ccb1c55aac0924c59ff1dc243d00fd19b4ce#rd"/>
-        <updated>2026-06-12T00:00:00.000Z</updated>
-        <published>2026-06-12T00:00:00.000Z</published>
     </entry>
 </feed>

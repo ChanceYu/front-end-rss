@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-27 00:37:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-27 02:31:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -7,6 +7,9 @@
 
 
 
+- [2026-06-26-TypeScript-7.0采用Go语言重写编译器，类型检查提速10倍](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517645&idx=1&sn=5b24c6b013ddc15caf175cc3f858d040&chksm=eb07bdb4dc7034a2266af3eef3729fff35b5c6b8a5c276bffed2ddab1e36c11033c0eb9949a8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b856e836c44449000db1d041083e4c5e) 
+- [2026-06-24-Vite-8.1-发布：大型前端项目的噩梦终于被解决了，启动快了-15-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524027&idx=1&sn=ab7566653846d8c33d534e80ba9e490a&chksm=e80fd1f5df7858e390af4a6a34176b14877e268c6abcae852ecb84e730c1f34394a0d1953e9f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6474eacab98e6277ffa2b5382c3f5fea) 
+- [2026-06-23-Astro-7-正式发布：编译器从-Go-重写为-Rust，构建提速-60%](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524010&idx=1&sn=c2bbd9fdda8492e042f0aa8e7ae70820&chksm=e80fd1e4df7858f2e01e76e0f418fd5c1a9aa1378aee900042c6e5a31c6ab07ae618ee1db5f9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7f6968b665eda05d82b1c1aad04238e9) 
 - [2026-06-23-Astro-7.0-版本新功能速览！全面拥抱-Rust，构建速度提升-15-61%](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517643&idx=1&sn=4e5a8127af79d8f1d1b0ac46cd098f8f&chksm=eb07bdb2dc7034a49c59983b6af4c551621f2551e0f88f8a0a41ddeea956dd6ba079a45ce472#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b543fc4505e1ee7ad1a467270d60a4c4) 
 - [2026-06-23-Babel-8.0,-Vite-8.1,-and-TypeScript-7.0-RC](https://javascriptweekly.com/issues/791)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=60326a61edc22ed80344a2cff92aeaa5) 
 - [2026-06-22-前端和-Node.js-开发者，怎么转向-AI-Agent-全栈？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523983&idx=1&sn=0054d9dc65b1c7d82fa9fb140ef06d5d&chksm=e80fd1c1df7858d7e31005915efc154c09bf23d943788c2fde297adec10d6597ff4d6f942dba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9cafbb4bad102744f34181a5f174086) 
@@ -823,8 +826,8 @@
 - [2023-08-17-【第3030期】从集合论的角度理解-TypeScript](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264982&idx=1&sn=38d7d660dc6c5dc5fe4a28b2b90c06a9&chksm=bd48ce528a3f4744045c26769b600409d168d40168354af0ed38eca4d6eb4fb0c89c99c35d5e#rd) 
 - [2023-08-16-CSS-TIPS!单-img-标签实现的缩放效果](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487932&idx=1&sn=1b39067b182926a9024ba2cc78515467&chksm=97c67273a0b1fb651fe47c58c21889657f15fd05d378891ff52dbfd3d0a1ee288d41f9f300c7#rd) 
 - [2023-08-16-19-个实用的-ES6-代码片段，解决常见的-JavaScript-问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513451&idx=2&sn=9786df020c4b8665b1f52055bcaa7670&chksm=eb078d12dc700404ef1eb2d3d39010a78b51fcd9b279e7119f8bf359cf435663a2f12e3380e1#rd) 
-- [2023-08-14-年薪拿不到25w全额退｜算法工程师培养计划](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=1&sn=4230ea913de75c7837ffb2136f8479c6&chksm=eb078d38dc70042e0b9fd0e628e527c3efb4a5be7cbeed1e8c73b44987dcdf64fc0983d0d204#rd) 
 - [2023-08-14-注意，这个-JavaScript-事件即将弃用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=2&sn=26fa5b0ebf859e5444cc5484cf4b3749&chksm=eb078d38dc70042ed619ffa33cfcecbeb434da2f3c0fc185938e8876d5f900d07de288ef3f69#rd) 
+- [2023-08-14-年薪拿不到25w全额退｜算法工程师培养计划](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=1&sn=4230ea913de75c7837ffb2136f8479c6&chksm=eb078d38dc70042e0b9fd0e628e527c3efb4a5be7cbeed1e8c73b44987dcdf64fc0983d0d204#rd) 
 - [2023-08-14-精读《算法题---最小覆盖子串》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487127&idx=1&sn=0aa1d42f299d150748e6981f597e2835&chksm=fc86285dcbf1a14bbf31eece2ac4e3bd2af2a41cb04c1c79ead23292a24a80c2fcdc0fea320c#rd) 
 - [2023-08-14-用-TypeScript-编写一个-2D-格斗游戏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515713&idx=1&sn=8becfa07c86f988b7c1cbc6af81f854f&chksm=f992b890cee531868885b6f7766780181424d8f9d3fd7bfc43108650f6ec13a61f24253831e5#rd) 
 - [2023-08-14-深入调研了微前端，还是-iframe-最香](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616518&idx=1&sn=9e276da83d9831c7ab5868a5a70697a8&chksm=8022a2c7b7552bd139d70bb2fc92b5524afef7de4888b2e5e2dc4a27ab2a77b770048586fd71#rd) 
