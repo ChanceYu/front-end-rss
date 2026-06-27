@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-26T18:30:41.884Z</updated>
+    <updated>2026-06-27T03:00:07.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[TypeScript 7.0采用Go语言重写编译器，类型检查提速10倍]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517645&amp;idx=1&amp;sn=5b24c6b013ddc15caf175cc3f858d040&amp;chksm=eb07bdb4dc7034a2266af3eef3729fff35b5c6b8a5c276bffed2ddab1e36c11033c0eb9949a8#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517645&amp;idx=1&amp;sn=5b24c6b013ddc15caf175cc3f858d040&amp;chksm=eb07bdb4dc7034a2266af3eef3729fff35b5c6b8a5c276bffed2ddab1e36c11033c0eb9949a8#rd"/>
+        <updated>2026-06-26T00:00:00.000Z</updated>
+        <published>2026-06-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX600亿收购Cursor，AI编程进入“军备竞赛”模式]]></title>
+        <id>http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw</id>
+        <link href="http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw"/>
         <updated>2026-06-26T00:00:00.000Z</updated>
         <published>2026-06-26T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[npm 装包会偷偷跑别人的代码，这个设计坑了前端十几年，终于要被办了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523896&amp;idx=1&amp;sn=c5c846a760377c39d94a63ce8a7deabb&amp;chksm=e80fd176df7858609417dfce1db4c97edf2fa4b9613826546714f09c4a776d65319e9b3ef01c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523896&amp;idx=1&amp;sn=c5c846a760377c39d94a63ce8a7deabb&amp;chksm=e80fd176df7858609417dfce1db4c97edf2fa4b9613826546714f09c4a776d65319e9b3ef01c#rd"/>
-        <updated>2026-06-14T00:00:00.000Z</updated>
-        <published>2026-06-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这两个 SpaceX 百万富翁老哥，接受采访时嘴角的开心，完全压不住啊！]]></title>
-        <id>http://mp.weixin.qq.com/s/el_f0aK2pQU4Wgf1m59WIA</id>
-        <link href="http://mp.weixin.qq.com/s/el_f0aK2pQU4Wgf1m59WIA"/>
         <updated>2026-06-14T00:00:00.000Z</updated>
         <published>2026-06-14T00:00:00.000Z</published>
     </entry>
