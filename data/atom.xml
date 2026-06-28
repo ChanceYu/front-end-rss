@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-27T03:00:07.135Z</updated>
+    <updated>2026-06-28T05:26:36.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd"/>
+        <updated>2026-06-27T00:00:00.000Z</updated>
+        <published>2026-06-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Codex 官方白皮书，最值得抄的 10 个工作流技巧]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530114&amp;idx=1&amp;sn=7faf4bbeff984a5bb7780f3c0f956f59&amp;chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530114&amp;idx=1&amp;sn=7faf4bbeff984a5bb7780f3c0f956f59&amp;chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd"/>
+        <updated>2026-06-27T00:00:00.000Z</updated>
+        <published>2026-06-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bun 将原生集成 React Compiler，速度直接干到 Babel 的 20 倍]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524041&amp;idx=1&amp;sn=9d65a4f4e1bf6251c11a068948640a76&amp;chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624560&amp;idx=1&amp;sn=0ac4219ed3c3b8deb7c230876fee891a&amp;chksm=802243b1b755caa761ccf434357a2682a9dd1738e34e436d5645123c17a10c7f1e72288b2659#rd"/>
         <updated>2026-06-15T00:00:00.000Z</updated>
         <published>2026-06-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】深度学习的数学工程：模型背后的数学原理]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279312&amp;idx=2&amp;sn=7f6a17abf56d466296781dc080fcf4bf&amp;chksm=bc285e606a44d55aa569ca32743439536d529f412cb94d8598ab1a20e1518c6fe60656c76fde&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279312&amp;idx=2&amp;sn=7f6a17abf56d466296781dc080fcf4bf&amp;chksm=bc285e606a44d55aa569ca32743439536d529f412cb94d8598ab1a20e1518c6fe60656c76fde&amp;scene=0#rd"/>
-        <updated>2026-06-15T00:00:00.000Z</updated>
-        <published>2026-06-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm 装包会偷偷跑别人的代码，这个设计坑了前端十几年，终于要被办了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523896&amp;idx=1&amp;sn=c5c846a760377c39d94a63ce8a7deabb&amp;chksm=e80fd176df7858609417dfce1db4c97edf2fa4b9613826546714f09c4a776d65319e9b3ef01c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523896&amp;idx=1&amp;sn=c5c846a760377c39d94a63ce8a7deabb&amp;chksm=e80fd176df7858609417dfce1db4c97edf2fa4b9613826546714f09c4a776d65319e9b3ef01c#rd"/>
-        <updated>2026-06-14T00:00:00.000Z</updated>
-        <published>2026-06-14T00:00:00.000Z</published>
     </entry>
 </feed>
