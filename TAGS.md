@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-28 13:27:08。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-28 15:14:57。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -144,6 +144,7 @@
 
 
 
+- [【Nodejs技术栈】Vercel-终于支持-WebSocket，Node.js-的-Socket.IO-项目也能直接跑了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524064&idx=1&sn=001cefbabc95904a49ff35223a014480&chksm=e80fd1aedf7858b8c3a683357a4a229ce55850a0183d53a6a3321761bfdb8cce530df04b919a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e94a742b30afffd2f67244e07b60da)
 - [【前端大全】PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)
 - [【Node-Weekly】Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b195d7b7f4d482edbea013eede2d72f)
 - [【Nodejs技术栈】前端和-Node.js-开发者，怎么转向-AI-Agent-全栈？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523983&idx=1&sn=0054d9dc65b1c7d82fa9fb140ef06d5d&chksm=e80fd1c1df7858d7e31005915efc154c09bf23d943788c2fde297adec10d6597ff4d6f942dba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9cafbb4bad102744f34181a5f174086)
@@ -153,7 +154,6 @@
 - [【Nodejs技术栈】Vercel-造了个全新的-Agent-框架，用的居然还是当年-Next.js-那套](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523946&idx=1&sn=7d208541f0e3435bfae71bc86de76990&chksm=e80fd124df78583276ad37136e3f182bce6707c8bf656a2250d5c2fe9a2552a3ae896242aa08#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3691b8f0e3372b77271ecdbc2d62819)
 - [【前端早读课】【第3719期】从过度-Chaining-到清晰-Steps：JavaScript-编码观念转变](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279324&idx=1&sn=83f6e56ae81accaeb7f13989c81c3608&chksm=bca556d6cb36d40666c5dad5776b24210c8bba98fc6f4ad954c25ec74ed9ce2b726cf655c681&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dc29d12ad09356f4927304f4abdf887a)
 - [【前端从进阶到入院】AI-时代下-JS-的-Lint-工具能多快？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517641&idx=1&sn=9606ab9491dd60e684d7c55d61beb79d&chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df01e1f6acabfa0981553fc2796b2c13)
-- [【前端早读课】【第3718期】如何用-AI-辅助挖出-Node.js-的-UAF-漏洞并绕过权限模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=1&sn=64f1a10ea8cf9e018285cc17b5f1f575&chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac5611700fbdcb0dd451ecb389d5ebba)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -170,6 +170,7 @@
 
 
 
+- [【Nodejs技术栈】Vercel-终于支持-WebSocket，Node.js-的-Socket.IO-项目也能直接跑了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524064&idx=1&sn=001cefbabc95904a49ff35223a014480&chksm=e80fd1aedf7858b8c3a683357a4a229ce55850a0183d53a6a3321761bfdb8cce530df04b919a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e94a742b30afffd2f67244e07b60da)
 - [【Nodejs技术栈】Bun-将原生集成-React-Compiler，速度直接干到-Babel-的-20-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524041&idx=1&sn=9d65a4f4e1bf6251c11a068948640a76&chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ba3f6cec748c40d392e4335aeb6aa5da)
 - [【Node-Weekly】Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b195d7b7f4d482edbea013eede2d72f)
 - [【Nodejs技术栈】前端和-Node.js-开发者，怎么转向-AI-Agent-全栈？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523983&idx=1&sn=0054d9dc65b1c7d82fa9fb140ef06d5d&chksm=e80fd1c1df7858d7e31005915efc154c09bf23d943788c2fde297adec10d6597ff4d6f942dba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9cafbb4bad102744f34181a5f174086)
@@ -179,7 +180,6 @@
 - [【Node-Weekly】Extending-Node-instead-of-replacing-it](https://nodeweekly.com/issues/629)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e402e391dbedcbc0a498c8cf82a91da3)
 - [【Nodejs技术栈】不用-Electron-也不用-Tauri，Deno-把桌面应用塞进了一行命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523918&idx=1&sn=72b585fbdb8af5cf794280cf678c380f&chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c008125682703c34a254b3f0b05031b1)
 - [【前端早读课】【第3718期】如何用-AI-辅助挖出-Node.js-的-UAF-漏洞并绕过权限模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279319&idx=1&sn=64f1a10ea8cf9e018285cc17b5f1f575&chksm=bc2c6cde9b31cb419e912fb57666d1fb897bccfff5d1727acdac7da51c911b6a711019103fcb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac5611700fbdcb0dd451ecb389d5ebba)
-- [【Nodejs技术栈】学-Bun！React-官方编译器也-Rust-重构了，代码大半-Claude-写的](http://mp.weixin.qq.com/s/AGjD8fDw9YsYURtnzgthFQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7812addaf9845c0d56eecd939140dd7b)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【Nodejs技术栈】Vercel-终于支持-WebSocket，Node.js-的-Socket.IO-项目也能直接跑了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524064&idx=1&sn=001cefbabc95904a49ff35223a014480&chksm=e80fd1aedf7858b8c3a683357a4a229ce55850a0183d53a6a3321761bfdb8cce530df04b919a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e94a742b30afffd2f67244e07b60da)
 - [【Nodejs技术栈】刚刚，GPT-5.6-性能封神：超越-Claude-Fable-5，但你现在用不上](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524049&idx=1&sn=90e4724aaa59468bd381d58e9c314a3e&chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89f6435fc91306ebf7df1d6027324c0e)
 - [【程序员成长指北】OpenAI-Codex-官方白皮书，最值得抄的-10-个工作流技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530114&idx=1&sn=7faf4bbeff984a5bb7780f3c0f956f59&chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dba200871cebb3f6879251d2a847743b)
 - [【Nodejs技术栈】Bun-将原生集成-React-Compiler，速度直接干到-Babel-的-20-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524041&idx=1&sn=9d65a4f4e1bf6251c11a068948640a76&chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ba3f6cec748c40d392e4335aeb6aa5da)
@@ -593,7 +594,6 @@
 - [【程序员成长指北】SpaceX600亿收购Cursor，AI编程进入“军备竞赛”模式](http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=120b1e8a445609ac70ce6c56ce2473e3)
 - [【前端早读课】【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=1&sn=c5972211ae62772c403d467ae22545cd&chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d862da3a538899836a8fbf688eec3007)
 - [【前端早读课】【开源】alibaba/page-agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=2&sn=b79e2aefa53d8bb08a3c2a98adf79266&chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=682e18aab6329e42e641bd7348dff137)
-- [【Nodejs技术栈】实测完腾讯-Marvis，我在它身上看到了-Claude-Code-那套-Agent，有点上头](http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6dcb4a0b8512b8afac3fd2432c191b36)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

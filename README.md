@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-28 13:27:08，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-28 15:14:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -30,7 +30,7 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -177,7 +177,7 @@
 </summary>
 
 
-- [2026-06-27-OpenAI-Codex-官方白皮书，最值得抄的-10-个工作流技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530114&idx=1&sn=7faf4bbeff984a5bb7780f3c0f956f59&chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dba200871cebb3f6879251d2a847743b)  ![](/assets/new.png) 
+- [2026-06-27-OpenAI-Codex-官方白皮书，最值得抄的-10-个工作流技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530114&idx=1&sn=7faf4bbeff984a5bb7780f3c0f956f59&chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dba200871cebb3f6879251d2a847743b)  
 - [2026-06-26-SpaceX600亿收购Cursor，AI编程进入“军备竞赛”模式](http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=120b1e8a445609ac70ce6c56ce2473e3)  
 - [2026-06-23-别再把-Harness-和-Loop-吹玄了：研发工程师真正该补的是这层能力](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530087&idx=1&sn=48b437877089aa568662e15fd9bd41f5&chksm=f99270b6cee5f9a0944f500065b7361f7ac827ecf17bf7413c1e3a86fa78089acf0dd2af0bf2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0be9bd07500594ac53ffb1b249565fc1)  
 - [2026-06-22-不是干掉-Node：Nub-想做的是-Node.js-Plus](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530070&idx=1&sn=c7282c5d34ad6c0e09601009d61740b9&chksm=f9927087cee5f991be2df990124a3923de0a8c5d52df480083d896081064560d24fb97738bb1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ed79ef219e9071039baa4d639f2f7d91)  
@@ -408,7 +408,8 @@
 </summary>
 
 
-- [2026-06-27-刚刚，GPT-5.6-性能封神：超越-Claude-Fable-5，但你现在用不上](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524049&idx=1&sn=90e4724aaa59468bd381d58e9c314a3e&chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89f6435fc91306ebf7df1d6027324c0e)  ![](/assets/new.png) 
+- [2026-06-28-Vercel-终于支持-WebSocket，Node.js-的-Socket.IO-项目也能直接跑了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524064&idx=1&sn=001cefbabc95904a49ff35223a014480&chksm=e80fd1aedf7858b8c3a683357a4a229ce55850a0183d53a6a3321761bfdb8cce530df04b919a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e94a742b30afffd2f67244e07b60da)  ![](/assets/new.png) 
+- [2026-06-27-刚刚，GPT-5.6-性能封神：超越-Claude-Fable-5，但你现在用不上](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524049&idx=1&sn=90e4724aaa59468bd381d58e9c314a3e&chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89f6435fc91306ebf7df1d6027324c0e)  
 - [2026-06-26-Bun-将原生集成-React-Compiler，速度直接干到-Babel-的-20-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524041&idx=1&sn=9d65a4f4e1bf6251c11a068948640a76&chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ba3f6cec748c40d392e4335aeb6aa5da)  
 - [2026-06-25-实测完腾讯-Marvis，我在它身上看到了-Claude-Code-那套-Agent，有点上头](http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6dcb4a0b8512b8afac3fd2432c191b36)  
 - [2026-06-24-Vite-8.1-发布：大型前端项目的噩梦终于被解决了，启动快了-15-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524027&idx=1&sn=ab7566653846d8c33d534e80ba9e490a&chksm=e80fd1f5df7858e390af4a6a34176b14877e268c6abcae852ecb84e730c1f34394a0d1953e9f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6474eacab98e6277ffa2b5382c3f5fea)  
@@ -417,7 +418,6 @@
 - [2026-06-21-尤雨溪转发！Vue-杀进终端，vue-tui-0.1-正式发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523970&idx=1&sn=5085f3b9bb285f8561b310aa69dd9ec3&chksm=e80fd1ccdf7858dac94e5047c2292161eb997d8d1b85f81b148c190474589318744b87053a8e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=31e5c882139cb73ba295db19d244e7e3)  
 - [2026-06-20-Bun-饭碗要被抢了？前员工造出-Nub，尤雨溪也转发了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523963&idx=1&sn=ba0101baf94b8391e6fb50a406b78a1b&chksm=e80fd135df785823068af24fc769ba3b0e1e1ad12e9dec4ae3676753e71a7c02dbfc5d43e866#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0ba6dbd2294784677204dd67e397a21)  
 - [2026-06-19-再见-Nodejs-Roadmap！我开源了这张-AI-Agent-全栈路线图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523954&idx=1&sn=83823141eb463bf7481355b3e4748c53&chksm=e80fd13cdf78582a664958b0da936963214c54f05cf69bdbe5946b2776031e04de4f052d76ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=20471d18dcce09d0fe3fb5817ad1ce8a)  
-- [2026-06-18-Vercel-造了个全新的-Agent-框架，用的居然还是当年-Next.js-那套](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523946&idx=1&sn=7d208541f0e3435bfae71bc86de76990&chksm=e80fd124df78583276ad37136e3f182bce6707c8bf656a2250d5c2fe9a2552a3ae896242aa08#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3691b8f0e3372b77271ecdbc2d62819)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
