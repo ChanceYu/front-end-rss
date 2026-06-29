@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-29 13:31:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-29 21:21:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-29-浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765) 
 - [2026-06-29-【开源】flyfish-dev/file-viewer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=2&sn=c1ac3368ebab0db6208ca82e0831c109&chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2226bf48c938dfa061070d98fac54636) 
 - [2026-06-24-【第3723期】用-CSS-::search-text-美化浏览器搜索高亮](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279362&idx=1&sn=526eb1010472d0edaddbb18364b22ae1&chksm=bc5560124a6ec22b8c4752d47e5957ae2aa0d26d2d2500ffa20a47e3f3463b5866e638e0590b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=228ef1b65d0b375c7ab1f25947b1d657) 
 - [2026-06-10-【第3714期】浏览器中的大文件处理：如何在前端创建5GB文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279277&idx=1&sn=f0722899c750fa73525cc3463fef3eda&chksm=bc24b1ac58f757d687f1195792198a556c768a247d1ecf15d681bd8c41c42af64236b90de28d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1874d264d284f5f510433d3f9b5003c5) 

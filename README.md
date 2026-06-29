@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-29 13:31:09，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-29 21:21:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -26,7 +26,7 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -37,7 +37,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2026-06-29-【开源】flyfish-dev/file-viewer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=2&sn=c1ac3368ebab0db6208ca82e0831c109&chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2226bf48c938dfa061070d98fac54636)  ![](/assets/new.png) 
-- [2026-06-29-【早说】智能体好造，可靠难求：AI工程的核心命题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=1&sn=82b22ce52278e3e7dd8e8fbd00698bfb&chksm=bcab629091dc98cf156601d6db02e0eba23d5655ed5eaa56cc69e48f508f8dc49e9a9d1d6206&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efd394d3b46f788ce91c332c55aded1b)  ![](/assets/new.png) 
+- [2026-06-29-【开源】flyfish-dev/file-viewer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=2&sn=c1ac3368ebab0db6208ca82e0831c109&chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2226bf48c938dfa061070d98fac54636)  
+- [2026-06-29-【早说】智能体好造，可靠难求：AI工程的核心命题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=1&sn=82b22ce52278e3e7dd8e8fbd00698bfb&chksm=bcab629091dc98cf156601d6db02e0eba23d5655ed5eaa56cc69e48f508f8dc49e9a9d1d6206&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efd394d3b46f788ce91c332c55aded1b)  
 - [2026-06-26-【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=1&sn=c5972211ae62772c403d467ae22545cd&chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d862da3a538899836a8fbf688eec3007)  
 - [2026-06-26-【开源】alibaba/page-agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=2&sn=b79e2aefa53d8bb08a3c2a98adf79266&chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=682e18aab6329e42e641bd7348dff137)  
 - [2026-06-25-【开源】Agent-Reach](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=2&sn=8e62081ba7d595934feb81bdbf6f3501&chksm=bc5fd8e743624a841d052f8fd7e9a17273faec25ef5029d5c4e8dab872431859a4f0e571ffbb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2b1b633687580d71d8c78e2851c9df9)  
@@ -324,6 +324,7 @@
 </summary>
 
 
+- [2026-06-29-浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765)  ![](/assets/new.png) 
 - [2026-06-24-CSS-color-scheme属性与light-dark颜色函数](https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e5cae0c6bfcc61bedd304b0d65e9f22)  
 - [2026-06-22-全是好东西！HTML-command属性和JS-toggle事件](https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=304e595d8d687ff5924831116bd48389)  
 - [2026-06-10-全新的CSS-border-shape属性简介](https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=58f5865d3b9be7ad3563f4e76ed5bc4d)  
@@ -333,7 +334,6 @@
 - [2026-05-18-光标的形状也能设置了，就是CSS-caret-shape属性](https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e54624944b656be9b339715536bdd9a6)  
 - [2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8720eabc63cbc79d1333be9882c0eacb)  
 - [2026-05-06-JSON.rawJSON方法的作用是什么？](https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d7bee8b30ce5112016570da4313ac1c)  
-- [2026-04-27-如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2c3e2be616f40ed7f6e825154b1f739)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

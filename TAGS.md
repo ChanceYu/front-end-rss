@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-29 13:31:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-29 21:21:01。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -144,6 +144,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765)
 - [【Nodejs技术栈】Vercel-终于支持-WebSocket，Node.js-的-Socket.IO-项目也能直接跑了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524064&idx=1&sn=001cefbabc95904a49ff35223a014480&chksm=e80fd1aedf7858b8c3a683357a4a229ce55850a0183d53a6a3321761bfdb8cce530df04b919a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e94a742b30afffd2f67244e07b60da)
 - [【前端大全】PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)
 - [【Node-Weekly】Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b195d7b7f4d482edbea013eede2d72f)
@@ -153,7 +154,6 @@
 - [【Nodejs技术栈】再见-Nodejs-Roadmap！我开源了这张-AI-Agent-全栈路线图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523954&idx=1&sn=83823141eb463bf7481355b3e4748c53&chksm=e80fd13cdf78582a664958b0da936963214c54f05cf69bdbe5946b2776031e04de4f052d76ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=20471d18dcce09d0fe3fb5817ad1ce8a)
 - [【Nodejs技术栈】Vercel-造了个全新的-Agent-框架，用的居然还是当年-Next.js-那套](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523946&idx=1&sn=7d208541f0e3435bfae71bc86de76990&chksm=e80fd124df78583276ad37136e3f182bce6707c8bf656a2250d5c2fe9a2552a3ae896242aa08#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3691b8f0e3372b77271ecdbc2d62819)
 - [【前端早读课】【第3719期】从过度-Chaining-到清晰-Steps：JavaScript-编码观念转变](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279324&idx=1&sn=83f6e56ae81accaeb7f13989c81c3608&chksm=bca556d6cb36d40666c5dad5776b24210c8bba98fc6f4ad954c25ec74ed9ce2b726cf655c681&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dc29d12ad09356f4927304f4abdf887a)
-- [【前端从进阶到入院】AI-时代下-JS-的-Lint-工具能多快？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517641&idx=1&sn=9606ab9491dd60e684d7c55d61beb79d&chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df01e1f6acabfa0981553fc2796b2c13)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -352,6 +352,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765)
 - [【前端早读课】【开源】flyfish-dev/file-viewer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=2&sn=c1ac3368ebab0db6208ca82e0831c109&chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2226bf48c938dfa061070d98fac54636)
 - [【前端早读课】【第3723期】用-CSS-::search-text-美化浏览器搜索高亮](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279362&idx=1&sn=526eb1010472d0edaddbb18364b22ae1&chksm=bc5560124a6ec22b8c4752d47e5957ae2aa0d26d2d2500ffa20a47e3f3463b5866e638e0590b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=228ef1b65d0b375c7ab1f25947b1d657)
 - [【前端早读课】【第3714期】浏览器中的大文件处理：如何在前端创建5GB文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279277&idx=1&sn=f0722899c750fa73525cc3463fef3eda&chksm=bc24b1ac58f757d687f1195792198a556c768a247d1ecf15d681bd8c41c42af64236b90de28d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1874d264d284f5f510433d3f9b5003c5)
@@ -361,7 +362,6 @@
 - [【前端从进阶到入院】请停止过度设计：浏览器已经解决了这-8-个问题](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517575&idx=1&sn=20f90cd8662c443a56a455b951b56773&chksm=eb07bdfedc7034e8cbd0a4087d19390f22571318bc87646f4891cf03db693771c079a0d35b79#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=787017ae7225b2bf87ef99a582cc66d1)
 - [【Nodejs技术栈】Transformers-V4-最新发布！浏览器也能跑-AI-模型了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523174&idx=1&sn=82b09e889c9396fff27872199625bd53&chksm=e80fd428df785d3ef17de4e12dcfe3af28d5f74b08027e45e001f3789e3d458ce19cca1807bb#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d4299a0ef4e44c51325e89adf451db4d)
 - [【Nodejs技术栈】GitHub-Star-暴涨！前-React-核心成员出手，把浏览器-30-年算不好的文字布局问题解决了](http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f17f69647c6d7eb365318f05d053617f)
-- [【前端从进阶到入院】重磅！Vite-DevTools-发布！功能一览！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517554&idx=1&sn=d5a1a3391bf0336d7efc8f592d0d39bb&chksm=eb07bd0bdc70341d241360d2cb7b07599a5da1a0aaaa6826824abdfbb536287cfd4321260e5c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=749d90fa5286e50273b5668ed1eac610)
 - [查看更多 >](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765)
 - [【前端早读课】【早说】智能体好造，可靠难求：AI工程的核心命题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=1&sn=82b22ce52278e3e7dd8e8fbd00698bfb&chksm=bcab629091dc98cf156601d6db02e0eba23d5655ed5eaa56cc69e48f508f8dc49e9a9d1d6206&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efd394d3b46f788ce91c332c55aded1b)
 - [【前端早读课】【开源】flyfish-dev/file-viewer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=2&sn=c1ac3368ebab0db6208ca82e0831c109&chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2226bf48c938dfa061070d98fac54636)
 - [【Nodejs技术栈】Vercel-终于支持-WebSocket，Node.js-的-Socket.IO-项目也能直接跑了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524064&idx=1&sn=001cefbabc95904a49ff35223a014480&chksm=e80fd1aedf7858b8c3a683357a4a229ce55850a0183d53a6a3321761bfdb8cce530df04b919a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e94a742b30afffd2f67244e07b60da)
@@ -593,7 +594,6 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-401-期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca9f5852dd812db01a793c14445686be)
 - [【淘系前端团队】QoderWork-Skills-开发实践：从传统数科到-AI-数科的转型探索-我的Skills进阶之旅](http://mp.weixin.qq.com/s/DN2_sqc9aKuA7IU-VYJpDw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f98fb10e980f2a44bd652e76c5972328)
 - [【前端从进阶到入院】TypeScript-7.0采用Go语言重写编译器，类型检查提速10倍](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517645&idx=1&sn=5b24c6b013ddc15caf175cc3f858d040&chksm=eb07bdb4dc7034a2266af3eef3729fff35b5c6b8a5c276bffed2ddab1e36c11033c0eb9949a8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b856e836c44449000db1d041083e4c5e)
-- [【程序员成长指北】SpaceX600亿收购Cursor，AI编程进入“军备竞赛”模式](http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=120b1e8a445609ac70ce6c56ce2473e3)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

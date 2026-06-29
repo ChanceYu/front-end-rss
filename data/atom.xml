@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-29T05:30:38.875Z</updated>
+    <updated>2026-06-29T13:20:47.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[浏览器原生支持JSON模块导入与开发啦！]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/"/>
+        <updated>2026-06-29T00:00:00.000Z</updated>
+        <published>2026-06-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】智能体好造，可靠难求：AI工程的核心命题]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279399&amp;idx=1&amp;sn=82b22ce52278e3e7dd8e8fbd00698bfb&amp;chksm=bcab629091dc98cf156601d6db02e0eba23d5655ed5eaa56cc69e48f508f8dc49e9a9d1d6206&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/790"/>
         <updated>2026-06-16T00:00:00.000Z</updated>
         <published>2026-06-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的 React 代码可能一身病，12.4K star 的 react-doctor 一行命令揪出来]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523906&amp;idx=1&amp;sn=151926cceaf9c072aced7cbc5f17f0e7&amp;chksm=e80fd10cdf78581adb742fb6a918e403ebd0efc269925c2906ede969dd0037a7669dfb90ca45#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523906&amp;idx=1&amp;sn=151926cceaf9c072aced7cbc5f17f0e7&amp;chksm=e80fd10cdf78581adb742fb6a918e403ebd0efc269925c2906ede969dd0037a7669dfb90ca45#rd"/>
-        <updated>2026-06-15T00:00:00.000Z</updated>
-        <published>2026-06-15T00:00:00.000Z</published>
     </entry>
 </feed>
