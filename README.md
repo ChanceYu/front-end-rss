@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-06-30 00:57:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-30 13:19:22，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -26,8 +26,8 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -38,7 +38,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -93,16 +93,16 @@
 </summary>
 
 
-- [2026-06-29-【开源】flyfish-dev/file-viewer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=2&sn=c1ac3368ebab0db6208ca82e0831c109&chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2226bf48c938dfa061070d98fac54636)  
+- [2026-06-30-【开源】DayuanJiang/next-ai-draw-io](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=2&sn=18c6b3cccbe18f9a746effc81e3ea27a&chksm=bc21a4c221afcf3d163d941ee5ededbd000769294ecb17c4a1b3e1a5755f532b7020a80aa27b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3e7e2dfbaf815499ae22040813040d5)  ![](/assets/new.png) 
+- [2026-06-30-【早说】从-JS-框架之争看-AI-Agent-的未来演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=1&sn=31a5430e3ef15fe99dd632d0dc016a2e&chksm=bcb58ecdad7d8befaf5c0944fc85691e4ed09fb333f6c9a053ea9a20fbe8786e21128f35bb1a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=358d56f29cbc3341eb23a34f745c85e4)  ![](/assets/new.png) 
 - [2026-06-29-【早说】智能体好造，可靠难求：AI工程的核心命题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=1&sn=82b22ce52278e3e7dd8e8fbd00698bfb&chksm=bcab629091dc98cf156601d6db02e0eba23d5655ed5eaa56cc69e48f508f8dc49e9a9d1d6206&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efd394d3b46f788ce91c332c55aded1b)  
-- [2026-06-26-【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=1&sn=c5972211ae62772c403d467ae22545cd&chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d862da3a538899836a8fbf688eec3007)  
+- [2026-06-29-【开源】flyfish-dev/file-viewer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=2&sn=c1ac3368ebab0db6208ca82e0831c109&chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2226bf48c938dfa061070d98fac54636)  
 - [2026-06-26-【开源】alibaba/page-agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=2&sn=b79e2aefa53d8bb08a3c2a98adf79266&chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=682e18aab6329e42e641bd7348dff137)  
-- [2026-06-25-【开源】Agent-Reach](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=2&sn=8e62081ba7d595934feb81bdbf6f3501&chksm=bc5fd8e743624a841d052f8fd7e9a17273faec25ef5029d5c4e8dab872431859a4f0e571ffbb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2b1b633687580d71d8c78e2851c9df9)  
+- [2026-06-26-【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=1&sn=c5972211ae62772c403d467ae22545cd&chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d862da3a538899836a8fbf688eec3007)  
 - [2026-06-25-【早说】慢即是快：用AI写出更好的代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=1&sn=3faf01d8de17459ab64d01f563506465&chksm=bceaea0ac63deafdfe05a7b86b77edbf380d340be86936a5c53b792c0579b0a12c49b8c74296&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0e1a1ec10fca7a79e1de39ac1015842)  
+- [2026-06-25-【开源】Agent-Reach](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=2&sn=8e62081ba7d595934feb81bdbf6f3501&chksm=bc5fd8e743624a841d052f8fd7e9a17273faec25ef5029d5c4e8dab872431859a4f0e571ffbb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2b1b633687580d71d8c78e2851c9df9)  
 - [2026-06-24-【第3723期】用-CSS-::search-text-美化浏览器搜索高亮](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279362&idx=1&sn=526eb1010472d0edaddbb18364b22ae1&chksm=bc5560124a6ec22b8c4752d47e5957ae2aa0d26d2d2500ffa20a47e3f3463b5866e638e0590b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=228ef1b65d0b375c7ab1f25947b1d657)  
 - [2026-06-23-【第3722期】Navigation-API-开启单页应用导航新时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279350&idx=1&sn=410b071b02ad346108703451f7e7b5f5&chksm=bc51df8dac9ccb9ffb6a62f86ba78a90e2db347d15e37156cebfdb589af243d6329c2d2e95d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f23e89c74e548099e30fea0e6ecb81ce)  
-- [2026-06-22-【第3721期】讲透-Codex-操控电脑的三种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279345&idx=1&sn=bf1a5e9ca9e3ecb4f764999794741ba9&chksm=bcf99a06e63acfca3a9cd486846d1590e44fe6623ce2818ee23d9408c9564754b89328d85af6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=19c708acd09040cbc32f1040a98d7a6a)  
-- [2026-06-18-【早说】Codex-不止-OpenAI，全面拥抱开源大模型！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=2&sn=728154a99da6b904d3ae0bb8450e0578&chksm=bc3f92f434dc074ffd647acca0dd784457f9f9b2c2a08a73213b9d71e90cb2a0e2d5a6995547&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9784f4958e69990b1ad12fa01574abb)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -114,7 +114,7 @@
 </summary>
 
 
-- [2026-06-29-前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624601&idx=1&sn=2eabe16a50215506d610976c86e011fc&chksm=80224358b755ca4ec51e3549925c6e2ae7298f55ac1ddcfeb66fc4759323a6b2ae6cfc9fc4ce#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=85f52b81c203297406c5e01ec1a24a27)  ![](/assets/new.png) 
+- [2026-06-29-前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624601&idx=1&sn=2eabe16a50215506d610976c86e011fc&chksm=80224358b755ca4ec51e3549925c6e2ae7298f55ac1ddcfeb66fc4759323a6b2ae6cfc9fc4ce#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=85f52b81c203297406c5e01ec1a24a27)  
 - [2026-06-25-PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)  
 - [2026-06-24-离谱！小米电视误发地震预警！…有人着急跑路被反锁在门外最终找师傅付费开锁](http://mp.weixin.qq.com/s/7BknwM15sP43VwtOXD_6Kg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aed4ba58f0b6f929aae935b72f6b1eb6)  
 - [2026-06-22-Claude-Code之父删了IDE！干掉提示词，只写循环](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624577&idx=1&sn=32cc203488092a202ebd971126b0494f&chksm=80224340b755ca5658f65d33ce32e1d6d697e9514b1ce7bdfa1de730b15e7c39ea5e54b832c8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=881c126291ad5eb6d5f202ea08ea28ca)  
@@ -345,6 +345,7 @@
 </summary>
 
 
+- [2026-06-30-Dario-Amodei：AI-开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5fd499095c31b8f7b600396a33892f9)  ![](/assets/new.png) 
 - [2026-06-26-科技爱好者周刊（第-401-期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca9f5852dd812db01a793c14445686be)  
 - [2026-06-12-科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d00a04d6403a87a5e8b59ba37753127b)  
 - [2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1e417faaef0b6b38a80b14ce048f75f)  
@@ -354,7 +355,6 @@
 - [2026-05-08-科技爱好者周刊（第-395-期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b7b54e1d747275184444d2a345327d4f)  
 - [2026-04-24-科技爱好者周刊（第-394-期）：第二次-API-开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d870bf0e2804d72d4ada788b77395c7d)  
 - [2026-04-17-科技爱好者周刊（第-393-期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b0110d99961c84881432c06e5d6e835)  
-- [2026-04-10-科技爱好者周刊（第-392-期）：axios-投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e2ccc12b94e830cb0bfccfa4ea562670)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

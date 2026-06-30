@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-30 00:57:30。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-30 13:19:22。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,16 +40,16 @@
 
 
 
+- [【阮一峰的网络日志】Dario-Amodei：AI-开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5fd499095c31b8f7b600396a33892f9)
+- [【前端早读课】【早说】从-JS-框架之争看-AI-Agent-的未来演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=1&sn=31a5430e3ef15fe99dd632d0dc016a2e&chksm=bcb58ecdad7d8befaf5c0944fc85691e4ed09fb333f6c9a053ea9a20fbe8786e21128f35bb1a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=358d56f29cbc3341eb23a34f745c85e4)
+- [【前端早读课】【开源】DayuanJiang/next-ai-draw-io](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=2&sn=18c6b3cccbe18f9a746effc81e3ea27a&chksm=bc21a4c221afcf3d163d941ee5ededbd000769294ecb17c4a1b3e1a5755f532b7020a80aa27b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3e7e2dfbaf815499ae22040813040d5)
 - [【前端早读课】【早说】智能体好造，可靠难求：AI工程的核心命题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=1&sn=82b22ce52278e3e7dd8e8fbd00698bfb&chksm=bcab629091dc98cf156601d6db02e0eba23d5655ed5eaa56cc69e48f508f8dc49e9a9d1d6206&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efd394d3b46f788ce91c332c55aded1b)
 - [【Nodejs技术栈】刚刚，GPT-5.6-性能封神：超越-Claude-Fable-5，但你现在用不上](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524049&idx=1&sn=90e4724aaa59468bd381d58e9c314a3e&chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89f6435fc91306ebf7df1d6027324c0e)
 - [【程序员成长指北】OpenAI-Codex-官方白皮书，最值得抄的-10-个工作流技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530114&idx=1&sn=7faf4bbeff984a5bb7780f3c0f956f59&chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dba200871cebb3f6879251d2a847743b)
 - [【淘系前端团队】QoderWork-Skills-开发实践：从传统数科到-AI-数科的转型探索-我的Skills进阶之旅](http://mp.weixin.qq.com/s/DN2_sqc9aKuA7IU-VYJpDw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f98fb10e980f2a44bd652e76c5972328)
 - [【程序员成长指北】SpaceX600亿收购Cursor，AI编程进入“军备竞赛”模式](http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=120b1e8a445609ac70ce6c56ce2473e3)
-- [【前端早读课】【开源】alibaba/page-agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=2&sn=b79e2aefa53d8bb08a3c2a98adf79266&chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=682e18aab6329e42e641bd7348dff137)
 - [【前端早读课】【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=1&sn=c5972211ae62772c403d467ae22545cd&chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d862da3a538899836a8fbf688eec3007)
-- [【Nodejs技术栈】实测完腾讯-Marvis，我在它身上看到了-Claude-Code-那套-Agent，有点上头](http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6dcb4a0b8512b8afac3fd2432c191b36)
-- [【前端早读课】【早说】慢即是快：用AI写出更好的代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=1&sn=3faf01d8de17459ab64d01f563506465&chksm=bceaea0ac63deafdfe05a7b86b77edbf380d340be86936a5c53b792c0579b0a12c49b8c74296&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0e1a1ec10fca7a79e1de39ac1015842)
-- [【前端早读课】【开源】Agent-Reach](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279372&idx=2&sn=8e62081ba7d595934feb81bdbf6f3501&chksm=bc5fd8e743624a841d052f8fd7e9a17273faec25ef5029d5c4e8dab872431859a4f0e571ffbb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2b1b633687580d71d8c78e2851c9df9)
+- [【前端早读课】【开源】alibaba/page-agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279391&idx=2&sn=b79e2aefa53d8bb08a3c2a98adf79266&chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=682e18aab6329e42e641bd7348dff137)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -144,6 +144,7 @@
 
 
 
+- [【前端早读课】【早说】从-JS-框架之争看-AI-Agent-的未来演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=1&sn=31a5430e3ef15fe99dd632d0dc016a2e&chksm=bcb58ecdad7d8befaf5c0944fc85691e4ed09fb333f6c9a053ea9a20fbe8786e21128f35bb1a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=358d56f29cbc3341eb23a34f745c85e4)
 - [【张鑫旭-鑫空间-鑫生活】浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765)
 - [【Nodejs技术栈】Vercel-终于支持-WebSocket，Node.js-的-Socket.IO-项目也能直接跑了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524064&idx=1&sn=001cefbabc95904a49ff35223a014480&chksm=e80fd1aedf7858b8c3a683357a4a229ce55850a0183d53a6a3321761bfdb8cce530df04b919a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e94a742b30afffd2f67244e07b60da)
 - [【前端大全】PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)
@@ -153,7 +154,6 @@
 - [【程序员成长指北】不是干掉-Node：Nub-想做的是-Node.js-Plus](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530070&idx=1&sn=c7282c5d34ad6c0e09601009d61740b9&chksm=f9927087cee5f991be2df990124a3923de0a8c5d52df480083d896081064560d24fb97738bb1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ed79ef219e9071039baa4d639f2f7d91)
 - [【Nodejs技术栈】再见-Nodejs-Roadmap！我开源了这张-AI-Agent-全栈路线图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523954&idx=1&sn=83823141eb463bf7481355b3e4748c53&chksm=e80fd13cdf78582a664958b0da936963214c54f05cf69bdbe5946b2776031e04de4f052d76ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=20471d18dcce09d0fe3fb5817ad1ce8a)
 - [【Nodejs技术栈】Vercel-造了个全新的-Agent-框架，用的居然还是当年-Next.js-那套](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523946&idx=1&sn=7d208541f0e3435bfae71bc86de76990&chksm=e80fd124df78583276ad37136e3f182bce6707c8bf656a2250d5c2fe9a2552a3ae896242aa08#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3691b8f0e3372b77271ecdbc2d62819)
-- [【前端早读课】【第3719期】从过度-Chaining-到清晰-Steps：JavaScript-编码观念转变](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279324&idx=1&sn=83f6e56ae81accaeb7f13989c81c3608&chksm=bca556d6cb36d40666c5dad5776b24210c8bba98fc6f4ad954c25ec74ed9ce2b726cf655c681&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dc29d12ad09356f4927304f4abdf887a)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,16 +584,16 @@
 
 
 
+- [【阮一峰的网络日志】Dario-Amodei：AI-开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5fd499095c31b8f7b600396a33892f9)
+- [【前端早读课】【早说】从-JS-框架之争看-AI-Agent-的未来演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=1&sn=31a5430e3ef15fe99dd632d0dc016a2e&chksm=bcb58ecdad7d8befaf5c0944fc85691e4ed09fb333f6c9a053ea9a20fbe8786e21128f35bb1a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=358d56f29cbc3341eb23a34f745c85e4)
+- [【前端早读课】【开源】DayuanJiang/next-ai-draw-io](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=2&sn=18c6b3cccbe18f9a746effc81e3ea27a&chksm=bc21a4c221afcf3d163d941ee5ededbd000769294ecb17c4a1b3e1a5755f532b7020a80aa27b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3e7e2dfbaf815499ae22040813040d5)
 - [【张鑫旭-鑫空间-鑫生活】浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765)
 - [【前端大全】前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624601&idx=1&sn=2eabe16a50215506d610976c86e011fc&chksm=80224358b755ca4ec51e3549925c6e2ae7298f55ac1ddcfeb66fc4759323a6b2ae6cfc9fc4ce#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=85f52b81c203297406c5e01ec1a24a27)
-- [【前端早读课】【早说】智能体好造，可靠难求：AI工程的核心命题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=1&sn=82b22ce52278e3e7dd8e8fbd00698bfb&chksm=bcab629091dc98cf156601d6db02e0eba23d5655ed5eaa56cc69e48f508f8dc49e9a9d1d6206&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efd394d3b46f788ce91c332c55aded1b)
 - [【前端早读课】【开源】flyfish-dev/file-viewer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=2&sn=c1ac3368ebab0db6208ca82e0831c109&chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2226bf48c938dfa061070d98fac54636)
+- [【前端早读课】【早说】智能体好造，可靠难求：AI工程的核心命题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=1&sn=82b22ce52278e3e7dd8e8fbd00698bfb&chksm=bcab629091dc98cf156601d6db02e0eba23d5655ed5eaa56cc69e48f508f8dc49e9a9d1d6206&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efd394d3b46f788ce91c332c55aded1b)
 - [【Nodejs技术栈】Vercel-终于支持-WebSocket，Node.js-的-Socket.IO-项目也能直接跑了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524064&idx=1&sn=001cefbabc95904a49ff35223a014480&chksm=e80fd1aedf7858b8c3a683357a4a229ce55850a0183d53a6a3321761bfdb8cce530df04b919a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e94a742b30afffd2f67244e07b60da)
 - [【Nodejs技术栈】刚刚，GPT-5.6-性能封神：超越-Claude-Fable-5，但你现在用不上](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524049&idx=1&sn=90e4724aaa59468bd381d58e9c314a3e&chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89f6435fc91306ebf7df1d6027324c0e)
 - [【程序员成长指北】OpenAI-Codex-官方白皮书，最值得抄的-10-个工作流技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530114&idx=1&sn=7faf4bbeff984a5bb7780f3c0f956f59&chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dba200871cebb3f6879251d2a847743b)
-- [【Nodejs技术栈】Bun-将原生集成-React-Compiler，速度直接干到-Babel-的-20-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524041&idx=1&sn=9d65a4f4e1bf6251c11a068948640a76&chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ba3f6cec748c40d392e4335aeb6aa5da)
-- [【阮一峰的网络日志】科技爱好者周刊（第-401-期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca9f5852dd812db01a793c14445686be)
-- [【淘系前端团队】QoderWork-Skills-开发实践：从传统数科到-AI-数科的转型探索-我的Skills进阶之旅](http://mp.weixin.qq.com/s/DN2_sqc9aKuA7IU-VYJpDw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f98fb10e980f2a44bd652e76c5972328)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
