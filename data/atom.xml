@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-30T05:18:41.094Z</updated>
+    <updated>2026-06-30T09:00:41.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[Dario Amodei：AI 开源是伪命题]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/06/anthropic.html"/>
+        <updated>2026-06-30T00:00:00.000Z</updated>
+        <published>2026-06-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCode 团队新开源的神器：145 家 AI 模型服务商一站查]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530124&amp;idx=1&amp;sn=b88924b15828edb7e1bb85a7d05d323d&amp;chksm=f992705dcee5f94bf51122a0c3b7cc1b690588a5db6d5994dfe41c60f2d4012448157f0170ca#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530124&amp;idx=1&amp;sn=b88924b15828edb7e1bb85a7d05d323d&amp;chksm=f992705dcee5f94bf51122a0c3b7cc1b690588a5db6d5994dfe41c60f2d4012448157f0170ca#rd"/>
         <updated>2026-06-30T00:00:00.000Z</updated>
         <published>2026-06-30T00:00:00.000Z</published>
     </entry>
@@ -39,6 +46,13 @@
         <title type="html"><![CDATA[浏览器原生支持JSON模块导入与开发啦！]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/"/>
+        <updated>2026-06-29T00:00:00.000Z</updated>
+        <published>2026-06-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 动画辅助实现（实践篇）：从 AE 到可运行代码的全链路方案]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544614&amp;idx=1&amp;sn=1341392d63cc99e7d3461fcbadc12d25&amp;chksm=8390d1feb4e758e8f2bd8340b9e8f6a0882bdd6afec8c4c5c9d21e810c1b6e8040158e728e65#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544614&amp;idx=1&amp;sn=1341392d63cc99e7d3461fcbadc12d25&amp;chksm=8390d1feb4e758e8f2bd8340b9e8f6a0882bdd6afec8c4c5c9d21e810c1b6e8040158e728e65#rd"/>
         <updated>2026-06-29T00:00:00.000Z</updated>
         <published>2026-06-29T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530031&amp;idx=1&amp;sn=9f3f5eaded0e551c09c73dd15476ec31&amp;chksm=f99270fecee5f9e865ef8dfc31403c2b2a0e21df5efda0e93ade60521ae963fa7df445f75b01#rd"/>
         <updated>2026-06-17T00:00:00.000Z</updated>
         <published>2026-06-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3719期】从过度 Chaining 到清晰 Steps：JavaScript 编码观念转变]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279324&amp;idx=1&amp;sn=83f6e56ae81accaeb7f13989c81c3608&amp;chksm=bca556d6cb36d40666c5dad5776b24210c8bba98fc6f4ad954c25ec74ed9ce2b726cf655c681&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279324&amp;idx=1&amp;sn=83f6e56ae81accaeb7f13989c81c3608&amp;chksm=bca556d6cb36d40666c5dad5776b24210c8bba98fc6f4ad954c25ec74ed9ce2b726cf655c681&amp;scene=0#rd"/>
-        <updated>2026-06-17T00:00:00.000Z</updated>
-        <published>2026-06-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 时代下 JS 的 Lint 工具能多快？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517641&amp;idx=1&amp;sn=9606ab9491dd60e684d7c55d61beb79d&amp;chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517641&amp;idx=1&amp;sn=9606ab9491dd60e684d7c55d61beb79d&amp;chksm=eb07bdb0dc7034a60b86e516d1c73a2ae8ed76fcdce1fcc950332866de4ddb3b8c6608e8fcfc#rd"/>
-        <updated>2026-06-16T00:00:00.000Z</updated>
-        <published>2026-06-16T00:00:00.000Z</published>
     </entry>
 </feed>
