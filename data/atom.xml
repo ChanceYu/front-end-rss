@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-30T09:00:41.629Z</updated>
+    <updated>2026-06-30T14:48:19.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[【开源】DayuanJiang/next-ai-draw-io]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279433&amp;idx=2&amp;sn=18c6b3cccbe18f9a746effc81e3ea27a&amp;chksm=bc21a4c221afcf3d163d941ee5ededbd000769294ecb17c4a1b3e1a5755f532b7020a80aa27b&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279433&amp;idx=2&amp;sn=18c6b3cccbe18f9a746effc81e3ea27a&amp;chksm=bc21a4c221afcf3d163d941ee5ededbd000769294ecb17c4a1b3e1a5755f532b7020a80aa27b&amp;scene=0#rd"/>
+        <updated>2026-06-30T00:00:00.000Z</updated>
+        <published>2026-06-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will npm v12 reject your .npmrc?]]></title>
+        <id>https://javascriptweekly.com/issues/792</id>
+        <link href="https://javascriptweekly.com/issues/792"/>
         <updated>2026-06-30T00:00:00.000Z</updated>
         <published>2026-06-30T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[浙江大学经济学院百人计划研究员、博士生导师评价《2026 中国电商AI 应用白皮书》：AI 从技术可得走向经营能力平权]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544373&amp;idx=2&amp;sn=a58194aeb4381a8ab85b695f74a853a5&amp;chksm=8390d0edb4e759fbda268bfc94e2c0a8c9cdc0693d61d6565e092d7124bc0ba65fb079450d8d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544373&amp;idx=2&amp;sn=a58194aeb4381a8ab85b695f74a853a5&amp;chksm=8390d0edb4e759fbda268bfc94e2c0a8c9cdc0693d61d6565e092d7124bc0ba65fb079450d8d#rd"/>
-        <updated>2026-06-17T00:00:00.000Z</updated>
-        <published>2026-06-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付宝偷偷做了个 AI 版 – 怎么获取邀请码？附免费领取方式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530031&amp;idx=1&amp;sn=9f3f5eaded0e551c09c73dd15476ec31&amp;chksm=f99270fecee5f9e865ef8dfc31403c2b2a0e21df5efda0e93ade60521ae963fa7df445f75b01#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530031&amp;idx=1&amp;sn=9f3f5eaded0e551c09c73dd15476ec31&amp;chksm=f99270fecee5f9e865ef8dfc31403c2b2a0e21df5efda0e93ade60521ae963fa7df445f75b01#rd"/>
         <updated>2026-06-17T00:00:00.000Z</updated>
         <published>2026-06-17T00:00:00.000Z</published>
     </entry>
