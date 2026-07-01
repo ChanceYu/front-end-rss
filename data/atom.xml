@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-01T05:28:56.913Z</updated>
+    <updated>2026-07-01T14:55:35.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AI Agent 的 Skill 系统设计]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544717&amp;idx=1&amp;sn=b578abf5a81034670900a3b8eb874296&amp;chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544717&amp;idx=1&amp;sn=b578abf5a81034670900a3b8eb874296&amp;chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd"/>
+        <updated>2026-07-01T00:00:00.000Z</updated>
+        <published>2026-07-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【开源】UI-UX 模型让 AI 真正看懂 App 体验缺陷]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279441&amp;idx=1&amp;sn=bf72c71095795b383ed333058dbd1052&amp;chksm=bc30201ce050ad8c8c4d05ecbbf061f5a0fc4bd4a83b754f26e5f108f852e86135c19664242b&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/629"/>
         <updated>2026-06-18T00:00:00.000Z</updated>
         <published>2026-06-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不用 Electron 也不用 Tauri，Deno 把桌面应用塞进了一行命令]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523918&amp;idx=1&amp;sn=72b585fbdb8af5cf794280cf678c380f&amp;chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523918&amp;idx=1&amp;sn=72b585fbdb8af5cf794280cf678c380f&amp;chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd"/>
-        <updated>2026-06-17T00:00:00.000Z</updated>
-        <published>2026-06-17T00:00:00.000Z</published>
     </entry>
 </feed>
