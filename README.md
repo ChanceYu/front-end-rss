@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-02 22:02:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-03 04:50:33，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -24,7 +24,7 @@
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -51,7 +51,7 @@
 </summary>
 
 
-- [2026-07-02-37-CLI-best-practices-for-Node-devs](https://nodeweekly.com/issues/631)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a1aa645625f02302f57c930d1466f11)  ![](/assets/new.png) 
+- [2026-07-02-37-CLI-best-practices-for-Node-devs](https://nodeweekly.com/issues/631)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a1aa645625f02302f57c930d1466f11)  
 - [2026-06-25-Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b195d7b7f4d482edbea013eede2d72f)  
 - [2026-06-18-Extending-Node-instead-of-replacing-it](https://nodeweekly.com/issues/629)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e402e391dbedcbc0a498c8cf82a91da3)  
 - [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=217dd885c01f10d7551395e2a8537b09)  
@@ -408,16 +408,16 @@
 </summary>
 
 
+- [2026-07-02-Claude-Fable-5-正式回归-凌晨-Anthropic-官方确认，Fable-5-和-Mythos-5-的相关限制已经解除，Fable-5-正在恢复给全球用户使用。-我把这件事总结为了-3-个看点。-先看-Claude-Code-版本。-官方支持页写得很清楚，想在-Claude-Code-里用-Fable-5，需要升级到-2.1.170-或更高版本。如果你模型](http://mp.weixin.qq.com/s/84CjfEhiwgZtXqwWcmH8zw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8c2028d8e525e9e784ad14b2663b031d)  ![](/assets/new.png) 
 - [2026-06-28-Vercel-终于支持-WebSocket，Node.js-的-Socket.IO-项目也能直接跑了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524064&idx=1&sn=001cefbabc95904a49ff35223a014480&chksm=e80fd1aedf7858b8c3a683357a4a229ce55850a0183d53a6a3321761bfdb8cce530df04b919a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e94a742b30afffd2f67244e07b60da)  
 - [2026-06-27-刚刚，GPT-5.6-性能封神：超越-Claude-Fable-5，但你现在用不上](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524049&idx=1&sn=90e4724aaa59468bd381d58e9c314a3e&chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89f6435fc91306ebf7df1d6027324c0e)  
+- [2026-06-27-别怪-Claude-Code-总跑偏，是你没把项目规范写清楚](http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d4fbc983719ad23c60af36b38df7fde3)  ![](/assets/new.png) 
 - [2026-06-26-Bun-将原生集成-React-Compiler，速度直接干到-Babel-的-20-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524041&idx=1&sn=9d65a4f4e1bf6251c11a068948640a76&chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ba3f6cec748c40d392e4335aeb6aa5da)  
 - [2026-06-25-实测完腾讯-Marvis，我在它身上看到了-Claude-Code-那套-Agent，有点上头](http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6dcb4a0b8512b8afac3fd2432c191b36)  
 - [2026-06-24-Vite-8.1-发布：大型前端项目的噩梦终于被解决了，启动快了-15-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524027&idx=1&sn=ab7566653846d8c33d534e80ba9e490a&chksm=e80fd1f5df7858e390af4a6a34176b14877e268c6abcae852ecb84e730c1f34394a0d1953e9f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6474eacab98e6277ffa2b5382c3f5fea)  
 - [2026-06-23-Astro-7-正式发布：编译器从-Go-重写为-Rust，构建提速-60%](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524010&idx=1&sn=c2bbd9fdda8492e042f0aa8e7ae70820&chksm=e80fd1e4df7858f2e01e76e0f418fd5c1a9aa1378aee900042c6e5a31c6ab07ae618ee1db5f9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7f6968b665eda05d82b1c1aad04238e9)  
 - [2026-06-22-前端和-Node.js-开发者，怎么转向-AI-Agent-全栈？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523983&idx=1&sn=0054d9dc65b1c7d82fa9fb140ef06d5d&chksm=e80fd1c1df7858d7e31005915efc154c09bf23d943788c2fde297adec10d6597ff4d6f942dba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9cafbb4bad102744f34181a5f174086)  
 - [2026-06-21-尤雨溪转发！Vue-杀进终端，vue-tui-0.1-正式发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523970&idx=1&sn=5085f3b9bb285f8561b310aa69dd9ec3&chksm=e80fd1ccdf7858dac94e5047c2292161eb997d8d1b85f81b148c190474589318744b87053a8e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=31e5c882139cb73ba295db19d244e7e3)  
-- [2026-06-20-Bun-饭碗要被抢了？前员工造出-Nub，尤雨溪也转发了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523963&idx=1&sn=ba0101baf94b8391e6fb50a406b78a1b&chksm=e80fd135df785823068af24fc769ba3b0e1e1ad12e9dec4ae3676753e71a7c02dbfc5d43e866#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0ba6dbd2294784677204dd67e397a21)  
-- [2026-06-19-再见-Nodejs-Roadmap！我开源了这张-AI-Agent-全栈路线图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523954&idx=1&sn=83823141eb463bf7481355b3e4748c53&chksm=e80fd13cdf78582a664958b0da936963214c54f05cf69bdbe5946b2776031e04de4f052d76ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=20471d18dcce09d0fe3fb5817ad1ce8a)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

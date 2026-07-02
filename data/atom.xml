@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-02T14:02:36.182Z</updated>
+    <updated>2026-07-02T20:50:03.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,21 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Claude Fable 5 正式回归
+
+凌晨 Anthropic 官方确认，Fable 5 和 Mythos 5 的相关限制已经解除，Fable 5 正在恢复给全球用户使用。
+
+我把这件事总结为了 3 个看点。
+
+先看 Claude Code 版本。
+
+官方支持页写得很清楚，想在 Claude Code 里用 Fable 5，需要升级到 2.1.170 或更高版本。如果你模型]]></title>
+        <id>http://mp.weixin.qq.com/s/84CjfEhiwgZtXqwWcmH8zw</id>
+        <link href="http://mp.weixin.qq.com/s/84CjfEhiwgZtXqwWcmH8zw"/>
+        <updated>2026-07-02T00:00:00.000Z</updated>
+        <published>2026-07-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3725期】CSS状态与JavaScript事件之间的界限变化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279455&amp;idx=1&amp;sn=3f248a7c2fab2657e5438c52003dc910&amp;chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&amp;scene=0#rd</id>
@@ -125,6 +140,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524064&amp;idx=1&amp;sn=001cefbabc95904a49ff35223a014480&amp;chksm=e80fd1aedf7858b8c3a683357a4a229ce55850a0183d53a6a3321761bfdb8cce530df04b919a#rd"/>
         <updated>2026-06-28T00:00:00.000Z</updated>
         <published>2026-06-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别怪 Claude Code 总跑偏，是你没把项目规范写清楚]]></title>
+        <id>http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA</id>
+        <link href="http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA"/>
+        <updated>2026-06-27T00:00:00.000Z</updated>
+        <published>2026-06-27T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
@@ -349,19 +371,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530061&amp;idx=1&amp;sn=50460e7fd381b827e8edb93779e0e685&amp;chksm=f992709ccee5f98a4dfbfbb4a744d815248c42ca365bc1b95cd102828f7986973229086996b1#rd"/>
         <updated>2026-06-19T00:00:00.000Z</updated>
         <published>2026-06-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vercel 造了个全新的 Agent 框架，用的居然还是当年 Next.js 那套]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523946&amp;idx=1&amp;sn=7d208541f0e3435bfae71bc86de76990&amp;chksm=e80fd124df78583276ad37136e3f182bce6707c8bf656a2250d5c2fe9a2552a3ae896242aa08#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523946&amp;idx=1&amp;sn=7d208541f0e3435bfae71bc86de76990&amp;chksm=e80fd124df78583276ad37136e3f182bce6707c8bf656a2250d5c2fe9a2552a3ae896242aa08#rd"/>
-        <updated>2026-06-18T00:00:00.000Z</updated>
-        <published>2026-06-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek、Kimi、Qwen、GLM 怎么接入 Codex？这篇一次讲清楚]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530049&amp;idx=1&amp;sn=9190a2a93b7847f5877c4366c9bdf0a9&amp;chksm=f9927090cee5f986531472d6b8eb90a13b5c784b3ccb6a30ca7ee3d81612cc31416ca9bd0b3e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530049&amp;idx=1&amp;sn=9190a2a93b7847f5877c4366c9bdf0a9&amp;chksm=f9927090cee5f986531472d6b8eb90a13b5c784b3ccb6a30ca7ee3d81612cc31416ca9bd0b3e#rd"/>
-        <updated>2026-06-18T00:00:00.000Z</updated>
-        <published>2026-06-18T00:00:00.000Z</published>
     </entry>
 </feed>
