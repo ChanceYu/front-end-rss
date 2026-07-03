@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-03 13:42:53。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-03 16:44:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -593,7 +593,7 @@
 - [【前端早读课】【第3725期】CSS状态与JavaScript事件之间的界限变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279455&idx=1&sn=3f248a7c2fab2657e5438c52003dc910&chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e74b7a2d60a7a0b943cd82b59a66ef5b)
 - [【Node-Weekly】37-CLI-best-practices-for-Node-devs](https://nodeweekly.com/issues/631)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a1aa645625f02302f57c930d1466f11)
 - [【淘系前端团队】AI-Agent-的-Skill-系统设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544717&idx=1&sn=b578abf5a81034670900a3b8eb874296&chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f2cd922efed38934150bad9293f5915)
-- [【前端大全】炸锅！Claude-Code-被爆植入后门，检测中国用户和-AI-实验室](http://mp.weixin.qq.com/s/uUKs3obyq2f5AL0hoGiMfg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=92cfb7185fb32ebb4eb45abf09d0e0ae)
+- [【程序员成长指北】让DeepSeek-突然提速-80%的-DSpark-究竟是什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530126&idx=1&sn=c16033baf4f0ede59de8e69e78dec2e5&chksm=f992705fcee5f949c21678e9c347d70035af3a04a308c77c4cd3fff224101f2c8a78ae1dc455#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b13500ed1836c5f31f46afe96cbee43b)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
