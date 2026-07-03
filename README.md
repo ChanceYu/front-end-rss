@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-03 16:44:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-04 04:51:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -177,7 +177,8 @@
 </summary>
 
 
-- [2026-07-01-让DeepSeek-突然提速-80%的-DSpark-究竟是什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530126&idx=1&sn=c16033baf4f0ede59de8e69e78dec2e5&chksm=f992705fcee5f949c21678e9c347d70035af3a04a308c77c4cd3fff224101f2c8a78ae1dc455#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b13500ed1836c5f31f46afe96cbee43b)  ![](/assets/new.png) 
+- [2026-07-03-阿里禁用-Claude-Code：AI-编程工具的信任危机爆发了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530131&idx=1&sn=88351920a5860dca8eda52b5afb145c7&chksm=f9927042cee5f954bba323c52f603ebd20a4372a31d921f2ae047155057eb59b9ad77a17e4d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f47ce3c2a4eedb7dbf735796c0be59)  ![](/assets/new.png) 
+- [2026-07-01-让DeepSeek-突然提速-80%的-DSpark-究竟是什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530126&idx=1&sn=c16033baf4f0ede59de8e69e78dec2e5&chksm=f992705fcee5f949c21678e9c347d70035af3a04a308c77c4cd3fff224101f2c8a78ae1dc455#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b13500ed1836c5f31f46afe96cbee43b)  
 - [2026-06-30-OpenCode-团队新开源的神器：145-家-AI-模型服务商一站查](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530124&idx=1&sn=b88924b15828edb7e1bb85a7d05d323d&chksm=f992705dcee5f94bf51122a0c3b7cc1b690588a5db6d5994dfe41c60f2d4012448157f0170ca#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ebbf3b3d5a546f0cbc8f754ae59a52be)  
 - [2026-06-27-OpenAI-Codex-官方白皮书，最值得抄的-10-个工作流技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530114&idx=1&sn=7faf4bbeff984a5bb7780f3c0f956f59&chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dba200871cebb3f6879251d2a847743b)  
 - [2026-06-26-SpaceX600亿收购Cursor，AI编程进入“军备竞赛”模式](http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=120b1e8a445609ac70ce6c56ce2473e3)  
@@ -186,7 +187,6 @@
 - [2026-06-19-Codex-也学会“拼夕夕”了？邀请好友就能拿额度重置，怎么领、怎么用、哪些坑别踩](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530061&idx=1&sn=50460e7fd381b827e8edb93779e0e685&chksm=f992709ccee5f98a4dfbfbb4a744d815248c42ca365bc1b95cd102828f7986973229086996b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3ac4461c223052243233425c444a2617)  
 - [2026-06-18-DeepSeek、Kimi、Qwen、GLM-怎么接入-Codex？这篇一次讲清楚](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530049&idx=1&sn=9190a2a93b7847f5877c4366c9bdf0a9&chksm=f9927090cee5f986531472d6b8eb90a13b5c784b3ccb6a30ca7ee3d81612cc31416ca9bd0b3e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fc6114fe8c53b487dd11bff81a0dc7ad)  
 - [2026-06-17-支付宝偷偷做了个-AI-版-–-怎么获取邀请码？附免费领取方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530031&idx=1&sn=9f3f5eaded0e551c09c73dd15476ec31&chksm=f99270fecee5f9e865ef8dfc31403c2b2a0e21df5efda0e93ade60521ae963fa7df445f75b01#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8759f27c407758be7b4f77c8a7c8308c)  
-- [2026-06-16-Codex-小白入门：从安装到插件、MCP、Skills，一篇把配置讲明白](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530021&idx=1&sn=2504f0921ce3003f478a7294156c0125&chksm=f99270f4cee5f9e2290570629a2baf9c24f476599bc4adf43c89e9507c14cc2e64ebcf4f0a6a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f5046851df369075cdf52ccc1e65e2d0)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-03 16:44:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-04 04:52:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -8,6 +8,7 @@
 
 
 - [2026-07-03-科技爱好者周刊（第-402-期）：我在智念-AI-的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=871cef9ef14042b794076bdb7ff59ecd) 
+- [2026-07-03-阿里禁用-Claude-Code：AI-编程工具的信任危机爆发了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530131&idx=1&sn=88351920a5860dca8eda52b5afb145c7&chksm=f9927042cee5f954bba323c52f603ebd20a4372a31d921f2ae047155057eb59b9ad77a17e4d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f47ce3c2a4eedb7dbf735796c0be59) 
 - [2026-07-02-Claude-Fable-5-正式回归-凌晨-Anthropic-官方确认，Fable-5-和-Mythos-5-的相关限制已经解除，Fable-5-正在恢复给全球用户使用。-我把这件事总结为了-3-个看点。-先看-Claude-Code-版本。-官方支持页写得很清楚，想在-Claude-Code-里用-Fable-5，需要升级到-2.1.170-或更高版本。如果你模型](http://mp.weixin.qq.com/s/84CjfEhiwgZtXqwWcmH8zw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8c2028d8e525e9e784ad14b2663b031d) 
 - [2026-07-02-不会写代码的高管用Claude-Code两天上线新程序，工程师接手后发现：一个Bug，让AI一天烧掉一个月服务器费！](http://mp.weixin.qq.com/s/XM7PQoLQzulCq1Pb9ALm-w)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ba4cf260625861807d0d546098da4360) 
 - [2026-07-01-AI-Agent-的-Skill-系统设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544717&idx=1&sn=b578abf5a81034670900a3b8eb874296&chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f2cd922efed38934150bad9293f5915) 
@@ -415,8 +416,8 @@
 - [2025-06-03-【图书】MCP原理与实战：高效AI-Agent智能体开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=2&sn=0d4d5f290917268692e6ea82d16b380c&chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&scene=0#rd) 
 - [2025-06-02-🤖-如何让-Cursor-AI-Agent始终遵守项目规范：使用自动规则生成技术](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526316&idx=1&sn=7acd2a4fb4c6f2dab985550d1683d32a&chksm=f992617dcee5e86beaeb3f1568a65a70aa36c04da447216107542d43e6824b62c8c08e5d261e#rd) 
 - [2025-05-29-用印度程序员冒充AI的“独角兽”彻底倒闭了！伪AI烧光5亿美元，连微软和亚马逊都被“坑”了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526046&idx=1&sn=bfb62e9e1be7fb29e60a880b25429991&chksm=f952d3ddce255acb82d791a760d40feb73b57115ab9b61b72b8ab979adeb7f2464f14bcbb289#rd) 
-- [2025-05-27-前端也需要了解的-MCP-知识](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=1&sn=35d65ec8a6863f9b65561b038b6fe167&chksm=f9926143cee5e8551546bd2ef282262f649dff9619db4f547c2463c087a2b9cf52155e5b5893#rd) 
 - [2025-05-27-LLM与外部世界的交互能力](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=2&sn=f7da7b4e7babbb06dbd6a19b6431c0da&chksm=f9926143cee5e855ba17f6ab6a308c7102f8310525c06091800021e43bf10f573266a401feaf#rd) 
+- [2025-05-27-前端也需要了解的-MCP-知识](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=1&sn=35d65ec8a6863f9b65561b038b6fe167&chksm=f9926143cee5e8551546bd2ef282262f649dff9619db4f547c2463c087a2b9cf52155e5b5893#rd) 
 - [2025-05-27-【第3517期】stagewise：让AI与代码编辑器无缝连接](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276516&idx=1&sn=d1dfeb7103ef039786dc7098a1fbeace&chksm=bc0a86affcfc7c5004fcaf5b16977c2b05c137e59cd55b5821fab47d73e5eda45465dbc6d731&scene=0#rd) 
 - [2025-05-26-Java-之父怒斥：AI-是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622523&idx=1&sn=6d41ee9991b52c3a8dfbe51a783e01aa&chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd) 
 - [2025-05-23-淘宝Java工程师的LLM开发实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540249&idx=1&sn=1c8a9137594bc9772f863bc0e4dc972d&chksm=826307b256b557840c679d626771c1b3f5f861c8b60de62b82f06628a10f0347e7c729d55c1e&scene=0#rd) 

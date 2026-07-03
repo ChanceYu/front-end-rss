@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-03 16:44:50。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-04 04:52:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -41,6 +41,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-402-期）：我在智念-AI-的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=871cef9ef14042b794076bdb7ff59ecd)
+- [【程序员成长指北】阿里禁用-Claude-Code：AI-编程工具的信任危机爆发了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530131&idx=1&sn=88351920a5860dca8eda52b5afb145c7&chksm=f9927042cee5f954bba323c52f603ebd20a4372a31d921f2ae047155057eb59b9ad77a17e4d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f47ce3c2a4eedb7dbf735796c0be59)
 - [【Nodejs技术栈】Claude-Fable-5-正式回归-凌晨-Anthropic-官方确认，Fable-5-和-Mythos-5-的相关限制已经解除，Fable-5-正在恢复给全球用户使用。-我把这件事总结为了-3-个看点。-先看-Claude-Code-版本。-官方支持页写得很清楚，想在-Claude-Code-里用-Fable-5，需要升级到-2.1.170-或更高版本。如果你模型](http://mp.weixin.qq.com/s/84CjfEhiwgZtXqwWcmH8zw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8c2028d8e525e9e784ad14b2663b031d)
 - [【前端大全】不会写代码的高管用Claude-Code两天上线新程序，工程师接手后发现：一个Bug，让AI一天烧掉一个月服务器费！](http://mp.weixin.qq.com/s/XM7PQoLQzulCq1Pb9ALm-w)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ba4cf260625861807d0d546098da4360)
 - [【淘系前端团队】AI-Agent-的-Skill-系统设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544717&idx=1&sn=b578abf5a81034670900a3b8eb874296&chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f2cd922efed38934150bad9293f5915)
@@ -49,7 +50,6 @@
 - [【阮一峰的网络日志】Dario-Amodei：AI-开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5fd499095c31b8f7b600396a33892f9)
 - [【程序员成长指北】OpenCode-团队新开源的神器：145-家-AI-模型服务商一站查](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530124&idx=1&sn=b88924b15828edb7e1bb85a7d05d323d&chksm=f992705dcee5f94bf51122a0c3b7cc1b690588a5db6d5994dfe41c60f2d4012448157f0170ca#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ebbf3b3d5a546f0cbc8f754ae59a52be)
 - [【前端早读课】【开源】DayuanJiang/next-ai-draw-io](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=2&sn=18c6b3cccbe18f9a746effc81e3ea27a&chksm=bc21a4c221afcf3d163d941ee5ededbd000769294ecb17c4a1b3e1a5755f532b7020a80aa27b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3e7e2dfbaf815499ae22040813040d5)
-- [【前端早读课】【早说】从-JS-框架之争看-AI-Agent-的未来演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=1&sn=31a5430e3ef15fe99dd632d0dc016a2e&chksm=bcb58ecdad7d8befaf5c0944fc85691e4ed09fb333f6c9a053ea9a20fbe8786e21128f35bb1a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=358d56f29cbc3341eb23a34f745c85e4)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-402-期）：我在智念-AI-的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=871cef9ef14042b794076bdb7ff59ecd)
+- [【程序员成长指北】阿里禁用-Claude-Code：AI-编程工具的信任危机爆发了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530131&idx=1&sn=88351920a5860dca8eda52b5afb145c7&chksm=f9927042cee5f954bba323c52f603ebd20a4372a31d921f2ae047155057eb59b9ad77a17e4d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f47ce3c2a4eedb7dbf735796c0be59)
 - [【前端早读课】【早说】AX时代来临](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279462&idx=1&sn=0a2a1398c53cc961388ac417a901712f&chksm=bcccb374f00fa27e65f1e9a16fd500cdd22431378db9592df5036bce98d1be7d01aa39c72663&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccb1fd6b2984d83399649cbbcc5715fd)
 - [【前端早读课】【活动】Vue-2026，7月18号，上海见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279462&idx=2&sn=e05cd7e90d9a4876070dc06b4331f725&chksm=bc007f121330d2569faf27fab2552bc78d87ae12a52c605f91e03f71e6804d38c1c8a623e00b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6af36236dba2edee55c7dbfbf5019569)
 - [【Nodejs技术栈】Claude-Fable-5-正式回归-凌晨-Anthropic-官方确认，Fable-5-和-Mythos-5-的相关限制已经解除，Fable-5-正在恢复给全球用户使用。-我把这件事总结为了-3-个看点。-先看-Claude-Code-版本。-官方支持页写得很清楚，想在-Claude-Code-里用-Fable-5，需要升级到-2.1.170-或更高版本。如果你模型](http://mp.weixin.qq.com/s/84CjfEhiwgZtXqwWcmH8zw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8c2028d8e525e9e784ad14b2663b031d)
@@ -593,7 +594,6 @@
 - [【前端早读课】【第3725期】CSS状态与JavaScript事件之间的界限变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279455&idx=1&sn=3f248a7c2fab2657e5438c52003dc910&chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e74b7a2d60a7a0b943cd82b59a66ef5b)
 - [【Node-Weekly】37-CLI-best-practices-for-Node-devs](https://nodeweekly.com/issues/631)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a1aa645625f02302f57c930d1466f11)
 - [【淘系前端团队】AI-Agent-的-Skill-系统设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544717&idx=1&sn=b578abf5a81034670900a3b8eb874296&chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f2cd922efed38934150bad9293f5915)
-- [【程序员成长指北】让DeepSeek-突然提速-80%的-DSpark-究竟是什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530126&idx=1&sn=c16033baf4f0ede59de8e69e78dec2e5&chksm=f992705fcee5f949c21678e9c347d70035af3a04a308c77c4cd3fff224101f2c8a78ae1dc455#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b13500ed1836c5f31f46afe96cbee43b)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-03T08:44:31.316Z</updated>
+    <updated>2026-07-03T20:51:41.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html"/>
+        <updated>2026-07-03T00:00:00.000Z</updated>
+        <published>2026-07-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里禁用 Claude Code：AI 编程工具的信任危机爆发了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530131&amp;idx=1&amp;sn=88351920a5860dca8eda52b5afb145c7&amp;chksm=f9927042cee5f954bba323c52f603ebd20a4372a31d921f2ae047155057eb59b9ad77a17e4d2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530131&amp;idx=1&amp;sn=88351920a5860dca8eda52b5afb145c7&amp;chksm=f9927042cee5f954bba323c52f603ebd20a4372a31d921f2ae047155057eb59b9ad77a17e4d2#rd"/>
         <updated>2026-07-03T00:00:00.000Z</updated>
         <published>2026-07-03T00:00:00.000Z</published>
     </entry>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[Claude Code之父删了IDE！干掉提示词，只写循环]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624577&amp;idx=1&amp;sn=32cc203488092a202ebd971126b0494f&amp;chksm=80224340b755ca5658f65d33ce32e1d6d697e9514b1ce7bdfa1de730b15e7c39ea5e54b832c8#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624577&amp;idx=1&amp;sn=32cc203488092a202ebd971126b0494f&amp;chksm=80224340b755ca5658f65d33ce32e1d6d697e9514b1ce7bdfa1de730b15e7c39ea5e54b832c8#rd"/>
-        <updated>2026-06-22T00:00:00.000Z</updated>
-        <published>2026-06-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3721期】讲透 Codex 操控电脑的三种方式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279345&amp;idx=1&amp;sn=bf1a5e9ca9e3ecb4f764999794741ba9&amp;chksm=bcf99a06e63acfca3a9cd486846d1590e44fe6623ce2818ee23d9408c9564754b89328d85af6&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279345&amp;idx=1&amp;sn=bf1a5e9ca9e3ecb4f764999794741ba9&amp;chksm=bcf99a06e63acfca3a9cd486846d1590e44fe6623ce2818ee23d9408c9564754b89328d85af6&amp;scene=0#rd"/>
         <updated>2026-06-22T00:00:00.000Z</updated>
         <published>2026-06-22T00:00:00.000Z</published>
     </entry>
