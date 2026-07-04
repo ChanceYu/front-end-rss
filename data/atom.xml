@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-03T20:51:41.410Z</updated>
+    <updated>2026-07-04T01:44:57.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html"/>
+        <updated>2026-07-03T00:00:00.000Z</updated>
+        <published>2026-07-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVPR 2026 | 面向视频扩散模型的局部细节偏好优化方法 LocalDPO]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544718&amp;idx=1&amp;sn=be61862eec337a27b1355927152046fe&amp;chksm=8390d256b4e75b40338a13c9ad930e88e039e6684cbf676772b40695716f49c3a9d1ac82fbef#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544718&amp;idx=1&amp;sn=be61862eec337a27b1355927152046fe&amp;chksm=8390d256b4e75b40338a13c9ad930e88e039e6684cbf676772b40695716f49c3a9d1ac82fbef#rd"/>
         <updated>2026-07-03T00:00:00.000Z</updated>
         <published>2026-07-03T00:00:00.000Z</published>
     </entry>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[不是干掉 Node：Nub 想做的是 Node.js Plus]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530070&amp;idx=1&amp;sn=c7282c5d34ad6c0e09601009d61740b9&amp;chksm=f9927087cee5f991be2df990124a3923de0a8c5d52df480083d896081064560d24fb97738bb1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530070&amp;idx=1&amp;sn=c7282c5d34ad6c0e09601009d61740b9&amp;chksm=f9927087cee5f991be2df990124a3923de0a8c5d52df480083d896081064560d24fb97738bb1#rd"/>
-        <updated>2026-06-22T00:00:00.000Z</updated>
-        <published>2026-06-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code之父删了IDE！干掉提示词，只写循环]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624577&amp;idx=1&amp;sn=32cc203488092a202ebd971126b0494f&amp;chksm=80224340b755ca5658f65d33ce32e1d6d697e9514b1ce7bdfa1de730b15e7c39ea5e54b832c8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624577&amp;idx=1&amp;sn=32cc203488092a202ebd971126b0494f&amp;chksm=80224340b755ca5658f65d33ce32e1d6d697e9514b1ce7bdfa1de730b15e7c39ea5e54b832c8#rd"/>
         <updated>2026-06-22T00:00:00.000Z</updated>
         <published>2026-06-22T00:00:00.000Z</published>
     </entry>
