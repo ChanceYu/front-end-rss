@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-04T08:18:58.012Z</updated>
+    <updated>2026-07-05T08:38:01.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[MCP 和 Skills 入门：把 AI 编程工具接进真实工作流]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524099&amp;idx=1&amp;sn=3a969450509e857c44a2c397da9274bb&amp;chksm=e80fd04ddf78595bf3282437a675af5e343e7b83c98e87d4a1365d631d4ed8d91e9b26311dee#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524099&amp;idx=1&amp;sn=3a969450509e857c44a2c397da9274bb&amp;chksm=e80fd04ddf78595bf3282437a675af5e343e7b83c98e87d4a1365d631d4ed8d91e9b26311dee#rd"/>
+        <updated>2026-07-05T00:00:00.000Z</updated>
+        <published>2026-07-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[离谱！张江某科技公司招了个印度组长，四个月 1 人变 8 人，他锁死代码要挟公司涨薪]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624626&amp;idx=1&amp;sn=48b4ab161a6db174bed462ff4cb9ebce&amp;chksm=80224373b755ca654cdeca4332f632c2d775cdd9b3ac817db81b84d41435b6438e2ebf0dc1cd#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624626&amp;idx=1&amp;sn=48b4ab161a6db174bed462ff4cb9ebce&amp;chksm=80224373b755ca654cdeca4332f632c2d775cdd9b3ac817db81b84d41435b6438e2ebf0dc1cd#rd"/>
+        <updated>2026-07-05T00:00:00.000Z</updated>
+        <published>2026-07-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vite+ Beta 发布：一个 `vp`，想接管整条前端工具链]]></title>
         <id>http://mp.weixin.qq.com/s/9wi17a0NaoWCUHebW-aq2g</id>
@@ -191,16 +205,16 @@
         <published>2026-06-28T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd"/>
+        <title type="html"><![CDATA[别怪 Claude Code 总跑偏，是你没把项目规范写清楚]]></title>
+        <id>http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA</id>
+        <link href="http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA"/>
         <updated>2026-06-27T00:00:00.000Z</updated>
         <published>2026-06-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[别怪 Claude Code 总跑偏，是你没把项目规范写清楚]]></title>
-        <id>http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA</id>
-        <link href="http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA"/>
+        <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd"/>
         <updated>2026-06-27T00:00:00.000Z</updated>
         <published>2026-06-27T00:00:00.000Z</published>
     </entry>
@@ -355,20 +369,6 @@
         <title type="html"><![CDATA[前端和 Node.js 开发者，怎么转向 AI Agent 全栈？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523983&amp;idx=1&amp;sn=0054d9dc65b1c7d82fa9fb140ef06d5d&amp;chksm=e80fd1c1df7858d7e31005915efc154c09bf23d943788c2fde297adec10d6597ff4d6f942dba#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523983&amp;idx=1&amp;sn=0054d9dc65b1c7d82fa9fb140ef06d5d&amp;chksm=e80fd1c1df7858d7e31005915efc154c09bf23d943788c2fde297adec10d6597ff4d6f942dba#rd"/>
-        <updated>2026-06-22T00:00:00.000Z</updated>
-        <published>2026-06-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全是好东西！HTML command属性和JS toggle事件]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/"/>
-        <updated>2026-06-22T00:00:00.000Z</updated>
-        <published>2026-06-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[场景营销前端 AI Coding — 从问题到方案]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544388&amp;idx=1&amp;sn=a8a494898588bbce7e5c3c0f523d2a25&amp;chksm=8390d11cb4e7580a858e7bbba64d114bafde06f8a6502c91a804fe9abc37135e00228aab3ab6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544388&amp;idx=1&amp;sn=a8a494898588bbce7e5c3c0f523d2a25&amp;chksm=8390d11cb4e7580a858e7bbba64d114bafde06f8a6502c91a804fe9abc37135e00228aab3ab6#rd"/>
         <updated>2026-06-22T00:00:00.000Z</updated>
         <published>2026-06-22T00:00:00.000Z</published>
     </entry>
