@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-06T06:17:11.520Z</updated>
+    <updated>2026-07-06T11:53:40.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么你的AI代码越来越冗余？答案在这套七层流程里]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517650&amp;idx=1&amp;sn=e593c35670a39028a9aab81be92d9381&amp;chksm=eb07bdabdc7034bdba4f5f96c5af8ec2e0fb317e6ec528d0221a3b25b865475d183f9314690c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517650&amp;idx=1&amp;sn=e593c35670a39028a9aab81be92d9381&amp;chksm=eb07bdabdc7034bdba4f5f96c5af8ec2e0fb317e6ec528d0221a3b25b865475d183f9314690c#rd"/>
+        <updated>2026-07-06T00:00:00.000Z</updated>
+        <published>2026-07-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3726期】现代 CSS 主题方案：light-dark()、contrast-color() 与样式查询的巧妙结合]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279473&amp;idx=1&amp;sn=727b4c723cff8dd764fe9e0bf091c8b9&amp;chksm=bc50143c735e2dba2aa34ad991fb839f94f712d01f27274601a0bc46af25b755ea0f5161d4aa&amp;scene=0#rd</id>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[【第3722期】Navigation API 开启单页应用导航新时代]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279350&amp;idx=1&amp;sn=410b071b02ad346108703451f7e7b5f5&amp;chksm=bc51df8dac9ccb9ffb6a62f86ba78a90e2db347d15e37156cebfdb589af243d6329c2d2e95d5&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279350&amp;idx=1&amp;sn=410b071b02ad346108703451f7e7b5f5&amp;chksm=bc51df8dac9ccb9ffb6a62f86ba78a90e2db347d15e37156cebfdb589af243d6329c2d2e95d5&amp;scene=0#rd"/>
-        <updated>2026-06-23T00:00:00.000Z</updated>
-        <published>2026-06-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babel 8.0, Vite 8.1, and TypeScript 7.0 RC]]></title>
-        <id>https://javascriptweekly.com/issues/791</id>
-        <link href="https://javascriptweekly.com/issues/791"/>
         <updated>2026-06-23T00:00:00.000Z</updated>
         <published>2026-06-23T00:00:00.000Z</published>
     </entry>
