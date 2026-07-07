@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-07T05:56:53.631Z</updated>
+    <updated>2026-07-07T12:19:53.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AI时代网站智能体无障碍访问开发指南]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/"/>
+        <updated>2026-07-07T00:00:00.000Z</updated>
+        <published>2026-07-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弃用 Tailwind CSS！Meta 开源的 StyleX 火了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624638&amp;idx=1&amp;sn=1d64046db3ef129633ca79375855a640&amp;chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd</id>
@@ -364,12 +371,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279362&amp;idx=1&amp;sn=526eb1010472d0edaddbb18364b22ae1&amp;chksm=bc5560124a6ec22b8c4752d47e5957ae2aa0d26d2d2500ffa20a47e3f3463b5866e638e0590b&amp;scene=0#rd"/>
         <updated>2026-06-24T00:00:00.000Z</updated>
         <published>2026-06-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro 7 正式发布：编译器从 Go 重写为 Rust，构建提速 60%]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524010&amp;idx=1&amp;sn=c2bbd9fdda8492e042f0aa8e7ae70820&amp;chksm=e80fd1e4df7858f2e01e76e0f418fd5c1a9aa1378aee900042c6e5a31c6ab07ae618ee1db5f9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524010&amp;idx=1&amp;sn=c2bbd9fdda8492e042f0aa8e7ae70820&amp;chksm=e80fd1e4df7858f2e01e76e0f418fd5c1a9aa1378aee900042c6e5a31c6ab07ae618ee1db5f9#rd"/>
-        <updated>2026-06-23T00:00:00.000Z</updated>
-        <published>2026-06-23T00:00:00.000Z</published>
     </entry>
 </feed>
