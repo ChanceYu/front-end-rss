@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-07 20:20:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-08 00:15:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -25,7 +25,7 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -37,7 +37,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2026-07-07-What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ef212351ac771f876b7afeaea937b3a)  ![](/assets/new.png) 
 - [2026-06-30-Will-npm-v12-reject-your-.npmrc?](https://javascriptweekly.com/issues/792)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e95ec840a83dd1bc01e9c299739fa8e)  
 - [2026-06-23-Babel-8.0,-Vite-8.1,-and-TypeScript-7.0-RC](https://javascriptweekly.com/issues/791)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=60326a61edc22ed80344a2cff92aeaa5)  
 - [2026-06-16-Flow-vs-TypeScript-in-2026](https://javascriptweekly.com/issues/790)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=60257c5d83b4880c9178bd788636c72b)  
@@ -81,7 +82,6 @@
 - [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1917476702340e9caf1105227e054071)  
 - [2026-05-12-Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=efe790c4af335598033df5bf66f2ebf4)  
 - [2026-05-05-Remix-3-drops-React](https://javascriptweekly.com/issues/784)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6877ea408c57aed49f2171fc425fcb3)  
-- [2026-04-28-What’s-actually-new-in-JavaScript-and-what’s-coming-next](https://javascriptweekly.com/issues/783)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4dc710698b7a75b51c1657189076c98)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -324,7 +324,7 @@
 </summary>
 
 
-- [2026-07-07-AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3f1d9c187318a93a1290ccffa2251e19)  ![](/assets/new.png) 
+- [2026-07-07-AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3f1d9c187318a93a1290ccffa2251e19)  
 - [2026-06-29-浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765)  
 - [2026-06-24-CSS-color-scheme属性与light-dark颜色函数](https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e5cae0c6bfcc61bedd304b0d65e9f22)  
 - [2026-06-22-全是好东西！HTML-command属性和JS-toggle事件](https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=304e595d8d687ff5924831116bd48389)  

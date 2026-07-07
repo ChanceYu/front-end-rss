@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-07T12:19:53.484Z</updated>
+    <updated>2026-07-07T16:15:11.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[【第3727期】基于 OpenAI Codex Subagents 的并行开发与团队化管理实战指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279485&amp;idx=1&amp;sn=8718f2fdf8845e6398bbd30f9f8453f9&amp;chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279485&amp;idx=1&amp;sn=8718f2fdf8845e6398bbd30f9f8453f9&amp;chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&amp;scene=0#rd"/>
+        <updated>2026-07-07T00:00:00.000Z</updated>
+        <published>2026-07-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's new in ECMAScript 2026 (and usable today)]]></title>
+        <id>https://javascriptweekly.com/issues/793</id>
+        <link href="https://javascriptweekly.com/issues/793"/>
         <updated>2026-07-07T00:00:00.000Z</updated>
         <published>2026-07-07T00:00:00.000Z</published>
     </entry>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[离谱！小米电视误发地震预警！…有人着急跑路被反锁在门外最终找师傅付费开锁]]></title>
         <id>http://mp.weixin.qq.com/s/7BknwM15sP43VwtOXD_6Kg</id>
         <link href="http://mp.weixin.qq.com/s/7BknwM15sP43VwtOXD_6Kg"/>
-        <updated>2026-06-24T00:00:00.000Z</updated>
-        <published>2026-06-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3723期】用 CSS ::search-text 美化浏览器搜索高亮]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279362&amp;idx=1&amp;sn=526eb1010472d0edaddbb18364b22ae1&amp;chksm=bc5560124a6ec22b8c4752d47e5957ae2aa0d26d2d2500ffa20a47e3f3463b5866e638e0590b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279362&amp;idx=1&amp;sn=526eb1010472d0edaddbb18364b22ae1&amp;chksm=bc5560124a6ec22b8c4752d47e5957ae2aa0d26d2d2500ffa20a47e3f3463b5866e638e0590b&amp;scene=0#rd"/>
         <updated>2026-06-24T00:00:00.000Z</updated>
         <published>2026-06-24T00:00:00.000Z</published>
     </entry>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-07 20:20:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-08 00:15:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-07-What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ef212351ac771f876b7afeaea937b3a) 
 - [2026-07-02-【第3725期】CSS状态与JavaScript事件之间的界限变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279455&idx=1&sn=3f248a7c2fab2657e5438c52003dc910&chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e74b7a2d60a7a0b943cd82b59a66ef5b) 
 - [2026-06-30-【早说】从-JS-框架之争看-AI-Agent-的未来演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=1&sn=31a5430e3ef15fe99dd632d0dc016a2e&chksm=bcb58ecdad7d8befaf5c0944fc85691e4ed09fb333f6c9a053ea9a20fbe8786e21128f35bb1a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=358d56f29cbc3341eb23a34f745c85e4) 
 - [2026-06-29-浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765) 

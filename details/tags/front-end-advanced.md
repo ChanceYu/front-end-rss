@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-07 20:20:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-08 00:15:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-07-What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ef212351ac771f876b7afeaea937b3a) 
 - [2026-07-06-【第3726期】现代-CSS-主题方案：light-dark、contrast-color-与样式查询的巧妙结合](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279473&idx=1&sn=727b4c723cff8dd764fe9e0bf091c8b9&chksm=bc50143c735e2dba2aa34ad991fb839f94f712d01f27274601a0bc46af25b755ea0f5161d4aa&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4ae2cb50ab189ce4b10aff067b5cb12b) 
 - [2026-07-03-Vite+-Beta-发布：一个-`vp`，想接管整条前端工具链](http://mp.weixin.qq.com/s/9wi17a0NaoWCUHebW-aq2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4bf8bc66821fdc3ca1f5f92c495e837) 
 - [2026-07-02-【第3725期】CSS状态与JavaScript事件之间的界限变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279455&idx=1&sn=3f248a7c2fab2657e5438c52003dc910&chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e74b7a2d60a7a0b943cd82b59a66ef5b) 

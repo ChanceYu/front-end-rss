@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-07 20:20:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-08 00:15:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -8,6 +8,7 @@
 - [2026-07-07-AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3f1d9c187318a93a1290ccffa2251e19) 
 - [2026-07-07-弃用-Tailwind-CSS！Meta-开源的-StyleX-火了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624638&idx=1&sn=1d64046db3ef129633ca79375855a640&chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b2e0916f8d559671b609b14903215b58) 
 - [2026-07-07-【第3727期】基于-OpenAI-Codex-Subagents-的并行开发与团队化管理实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279485&idx=1&sn=8718f2fdf8845e6398bbd30f9f8453f9&chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e8cc59e6db8f2ee4172eb3b31ff93d) 
+- [2026-07-07-What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ef212351ac771f876b7afeaea937b3a) 
 - [2026-07-06-为什么你的AI代码越来越冗余？答案在这套七层流程里](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517650&idx=1&sn=e593c35670a39028a9aab81be92d9381&chksm=eb07bdabdc7034bdba4f5f96c5af8ec2e0fb317e6ec528d0221a3b25b865475d183f9314690c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d7d566a8f2564e4427c662cfa7a2dfe) 
 - [2026-07-06-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624645&idx=1&sn=40a146af4a85c171132dc616605f56fc&chksm=80224304b755ca123a8fa8ec9fa4e9f0eb36df1ef97635621abf10beb6153f784f35d6071c72#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b3a319eebaa2801862bddea20b97f5f) 
 - [2026-07-06-【第3726期】现代-CSS-主题方案：light-dark、contrast-color-与样式查询的巧妙结合](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279473&idx=1&sn=727b4c723cff8dd764fe9e0bf091c8b9&chksm=bc50143c735e2dba2aa34ad991fb839f94f712d01f27274601a0bc46af25b755ea0f5161d4aa&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4ae2cb50ab189ce4b10aff067b5cb12b) 
