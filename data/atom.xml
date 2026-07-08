@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-08T11:40:14.253Z</updated>
+    <updated>2026-07-08T17:16:25.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Auth 被 Next.js 收购了？Vercel 把前端登录入口买了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524149&amp;idx=1&amp;sn=d8c81d6f1a55047c6db30a5b17d40855&amp;chksm=e80fd07bdf78596d38e2cbd0a3023391bf3cd4dd7bcf656e6b9eaf777eb576c30d1fcbe4df91#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524149&amp;idx=1&amp;sn=d8c81d6f1a55047c6db30a5b17d40855&amp;chksm=e80fd07bdf78596d38e2cbd0a3023391bf3cd4dd7bcf656e6b9eaf777eb576c30d1fcbe4df91#rd"/>
+        <updated>2026-07-08T00:00:00.000Z</updated>
+        <published>2026-07-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[十年一遇！ HTML 反杀 JavaScript！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624644&amp;idx=1&amp;sn=02002ad2d0c2cd464b1bf0c1706ecd65&amp;chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd</id>
@@ -275,16 +282,16 @@
         <published>2026-06-28T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd"/>
+        <title type="html"><![CDATA[别怪 Claude Code 总跑偏，是你没把项目规范写清楚]]></title>
+        <id>http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA</id>
+        <link href="http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA"/>
         <updated>2026-06-27T00:00:00.000Z</updated>
         <published>2026-06-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[别怪 Claude Code 总跑偏，是你没把项目规范写清楚]]></title>
-        <id>http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA</id>
-        <link href="http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA"/>
+        <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd"/>
         <updated>2026-06-27T00:00:00.000Z</updated>
         <published>2026-06-27T00:00:00.000Z</published>
     </entry>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[【早说】慢即是快：用AI写出更好的代码]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279372&amp;idx=1&amp;sn=3faf01d8de17459ab64d01f563506465&amp;chksm=bceaea0ac63deafdfe05a7b86b77edbf380d340be86936a5c53b792c0579b0a12c49b8c74296&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279372&amp;idx=1&amp;sn=3faf01d8de17459ab64d01f563506465&amp;chksm=bceaea0ac63deafdfe05a7b86b77edbf380d340be86936a5c53b792c0579b0a12c49b8c74296&amp;scene=0#rd"/>
-        <updated>2026-06-25T00:00:00.000Z</updated>
-        <published>2026-06-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 26.4 lands package maps]]></title>
-        <id>https://nodeweekly.com/issues/630</id>
-        <link href="https://nodeweekly.com/issues/630"/>
         <updated>2026-06-25T00:00:00.000Z</updated>
         <published>2026-06-25T00:00:00.000Z</published>
     </entry>
