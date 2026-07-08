@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-08 12:57:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-08 19:41:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-08-十年一遇！-HTML-反杀-JavaScript！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624644&idx=1&sn=02002ad2d0c2cd464b1bf0c1706ecd65&chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bdc44939dd3a0cf28ab1669e64f2ad3) 
 - [2026-07-07-AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3f1d9c187318a93a1290ccffa2251e19) 
 - [2026-07-07-弃用-Tailwind-CSS！Meta-开源的-StyleX-火了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624638&idx=1&sn=1d64046db3ef129633ca79375855a640&chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b2e0916f8d559671b609b14903215b58) 
 - [2026-06-25-PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390) 

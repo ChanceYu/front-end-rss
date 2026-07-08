@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-08 12:57:05。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-08 19:41:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -144,6 +144,7 @@
 
 
 
+- [【前端大全】十年一遇！-HTML-反杀-JavaScript！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624644&idx=1&sn=02002ad2d0c2cd464b1bf0c1706ecd65&chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bdc44939dd3a0cf28ab1669e64f2ad3)
 - [【JavaScript-Weekly】What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ef212351ac771f876b7afeaea937b3a)
 - [【前端早读课】【第3725期】CSS状态与JavaScript事件之间的界限变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279455&idx=1&sn=3f248a7c2fab2657e5438c52003dc910&chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e74b7a2d60a7a0b943cd82b59a66ef5b)
 - [【前端早读课】【早说】从-JS-框架之争看-AI-Agent-的未来演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279433&idx=1&sn=31a5430e3ef15fe99dd632d0dc016a2e&chksm=bcb58ecdad7d8befaf5c0944fc85691e4ed09fb333f6c9a053ea9a20fbe8786e21128f35bb1a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=358d56f29cbc3341eb23a34f745c85e4)
@@ -153,7 +154,6 @@
 - [【Node-Weekly】Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b195d7b7f4d482edbea013eede2d72f)
 - [【Nodejs技术栈】前端和-Node.js-开发者，怎么转向-AI-Agent-全栈？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523983&idx=1&sn=0054d9dc65b1c7d82fa9fb140ef06d5d&chksm=e80fd1c1df7858d7e31005915efc154c09bf23d943788c2fde297adec10d6597ff4d6f942dba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9cafbb4bad102744f34181a5f174086)
 - [【张鑫旭-鑫空间-鑫生活】全是好东西！HTML-command属性和JS-toggle事件](https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=304e595d8d687ff5924831116bd48389)
-- [【程序员成长指北】不是干掉-Node：Nub-想做的是-Node.js-Plus](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530070&idx=1&sn=c7282c5d34ad6c0e09601009d61740b9&chksm=f9927087cee5f991be2df990124a3923de0a8c5d52df480083d896081064560d24fb97738bb1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ed79ef219e9071039baa4d639f2f7d91)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -222,6 +222,7 @@
 
 
 
+- [【前端大全】十年一遇！-HTML-反杀-JavaScript！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624644&idx=1&sn=02002ad2d0c2cd464b1bf0c1706ecd65&chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bdc44939dd3a0cf28ab1669e64f2ad3)
 - [【张鑫旭-鑫空间-鑫生活】AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3f1d9c187318a93a1290ccffa2251e19)
 - [【前端大全】弃用-Tailwind-CSS！Meta-开源的-StyleX-火了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624638&idx=1&sn=1d64046db3ef129633ca79375855a640&chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b2e0916f8d559671b609b14903215b58)
 - [【前端大全】PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)
@@ -231,7 +232,6 @@
 - [【Nodejs技术栈】Markdown-凉了？Claude-Code-工程师亲口说：我已经全面切换到-HTML-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523473&idx=1&sn=4b69b573dc7f277e0ef299e4231f4c9e&chksm=e80fd3dfdf785ac98a1f6b3c4887086e4ee68f4c20679b4a3da75abad2c62d52d9797853d2a2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f4a8cb74bbddf77abb7d48e94da037e2)
 - [【JavaScript-Weekly】Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4316ae089e1bc335cde9c737bfaf24)
 - [【前端早读课】【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278888&idx=1&sn=ac784db94bd203f501429cb0e7e81ecf&chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bbc893e3c14d51549f5e0951fa983649)
-- [【张鑫旭-鑫空间-鑫生活】HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f9bb84eeb91885069a4c7e57a58b7cc)
 - [查看更多 >](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -482,6 +482,7 @@
 
 
 
+- [【前端大全】十年一遇！-HTML-反杀-JavaScript！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624644&idx=1&sn=02002ad2d0c2cd464b1bf0c1706ecd65&chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bdc44939dd3a0cf28ab1669e64f2ad3)
 - [【前端早读课】【第3728期】用-Web-标准优雅实现深色模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=1&sn=6d06b35b04d4ff6ce43076d95aa2049b&chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=477855e1816e291e9a10dfc0e926615f)
 - [【前端早读课】【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)
 - [【JavaScript-Weekly】What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ef212351ac771f876b7afeaea937b3a)
@@ -491,7 +492,6 @@
 - [【淘系前端团队】AI-动画辅助实现（实践篇）：从-AE-到可运行代码的全链路方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544614&idx=1&sn=1341392d63cc99e7d3461fcbadc12d25&chksm=8390d1feb4e758e8f2bd8340b9e8f6a0882bdd6afec8c4c5c9d21e810c1b6e8040158e728e65#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8c7c55577ac9f9a12552a4a5667eebed)
 - [【前端从进阶到入院】TypeScript-7.0采用Go语言重写编译器，类型检查提速10倍](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517645&idx=1&sn=5b24c6b013ddc15caf175cc3f858d040&chksm=eb07bdb4dc7034a2266af3eef3729fff35b5c6b8a5c276bffed2ddab1e36c11033c0eb9949a8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b856e836c44449000db1d041083e4c5e)
 - [【程序员成长指北】SpaceX600亿收购Cursor，AI编程进入“军备竞赛”模式](http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=120b1e8a445609ac70ce6c56ce2473e3)
-- [【Nodejs技术栈】Vite-8.1-发布：大型前端项目的噩梦终于被解决了，启动快了-15-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524027&idx=1&sn=ab7566653846d8c33d534e80ba9e490a&chksm=e80fd1f5df7858e390af4a6a34176b14877e268c6abcae852ecb84e730c1f34394a0d1953e9f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6474eacab98e6277ffa2b5382c3f5fea)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -508,6 +508,7 @@
 
 
 
+- [【前端大全】十年一遇！-HTML-反杀-JavaScript！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624644&idx=1&sn=02002ad2d0c2cd464b1bf0c1706ecd65&chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bdc44939dd3a0cf28ab1669e64f2ad3)
 - [【前端早读课】【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)
 - [【前端大全】离谱！张江某科技公司招了个印度组长，四个月-1-人变-8-人，他锁死代码要挟公司涨薪](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624626&idx=1&sn=48b4ab161a6db174bed462ff4cb9ebce&chksm=80224373b755ca654cdeca4332f632c2d775cdd9b3ac817db81b84d41435b6438e2ebf0dc1cd#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b5f26e8fb1b2535c4ef33c29b86060e)
 - [【前端大全】不会写代码的高管用Claude-Code两天上线新程序，工程师接手后发现：一个Bug，让AI一天烧掉一个月服务器费！](http://mp.weixin.qq.com/s/XM7PQoLQzulCq1Pb9ALm-w)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ba4cf260625861807d0d546098da4360)
@@ -517,7 +518,6 @@
 - [【Nodejs技术栈】Astro-7-正式发布：编译器从-Go-重写为-Rust，构建提速-60%](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524010&idx=1&sn=c2bbd9fdda8492e042f0aa8e7ae70820&chksm=e80fd1e4df7858f2e01e76e0f418fd5c1a9aa1378aee900042c6e5a31c6ab07ae618ee1db5f9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7f6968b665eda05d82b1c1aad04238e9)
 - [【前端从进阶到入院】Astro-7.0-版本新功能速览！全面拥抱-Rust，构建速度提升-15-61%](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517643&idx=1&sn=4e5a8127af79d8f1d1b0ac46cd098f8f&chksm=eb07bdb2dc7034a49c59983b6af4c551621f2551e0f88f8a0a41ddeea956dd6ba079a45ce472#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b543fc4505e1ee7ad1a467270d60a4c4)
 - [【前端早读课】【第3722期】Navigation-API-开启单页应用导航新时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279350&idx=1&sn=410b071b02ad346108703451f7e7b5f5&chksm=bc51df8dac9ccb9ffb6a62f86ba78a90e2db347d15e37156cebfdb589af243d6329c2d2e95d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f23e89c74e548099e30fea0e6ecb81ce)
-- [【Nodejs技术栈】不用-Electron-也不用-Tauri，Deno-把桌面应用塞进了一行命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523918&idx=1&sn=72b585fbdb8af5cf794280cf678c380f&chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c008125682703c34a254b3f0b05031b1)
 - [查看更多 >](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,16 +584,16 @@
 
 
 
+- [【前端大全】十年一遇！-HTML-反杀-JavaScript！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624644&idx=1&sn=02002ad2d0c2cd464b1bf0c1706ecd65&chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bdc44939dd3a0cf28ab1669e64f2ad3)
 - [【前端早读课】【第3728期】用-Web-标准优雅实现深色模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=1&sn=6d06b35b04d4ff6ce43076d95aa2049b&chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=477855e1816e291e9a10dfc0e926615f)
 - [【前端早读课】【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)
 - [【Nodejs技术栈】npm-一个隐藏限制，让-Drizzle-断更一个月](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524141&idx=1&sn=b89280df730afb7877526135bc9f98e1&chksm=e80fd063df78597557291fb0e4f1e0c709236f1f463137fe86389ae5176d5025eba94904f8c8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5df14d367cffa9b7fdf8769994748998)
 - [【张鑫旭-鑫空间-鑫生活】AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3f1d9c187318a93a1290ccffa2251e19)
+- [【前端从进阶到入院】永别了，豆包！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517656&idx=1&sn=2b8a2030db68f6fd672b3c19b2b65a0f&chksm=eb07bda1dc7034b788f1b9f7b76bd62627854468eae614151540c54c56c26fe2ee129c0f011a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=88fbf84f1251c8c755fe3e942f59d4ef)
 - [【程序员成长指北】为什么越来越多人开始研究-Harness](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530137&idx=1&sn=f8553e8b275ed8941cb456dd2d024b4c&chksm=f9927048cee5f95e02a25bc50412c5144fa642c22ca790454fe07e1e6dc7eb4bb4f835ace106#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a28323b6ea9cbe7ad0aaad55b231d530)
 - [【前端大全】弃用-Tailwind-CSS！Meta-开源的-StyleX-火了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624638&idx=1&sn=1d64046db3ef129633ca79375855a640&chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b2e0916f8d559671b609b14903215b58)
 - [【前端早读课】【第3727期】基于-OpenAI-Codex-Subagents-的并行开发与团队化管理实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279485&idx=1&sn=8718f2fdf8845e6398bbd30f9f8453f9&chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e8cc59e6db8f2ee4172eb3b31ff93d)
 - [【JavaScript-Weekly】What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ef212351ac771f876b7afeaea937b3a)
-- [【Nodejs技术栈】Skills-Hub-大升级：现在能自动更新了，关掉应用也能跑](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524123&idx=1&sn=fb85d2c09a852b9cd8da23235acdcc6f&chksm=e80fd055df7859432a3615ec9b86d14c800c8517bcd36ef240c28a7646377e35548638bf7816#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=257f88fb60bdbbb20e527ef72ffaaf6e)
-- [【前端从进阶到入院】为什么你的AI代码越来越冗余？答案在这套七层流程里](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517650&idx=1&sn=e593c35670a39028a9aab81be92d9381&chksm=eb07bdabdc7034bdba4f5f96c5af8ec2e0fb317e6ec528d0221a3b25b865475d183f9314690c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d7d566a8f2564e4427c662cfa7a2dfe)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

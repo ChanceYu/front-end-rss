@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-08 12:57:05，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-08 19:41:06，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -26,15 +26,15 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2026-07-08-【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)  ![](/assets/new.png) 
-- [2026-07-08-【第3728期】用-Web-标准优雅实现深色模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=1&sn=6d06b35b04d4ff6ce43076d95aa2049b&chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=477855e1816e291e9a10dfc0e926615f)  ![](/assets/new.png) 
+- [2026-07-08-【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)  
+- [2026-07-08-【第3728期】用-Web-标准优雅实现深色模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=1&sn=6d06b35b04d4ff6ce43076d95aa2049b&chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=477855e1816e291e9a10dfc0e926615f)  
 - [2026-07-07-【第3727期】基于-OpenAI-Codex-Subagents-的并行开发与团队化管理实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279485&idx=1&sn=8718f2fdf8845e6398bbd30f9f8453f9&chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e8cc59e6db8f2ee4172eb3b31ff93d)  
 - [2026-07-06-【第3726期】现代-CSS-主题方案：light-dark、contrast-color-与样式查询的巧妙结合](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279473&idx=1&sn=727b4c723cff8dd764fe9e0bf091c8b9&chksm=bc50143c735e2dba2aa34ad991fb839f94f712d01f27274601a0bc46af25b755ea0f5161d4aa&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4ae2cb50ab189ce4b10aff067b5cb12b)  
 - [2026-07-03-【早说】AX时代来临](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279462&idx=1&sn=0a2a1398c53cc961388ac417a901712f&chksm=bcccb374f00fa27e65f1e9a16fd500cdd22431378db9592df5036bce98d1be7d01aa39c72663&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccb1fd6b2984d83399649cbbcc5715fd)  
@@ -114,6 +114,7 @@
 </summary>
 
 
+- [2026-07-08-十年一遇！-HTML-反杀-JavaScript！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624644&idx=1&sn=02002ad2d0c2cd464b1bf0c1706ecd65&chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bdc44939dd3a0cf28ab1669e64f2ad3)  ![](/assets/new.png) 
 - [2026-07-07-弃用-Tailwind-CSS！Meta-开源的-StyleX-火了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624638&idx=1&sn=1d64046db3ef129633ca79375855a640&chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b2e0916f8d559671b609b14903215b58)  
 - [2026-07-06-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624645&idx=1&sn=40a146af4a85c171132dc616605f56fc&chksm=80224304b755ca123a8fa8ec9fa4e9f0eb36df1ef97635621abf10beb6153f784f35d6071c72#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b3a319eebaa2801862bddea20b97f5f)  
 - [2026-07-05-离谱！张江某科技公司招了个印度组长，四个月-1-人变-8-人，他锁死代码要挟公司涨薪](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624626&idx=1&sn=48b4ab161a6db174bed462ff4cb9ebce&chksm=80224373b755ca654cdeca4332f632c2d775cdd9b3ac817db81b84d41435b6438e2ebf0dc1cd#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b5f26e8fb1b2535c4ef33c29b86060e)  
@@ -123,7 +124,6 @@
 - [2026-06-25-PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)  
 - [2026-06-24-离谱！小米电视误发地震预警！…有人着急跑路被反锁在门外最终找师傅付费开锁](http://mp.weixin.qq.com/s/7BknwM15sP43VwtOXD_6Kg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aed4ba58f0b6f929aae935b72f6b1eb6)  
 - [2026-06-22-Claude-Code之父删了IDE！干掉提示词，只写循环](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624577&idx=1&sn=32cc203488092a202ebd971126b0494f&chksm=80224340b755ca5658f65d33ce32e1d6d697e9514b1ce7bdfa1de730b15e7c39ea5e54b832c8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=881c126291ad5eb6d5f202ea08ea28ca)  
-- [2026-06-15-突发！用Claude要实名制了，Anthropic新政策下个月生效](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624560&idx=1&sn=0ac4219ed3c3b8deb7c230876fee891a&chksm=802243b1b755caa761ccf434357a2682a9dd1738e34e436d5645123c17a10c7f1e72288b2659#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=99279d9f12781c97e23922f2d89c44e1)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -261,6 +261,7 @@
 </summary>
 
 
+- [2026-07-07-永别了，豆包！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517656&idx=1&sn=2b8a2030db68f6fd672b3c19b2b65a0f&chksm=eb07bda1dc7034b788f1b9f7b76bd62627854468eae614151540c54c56c26fe2ee129c0f011a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=88fbf84f1251c8c755fe3e942f59d4ef)  ![](/assets/new.png) 
 - [2026-07-06-为什么你的AI代码越来越冗余？答案在这套七层流程里](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517650&idx=1&sn=e593c35670a39028a9aab81be92d9381&chksm=eb07bdabdc7034bdba4f5f96c5af8ec2e0fb317e6ec528d0221a3b25b865475d183f9314690c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d7d566a8f2564e4427c662cfa7a2dfe)  
 - [2026-06-26-TypeScript-7.0采用Go语言重写编译器，类型检查提速10倍](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517645&idx=1&sn=5b24c6b013ddc15caf175cc3f858d040&chksm=eb07bdb4dc7034a2266af3eef3729fff35b5c6b8a5c276bffed2ddab1e36c11033c0eb9949a8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b856e836c44449000db1d041083e4c5e)  
 - [2026-06-23-Astro-7.0-版本新功能速览！全面拥抱-Rust，构建速度提升-15-61%](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517643&idx=1&sn=4e5a8127af79d8f1d1b0ac46cd098f8f&chksm=eb07bdb2dc7034a49c59983b6af4c551621f2551e0f88f8a0a41ddeea956dd6ba079a45ce472#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b543fc4505e1ee7ad1a467270d60a4c4)  
@@ -270,7 +271,6 @@
 - [2026-06-05-学完拿不到Offer或年薪低于30W全额退款，AI就业保薪特训班来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517631&idx=1&sn=7110283e96d7a9aa5cc40224f21a8a7f&chksm=eb07bdc6dc7034d0b941099aacf1f44799eb91e88f3a3a8ced834e28f6256bbe6b1747a5bdb3#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f8b6c0e7e973f2ea65b3a71dfa51bf50)  
 - [2026-05-26-曾经的王，Vue3倒下了！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517626&idx=1&sn=e2d837c20e68f19801716a4e6b5e1f4d&chksm=eb07bdc3dc7034d5d62aa1413c8d296295989405a040fa08f6b22f4526d37fce624a8c35337a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2e1f42d436a8c82be5c261f997f4e08d)  
 - [2026-05-25-2026-年值得关注的前端开发趋势](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517602&idx=1&sn=e88f9ba737531a9afc23f5384179b499&chksm=eb07bddbdc7034cdb7490e218e2a37f3be0285e349ef6a6adaf0067c7045d08124fdfc7c326b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=28f62cf8f84c91c65b64d2e93f6aa739)  
-- [2026-05-22-2026，这些-JavaScript-API-已经废弃！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517600&idx=1&sn=e2da84f8bfc22261ed4844d32edcd97f&chksm=eb07bdd9dc7034cf3d331eac9cd32d8264b32d3cc94a83bde052d227ae42eb12988c8a4249a9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0fab06760112f190bf516498e5ffdeae)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

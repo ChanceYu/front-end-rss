@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-08T04:56:35.460Z</updated>
+    <updated>2026-07-08T11:40:14.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[十年一遇！ HTML 反杀 JavaScript！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624644&amp;idx=1&amp;sn=02002ad2d0c2cd464b1bf0c1706ecd65&amp;chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624644&amp;idx=1&amp;sn=02002ad2d0c2cd464b1bf0c1706ecd65&amp;chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd"/>
+        <updated>2026-07-08T00:00:00.000Z</updated>
+        <published>2026-07-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3728期】用 Web 标准优雅实现深色模式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279501&amp;idx=1&amp;sn=6d06b35b04d4ff6ce43076d95aa2049b&amp;chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&amp;scene=0#rd</id>
@@ -364,12 +371,5 @@
         <link href="https://nodeweekly.com/issues/630"/>
         <updated>2026-06-25T00:00:00.000Z</updated>
         <published>2026-06-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite 8.1 发布：大型前端项目的噩梦终于被解决了，启动快了 15 倍]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524027&amp;idx=1&amp;sn=ab7566653846d8c33d534e80ba9e490a&amp;chksm=e80fd1f5df7858e390af4a6a34176b14877e268c6abcae852ecb84e730c1f34394a0d1953e9f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524027&amp;idx=1&amp;sn=ab7566653846d8c33d534e80ba9e490a&amp;chksm=e80fd1f5df7858e390af4a6a34176b14877e268c6abcae852ecb84e730c1f34394a0d1953e9f#rd"/>
-        <updated>2026-06-24T00:00:00.000Z</updated>
-        <published>2026-06-24T00:00:00.000Z</published>
     </entry>
 </feed>
