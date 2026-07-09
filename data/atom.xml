@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-09T05:53:05.590Z</updated>
+    <updated>2026-07-09T16:21:09.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,23 @@
         <published>2026-07-09T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[我把 Codex 提效命令重新捋了一遍，这篇够全了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530142&amp;idx=1&amp;sn=fcc8de40fa6177ac0a7d911bb7a3a78f&amp;chksm=f992704fcee5f959dc2f0fd935581a33c9e2fc86681cbeca7b9ffde62d35f4e29b0a9a947c28#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530142&amp;idx=1&amp;sn=fcc8de40fa6177ac0a7d911bb7a3a78f&amp;chksm=f992704fcee5f959dc2f0fd935581a33c9e2fc86681cbeca7b9ffde62d35f4e29b0a9a947c28#rd"/>
+        <updated>2026-07-09T00:00:00.000Z</updated>
+        <published>2026-07-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公 SDK：dream-num/univer]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279513&amp;idx=2&amp;sn=e37229ae1fb878046301eb61facf99e9&amp;chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279513&amp;idx=2&amp;sn=e37229ae1fb878046301eb61facf99e9&amp;chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&amp;scene=0#rd"/>
+        <updated>2026-07-09T00:00:00.000Z</updated>
+        <published>2026-07-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm v12 and TypeScript 7 released]]></title>
+        <id>https://nodeweekly.com/issues/632</id>
+        <link href="https://nodeweekly.com/issues/632"/>
         <updated>2026-07-09T00:00:00.000Z</updated>
         <published>2026-07-09T00:00:00.000Z</published>
     </entry>
@@ -357,19 +371,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279391&amp;idx=2&amp;sn=b79e2aefa53d8bb08a3c2a98adf79266&amp;chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&amp;scene=0#rd"/>
         <updated>2026-06-26T00:00:00.000Z</updated>
         <published>2026-06-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3724期】MCP响应Token膨胀：从度量、精简到代理裁剪的完整治理方案]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279391&amp;idx=1&amp;sn=c5972211ae62772c403d467ae22545cd&amp;chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279391&amp;idx=1&amp;sn=c5972211ae62772c403d467ae22545cd&amp;chksm=bcd9a58a29e7a3c9df69240cdacbb1eee6b338c16825a16cee802737729b24faf27c17e0a21a&amp;scene=0#rd"/>
-        <updated>2026-06-26T00:00:00.000Z</updated>
-        <published>2026-06-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实测完腾讯 Marvis，我在它身上看到了 Claude Code 那套 Agent，有点上头]]></title>
-        <id>http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g</id>
-        <link href="http://mp.weixin.qq.com/s/apAGe4hH3_gDDlHzqYPT7g"/>
-        <updated>2026-06-25T00:00:00.000Z</updated>
-        <published>2026-06-25T00:00:00.000Z</published>
     </entry>
 </feed>
