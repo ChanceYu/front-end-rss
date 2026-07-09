@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-09 01:16:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-09 13:54:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-09-前端快讯：setHTML和Element.startViewTransition已支持](https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=49e79b62ce767ffc5f832f91ab585570) 
 - [2026-06-29-浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765) 
 - [2026-06-29-【开源】flyfish-dev/file-viewer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279399&idx=2&sn=c1ac3368ebab0db6208ca82e0831c109&chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2226bf48c938dfa061070d98fac54636) 
 - [2026-06-24-【第3723期】用-CSS-::search-text-美化浏览器搜索高亮](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279362&idx=1&sn=526eb1010472d0edaddbb18364b22ae1&chksm=bc5560124a6ec22b8c4752d47e5957ae2aa0d26d2d2500ffa20a47e3f3463b5866e638e0590b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=228ef1b65d0b375c7ab1f25947b1d657) 
@@ -389,8 +390,8 @@
 - [2020-07-29-17款最好用的跨浏览器测试工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247498448&idx=1&sn=a805f2fb2d9f2e34d987b1d7a20f80ce&chksm=f9524f93ce25c685112ceeddee4a3bb2d63b0bc761a664366b8aab6f9b2f4bcac5558f2d1cfc&scene=27#wechat_redirect) 
 - [2020-07-24-InAppWebView：Flutter中WebView的真正力量](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247498274&idx=2&sn=0786e8c1295569d8b534dd81164aaaa0&chksm=f9524f61ce25c677b87a4648446bf7f1c160275ff456f055833a045c3d5a83098c7cf046d59a&scene=27#wechat_redirect) 
 - [2020-07-21-Chrome-84-正式发布，支持私有方法、用户空闲检测！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651560752&idx=1&sn=aa8d0ac120e4d677c9611cd9fa62016b&chksm=80254cf1b752c5e715bb9828caf070ccb4b4158fb78e007d49e560321b1897fff6678c6bad7a&scene=27#wechat_redirect) 
-- [2020-07-21-【招聘】腾讯IEG互动娱乐招Web前端开发-/UI开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238215&idx=2&sn=ef816a9e2a43a554fbc57646b34b8118&chksm=bd4976c38a3effd5f75ff6b63985d7e58565218456b749333a7e873df07f8b9eddb332c75eec&scene=27#wechat_redirect) 
 - [2020-07-21-【第2009期】实现-Bilibili-视频播放Chrome-媒体控制效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238215&idx=1&sn=8737856499f6f65f389a119d595727e5&chksm=bd4976c38a3effd5ec9e58be8e0ebcc8a635e6ffbb5b2724e6235c2b217b701f4b81b67be65d&scene=27#wechat_redirect) 
+- [2020-07-21-【招聘】腾讯IEG互动娱乐招Web前端开发-/UI开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238215&idx=2&sn=ef816a9e2a43a554fbc57646b34b8118&chksm=bd4976c38a3effd5f75ff6b63985d7e58565218456b749333a7e873df07f8b9eddb332c75eec&scene=27#wechat_redirect) 
 - [2020-07-15-【第2003期】在浏览器中存储数据---IndexedDB](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238062&idx=1&sn=ac4ca78f1e777db30729b4c77e3d75af&chksm=bd49772a8a3efe3cb6f0cb660f08d387db627b7cba11d921ef0b74e2ef9e84bd91351f4a0dd8&scene=27#wechat_redirect) 
 - [2020-07-13-BUG:-Safari10-Cannot-declare-a-let-variable-twice:-'e'.](https://hughfenghen.github.io/posts/2020/07/13/bug1-safari10/) 
 - [2020-07-10-在Flutter中从头重建DevTools](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247497797&idx=1&sn=f64c97b7ee0c53d11ad3621b6b600057&chksm=f9524d06ce25c410f087d97e3e3a2c5d50a2ea8002395d81117f133d15f3333334f666aaa2de&scene=27#wechat_redirect) 
