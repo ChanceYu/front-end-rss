@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-10T05:50:30.196Z</updated>
+    <updated>2026-07-10T16:13:00.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,37 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
+        <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
+        <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
+        <updated>2026-07-10T00:00:00.000Z</updated>
+        <published>2026-07-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun 这次太狠了：64 个 Claude 连跑 11 天，把 53 万行代码重写成 Rust]]></title>
+        <id>http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw</id>
+        <link href="http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw"/>
+        <updated>2026-07-10T00:00:00.000Z</updated>
+        <published>2026-07-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 7 正式发布！Vue 暂被 "拒之门外" ！！！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517666&amp;idx=1&amp;sn=15fcb2090802521b2ce3a2035cad8378&amp;chksm=eb07bd9bdc70348dc6e3f30784276a0119072cf8e6160c825d10106ad933a352cef511581d74#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517666&amp;idx=1&amp;sn=15fcb2090802521b2ce3a2035cad8378&amp;chksm=eb07bd9bdc70348dc6e3f30784276a0119072cf8e6160c825d10106ad933a352cef511581d74#rd"/>
+        <updated>2026-07-10T00:00:00.000Z</updated>
+        <published>2026-07-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前端快讯：setHTML()和Element.startViewTransition已支持]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/"/>
+        <updated>2026-07-09T00:00:00.000Z</updated>
+        <published>2026-07-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517664&amp;idx=1&amp;sn=91cd34e765ee4bd7ca919c0756493755&amp;chksm=eb07bd99dc70348f293f86b906813017f02741396fe03d9111f6acb396fae90e19b614eaca86#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517664&amp;idx=1&amp;sn=91cd34e765ee4bd7ca919c0756493755&amp;chksm=eb07bd99dc70348f293f86b906813017f02741396fe03d9111f6acb396fae90e19b614eaca86#rd"/>
         <updated>2026-07-09T00:00:00.000Z</updated>
         <published>2026-07-09T00:00:00.000Z</published>
     </entry>
@@ -317,16 +345,16 @@
         <published>2026-06-28T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[别怪 Claude Code 总跑偏，是你没把项目规范写清楚]]></title>
-        <id>http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA</id>
-        <link href="http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA"/>
+        <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd"/>
         <updated>2026-06-27T00:00:00.000Z</updated>
         <published>2026-06-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd"/>
+        <title type="html"><![CDATA[别怪 Claude Code 总跑偏，是你没把项目规范写清楚]]></title>
+        <id>http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA</id>
+        <link href="http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA"/>
         <updated>2026-06-27T00:00:00.000Z</updated>
         <published>2026-06-27T00:00:00.000Z</published>
     </entry>
@@ -341,34 +369,6 @@
         <title type="html"><![CDATA[Bun 将原生集成 React Compiler，速度直接干到 Babel 的 20 倍]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524041&amp;idx=1&amp;sn=9d65a4f4e1bf6251c11a068948640a76&amp;chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524041&amp;idx=1&amp;sn=9d65a4f4e1bf6251c11a068948640a76&amp;chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd"/>
-        <updated>2026-06-26T00:00:00.000Z</updated>
-        <published>2026-06-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QoderWork Skills 开发实践：从传统数科到 AI 数科的转型探索-我的Skills进阶之旅]]></title>
-        <id>http://mp.weixin.qq.com/s/DN2_sqc9aKuA7IU-VYJpDw</id>
-        <link href="http://mp.weixin.qq.com/s/DN2_sqc9aKuA7IU-VYJpDw"/>
-        <updated>2026-06-26T00:00:00.000Z</updated>
-        <published>2026-06-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 7.0采用Go语言重写编译器，类型检查提速10倍]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517645&amp;idx=1&amp;sn=5b24c6b013ddc15caf175cc3f858d040&amp;chksm=eb07bdb4dc7034a2266af3eef3729fff35b5c6b8a5c276bffed2ddab1e36c11033c0eb9949a8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517645&amp;idx=1&amp;sn=5b24c6b013ddc15caf175cc3f858d040&amp;chksm=eb07bdb4dc7034a2266af3eef3729fff35b5c6b8a5c276bffed2ddab1e36c11033c0eb9949a8#rd"/>
-        <updated>2026-06-26T00:00:00.000Z</updated>
-        <published>2026-06-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX600亿收购Cursor，AI编程进入“军备竞赛”模式]]></title>
-        <id>http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw</id>
-        <link href="http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw"/>
-        <updated>2026-06-26T00:00:00.000Z</updated>
-        <published>2026-06-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【开源】alibaba/page-agent]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279391&amp;idx=2&amp;sn=b79e2aefa53d8bb08a3c2a98adf79266&amp;chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279391&amp;idx=2&amp;sn=b79e2aefa53d8bb08a3c2a98adf79266&amp;chksm=bcff22f35a9fe4b1b31e8d7f45acdef0d0309786d04f055ecf67ad7421bc17da19242d1eab71&amp;scene=0#rd"/>
         <updated>2026-06-26T00:00:00.000Z</updated>
         <published>2026-06-26T00:00:00.000Z</published>
     </entry>
