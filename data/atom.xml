@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-10T16:13:00.324Z</updated>
+    <updated>2026-07-11T10:52:01.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
-        <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
-        <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
-        <updated>2026-07-10T00:00:00.000Z</updated>
-        <published>2026-07-10T00:00:00.000Z</published>
+        <title type="html"><![CDATA[杠上了！Bun 重写成 Rust 后，Zig 创始人开炮：LLM 之前就在写垃圾代码了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524188&amp;idx=1&amp;sn=41cd045b0531dd23ab850bfb2c2ac212&amp;chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524188&amp;idx=1&amp;sn=41cd045b0531dd23ab850bfb2c2ac212&amp;chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd"/>
+        <updated>2026-07-11T00:00:00.000Z</updated>
+        <published>2026-07-11T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bun 这次太狠了：64 个 Claude 连跑 11 天，把 53 万行代码重写成 Rust]]></title>
         <id>http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw</id>
         <link href="http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw"/>
+        <updated>2026-07-10T00:00:00.000Z</updated>
+        <published>2026-07-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
+        <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
+        <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>
@@ -345,16 +352,16 @@
         <published>2026-06-28T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd"/>
+        <title type="html"><![CDATA[别怪 Claude Code 总跑偏，是你没把项目规范写清楚]]></title>
+        <id>http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA</id>
+        <link href="http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA"/>
         <updated>2026-06-27T00:00:00.000Z</updated>
         <published>2026-06-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[别怪 Claude Code 总跑偏，是你没把项目规范写清楚]]></title>
-        <id>http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA</id>
-        <link href="http://mp.weixin.qq.com/s/2R-zFMvMTkNhroybloIagA"/>
+        <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd"/>
         <updated>2026-06-27T00:00:00.000Z</updated>
         <published>2026-06-27T00:00:00.000Z</published>
     </entry>
@@ -364,12 +371,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530114&amp;idx=1&amp;sn=7faf4bbeff984a5bb7780f3c0f956f59&amp;chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd"/>
         <updated>2026-06-27T00:00:00.000Z</updated>
         <published>2026-06-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun 将原生集成 React Compiler，速度直接干到 Babel 的 20 倍]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524041&amp;idx=1&amp;sn=9d65a4f4e1bf6251c11a068948640a76&amp;chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524041&amp;idx=1&amp;sn=9d65a4f4e1bf6251c11a068948640a76&amp;chksm=e80fd187df785891c23655ae0854e82f08b424c2bead001130f36222684a28b3eecbdce262d3#rd"/>
-        <updated>2026-06-26T00:00:00.000Z</updated>
-        <published>2026-06-26T00:00:00.000Z</published>
     </entry>
 </feed>
