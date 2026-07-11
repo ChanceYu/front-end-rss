@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-11T10:52:01.302Z</updated>
+    <updated>2026-07-11T16:40:04.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
         <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
         <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
+        <updated>2026-07-10T00:00:00.000Z</updated>
+        <published>2026-07-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVPR 2026 | 重思基于扩散模型的视频超分辨率：利用对齐特征的稠密引导 DGAF-VSR]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544787&amp;idx=1&amp;sn=1a22e2fc4328c7ee3a432c996ef50f3c&amp;chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544787&amp;idx=1&amp;sn=1a22e2fc4328c7ee3a432c996ef50f3c&amp;chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[刚刚，GPT-5.6 性能封神：超越 Claude Fable 5，但你现在用不上]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524049&amp;idx=1&amp;sn=90e4724aaa59468bd381d58e9c314a3e&amp;chksm=e80fd19fdf785889aed3ec9282a4669b32d718104dfc7d595d5cdb4a3fdbc95c25c4fbbc0092#rd"/>
-        <updated>2026-06-27T00:00:00.000Z</updated>
-        <published>2026-06-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Codex 官方白皮书，最值得抄的 10 个工作流技巧]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530114&amp;idx=1&amp;sn=7faf4bbeff984a5bb7780f3c0f956f59&amp;chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530114&amp;idx=1&amp;sn=7faf4bbeff984a5bb7780f3c0f956f59&amp;chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd"/>
         <updated>2026-06-27T00:00:00.000Z</updated>
         <published>2026-06-27T00:00:00.000Z</published>
     </entry>
