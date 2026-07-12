@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-12 00:40:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-13 04:33:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,12 +36,12 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-07-10-CVPR-2026-|-重思基于扩散模型的视频超分辨率：利用对齐特征的稠密引导-DGAF-VSR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544787&idx=1&sn=1a22e2fc4328c7ee3a432c996ef50f3c&chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fb3bfdebe28c2d3a2f12d87cd4297ea2)  ![](/assets/new.png) 
+- [2026-07-10-CVPR-2026-|-重思基于扩散模型的视频超分辨率：利用对齐特征的稠密引导-DGAF-VSR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544787&idx=1&sn=1a22e2fc4328c7ee3a432c996ef50f3c&chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fb3bfdebe28c2d3a2f12d87cd4297ea2)  
 - [2026-07-08-ICLR-2026-|-基于视觉自回归模型的前馈式主体驱动图像生成算法-EchoGen](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544719&idx=1&sn=42fb0cb0fe7c292ac867355c9bb61062&chksm=8390d257b4e75b41e6da73b5c08a8aefa00922fb9b338202820010523ba6c9527e141d52d759#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=34cadb7d8ad9fda8332d83857269ee03)  
 - [2026-07-03-CVPR-2026-|-面向视频扩散模型的局部细节偏好优化方法-LocalDPO](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544718&idx=1&sn=be61862eec337a27b1355927152046fe&chksm=8390d256b4e75b40338a13c9ad930e88e039e6684cbf676772b40695716f49c3a9d1ac82fbef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da613514b8b706334e9485770c73f66e)  
 - [2026-07-01-AI-Agent-的-Skill-系统设计](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544717&idx=1&sn=b578abf5a81034670900a3b8eb874296&chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f2cd922efed38934150bad9293f5915)  
@@ -408,16 +408,16 @@
 </summary>
 
 
+- [2026-07-12-tsgo-终于转正！Go-重写的-TypeScript-7-正式发布，速度提升-10-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524204&idx=1&sn=a27eef12d7fc86985d4cc3e23c2ed7a5&chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d20456070861dc9918260d99c84406f)  ![](/assets/new.png) 
 - [2026-07-11-杠上了！Bun-重写成-Rust-后，Zig-创始人开炮：LLM-之前就在写垃圾代码了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524188&idx=1&sn=41cd045b0531dd23ab850bfb2c2ac212&chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cee10028678146e386e34023966403cc)  
-- [2026-07-10-GPT-5.6-全面开放，Codex-被并入-ChatGPT，OpenAI-开始抢工作台](http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=22c241f805567e84ef339efa126b1a97)  
 - [2026-07-10-Bun-这次太狠了：64-个-Claude-连跑-11-天，把-53-万行代码重写成-Rust](http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c4c30c7d5f968903c72616da96bfa796)  
+- [2026-07-10-GPT-5.6-全面开放，Codex-被并入-ChatGPT，OpenAI-开始抢工作台](http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=22c241f805567e84ef339efa126b1a97)  
 - [2026-07-09-腾讯这次真狠，一句话就能做-App](http://mp.weixin.qq.com/s/-m1uihgiCjJbnk8HTFPxig)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7d41f3f3fc10752a5acc9e367b65ba64)  
 - [2026-07-08-Auth-被-Next.js-收购了？Vercel-把前端登录入口买了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524149&idx=1&sn=d8c81d6f1a55047c6db30a5b17d40855&chksm=e80fd07bdf78596d38e2cbd0a3023391bf3cd4dd7bcf656e6b9eaf777eb576c30d1fcbe4df91#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=81660516fb15536192d672741332dc7e)  
 - [2026-07-07-npm-一个隐藏限制，让-Drizzle-断更一个月](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524141&idx=1&sn=b89280df730afb7877526135bc9f98e1&chksm=e80fd063df78597557291fb0e4f1e0c709236f1f463137fe86389ae5176d5025eba94904f8c8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5df14d367cffa9b7fdf8769994748998)  
 - [2026-07-06-Skills-Hub-大升级：现在能自动更新了，关掉应用也能跑](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524123&idx=1&sn=fb85d2c09a852b9cd8da23235acdcc6f&chksm=e80fd055df7859432a3615ec9b86d14c800c8517bcd36ef240c28a7646377e35548638bf7816#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=257f88fb60bdbbb20e527ef72ffaaf6e)  
 - [2026-07-05-MCP-和-Skills-入门：把-AI-编程工具接进真实工作流](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524099&idx=1&sn=3a969450509e857c44a2c397da9274bb&chksm=e80fd04ddf78595bf3282437a675af5e343e7b83c98e87d4a1365d631d4ed8d91e9b26311dee#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b457acef866e6916bbe7377b3e07eac6)  
 - [2026-07-03-Vite+-Beta-发布：一个-`vp`，想接管整条前端工具链](http://mp.weixin.qq.com/s/9wi17a0NaoWCUHebW-aq2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4bf8bc66821fdc3ca1f5f92c495e837)  
-- [2026-07-02-Claude-Fable-5-正式回归-凌晨-Anthropic-官方确认，Fable-5-和-Mythos-5-的相关限制已经解除，Fable-5-正在恢复给全球用户使用。-我把这件事总结为了-3-个看点。-先看-Claude-Code-版本。-官方支持页写得很清楚，想在-Claude-Code-里用-Fable-5，需要升级到-2.1.170-或更高版本。如果你模型](http://mp.weixin.qq.com/s/84CjfEhiwgZtXqwWcmH8zw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8c2028d8e525e9e784ad14b2663b031d)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
