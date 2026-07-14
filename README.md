@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-14 12:37:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-14 15:43:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -26,8 +26,8 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2026-07-14-【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530)  ![](/assets/new.png) 
+- [2026-07-14-【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530)  
 - [2026-07-09-【早说】代理创造杠杆，约束机制建立信任](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=1&sn=aeaee15bb64c29b25a9e0f773f4c093a&chksm=bc40a235c5326739bc36c4e81c4b45ce0f81ec1452d28ea2466ceaa3fc63287a2bb11f6cf3e8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50b9c9cce074ed7f49e77b32fb6b47b2)  
 - [2026-07-09-【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公-SDK：dream-num/univer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=2&sn=e37229ae1fb878046301eb61facf99e9&chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=003dbc15d931aaab3bd065d47db84054)  
 - [2026-07-08-【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)  
@@ -114,6 +114,7 @@
 </summary>
 
 
+- [2026-07-13-崩溃！公司跟风纯靠-AI-写客服系统，上线直接全线崩盘。网友：脱离实际必翻车](http://mp.weixin.qq.com/s/EAUyMPmS-zTLvaUJA1TtxQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=70916460f47b8a3691cf9664028ee256)  ![](/assets/new.png) 
 - [2026-07-08-十年一遇！-HTML-反杀-JavaScript！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624644&idx=1&sn=02002ad2d0c2cd464b1bf0c1706ecd65&chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bdc44939dd3a0cf28ab1669e64f2ad3)  
 - [2026-07-07-弃用-Tailwind-CSS！Meta-开源的-StyleX-火了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624638&idx=1&sn=1d64046db3ef129633ca79375855a640&chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b2e0916f8d559671b609b14903215b58)  
 - [2026-07-06-很严重了，大家别轻易离职。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624645&idx=1&sn=40a146af4a85c171132dc616605f56fc&chksm=80224304b755ca123a8fa8ec9fa4e9f0eb36df1ef97635621abf10beb6153f784f35d6071c72#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b3a319eebaa2801862bddea20b97f5f)  
@@ -123,7 +124,6 @@
 - [2026-06-29-前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624601&idx=1&sn=2eabe16a50215506d610976c86e011fc&chksm=80224358b755ca4ec51e3549925c6e2ae7298f55ac1ddcfeb66fc4759323a6b2ae6cfc9fc4ce#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=85f52b81c203297406c5e01ec1a24a27)  
 - [2026-06-25-PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390)  
 - [2026-06-24-离谱！小米电视误发地震预警！…有人着急跑路被反锁在门外最终找师傅付费开锁](http://mp.weixin.qq.com/s/7BknwM15sP43VwtOXD_6Kg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aed4ba58f0b6f929aae935b72f6b1eb6)  
-- [2026-06-22-Claude-Code之父删了IDE！干掉提示词，只写循环](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624577&idx=1&sn=32cc203488092a202ebd971126b0494f&chksm=80224340b755ca5658f65d33ce32e1d6d697e9514b1ce7bdfa1de730b15e7c39ea5e54b832c8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=881c126291ad5eb6d5f202ea08ea28ca)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

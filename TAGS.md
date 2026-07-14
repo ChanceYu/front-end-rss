@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-14 12:37:57。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-14 15:43:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -41,6 +41,7 @@
 
 
 - [【前端早读课】【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530)
+- [【前端大全】崩溃！公司跟风纯靠-AI-写客服系统，上线直接全线崩盘。网友：脱离实际必翻车](http://mp.weixin.qq.com/s/EAUyMPmS-zTLvaUJA1TtxQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=70916460f47b8a3691cf9664028ee256)
 - [【Nodejs技术栈】杠上了！Bun-重写成-Rust-后，Zig-创始人开炮：LLM-之前就在写垃圾代码了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524188&idx=1&sn=41cd045b0531dd23ab850bfb2c2ac212&chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cee10028678146e386e34023966403cc)
 - [【Nodejs技术栈】GPT-5.6-全面开放，Codex-被并入-ChatGPT，OpenAI-开始抢工作台](http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=22c241f805567e84ef339efa126b1a97)
 - [【Nodejs技术栈】Bun-这次太狠了：64-个-Claude-连跑-11-天，把-53-万行代码重写成-Rust](http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c4c30c7d5f968903c72616da96bfa796)
@@ -49,7 +50,6 @@
 - [【张鑫旭-鑫空间-鑫生活】AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3f1d9c187318a93a1290ccffa2251e19)
 - [【前端早读课】【第3727期】基于-OpenAI-Codex-Subagents-的并行开发与团队化管理实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279485&idx=1&sn=8718f2fdf8845e6398bbd30f9f8453f9&chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e8cc59e6db8f2ee4172eb3b31ff93d)
 - [【前端从进阶到入院】为什么你的AI代码越来越冗余？答案在这套七层流程里](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517650&idx=1&sn=e593c35670a39028a9aab81be92d9381&chksm=eb07bdabdc7034bdba4f5f96c5af8ec2e0fb317e6ec528d0221a3b25b865475d183f9314690c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d7d566a8f2564e4427c662cfa7a2dfe)
-- [【Nodejs技术栈】MCP-和-Skills-入门：把-AI-编程工具接进真实工作流](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524099&idx=1&sn=3a969450509e857c44a2c397da9274bb&chksm=e80fd04ddf78595bf3282437a675af5e343e7b83c98e87d4a1365d631d4ed8d91e9b26311dee#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b457acef866e6916bbe7377b3e07eac6)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -586,6 +586,7 @@
 
 - [【前端早读课】【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530)
 - [【淘系前端团队】淘宝直播数字人-AgenticRL-实践：从-RLVR-到-MultiAgent-RL](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544788&idx=1&sn=04119d3b590b121e87fe87142daa6529&chksm=8390d28cb4e75b9af1a3a16e0a13fdac0e8d55bb26e60f0e0521b62ed869bf84b0a7b80eec72#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b901b9545590f9e8fd420236658d7543)
+- [【前端大全】崩溃！公司跟风纯靠-AI-写客服系统，上线直接全线崩盘。网友：脱离实际必翻车](http://mp.weixin.qq.com/s/EAUyMPmS-zTLvaUJA1TtxQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=70916460f47b8a3691cf9664028ee256)
 - [【Nodejs技术栈】tsgo-终于转正！Go-重写的-TypeScript-7-正式发布，速度提升-10-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524204&idx=1&sn=a27eef12d7fc86985d4cc3e23c2ed7a5&chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d20456070861dc9918260d99c84406f)
 - [【Nodejs技术栈】杠上了！Bun-重写成-Rust-后，Zig-创始人开炮：LLM-之前就在写垃圾代码了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524188&idx=1&sn=41cd045b0531dd23ab850bfb2c2ac212&chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cee10028678146e386e34023966403cc)
 - [【Nodejs技术栈】GPT-5.6-全面开放，Codex-被并入-ChatGPT，OpenAI-开始抢工作台](http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=22c241f805567e84ef339efa126b1a97)
@@ -593,7 +594,6 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-403-期）：为什么-Dropbox-不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af81724fc9aa32e4dc318f43ca2e1b3d)
 - [【淘系前端团队】CVPR-2026-|-重思基于扩散模型的视频超分辨率：利用对齐特征的稠密引导-DGAF-VSR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544787&idx=1&sn=1a22e2fc4328c7ee3a432c996ef50f3c&chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fb3bfdebe28c2d3a2f12d87cd4297ea2)
 - [【前端从进阶到入院】TypeScript-7-正式发布！Vue-暂被-"拒之门外"-！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517666&idx=1&sn=15fcb2090802521b2ce3a2035cad8378&chksm=eb07bd9bdc70348dc6e3f30784276a0119072cf8e6160c825d10106ad933a352cef511581d74#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a297bfc5c4965d48c4278048a6030274)
-- [【Nodejs技术栈】腾讯这次真狠，一句话就能做-App](http://mp.weixin.qq.com/s/-m1uihgiCjJbnk8HTFPxig)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7d41f3f3fc10752a5acc9e367b65ba64)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

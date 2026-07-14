@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-14T04:37:37.926Z</updated>
+    <updated>2026-07-14T07:43:02.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[淘宝直播数字人 AgenticRL 实践：从 RLVR 到 MultiAgent RL]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544788&amp;idx=1&amp;sn=04119d3b590b121e87fe87142daa6529&amp;chksm=8390d28cb4e75b9af1a3a16e0a13fdac0e8d55bb26e60f0e0521b62ed869bf84b0a7b80eec72#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544788&amp;idx=1&amp;sn=04119d3b590b121e87fe87142daa6529&amp;chksm=8390d28cb4e75b9af1a3a16e0a13fdac0e8d55bb26e60f0e0521b62ed869bf84b0a7b80eec72#rd"/>
+        <updated>2026-07-13T00:00:00.000Z</updated>
+        <published>2026-07-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[崩溃！公司跟风纯靠 AI 写客服系统，上线直接全线崩盘。网友：脱离实际必翻车]]></title>
+        <id>http://mp.weixin.qq.com/s/EAUyMPmS-zTLvaUJA1TtxQ</id>
+        <link href="http://mp.weixin.qq.com/s/EAUyMPmS-zTLvaUJA1TtxQ"/>
         <updated>2026-07-13T00:00:00.000Z</updated>
         <published>2026-07-13T00:00:00.000Z</published>
     </entry>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[【开源】flyfish-dev/file-viewer]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279399&amp;idx=2&amp;sn=c1ac3368ebab0db6208ca82e0831c109&amp;chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279399&amp;idx=2&amp;sn=c1ac3368ebab0db6208ca82e0831c109&amp;chksm=bc11b31ee9c70cc8fecd9908a661ffd5b97803ac7774ecebf263aa5f97ca2cf83d0b8cf0c38f&amp;scene=0#rd"/>
-        <updated>2026-06-29T00:00:00.000Z</updated>
-        <published>2026-06-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】智能体好造，可靠难求：AI工程的核心命题]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279399&amp;idx=1&amp;sn=82b22ce52278e3e7dd8e8fbd00698bfb&amp;chksm=bcab629091dc98cf156601d6db02e0eba23d5655ed5eaa56cc69e48f508f8dc49e9a9d1d6206&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279399&amp;idx=1&amp;sn=82b22ce52278e3e7dd8e8fbd00698bfb&amp;chksm=bcab629091dc98cf156601d6db02e0eba23d5655ed5eaa56cc69e48f508f8dc49e9a9d1d6206&amp;scene=0#rd"/>
         <updated>2026-06-29T00:00:00.000Z</updated>
         <published>2026-06-29T00:00:00.000Z</published>
     </entry>
