@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-14T15:14:13.430Z</updated>
+    <updated>2026-07-14T16:59:32.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vite Plus 终于放大招！一行命令，直接迁移项目！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517673&amp;idx=1&amp;sn=57f173327792fabc9b31f0878eb83f20&amp;chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517673&amp;idx=1&amp;sn=57f173327792fabc9b31f0878eb83f20&amp;chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd"/>
+        <updated>2026-07-14T00:00:00.000Z</updated>
+        <published>2026-07-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3729期】ChatGPT 网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279544&amp;idx=1&amp;sn=9abed0eee1b93506e45bcbd73d766d1c&amp;chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&amp;scene=0#rd</id>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[AI 动画辅助实现（实践篇）：从 AE 到可运行代码的全链路方案]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544614&amp;idx=1&amp;sn=1341392d63cc99e7d3461fcbadc12d25&amp;chksm=8390d1feb4e758e8f2bd8340b9e8f6a0882bdd6afec8c4c5c9d21e810c1b6e8040158e728e65#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544614&amp;idx=1&amp;sn=1341392d63cc99e7d3461fcbadc12d25&amp;chksm=8390d1feb4e758e8f2bd8340b9e8f6a0882bdd6afec8c4c5c9d21e810c1b6e8040158e728e65#rd"/>
-        <updated>2026-06-29T00:00:00.000Z</updated>
-        <published>2026-06-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624601&amp;idx=1&amp;sn=2eabe16a50215506d610976c86e011fc&amp;chksm=80224358b755ca4ec51e3549925c6e2ae7298f55ac1ddcfeb66fc4759323a6b2ae6cfc9fc4ce#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624601&amp;idx=1&amp;sn=2eabe16a50215506d610976c86e011fc&amp;chksm=80224358b755ca4ec51e3549925c6e2ae7298f55ac1ddcfeb66fc4759323a6b2ae6cfc9fc4ce#rd"/>
         <updated>2026-06-29T00:00:00.000Z</updated>
         <published>2026-06-29T00:00:00.000Z</published>
     </entry>
