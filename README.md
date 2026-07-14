@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-14 00:19:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-14 12:37:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -26,7 +26,7 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -36,7 +36,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -93,15 +93,15 @@
 </summary>
 
 
-- [2026-07-09-【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公-SDK：dream-num/univer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=2&sn=e37229ae1fb878046301eb61facf99e9&chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=003dbc15d931aaab3bd065d47db84054)  
+- [2026-07-14-【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530)  ![](/assets/new.png) 
 - [2026-07-09-【早说】代理创造杠杆，约束机制建立信任](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=1&sn=aeaee15bb64c29b25a9e0f773f4c093a&chksm=bc40a235c5326739bc36c4e81c4b45ce0f81ec1452d28ea2466ceaa3fc63287a2bb11f6cf3e8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50b9c9cce074ed7f49e77b32fb6b47b2)  
-- [2026-07-08-【第3728期】用-Web-标准优雅实现深色模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=1&sn=6d06b35b04d4ff6ce43076d95aa2049b&chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=477855e1816e291e9a10dfc0e926615f)  
+- [2026-07-09-【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公-SDK：dream-num/univer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=2&sn=e37229ae1fb878046301eb61facf99e9&chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=003dbc15d931aaab3bd065d47db84054)  
 - [2026-07-08-【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)  
+- [2026-07-08-【第3728期】用-Web-标准优雅实现深色模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=1&sn=6d06b35b04d4ff6ce43076d95aa2049b&chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=477855e1816e291e9a10dfc0e926615f)  
 - [2026-07-07-【第3727期】基于-OpenAI-Codex-Subagents-的并行开发与团队化管理实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279485&idx=1&sn=8718f2fdf8845e6398bbd30f9f8453f9&chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e8cc59e6db8f2ee4172eb3b31ff93d)  
 - [2026-07-06-【第3726期】现代-CSS-主题方案：light-dark、contrast-color-与样式查询的巧妙结合](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279473&idx=1&sn=727b4c723cff8dd764fe9e0bf091c8b9&chksm=bc50143c735e2dba2aa34ad991fb839f94f712d01f27274601a0bc46af25b755ea0f5161d4aa&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4ae2cb50ab189ce4b10aff067b5cb12b)  
-- [2026-07-03-【活动】Vue-2026，7月18号，上海见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279462&idx=2&sn=e05cd7e90d9a4876070dc06b4331f725&chksm=bc007f121330d2569faf27fab2552bc78d87ae12a52c605f91e03f71e6804d38c1c8a623e00b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6af36236dba2edee55c7dbfbf5019569)  
 - [2026-07-03-【早说】AX时代来临](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279462&idx=1&sn=0a2a1398c53cc961388ac417a901712f&chksm=bcccb374f00fa27e65f1e9a16fd500cdd22431378db9592df5036bce98d1be7d01aa39c72663&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccb1fd6b2984d83399649cbbcc5715fd)  
-- [2026-07-02-【第3725期】CSS状态与JavaScript事件之间的界限变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279455&idx=1&sn=3f248a7c2fab2657e5438c52003dc910&chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e74b7a2d60a7a0b943cd82b59a66ef5b)  
+- [2026-07-03-【活动】Vue-2026，7月18号，上海见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279462&idx=2&sn=e05cd7e90d9a4876070dc06b4331f725&chksm=bc007f121330d2569faf27fab2552bc78d87ae12a52c605f91e03f71e6804d38c1c8a623e00b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6af36236dba2edee55c7dbfbf5019569)  
 - [2026-07-02-【开源】苹果模拟器的-npx-serve：EvanBacon/serve-sim](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279455&idx=2&sn=428f5d1929cdf21e1a78b5ca541613bc&chksm=bc3c681b565529476c426bb72c5db782fd23cf59ef77901989baa14d18498d16c4348b416e9f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2dc156b2dc54f6af2de5604fb6720c95)  
 - [查看更多 >](/details/前端早读课.md)
 
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-07-13-淘宝直播数字人-AgenticRL-实践：从-RLVR-到-MultiAgent-RL](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544788&idx=1&sn=04119d3b590b121e87fe87142daa6529&chksm=8390d28cb4e75b9af1a3a16e0a13fdac0e8d55bb26e60f0e0521b62ed869bf84b0a7b80eec72#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b901b9545590f9e8fd420236658d7543)  ![](/assets/new.png) 
+- [2026-07-13-淘宝直播数字人-AgenticRL-实践：从-RLVR-到-MultiAgent-RL](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544788&idx=1&sn=04119d3b590b121e87fe87142daa6529&chksm=8390d28cb4e75b9af1a3a16e0a13fdac0e8d55bb26e60f0e0521b62ed869bf84b0a7b80eec72#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b901b9545590f9e8fd420236658d7543)  
 - [2026-07-10-CVPR-2026-|-重思基于扩散模型的视频超分辨率：利用对齐特征的稠密引导-DGAF-VSR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544787&idx=1&sn=1a22e2fc4328c7ee3a432c996ef50f3c&chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fb3bfdebe28c2d3a2f12d87cd4297ea2)  
 - [2026-07-08-ICLR-2026-|-基于视觉自回归模型的前馈式主体驱动图像生成算法-EchoGen](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544719&idx=1&sn=42fb0cb0fe7c292ac867355c9bb61062&chksm=8390d257b4e75b41e6da73b5c08a8aefa00922fb9b338202820010523ba6c9527e141d52d759#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=34cadb7d8ad9fda8332d83857269ee03)  
 - [2026-07-03-CVPR-2026-|-面向视频扩散模型的局部细节偏好优化方法-LocalDPO](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544718&idx=1&sn=be61862eec337a27b1355927152046fe&chksm=8390d256b4e75b40338a13c9ad930e88e039e6684cbf676772b40695716f49c3a9d1ac82fbef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da613514b8b706334e9485770c73f66e)  
