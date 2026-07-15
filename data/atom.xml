@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-14T16:59:32.087Z</updated>
+    <updated>2026-07-15T18:51:09.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[和 Bun 反着来！Vercel 用 Zig 造了个 Native SDK，对标 Electron、Tauri]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524255&amp;idx=1&amp;sn=62ea652877f4767ca4d9ed70689cb18e&amp;chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524255&amp;idx=1&amp;sn=62ea652877f4767ca4d9ed70689cb18e&amp;chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd"/>
+        <updated>2026-07-14T00:00:00.000Z</updated>
+        <published>2026-07-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vite Plus 终于放大招！一行命令，直接迁移项目！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517673&amp;idx=1&amp;sn=57f173327792fabc9b31f0878eb83f20&amp;chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd</id>
@@ -64,16 +71,16 @@
         <published>2026-07-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
-        <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
-        <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
+        <title type="html"><![CDATA[Bun 这次太狠了：64 个 Claude 连跑 11 天，把 53 万行代码重写成 Rust]]></title>
+        <id>http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw</id>
+        <link href="http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bun 这次太狠了：64 个 Claude 连跑 11 天，把 53 万行代码重写成 Rust]]></title>
-        <id>http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw</id>
-        <link href="http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw"/>
+        <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
+        <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
+        <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[浏览器原生支持JSON模块导入与开发啦！]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/"/>
-        <updated>2026-06-29T00:00:00.000Z</updated>
-        <published>2026-06-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 动画辅助实现（实践篇）：从 AE 到可运行代码的全链路方案]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544614&amp;idx=1&amp;sn=1341392d63cc99e7d3461fcbadc12d25&amp;chksm=8390d1feb4e758e8f2bd8340b9e8f6a0882bdd6afec8c4c5c9d21e810c1b6e8040158e728e65#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544614&amp;idx=1&amp;sn=1341392d63cc99e7d3461fcbadc12d25&amp;chksm=8390d1feb4e758e8f2bd8340b9e8f6a0882bdd6afec8c4c5c9d21e810c1b6e8040158e728e65#rd"/>
         <updated>2026-06-29T00:00:00.000Z</updated>
         <published>2026-06-29T00:00:00.000Z</published>
     </entry>

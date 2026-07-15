@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-15 01:00:12，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-16 02:51:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -34,14 +34,14 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -261,8 +261,8 @@
 </summary>
 
 
-- [2026-07-14-Vite-Plus-终于放大招！一行命令，直接迁移项目！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517673&idx=1&sn=57f173327792fabc9b31f0878eb83f20&chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d818fb9a4ccc8b1e3dafe9484849b1bd)  ![](/assets/new.png) 
-- [2026-07-13-收到工资132041527.36元，爱你DeepSeek！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517671&idx=1&sn=ea9e750705ebcefe7f691a0a8b84e18b&chksm=eb07bd9edc703488b12472276ad55b71154b7e242f9022af64301075e37d64529198b5dae845#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1f53ab331e9a73ed348d9a800f525635)  ![](/assets/new.png) 
+- [2026-07-14-Vite-Plus-终于放大招！一行命令，直接迁移项目！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517673&idx=1&sn=57f173327792fabc9b31f0878eb83f20&chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d818fb9a4ccc8b1e3dafe9484849b1bd)  
+- [2026-07-13-收到工资132041527.36元，爱你DeepSeek！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517671&idx=1&sn=ea9e750705ebcefe7f691a0a8b84e18b&chksm=eb07bd9edc703488b12472276ad55b71154b7e242f9022af64301075e37d64529198b5dae845#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1f53ab331e9a73ed348d9a800f525635)  
 - [2026-07-10-TypeScript-7-正式发布！Vue-暂被-"拒之门外"-！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517666&idx=1&sn=15fcb2090802521b2ce3a2035cad8378&chksm=eb07bd9bdc70348dc6e3f30784276a0119072cf8e6160c825d10106ad933a352cef511581d74#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a297bfc5c4965d48c4278048a6030274)  
 - [2026-07-09-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517664&idx=1&sn=91cd34e765ee4bd7ca919c0756493755&chksm=eb07bd99dc70348f293f86b906813017f02741396fe03d9111f6acb396fae90e19b614eaca86#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3bf43c117b8013f3a27668067e459034)  
 - [2026-07-07-永别了，豆包！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517656&idx=1&sn=2b8a2030db68f6fd672b3c19b2b65a0f&chksm=eb07bda1dc7034b788f1b9f7b76bd62627854468eae614151540c54c56c26fe2ee129c0f011a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=88fbf84f1251c8c755fe3e942f59d4ef)  
@@ -408,16 +408,16 @@
 </summary>
 
 
+- [2026-07-14-和-Bun-反着来！Vercel-用-Zig-造了个-Native-SDK，对标-Electron、Tauri](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524255&idx=1&sn=62ea652877f4767ca4d9ed70689cb18e&chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3cad447af30c56cd9683e3b019eed)  ![](/assets/new.png) 
 - [2026-07-12-tsgo-终于转正！Go-重写的-TypeScript-7-正式发布，速度提升-10-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524204&idx=1&sn=a27eef12d7fc86985d4cc3e23c2ed7a5&chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d20456070861dc9918260d99c84406f)  
 - [2026-07-11-杠上了！Bun-重写成-Rust-后，Zig-创始人开炮：LLM-之前就在写垃圾代码了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524188&idx=1&sn=41cd045b0531dd23ab850bfb2c2ac212&chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cee10028678146e386e34023966403cc)  
-- [2026-07-10-Bun-这次太狠了：64-个-Claude-连跑-11-天，把-53-万行代码重写成-Rust](http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c4c30c7d5f968903c72616da96bfa796)  
 - [2026-07-10-GPT-5.6-全面开放，Codex-被并入-ChatGPT，OpenAI-开始抢工作台](http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=22c241f805567e84ef339efa126b1a97)  
+- [2026-07-10-Bun-这次太狠了：64-个-Claude-连跑-11-天，把-53-万行代码重写成-Rust](http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c4c30c7d5f968903c72616da96bfa796)  
 - [2026-07-09-腾讯这次真狠，一句话就能做-App](http://mp.weixin.qq.com/s/-m1uihgiCjJbnk8HTFPxig)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7d41f3f3fc10752a5acc9e367b65ba64)  
 - [2026-07-08-Auth-被-Next.js-收购了？Vercel-把前端登录入口买了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524149&idx=1&sn=d8c81d6f1a55047c6db30a5b17d40855&chksm=e80fd07bdf78596d38e2cbd0a3023391bf3cd4dd7bcf656e6b9eaf777eb576c30d1fcbe4df91#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=81660516fb15536192d672741332dc7e)  
 - [2026-07-07-npm-一个隐藏限制，让-Drizzle-断更一个月](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524141&idx=1&sn=b89280df730afb7877526135bc9f98e1&chksm=e80fd063df78597557291fb0e4f1e0c709236f1f463137fe86389ae5176d5025eba94904f8c8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5df14d367cffa9b7fdf8769994748998)  
 - [2026-07-06-Skills-Hub-大升级：现在能自动更新了，关掉应用也能跑](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524123&idx=1&sn=fb85d2c09a852b9cd8da23235acdcc6f&chksm=e80fd055df7859432a3615ec9b86d14c800c8517bcd36ef240c28a7646377e35548638bf7816#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=257f88fb60bdbbb20e527ef72ffaaf6e)  
 - [2026-07-05-MCP-和-Skills-入门：把-AI-编程工具接进真实工作流](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524099&idx=1&sn=3a969450509e857c44a2c397da9274bb&chksm=e80fd04ddf78595bf3282437a675af5e343e7b83c98e87d4a1365d631d4ed8d91e9b26311dee#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b457acef866e6916bbe7377b3e07eac6)  
-- [2026-07-03-Vite+-Beta-发布：一个-`vp`，想接管整条前端工具链](http://mp.weixin.qq.com/s/9wi17a0NaoWCUHebW-aq2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4bf8bc66821fdc3ca1f5f92c495e837)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
