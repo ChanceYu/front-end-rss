@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-16T13:13:43.047Z</updated>
+    <updated>2026-07-16T20:42:26.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,19 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[想搞 TUI 的有福了，马斯克把 Grok Build 开源了，用 Rust 写的！
+
+马斯克一句“Grok Build is now open source”，把这套终端 AI 编程工具的代码公开了。
+
+这次开源的不是 Grok 模型，而是完整的 Grok Build CLI。整个仓库 99.6% 都是 Rust，代码采用 Apache 2.0 许可证。
+
+想搞 TUI 的开]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524262&amp;idx=1&amp;sn=8f7f4c1e8fda12fafc3a326af900f1ac&amp;chksm=e80fd0e8df7859fe7e1e0e14770e0709c6f5516fcb0a726ccc8411763ad7795293c0f2ee50be#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524262&amp;idx=1&amp;sn=8f7f4c1e8fda12fafc3a326af900f1ac&amp;chksm=e80fd0e8df7859fe7e1e0e14770e0709c6f5516fcb0a726ccc8411763ad7795293c0f2ee50be#rd"/>
+        <updated>2026-07-16T00:00:00.000Z</updated>
+        <published>2026-07-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3730期】CSS 环境变量：env() 函数全面解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279586&amp;idx=1&amp;sn=d9b73f21f231308e42b21ddc9b9f7704&amp;chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&amp;scene=0#rd</id>
@@ -120,16 +133,16 @@
         <published>2026-07-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bun 这次太狠了：64 个 Claude 连跑 11 天，把 53 万行代码重写成 Rust]]></title>
-        <id>http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw</id>
-        <link href="http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw"/>
+        <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
+        <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
+        <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
-        <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
-        <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
+        <title type="html"><![CDATA[Bun 这次太狠了：64 个 Claude 连跑 11 天，把 53 万行代码重写成 Rust]]></title>
+        <id>http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw</id>
+        <link href="http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>
@@ -362,13 +375,6 @@
         <title type="html"><![CDATA[AI Agent 的 Skill 系统设计]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544717&amp;idx=1&amp;sn=b578abf5a81034670900a3b8eb874296&amp;chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544717&amp;idx=1&amp;sn=b578abf5a81034670900a3b8eb874296&amp;chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd"/>
-        <updated>2026-07-01T00:00:00.000Z</updated>
-        <published>2026-07-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炸锅！Claude Code 被爆植入后门，检测中国用户和 AI 实验室]]></title>
-        <id>http://mp.weixin.qq.com/s/uUKs3obyq2f5AL0hoGiMfg</id>
-        <link href="http://mp.weixin.qq.com/s/uUKs3obyq2f5AL0hoGiMfg"/>
         <updated>2026-07-01T00:00:00.000Z</updated>
         <published>2026-07-01T00:00:00.000Z</published>
     </entry>
