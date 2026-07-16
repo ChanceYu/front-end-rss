@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-16 15:52:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-16 17:53:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-15-AINMM：存量生产级工程向-AI-Native-演进的五级成熟度模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544860&idx=1&sn=2af590b12b53e721597358cc91e03eac&chksm=8390d2c4b4e75bd27a7d881f20c1e6ee37988ec64ff29790f0adcf687b202f00b44a250c79be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95bfed95b34a0796ec8468838c3274c7) 
 - [2026-07-15-让-Codex-自己查账：一个省-token-的小技巧](http://mp.weixin.qq.com/s/xtkokaPkvT8BL7OSwcl-yg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c9b53c3f5891f9f64c872bf7c86443b1) 
 - [2026-07-14-【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530) 
 - [2026-07-13-GPT-5.6-的-Sol、Terra、Luna-怎么选，怎么用？一篇文章讲透](http://mp.weixin.qq.com/s/15sjSVsjNk_eRJkHz8N2nA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=73169037b8a15ab9dccb7f821d68579e) 

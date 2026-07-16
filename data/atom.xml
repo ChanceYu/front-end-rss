@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-16T07:51:49.636Z</updated>
+    <updated>2026-07-16T09:53:00.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279586&amp;idx=1&amp;sn=d9b73f21f231308e42b21ddc9b9f7704&amp;chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&amp;scene=0#rd"/>
         <updated>2026-07-16T00:00:00.000Z</updated>
         <published>2026-07-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AINMM：存量生产级工程向 AI Native 演进的五级成熟度模型]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544860&amp;idx=1&amp;sn=2af590b12b53e721597358cc91e03eac&amp;chksm=8390d2c4b4e75bd27a7d881f20c1e6ee37988ec64ff29790f0adcf687b202f00b44a250c79be#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544860&amp;idx=1&amp;sn=2af590b12b53e721597358cc91e03eac&amp;chksm=8390d2c4b4e75bd27a7d881f20c1e6ee37988ec64ff29790f0adcf687b202f00b44a250c79be#rd"/>
+        <updated>2026-07-15T00:00:00.000Z</updated>
+        <published>2026-07-15T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[完蛋！比 Vite+ 快 5.4 倍的前端工具链！正式发布！]]></title>
@@ -364,12 +371,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279441&amp;idx=1&amp;sn=bf72c71095795b383ed333058dbd1052&amp;chksm=bc30201ce050ad8c8c4d05ecbbf061f5a0fc4bd4a83b754f26e5f108f852e86135c19664242b&amp;scene=0#rd"/>
         <updated>2026-07-01T00:00:00.000Z</updated>
         <published>2026-07-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dario Amodei：AI 开源是伪命题]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/06/anthropic.html"/>
-        <updated>2026-06-30T00:00:00.000Z</updated>
-        <published>2026-06-30T00:00:00.000Z</published>
     </entry>
 </feed>
