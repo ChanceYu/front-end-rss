@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-16T09:53:00.722Z</updated>
+    <updated>2026-07-16T13:13:43.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3730期】CSS 环境变量：env() 函数全面解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279586&amp;idx=1&amp;sn=d9b73f21f231308e42b21ddc9b9f7704&amp;chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279586&amp;idx=1&amp;sn=d9b73f21f231308e42b21ddc9b9f7704&amp;chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&amp;scene=0#rd"/>
+        <updated>2026-07-16T00:00:00.000Z</updated>
+        <published>2026-07-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The life of a ~200ms HTTP request to a Node app]]></title>
+        <id>https://nodeweekly.com/issues/633</id>
+        <link href="https://nodeweekly.com/issues/633"/>
         <updated>2026-07-16T00:00:00.000Z</updated>
         <published>2026-07-16T00:00:00.000Z</published>
     </entry>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[炸锅！Claude Code 被爆植入后门，检测中国用户和 AI 实验室]]></title>
         <id>http://mp.weixin.qq.com/s/uUKs3obyq2f5AL0hoGiMfg</id>
         <link href="http://mp.weixin.qq.com/s/uUKs3obyq2f5AL0hoGiMfg"/>
-        <updated>2026-07-01T00:00:00.000Z</updated>
-        <published>2026-07-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【开源】UI-UX 模型让 AI 真正看懂 App 体验缺陷]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279441&amp;idx=1&amp;sn=bf72c71095795b383ed333058dbd1052&amp;chksm=bc30201ce050ad8c8c4d05ecbbf061f5a0fc4bd4a83b754f26e5f108f852e86135c19664242b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279441&amp;idx=1&amp;sn=bf72c71095795b383ed333058dbd1052&amp;chksm=bc30201ce050ad8c8c4d05ecbbf061f5a0fc4bd4a83b754f26e5f108f852e86135c19664242b&amp;scene=0#rd"/>
         <updated>2026-07-01T00:00:00.000Z</updated>
         <published>2026-07-01T00:00:00.000Z</published>
     </entry>
