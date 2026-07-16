@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-16T04:48:19.749Z</updated>
+    <updated>2026-07-16T07:51:49.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279586&amp;idx=1&amp;sn=d9b73f21f231308e42b21ddc9b9f7704&amp;chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&amp;scene=0#rd"/>
         <updated>2026-07-16T00:00:00.000Z</updated>
         <published>2026-07-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完蛋！比 Vite+ 快 5.4 倍的前端工具链！正式发布！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517675&amp;idx=1&amp;sn=276a85082427c05fed12f6bb2230677a&amp;chksm=eb07bd92dc703484605ec4ee4c288ad06e3b6c2da8237b182bbf85e8102c1bef49eb2f060493#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517675&amp;idx=1&amp;sn=276a85082427c05fed12f6bb2230677a&amp;chksm=eb07bd92dc703484605ec4ee4c288ad06e3b6c2da8237b182bbf85e8102c1bef49eb2f060493#rd"/>
+        <updated>2026-07-15T00:00:00.000Z</updated>
+        <published>2026-07-15T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[让 Codex 自己查账：一个省 token 的小技巧]]></title>
@@ -362,13 +369,6 @@
         <title type="html"><![CDATA[Dario Amodei：AI 开源是伪命题]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/06/anthropic.html"/>
-        <updated>2026-06-30T00:00:00.000Z</updated>
-        <published>2026-06-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCode 团队新开源的神器：145 家 AI 模型服务商一站查]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530124&amp;idx=1&amp;sn=b88924b15828edb7e1bb85a7d05d323d&amp;chksm=f992705dcee5f94bf51122a0c3b7cc1b690588a5db6d5994dfe41c60f2d4012448157f0170ca#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530124&amp;idx=1&amp;sn=b88924b15828edb7e1bb85a7d05d323d&amp;chksm=f992705dcee5f94bf51122a0c3b7cc1b690588a5db6d5994dfe41c60f2d4012448157f0170ca#rd"/>
         <updated>2026-06-30T00:00:00.000Z</updated>
         <published>2026-06-30T00:00:00.000Z</published>
     </entry>
