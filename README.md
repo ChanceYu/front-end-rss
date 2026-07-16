@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-16 02:51:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-16 12:49:31，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -26,11 +26,11 @@
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -93,16 +93,16 @@
 </summary>
 
 
+- [2026-07-16-【开源】可定制且可组合的工程实践与工作流技能包：mattpocock/skills](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279586&idx=2&sn=9c8084411936f97c9a7d40b920698faf&chksm=bca7d18d887d5ec25fa0b2b69774e3cf7ae48d59e88eabe7c85012ae5f0a1cce305ba7099317&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c372820e8ebedf14ea2805eff6a5c21)  ![](/assets/new.png) 
+- [2026-07-16-【第3730期】CSS-环境变量：env-函数全面解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279586&idx=1&sn=d9b73f21f231308e42b21ddc9b9f7704&chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f1a21373a169463218774a919e4377ed)  ![](/assets/new.png) 
 - [2026-07-14-【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530)  
-- [2026-07-09-【早说】代理创造杠杆，约束机制建立信任](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=1&sn=aeaee15bb64c29b25a9e0f773f4c093a&chksm=bc40a235c5326739bc36c4e81c4b45ce0f81ec1452d28ea2466ceaa3fc63287a2bb11f6cf3e8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50b9c9cce074ed7f49e77b32fb6b47b2)  
 - [2026-07-09-【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公-SDK：dream-num/univer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=2&sn=e37229ae1fb878046301eb61facf99e9&chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=003dbc15d931aaab3bd065d47db84054)  
-- [2026-07-08-【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)  
+- [2026-07-09-【早说】代理创造杠杆，约束机制建立信任](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=1&sn=aeaee15bb64c29b25a9e0f773f4c093a&chksm=bc40a235c5326739bc36c4e81c4b45ce0f81ec1452d28ea2466ceaa3fc63287a2bb11f6cf3e8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50b9c9cce074ed7f49e77b32fb6b47b2)  
 - [2026-07-08-【第3728期】用-Web-标准优雅实现深色模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=1&sn=6d06b35b04d4ff6ce43076d95aa2049b&chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=477855e1816e291e9a10dfc0e926615f)  
+- [2026-07-08-【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)  
 - [2026-07-07-【第3727期】基于-OpenAI-Codex-Subagents-的并行开发与团队化管理实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279485&idx=1&sn=8718f2fdf8845e6398bbd30f9f8453f9&chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e8cc59e6db8f2ee4172eb3b31ff93d)  
 - [2026-07-06-【第3726期】现代-CSS-主题方案：light-dark、contrast-color-与样式查询的巧妙结合](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279473&idx=1&sn=727b4c723cff8dd764fe9e0bf091c8b9&chksm=bc50143c735e2dba2aa34ad991fb839f94f712d01f27274601a0bc46af25b755ea0f5161d4aa&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4ae2cb50ab189ce4b10aff067b5cb12b)  
-- [2026-07-03-【早说】AX时代来临](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279462&idx=1&sn=0a2a1398c53cc961388ac417a901712f&chksm=bcccb374f00fa27e65f1e9a16fd500cdd22431378db9592df5036bce98d1be7d01aa39c72663&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ccb1fd6b2984d83399649cbbcc5715fd)  
 - [2026-07-03-【活动】Vue-2026，7月18号，上海见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279462&idx=2&sn=e05cd7e90d9a4876070dc06b4331f725&chksm=bc007f121330d2569faf27fab2552bc78d87ae12a52c605f91e03f71e6804d38c1c8a623e00b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6af36236dba2edee55c7dbfbf5019569)  
-- [2026-07-02-【开源】苹果模拟器的-npx-serve：EvanBacon/serve-sim](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279455&idx=2&sn=428f5d1929cdf21e1a78b5ca541613bc&chksm=bc3c681b565529476c426bb72c5db782fd23cf59ef77901989baa14d18498d16c4348b416e9f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2dc156b2dc54f6af2de5604fb6720c95)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -177,6 +177,9 @@
 </summary>
 
 
+- [2026-07-15-让-Codex-自己查账：一个省-token-的小技巧](http://mp.weixin.qq.com/s/xtkokaPkvT8BL7OSwcl-yg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c9b53c3f5891f9f64c872bf7c86443b1)  ![](/assets/new.png) 
+- [2026-07-13-GPT-5.6-的-Sol、Terra、Luna-怎么选，怎么用？一篇文章讲透](http://mp.weixin.qq.com/s/nPluXyKLZNS_UfeBto1aHw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0288a30baffbd5b020f381d1bd55afd)  ![](/assets/new.png) 
+- [2026-07-13-GPT-5.6-的-Sol、Terra、Luna-怎么选，怎么用？一篇文章讲透](http://mp.weixin.qq.com/s/15sjSVsjNk_eRJkHz8N2nA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=73169037b8a15ab9dccb7f821d68579e)  ![](/assets/new.png) 
 - [2026-07-09-我把-Codex-提效命令重新捋了一遍，这篇够全了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530142&idx=1&sn=fcc8de40fa6177ac0a7d911bb7a3a78f&chksm=f992704fcee5f959dc2f0fd935581a33c9e2fc86681cbeca7b9ffde62d35f4e29b0a9a947c28#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=12838ea56e11019beab006c26aa48bfc)  
 - [2026-07-07-为什么越来越多人开始研究-Harness](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530137&idx=1&sn=f8553e8b275ed8941cb456dd2d024b4c&chksm=f9927048cee5f95e02a25bc50412c5144fa642c22ca790454fe07e1e6dc7eb4bb4f835ace106#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a28323b6ea9cbe7ad0aaad55b231d530)  
 - [2026-07-03-阿里禁用-Claude-Code：AI-编程工具的信任危机爆发了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530131&idx=1&sn=88351920a5860dca8eda52b5afb145c7&chksm=f9927042cee5f954bba323c52f603ebd20a4372a31d921f2ae047155057eb59b9ad77a17e4d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f47ce3c2a4eedb7dbf735796c0be59)  
@@ -184,9 +187,6 @@
 - [2026-06-30-OpenCode-团队新开源的神器：145-家-AI-模型服务商一站查](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530124&idx=1&sn=b88924b15828edb7e1bb85a7d05d323d&chksm=f992705dcee5f94bf51122a0c3b7cc1b690588a5db6d5994dfe41c60f2d4012448157f0170ca#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ebbf3b3d5a546f0cbc8f754ae59a52be)  
 - [2026-06-27-OpenAI-Codex-官方白皮书，最值得抄的-10-个工作流技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530114&idx=1&sn=7faf4bbeff984a5bb7780f3c0f956f59&chksm=f9927053cee5f94573ddecb3a10cb003918e67ef48a2f83254d3070d5ea3e60e9df0b0556346#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dba200871cebb3f6879251d2a847743b)  
 - [2026-06-26-SpaceX600亿收购Cursor，AI编程进入“军备竞赛”模式](http://mp.weixin.qq.com/s/NaCGYaSNVyJ5SHSxqCZFEw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=120b1e8a445609ac70ce6c56ce2473e3)  
-- [2026-06-23-别再把-Harness-和-Loop-吹玄了：研发工程师真正该补的是这层能力](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530087&idx=1&sn=48b437877089aa568662e15fd9bd41f5&chksm=f99270b6cee5f9a0944f500065b7361f7ac827ecf17bf7413c1e3a86fa78089acf0dd2af0bf2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0be9bd07500594ac53ffb1b249565fc1)  
-- [2026-06-22-不是干掉-Node：Nub-想做的是-Node.js-Plus](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530070&idx=1&sn=c7282c5d34ad6c0e09601009d61740b9&chksm=f9927087cee5f991be2df990124a3923de0a8c5d52df480083d896081064560d24fb97738bb1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ed79ef219e9071039baa4d639f2f7d91)  
-- [2026-06-19-Codex-也学会“拼夕夕”了？邀请好友就能拿额度重置，怎么领、怎么用、哪些坑别踩](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247530061&idx=1&sn=50460e7fd381b827e8edb93779e0e685&chksm=f992709ccee5f98a4dfbfbb4a744d815248c42ca365bc1b95cd102828f7986973229086996b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3ac4461c223052243233425c444a2617)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2026-07-14-和-Bun-反着来！Vercel-用-Zig-造了个-Native-SDK，对标-Electron、Tauri](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524255&idx=1&sn=62ea652877f4767ca4d9ed70689cb18e&chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3cad447af30c56cd9683e3b019eed)  ![](/assets/new.png) 
+- [2026-07-14-和-Bun-反着来！Vercel-用-Zig-造了个-Native-SDK，对标-Electron、Tauri](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524255&idx=1&sn=62ea652877f4767ca4d9ed70689cb18e&chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3cad447af30c56cd9683e3b019eed)  
 - [2026-07-12-tsgo-终于转正！Go-重写的-TypeScript-7-正式发布，速度提升-10-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524204&idx=1&sn=a27eef12d7fc86985d4cc3e23c2ed7a5&chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d20456070861dc9918260d99c84406f)  
 - [2026-07-11-杠上了！Bun-重写成-Rust-后，Zig-创始人开炮：LLM-之前就在写垃圾代码了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524188&idx=1&sn=41cd045b0531dd23ab850bfb2c2ac212&chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cee10028678146e386e34023966403cc)  
 - [2026-07-10-GPT-5.6-全面开放，Codex-被并入-ChatGPT，OpenAI-开始抢工作台](http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=22c241f805567e84ef339efa126b1a97)  
