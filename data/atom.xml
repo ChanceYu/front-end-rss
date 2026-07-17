@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-16T20:42:26.359Z</updated>
+    <updated>2026-07-17T04:50:48.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html"/>
+        <updated>2026-07-17T00:00:00.000Z</updated>
+        <published>2026-07-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【开源】专为 Codex 桌面端设计的第三方个性化换肤/主题定制工具：Codex Dream Skin]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279596&amp;idx=1&amp;sn=b82634421f3289736e63a1f0d4ab3887&amp;chksm=bc7c302787d73852951586d480dfcdd0c2f304bacb46beb16576ab3937ba53b1e024b138b56d&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279596&amp;idx=1&amp;sn=b82634421f3289736e63a1f0d4ab3887&amp;chksm=bc7c302787d73852951586d480dfcdd0c2f304bacb46beb16576ab3937ba53b1e024b138b56d&amp;scene=0#rd"/>
+        <updated>2026-07-17T00:00:00.000Z</updated>
+        <published>2026-07-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[想搞 TUI 的有福了，马斯克把 Grok Build 开源了，用 Rust 写的！
 
@@ -217,16 +231,16 @@
         <published>2026-07-08T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【开源】面向 API 的低代码协作应用构建平台：apitable/apitable]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279501&amp;idx=2&amp;sn=4b68cc04c44f3f9e7f048d938ee388bd&amp;chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279501&amp;idx=2&amp;sn=4b68cc04c44f3f9e7f048d938ee388bd&amp;chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3728期】用 Web 标准优雅实现深色模式]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279501&amp;idx=1&amp;sn=6d06b35b04d4ff6ce43076d95aa2049b&amp;chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279501&amp;idx=1&amp;sn=6d06b35b04d4ff6ce43076d95aa2049b&amp;chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&amp;scene=0#rd"/>
         <updated>2026-07-08T00:00:00.000Z</updated>
         <published>2026-07-08T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3728期】用 Web 标准优雅实现深色模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279501&amp;idx=1&amp;sn=6d06b35b04d4ff6ce43076d95aa2049b&amp;chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279501&amp;idx=1&amp;sn=6d06b35b04d4ff6ce43076d95aa2049b&amp;chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【开源】面向 API 的低代码协作应用构建平台：apitable/apitable]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279501&amp;idx=2&amp;sn=4b68cc04c44f3f9e7f048d938ee388bd&amp;chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279501&amp;idx=2&amp;sn=4b68cc04c44f3f9e7f048d938ee388bd&amp;chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&amp;scene=0#rd"/>
         <updated>2026-07-08T00:00:00.000Z</updated>
         <published>2026-07-08T00:00:00.000Z</published>
     </entry>
@@ -351,13 +365,6 @@
         <published>2026-07-02T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【开源】苹果模拟器的 npx serve：EvanBacon/serve-sim]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279455&amp;idx=2&amp;sn=428f5d1929cdf21e1a78b5ca541613bc&amp;chksm=bc3c681b565529476c426bb72c5db782fd23cf59ef77901989baa14d18498d16c4348b416e9f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279455&amp;idx=2&amp;sn=428f5d1929cdf21e1a78b5ca541613bc&amp;chksm=bc3c681b565529476c426bb72c5db782fd23cf59ef77901989baa14d18498d16c4348b416e9f&amp;scene=0#rd"/>
-        <updated>2026-07-02T00:00:00.000Z</updated>
-        <published>2026-07-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【第3725期】CSS状态与JavaScript事件之间的界限变化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279455&amp;idx=1&amp;sn=3f248a7c2fab2657e5438c52003dc910&amp;chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279455&amp;idx=1&amp;sn=3f248a7c2fab2657e5438c52003dc910&amp;chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&amp;scene=0#rd"/>
@@ -365,17 +372,10 @@
         <published>2026-07-02T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[37 CLI best practices for Node devs]]></title>
-        <id>https://nodeweekly.com/issues/631</id>
-        <link href="https://nodeweekly.com/issues/631"/>
+        <title type="html"><![CDATA[【开源】苹果模拟器的 npx serve：EvanBacon/serve-sim]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279455&amp;idx=2&amp;sn=428f5d1929cdf21e1a78b5ca541613bc&amp;chksm=bc3c681b565529476c426bb72c5db782fd23cf59ef77901989baa14d18498d16c4348b416e9f&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279455&amp;idx=2&amp;sn=428f5d1929cdf21e1a78b5ca541613bc&amp;chksm=bc3c681b565529476c426bb72c5db782fd23cf59ef77901989baa14d18498d16c4348b416e9f&amp;scene=0#rd"/>
         <updated>2026-07-02T00:00:00.000Z</updated>
         <published>2026-07-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agent 的 Skill 系统设计]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544717&amp;idx=1&amp;sn=b578abf5a81034670900a3b8eb874296&amp;chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544717&amp;idx=1&amp;sn=b578abf5a81034670900a3b8eb874296&amp;chksm=8390d255b4e75b438d6a794164fba9a2f6ccb48ff18e397fa0afa97a0d28d3cfd9959ab1d1ff#rd"/>
-        <updated>2026-07-01T00:00:00.000Z</updated>
-        <published>2026-07-01T00:00:00.000Z</published>
     </entry>
 </feed>
