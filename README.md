@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-17 17:44:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-18 15:24:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,8 +36,8 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -303,6 +303,7 @@
 </summary>
 
 
+- [2026-07-17-高价率运营-AI-工作台：约定驱动与-AI-编排的评测优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544861&idx=1&sn=bf26b607ad3030ac4091907c86935453&chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d0d92ec4a624c01c700049a006fb324)  ![](/assets/new.png) 
 - [2026-07-15-AINMM：存量生产级工程向-AI-Native-演进的五级成熟度模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544860&idx=1&sn=2af590b12b53e721597358cc91e03eac&chksm=8390d2c4b4e75bd27a7d881f20c1e6ee37988ec64ff29790f0adcf687b202f00b44a250c79be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95bfed95b34a0796ec8468838c3274c7)  
 - [2026-07-13-淘宝直播数字人-AgenticRL-实践：从-RLVR-到-MultiAgent-RL](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544788&idx=1&sn=04119d3b590b121e87fe87142daa6529&chksm=8390d28cb4e75b9af1a3a16e0a13fdac0e8d55bb26e60f0e0521b62ed869bf84b0a7b80eec72#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b901b9545590f9e8fd420236658d7543)  
 - [2026-07-10-CVPR-2026-|-重思基于扩散模型的视频超分辨率：利用对齐特征的稠密引导-DGAF-VSR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544787&idx=1&sn=1a22e2fc4328c7ee3a432c996ef50f3c&chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fb3bfdebe28c2d3a2f12d87cd4297ea2)  
@@ -312,7 +313,6 @@
 - [2026-06-29-AI-动画辅助实现（实践篇）：从-AE-到可运行代码的全链路方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544614&idx=1&sn=1341392d63cc99e7d3461fcbadc12d25&chksm=8390d1feb4e758e8f2bd8340b9e8f6a0882bdd6afec8c4c5c9d21e810c1b6e8040158e728e65#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8c7c55577ac9f9a12552a4a5667eebed)  
 - [2026-06-26-QoderWork-Skills-开发实践：从传统数科到-AI-数科的转型探索-我的Skills进阶之旅](http://mp.weixin.qq.com/s/DN2_sqc9aKuA7IU-VYJpDw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f98fb10e980f2a44bd652e76c5972328)  
 - [2026-06-24-场景营销前端-AI-Coding-—-AI-Native-的视觉稿还原](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544417&idx=1&sn=b464075a0ff3f06d98f1919331b6b7ff&chksm=8390d139b4e7582f6f76fd1769393679c81e51080b44d8851361364570005e2403ab8acc3ce2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=637273cef3f31cfdc032cc48f483c5f2)  
-- [2026-06-22-场景营销前端-AI-Coding-—-从问题到方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544388&idx=1&sn=a8a494898588bbce7e5c3c0f523d2a25&chksm=8390d11cb4e7580a858e7bbba64d114bafde06f8a6502c91a804fe9abc37135e00228aab3ab6#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f1f9a77f2b8a01b84c412752430aa68)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -324,7 +324,7 @@
 </summary>
 
 
-- [2026-07-17-CSS新单位dvh、lvmin、vi、cqb等初解](https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1bc32fa2188df136f39a31b8957dc104)  ![](/assets/new.png) 
+- [2026-07-17-CSS新单位dvh、lvmin、vi、cqb等初解](https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1bc32fa2188df136f39a31b8957dc104)  
 - [2026-07-09-前端快讯：setHTML和Element.startViewTransition已支持](https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=49e79b62ce767ffc5f832f91ab585570)  
 - [2026-07-07-AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3f1d9c187318a93a1290ccffa2251e19)  
 - [2026-06-29-浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765)  

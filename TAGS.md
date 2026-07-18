@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-17 17:44:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-18 15:24:22。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -41,6 +41,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-404-期）：你需要知道的-AI-内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1d9cb3c5c441fe04e95aafaf9778d3e)
+- [【淘系前端团队】高价率运营-AI-工作台：约定驱动与-AI-编排的评测优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544861&idx=1&sn=bf26b607ad3030ac4091907c86935453&chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d0d92ec4a624c01c700049a006fb324)
 - [【前端早读课】【开源】专为-Codex-桌面端设计的第三方个性化换肤/主题定制工具：Codex-Dream-Skin](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279596&idx=1&sn=b82634421f3289736e63a1f0d4ab3887&chksm=bc7c302787d73852951586d480dfcdd0c2f304bacb46beb16576ab3937ba53b1e024b138b56d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fc2e8583f9ea14aa30ca828ce083ece)
 - [【Nodejs技术栈】想搞-TUI-的有福了，马斯克把-Grok-Build-开源了，用-Rust-写的！-马斯克一句“Grok-Build-is-now-open-source”，把这套终端-AI-编程工具的代码公开了。-这次开源的不是-Grok-模型，而是完整的-Grok-Build-CLI。整个仓库-99.6%-都是-Rust，代码采用-Apache-2.0-许可证。-想搞-TUI-的开](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524262&idx=1&sn=8f7f4c1e8fda12fafc3a326af900f1ac&chksm=e80fd0e8df7859fe7e1e0e14770e0709c6f5516fcb0a726ccc8411763ad7795293c0f2ee50be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1766d911dcccb556aef86099cb94dd79)
 - [【淘系前端团队】AINMM：存量生产级工程向-AI-Native-演进的五级成熟度模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544860&idx=1&sn=2af590b12b53e721597358cc91e03eac&chksm=8390d2c4b4e75bd27a7d881f20c1e6ee37988ec64ff29790f0adcf687b202f00b44a250c79be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95bfed95b34a0796ec8468838c3274c7)
@@ -49,7 +50,6 @@
 - [【程序员成长指北】GPT-5.6-的-Sol、Terra、Luna-怎么选，怎么用？一篇文章讲透](http://mp.weixin.qq.com/s/15sjSVsjNk_eRJkHz8N2nA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=73169037b8a15ab9dccb7f821d68579e)
 - [【程序员成长指北】GPT-5.6-的-Sol、Terra、Luna-怎么选，怎么用？一篇文章讲透](http://mp.weixin.qq.com/s/nPluXyKLZNS_UfeBto1aHw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0288a30baffbd5b020f381d1bd55afd)
 - [【前端大全】崩溃！公司跟风纯靠-AI-写客服系统，上线直接全线崩盘。网友：脱离实际必翻车](http://mp.weixin.qq.com/s/EAUyMPmS-zTLvaUJA1TtxQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=70916460f47b8a3691cf9664028ee256)
-- [【Nodejs技术栈】杠上了！Bun-重写成-Rust-后，Zig-创始人开炮：LLM-之前就在写垃圾代码了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524188&idx=1&sn=41cd045b0531dd23ab850bfb2c2ac212&chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cee10028678146e386e34023966403cc)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -456,6 +456,7 @@
 
 
 
+- [【淘系前端团队】高价率运营-AI-工作台：约定驱动与-AI-编排的评测优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544861&idx=1&sn=bf26b607ad3030ac4091907c86935453&chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d0d92ec4a624c01c700049a006fb324)
 - [【前端早读课】【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530)
 - [【Nodejs技术栈】tsgo-终于转正！Go-重写的-TypeScript-7-正式发布，速度提升-10-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524204&idx=1&sn=a27eef12d7fc86985d4cc3e23c2ed7a5&chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d20456070861dc9918260d99c84406f)
 - [【淘系前端团队】CVPR-2026-|-面向视频扩散模型的局部细节偏好优化方法-LocalDPO](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544718&idx=1&sn=be61862eec337a27b1355927152046fe&chksm=8390d256b4e75b40338a13c9ad930e88e039e6684cbf676772b40695716f49c3a9d1ac82fbef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da613514b8b706334e9485770c73f66e)
@@ -465,7 +466,6 @@
 - [【前端从进阶到入院】Astro-7.0-版本新功能速览！全面拥抱-Rust，构建速度提升-15-61%](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517643&idx=1&sn=4e5a8127af79d8f1d1b0ac46cd098f8f&chksm=eb07bdb2dc7034a49c59983b6af4c551621f2551e0f88f8a0a41ddeea956dd6ba079a45ce472#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b543fc4505e1ee7ad1a467270d60a4c4)
 - [【Node-Weekly】npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=217dd885c01f10d7551395e2a8537b09)
 - [【前端早读课】【早说】智能体-AI-省钱指南：缓存、路由与上下文优化实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279256&idx=1&sn=207683769fa266b0b144ef75aa78f364&chksm=bc68daa32f57cda3b449402f67ffd95bc47f442fce9e3c622a040c5037d320718d1feaf51fd4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aab08c8dfe634859554e528f0b15d316)
-- [【程序员成长指北】别再一次性渲染-10-万条数据了：Vue-Virtual-Scroller-大列表性能指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529910&idx=1&sn=ff0b7d77683d8d6226aae31ebba84be7&chksm=f9927367cee5fa710994b1a69bb077f8382a68fb79bb565855702e15071c7399929b21adcd54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a2690846ecd04a3067f2052f60c427da)
 - [查看更多 >](/details/tags/optimization.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -508,6 +508,7 @@
 
 
 
+- [【淘系前端团队】高价率运营-AI-工作台：约定驱动与-AI-编排的评测优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544861&idx=1&sn=bf26b607ad3030ac4091907c86935453&chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d0d92ec4a624c01c700049a006fb324)
 - [【Nodejs技术栈】想搞-TUI-的有福了，马斯克把-Grok-Build-开源了，用-Rust-写的！-马斯克一句“Grok-Build-is-now-open-source”，把这套终端-AI-编程工具的代码公开了。-这次开源的不是-Grok-模型，而是完整的-Grok-Build-CLI。整个仓库-99.6%-都是-Rust，代码采用-Apache-2.0-许可证。-想搞-TUI-的开](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524262&idx=1&sn=8f7f4c1e8fda12fafc3a326af900f1ac&chksm=e80fd0e8df7859fe7e1e0e14770e0709c6f5516fcb0a726ccc8411763ad7795293c0f2ee50be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1766d911dcccb556aef86099cb94dd79)
 - [【前端从进阶到入院】Vite-Plus-终于放大招！一行命令，直接迁移项目！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517673&idx=1&sn=57f173327792fabc9b31f0878eb83f20&chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d818fb9a4ccc8b1e3dafe9484849b1bd)
 - [【JavaScript-Weekly】npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7eb94c3ade004f1aa58f24df9c99bc11)
@@ -517,7 +518,6 @@
 - [【前端早读课】【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公-SDK：dream-num/univer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=2&sn=e37229ae1fb878046301eb61facf99e9&chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=003dbc15d931aaab3bd065d47db84054)
 - [【前端大全】十年一遇！-HTML-反杀-JavaScript！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624644&idx=1&sn=02002ad2d0c2cd464b1bf0c1706ecd65&chksm=80224305b755ca13255dd09d8f3a73bcdcf7be2af2f4b357f7e96ef821883038da360a88037e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bdc44939dd3a0cf28ab1669e64f2ad3)
 - [【前端早读课】【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)
-- [【前端大全】离谱！张江某科技公司招了个印度组长，四个月-1-人变-8-人，他锁死代码要挟公司涨薪](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624626&idx=1&sn=48b4ab161a6db174bed462ff4cb9ebce&chksm=80224373b755ca654cdeca4332f632c2d775cdd9b3ac817db81b84d41435b6438e2ebf0dc1cd#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b5f26e8fb1b2535c4ef33c29b86060e)
 - [查看更多 >](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -586,6 +586,7 @@
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-404-期）：你需要知道的-AI-内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1d9cb3c5c441fe04e95aafaf9778d3e)
 - [【张鑫旭-鑫空间-鑫生活】CSS新单位dvh、lvmin、vi、cqb等初解](https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1bc32fa2188df136f39a31b8957dc104)
+- [【淘系前端团队】高价率运营-AI-工作台：约定驱动与-AI-编排的评测优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544861&idx=1&sn=bf26b607ad3030ac4091907c86935453&chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d0d92ec4a624c01c700049a006fb324)
 - [【前端早读课】【开源】专为-Codex-桌面端设计的第三方个性化换肤/主题定制工具：Codex-Dream-Skin](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279596&idx=1&sn=b82634421f3289736e63a1f0d4ab3887&chksm=bc7c302787d73852951586d480dfcdd0c2f304bacb46beb16576ab3937ba53b1e024b138b56d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fc2e8583f9ea14aa30ca828ce083ece)
 - [【Nodejs技术栈】想搞-TUI-的有福了，马斯克把-Grok-Build-开源了，用-Rust-写的！-马斯克一句“Grok-Build-is-now-open-source”，把这套终端-AI-编程工具的代码公开了。-这次开源的不是-Grok-模型，而是完整的-Grok-Build-CLI。整个仓库-99.6%-都是-Rust，代码采用-Apache-2.0-许可证。-想搞-TUI-的开](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524262&idx=1&sn=8f7f4c1e8fda12fafc3a326af900f1ac&chksm=e80fd0e8df7859fe7e1e0e14770e0709c6f5516fcb0a726ccc8411763ad7795293c0f2ee50be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1766d911dcccb556aef86099cb94dd79)
 - [【前端早读课】【开源】可定制且可组合的工程实践与工作流技能包：mattpocock/skills](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279586&idx=2&sn=9c8084411936f97c9a7d40b920698faf&chksm=bca7d18d887d5ec25fa0b2b69774e3cf7ae48d59e88eabe7c85012ae5f0a1cce305ba7099317&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c372820e8ebedf14ea2805eff6a5c21)
@@ -593,7 +594,6 @@
 - [【Node-Weekly】The-life-of-a-~200ms-HTTP-request-to-a-Node-app](https://nodeweekly.com/issues/633)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=29bbac913709031d1845456bddcd9f60)
 - [【淘系前端团队】AINMM：存量生产级工程向-AI-Native-演进的五级成熟度模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544860&idx=1&sn=2af590b12b53e721597358cc91e03eac&chksm=8390d2c4b4e75bd27a7d881f20c1e6ee37988ec64ff29790f0adcf687b202f00b44a250c79be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95bfed95b34a0796ec8468838c3274c7)
 - [【前端从进阶到入院】完蛋！比-Vite+-快-5.4-倍的前端工具链！正式发布！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517675&idx=1&sn=276a85082427c05fed12f6bb2230677a&chksm=eb07bd92dc703484605ec4ee4c288ad06e3b6c2da8237b182bbf85e8102c1bef49eb2f060493#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cf529b26912afe3172563ca88221e710)
-- [【程序员成长指北】让-Codex-自己查账：一个省-token-的小技巧](http://mp.weixin.qq.com/s/xtkokaPkvT8BL7OSwcl-yg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c9b53c3f5891f9f64c872bf7c86443b1)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-17T09:43:49.328Z</updated>
+    <updated>2026-07-18T07:23:57.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[CSS新单位dvh、lvmin、vi、cqb等初解]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/"/>
+        <updated>2026-07-17T00:00:00.000Z</updated>
+        <published>2026-07-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高价率运营 AI 工作台：约定驱动与 AI 编排的评测优化实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544861&amp;idx=1&amp;sn=bf26b607ad3030ac4091907c86935453&amp;chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544861&amp;idx=1&amp;sn=bf26b607ad3030ac4091907c86935453&amp;chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd"/>
         <updated>2026-07-17T00:00:00.000Z</updated>
         <published>2026-07-17T00:00:00.000Z</published>
     </entry>
@@ -368,13 +375,6 @@
         <title type="html"><![CDATA[不会写代码的高管用Claude Code两天上线新程序，工程师接手后发现：一个Bug，让AI一天烧掉一个月服务器费！]]></title>
         <id>http://mp.weixin.qq.com/s/XM7PQoLQzulCq1Pb9ALm-w</id>
         <link href="http://mp.weixin.qq.com/s/XM7PQoLQzulCq1Pb9ALm-w"/>
-        <updated>2026-07-02T00:00:00.000Z</updated>
-        <published>2026-07-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3725期】CSS状态与JavaScript事件之间的界限变化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279455&amp;idx=1&amp;sn=3f248a7c2fab2657e5438c52003dc910&amp;chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279455&amp;idx=1&amp;sn=3f248a7c2fab2657e5438c52003dc910&amp;chksm=bc414e64f94ac6907a3b49986a8e1e02871d4293fd3d68c1e847aed1a92350bed887ac930aae&amp;scene=0#rd"/>
         <updated>2026-07-02T00:00:00.000Z</updated>
         <published>2026-07-02T00:00:00.000Z</published>
     </entry>

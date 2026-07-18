@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-17 17:44:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-18 15:24:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-17-高价率运营-AI-工作台：约定驱动与-AI-编排的评测优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544861&idx=1&sn=bf26b607ad3030ac4091907c86935453&chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d0d92ec4a624c01c700049a006fb324) 
 - [2026-07-14-【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530) 
 - [2026-07-12-tsgo-终于转正！Go-重写的-TypeScript-7-正式发布，速度提升-10-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524204&idx=1&sn=a27eef12d7fc86985d4cc3e23c2ed7a5&chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d20456070861dc9918260d99c84406f) 
 - [2026-07-03-CVPR-2026-|-面向视频扩散模型的局部细节偏好优化方法-LocalDPO](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544718&idx=1&sn=be61862eec337a27b1355927152046fe&chksm=8390d256b4e75b40338a13c9ad930e88e039e6684cbf676772b40695716f49c3a9d1ac82fbef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da613514b8b706334e9485770c73f66e) 

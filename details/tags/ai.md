@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-17 17:44:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-18 15:24:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -8,6 +8,7 @@
 
 
 - [2026-07-17-科技爱好者周刊（第-404-期）：你需要知道的-AI-内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1d9cb3c5c441fe04e95aafaf9778d3e) 
+- [2026-07-17-高价率运营-AI-工作台：约定驱动与-AI-编排的评测优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544861&idx=1&sn=bf26b607ad3030ac4091907c86935453&chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d0d92ec4a624c01c700049a006fb324) 
 - [2026-07-17-【开源】专为-Codex-桌面端设计的第三方个性化换肤/主题定制工具：Codex-Dream-Skin](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279596&idx=1&sn=b82634421f3289736e63a1f0d4ab3887&chksm=bc7c302787d73852951586d480dfcdd0c2f304bacb46beb16576ab3937ba53b1e024b138b56d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fc2e8583f9ea14aa30ca828ce083ece) 
 - [2026-07-16-想搞-TUI-的有福了，马斯克把-Grok-Build-开源了，用-Rust-写的！-马斯克一句“Grok-Build-is-now-open-source”，把这套终端-AI-编程工具的代码公开了。-这次开源的不是-Grok-模型，而是完整的-Grok-Build-CLI。整个仓库-99.6%-都是-Rust，代码采用-Apache-2.0-许可证。-想搞-TUI-的开](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524262&idx=1&sn=8f7f4c1e8fda12fafc3a326af900f1ac&chksm=e80fd0e8df7859fe7e1e0e14770e0709c6f5516fcb0a726ccc8411763ad7795293c0f2ee50be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1766d911dcccb556aef86099cb94dd79) 
 - [2026-07-15-AINMM：存量生产级工程向-AI-Native-演进的五级成熟度模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544860&idx=1&sn=2af590b12b53e721597358cc91e03eac&chksm=8390d2c4b4e75bd27a7d881f20c1e6ee37988ec64ff29790f0adcf687b202f00b44a250c79be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95bfed95b34a0796ec8468838c3274c7) 
