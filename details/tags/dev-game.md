@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-18 15:24:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-19 19:02:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-18-感谢-GPT-5.6-Sol、Kimi，把-A-社-Claude-Fable-5-给干成永久订阅了！Codex-看到后又玩起了重置游戏！-Claude-今天宣布-7-月-20-号起所有-Max-和-Team-Premium-套餐都将包含-Claude-Fable-5，限额为-50%。-但是-Pro-用户又被抛弃了～-Pro-和-Team-Standard-用户需要通过积分使](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524280&idx=1&sn=479f8eeb7a405864237e0154cb1edf63&chksm=e80fd0f6df7859e09b536dc6d93bff2980c5ae14a447bfd4cbb4a66c8b5f8101fa1a5a34d501#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8518f55e1067e814ee66d630f3443986) 
 - [2026-06-25-PixiJS-火了：HTML-in-Canvas-真的落地了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624589&idx=1&sn=72d205255bcb3eb6c2adafe7aa9165fb&chksm=8022434cb755ca5aed02468785ca197490df689c417768fe7b7dc85b72f8a4fb96f791ce10ac#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d674b28f78c82d5366af8633f3c7390) 
 - [2026-05-27-一个人做宣传片、写游戏、盯热点？实测这个“全干版AI专家”三天全搞定](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523699&idx=1&sn=5ab270cdf167031f779eecc279099637&chksm=e80fd23ddf785b2b5ca861b06f7ef41b22f0a13e6a48ed5243801e589cf97e51ec2e33106201#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=71cf504e2b226f5e1f73b6d315ba52d2) 
 - [2026-01-18-员工一律禁用AI！50年老牌游戏公司下发最严禁令](http://mp.weixin.qq.com/s/zzG0u5XiRYOn5I-8sGyB7g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=983d3332c9ef8f211906ab255923660d) 

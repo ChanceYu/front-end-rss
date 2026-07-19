@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-18 15:24:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-19 19:02:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-19-前端又杀出一匹黑马！用-Bun-刚抛弃的-Zig-写的，连-Oxc-作者都公开点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524295&idx=1&sn=9e048b4432faebc7178c9e3904997a3c&chksm=e80fd089df78599facfa796828cfe06c0d55283678ba8094c69592fb8015366e20eff86adf23#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af58188b0c52fec6ffa796e9d740f2a0) 
 - [2026-07-16-The-life-of-a-~200ms-HTTP-request-to-a-Node-app](https://nodeweekly.com/issues/633)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=29bbac913709031d1845456bddcd9f60) 
 - [2026-07-14-和-Bun-反着来！Vercel-用-Zig-造了个-Native-SDK，对标-Electron、Tauri](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524255&idx=1&sn=62ea652877f4767ca4d9ed70689cb18e&chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3cad447af30c56cd9683e3b019eed) 
 - [2026-07-14-npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7eb94c3ade004f1aa58f24df9c99bc11) 
