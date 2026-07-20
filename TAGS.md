@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-19 19:02:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-20 12:41:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -584,6 +584,7 @@
 
 
 
+- [【前端早读课】【第3731期】每次都可以放心遵循的视觉设计法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279600&idx=1&sn=ed3587f9787c43b76f12cd75c249687e&chksm=bcc888e436a00ce7fc344ff3b7172fb6d26d4735ee46ba8a1f75684d4e486515c0d86b0ba7f8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f1d691f35a6839d6d5ba1220b5025b9e)
 - [【Nodejs技术栈】前端又杀出一匹黑马！用-Bun-刚抛弃的-Zig-写的，连-Oxc-作者都公开点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524295&idx=1&sn=9e048b4432faebc7178c9e3904997a3c&chksm=e80fd089df78599facfa796828cfe06c0d55283678ba8094c69592fb8015366e20eff86adf23#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af58188b0c52fec6ffa796e9d740f2a0)
 - [【Nodejs技术栈】感谢-GPT-5.6-Sol、Kimi，把-A-社-Claude-Fable-5-给干成永久订阅了！Codex-看到后又玩起了重置游戏！-Claude-今天宣布-7-月-20-号起所有-Max-和-Team-Premium-套餐都将包含-Claude-Fable-5，限额为-50%。-但是-Pro-用户又被抛弃了～-Pro-和-Team-Standard-用户需要通过积分使](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524280&idx=1&sn=479f8eeb7a405864237e0154cb1edf63&chksm=e80fd0f6df7859e09b536dc6d93bff2980c5ae14a447bfd4cbb4a66c8b5f8101fa1a5a34d501#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8518f55e1067e814ee66d630f3443986)
 - [【Nodejs技术栈】国产大模型-Kimi-K3-发布，百万上下文、原生多模态，多项指标超-Fable-5](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524278&idx=1&sn=cd7801827300d1df2b326d619fed6a6e&chksm=e80fd0f8df7859eed8618d0608a2805155a83abcdacfa9fd63abd8afe1067efd0c60b96c86ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3cf40241aac24d94c766aaa842f33cb7)
@@ -592,7 +593,6 @@
 - [【淘系前端团队】高价率运营-AI-工作台：约定驱动与-AI-编排的评测优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544861&idx=1&sn=bf26b607ad3030ac4091907c86935453&chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d0d92ec4a624c01c700049a006fb324)
 - [【前端早读课】【开源】专为-Codex-桌面端设计的第三方个性化换肤/主题定制工具：Codex-Dream-Skin](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279596&idx=1&sn=b82634421f3289736e63a1f0d4ab3887&chksm=bc7c302787d73852951586d480dfcdd0c2f304bacb46beb16576ab3937ba53b1e024b138b56d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fc2e8583f9ea14aa30ca828ce083ece)
 - [【Nodejs技术栈】想搞-TUI-的有福了，马斯克把-Grok-Build-开源了，用-Rust-写的！-马斯克一句“Grok-Build-is-now-open-source”，把这套终端-AI-编程工具的代码公开了。-这次开源的不是-Grok-模型，而是完整的-Grok-Build-CLI。整个仓库-99.6%-都是-Rust，代码采用-Apache-2.0-许可证。-想搞-TUI-的开](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524262&idx=1&sn=8f7f4c1e8fda12fafc3a326af900f1ac&chksm=e80fd0e8df7859fe7e1e0e14770e0709c6f5516fcb0a726ccc8411763ad7795293c0f2ee50be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1766d911dcccb556aef86099cb94dd79)
-- [【前端早读课】【开源】可定制且可组合的工程实践与工作流技能包：mattpocock/skills](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279586&idx=2&sn=9c8084411936f97c9a7d40b920698faf&chksm=bca7d18d887d5ec25fa0b2b69774e3cf7ae48d59e88eabe7c85012ae5f0a1cce305ba7099317&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c372820e8ebedf14ea2805eff6a5c21)
 - [【前端早读课】【第3730期】CSS-环境变量：env-函数全面解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279586&idx=1&sn=d9b73f21f231308e42b21ddc9b9f7704&chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f1a21373a169463218774a919e4377ed)
 - [查看更多 >](/details/tags/other.md)
 
