@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-20T04:40:37.174Z</updated>
+    <updated>2026-07-21T08:05:04.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[一个 Table，掀翻所有 UI 组件库？支持 9 大前端框架！]]></title>
+        <id>http://mp.weixin.qq.com/s/27RbHTg-vsH05zMVAg73HQ</id>
+        <link href="http://mp.weixin.qq.com/s/27RbHTg-vsH05zMVAg73HQ"/>
+        <updated>2026-07-21T00:00:00.000Z</updated>
+        <published>2026-07-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端又杀出一匹黑马！用 Bun 刚抛弃的 Zig 写的，连 Oxc 作者都公开点赞]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524295&amp;idx=1&amp;sn=9e048b4432faebc7178c9e3904997a3c&amp;chksm=e80fd089df78599facfa796828cfe06c0d55283678ba8094c69592fb8015366e20eff86adf23#rd</id>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[CVPR 2026 | 面向视频扩散模型的局部细节偏好优化方法 LocalDPO]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544718&amp;idx=1&amp;sn=be61862eec337a27b1355927152046fe&amp;chksm=8390d256b4e75b40338a13c9ad930e88e039e6684cbf676772b40695716f49c3a9d1ac82fbef#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544718&amp;idx=1&amp;sn=be61862eec337a27b1355927152046fe&amp;chksm=8390d256b4e75b40338a13c9ad930e88e039e6684cbf676772b40695716f49c3a9d1ac82fbef#rd"/>
-        <updated>2026-07-03T00:00:00.000Z</updated>
-        <published>2026-07-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里禁用 Claude Code：AI 编程工具的信任危机爆发了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530131&amp;idx=1&amp;sn=88351920a5860dca8eda52b5afb145c7&amp;chksm=f9927042cee5f954bba323c52f603ebd20a4372a31d921f2ae047155057eb59b9ad77a17e4d2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530131&amp;idx=1&amp;sn=88351920a5860dca8eda52b5afb145c7&amp;chksm=f9927042cee5f954bba323c52f603ebd20a4372a31d921f2ae047155057eb59b9ad77a17e4d2#rd"/>
         <updated>2026-07-03T00:00:00.000Z</updated>
         <published>2026-07-03T00:00:00.000Z</published>
     </entry>
