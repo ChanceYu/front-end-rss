@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-21 23:27:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-22 12:55:53，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -25,8 +25,8 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
-- [前端早读课](#前端早读课)  
+- [JavaScript-Weekly](#javascript-weekly)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -72,7 +72,7 @@
 </summary>
 
 
-- [2026-07-21-The-coding-challenge-you-don't-want-to-pass](https://javascriptweekly.com/issues/795)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d8116b99216c85290ad8c07125ab04f)  ![](/assets/new.png) 
+- [2026-07-21-The-coding-challenge-you-don't-want-to-pass](https://javascriptweekly.com/issues/795)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d8116b99216c85290ad8c07125ab04f)  
 - [2026-07-14-npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7eb94c3ade004f1aa58f24df9c99bc11)  
 - [2026-07-07-What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ef212351ac771f876b7afeaea937b3a)  
 - [2026-06-30-Will-npm-v12-reject-your-.npmrc?](https://javascriptweekly.com/issues/792)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e95ec840a83dd1bc01e9c299739fa8e)  
@@ -93,16 +93,16 @@
 </summary>
 
 
+- [2026-07-22-【开源】既简单又强大的版本控制系统：jj](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279617&idx=2&sn=e0ae28141650d98f09550423cb60c876&chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e030c2cacbed87139dc226d7c54ba240)  ![](/assets/new.png) 
+- [2026-07-22-【第3732期】不必转投-jj，git-history-让历史重写变得安全又优雅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279617&idx=1&sn=96bc7d3697463bfc451f3e83bb17ce5d&chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e9205b2bc9a437ce34a9d43bc4cac26d)  ![](/assets/new.png) 
 - [2026-07-20-【第3731期】每次都可以放心遵循的视觉设计法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279600&idx=1&sn=ed3587f9787c43b76f12cd75c249687e&chksm=bcc888e436a00ce7fc344ff3b7172fb6d26d4735ee46ba8a1f75684d4e486515c0d86b0ba7f8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f1d691f35a6839d6d5ba1220b5025b9e)  
 - [2026-07-17-【开源】专为-Codex-桌面端设计的第三方个性化换肤/主题定制工具：Codex-Dream-Skin](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279596&idx=1&sn=b82634421f3289736e63a1f0d4ab3887&chksm=bc7c302787d73852951586d480dfcdd0c2f304bacb46beb16576ab3937ba53b1e024b138b56d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4fc2e8583f9ea14aa30ca828ce083ece)  
-- [2026-07-16-【开源】可定制且可组合的工程实践与工作流技能包：mattpocock/skills](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279586&idx=2&sn=9c8084411936f97c9a7d40b920698faf&chksm=bca7d18d887d5ec25fa0b2b69774e3cf7ae48d59e88eabe7c85012ae5f0a1cce305ba7099317&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c372820e8ebedf14ea2805eff6a5c21)  
 - [2026-07-16-【第3730期】CSS-环境变量：env-函数全面解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279586&idx=1&sn=d9b73f21f231308e42b21ddc9b9f7704&chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f1a21373a169463218774a919e4377ed)  
+- [2026-07-16-【开源】可定制且可组合的工程实践与工作流技能包：mattpocock/skills](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279586&idx=2&sn=9c8084411936f97c9a7d40b920698faf&chksm=bca7d18d887d5ec25fa0b2b69774e3cf7ae48d59e88eabe7c85012ae5f0a1cce305ba7099317&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c372820e8ebedf14ea2805eff6a5c21)  
 - [2026-07-14-【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530)  
-- [2026-07-09-【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公-SDK：dream-num/univer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=2&sn=e37229ae1fb878046301eb61facf99e9&chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=003dbc15d931aaab3bd065d47db84054)  
 - [2026-07-09-【早说】代理创造杠杆，约束机制建立信任](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=1&sn=aeaee15bb64c29b25a9e0f773f4c093a&chksm=bc40a235c5326739bc36c4e81c4b45ce0f81ec1452d28ea2466ceaa3fc63287a2bb11f6cf3e8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50b9c9cce074ed7f49e77b32fb6b47b2)  
-- [2026-07-08-【第3728期】用-Web-标准优雅实现深色模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=1&sn=6d06b35b04d4ff6ce43076d95aa2049b&chksm=bccf1753fc7a6d5e6c98005786d577fa47b854d3f46ae69828322fea130cacb19cfabb9b8cdb&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=477855e1816e291e9a10dfc0e926615f)  
+- [2026-07-09-【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公-SDK：dream-num/univer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=2&sn=e37229ae1fb878046301eb61facf99e9&chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=003dbc15d931aaab3bd065d47db84054)  
 - [2026-07-08-【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)  
-- [2026-07-07-【第3727期】基于-OpenAI-Codex-Subagents-的并行开发与团队化管理实战指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279485&idx=1&sn=8718f2fdf8845e6398bbd30f9f8453f9&chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=05e8cc59e6db8f2ee4172eb3b31ff93d)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

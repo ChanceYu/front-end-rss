@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-21 23:27:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-22 12:55:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -482,6 +482,7 @@
 
 
 
+- [【前端早读课】【第3732期】不必转投-jj，git-history-让历史重写变得安全又优雅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279617&idx=1&sn=96bc7d3697463bfc451f3e83bb17ce5d&chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e9205b2bc9a437ce34a9d43bc4cac26d)
 - [【前端大全】一个-Table，掀翻所有-UI-组件库？支持-9-大前端框架！](http://mp.weixin.qq.com/s/27RbHTg-vsH05zMVAg73HQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5361f505984fb6c3d8ba2ab4f53fbc7a)
 - [【淘系前端团队】Copilot-需求交付-Skill-如何实现数据需求24h交付](http://mp.weixin.qq.com/s/7JI5zJdT73OFbI-DVl3Oqg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3fda405e2ba7aaff5f79cadbb8063bc1)
 - [【Nodejs技术栈】国产大模型-Kimi-K3-发布，百万上下文、原生多模态，多项指标超-Fable-5](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524278&idx=1&sn=cd7801827300d1df2b326d619fed6a6e&chksm=e80fd0f8df7859eed8618d0608a2805155a83abcdacfa9fd63abd8afe1067efd0c60b96c86ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3cf40241aac24d94c766aaa842f33cb7)
@@ -491,7 +492,6 @@
 - [【JavaScript-Weekly】npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7eb94c3ade004f1aa58f24df9c99bc11)
 - [【Nodejs技术栈】tsgo-终于转正！Go-重写的-TypeScript-7-正式发布，速度提升-10-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524204&idx=1&sn=a27eef12d7fc86985d4cc3e23c2ed7a5&chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d20456070861dc9918260d99c84406f)
 - [【前端从进阶到入院】TypeScript-7-正式发布！Vue-暂被-"拒之门外"-！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517666&idx=1&sn=15fcb2090802521b2ce3a2035cad8378&chksm=eb07bd9bdc70348dc6e3f30784276a0119072cf8e6160c825d10106ad933a352cef511581d74#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a297bfc5c4965d48c4278048a6030274)
-- [【前端早读课】【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公-SDK：dream-num/univer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=2&sn=e37229ae1fb878046301eb61facf99e9&chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=003dbc15d931aaab3bd065d47db84054)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -534,6 +534,8 @@
 
 
 
+- [【前端早读课】【第3732期】不必转投-jj，git-history-让历史重写变得安全又优雅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279617&idx=1&sn=96bc7d3697463bfc451f3e83bb17ce5d&chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e9205b2bc9a437ce34a9d43bc4cac26d)
+- [【前端早读课】【开源】既简单又强大的版本控制系统：jj](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279617&idx=2&sn=e0ae28141650d98f09550423cb60c876&chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e030c2cacbed87139dc226d7c54ba240)
 - [【前端早读课】【第3720期】智能体时代的代码审查](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279339&idx=1&sn=44f5e97799ad1b0d711dfc4f965d0913&chksm=bcfda41d99c9d28f8bea1084529ece0e149a9a0ac00baa791fbbb989308c4ff5924f7f452853&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e72be3ac23140cad47bd5bb3a6a39b29)
 - [【前端早读课】【第3696期】Github：差异对比行的性能攀登之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279063&idx=1&sn=e13575e9dc5154706b28ad835abe6fc5&chksm=bce37a93bd4182224d88720c359adff418f9c0507a2ae68abcda9f95c871e53da0d9ca464709&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4680011c9c720656b34fef3cf6944fef)
 - [【前端早读课】【第3692期】告别基础设施焦虑：用Claude托管代理轻松构建代码审查工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279013&idx=1&sn=4bb79bd9f784df7ff3e875bae9344991&chksm=bc29256271ede6abfb70a490d877a39470c369d3f0b67472dd2f1f18be53600d06e5105e3165&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2f0730f027dcf552b497a27398153498)
@@ -542,8 +544,6 @@
 - [【前端大全】炸锅了！腾讯突然给-GitHub-发函，下架-4000-多个微信聊天记录相关开源仓库。网友：自己的记录都不让导出？](http://mp.weixin.qq.com/s/vmFVRqTeWou0h3F1PRlMVA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=075d66de474bfad95b00778a0b5d5403)
 - [【JavaScript-Weekly】TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)
 - [【前端早读课】【第3591期】GitHub-Spec-Kit：规范驱动开发走在正确的方向上---严谨、渐进式的-Vibe-Coding](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277468&idx=1&sn=555fad29ddf6adaed65dd6b2032b9ec7&chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&scene=0#rd)
-- [【前端大全】“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”](http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg)
-- [【程序员成长指北】再也不用背命令！Cursor-终端-Cmd+K-=-你的专属-Linux-&amp;-Git-智能助手](http://mp.weixin.qq.com/s/k1A7W0QwfqGZMFgfU50e_Q)
 - [查看更多 >](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,8 @@
 
 
 
+- [【前端早读课】【第3732期】不必转投-jj，git-history-让历史重写变得安全又优雅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279617&idx=1&sn=96bc7d3697463bfc451f3e83bb17ce5d&chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e9205b2bc9a437ce34a9d43bc4cac26d)
+- [【前端早读课】【开源】既简单又强大的版本控制系统：jj](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279617&idx=2&sn=e0ae28141650d98f09550423cb60c876&chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e030c2cacbed87139dc226d7c54ba240)
 - [【Nodejs技术栈】AI-跑-React-真实项目翻大车！GPT-5.6-Sol、Fable-5-也没救](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524321&idx=1&sn=7a44546affcb22ba810663807339d0a2&chksm=e80fd0afdf7859b9c8ca5b285ee586ea49846f7faabac557572f2388935bf697dd93e286a546#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ee00e06aa9c5fb693433e5ae6409158)
 - [【前端大全】一个-Table，掀翻所有-UI-组件库？支持-9-大前端框架！](http://mp.weixin.qq.com/s/27RbHTg-vsH05zMVAg73HQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5361f505984fb6c3d8ba2ab4f53fbc7a)
 - [【JavaScript-Weekly】The-coding-challenge-you-don't-want-to-pass](https://javascriptweekly.com/issues/795)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d8116b99216c85290ad8c07125ab04f)
@@ -592,8 +594,6 @@
 - [【前端早读课】【第3731期】每次都可以放心遵循的视觉设计法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279600&idx=1&sn=ed3587f9787c43b76f12cd75c249687e&chksm=bcc888e436a00ce7fc344ff3b7172fb6d26d4735ee46ba8a1f75684d4e486515c0d86b0ba7f8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f1d691f35a6839d6d5ba1220b5025b9e)
 - [【Nodejs技术栈】前端又杀出一匹黑马！用-Bun-刚抛弃的-Zig-写的，连-Oxc-作者都公开点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524295&idx=1&sn=9e048b4432faebc7178c9e3904997a3c&chksm=e80fd089df78599facfa796828cfe06c0d55283678ba8094c69592fb8015366e20eff86adf23#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af58188b0c52fec6ffa796e9d740f2a0)
 - [【Nodejs技术栈】感谢-GPT-5.6-Sol、Kimi，把-A-社-Claude-Fable-5-给干成永久订阅了！Codex-看到后又玩起了重置游戏！-Claude-今天宣布-7-月-20-号起所有-Max-和-Team-Premium-套餐都将包含-Claude-Fable-5，限额为-50%。-但是-Pro-用户又被抛弃了～-Pro-和-Team-Standard-用户需要通过积分使](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524280&idx=1&sn=479f8eeb7a405864237e0154cb1edf63&chksm=e80fd0f6df7859e09b536dc6d93bff2980c5ae14a447bfd4cbb4a66c8b5f8101fa1a5a34d501#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8518f55e1067e814ee66d630f3443986)
-- [【Nodejs技术栈】国产大模型-Kimi-K3-发布，百万上下文、原生多模态，多项指标超-Fable-5](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524278&idx=1&sn=cd7801827300d1df2b326d619fed6a6e&chksm=e80fd0f8df7859eed8618d0608a2805155a83abcdacfa9fd63abd8afe1067efd0c60b96c86ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3cf40241aac24d94c766aaa842f33cb7)
-- [【阮一峰的网络日志】科技爱好者周刊（第-404-期）：你需要知道的-AI-内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1d9cb3c5c441fe04e95aafaf9778d3e)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
