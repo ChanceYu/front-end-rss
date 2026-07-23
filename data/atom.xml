@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-23T05:12:26.835Z</updated>
+    <updated>2026-07-23T08:07:11.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[尤雨溪成立 Vue 新公司，3.6 RC 发布：Vapor 告别虚拟 DOM]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524338&amp;idx=1&amp;sn=e49c8f9ab34952769dc545a6eccc9c2a&amp;chksm=e80fd0bcdf7859aa1909dc069f4ad46432c8a56c4c9810419186e4c42153c5d7bfdc715321f4#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524338&amp;idx=1&amp;sn=e49c8f9ab34952769dc545a6eccc9c2a&amp;chksm=e80fd0bcdf7859aa1909dc069f4ad46432c8a56c4c9810419186e4c42153c5d7bfdc715321f4#rd"/>
+        <updated>2026-07-23T00:00:00.000Z</updated>
+        <published>2026-07-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纯CSS实现repeat(–n, anything)循环展示或相加功能]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/"/>
         <updated>2026-07-23T00:00:00.000Z</updated>
         <published>2026-07-23T00:00:00.000Z</published>
     </entry>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[弃用 Tailwind CSS！Meta 开源的 StyleX 火了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624638&amp;idx=1&amp;sn=1d64046db3ef129633ca79375855a640&amp;chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624638&amp;idx=1&amp;sn=1d64046db3ef129633ca79375855a640&amp;chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd"/>
-        <updated>2026-07-07T00:00:00.000Z</updated>
-        <published>2026-07-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3727期】基于 OpenAI Codex Subagents 的并行开发与团队化管理实战指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279485&amp;idx=1&amp;sn=8718f2fdf8845e6398bbd30f9f8453f9&amp;chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279485&amp;idx=1&amp;sn=8718f2fdf8845e6398bbd30f9f8453f9&amp;chksm=bca748ba1cdf2b08033776d4872d3d7357e1ef1f0d3e8bb15058d1d774ec683d81a817c1920f&amp;scene=0#rd"/>
         <updated>2026-07-07T00:00:00.000Z</updated>
         <published>2026-07-07T00:00:00.000Z</published>
     </entry>
