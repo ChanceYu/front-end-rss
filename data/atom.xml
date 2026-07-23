@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-23T08:07:11.429Z</updated>
+    <updated>2026-07-23T17:07:23.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[纯CSS实现repeat(–n, anything)循环展示或相加功能]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/"/>
+        <updated>2026-07-23T00:00:00.000Z</updated>
+        <published>2026-07-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domenic Denicola's modern dev setup]]></title>
+        <id>https://nodeweekly.com/issues/634</id>
+        <link href="https://nodeweekly.com/issues/634"/>
         <updated>2026-07-23T00:00:00.000Z</updated>
         <published>2026-07-23T00:00:00.000Z</published>
     </entry>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[AI时代网站智能体无障碍访问开发指南]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/"/>
-        <updated>2026-07-07T00:00:00.000Z</updated>
-        <published>2026-07-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弃用 Tailwind CSS！Meta 开源的 StyleX 火了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624638&amp;idx=1&amp;sn=1d64046db3ef129633ca79375855a640&amp;chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624638&amp;idx=1&amp;sn=1d64046db3ef129633ca79375855a640&amp;chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd"/>
         <updated>2026-07-07T00:00:00.000Z</updated>
         <published>2026-07-07T00:00:00.000Z</published>
     </entry>
