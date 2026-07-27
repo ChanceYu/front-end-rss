@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-27 20:48:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-28 00:06:26，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -40,8 +40,8 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
-- [Nodejs技术栈](#nodejs技术栈)  
+- [风痕·術&amp;思](#风痕·術&amp;思)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -387,7 +387,7 @@
 </summary>
 
 
-- [2026-07-27-Vibe-Coding-将程序编成黑盒，怎么办？](https://fenghen.me/posts/2026/07/27/yorz-sdd-gui/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a345c6bba1401f0877a672812328a555)  ![](/assets/new.png) 
+- [2026-07-27-Vibe-Coding-将程序编成黑盒，怎么办？](https://fenghen.me/posts/2026/07/27/yorz-sdd-gui/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a345c6bba1401f0877a672812328a555)  
 - [2026-06-13-此心光明，硅芯可鉴](https://fenghen.me/posts/2026/06/13/bright-heart-silicon-witness/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=011830fdbb332aa91c15d85aafc6dd1c)  
 - [2026-05-24-创新视频剪辑交互：二维时间轴-+-文字轨](https://fenghen.me/posts/2026/05/24/dimcut/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7d2789615140542e758cb62495957949)  
 - [2026-04-23-AI-时代的程序与程序员](https://fenghen.me/posts/2026/04/23/ai-era-programmers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=127b8fe1c3b079682644bcd71f798f14)  
@@ -408,6 +408,8 @@
 </summary>
 
 
+- [2026-07-25-Bun-Rust-重构版还没发，就开始吊打-Deno-和-Node.js-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524353&idx=1&sn=bc8867a3f77c63aacb72648e684aebbc&chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cfbf3dfa0c33f49b7bbe7ab50ed9b421)  ![](/assets/new.png) 
+- [2026-07-24-Node.js-企业级框架-NestJS-v12-快来了：ESM、Vitest-全都换了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524339&idx=1&sn=4b5e593fb9ecd9efff8a8402ca9604e6&chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2ef1059d88a87adee4e3ff038aa8914)  ![](/assets/new.png) 
 - [2026-07-23-尤雨溪成立-Vue-新公司，3.6-RC-发布：Vapor-告别虚拟-DOM](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524338&idx=1&sn=e49c8f9ab34952769dc545a6eccc9c2a&chksm=e80fd0bcdf7859aa1909dc069f4ad46432c8a56c4c9810419186e4c42153c5d7bfdc715321f4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=85ff2faf9cacd39cb560731f6ef0cef5)  
 - [2026-07-22-放弃-Bun！Claude-Code-最强开源对手押注-Node.js，16-万-Star-项目彻底重写](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524331&idx=1&sn=6689bd9f40de0d93067aeb714af181f5&chksm=e80fd0a5df7859b3c4768d4fd96a5920a5a99e80f688f6cfcd8e4c6c0a7acbc6c0f043a2b084#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=07f15e55e605be656fb6430016180da0)  
 - [2026-07-21-AI-跑-React-真实项目翻大车！GPT-5.6-Sol、Fable-5-也没救](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524321&idx=1&sn=7a44546affcb22ba810663807339d0a2&chksm=e80fd0afdf7859b9c8ca5b285ee586ea49846f7faabac557572f2388935bf697dd93e286a546#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ee00e06aa9c5fb693433e5ae6409158)  
@@ -416,8 +418,6 @@
 - [2026-07-18-感谢-GPT-5.6-Sol、Kimi，把-A-社-Claude-Fable-5-给干成永久订阅了！Codex-看到后又玩起了重置游戏！-Claude-今天宣布-7-月-20-号起所有-Max-和-Team-Premium-套餐都将包含-Claude-Fable-5，限额为-50%。-但是-Pro-用户又被抛弃了～-Pro-和-Team-Standard-用户需要通过积分使](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524280&idx=1&sn=479f8eeb7a405864237e0154cb1edf63&chksm=e80fd0f6df7859e09b536dc6d93bff2980c5ae14a447bfd4cbb4a66c8b5f8101fa1a5a34d501#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8518f55e1067e814ee66d630f3443986)  
 - [2026-07-17-国产大模型-Kimi-K3-发布，百万上下文、原生多模态，多项指标超-Fable-5](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524278&idx=1&sn=cd7801827300d1df2b326d619fed6a6e&chksm=e80fd0f8df7859eed8618d0608a2805155a83abcdacfa9fd63abd8afe1067efd0c60b96c86ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3cf40241aac24d94c766aaa842f33cb7)  
 - [2026-07-16-想搞-TUI-的有福了，马斯克把-Grok-Build-开源了，用-Rust-写的！-马斯克一句“Grok-Build-is-now-open-source”，把这套终端-AI-编程工具的代码公开了。-这次开源的不是-Grok-模型，而是完整的-Grok-Build-CLI。整个仓库-99.6%-都是-Rust，代码采用-Apache-2.0-许可证。-想搞-TUI-的开](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524262&idx=1&sn=8f7f4c1e8fda12fafc3a326af900f1ac&chksm=e80fd0e8df7859fe7e1e0e14770e0709c6f5516fcb0a726ccc8411763ad7795293c0f2ee50be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1766d911dcccb556aef86099cb94dd79)  
-- [2026-07-14-和-Bun-反着来！Vercel-用-Zig-造了个-Native-SDK，对标-Electron、Tauri](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524255&idx=1&sn=62ea652877f4767ca4d9ed70689cb18e&chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3cad447af30c56cd9683e3b019eed)  
-- [2026-07-12-tsgo-终于转正！Go-重写的-TypeScript-7-正式发布，速度提升-10-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524204&idx=1&sn=a27eef12d7fc86985d4cc3e23c2ed7a5&chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d20456070861dc9918260d99c84406f)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-27 20:48:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-28 00:06:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -8,6 +8,7 @@
 
 
 - [2026-07-27-【开源】口播视频（Talking-head）AI-视频编辑器：pireel/pireel](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279639&idx=2&sn=412e45d22a32a7003d2f25b7942d9c0b&chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=beec8d245672ec7df1d8aadfc5cc6c9c) 
+- [2026-07-24-Node.js-企业级框架-NestJS-v12-快来了：ESM、Vitest-全都换了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524339&idx=1&sn=4b5e593fb9ecd9efff8a8402ca9604e6&chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2ef1059d88a87adee4e3ff038aa8914) 
 - [2026-07-23-尤雨溪成立-Vue-新公司，3.6-RC-发布：Vapor-告别虚拟-DOM](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524338&idx=1&sn=e49c8f9ab34952769dc545a6eccc9c2a&chksm=e80fd0bcdf7859aa1909dc069f4ad46432c8a56c4c9810419186e4c42153c5d7bfdc715321f4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=85ff2faf9cacd39cb560731f6ef0cef5) 
 - [2026-07-23-纯CSS实现repeat–n,-anything循环展示或相加功能](https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a3a05f15a5a96f112ef387b225f34e3) 
 - [2026-07-22-【第3732期】不必转投-jj，git-history-让历史重写变得安全又优雅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279617&idx=1&sn=96bc7d3697463bfc451f3e83bb17ce5d&chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e9205b2bc9a437ce34a9d43bc4cac26d) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-27 20:48:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-28 00:06:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,8 @@
 
 
 
+- [2026-07-25-Bun-Rust-重构版还没发，就开始吊打-Deno-和-Node.js-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524353&idx=1&sn=bc8867a3f77c63aacb72648e684aebbc&chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cfbf3dfa0c33f49b7bbe7ab50ed9b421) 
+- [2026-07-24-Node.js-企业级框架-NestJS-v12-快来了：ESM、Vitest-全都换了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524339&idx=1&sn=4b5e593fb9ecd9efff8a8402ca9604e6&chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2ef1059d88a87adee4e3ff038aa8914) 
 - [2026-07-22-放弃-Bun！Claude-Code-最强开源对手押注-Node.js，16-万-Star-项目彻底重写](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524331&idx=1&sn=6689bd9f40de0d93067aeb714af181f5&chksm=e80fd0a5df7859b3c4768d4fd96a5920a5a99e80f688f6cfcd8e4c6c0a7acbc6c0f043a2b084#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=07f15e55e605be656fb6430016180da0) 
 - [2026-07-19-前端又杀出一匹黑马！用-Bun-刚抛弃的-Zig-写的，连-Oxc-作者都公开点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524295&idx=1&sn=9e048b4432faebc7178c9e3904997a3c&chksm=e80fd089df78599facfa796828cfe06c0d55283678ba8094c69592fb8015366e20eff86adf23#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af58188b0c52fec6ffa796e9d740f2a0) 
 - [2026-07-16-The-life-of-a-~200ms-HTTP-request-to-a-Node-app](https://nodeweekly.com/issues/633)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=29bbac913709031d1845456bddcd9f60) 

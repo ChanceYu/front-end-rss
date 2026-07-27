@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-27T12:47:45.096Z</updated>
+    <updated>2026-07-27T16:05:55.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,20 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd"/>
         <updated>2026-07-27T00:00:00.000Z</updated>
         <published>2026-07-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun Rust 重构版还没发，就开始吊打 Deno 和 Node.js 了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524353&amp;idx=1&amp;sn=bc8867a3f77c63aacb72648e684aebbc&amp;chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524353&amp;idx=1&amp;sn=bc8867a3f77c63aacb72648e684aebbc&amp;chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <published>2026-07-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 企业级框架 NestJS v12 快来了：ESM、Vitest 全都换了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524339&amp;idx=1&amp;sn=4b5e593fb9ecd9efff8a8402ca9604e6&amp;chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524339&amp;idx=1&amp;sn=4b5e593fb9ecd9efff8a8402ca9604e6&amp;chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd"/>
+        <updated>2026-07-24T00:00:00.000Z</updated>
+        <published>2026-07-24T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【开源】一个用于 Codex 和 Claude Code 的通用 LLM 代理中间件：opencodex]]></title>
@@ -298,16 +312,16 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <published>2026-07-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bun 这次太狠了：64 个 Claude 连跑 11 天，把 53 万行代码重写成 Rust]]></title>
-        <id>http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw</id>
-        <link href="http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw"/>
+        <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
+        <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
+        <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
-        <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
-        <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
+        <title type="html"><![CDATA[Bun 这次太狠了：64 个 Claude 连跑 11 天，把 53 万行代码重写成 Rust]]></title>
+        <id>http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw</id>
+        <link href="http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>
@@ -359,19 +373,5 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <link href="https://nodeweekly.com/issues/632"/>
         <updated>2026-07-09T00:00:00.000Z</updated>
         <published>2026-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auth 被 Next.js 收购了？Vercel 把前端登录入口买了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524149&amp;idx=1&amp;sn=d8c81d6f1a55047c6db30a5b17d40855&amp;chksm=e80fd07bdf78596d38e2cbd0a3023391bf3cd4dd7bcf656e6b9eaf777eb576c30d1fcbe4df91#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524149&amp;idx=1&amp;sn=d8c81d6f1a55047c6db30a5b17d40855&amp;chksm=e80fd07bdf78596d38e2cbd0a3023391bf3cd4dd7bcf656e6b9eaf777eb576c30d1fcbe4df91#rd"/>
-        <updated>2026-07-08T00:00:00.000Z</updated>
-        <published>2026-07-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICLR 2026 | 基于视觉自回归模型的前馈式主体驱动图像生成算法 EchoGen]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544719&amp;idx=1&amp;sn=42fb0cb0fe7c292ac867355c9bb61062&amp;chksm=8390d257b4e75b41e6da73b5c08a8aefa00922fb9b338202820010523ba6c9527e141d52d759#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544719&amp;idx=1&amp;sn=42fb0cb0fe7c292ac867355c9bb61062&amp;chksm=8390d257b4e75b41e6da73b5c08a8aefa00922fb9b338202820010523ba6c9527e141d52d759#rd"/>
-        <updated>2026-07-08T00:00:00.000Z</updated>
-        <published>2026-07-08T00:00:00.000Z</published>
     </entry>
 </feed>
