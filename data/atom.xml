@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-27T16:05:55.443Z</updated>
+    <updated>2026-07-28T13:25:37.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Anders Hejlsberg demos TypeScript 7's 10x speedup]]></title>
+        <id>https://javascriptweekly.com/issues/796</id>
+        <link href="https://javascriptweekly.com/issues/796"/>
+        <updated>2026-07-28T00:00:00.000Z</updated>
+        <published>2026-07-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3733期】用 Web Locks API 优雅解决跨标签页并发问题]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd</id>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公 SDK：dream-num/univer]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279513&amp;idx=2&amp;sn=e37229ae1fb878046301eb61facf99e9&amp;chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279513&amp;idx=2&amp;sn=e37229ae1fb878046301eb61facf99e9&amp;chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&amp;scene=0#rd"/>
-        <updated>2026-07-09T00:00:00.000Z</updated>
-        <published>2026-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm v12 and TypeScript 7 released]]></title>
-        <id>https://nodeweekly.com/issues/632</id>
-        <link href="https://nodeweekly.com/issues/632"/>
         <updated>2026-07-09T00:00:00.000Z</updated>
         <published>2026-07-09T00:00:00.000Z</published>
     </entry>
