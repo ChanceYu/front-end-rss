@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-28T15:57:01.410Z</updated>
+    <updated>2026-07-29T04:56:30.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Screen.isExtended、getScreenDetails与多显示器开发]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/"/>
+        <updated>2026-07-29T00:00:00.000Z</updated>
+        <published>2026-07-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3734期】告别漫长等待：三步将 Playwright CI 流水线提速 80%]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279649&amp;idx=1&amp;sn=00d0e437952ce96a4db0e9cf298a400a&amp;chksm=bc7d44d375331bbb1ac5f52d6988ef498334b0ef3be77c20939d4972bfac111567bdcfdf0e7a&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279649&amp;idx=1&amp;sn=00d0e437952ce96a4db0e9cf298a400a&amp;chksm=bc7d44d375331bbb1ac5f52d6988ef498334b0ef3be77c20939d4972bfac111567bdcfdf0e7a&amp;scene=0#rd"/>
+        <updated>2026-07-29T00:00:00.000Z</updated>
+        <published>2026-07-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vercel 发布 scriptc：TS 编译成原生二进制，却被质疑“纯抄”Perry]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524362&amp;idx=1&amp;sn=7320a1826121cfb9d67f6b4556ff248b&amp;chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd</id>
@@ -29,16 +43,16 @@
         <published>2026-07-28T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3733期】用 Web Locks API 优雅解决跨标签页并发问题]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【开源】口播视频（Talking-head）AI 视频编辑器：pireel/pireel]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd"/>
         <updated>2026-07-27T00:00:00.000Z</updated>
         <published>2026-07-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【开源】口播视频（Talking-head）AI 视频编辑器：pireel/pireel]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3733期】用 Web Locks API 优雅解决跨标签页并发问题]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd"/>
         <updated>2026-07-27T00:00:00.000Z</updated>
         <published>2026-07-27T00:00:00.000Z</published>
     </entry>
@@ -57,16 +71,16 @@
         <published>2026-07-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【开源】一个用于 Codex 和 Claude Code 的通用 LLM 代理中间件：opencodex]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【早说】别急着教设计师用AI——先给他们一个敢当新手的地方]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <published>2026-07-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】别急着教设计师用AI——先给他们一个敢当新手的地方]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【开源】一个用于 Codex 和 Claude Code 的通用 LLM 代理中间件：opencodex]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <published>2026-07-24T00:00:00.000Z</published>
     </entry>
@@ -113,16 +127,16 @@
         <published>2026-07-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3732期】不必转投 jj，git history 让历史重写变得安全又优雅]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=1&amp;sn=96bc7d3697463bfc451f3e83bb17ce5d&amp;chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=1&amp;sn=96bc7d3697463bfc451f3e83bb17ce5d&amp;chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【开源】既简单又强大的版本控制系统：jj]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <published>2026-07-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【开源】既简单又强大的版本控制系统：jj]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3732期】不必转投 jj，git history 让历史重写变得安全又优雅]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=1&amp;sn=96bc7d3697463bfc451f3e83bb17ce5d&amp;chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=1&amp;sn=96bc7d3697463bfc451f3e83bb17ce5d&amp;chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&amp;scene=0#rd"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <published>2026-07-22T00:00:00.000Z</published>
     </entry>
@@ -357,20 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[前端快讯：setHTML()和Element.startViewTransition已支持]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/"/>
-        <updated>2026-07-09T00:00:00.000Z</updated>
-        <published>2026-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517664&amp;idx=1&amp;sn=91cd34e765ee4bd7ca919c0756493755&amp;chksm=eb07bd99dc70348f293f86b906813017f02741396fe03d9111f6acb396fae90e19b614eaca86#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517664&amp;idx=1&amp;sn=91cd34e765ee4bd7ca919c0756493755&amp;chksm=eb07bd99dc70348f293f86b906813017f02741396fe03d9111f6acb396fae90e19b614eaca86#rd"/>
-        <updated>2026-07-09T00:00:00.000Z</updated>
-        <published>2026-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我把 Codex 提效命令重新捋了一遍，这篇够全了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530142&amp;idx=1&amp;sn=fcc8de40fa6177ac0a7d911bb7a3a78f&amp;chksm=f992704fcee5f959dc2f0fd935581a33c9e2fc86681cbeca7b9ffde62d35f4e29b0a9a947c28#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247530142&amp;idx=1&amp;sn=fcc8de40fa6177ac0a7d911bb7a3a78f&amp;chksm=f992704fcee5f959dc2f0fd935581a33c9e2fc86681cbeca7b9ffde62d35f4e29b0a9a947c28#rd"/>
         <updated>2026-07-09T00:00:00.000Z</updated>
         <published>2026-07-09T00:00:00.000Z</published>
     </entry>

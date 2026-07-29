@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-28 23:57:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-29 12:57:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-29-Screen.isExtended、getScreenDetails与多显示器开发](https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6aa570479075b335958c2ecba015a551) 
 - [2026-07-28-Vercel-发布-scriptc：TS-编译成原生二进制，却被质疑“纯抄”Perry](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524362&idx=1&sn=7320a1826121cfb9d67f6b4556ff248b&chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c550d1347974bc2c001fbb6d257f5f8d) 
 - [2026-07-28-Anders-Hejlsberg-demos-TypeScript-7's-10x-speedup](https://javascriptweekly.com/issues/796)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=262707ef7d7f3b463ad8b2017c1341fa) 
 - [2026-07-14-npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7eb94c3ade004f1aa58f24df9c99bc11) 
@@ -57,8 +58,8 @@
 - [2025-07-28-TypeScript-发布-5.9-预览版！](http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw) 
 - [2025-07-28-别再乱用-as-了，TypeScript-的-satisfies-更香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527370&idx=1&sn=dc02935d0c5698aed8e141d07c619a6b&chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd) 
 - [2025-07-16-【第3551期】使用-Bun/TypeScript-在-10-秒内解析-10-亿行数据](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276991&idx=1&sn=1e374e8041e320a3c4de3a10f23edc7e&chksm=bc4cf84301586f6773ccc57e292b3366e41917c562baf9e1b3bb87e04f5e2e310dd88bd1a159&scene=0#rd) 
-- [2025-07-01-【第3540期】Apache-ECharts-6.0-震撼发布-·-前图无量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=1&sn=ffac034282d8d928845ca6b50b246790&chksm=bc221ee5ff266fc99c446bbf59296d6cf9cb1d1456b1fd2adf3f840010a878db28f5c97df5e8&scene=0#rd) 
 - [2025-07-01-【招聘】百度招聘-ECharts-实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=2&sn=53104cd5f848217ed181acf1dc6d022f&chksm=bcb681c3c5c7f9ffd9a1719bca145646174f1a5feec04f7e62525744ec79f88a83a1d8951c78&scene=0#rd) 
+- [2025-07-01-【第3540期】Apache-ECharts-6.0-震撼发布-·-前图无量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=1&sn=ffac034282d8d928845ca6b50b246790&chksm=bc221ee5ff266fc99c446bbf59296d6cf9cb1d1456b1fd2adf3f840010a878db28f5c97df5e8&scene=0#rd) 
 - [2025-06-27-淘宝直播数字人：TTS语音合成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540777&idx=1&sn=1abacfeabd3ae176250125dc48ded953&chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&scene=0#rd) 
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c92217cfd1f97c6c3a3dd4ddb351b07) 
 - [2025-06-12-TS进阶！深入探索-TypeScript-工具类型：内置神器与高阶扩展](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526505&idx=1&sn=4e8d0b50be605e044c306a08f52ab61a&chksm=f9926eb8cee5e7ae05ad6725b37ca4c10ddc09c172de968f7b14cef2539f183b7252d34a27ce#rd) 
