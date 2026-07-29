@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-29T04:56:30.717Z</updated>
+    <updated>2026-07-29T11:31:15.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -41,6 +41,13 @@
         <link href="https://javascriptweekly.com/issues/796"/>
         <updated>2026-07-28T00:00:00.000Z</updated>
         <published>2026-07-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百亿补贴 C 端 AI Coding 实战：基于 SDD 的服务端 AI Coding 实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544975&amp;idx=1&amp;sn=d700955597169348c9c16b0c9ca4ef86&amp;chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544975&amp;idx=1&amp;sn=d700955597169348c9c16b0c9ca4ef86&amp;chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd"/>
+        <updated>2026-07-27T00:00:00.000Z</updated>
+        <published>2026-07-27T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【开源】口播视频（Talking-head）AI 视频编辑器：pireel/pireel]]></title>
@@ -366,12 +373,5 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517666&amp;idx=1&amp;sn=15fcb2090802521b2ce3a2035cad8378&amp;chksm=eb07bd9bdc70348dc6e3f30784276a0119072cf8e6160c825d10106ad933a352cef511581d74#rd"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端快讯：setHTML()和Element.startViewTransition已支持]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/"/>
-        <updated>2026-07-09T00:00:00.000Z</updated>
-        <published>2026-07-09T00:00:00.000Z</published>
     </entry>
 </feed>
