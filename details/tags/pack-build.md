@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-29 19:31:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-30 19:44:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-30-npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d02524af1e9f52ca60eeaeefd801d5cc) 
 - [2026-07-28-Vercel-发布-scriptc：TS-编译成原生二进制，却被质疑“纯抄”Perry](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524362&idx=1&sn=7320a1826121cfb9d67f6b4556ff248b&chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c550d1347974bc2c001fbb6d257f5f8d) 
 - [2026-07-24-Node.js-企业级框架-NestJS-v12-快来了：ESM、Vitest-全都换了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524339&idx=1&sn=4b5e593fb9ecd9efff8a8402ca9604e6&chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2ef1059d88a87adee4e3ff038aa8914) 
 - [2026-07-15-完蛋！比-Vite+-快-5.4-倍的前端工具链！正式发布！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517675&idx=1&sn=276a85082427c05fed12f6bb2230677a&chksm=eb07bd92dc703484605ec4ee4c288ad06e3b6c2da8237b182bbf85e8102c1bef49eb2f060493#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cf529b26912afe3172563ca88221e710) 

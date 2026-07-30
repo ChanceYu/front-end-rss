@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-29T11:31:15.707Z</updated>
+    <updated>2026-07-30T11:44:03.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[npm to scan packages for malware at publish time]]></title>
+        <id>https://nodeweekly.com/issues/635</id>
+        <link href="https://nodeweekly.com/issues/635"/>
+        <updated>2026-07-30T00:00:00.000Z</updated>
+        <published>2026-07-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Screen.isExtended、getScreenDetails与多显示器开发]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/</id>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[CVPR 2026 | 重思基于扩散模型的视频超分辨率：利用对齐特征的稠密引导 DGAF-VSR]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544787&amp;idx=1&amp;sn=1a22e2fc4328c7ee3a432c996ef50f3c&amp;chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544787&amp;idx=1&amp;sn=1a22e2fc4328c7ee3a432c996ef50f3c&amp;chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd"/>
-        <updated>2026-07-10T00:00:00.000Z</updated>
-        <published>2026-07-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 7 正式发布！Vue 暂被 "拒之门外" ！！！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517666&amp;idx=1&amp;sn=15fcb2090802521b2ce3a2035cad8378&amp;chksm=eb07bd9bdc70348dc6e3f30784276a0119072cf8e6160c825d10106ad933a352cef511581d74#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517666&amp;idx=1&amp;sn=15fcb2090802521b2ce3a2035cad8378&amp;chksm=eb07bd9bdc70348dc6e3f30784276a0119072cf8e6160c825d10106ad933a352cef511581d74#rd"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>

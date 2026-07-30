@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-29 19:31:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-30 19:44:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -248,6 +248,7 @@
 
 
 
+- [【Node-Weekly】npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d02524af1e9f52ca60eeaeefd801d5cc)
 - [【Nodejs技术栈】Vercel-发布-scriptc：TS-编译成原生二进制，却被质疑“纯抄”Perry](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524362&idx=1&sn=7320a1826121cfb9d67f6b4556ff248b&chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c550d1347974bc2c001fbb6d257f5f8d)
 - [【Nodejs技术栈】Node.js-企业级框架-NestJS-v12-快来了：ESM、Vitest-全都换了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524339&idx=1&sn=4b5e593fb9ecd9efff8a8402ca9604e6&chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2ef1059d88a87adee4e3ff038aa8914)
 - [【前端从进阶到入院】完蛋！比-Vite+-快-5.4-倍的前端工具链！正式发布！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517675&idx=1&sn=276a85082427c05fed12f6bb2230677a&chksm=eb07bd92dc703484605ec4ee4c288ad06e3b6c2da8237b182bbf85e8102c1bef49eb2f060493#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cf529b26912afe3172563ca88221e710)
@@ -257,7 +258,6 @@
 - [【Node-Weekly】npm-v12-and-TypeScript-7-released](https://nodeweekly.com/issues/632)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cedfe6db2350a67d19cb906711d80653)
 - [【前端早读课】【开源】面向-API-的低代码协作应用构建平台：apitable/apitable](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279501&idx=2&sn=4b68cc04c44f3f9e7f048d938ee388bd&chksm=bc802d1776a5be180594284629bc9b2b67c3f2b45cd083d4796f7ada3ee5122b586ecba83aa2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0097e81bfc50aed18748ce9796a8c732)
 - [【Nodejs技术栈】npm-一个隐藏限制，让-Drizzle-断更一个月](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524141&idx=1&sn=b89280df730afb7877526135bc9f98e1&chksm=e80fd063df78597557291fb0e4f1e0c709236f1f463137fe86389ae5176d5025eba94904f8c8#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5df14d367cffa9b7fdf8769994748998)
-- [【Nodejs技术栈】Vite+-Beta-发布：一个-`vp`，想接管整条前端工具链](http://mp.weixin.qq.com/s/9wi17a0NaoWCUHebW-aq2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a4bf8bc66821fdc3ca1f5f92c495e837)
 - [查看更多 >](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【Node-Weekly】npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d02524af1e9f52ca60eeaeefd801d5cc)
 - [【张鑫旭-鑫空间-鑫生活】Screen.isExtended、getScreenDetails与多显示器开发](https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6aa570479075b335958c2ecba015a551)
 - [【前端早读课】【第3734期】告别漫长等待：三步将-Playwright-CI-流水线提速-80%](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279649&idx=1&sn=00d0e437952ce96a4db0e9cf298a400a&chksm=bc7d44d375331bbb1ac5f52d6988ef498334b0ef3be77c20939d4972bfac111567bdcfdf0e7a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f3df1a3e4553669e311eff5da8498a67)
 - [【Nodejs技术栈】Vercel-发布-scriptc：TS-编译成原生二进制，却被质疑“纯抄”Perry](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524362&idx=1&sn=7320a1826121cfb9d67f6b4556ff248b&chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c550d1347974bc2c001fbb6d257f5f8d)
@@ -593,7 +594,6 @@
 - [【前端早读课】【开源】口播视频（Talking-head）AI-视频编辑器：pireel/pireel](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279639&idx=2&sn=412e45d22a32a7003d2f25b7942d9c0b&chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=beec8d245672ec7df1d8aadfc5cc6c9c)
 - [【前端早读课】【第3733期】用-Web-Locks-API-优雅解决跨标签页并发问题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279639&idx=1&sn=4b73fb6385488ca369cf2bb1604802b2&chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a18bead0878103e641cac0020d814e6)
 - [【Nodejs技术栈】Bun-Rust-重构版还没发，就开始吊打-Deno-和-Node.js-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524353&idx=1&sn=bc8867a3f77c63aacb72648e684aebbc&chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cfbf3dfa0c33f49b7bbe7ab50ed9b421)
-- [【Nodejs技术栈】Node.js-企业级框架-NestJS-v12-快来了：ESM、Vitest-全都换了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524339&idx=1&sn=4b5e593fb9ecd9efff8a8402ca9604e6&chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2ef1059d88a87adee4e3ff038aa8914)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

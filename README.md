@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-29 19:31:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-30 19:44:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -24,7 +24,7 @@
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -36,7 +36,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -51,6 +51,7 @@
 </summary>
 
 
+- [2026-07-30-npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d02524af1e9f52ca60eeaeefd801d5cc)  ![](/assets/new.png) 
 - [2026-07-23-Domenic-Denicola's-modern-dev-setup](https://nodeweekly.com/issues/634)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5ba66e68c7bf6c9f7a15826a593eeb7)  
 - [2026-07-16-The-life-of-a-~200ms-HTTP-request-to-a-Node-app](https://nodeweekly.com/issues/633)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=29bbac913709031d1845456bddcd9f60)  
 - [2026-07-09-npm-v12-and-TypeScript-7-released](https://nodeweekly.com/issues/632)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cedfe6db2350a67d19cb906711d80653)  
@@ -60,7 +61,6 @@
 - [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=217dd885c01f10d7551395e2a8537b09)  
 - [2026-06-04-Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f820d917cc5e6279315d8351741c705)  
 - [2026-05-28-Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcdb2c41a5b103b112ece1664296629b)  
-- [2026-05-21-Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cb2b663066fe1ac78e794f78a40ccd38)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-07-27-百亿补贴-C-端-AI-Coding-实战：基于-SDD-的服务端-AI-Coding-实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86&chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=180efe30884a045e2208e772a2bc1cd1)  ![](/assets/new.png) 
+- [2026-07-27-百亿补贴-C-端-AI-Coding-实战：基于-SDD-的服务端-AI-Coding-实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86&chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=180efe30884a045e2208e772a2bc1cd1)  
 - [2026-07-22-TMAP平台图生视频推理加速实践](http://mp.weixin.qq.com/s/H7KdJqOINbyDRmVh71ikSg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac480b967187a7e1eec35013758d287f)  
 - [2026-07-20-Copilot-需求交付-Skill-如何实现数据需求24h交付](http://mp.weixin.qq.com/s/7JI5zJdT73OFbI-DVl3Oqg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3fda405e2ba7aaff5f79cadbb8063bc1)  
 - [2026-07-17-高价率运营-AI-工作台：约定驱动与-AI-编排的评测优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544861&idx=1&sn=bf26b607ad3030ac4091907c86935453&chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d0d92ec4a624c01c700049a006fb324)  
