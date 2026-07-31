@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-30T11:44:03.390Z</updated>
+    <updated>2026-07-31T05:21:37.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3735】从月中断粮到绰绰有余：AI编程省Token全攻略]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279668&amp;idx=1&amp;sn=fcc7f90b60027b2f4834c1ec7b7949b4&amp;chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279668&amp;idx=1&amp;sn=fcc7f90b60027b2f4834c1ec7b7949b4&amp;chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&amp;scene=0#rd"/>
+        <updated>2026-07-31T00:00:00.000Z</updated>
+        <published>2026-07-31T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[npm to scan packages for malware at publish time]]></title>
         <id>https://nodeweekly.com/issues/635</id>
@@ -57,16 +64,16 @@
         <published>2026-07-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【开源】口播视频（Talking-head）AI 视频编辑器：pireel/pireel]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3733期】用 Web Locks API 优雅解决跨标签页并发问题]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd"/>
         <updated>2026-07-27T00:00:00.000Z</updated>
         <published>2026-07-27T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3733期】用 Web Locks API 优雅解决跨标签页并发问题]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【开源】口播视频（Talking-head）AI 视频编辑器：pireel/pireel]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd"/>
         <updated>2026-07-27T00:00:00.000Z</updated>
         <published>2026-07-27T00:00:00.000Z</published>
     </entry>
@@ -85,16 +92,16 @@
         <published>2026-07-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】别急着教设计师用AI——先给他们一个敢当新手的地方]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【开源】一个用于 Codex 和 Claude Code 的通用 LLM 代理中间件：opencodex]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <published>2026-07-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【开源】一个用于 Codex 和 Claude Code 的通用 LLM 代理中间件：opencodex]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【早说】别急着教设计师用AI——先给他们一个敢当新手的地方]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <published>2026-07-24T00:00:00.000Z</published>
     </entry>
@@ -141,16 +148,16 @@
         <published>2026-07-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【开源】既简单又强大的版本控制系统：jj]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3732期】不必转投 jj，git history 让历史重写变得安全又优雅]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=1&amp;sn=96bc7d3697463bfc451f3e83bb17ce5d&amp;chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=1&amp;sn=96bc7d3697463bfc451f3e83bb17ce5d&amp;chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&amp;scene=0#rd"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <published>2026-07-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3732期】不必转投 jj，git history 让历史重写变得安全又优雅]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=1&amp;sn=96bc7d3697463bfc451f3e83bb17ce5d&amp;chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=1&amp;sn=96bc7d3697463bfc451f3e83bb17ce5d&amp;chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【开源】既简单又强大的版本控制系统：jj]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <published>2026-07-22T00:00:00.000Z</published>
     </entry>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
         <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
         <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
-        <updated>2026-07-10T00:00:00.000Z</updated>
-        <published>2026-07-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVPR 2026 | 重思基于扩散模型的视频超分辨率：利用对齐特征的稠密引导 DGAF-VSR]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544787&amp;idx=1&amp;sn=1a22e2fc4328c7ee3a432c996ef50f3c&amp;chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544787&amp;idx=1&amp;sn=1a22e2fc4328c7ee3a432c996ef50f3c&amp;chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>
