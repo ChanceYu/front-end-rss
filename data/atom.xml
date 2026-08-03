@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-03T12:47:40.321Z</updated>
+    <updated>2026-08-03T16:12:51.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[来了来了，Flex/Grid布局的间隙装饰线它来了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/"/>
+        <updated>2026-08-03T00:00:00.000Z</updated>
+        <published>2026-08-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[百亿补贴 C 端 AI Coding 实战：端到端 CodingAgent 设计与实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545319&amp;idx=1&amp;sn=c3ab874dd2d19f5706fe41fc6e589518&amp;chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&amp;scene=0#rd</id>
@@ -366,12 +373,5 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524188&amp;idx=1&amp;sn=41cd045b0531dd23ab850bfb2c2ac212&amp;chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd"/>
         <updated>2026-07-11T00:00:00.000Z</updated>
         <published>2026-07-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun 这次太狠了：64 个 Claude 连跑 11 天，把 53 万行代码重写成 Rust]]></title>
-        <id>http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw</id>
-        <link href="http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw"/>
-        <updated>2026-07-10T00:00:00.000Z</updated>
-        <published>2026-07-10T00:00:00.000Z</published>
     </entry>
 </feed>
