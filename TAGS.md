@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-31 23:52:29。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-08-03 20:48:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【淘系前端团队】百亿补贴-C-端-AI-Coding-实战：端到端-CodingAgent-设计与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545319&idx=1&sn=c3ab874dd2d19f5706fe41fc6e589518&chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=597a4f005f728aedd3c1acd955bf8cca)
 - [【前端早读课】【第3735】从月中断粮到绰绰有余：AI编程省Token全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279668&idx=1&sn=fcc7f90b60027b2f4834c1ec7b7949b4&chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e13c66aecc6de680b1b164227bb3ff07)
 - [【淘系前端团队】百亿补贴-C-端-AI-Coding-实战：基于-SDD-的服务端-AI-Coding-实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86&chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=180efe30884a045e2208e772a2bc1cd1)
 - [【前端早读课】【开源】口播视频（Talking-head）AI-视频编辑器：pireel/pireel](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279639&idx=2&sn=412e45d22a32a7003d2f25b7942d9c0b&chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=beec8d245672ec7df1d8aadfc5cc6c9c)
@@ -49,7 +50,6 @@
 - [【前端大全】实锤了,-deepseek做出了自己的claude-code](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624662&idx=1&sn=57772d6364f3d691ced53aa238c4729d&chksm=80224317b755ca0188bb1fc2112ab54cf6bb5a386479f0e8262125a8039c5927ae212b09dbfd#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7940db337aef461183f107559ae231c)
 - [【Nodejs技术栈】AI-跑-React-真实项目翻大车！GPT-5.6-Sol、Fable-5-也没救](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524321&idx=1&sn=7a44546affcb22ba810663807339d0a2&chksm=e80fd0afdf7859b9c8ca5b285ee586ea49846f7faabac557572f2388935bf697dd93e286a546#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ee00e06aa9c5fb693433e5ae6409158)
 - [【Nodejs技术栈】今年-WAIC，我被这个数字震住了：全国产十万卡AI超集群同时开跑，什么概念？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524320&idx=1&sn=9b02ad5ce605e4cb5dd7f7507c0d0797&chksm=e80fd0aedf7859b874487fafda3ec8f77fb9bf4606aacd4778c05ec144d1fb1ce4c28a686042#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5fbed897e6ebb72aa63f68dbf5921789)
-- [【淘系前端团队】Copilot-需求交付-Skill-如何实现数据需求24h交付](http://mp.weixin.qq.com/s/7JI5zJdT73OFbI-DVl3Oqg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3fda405e2ba7aaff5f79cadbb8063bc1)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【淘系前端团队】百亿补贴-C-端-AI-Coding-实战：端到端-CodingAgent-设计与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545319&idx=1&sn=c3ab874dd2d19f5706fe41fc6e589518&chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=597a4f005f728aedd3c1acd955bf8cca)
 - [【阮一峰的网络日志】科技爱好者周刊（第-406-期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e58307d6555ab676516d18fc5ba146d)
 - [【淘系前端团队】【手猫研发提效随笔】七句话搞定一年AB实验下线：CodingAgent的魔法时刻](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545306&idx=1&sn=02261a574a93c569106843e6160a6281&chksm=8291cc423f25a2a99324c87d7516b62dc5d0f881110a8b09ebbda69cee6076ba197ce3f2784c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b8e430f4564157e7a3e2fdf0d558e16a)
 - [【前端早读课】【第3735】从月中断粮到绰绰有余：AI编程省Token全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279668&idx=1&sn=fcc7f90b60027b2f4834c1ec7b7949b4&chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e13c66aecc6de680b1b164227bb3ff07)
@@ -593,7 +594,6 @@
 - [【Nodejs技术栈】Vercel-发布-scriptc：TS-编译成原生二进制，却被质疑“纯抄”Perry](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524362&idx=1&sn=7320a1826121cfb9d67f6b4556ff248b&chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c550d1347974bc2c001fbb6d257f5f8d)
 - [【JavaScript-Weekly】Anders-Hejlsberg-demos-TypeScript-7's-10x-speedup](https://javascriptweekly.com/issues/796)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=262707ef7d7f3b463ad8b2017c1341fa)
 - [【风痕·術&思】Vibe-Coding-将程序编成黑盒，怎么办？](https://fenghen.me/posts/2026/07/27/yorz-sdd-gui/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a345c6bba1401f0877a672812328a555)
-- [【淘系前端团队】百亿补贴-C-端-AI-Coding-实战：基于-SDD-的服务端-AI-Coding-实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86&chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=180efe30884a045e2208e772a2bc1cd1)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-31 23:52:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-03 20:48:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-08-03-百亿补贴-C-端-AI-Coding-实战：端到端-CodingAgent-设计与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545319&idx=1&sn=c3ab874dd2d19f5706fe41fc6e589518&chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=597a4f005f728aedd3c1acd955bf8cca) 
 - [2026-07-31-【第3735】从月中断粮到绰绰有余：AI编程省Token全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279668&idx=1&sn=fcc7f90b60027b2f4834c1ec7b7949b4&chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e13c66aecc6de680b1b164227bb3ff07) 
 - [2026-07-27-百亿补贴-C-端-AI-Coding-实战：基于-SDD-的服务端-AI-Coding-实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86&chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=180efe30884a045e2208e772a2bc1cd1) 
 - [2026-07-27-【开源】口播视频（Talking-head）AI-视频编辑器：pireel/pireel](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279639&idx=2&sn=412e45d22a32a7003d2f25b7942d9c0b&chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=beec8d245672ec7df1d8aadfc5cc6c9c) 

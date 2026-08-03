@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-31T15:52:04.329Z</updated>
+    <updated>2026-08-03T12:47:40.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[百亿补贴 C 端 AI Coding 实战：端到端 CodingAgent 设计与实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545319&amp;idx=1&amp;sn=c3ab874dd2d19f5706fe41fc6e589518&amp;chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545319&amp;idx=1&amp;sn=c3ab874dd2d19f5706fe41fc6e589518&amp;chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&amp;scene=0#rd"/>
+        <updated>2026-08-03T00:00:00.000Z</updated>
+        <published>2026-08-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3735】从月中断粮到绰绰有余：AI编程省Token全攻略]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279668&amp;idx=1&amp;sn=fcc7f90b60027b2f4834c1ec7b7949b4&amp;chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&amp;scene=0#rd</id>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[Bun 这次太狠了：64 个 Claude 连跑 11 天，把 53 万行代码重写成 Rust]]></title>
         <id>http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw</id>
         <link href="http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw"/>
-        <updated>2026-07-10T00:00:00.000Z</updated>
-        <published>2026-07-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.6 全面开放，Codex 被并入 ChatGPT，OpenAI 开始抢工作台]]></title>
-        <id>http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw</id>
-        <link href="http://mp.weixin.qq.com/s/462evoHiwZSQ9imL7blzHw"/>
         <updated>2026-07-10T00:00:00.000Z</updated>
         <published>2026-07-10T00:00:00.000Z</published>
     </entry>

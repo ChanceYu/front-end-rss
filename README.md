@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-31 23:52:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-03 20:48:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,9 +36,9 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -303,6 +303,7 @@
 </summary>
 
 
+- [2026-08-03-百亿补贴-C-端-AI-Coding-实战：端到端-CodingAgent-设计与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545319&idx=1&sn=c3ab874dd2d19f5706fe41fc6e589518&chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=597a4f005f728aedd3c1acd955bf8cca)  ![](/assets/new.png) 
 - [2026-07-31-【手猫研发提效随笔】七句话搞定一年AB实验下线：CodingAgent的魔法时刻](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545306&idx=1&sn=02261a574a93c569106843e6160a6281&chksm=8291cc423f25a2a99324c87d7516b62dc5d0f881110a8b09ebbda69cee6076ba197ce3f2784c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b8e430f4564157e7a3e2fdf0d558e16a)  
 - [2026-07-27-百亿补贴-C-端-AI-Coding-实战：基于-SDD-的服务端-AI-Coding-实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86&chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=180efe30884a045e2208e772a2bc1cd1)  
 - [2026-07-22-TMAP平台图生视频推理加速实践](http://mp.weixin.qq.com/s/H7KdJqOINbyDRmVh71ikSg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac480b967187a7e1eec35013758d287f)  
@@ -312,7 +313,6 @@
 - [2026-07-13-淘宝直播数字人-AgenticRL-实践：从-RLVR-到-MultiAgent-RL](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544788&idx=1&sn=04119d3b590b121e87fe87142daa6529&chksm=8390d28cb4e75b9af1a3a16e0a13fdac0e8d55bb26e60f0e0521b62ed869bf84b0a7b80eec72#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b901b9545590f9e8fd420236658d7543)  
 - [2026-07-10-CVPR-2026-|-重思基于扩散模型的视频超分辨率：利用对齐特征的稠密引导-DGAF-VSR](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544787&idx=1&sn=1a22e2fc4328c7ee3a432c996ef50f3c&chksm=8390d28bb4e75b9d2a74603d926f7041c3c3314016b0f9e81b64da3f3a67b7a9e9ded10f6f54#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fb3bfdebe28c2d3a2f12d87cd4297ea2)  
 - [2026-07-08-ICLR-2026-|-基于视觉自回归模型的前馈式主体驱动图像生成算法-EchoGen](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544719&idx=1&sn=42fb0cb0fe7c292ac867355c9bb61062&chksm=8390d257b4e75b41e6da73b5c08a8aefa00922fb9b338202820010523ba6c9527e141d52d759#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=34cadb7d8ad9fda8332d83857269ee03)  
-- [2026-07-03-CVPR-2026-|-面向视频扩散模型的局部细节偏好优化方法-LocalDPO](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544718&idx=1&sn=be61862eec337a27b1355927152046fe&chksm=8390d256b4e75b40338a13c9ad930e88e039e6684cbf676772b40695716f49c3a9d1ac82fbef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da613514b8b706334e9485770c73f66e)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -345,7 +345,7 @@
 </summary>
 
 
-- [2026-07-31-科技爱好者周刊（第-406-期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e58307d6555ab676516d18fc5ba146d)  ![](/assets/new.png) 
+- [2026-07-31-科技爱好者周刊（第-406-期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e58307d6555ab676516d18fc5ba146d)  
 - [2026-07-24-科技爱好者周刊（第-405-期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8410912305fa17436c17defc75034ae0)  
 - [2026-07-17-科技爱好者周刊（第-404-期）：你需要知道的-AI-内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1d9cb3c5c441fe04e95aafaf9778d3e)  
 - [2026-07-10-科技爱好者周刊（第-403-期）：为什么-Dropbox-不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af81724fc9aa32e4dc318f43ca2e1b3d)  
