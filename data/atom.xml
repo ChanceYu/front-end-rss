@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-04T16:04:07.274Z</updated>
+    <updated>2026-08-05T13:30:13.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[复杂业务团队的 AI Coding 交付实践：知识库、RD 流程和质量门禁]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545344&amp;idx=1&amp;sn=0e2f753e1e4796ea6634b18d1498ee9b&amp;chksm=82ad4b5f862457f61a13d4e62ca77ae78b090372fb5517ff75c016c89dfb2bb0442768970d4e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545344&amp;idx=1&amp;sn=0e2f753e1e4796ea6634b18d1498ee9b&amp;chksm=82ad4b5f862457f61a13d4e62ca77ae78b090372fb5517ff75c016c89dfb2bb0442768970d4e&amp;scene=0#rd"/>
+        <updated>2026-08-05T00:00:00.000Z</updated>
+        <published>2026-08-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来了来了，Flex/Grid布局的间隙装饰线它来了]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/</id>
@@ -366,12 +373,5 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524204&amp;idx=1&amp;sn=a27eef12d7fc86985d4cc3e23c2ed7a5&amp;chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd"/>
         <updated>2026-07-12T00:00:00.000Z</updated>
         <published>2026-07-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杠上了！Bun 重写成 Rust 后，Zig 创始人开炮：LLM 之前就在写垃圾代码了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524188&amp;idx=1&amp;sn=41cd045b0531dd23ab850bfb2c2ac212&amp;chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524188&amp;idx=1&amp;sn=41cd045b0531dd23ab850bfb2c2ac212&amp;chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd"/>
-        <updated>2026-07-11T00:00:00.000Z</updated>
-        <published>2026-07-11T00:00:00.000Z</published>
     </entry>
 </feed>
