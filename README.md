@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-08-06 21:29:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-07 07:47:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -24,7 +24,7 @@
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -37,7 +37,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -51,6 +51,7 @@
 </summary>
 
 
+- [2026-08-06-Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d0bc8d2dbdd757f6eacad8e1814e2f8)  ![](/assets/new.png) 
 - [2026-07-30-npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d02524af1e9f52ca60eeaeefd801d5cc)  
 - [2026-07-23-Domenic-Denicola's-modern-dev-setup](https://nodeweekly.com/issues/634)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5ba66e68c7bf6c9f7a15826a593eeb7)  
 - [2026-07-16-The-life-of-a-~200ms-HTTP-request-to-a-Node-app](https://nodeweekly.com/issues/633)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=29bbac913709031d1845456bddcd9f60)  
@@ -60,7 +61,6 @@
 - [2026-06-18-Extending-Node-instead-of-replacing-it](https://nodeweekly.com/issues/629)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e402e391dbedcbc0a498c8cf82a91da3)  
 - [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=217dd885c01f10d7551395e2a8537b09)  
 - [2026-06-04-Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f820d917cc5e6279315d8351741c705)  
-- [2026-05-28-Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bcdb2c41a5b103b112ece1664296629b)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -324,7 +324,7 @@
 </summary>
 
 
-- [2026-08-06-background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a69a50ea8838ec66beada20bba0d580a)  ![](/assets/new.png) 
+- [2026-08-06-background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a69a50ea8838ec66beada20bba0d580a)  
 - [2026-08-03-来了来了，Flex/Grid布局的间隙装饰线它来了](https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=061703ce95be8e9b9f6abcb287433a00)  
 - [2026-07-29-Screen.isExtended、getScreenDetails与多显示器开发](https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6aa570479075b335958c2ecba015a551)  
 - [2026-07-23-纯CSS实现repeat–n,-anything循环展示或相加功能](https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a3a05f15a5a96f112ef387b225f34e3)  

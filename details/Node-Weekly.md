@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-07-30 19:44:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-07 07:47:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2026-08-06-Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d0bc8d2dbdd757f6eacad8e1814e2f8) 
 - [2026-07-30-npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d02524af1e9f52ca60eeaeefd801d5cc) 
 - [2026-07-23-Domenic-Denicola's-modern-dev-setup](https://nodeweekly.com/issues/634)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5ba66e68c7bf6c9f7a15826a593eeb7) 
 - [2026-07-16-The-life-of-a-~200ms-HTTP-request-to-a-Node-app](https://nodeweekly.com/issues/633)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=29bbac913709031d1845456bddcd9f60) 
