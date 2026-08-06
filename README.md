@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-08-05 21:30:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-06 21:29:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,8 +36,8 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [淘系前端团队](#淘系前端团队)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-08-05-复杂业务团队的-AI-Coding-交付实践：知识库、RD-流程和质量门禁](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545344&idx=1&sn=0e2f753e1e4796ea6634b18d1498ee9b&chksm=82ad4b5f862457f61a13d4e62ca77ae78b090372fb5517ff75c016c89dfb2bb0442768970d4e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f042a3f5e791de94f12e7f277bc566)  ![](/assets/new.png) 
+- [2026-08-05-复杂业务团队的-AI-Coding-交付实践：知识库、RD-流程和质量门禁](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545344&idx=1&sn=0e2f753e1e4796ea6634b18d1498ee9b&chksm=82ad4b5f862457f61a13d4e62ca77ae78b090372fb5517ff75c016c89dfb2bb0442768970d4e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f042a3f5e791de94f12e7f277bc566)  
 - [2026-08-03-百亿补贴-C-端-AI-Coding-实战：端到端-CodingAgent-设计与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545319&idx=1&sn=c3ab874dd2d19f5706fe41fc6e589518&chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=597a4f005f728aedd3c1acd955bf8cca)  
 - [2026-07-31-【手猫研发提效随笔】七句话搞定一年AB实验下线：CodingAgent的魔法时刻](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545306&idx=1&sn=02261a574a93c569106843e6160a6281&chksm=8291cc423f25a2a99324c87d7516b62dc5d0f881110a8b09ebbda69cee6076ba197ce3f2784c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b8e430f4564157e7a3e2fdf0d558e16a)  
 - [2026-07-27-百亿补贴-C-端-AI-Coding-实战：基于-SDD-的服务端-AI-Coding-实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86&chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=180efe30884a045e2208e772a2bc1cd1)  
@@ -324,6 +324,7 @@
 </summary>
 
 
+- [2026-08-06-background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a69a50ea8838ec66beada20bba0d580a)  ![](/assets/new.png) 
 - [2026-08-03-来了来了，Flex/Grid布局的间隙装饰线它来了](https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=061703ce95be8e9b9f6abcb287433a00)  
 - [2026-07-29-Screen.isExtended、getScreenDetails与多显示器开发](https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6aa570479075b335958c2ecba015a551)  
 - [2026-07-23-纯CSS实现repeat–n,-anything循环展示或相加功能](https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a3a05f15a5a96f112ef387b225f34e3)  
@@ -333,7 +334,6 @@
 - [2026-06-29-浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1f904ba6455dd93e072917543c94765)  
 - [2026-06-24-CSS-color-scheme属性与light-dark颜色函数](https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e5cae0c6bfcc61bedd304b0d65e9f22)  
 - [2026-06-22-全是好东西！HTML-command属性和JS-toggle事件](https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=304e595d8d687ff5924831116bd48389)  
-- [2026-06-10-全新的CSS-border-shape属性简介](https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=58f5865d3b9be7ad3563f4e76ed5bc4d)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

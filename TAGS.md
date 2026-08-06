@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-08-05 21:30:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-08-06 21:29:36。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -482,6 +482,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a69a50ea8838ec66beada20bba0d580a)
 - [【前端早读课】【第3734期】告别漫长等待：三步将-Playwright-CI-流水线提速-80%](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279649&idx=1&sn=00d0e437952ce96a4db0e9cf298a400a&chksm=bc7d44d375331bbb1ac5f52d6988ef498334b0ef3be77c20939d4972bfac111567bdcfdf0e7a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f3df1a3e4553669e311eff5da8498a67)
 - [【Nodejs技术栈】Vercel-发布-scriptc：TS-编译成原生二进制，却被质疑“纯抄”Perry](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524362&idx=1&sn=7320a1826121cfb9d67f6b4556ff248b&chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c550d1347974bc2c001fbb6d257f5f8d)
 - [【JavaScript-Weekly】Anders-Hejlsberg-demos-TypeScript-7's-10x-speedup](https://javascriptweekly.com/issues/796)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=262707ef7d7f3b463ad8b2017c1341fa)
@@ -491,7 +492,6 @@
 - [【张鑫旭-鑫空间-鑫生活】纯CSS实现repeat–n,-anything循环展示或相加功能](https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a3a05f15a5a96f112ef387b225f34e3)
 - [【前端早读课】【第3732期】不必转投-jj，git-history-让历史重写变得安全又优雅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279617&idx=1&sn=96bc7d3697463bfc451f3e83bb17ce5d&chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e9205b2bc9a437ce34a9d43bc4cac26d)
 - [【前端大全】一个-Table，掀翻所有-UI-组件库？支持-9-大前端框架！](http://mp.weixin.qq.com/s/27RbHTg-vsH05zMVAg73HQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5361f505984fb6c3d8ba2ab4f53fbc7a)
-- [【淘系前端团队】Copilot-需求交付-Skill-如何实现数据需求24h交付](http://mp.weixin.qq.com/s/7JI5zJdT73OFbI-DVl3Oqg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3fda405e2ba7aaff5f79cadbb8063bc1)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a69a50ea8838ec66beada20bba0d580a)
 - [【淘系前端团队】复杂业务团队的-AI-Coding-交付实践：知识库、RD-流程和质量门禁](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545344&idx=1&sn=0e2f753e1e4796ea6634b18d1498ee9b&chksm=82ad4b5f862457f61a13d4e62ca77ae78b090372fb5517ff75c016c89dfb2bb0442768970d4e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f042a3f5e791de94f12e7f277bc566)
 - [【JavaScript-Weekly】Reimplementing-htmx-from-scratch](https://javascriptweekly.com/issues/797)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f3be2380591794939b72db31acbf26d6)
 - [【张鑫旭-鑫空间-鑫生活】来了来了，Flex/Grid布局的间隙装饰线它来了](https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=061703ce95be8e9b9f6abcb287433a00)
@@ -593,7 +594,6 @@
 - [【前端早读课】【第3735】从月中断粮到绰绰有余：AI编程省Token全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279668&idx=1&sn=fcc7f90b60027b2f4834c1ec7b7949b4&chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e13c66aecc6de680b1b164227bb3ff07)
 - [【Node-Weekly】npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d02524af1e9f52ca60eeaeefd801d5cc)
 - [【张鑫旭-鑫空间-鑫生活】Screen.isExtended、getScreenDetails与多显示器开发](https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6aa570479075b335958c2ecba015a551)
-- [【前端早读课】【第3734期】告别漫长等待：三步将-Playwright-CI-流水线提速-80%](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279649&idx=1&sn=00d0e437952ce96a4db0e9cf298a400a&chksm=bc7d44d375331bbb1ac5f52d6988ef498334b0ef3be77c20939d4972bfac111567bdcfdf0e7a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f3df1a3e4553669e311eff5da8498a67)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-05T13:30:13.799Z</updated>
+    <updated>2026-08-06T13:29:21.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[background-clip升级，支持边框或文字应用背景]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/"/>
+        <updated>2026-08-06T00:00:00.000Z</updated>
+        <published>2026-08-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复杂业务团队的 AI Coding 交付实践：知识库、RD 流程和质量门禁]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545344&amp;idx=1&amp;sn=0e2f753e1e4796ea6634b18d1498ee9b&amp;chksm=82ad4b5f862457f61a13d4e62ca77ae78b090372fb5517ff75c016c89dfb2bb0442768970d4e&amp;scene=0#rd</id>
@@ -366,12 +373,5 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <link href="http://mp.weixin.qq.com/s/EAUyMPmS-zTLvaUJA1TtxQ"/>
         <updated>2026-07-13T00:00:00.000Z</updated>
         <published>2026-07-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tsgo 终于转正！Go 重写的 TypeScript 7 正式发布，速度提升 10 倍]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524204&amp;idx=1&amp;sn=a27eef12d7fc86985d4cc3e23c2ed7a5&amp;chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524204&amp;idx=1&amp;sn=a27eef12d7fc86985d4cc3e23c2ed7a5&amp;chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd"/>
-        <updated>2026-07-12T00:00:00.000Z</updated>
-        <published>2026-07-12T00:00:00.000Z</published>
     </entry>
 </feed>
