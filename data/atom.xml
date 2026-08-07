@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-07T04:23:31.344Z</updated>
+    <updated>2026-08-07T10:40:32.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝主播Agent的Harness工程实战]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545361&amp;idx=1&amp;sn=cda202f3ee1ddb712d7841336d270227&amp;chksm=822079061398f4d90faf5435eddfc8b4caee37b0e82e97bf838d50766ca954eb1372db16e3f9&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545361&amp;idx=1&amp;sn=cda202f3ee1ddb712d7841336d270227&amp;chksm=822079061398f4d90faf5435eddfc8b4caee37b0e82e97bf838d50766ca954eb1372db16e3f9&amp;scene=0#rd"/>
+        <updated>2026-08-07T00:00:00.000Z</updated>
+        <published>2026-08-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[background-clip升级，支持边框或文字应用背景]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/</id>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[GPT-5.6 的 Sol、Terra、Luna 怎么选，怎么用？一篇文章讲透]]></title>
         <id>http://mp.weixin.qq.com/s/15sjSVsjNk_eRJkHz8N2nA</id>
         <link href="http://mp.weixin.qq.com/s/15sjSVsjNk_eRJkHz8N2nA"/>
-        <updated>2026-07-13T00:00:00.000Z</updated>
-        <published>2026-07-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.6 的 Sol、Terra、Luna 怎么选，怎么用？一篇文章讲透]]></title>
-        <id>http://mp.weixin.qq.com/s/nPluXyKLZNS_UfeBto1aHw</id>
-        <link href="http://mp.weixin.qq.com/s/nPluXyKLZNS_UfeBto1aHw"/>
         <updated>2026-07-13T00:00:00.000Z</updated>
         <published>2026-07-13T00:00:00.000Z</published>
     </entry>
