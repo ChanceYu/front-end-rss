@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-13T05:27:49.543Z</updated>
+    <updated>2026-08-13T18:45:16.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Building terminal UIs with HTML and CSS]]></title>
+        <id>https://nodeweekly.com/issues/637</id>
+        <link href="https://nodeweekly.com/issues/637"/>
+        <updated>2026-08-13T00:00:00.000Z</updated>
+        <published>2026-08-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天猫AI助手：调度框架重构与AI Coding工程化实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545383&amp;idx=1&amp;sn=4123516f8abad5546eb5979c62686dd4&amp;chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&amp;scene=0#rd</id>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[Vite Plus 终于放大招！一行命令，直接迁移项目！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517673&amp;idx=1&amp;sn=57f173327792fabc9b31f0878eb83f20&amp;chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517673&amp;idx=1&amp;sn=57f173327792fabc9b31f0878eb83f20&amp;chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd"/>
-        <updated>2026-07-14T00:00:00.000Z</updated>
-        <published>2026-07-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3729期】ChatGPT 网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279544&amp;idx=1&amp;sn=9abed0eee1b93506e45bcbd73d766d1c&amp;chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279544&amp;idx=1&amp;sn=9abed0eee1b93506e45bcbd73d766d1c&amp;chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&amp;scene=0#rd"/>
         <updated>2026-07-14T00:00:00.000Z</updated>
         <published>2026-07-14T00:00:00.000Z</published>
     </entry>
