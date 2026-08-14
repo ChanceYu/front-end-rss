@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-13T18:45:16.717Z</updated>
+    <updated>2026-08-14T03:53:27.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html"/>
+        <updated>2026-08-14T00:00:00.000Z</updated>
+        <published>2026-08-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building terminal UIs with HTML and CSS]]></title>
         <id>https://nodeweekly.com/issues/637</id>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[和 Bun 反着来！Vercel 用 Zig 造了个 Native SDK，对标 Electron、Tauri]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524255&amp;idx=1&amp;sn=62ea652877f4767ca4d9ed70689cb18e&amp;chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524255&amp;idx=1&amp;sn=62ea652877f4767ca4d9ed70689cb18e&amp;chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd"/>
-        <updated>2026-07-14T00:00:00.000Z</updated>
-        <published>2026-07-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite Plus 终于放大招！一行命令，直接迁移项目！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517673&amp;idx=1&amp;sn=57f173327792fabc9b31f0878eb83f20&amp;chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517673&amp;idx=1&amp;sn=57f173327792fabc9b31f0878eb83f20&amp;chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd"/>
         <updated>2026-07-14T00:00:00.000Z</updated>
         <published>2026-07-14T00:00:00.000Z</published>
     </entry>
