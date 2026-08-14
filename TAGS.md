@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-08-14 11:53:47。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-08-14 16:55:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -41,6 +41,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)
+- [【淘系前端团队】重构协同：关于AI-Native团队的思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545393&idx=1&sn=d2961b8175bd165a5f6b3c950976395f&chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&scene=0#rd)
 - [【淘系前端团队】天猫AI助手：调度框架重构与AI-Coding工程化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545383&idx=1&sn=4123516f8abad5546eb5979c62686dd4&chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=336a738c47ae8ba5d2e5caac0fc43eb1)
 - [【淘系前端团队】AI-评测还在看准确率？数据科学早就用因果推断做归因分析了](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545362&idx=1&sn=39b827174dec7d15ef7d48cd55f1f11f&chksm=821814b3fb8b56282126581ab0822ad7cae8fb929d4745a4ce95065f74cb6fb27b97e91f3b36&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ecdfb8f293f94d8bedbded0ee7feb644)
 - [【淘系前端团队】淘宝主播Agent的Harness工程实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545361&idx=1&sn=cda202f3ee1ddb712d7841336d270227&chksm=822079061398f4d90faf5435eddfc8b4caee37b0e82e97bf838d50766ca954eb1372db16e3f9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e676453f6404d2bf74818bde944a1f9)
@@ -49,7 +50,6 @@
 - [【前端早读课】【第3735】从月中断粮到绰绰有余：AI编程省Token全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279668&idx=1&sn=fcc7f90b60027b2f4834c1ec7b7949b4&chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e13c66aecc6de680b1b164227bb3ff07)
 - [【淘系前端团队】百亿补贴-C-端-AI-Coding-实战：基于-SDD-的服务端-AI-Coding-实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86&chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=180efe30884a045e2208e772a2bc1cd1)
 - [【前端早读课】【开源】口播视频（Talking-head）AI-视频编辑器：pireel/pireel](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279639&idx=2&sn=412e45d22a32a7003d2f25b7942d9c0b&chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=beec8d245672ec7df1d8aadfc5cc6c9c)
-- [【前端早读课】【开源】一个用于-Codex-和-Claude-Code-的通用-LLM-代理中间件：opencodex](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279626&idx=2&sn=c5fc1fcc851fa872ce46175cc6dc44bc&chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cab4f2bac38f08304a21e2866213ed87)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -300,6 +300,7 @@
 
 
 
+- [【淘系前端团队】重构协同：关于AI-Native团队的思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545393&idx=1&sn=d2961b8175bd165a5f6b3c950976395f&chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&scene=0#rd)
 - [【淘系前端团队】AINMM：存量生产级工程向-AI-Native-演进的五级成熟度模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544860&idx=1&sn=2af590b12b53e721597358cc91e03eac&chksm=8390d2c4b4e75bd27a7d881f20c1e6ee37988ec64ff29790f0adcf687b202f00b44a250c79be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95bfed95b34a0796ec8468838c3274c7)
 - [【Nodejs技术栈】和-Bun-反着来！Vercel-用-Zig-造了个-Native-SDK，对标-Electron、Tauri](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524255&idx=1&sn=62ea652877f4767ca4d9ed70689cb18e&chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3cad447af30c56cd9683e3b019eed)
 - [【淘系前端团队】场景营销前端-AI-Coding-—-AI-Native-的视觉稿还原](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544417&idx=1&sn=b464075a0ff3f06d98f1919331b6b7ff&chksm=8390d139b4e7582f6f76fd1769393679c81e51080b44d8851361364570005e2403ab8acc3ce2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=637273cef3f31cfdc032cc48f483c5f2)
@@ -309,7 +310,6 @@
 - [【阮一峰的网络日志】AI-native-Workspace-也许是智能体的下一阶段](http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=98cb285d3f906d24de258484860e76af)
 - [【淘系前端团队】Jimi：打造Java程序员专属的开源ClaudeCode](http://mp.weixin.qq.com/s/a6zOCKaBey0IQnywOd4xWg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c792f9d96a8f4dc858ca22b59dffdab5)
 - [【前端早读课】【早阅】借助-Expo-Router，实现跨平台无缝部署](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277624&idx=1&sn=fa0a2f25bf736f78891cf95b5e3df28c&chksm=bc4ceab6673ec09d12e6e25bfcd68b1bdb76933428d1133286f3ff32a5d502c8783e1c52f4af&scene=0#rd)
-- [【前端侦探】Safari又出bug了？临时修复-iOS-26弹出键盘后定位错乱问题](http://mp.weixin.qq.com/s/rWmsDUdhRvp8KlPBhvJZaQ)
 - [查看更多 >](/details/tags/dev-mobile.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)
+- [【淘系前端团队】重构协同：关于AI-Native团队的思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545393&idx=1&sn=d2961b8175bd165a5f6b3c950976395f&chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&scene=0#rd)
 - [【淘系前端团队】淘天集团2027届校园招聘正式批全球启动！](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545392&idx=1&sn=8c11b89dd6504819460904599f0d9029&chksm=82f602cfa4b597d8ac6a606dcf978d740af2a24acc506a2a7949ead07ade1ee7af4923108c73&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e0c3433ba1f72f5f621496fa4129e03)
 - [【Node-Weekly】Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d36ec4d8b419d9d93177dbd116b8204a)
 - [【淘系前端团队】天猫AI助手：调度框架重构与AI-Coding工程化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545383&idx=1&sn=4123516f8abad5546eb5979c62686dd4&chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=336a738c47ae8ba5d2e5caac0fc43eb1)
@@ -593,7 +594,6 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-407-期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=074260d5f35278adb796a14fc2591412)
 - [【淘系前端团队】淘宝主播Agent的Harness工程实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545361&idx=1&sn=cda202f3ee1ddb712d7841336d270227&chksm=822079061398f4d90faf5435eddfc8b4caee37b0e82e97bf838d50766ca954eb1372db16e3f9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e676453f6404d2bf74818bde944a1f9)
 - [【张鑫旭-鑫空间-鑫生活】background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a69a50ea8838ec66beada20bba0d580a)
-- [【Node-Weekly】Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d0bc8d2dbdd757f6eacad8e1814e2f8)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

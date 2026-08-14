@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-14 11:53:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-14 16:55:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -8,6 +8,7 @@
 
 
 - [2026-08-14-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4) 
+- [2026-08-14-重构协同：关于AI-Native团队的思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545393&idx=1&sn=d2961b8175bd165a5f6b3c950976395f&chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&scene=0#rd) 
 - [2026-08-12-天猫AI助手：调度框架重构与AI-Coding工程化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545383&idx=1&sn=4123516f8abad5546eb5979c62686dd4&chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=336a738c47ae8ba5d2e5caac0fc43eb1) 
 - [2026-08-10-AI-评测还在看准确率？数据科学早就用因果推断做归因分析了](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545362&idx=1&sn=39b827174dec7d15ef7d48cd55f1f11f&chksm=821814b3fb8b56282126581ab0822ad7cae8fb929d4745a4ce95065f74cb6fb27b97e91f3b36&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ecdfb8f293f94d8bedbded0ee7feb644) 
 - [2026-08-07-淘宝主播Agent的Harness工程实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545361&idx=1&sn=cda202f3ee1ddb712d7841336d270227&chksm=822079061398f4d90faf5435eddfc8b4caee37b0e82e97bf838d50766ca954eb1372db16e3f9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e676453f6404d2bf74818bde944a1f9) 

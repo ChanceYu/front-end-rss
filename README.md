@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-08-14 11:53:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-14 16:55:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,9 +36,9 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -303,6 +303,7 @@
 </summary>
 
 
+- [2026-08-14-重构协同：关于AI-Native团队的思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545393&idx=1&sn=d2961b8175bd165a5f6b3c950976395f&chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&scene=0#rd) ![](/assets/new.png) 
 - [2026-08-13-淘天集团2027届校园招聘正式批全球启动！](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545392&idx=1&sn=8c11b89dd6504819460904599f0d9029&chksm=82f602cfa4b597d8ac6a606dcf978d740af2a24acc506a2a7949ead07ade1ee7af4923108c73&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e0c3433ba1f72f5f621496fa4129e03)  
 - [2026-08-12-天猫AI助手：调度框架重构与AI-Coding工程化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545383&idx=1&sn=4123516f8abad5546eb5979c62686dd4&chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=336a738c47ae8ba5d2e5caac0fc43eb1)  
 - [2026-08-10-AI-评测还在看准确率？数据科学早就用因果推断做归因分析了](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545362&idx=1&sn=39b827174dec7d15ef7d48cd55f1f11f&chksm=821814b3fb8b56282126581ab0822ad7cae8fb929d4745a4ce95065f74cb6fb27b97e91f3b36&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ecdfb8f293f94d8bedbded0ee7feb644)  
@@ -312,7 +313,6 @@
 - [2026-07-31-【手猫研发提效随笔】七句话搞定一年AB实验下线：CodingAgent的魔法时刻](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545306&idx=1&sn=02261a574a93c569106843e6160a6281&chksm=8291cc423f25a2a99324c87d7516b62dc5d0f881110a8b09ebbda69cee6076ba197ce3f2784c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b8e430f4564157e7a3e2fdf0d558e16a)  
 - [2026-07-27-百亿补贴-C-端-AI-Coding-实战：基于-SDD-的服务端-AI-Coding-实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86&chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=180efe30884a045e2208e772a2bc1cd1)  
 - [2026-07-22-TMAP平台图生视频推理加速实践](http://mp.weixin.qq.com/s/H7KdJqOINbyDRmVh71ikSg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ac480b967187a7e1eec35013758d287f)  
-- [2026-07-20-Copilot-需求交付-Skill-如何实现数据需求24h交付](http://mp.weixin.qq.com/s/7JI5zJdT73OFbI-DVl3Oqg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3fda405e2ba7aaff5f79cadbb8063bc1)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -345,7 +345,7 @@
 </summary>
 
 
-- [2026-08-14-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)  ![](/assets/new.png) 
+- [2026-08-14-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)  
 - [2026-08-07-科技爱好者周刊（第-407-期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=074260d5f35278adb796a14fc2591412)  
 - [2026-07-31-科技爱好者周刊（第-406-期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e58307d6555ab676516d18fc5ba146d)  
 - [2026-07-24-科技爱好者周刊（第-405-期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8410912305fa17436c17defc75034ae0)  
