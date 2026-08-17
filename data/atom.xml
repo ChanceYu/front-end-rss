@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-14T12:36:42.953Z</updated>
+    <updated>2026-08-17T06:28:23.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AI时代的数据研发-Semantic（语义层）实践总结]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545394&amp;idx=1&amp;sn=3cec6927186aac94f10d2ccbf117edde&amp;chksm=82e4ae23f1e60bb6ab2fe13a4d17389ebd8ea54163ce26dd388e0d8c20abc4ab0fce0d3367b7&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545394&amp;idx=1&amp;sn=3cec6927186aac94f10d2ccbf117edde&amp;chksm=82e4ae23f1e60bb6ab2fe13a4d17389ebd8ea54163ce26dd388e0d8c20abc4ab0fce0d3367b7&amp;scene=0#rd"/>
+        <updated>2026-08-17T00:00:00.000Z</updated>
+        <published>2026-08-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</id>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[完蛋！比 Vite+ 快 5.4 倍的前端工具链！正式发布！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517675&amp;idx=1&amp;sn=276a85082427c05fed12f6bb2230677a&amp;chksm=eb07bd92dc703484605ec4ee4c288ad06e3b6c2da8237b182bbf85e8102c1bef49eb2f060493#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517675&amp;idx=1&amp;sn=276a85082427c05fed12f6bb2230677a&amp;chksm=eb07bd92dc703484605ec4ee4c288ad06e3b6c2da8237b182bbf85e8102c1bef49eb2f060493#rd"/>
-        <updated>2026-07-15T00:00:00.000Z</updated>
-        <published>2026-07-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让 Codex 自己查账：一个省 token 的小技巧]]></title>
-        <id>http://mp.weixin.qq.com/s/xtkokaPkvT8BL7OSwcl-yg</id>
-        <link href="http://mp.weixin.qq.com/s/xtkokaPkvT8BL7OSwcl-yg"/>
         <updated>2026-07-15T00:00:00.000Z</updated>
         <published>2026-07-15T00:00:00.000Z</published>
     </entry>
