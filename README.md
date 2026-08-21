@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-08-19 22:22:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-21 10:53:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,9 +36,9 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-08-19-AI理解、引擎驱动：零代码搭建实时数据链路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b&chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ce203c54a567a23cc1b4344ecf4b1c0)  ![](/assets/new.png) 
+- [2026-08-19-AI理解、引擎驱动：零代码搭建实时数据链路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b&chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ce203c54a567a23cc1b4344ecf4b1c0)  
 - [2026-08-17-AI时代的数据研发-Semantic（语义层）实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545394&idx=1&sn=3cec6927186aac94f10d2ccbf117edde&chksm=82e4ae23f1e60bb6ab2fe13a4d17389ebd8ea54163ce26dd388e0d8c20abc4ab0fce0d3367b7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cb21d5a7f1fbf0b0c4695a54924a215a)  
 - [2026-08-14-重构协同：关于AI-Native团队的思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545393&idx=1&sn=d2961b8175bd165a5f6b3c950976395f&chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c59c1becec00245ac6bb42021ded3ffa)  
 - [2026-08-13-淘天集团2027届校园招聘正式批全球启动！](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545392&idx=1&sn=8c11b89dd6504819460904599f0d9029&chksm=82f602cfa4b597d8ac6a606dcf978d740af2a24acc506a2a7949ead07ade1ee7af4923108c73&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e0c3433ba1f72f5f621496fa4129e03)  
@@ -345,6 +345,7 @@
 </summary>
 
 
+- [2026-08-21-科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cc87898e1a060651c8c1761676980e76)  ![](/assets/new.png) 
 - [2026-08-14-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)  
 - [2026-08-07-科技爱好者周刊（第-407-期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=074260d5f35278adb796a14fc2591412)  
 - [2026-07-31-科技爱好者周刊（第-406-期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e58307d6555ab676516d18fc5ba146d)  
@@ -354,7 +355,6 @@
 - [2026-07-03-科技爱好者周刊（第-402-期）：我在智念-AI-的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=871cef9ef14042b794076bdb7ff59ecd)  
 - [2026-06-30-Dario-Amodei：AI-开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5fd499095c31b8f7b600396a33892f9)  
 - [2026-06-26-科技爱好者周刊（第-401-期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca9f5852dd812db01a793c14445686be)  
-- [2026-06-12-科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d00a04d6403a87a5e8b59ba37753127b)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

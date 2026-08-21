@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-08-19 22:22:06。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-08-21 10:53:08。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -584,6 +584,7 @@
 
 
 
+- [【阮一峰的网络日志】科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cc87898e1a060651c8c1761676980e76)
 - [【淘系前端团队】AI理解、引擎驱动：零代码搭建实时数据链路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b&chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ce203c54a567a23cc1b4344ecf4b1c0)
 - [【淘系前端团队】AI时代的数据研发-Semantic（语义层）实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545394&idx=1&sn=3cec6927186aac94f10d2ccbf117edde&chksm=82e4ae23f1e60bb6ab2fe13a4d17389ebd8ea54163ce26dd388e0d8c20abc4ab0fce0d3367b7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cb21d5a7f1fbf0b0c4695a54924a215a)
 - [【阮一峰的网络日志】科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)
@@ -593,7 +594,6 @@
 - [【Node-Weekly】Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d36ec4d8b419d9d93177dbd116b8204a)
 - [【淘系前端团队】天猫AI助手：调度框架重构与AI-Coding工程化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545383&idx=1&sn=4123516f8abad5546eb5979c62686dd4&chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=336a738c47ae8ba5d2e5caac0fc43eb1)
 - [【JavaScript-Weekly】Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5988ba7048081c36ed8232175c4bd781)
-- [【淘系前端团队】AI-评测还在看准确率？数据科学早就用因果推断做归因分析了](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545362&idx=1&sn=39b827174dec7d15ef7d48cd55f1f11f&chksm=821814b3fb8b56282126581ab0822ad7cae8fb929d4745a4ce95065f74cb6fb27b97e91f3b36&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ecdfb8f293f94d8bedbded0ee7feb644)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
