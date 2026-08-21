@@ -21,7 +21,7 @@
     "query-string": "^6.8.1",
     "rss-parser": "^3.4.3",
     "shelljs": "^0.8.5",
-    "simple-git": "^3.17.0",
+    "simple-git": "^3.36.0",
     "underscore": "^1.9.1"
   },
   "repository": {
