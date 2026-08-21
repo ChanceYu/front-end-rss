@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-21T02:52:48.726Z</updated>
+    <updated>2026-08-21T10:18:16.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[卧靠，这是好东西，CSS text-fit属性简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/"/>
+        <updated>2026-08-21T00:00:00.000Z</updated>
+        <published>2026-08-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI理解、引擎驱动：零代码搭建实时数据链路]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545396&amp;idx=1&amp;sn=379acdf54a0274cade396762da96811b&amp;chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&amp;scene=0#rd</id>
@@ -366,12 +373,5 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <link href="https://nodeweekly.com/issues/633"/>
         <updated>2026-07-16T00:00:00.000Z</updated>
         <published>2026-07-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AINMM：存量生产级工程向 AI Native 演进的五级成熟度模型]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544860&amp;idx=1&amp;sn=2af590b12b53e721597358cc91e03eac&amp;chksm=8390d2c4b4e75bd27a7d881f20c1e6ee37988ec64ff29790f0adcf687b202f00b44a250c79be#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544860&amp;idx=1&amp;sn=2af590b12b53e721597358cc91e03eac&amp;chksm=8390d2c4b4e75bd27a7d881f20c1e6ee37988ec64ff29790f0adcf687b202f00b44a250c79be#rd"/>
-        <updated>2026-07-15T00:00:00.000Z</updated>
-        <published>2026-07-15T00:00:00.000Z</published>
     </entry>
 </feed>
