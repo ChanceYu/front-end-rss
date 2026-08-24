@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-08-21 18:18:57，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-24 22:31:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -37,7 +37,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -303,7 +303,8 @@
 </summary>
 
 
-- [2026-08-21-浅谈-SKILL-研发的最佳实践——以百补详情助手为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545397&idx=1&sn=e15d9315548d46a5799ff92358d6efc0&chksm=8271792aa9daab33f4562c9c5caf4ac73f03c90e3b53ed1a121d130eb78bc1e780efb1f6ff1e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0a5beb76d99ab8bfdfa1f0bf7372667)  ![](/assets/new.png) 
+- [2026-08-24-我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)  ![](/assets/new.png) 
+- [2026-08-21-浅谈-SKILL-研发的最佳实践——以百补详情助手为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545397&idx=1&sn=e15d9315548d46a5799ff92358d6efc0&chksm=8271792aa9daab33f4562c9c5caf4ac73f03c90e3b53ed1a121d130eb78bc1e780efb1f6ff1e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0a5beb76d99ab8bfdfa1f0bf7372667)  
 - [2026-08-19-AI理解、引擎驱动：零代码搭建实时数据链路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b&chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ce203c54a567a23cc1b4344ecf4b1c0)  
 - [2026-08-17-AI时代的数据研发-Semantic（语义层）实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545394&idx=1&sn=3cec6927186aac94f10d2ccbf117edde&chksm=82e4ae23f1e60bb6ab2fe13a4d17389ebd8ea54163ce26dd388e0d8c20abc4ab0fce0d3367b7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cb21d5a7f1fbf0b0c4695a54924a215a)  
 - [2026-08-14-重构协同：关于AI-Native团队的思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545393&idx=1&sn=d2961b8175bd165a5f6b3c950976395f&chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c59c1becec00245ac6bb42021ded3ffa)  
@@ -312,7 +313,6 @@
 - [2026-08-10-AI-评测还在看准确率？数据科学早就用因果推断做归因分析了](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545362&idx=1&sn=39b827174dec7d15ef7d48cd55f1f11f&chksm=821814b3fb8b56282126581ab0822ad7cae8fb929d4745a4ce95065f74cb6fb27b97e91f3b36&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ecdfb8f293f94d8bedbded0ee7feb644)  
 - [2026-08-07-淘宝主播Agent的Harness工程实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545361&idx=1&sn=cda202f3ee1ddb712d7841336d270227&chksm=822079061398f4d90faf5435eddfc8b4caee37b0e82e97bf838d50766ca954eb1372db16e3f9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e676453f6404d2bf74818bde944a1f9)  
 - [2026-08-05-复杂业务团队的-AI-Coding-交付实践：知识库、RD-流程和质量门禁](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545344&idx=1&sn=0e2f753e1e4796ea6634b18d1498ee9b&chksm=82ad4b5f862457f61a13d4e62ca77ae78b090372fb5517ff75c016c89dfb2bb0442768970d4e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f042a3f5e791de94f12e7f277bc566)  
-- [2026-08-03-百亿补贴-C-端-AI-Coding-实战：端到端-CodingAgent-设计与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545319&idx=1&sn=c3ab874dd2d19f5706fe41fc6e589518&chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=597a4f005f728aedd3c1acd955bf8cca)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -324,7 +324,7 @@
 </summary>
 
 
-- [2026-08-21-卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=35213e8f32727071b6abe9f3a92405a9)  ![](/assets/new.png) 
+- [2026-08-21-卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=35213e8f32727071b6abe9f3a92405a9)  
 - [2026-08-14-还在reduce求和吗？该使用Math.sumPrecise方法啦](https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fa7305c3bdf7151f2d3ee33c8f191456)  
 - [2026-08-06-background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a69a50ea8838ec66beada20bba0d580a)  
 - [2026-08-03-来了来了，Flex/Grid布局的间隙装饰线它来了](https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=061703ce95be8e9b9f6abcb287433a00)  

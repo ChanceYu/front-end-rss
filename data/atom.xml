@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-21T10:18:16.158Z</updated>
+    <updated>2026-08-24T14:31:06.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[我对 AI Coding 的一点思考：从 Spec 驱动转向环境与验证驱动]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545436&amp;idx=1&amp;sn=af4dc3f820acf230087053aa294dd2be&amp;chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545436&amp;idx=1&amp;sn=af4dc3f820acf230087053aa294dd2be&amp;chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&amp;scene=0#rd"/>
+        <updated>2026-08-24T00:00:00.000Z</updated>
+        <published>2026-08-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卧靠，这是好东西，CSS text-fit属性简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/</id>
@@ -364,13 +371,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[【第3730期】CSS 环境变量：env() 函数全面解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279586&amp;idx=1&amp;sn=d9b73f21f231308e42b21ddc9b9f7704&amp;chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279586&amp;idx=1&amp;sn=d9b73f21f231308e42b21ddc9b9f7704&amp;chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&amp;scene=0#rd"/>
-        <updated>2026-07-16T00:00:00.000Z</updated>
-        <published>2026-07-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The life of a ~200ms HTTP request to a Node app]]></title>
-        <id>https://nodeweekly.com/issues/633</id>
-        <link href="https://nodeweekly.com/issues/633"/>
         <updated>2026-07-16T00:00:00.000Z</updated>
         <published>2026-07-16T00:00:00.000Z</published>
     </entry>

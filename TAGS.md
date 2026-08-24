@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-08-21 18:18:57。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-08-24 22:31:29。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【淘系前端团队】我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)
 - [【淘系前端团队】AI理解、引擎驱动：零代码搭建实时数据链路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b&chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ce203c54a567a23cc1b4344ecf4b1c0)
 - [【淘系前端团队】AI时代的数据研发-Semantic（语义层）实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545394&idx=1&sn=3cec6927186aac94f10d2ccbf117edde&chksm=82e4ae23f1e60bb6ab2fe13a4d17389ebd8ea54163ce26dd388e0d8c20abc4ab0fce0d3367b7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cb21d5a7f1fbf0b0c4695a54924a215a)
 - [【阮一峰的网络日志】科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)
@@ -49,7 +50,6 @@
 - [【淘系前端团队】淘宝主播Agent的Harness工程实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545361&idx=1&sn=cda202f3ee1ddb712d7841336d270227&chksm=822079061398f4d90faf5435eddfc8b4caee37b0e82e97bf838d50766ca954eb1372db16e3f9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e676453f6404d2bf74818bde944a1f9)
 - [【淘系前端团队】复杂业务团队的-AI-Coding-交付实践：知识库、RD-流程和质量门禁](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545344&idx=1&sn=0e2f753e1e4796ea6634b18d1498ee9b&chksm=82ad4b5f862457f61a13d4e62ca77ae78b090372fb5517ff75c016c89dfb2bb0442768970d4e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f042a3f5e791de94f12e7f277bc566)
 - [【淘系前端团队】百亿补贴-C-端-AI-Coding-实战：端到端-CodingAgent-设计与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545319&idx=1&sn=c3ab874dd2d19f5706fe41fc6e589518&chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=597a4f005f728aedd3c1acd955bf8cca)
-- [【前端早读课】【第3735】从月中断粮到绰绰有余：AI编程省Token全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279668&idx=1&sn=fcc7f90b60027b2f4834c1ec7b7949b4&chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e13c66aecc6de680b1b164227bb3ff07)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【淘系前端团队】我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)
 - [【阮一峰的网络日志】科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cc87898e1a060651c8c1761676980e76)
 - [【张鑫旭-鑫空间-鑫生活】卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=35213e8f32727071b6abe9f3a92405a9)
 - [【淘系前端团队】浅谈-SKILL-研发的最佳实践——以百补详情助手为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545397&idx=1&sn=e15d9315548d46a5799ff92358d6efc0&chksm=8271792aa9daab33f4562c9c5caf4ac73f03c90e3b53ed1a121d130eb78bc1e780efb1f6ff1e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0a5beb76d99ab8bfdfa1f0bf7372667)
@@ -593,7 +594,6 @@
 - [【张鑫旭-鑫空间-鑫生活】还在reduce求和吗？该使用Math.sumPrecise方法啦](https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fa7305c3bdf7151f2d3ee33c8f191456)
 - [【淘系前端团队】重构协同：关于AI-Native团队的思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545393&idx=1&sn=d2961b8175bd165a5f6b3c950976395f&chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c59c1becec00245ac6bb42021ded3ffa)
 - [【淘系前端团队】淘天集团2027届校园招聘正式批全球启动！](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545392&idx=1&sn=8c11b89dd6504819460904599f0d9029&chksm=82f602cfa4b597d8ac6a606dcf978d740af2a24acc506a2a7949ead07ade1ee7af4923108c73&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e0c3433ba1f72f5f621496fa4129e03)
-- [【Node-Weekly】Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d36ec4d8b419d9d93177dbd116b8204a)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
