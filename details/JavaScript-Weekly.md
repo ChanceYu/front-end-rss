@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-08-12 00:45:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-26 02:21:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2026-08-25-Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6) 
 - [2026-08-11-Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5988ba7048081c36ed8232175c4bd781) 
 - [2026-08-04-Reimplementing-htmx-from-scratch](https://javascriptweekly.com/issues/797)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f3be2380591794939b72db31acbf26d6) 
 - [2026-07-28-Anders-Hejlsberg-demos-TypeScript-7's-10x-speedup](https://javascriptweekly.com/issues/796)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=262707ef7d7f3b463ad8b2017c1341fa) 

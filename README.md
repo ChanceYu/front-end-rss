@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-08-24 22:31:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-26 02:21:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -25,7 +25,7 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -36,7 +36,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2026-08-25-Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6)  ![](/assets/new.png) 
 - [2026-08-11-Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5988ba7048081c36ed8232175c4bd781)  
 - [2026-08-04-Reimplementing-htmx-from-scratch](https://javascriptweekly.com/issues/797)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f3be2380591794939b72db31acbf26d6)  
 - [2026-07-28-Anders-Hejlsberg-demos-TypeScript-7's-10x-speedup](https://javascriptweekly.com/issues/796)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=262707ef7d7f3b463ad8b2017c1341fa)  
@@ -81,7 +82,6 @@
 - [2026-06-30-Will-npm-v12-reject-your-.npmrc?](https://javascriptweekly.com/issues/792)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e95ec840a83dd1bc01e9c299739fa8e)  
 - [2026-06-23-Babel-8.0,-Vite-8.1,-and-TypeScript-7.0-RC](https://javascriptweekly.com/issues/791)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=60326a61edc22ed80344a2cff92aeaa5)  
 - [2026-06-16-Flow-vs-TypeScript-in-2026](https://javascriptweekly.com/issues/790)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=60257c5d83b4880c9178bd788636c72b)  
-- [2026-06-09-VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a263be7baa09034ac7994d6305700116)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-08-24-我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)  ![](/assets/new.png) 
+- [2026-08-24-我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)  
 - [2026-08-21-浅谈-SKILL-研发的最佳实践——以百补详情助手为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545397&idx=1&sn=e15d9315548d46a5799ff92358d6efc0&chksm=8271792aa9daab33f4562c9c5caf4ac73f03c90e3b53ed1a121d130eb78bc1e780efb1f6ff1e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0a5beb76d99ab8bfdfa1f0bf7372667)  
 - [2026-08-19-AI理解、引擎驱动：零代码搭建实时数据链路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b&chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ce203c54a567a23cc1b4344ecf4b1c0)  
 - [2026-08-17-AI时代的数据研发-Semantic（语义层）实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545394&idx=1&sn=3cec6927186aac94f10d2ccbf117edde&chksm=82e4ae23f1e60bb6ab2fe13a4d17389ebd8ea54163ce26dd388e0d8c20abc4ab0fce0d3367b7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cb21d5a7f1fbf0b0c4695a54924a215a)  

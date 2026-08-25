@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-08-24 22:31:29。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-08-26 02:21:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -170,6 +170,7 @@
 
 
 
+- [【JavaScript-Weekly】Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6)
 - [【Node-Weekly】Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d0bc8d2dbdd757f6eacad8e1814e2f8)
 - [【Nodejs技术栈】Bun-Rust-重构版还没发，就开始吊打-Deno-和-Node.js-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524353&idx=1&sn=bc8867a3f77c63aacb72648e684aebbc&chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cfbf3dfa0c33f49b7bbe7ab50ed9b421)
 - [【Nodejs技术栈】Node.js-企业级框架-NestJS-v12-快来了：ESM、Vitest-全都换了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524339&idx=1&sn=4b5e593fb9ecd9efff8a8402ca9604e6&chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2ef1059d88a87adee4e3ff038aa8914)
@@ -179,7 +180,6 @@
 - [【Nodejs技术栈】和-Bun-反着来！Vercel-用-Zig-造了个-Native-SDK，对标-Electron、Tauri](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524255&idx=1&sn=62ea652877f4767ca4d9ed70689cb18e&chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3cad447af30c56cd9683e3b019eed)
 - [【JavaScript-Weekly】npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7eb94c3ade004f1aa58f24df9c99bc11)
 - [【Nodejs技术栈】杠上了！Bun-重写成-Rust-后，Zig-创始人开炮：LLM-之前就在写垃圾代码了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524188&idx=1&sn=41cd045b0531dd23ab850bfb2c2ac212&chksm=e80fd012df7859046b7ab7190958ca0c845d7f00e72d0bcad5f8357a7c9f7cc36d858a8903a0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cee10028678146e386e34023966403cc)
-- [【Nodejs技术栈】Bun-这次太狠了：64-个-Claude-连跑-11-天，把-53-万行代码重写成-Rust](http://mp.weixin.qq.com/s/PZ_dlEAaW8gXTea-jp7BLw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c4c30c7d5f968903c72616da96bfa796)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【JavaScript-Weekly】Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6)
 - [【淘系前端团队】我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)
 - [【阮一峰的网络日志】科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cc87898e1a060651c8c1761676980e76)
 - [【张鑫旭-鑫空间-鑫生活】卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=35213e8f32727071b6abe9f3a92405a9)
@@ -593,7 +594,6 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)
 - [【张鑫旭-鑫空间-鑫生活】还在reduce求和吗？该使用Math.sumPrecise方法啦](https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fa7305c3bdf7151f2d3ee33c8f191456)
 - [【淘系前端团队】重构协同：关于AI-Native团队的思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545393&idx=1&sn=d2961b8175bd165a5f6b3c950976395f&chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c59c1becec00245ac6bb42021ded3ffa)
-- [【淘系前端团队】淘天集团2027届校园招聘正式批全球启动！](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545392&idx=1&sn=8c11b89dd6504819460904599f0d9029&chksm=82f602cfa4b597d8ac6a606dcf978d740af2a24acc506a2a7949ead07ade1ee7af4923108c73&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e0c3433ba1f72f5f621496fa4129e03)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
