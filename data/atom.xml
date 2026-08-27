@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-26T08:28:09.535Z</updated>
+    <updated>2026-08-27T16:58:44.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node 26.8 reads and writes ZIP files]]></title>
+        <id>https://nodeweekly.com/issues/638</id>
+        <link href="https://nodeweekly.com/issues/638"/>
+        <updated>2026-08-27T00:00:00.000Z</updated>
+        <published>2026-08-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[场景营销互动 & 体验 AI Coding — 构建 Agent 自主执行闭环]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545465&amp;idx=1&amp;sn=96e20d7451fcc622baf2b6f0c2d9ef04&amp;chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&amp;scene=0#rd</id>
@@ -358,13 +365,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[高价率运营 AI 工作台：约定驱动与 AI 编排的评测优化实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544861&amp;idx=1&amp;sn=bf26b607ad3030ac4091907c86935453&amp;chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544861&amp;idx=1&amp;sn=bf26b607ad3030ac4091907c86935453&amp;chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd"/>
-        <updated>2026-07-17T00:00:00.000Z</updated>
-        <published>2026-07-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【开源】专为 Codex 桌面端设计的第三方个性化换肤/主题定制工具：Codex Dream Skin]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279596&amp;idx=1&amp;sn=b82634421f3289736e63a1f0d4ab3887&amp;chksm=bc7c302787d73852951586d480dfcdd0c2f304bacb46beb16576ab3937ba53b1e024b138b56d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279596&amp;idx=1&amp;sn=b82634421f3289736e63a1f0d4ab3887&amp;chksm=bc7c302787d73852951586d480dfcdd0c2f304bacb46beb16576ab3937ba53b1e024b138b56d&amp;scene=0#rd"/>
         <updated>2026-07-17T00:00:00.000Z</updated>
         <published>2026-07-17T00:00:00.000Z</published>
     </entry>
