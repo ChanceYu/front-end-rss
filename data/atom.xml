@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-28T01:50:48.239Z</updated>
+    <updated>2026-08-28T13:28:50.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,20 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html"/>
+        <updated>2026-08-28T00:00:00.000Z</updated>
+        <published>2026-08-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超级Web特性HTML-in-Canvas初体验]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/"/>
+        <updated>2026-08-28T00:00:00.000Z</updated>
+        <published>2026-08-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信任需要基础设施：如何让AI可靠的取数]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545467&amp;idx=1&amp;sn=b5757df260f77c1bf3f6947129db5100&amp;chksm=82dad993e09bd858f9cca1a5a051cd762ee82789ea6bce39dc2d90e29af858bcb59e5f1dcf08&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545467&amp;idx=1&amp;sn=b5757df260f77c1bf3f6947129db5100&amp;chksm=82dad993e09bd858f9cca1a5a051cd762ee82789ea6bce39dc2d90e29af858bcb59e5f1dcf08&amp;scene=0#rd"/>
         <updated>2026-08-28T00:00:00.000Z</updated>
         <published>2026-08-28T00:00:00.000Z</published>
     </entry>
@@ -351,20 +365,6 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <title type="html"><![CDATA[国产大模型 Kimi K3 发布，百万上下文、原生多模态，多项指标超 Fable 5]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524278&amp;idx=1&amp;sn=cd7801827300d1df2b326d619fed6a6e&amp;chksm=e80fd0f8df7859eed8618d0608a2805155a83abcdacfa9fd63abd8afe1067efd0c60b96c86ff#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524278&amp;idx=1&amp;sn=cd7801827300d1df2b326d619fed6a6e&amp;chksm=e80fd0f8df7859eed8618d0608a2805155a83abcdacfa9fd63abd8afe1067efd0c60b96c86ff#rd"/>
-        <updated>2026-07-17T00:00:00.000Z</updated>
-        <published>2026-07-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html"/>
-        <updated>2026-07-17T00:00:00.000Z</updated>
-        <published>2026-07-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS新单位dvh、lvmin、vi、cqb等初解]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/"/>
         <updated>2026-07-17T00:00:00.000Z</updated>
         <published>2026-07-17T00:00:00.000Z</published>
     </entry>
