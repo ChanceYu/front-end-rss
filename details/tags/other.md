@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-08-28 00:58:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-28 09:51:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-08-28-科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25c5720f9d76e5ad8590f92a34ba2726) 
 - [2026-08-27-Node-26.8-reads-and-writes-ZIP-files](https://nodeweekly.com/issues/638)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0c89025d13d4c1f01c1c77e91749bb50) 
 - [2026-08-26-场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef) 
 - [2026-08-25-Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6) 

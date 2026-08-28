@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-08-28 00:58:55。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-08-28 09:51:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【阮一峰的网络日志】科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25c5720f9d76e5ad8590f92a34ba2726)
 - [【淘系前端团队】场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef)
 - [【淘系前端团队】我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)
 - [【淘系前端团队】AI理解、引擎驱动：零代码搭建实时数据链路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b&chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ce203c54a567a23cc1b4344ecf4b1c0)
@@ -49,7 +50,6 @@
 - [【淘系前端团队】天猫AI助手：调度框架重构与AI-Coding工程化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545383&idx=1&sn=4123516f8abad5546eb5979c62686dd4&chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=336a738c47ae8ba5d2e5caac0fc43eb1)
 - [【淘系前端团队】AI-评测还在看准确率？数据科学早就用因果推断做归因分析了](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545362&idx=1&sn=39b827174dec7d15ef7d48cd55f1f11f&chksm=821814b3fb8b56282126581ab0822ad7cae8fb929d4745a4ce95065f74cb6fb27b97e91f3b36&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ecdfb8f293f94d8bedbded0ee7feb644)
 - [【淘系前端团队】淘宝主播Agent的Harness工程实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545361&idx=1&sn=cda202f3ee1ddb712d7841336d270227&chksm=822079061398f4d90faf5435eddfc8b4caee37b0e82e97bf838d50766ca954eb1372db16e3f9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e676453f6404d2bf74818bde944a1f9)
-- [【淘系前端团队】复杂业务团队的-AI-Coding-交付实践：知识库、RD-流程和质量门禁](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545344&idx=1&sn=0e2f753e1e4796ea6634b18d1498ee9b&chksm=82ad4b5f862457f61a13d4e62ca77ae78b090372fb5517ff75c016c89dfb2bb0442768970d4e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10f042a3f5e791de94f12e7f277bc566)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【阮一峰的网络日志】科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25c5720f9d76e5ad8590f92a34ba2726)
 - [【Node-Weekly】Node-26.8-reads-and-writes-ZIP-files](https://nodeweekly.com/issues/638)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0c89025d13d4c1f01c1c77e91749bb50)
 - [【淘系前端团队】场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef)
 - [【JavaScript-Weekly】Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6)
@@ -593,7 +594,6 @@
 - [【淘系前端团队】浅谈-SKILL-研发的最佳实践——以百补详情助手为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545397&idx=1&sn=e15d9315548d46a5799ff92358d6efc0&chksm=8271792aa9daab33f4562c9c5caf4ac73f03c90e3b53ed1a121d130eb78bc1e780efb1f6ff1e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0a5beb76d99ab8bfdfa1f0bf7372667)
 - [【淘系前端团队】AI理解、引擎驱动：零代码搭建实时数据链路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b&chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ce203c54a567a23cc1b4344ecf4b1c0)
 - [【淘系前端团队】AI时代的数据研发-Semantic（语义层）实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545394&idx=1&sn=3cec6927186aac94f10d2ccbf117edde&chksm=82e4ae23f1e60bb6ab2fe13a4d17389ebd8ea54163ce26dd388e0d8c20abc4ab0fce0d3367b7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cb21d5a7f1fbf0b0c4695a54924a215a)
-- [【阮一峰的网络日志】科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
