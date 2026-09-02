@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-02 04:14:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-03 01:28:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-09-02-AI-驱动研发体系的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545626&idx=1&sn=cfd0d3011972881686bbb9bedbc319da&chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cbaf0e6199c8182712254ab5663301df) 
 - [2026-08-28-科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25c5720f9d76e5ad8590f92a34ba2726) 
 - [2026-08-28-信任需要基础设施：如何让AI可靠的取数](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545467&idx=1&sn=b5757df260f77c1bf3f6947129db5100&chksm=82dad993e09bd858f9cca1a5a051cd762ee82789ea6bce39dc2d90e29af858bcb59e5f1dcf08&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d9c03799a139163c21c8983757bb0c9) 
 - [2026-08-26-场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef) 

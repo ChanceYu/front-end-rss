@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-01T20:14:27.043Z</updated>
+    <updated>2026-09-02T17:28:33.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AI 驱动研发体系的实践和思考]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545626&amp;idx=1&amp;sn=cfd0d3011972881686bbb9bedbc319da&amp;chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545626&amp;idx=1&amp;sn=cfd0d3011972881686bbb9bedbc319da&amp;chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&amp;scene=0#rd"/>
+        <updated>2026-09-02T00:00:00.000Z</updated>
+        <published>2026-09-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</id>
@@ -360,12 +367,5 @@ Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包�
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524280&amp;idx=1&amp;sn=479f8eeb7a405864237e0154cb1edf63&amp;chksm=e80fd0f6df7859e09b536dc6d93bff2980c5ae14a447bfd4cbb4a66c8b5f8101fa1a5a34d501#rd"/>
         <updated>2026-07-18T00:00:00.000Z</updated>
         <published>2026-07-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国产大模型 Kimi K3 发布，百万上下文、原生多模态，多项指标超 Fable 5]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524278&amp;idx=1&amp;sn=cd7801827300d1df2b326d619fed6a6e&amp;chksm=e80fd0f8df7859eed8618d0608a2805155a83abcdacfa9fd63abd8afe1067efd0c60b96c86ff#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524278&amp;idx=1&amp;sn=cd7801827300d1df2b326d619fed6a6e&amp;chksm=e80fd0f8df7859eed8618d0608a2805155a83abcdacfa9fd63abd8afe1067efd0c60b96c86ff#rd"/>
-        <updated>2026-07-17T00:00:00.000Z</updated>
-        <published>2026-07-17T00:00:00.000Z</published>
     </entry>
 </feed>
