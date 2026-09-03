@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-03T12:19:05.236Z</updated>
+    <updated>2026-09-03T17:21:54.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Bun now passes 80.5% of Node's test suite]]></title>
+        <id>https://nodeweekly.com/issues/639</id>
+        <link href="https://nodeweekly.com/issues/639"/>
+        <updated>2026-09-03T00:00:00.000Z</updated>
+        <published>2026-09-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 驱动研发体系的实践和思考]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545626&amp;idx=1&amp;sn=cfd0d3011972881686bbb9bedbc319da&amp;chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&amp;scene=0#rd</id>
@@ -356,16 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524295&amp;idx=1&amp;sn=9e048b4432faebc7178c9e3904997a3c&amp;chksm=e80fd089df78599facfa796828cfe06c0d55283678ba8094c69592fb8015366e20eff86adf23#rd"/>
         <updated>2026-07-19T00:00:00.000Z</updated>
         <published>2026-07-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感谢 GPT-5.6 Sol、Kimi，把 A 社 Claude Fable 5 给干成永久订阅了！Codex 看到后又玩起了重置游戏！
-
-Claude 今天宣布 7 月 20 号起所有 Max 和 Team Premium 套餐都将包含 Claude Fable 5，限额为 50%。
-
-但是 Pro 用户又被抛弃了～ Pro 和 Team Standard 用户需要通过积分使]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524280&amp;idx=1&amp;sn=479f8eeb7a405864237e0154cb1edf63&amp;chksm=e80fd0f6df7859e09b536dc6d93bff2980c5ae14a447bfd4cbb4a66c8b5f8101fa1a5a34d501#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524280&amp;idx=1&amp;sn=479f8eeb7a405864237e0154cb1edf63&amp;chksm=e80fd0f6df7859e09b536dc6d93bff2980c5ae14a447bfd4cbb4a66c8b5f8101fa1a5a34d501#rd"/>
-        <updated>2026-07-18T00:00:00.000Z</updated>
-        <published>2026-07-18T00:00:00.000Z</published>
     </entry>
 </feed>
