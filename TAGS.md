@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-03 01:28:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-03 20:19:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -584,6 +584,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】别再使用IndexedDB，大文件读写就用OPFS](https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b8781086c33e1a08974842b16e84e41c)
 - [【淘系前端团队】AI-驱动研发体系的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545626&idx=1&sn=cfd0d3011972881686bbb9bedbc319da&chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cbaf0e6199c8182712254ab5663301df)
 - [【JavaScript-Weekly】How-to-fit-Minesweeper-into-247-bytes](https://javascriptweekly.com/issues/800)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3d0b299dda21939a6398cb0d6fed5)
 - [【阮一峰的网络日志】科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25c5720f9d76e5ad8590f92a34ba2726)
@@ -593,7 +594,6 @@
 - [【淘系前端团队】场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef)
 - [【JavaScript-Weekly】Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6)
 - [【淘系前端团队】我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)
-- [【阮一峰的网络日志】科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cc87898e1a060651c8c1761676980e76)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

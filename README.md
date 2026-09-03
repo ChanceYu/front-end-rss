@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-09-03 01:28:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-03 20:19:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,8 +36,8 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [淘系前端团队](#淘系前端团队)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-09-02-AI-驱动研发体系的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545626&idx=1&sn=cfd0d3011972881686bbb9bedbc319da&chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cbaf0e6199c8182712254ab5663301df)  ![](/assets/new.png) 
+- [2026-09-02-AI-驱动研发体系的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545626&idx=1&sn=cfd0d3011972881686bbb9bedbc319da&chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cbaf0e6199c8182712254ab5663301df)  
 - [2026-08-28-信任需要基础设施：如何让AI可靠的取数](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545467&idx=1&sn=b5757df260f77c1bf3f6947129db5100&chksm=82dad993e09bd858f9cca1a5a051cd762ee82789ea6bce39dc2d90e29af858bcb59e5f1dcf08&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d9c03799a139163c21c8983757bb0c9)  
 - [2026-08-26-场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef)  
 - [2026-08-24-我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)  
@@ -324,6 +324,7 @@
 </summary>
 
 
+- [2026-09-03-别再使用IndexedDB，大文件读写就用OPFS](https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b8781086c33e1a08974842b16e84e41c)  ![](/assets/new.png) 
 - [2026-08-28-超级Web特性HTML-in-Canvas初体验](https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ebc0ce8ea4f00ce60a855b6b706d1170)  
 - [2026-08-21-卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=35213e8f32727071b6abe9f3a92405a9)  
 - [2026-08-14-还在reduce求和吗？该使用Math.sumPrecise方法啦](https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fa7305c3bdf7151f2d3ee33c8f191456)  
@@ -333,7 +334,6 @@
 - [2026-07-23-纯CSS实现repeat–n,-anything循环展示或相加功能](https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a3a05f15a5a96f112ef387b225f34e3)  
 - [2026-07-17-CSS新单位dvh、lvmin、vi、cqb等初解](https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1bc32fa2188df136f39a31b8957dc104)  
 - [2026-07-09-前端快讯：setHTML和Element.startViewTransition已支持](https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=49e79b62ce767ffc5f832f91ab585570)  
-- [2026-07-07-AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3f1d9c187318a93a1290ccffa2251e19)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
