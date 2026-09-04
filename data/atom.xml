@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-04T01:40:26.138Z</updated>
+    <updated>2026-09-04T12:19:29.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html"/>
+        <updated>2026-09-04T00:00:00.000Z</updated>
+        <published>2026-09-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘宝百亿补贴数据分析助手 Agent 实战]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545717&amp;idx=1&amp;sn=616d9c26c3c02ce24bdb2a793b18291c&amp;chksm=827162f6e9630a51ba249a827b698fe18394fcd74b969823e09a0f9c8c89683af16889bb7cf6&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545717&amp;idx=1&amp;sn=616d9c26c3c02ce24bdb2a793b18291c&amp;chksm=827162f6e9630a51ba249a827b698fe18394fcd74b969823e09a0f9c8c89683af16889bb7cf6&amp;scene=0#rd"/>
         <updated>2026-09-04T00:00:00.000Z</updated>
         <published>2026-09-04T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[今年 WAIC，我被这个数字震住了：全国产十万卡AI超集群同时开跑，什么概念？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524320&amp;idx=1&amp;sn=9b02ad5ce605e4cb5dd7f7507c0d0797&amp;chksm=e80fd0aedf7859b874487fafda3ec8f77fb9bf4606aacd4778c05ec144d1fb1ce4c28a686042#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524320&amp;idx=1&amp;sn=9b02ad5ce605e4cb5dd7f7507c0d0797&amp;chksm=e80fd0aedf7859b874487fafda3ec8f77fb9bf4606aacd4778c05ec144d1fb1ce4c28a686042#rd"/>
-        <updated>2026-07-20T00:00:00.000Z</updated>
-        <published>2026-07-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot 需求交付 Skill 如何实现数据需求24h交付]]></title>
-        <id>http://mp.weixin.qq.com/s/7JI5zJdT73OFbI-DVl3Oqg</id>
-        <link href="http://mp.weixin.qq.com/s/7JI5zJdT73OFbI-DVl3Oqg"/>
         <updated>2026-07-20T00:00:00.000Z</updated>
         <published>2026-07-20T00:00:00.000Z</published>
     </entry>
