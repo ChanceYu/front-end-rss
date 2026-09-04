@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-09-04 01:22:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-04 09:40:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -24,7 +24,7 @@
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -38,7 +38,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -51,7 +51,7 @@
 </summary>
 
 
-- [2026-09-03-Bun-now-passes-80.5%-of-Node's-test-suite](https://nodeweekly.com/issues/639)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=198a1d5503a38f2056e6d930de6de790)  ![](/assets/new.png) 
+- [2026-09-03-Bun-now-passes-80.5%-of-Node's-test-suite](https://nodeweekly.com/issues/639)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=198a1d5503a38f2056e6d930de6de790)  
 - [2026-08-27-Node-26.8-reads-and-writes-ZIP-files](https://nodeweekly.com/issues/638)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0c89025d13d4c1f01c1c77e91749bb50)  
 - [2026-08-13-Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d36ec4d8b419d9d93177dbd116b8204a)  
 - [2026-08-06-Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d0bc8d2dbdd757f6eacad8e1814e2f8)  
@@ -345,6 +345,7 @@
 </summary>
 
 
+- [2026-09-04-科技爱好者周刊（第-411-期）：OpenClaw-2.0-是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b4aad10f5b791f0b500489abe95a2280)  ![](/assets/new.png) 
 - [2026-08-28-科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25c5720f9d76e5ad8590f92a34ba2726)  
 - [2026-08-21-科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cc87898e1a060651c8c1761676980e76)  
 - [2026-08-14-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)  
@@ -354,7 +355,6 @@
 - [2026-07-17-科技爱好者周刊（第-404-期）：你需要知道的-AI-内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1d9cb3c5c441fe04e95aafaf9778d3e)  
 - [2026-07-10-科技爱好者周刊（第-403-期）：为什么-Dropbox-不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af81724fc9aa32e4dc318f43ca2e1b3d)  
 - [2026-07-03-科技爱好者周刊（第-402-期）：我在智念-AI-的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=871cef9ef14042b794076bdb7ff59ecd)  
-- [2026-06-30-Dario-Amodei：AI-开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c5fd499095c31b8f7b600396a33892f9)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

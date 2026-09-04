@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-03T17:21:54.191Z</updated>
+    <updated>2026-09-04T01:40:26.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html"/>
+        <updated>2026-09-04T00:00:00.000Z</updated>
+        <published>2026-09-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bun now passes 80.5% of Node's test suite]]></title>
         <id>https://nodeweekly.com/issues/639</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/7JI5zJdT73OFbI-DVl3Oqg"/>
         <updated>2026-07-20T00:00:00.000Z</updated>
         <published>2026-07-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端又杀出一匹黑马！用 Bun 刚抛弃的 Zig 写的，连 Oxc 作者都公开点赞]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524295&amp;idx=1&amp;sn=9e048b4432faebc7178c9e3904997a3c&amp;chksm=e80fd089df78599facfa796828cfe06c0d55283678ba8094c69592fb8015366e20eff86adf23#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524295&amp;idx=1&amp;sn=9e048b4432faebc7178c9e3904997a3c&amp;chksm=e80fd089df78599facfa796828cfe06c0d55283678ba8094c69592fb8015366e20eff86adf23#rd"/>
-        <updated>2026-07-19T00:00:00.000Z</updated>
-        <published>2026-07-19T00:00:00.000Z</published>
     </entry>
 </feed>

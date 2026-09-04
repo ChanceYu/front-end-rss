@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-09-04 01:22:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-04 09:40:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-09-04-科技爱好者周刊（第-411-期）：OpenClaw-2.0-是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b4aad10f5b791f0b500489abe95a2280) 
 - [2026-09-03-别再使用IndexedDB，大文件读写就用OPFS](https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b8781086c33e1a08974842b16e84e41c) 
 - [2026-09-03-Bun-now-passes-80.5%-of-Node's-test-suite](https://nodeweekly.com/issues/639)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=198a1d5503a38f2056e6d930de6de790) 
 - [2026-09-02-AI-驱动研发体系的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545626&idx=1&sn=cfd0d3011972881686bbb9bedbc319da&chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cbaf0e6199c8182712254ab5663301df) 
