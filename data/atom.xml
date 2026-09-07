@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-04T12:19:29.673Z</updated>
+    <updated>2026-09-07T18:27:49.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[天猫技术大型 AI 项目的研发协同实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545718&amp;idx=1&amp;sn=97f7fc8fd31947c67deff2c77165be6a&amp;chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545718&amp;idx=1&amp;sn=97f7fc8fd31947c67deff2c77165be6a&amp;chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&amp;scene=0#rd"/>
+        <updated>2026-09-07T00:00:00.000Z</updated>
+        <published>2026-09-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/27RbHTg-vsH05zMVAg73HQ"/>
         <updated>2026-07-21T00:00:00.000Z</updated>
         <published>2026-07-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年 WAIC，我被这个数字震住了：全国产十万卡AI超集群同时开跑，什么概念？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524320&amp;idx=1&amp;sn=9b02ad5ce605e4cb5dd7f7507c0d0797&amp;chksm=e80fd0aedf7859b874487fafda3ec8f77fb9bf4606aacd4778c05ec144d1fb1ce4c28a686042#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524320&amp;idx=1&amp;sn=9b02ad5ce605e4cb5dd7f7507c0d0797&amp;chksm=e80fd0aedf7859b874487fafda3ec8f77fb9bf4606aacd4778c05ec144d1fb1ce4c28a686042#rd"/>
-        <updated>2026-07-20T00:00:00.000Z</updated>
-        <published>2026-07-20T00:00:00.000Z</published>
     </entry>
 </feed>
