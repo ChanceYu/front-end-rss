@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-10T12:26:20.191Z</updated>
+    <updated>2026-09-10T17:21:55.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[关键时刻可以救命的Web Locks API]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/"/>
+        <updated>2026-09-10T00:00:00.000Z</updated>
+        <published>2026-09-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node is getting a built-in benchmark runner]]></title>
+        <id>https://nodeweekly.com/issues/640</id>
+        <link href="https://nodeweekly.com/issues/640"/>
         <updated>2026-09-10T00:00:00.000Z</updated>
         <published>2026-09-10T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3732期】不必转投 jj，git history 让历史重写变得安全又优雅]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=1&amp;sn=96bc7d3697463bfc451f3e83bb17ce5d&amp;chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=1&amp;sn=96bc7d3697463bfc451f3e83bb17ce5d&amp;chksm=bc274be31709221bc5dee9adeabf70e70c720c812e9f4b95dd57d2733cd3c5aa117a3f4f6ec8&amp;scene=0#rd"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <published>2026-07-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【开源】既简单又强大的版本控制系统：jj]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <published>2026-07-22T00:00:00.000Z</published>
     </entry>
