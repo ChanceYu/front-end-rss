@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-10 01:24:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-10 20:26:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-09-10-关键时刻可以救命的Web-Locks-API](https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e3a6c2ebb66ffadeb3453860b76279c) 
 - [2026-08-11-Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5988ba7048081c36ed8232175c4bd781) 
 - [2026-07-29-Screen.isExtended、getScreenDetails与多显示器开发](https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6aa570479075b335958c2ecba015a551) 
 - [2026-07-27-【第3733期】用-Web-Locks-API-优雅解决跨标签页并发问题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279639&idx=1&sn=4b73fb6385488ca369cf2bb1604802b2&chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a18bead0878103e641cac0020d814e6) 

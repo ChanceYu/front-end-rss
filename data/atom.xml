@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-09T17:24:01.586Z</updated>
+    <updated>2026-09-10T12:26:20.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[关键时刻可以救命的Web Locks API]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/"/>
+        <updated>2026-09-10T00:00:00.000Z</updated>
+        <published>2026-09-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agent 长程任务断点续传：从框架 Checkpoint 到跨进程恢复的完整实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545838&amp;idx=1&amp;sn=3c5a25dfe00876f608af093ff0881942&amp;chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279617&amp;idx=2&amp;sn=e0ae28141650d98f09550423cb60c876&amp;chksm=bc390d1d74336b1fefdc62d85d9ddbd11d576a4b071e3feded1502ae34bdc6b1133432bfad71&amp;scene=0#rd"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <published>2026-07-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 跑 React 真实项目翻大车！GPT 5.6 Sol、Fable 5 也没救]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524321&amp;idx=1&amp;sn=7a44546affcb22ba810663807339d0a2&amp;chksm=e80fd0afdf7859b9c8ca5b285ee586ea49846f7faabac557572f2388935bf697dd93e286a546#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524321&amp;idx=1&amp;sn=7a44546affcb22ba810663807339d0a2&amp;chksm=e80fd0afdf7859b9c8ca5b285ee586ea49846f7faabac557572f2388935bf697dd93e286a546#rd"/>
-        <updated>2026-07-21T00:00:00.000Z</updated>
-        <published>2026-07-21T00:00:00.000Z</published>
     </entry>
 </feed>
