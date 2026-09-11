@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-11 01:22:07。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-11 09:46:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -584,6 +584,7 @@
 
 
 
+- [【阮一峰的网络日志】科技爱好者周刊（第-412-期）：禁止-issue，只用-PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b674a5158ce90df2db5d71d4c4813789)
 - [【张鑫旭-鑫空间-鑫生活】关键时刻可以救命的Web-Locks-API](https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e3a6c2ebb66ffadeb3453860b76279c)
 - [【Node-Weekly】Node-is-getting-a-built-in-benchmark-runner](https://nodeweekly.com/issues/640)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c6714d9ce22c8fa22126d26e873d5ff)
 - [【淘系前端团队】Agent-长程任务断点续传：从框架-Checkpoint-到跨进程恢复的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545838&idx=1&sn=3c5a25dfe00876f608af093ff0881942&chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50d9780f7a17daa66c3bebcbc89eefde)
@@ -593,7 +594,6 @@
 - [【淘系前端团队】淘宝百亿补贴数据分析助手-Agent-实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545717&idx=1&sn=616d9c26c3c02ce24bdb2a793b18291c&chksm=827162f6e9630a51ba249a827b698fe18394fcd74b969823e09a0f9c8c89683af16889bb7cf6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f36373f658fbcec3a84a7cd225e4e479)
 - [【张鑫旭-鑫空间-鑫生活】别再使用IndexedDB，大文件读写就用OPFS](https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b8781086c33e1a08974842b16e84e41c)
 - [【Node-Weekly】Bun-now-passes-80.5%-of-Node's-test-suite](https://nodeweekly.com/issues/639)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=198a1d5503a38f2056e6d930de6de790)
-- [【淘系前端团队】AI-驱动研发体系的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545626&idx=1&sn=cfd0d3011972881686bbb9bedbc319da&chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cbaf0e6199c8182712254ab5663301df)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
