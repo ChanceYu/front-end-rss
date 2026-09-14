@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-11T17:23:41.670Z</updated>
+    <updated>2026-09-14T14:31:27.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘天自研编码器斩获MSU 6项冠军，视频编码技术支撑内容体验升级]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545951&amp;idx=1&amp;sn=4155d46609b020e686bf4153cebb3142&amp;chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545951&amp;idx=1&amp;sn=4155d46609b020e686bf4153cebb3142&amp;chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&amp;scene=0#rd"/>
+        <updated>2026-09-14T00:00:00.000Z</updated>
+        <published>2026-09-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让 Agent 像人一样记忆：本地长期记忆系统 HL-Mem 的设计与取舍]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545942&amp;idx=1&amp;sn=059fb0899702c46fe339f0a80aef90ab&amp;chksm=825a50d64a4f71f76068220895f10f59526d7ce7a97ae8d855d76c5f97740dfb498c7383e938&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[TMAP平台图生视频推理加速实践]]></title>
         <id>http://mp.weixin.qq.com/s/H7KdJqOINbyDRmVh71ikSg</id>
         <link href="http://mp.weixin.qq.com/s/H7KdJqOINbyDRmVh71ikSg"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <published>2026-07-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实锤了, deepseek做出了自己的claude code]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624662&amp;idx=1&amp;sn=57772d6364f3d691ced53aa238c4729d&amp;chksm=80224317b755ca0188bb1fc2112ab54cf6bb5a386479f0e8262125a8039c5927ae212b09dbfd#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624662&amp;idx=1&amp;sn=57772d6364f3d691ced53aa238c4729d&amp;chksm=80224317b755ca0188bb1fc2112ab54cf6bb5a386479f0e8262125a8039c5927ae212b09dbfd#rd"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <published>2026-07-22T00:00:00.000Z</published>
     </entry>
