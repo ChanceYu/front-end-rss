@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-15 17:02:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-16 03:20:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2026-09-15-新时代下的tooltip提示效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=956bb28ee7c3fa3464926f37fd5cbcc5) 
+- [2026-09-15-Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f29fc621c5c1fb3eab18a615adcd0ba7) 
 - [2026-09-14-淘天自研编码器斩获MSU-6项冠军，视频编码技术支撑内容体验升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545951&idx=1&sn=4155d46609b020e686bf4153cebb3142&chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8543da2fd18b9286fb680caa7337cb) 
 - [2026-09-11-科技爱好者周刊（第-412-期）：禁止-issue，只用-PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b674a5158ce90df2db5d71d4c4813789) 
 - [2026-09-11-让-Agent-像人一样记忆：本地长期记忆系统-HL-Mem-的设计与取舍](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545942&idx=1&sn=059fb0899702c46fe339f0a80aef90ab&chksm=825a50d64a4f71f76068220895f10f59526d7ce7a97ae8d855d76c5f97740dfb498c7383e938&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bbd2235ad50d1a7142ec01444fc33db) 

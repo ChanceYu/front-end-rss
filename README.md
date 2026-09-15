@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-09-15 17:02:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-16 03:20:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -25,7 +25,7 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -37,7 +37,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2026-09-15-Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f29fc621c5c1fb3eab18a615adcd0ba7)  ![](/assets/new.png) 
 - [2026-09-08-When-8-chunks-weigh-more-than-355](https://javascriptweekly.com/issues/801)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a0d118fc374002a734e614d386abd32)  
 - [2026-09-01-How-to-fit-Minesweeper-into-247-bytes](https://javascriptweekly.com/issues/800)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3d0b299dda21939a6398cb0d6fed5)  
 - [2026-08-25-Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6)  
@@ -81,7 +82,6 @@
 - [2026-07-21-The-coding-challenge-you-don't-want-to-pass](https://javascriptweekly.com/issues/795)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d8116b99216c85290ad8c07125ab04f)  
 - [2026-07-14-npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7eb94c3ade004f1aa58f24df9c99bc11)  
 - [2026-07-07-What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ef212351ac771f876b7afeaea937b3a)  
-- [2026-06-30-Will-npm-v12-reject-your-.npmrc?](https://javascriptweekly.com/issues/792)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e95ec840a83dd1bc01e9c299739fa8e)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -324,7 +324,7 @@
 </summary>
 
 
-- [2026-09-15-新时代下的tooltip提示效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=956bb28ee7c3fa3464926f37fd5cbcc5)  ![](/assets/new.png) 
+- [2026-09-15-新时代下的tooltip提示效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=956bb28ee7c3fa3464926f37fd5cbcc5)  
 - [2026-09-10-关键时刻可以救命的Web-Locks-API](https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e3a6c2ebb66ffadeb3453860b76279c)  
 - [2026-09-03-别再使用IndexedDB，大文件读写就用OPFS](https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b8781086c33e1a08974842b16e84e41c)  
 - [2026-08-28-超级Web特性HTML-in-Canvas初体验](https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ebc0ce8ea4f00ce60a855b6b706d1170)  

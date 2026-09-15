@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-15 17:02:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-16 03:20:37。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -585,6 +585,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】新时代下的tooltip提示效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=956bb28ee7c3fa3464926f37fd5cbcc5)
+- [【JavaScript-Weekly】Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f29fc621c5c1fb3eab18a615adcd0ba7)
 - [【淘系前端团队】淘天自研编码器斩获MSU-6项冠军，视频编码技术支撑内容体验升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545951&idx=1&sn=4155d46609b020e686bf4153cebb3142&chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8543da2fd18b9286fb680caa7337cb)
 - [【阮一峰的网络日志】科技爱好者周刊（第-412-期）：禁止-issue，只用-PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b674a5158ce90df2db5d71d4c4813789)
 - [【淘系前端团队】让-Agent-像人一样记忆：本地长期记忆系统-HL-Mem-的设计与取舍](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545942&idx=1&sn=059fb0899702c46fe339f0a80aef90ab&chksm=825a50d64a4f71f76068220895f10f59526d7ce7a97ae8d855d76c5f97740dfb498c7383e938&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bbd2235ad50d1a7142ec01444fc33db)
@@ -593,7 +594,6 @@
 - [【淘系前端团队】Agent-长程任务断点续传：从框架-Checkpoint-到跨进程恢复的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545838&idx=1&sn=3c5a25dfe00876f608af093ff0881942&chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50d9780f7a17daa66c3bebcbc89eefde)
 - [【JavaScript-Weekly】When-8-chunks-weigh-more-than-355](https://javascriptweekly.com/issues/801)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a0d118fc374002a734e614d386abd32)
 - [【淘系前端团队】天猫技术大型-AI-项目的研发协同实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545718&idx=1&sn=97f7fc8fd31947c67deff2c77165be6a&chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a7fa1b1e3bb580fdaeb11370deca20d3)
-- [【阮一峰的网络日志】科技爱好者周刊（第-411-期）：OpenClaw-2.0-是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b4aad10f5b791f0b500489abe95a2280)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
