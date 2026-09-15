@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-14T14:31:27.490Z</updated>
+    <updated>2026-09-15T09:01:58.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[新时代下的tooltip提示效果的最佳实现]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/"/>
+        <updated>2026-09-15T00:00:00.000Z</updated>
+        <published>2026-09-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘天自研编码器斩获MSU 6项冠军，视频编码技术支撑内容体验升级]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545951&amp;idx=1&amp;sn=4155d46609b020e686bf4153cebb3142&amp;chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[放弃 Bun！Claude Code 最强开源对手押注 Node.js，16 万 Star 项目彻底重写]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524331&amp;idx=1&amp;sn=6689bd9f40de0d93067aeb714af181f5&amp;chksm=e80fd0a5df7859b3c4768d4fd96a5920a5a99e80f688f6cfcd8e4c6c0a7acbc6c0f043a2b084#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524331&amp;idx=1&amp;sn=6689bd9f40de0d93067aeb714af181f5&amp;chksm=e80fd0a5df7859b3c4768d4fd96a5920a5a99e80f688f6cfcd8e4c6c0a7acbc6c0f043a2b084#rd"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <published>2026-07-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TMAP平台图生视频推理加速实践]]></title>
-        <id>http://mp.weixin.qq.com/s/H7KdJqOINbyDRmVh71ikSg</id>
-        <link href="http://mp.weixin.qq.com/s/H7KdJqOINbyDRmVh71ikSg"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <published>2026-07-22T00:00:00.000Z</published>
     </entry>
