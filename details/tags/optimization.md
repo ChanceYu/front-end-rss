@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-16 03:20:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-17 01:48:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-09-16-agent优化之GEPA——一种提示词自进化的优化方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545973&idx=1&sn=01a23266cadd126c68a1a14dd0db544a&chksm=82a2c5b124cb72724103d63746fc1dbdc8ca612838f4f1e138d8bbbb8a81a9f5a05b0b2d5f2c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=392f061d07b4d73f8e89c20c7fca43cd) 
 - [2026-09-14-淘天自研编码器斩获MSU-6项冠军，视频编码技术支撑内容体验升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545951&idx=1&sn=4155d46609b020e686bf4153cebb3142&chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8543da2fd18b9286fb680caa7337cb) 
 - [2026-09-10-Node-is-getting-a-built-in-benchmark-runner](https://nodeweekly.com/issues/640)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c6714d9ce22c8fa22126d26e873d5ff) 
 - [2026-08-28-超级Web特性HTML-in-Canvas初体验](https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ebc0ce8ea4f00ce60a855b6b706d1170) 

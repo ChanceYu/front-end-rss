@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-16 03:20:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-17 01:48:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-09-16-agent优化之GEPA——一种提示词自进化的优化方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545973&idx=1&sn=01a23266cadd126c68a1a14dd0db544a&chksm=82a2c5b124cb72724103d63746fc1dbdc8ca612838f4f1e138d8bbbb8a81a9f5a05b0b2d5f2c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=392f061d07b4d73f8e89c20c7fca43cd) 
 - [2026-09-11-让-Agent-像人一样记忆：本地长期记忆系统-HL-Mem-的设计与取舍](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545942&idx=1&sn=059fb0899702c46fe339f0a80aef90ab&chksm=825a50d64a4f71f76068220895f10f59526d7ce7a97ae8d855d76c5f97740dfb498c7383e938&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bbd2235ad50d1a7142ec01444fc33db) 
 - [2026-09-09-Agent-长程任务断点续传：从框架-Checkpoint-到跨进程恢复的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545838&idx=1&sn=3c5a25dfe00876f608af093ff0881942&chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50d9780f7a17daa66c3bebcbc89eefde) 
 - [2026-09-07-天猫技术大型-AI-项目的研发协同实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545718&idx=1&sn=97f7fc8fd31947c67deff2c77165be6a&chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a7fa1b1e3bb580fdaeb11370deca20d3) 

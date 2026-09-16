@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-16 03:20:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-17 01:48:21。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【淘系前端团队】agent优化之GEPA——一种提示词自进化的优化方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545973&idx=1&sn=01a23266cadd126c68a1a14dd0db544a&chksm=82a2c5b124cb72724103d63746fc1dbdc8ca612838f4f1e138d8bbbb8a81a9f5a05b0b2d5f2c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=392f061d07b4d73f8e89c20c7fca43cd)
 - [【淘系前端团队】让-Agent-像人一样记忆：本地长期记忆系统-HL-Mem-的设计与取舍](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545942&idx=1&sn=059fb0899702c46fe339f0a80aef90ab&chksm=825a50d64a4f71f76068220895f10f59526d7ce7a97ae8d855d76c5f97740dfb498c7383e938&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bbd2235ad50d1a7142ec01444fc33db)
 - [【淘系前端团队】Agent-长程任务断点续传：从框架-Checkpoint-到跨进程恢复的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545838&idx=1&sn=3c5a25dfe00876f608af093ff0881942&chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50d9780f7a17daa66c3bebcbc89eefde)
 - [【淘系前端团队】天猫技术大型-AI-项目的研发协同实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545718&idx=1&sn=97f7fc8fd31947c67deff2c77165be6a&chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a7fa1b1e3bb580fdaeb11370deca20d3)
@@ -49,7 +50,6 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25c5720f9d76e5ad8590f92a34ba2726)
 - [【淘系前端团队】信任需要基础设施：如何让AI可靠的取数](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545467&idx=1&sn=b5757df260f77c1bf3f6947129db5100&chksm=82dad993e09bd858f9cca1a5a051cd762ee82789ea6bce39dc2d90e29af858bcb59e5f1dcf08&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d9c03799a139163c21c8983757bb0c9)
 - [【淘系前端团队】场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef)
-- [【淘系前端团队】我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -456,6 +456,7 @@
 
 
 
+- [【淘系前端团队】agent优化之GEPA——一种提示词自进化的优化方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545973&idx=1&sn=01a23266cadd126c68a1a14dd0db544a&chksm=82a2c5b124cb72724103d63746fc1dbdc8ca612838f4f1e138d8bbbb8a81a9f5a05b0b2d5f2c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=392f061d07b4d73f8e89c20c7fca43cd)
 - [【淘系前端团队】淘天自研编码器斩获MSU-6项冠军，视频编码技术支撑内容体验升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545951&idx=1&sn=4155d46609b020e686bf4153cebb3142&chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8543da2fd18b9286fb680caa7337cb)
 - [【Node-Weekly】Node-is-getting-a-built-in-benchmark-runner](https://nodeweekly.com/issues/640)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c6714d9ce22c8fa22126d26e873d5ff)
 - [【张鑫旭-鑫空间-鑫生活】超级Web特性HTML-in-Canvas初体验](https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ebc0ce8ea4f00ce60a855b6b706d1170)
@@ -465,7 +466,6 @@
 - [【前端早读课】【第3729期】ChatGPT-网页版逆向工程全解析：十亿级用户背后的前端架构与性能哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279544&idx=1&sn=9abed0eee1b93506e45bcbd73d766d1c&chksm=bc7ef280d57dd65c55f42df7b696a1437573fed265b721ff1854fd31437c8e977e6a8509f322&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a85fa6cf42bd8aa29787973f5b1b3530)
 - [【Nodejs技术栈】tsgo-终于转正！Go-重写的-TypeScript-7-正式发布，速度提升-10-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524204&idx=1&sn=a27eef12d7fc86985d4cc3e23c2ed7a5&chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d20456070861dc9918260d99c84406f)
 - [【淘系前端团队】CVPR-2026-|-面向视频扩散模型的局部细节偏好优化方法-LocalDPO](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544718&idx=1&sn=be61862eec337a27b1355927152046fe&chksm=8390d256b4e75b40338a13c9ad930e88e039e6684cbf676772b40695716f49c3a9d1ac82fbef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=da613514b8b706334e9485770c73f66e)
-- [【前端早读课】【开源】UI-UX-模型让-AI-真正看懂-App-体验缺陷](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279441&idx=1&sn=bf72c71095795b383ed333058dbd1052&chksm=bc30201ce050ad8c8c4d05ecbbf061f5a0fc4bd4a83b754f26e5f108f852e86135c19664242b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=296088dcc935ed3194a14ad5b068b966)
 - [查看更多 >](/details/tags/optimization.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【淘系前端团队】agent优化之GEPA——一种提示词自进化的优化方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545973&idx=1&sn=01a23266cadd126c68a1a14dd0db544a&chksm=82a2c5b124cb72724103d63746fc1dbdc8ca612838f4f1e138d8bbbb8a81a9f5a05b0b2d5f2c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=392f061d07b4d73f8e89c20c7fca43cd)
 - [【张鑫旭-鑫空间-鑫生活】新时代下的tooltip提示效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=956bb28ee7c3fa3464926f37fd5cbcc5)
 - [【JavaScript-Weekly】Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f29fc621c5c1fb3eab18a615adcd0ba7)
 - [【淘系前端团队】淘天自研编码器斩获MSU-6项冠军，视频编码技术支撑内容体验升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545951&idx=1&sn=4155d46609b020e686bf4153cebb3142&chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8543da2fd18b9286fb680caa7337cb)
@@ -593,7 +594,6 @@
 - [【Node-Weekly】Node-is-getting-a-built-in-benchmark-runner](https://nodeweekly.com/issues/640)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c6714d9ce22c8fa22126d26e873d5ff)
 - [【淘系前端团队】Agent-长程任务断点续传：从框架-Checkpoint-到跨进程恢复的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545838&idx=1&sn=3c5a25dfe00876f608af093ff0881942&chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50d9780f7a17daa66c3bebcbc89eefde)
 - [【JavaScript-Weekly】When-8-chunks-weigh-more-than-355](https://javascriptweekly.com/issues/801)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a0d118fc374002a734e614d386abd32)
-- [【淘系前端团队】天猫技术大型-AI-项目的研发协同实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545718&idx=1&sn=97f7fc8fd31947c67deff2c77165be6a&chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a7fa1b1e3bb580fdaeb11370deca20d3)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

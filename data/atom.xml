@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-15T19:20:27.012Z</updated>
+    <updated>2026-09-16T17:48:00.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[agent优化之GEPA——一种提示词自进化的优化方案]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545973&amp;idx=1&amp;sn=01a23266cadd126c68a1a14dd0db544a&amp;chksm=82a2c5b124cb72724103d63746fc1dbdc8ca612838f4f1e138d8bbbb8a81a9f5a05b0b2d5f2c&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545973&amp;idx=1&amp;sn=01a23266cadd126c68a1a14dd0db544a&amp;chksm=82a2c5b124cb72724103d63746fc1dbdc8ca612838f4f1e138d8bbbb8a81a9f5a05b0b2d5f2c&amp;scene=0#rd"/>
+        <updated>2026-09-16T00:00:00.000Z</updated>
+        <published>2026-09-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新时代下的tooltip提示效果的最佳实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/634"/>
         <updated>2026-07-23T00:00:00.000Z</updated>
         <published>2026-07-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[放弃 Bun！Claude Code 最强开源对手押注 Node.js，16 万 Star 项目彻底重写]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524331&amp;idx=1&amp;sn=6689bd9f40de0d93067aeb714af181f5&amp;chksm=e80fd0a5df7859b3c4768d4fd96a5920a5a99e80f688f6cfcd8e4c6c0a7acbc6c0f043a2b084#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524331&amp;idx=1&amp;sn=6689bd9f40de0d93067aeb714af181f5&amp;chksm=e80fd0a5df7859b3c4768d4fd96a5920a5a99e80f688f6cfcd8e4c6c0a7acbc6c0f043a2b084#rd"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <published>2026-07-22T00:00:00.000Z</published>
     </entry>
 </feed>

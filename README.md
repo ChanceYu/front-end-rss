@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-09-16 03:20:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-17 01:48:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -25,7 +25,7 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -36,7 +36,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -72,7 +72,7 @@
 </summary>
 
 
-- [2026-09-15-Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f29fc621c5c1fb3eab18a615adcd0ba7)  ![](/assets/new.png) 
+- [2026-09-15-Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f29fc621c5c1fb3eab18a615adcd0ba7)  
 - [2026-09-08-When-8-chunks-weigh-more-than-355](https://javascriptweekly.com/issues/801)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a0d118fc374002a734e614d386abd32)  
 - [2026-09-01-How-to-fit-Minesweeper-into-247-bytes](https://javascriptweekly.com/issues/800)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3d0b299dda21939a6398cb0d6fed5)  
 - [2026-08-25-Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6)  
@@ -303,6 +303,7 @@
 </summary>
 
 
+- [2026-09-16-agent优化之GEPA——一种提示词自进化的优化方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545973&idx=1&sn=01a23266cadd126c68a1a14dd0db544a&chksm=82a2c5b124cb72724103d63746fc1dbdc8ca612838f4f1e138d8bbbb8a81a9f5a05b0b2d5f2c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=392f061d07b4d73f8e89c20c7fca43cd)  ![](/assets/new.png) 
 - [2026-09-14-淘天自研编码器斩获MSU-6项冠军，视频编码技术支撑内容体验升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545951&idx=1&sn=4155d46609b020e686bf4153cebb3142&chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8543da2fd18b9286fb680caa7337cb)  
 - [2026-09-11-让-Agent-像人一样记忆：本地长期记忆系统-HL-Mem-的设计与取舍](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545942&idx=1&sn=059fb0899702c46fe339f0a80aef90ab&chksm=825a50d64a4f71f76068220895f10f59526d7ce7a97ae8d855d76c5f97740dfb498c7383e938&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bbd2235ad50d1a7142ec01444fc33db)  
 - [2026-09-09-Agent-长程任务断点续传：从框架-Checkpoint-到跨进程恢复的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545838&idx=1&sn=3c5a25dfe00876f608af093ff0881942&chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50d9780f7a17daa66c3bebcbc89eefde)  
@@ -312,7 +313,6 @@
 - [2026-08-28-信任需要基础设施：如何让AI可靠的取数](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545467&idx=1&sn=b5757df260f77c1bf3f6947129db5100&chksm=82dad993e09bd858f9cca1a5a051cd762ee82789ea6bce39dc2d90e29af858bcb59e5f1dcf08&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d9c03799a139163c21c8983757bb0c9)  
 - [2026-08-26-场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef)  
 - [2026-08-24-我对-AI-Coding-的一点思考：从-Spec-驱动转向环境与验证驱动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be&chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555dc70853031511597bdc2970fe0e3f)  
-- [2026-08-21-浅谈-SKILL-研发的最佳实践——以百补详情助手为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545397&idx=1&sn=e15d9315548d46a5799ff92358d6efc0&chksm=8271792aa9daab33f4562c9c5caf4ac73f03c90e3b53ed1a121d130eb78bc1e780efb1f6ff1e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c0a5beb76d99ab8bfdfa1f0bf7372667)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
