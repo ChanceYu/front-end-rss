@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-17T14:31:34.112Z</updated>
+    <updated>2026-09-17T19:22:34.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[CSS rex、rlh、ric等根家族单位简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/"/>
+        <updated>2026-09-17T00:00:00.000Z</updated>
+        <published>2026-09-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node 26.9 turns on FFI by default]]></title>
+        <id>https://nodeweekly.com/issues/641</id>
+        <link href="https://nodeweekly.com/issues/641"/>
         <updated>2026-09-17T00:00:00.000Z</updated>
         <published>2026-09-17T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪成立 Vue 新公司，3.6 RC 发布：Vapor 告别虚拟 DOM]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524338&amp;idx=1&amp;sn=e49c8f9ab34952769dc545a6eccc9c2a&amp;chksm=e80fd0bcdf7859aa1909dc069f4ad46432c8a56c4c9810419186e4c42153c5d7bfdc715321f4#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524338&amp;idx=1&amp;sn=e49c8f9ab34952769dc545a6eccc9c2a&amp;chksm=e80fd0bcdf7859aa1909dc069f4ad46432c8a56c4c9810419186e4c42153c5d7bfdc715321f4#rd"/>
-        <updated>2026-07-23T00:00:00.000Z</updated>
-        <published>2026-07-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯CSS实现repeat(–n, anything)循环展示或相加功能]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/"/>
         <updated>2026-07-23T00:00:00.000Z</updated>
         <published>2026-07-23T00:00:00.000Z</published>
     </entry>
