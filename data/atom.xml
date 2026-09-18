@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-17T19:22:34.821Z</updated>
+    <updated>2026-09-18T06:48:39.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 413 期）：再见了，React Native]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html"/>
+        <updated>2026-09-18T00:00:00.000Z</updated>
+        <published>2026-09-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS rex、rlh、ric等根家族单位简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <published>2026-07-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪成立 Vue 新公司，3.6 RC 发布：Vapor 告别虚拟 DOM]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524338&amp;idx=1&amp;sn=e49c8f9ab34952769dc545a6eccc9c2a&amp;chksm=e80fd0bcdf7859aa1909dc069f4ad46432c8a56c4c9810419186e4c42153c5d7bfdc715321f4#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524338&amp;idx=1&amp;sn=e49c8f9ab34952769dc545a6eccc9c2a&amp;chksm=e80fd0bcdf7859aa1909dc069f4ad46432c8a56c4c9810419186e4c42153c5d7bfdc715321f4#rd"/>
-        <updated>2026-07-23T00:00:00.000Z</updated>
-        <published>2026-07-23T00:00:00.000Z</published>
     </entry>
 </feed>
