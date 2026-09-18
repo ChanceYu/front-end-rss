@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-18T06:48:39.586Z</updated>
+    <updated>2026-09-18T17:20:49.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 413 期）：再见了，React Native]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html"/>
+        <updated>2026-09-18T00:00:00.000Z</updated>
+        <published>2026-09-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让Agent可评、可控、可迭代：业务效果导向的评测体系与场景实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545998&amp;idx=1&amp;sn=05272ad46f69aaf5424bb9446b165b8b&amp;chksm=829c52b41e431d076bc56124dddca79ca82a1f01e02f3ad43d0b4565d9b1d8cc845c6ae0dbc9&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545998&amp;idx=1&amp;sn=05272ad46f69aaf5424bb9446b165b8b&amp;chksm=829c52b41e431d076bc56124dddca79ca82a1f01e02f3ad43d0b4565d9b1d8cc845c6ae0dbc9&amp;scene=0#rd"/>
         <updated>2026-09-18T00:00:00.000Z</updated>
         <published>2026-09-18T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【开源】一个用于 Codex 和 Claude Code 的通用 LLM 代理中间件：opencodex]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <published>2026-07-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】别急着教设计师用AI——先给他们一个敢当新手的地方]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=1&amp;sn=5968c3069687fa2fb1988636c5be356a&amp;chksm=bc54a996bfd66b3d65618573cdafc777025ccd6edb55a1a66fe64720de4271647ad35153a85e&amp;scene=0#rd"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <published>2026-07-24T00:00:00.000Z</published>
     </entry>
