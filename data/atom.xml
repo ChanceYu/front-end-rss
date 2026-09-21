@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-18T17:20:49.082Z</updated>
+    <updated>2026-09-21T14:38:58.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Loop engineering：把 agent 放进工程循环]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546258&amp;idx=1&amp;sn=3b972197775c805cb4a58bdfdf69618a&amp;chksm=82e79bc35eb4fde11027a7135b5a1cf719e4656a24cb462da751a004c602f835b7ae2750af6e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546258&amp;idx=1&amp;sn=3b972197775c805cb4a58bdfdf69618a&amp;chksm=82e79bc35eb4fde11027a7135b5a1cf719e4656a24cb462da751a004c602f835b7ae2750af6e&amp;scene=0#rd"/>
+        <updated>2026-09-21T00:00:00.000Z</updated>
+        <published>2026-09-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 413 期）：再见了，React Native]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Node.js 企业级框架 NestJS v12 快来了：ESM、Vitest 全都换了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524339&amp;idx=1&amp;sn=4b5e593fb9ecd9efff8a8402ca9604e6&amp;chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524339&amp;idx=1&amp;sn=4b5e593fb9ecd9efff8a8402ca9604e6&amp;chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <published>2026-07-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【开源】一个用于 Codex 和 Claude Code 的通用 LLM 代理中间件：opencodex]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279626&amp;idx=2&amp;sn=c5fc1fcc851fa872ce46175cc6dc44bc&amp;chksm=bc59241dd0c2cd9fa9a2b4548ebc283a8b74fa0a8bb279ee8ef9f22033e3b96690effa7dfac4&amp;scene=0#rd"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <published>2026-07-24T00:00:00.000Z</published>
     </entry>
