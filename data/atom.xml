@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-21T14:38:58.748Z</updated>
+    <updated>2026-09-22T17:48:43.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JavaScript desktop apps in under 10MB]]></title>
+        <id>https://javascriptweekly.com/issues/803</id>
+        <link href="https://javascriptweekly.com/issues/803"/>
+        <updated>2026-09-22T00:00:00.000Z</updated>
+        <published>2026-09-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loop engineering：把 agent 放进工程循环]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546258&amp;idx=1&amp;sn=3b972197775c805cb4a58bdfdf69618a&amp;chksm=82e79bc35eb4fde11027a7135b5a1cf719e4656a24cb462da751a004c602f835b7ae2750af6e&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524353&amp;idx=1&amp;sn=bc8867a3f77c63aacb72648e684aebbc&amp;chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd"/>
         <updated>2026-07-25T00:00:00.000Z</updated>
         <published>2026-07-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 企业级框架 NestJS v12 快来了：ESM、Vitest 全都换了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524339&amp;idx=1&amp;sn=4b5e593fb9ecd9efff8a8402ca9604e6&amp;chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524339&amp;idx=1&amp;sn=4b5e593fb9ecd9efff8a8402ca9604e6&amp;chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <published>2026-07-24T00:00:00.000Z</published>
     </entry>
 </feed>

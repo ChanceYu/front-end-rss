@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-09-21 22:39:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-23 01:48:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-09-22-JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361) 
 - [2026-09-21-Loop-engineering：把-agent-放进工程循环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546258&idx=1&sn=3b972197775c805cb4a58bdfdf69618a&chksm=82e79bc35eb4fde11027a7135b5a1cf719e4656a24cb462da751a004c602f835b7ae2750af6e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aa11717c72462801b30aaa772777f411) 
 - [2026-09-18-科技爱好者周刊（第-413-期）：再见了，React-Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ed644ccafbb134f9ee80a1bbac6d6027) 
 - [2026-09-18-让Agent可评、可控、可迭代：业务效果导向的评测体系与场景实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545998&idx=1&sn=05272ad46f69aaf5424bb9446b165b8b&chksm=829c52b41e431d076bc56124dddca79ca82a1f01e02f3ad43d0b4565d9b1d8cc845c6ae0dbc9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a1d32f4f49a832213b2fac219b18889) 

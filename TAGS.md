@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-21 22:39:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-23 01:48:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -144,6 +144,7 @@
 
 
 
+- [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361)
 - [【JavaScript-Weekly】Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5988ba7048081c36ed8232175c4bd781)
 - [【Node-Weekly】Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d0bc8d2dbdd757f6eacad8e1814e2f8)
 - [【Nodejs技术栈】Bun-Rust-重构版还没发，就开始吊打-Deno-和-Node.js-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524353&idx=1&sn=bc8867a3f77c63aacb72648e684aebbc&chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cfbf3dfa0c33f49b7bbe7ab50ed9b421)
@@ -153,7 +154,6 @@
 - [【Nodejs技术栈】放弃-Bun！Claude-Code-最强开源对手押注-Node.js，16-万-Star-项目彻底重写](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524331&idx=1&sn=6689bd9f40de0d93067aeb714af181f5&chksm=e80fd0a5df7859b3c4768d4fd96a5920a5a99e80f688f6cfcd8e4c6c0a7acbc6c0f043a2b084#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=07f15e55e605be656fb6430016180da0)
 - [【前端大全】一个-Table，掀翻所有-UI-组件库？支持-9-大前端框架！](http://mp.weixin.qq.com/s/27RbHTg-vsH05zMVAg73HQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5361f505984fb6c3d8ba2ab4f53fbc7a)
 - [【前端早读课】【第3730期】CSS-环境变量：env-函数全面解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279586&idx=1&sn=d9b73f21f231308e42b21ddc9b9f7704&chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f1a21373a169463218774a919e4377ed)
-- [【Nodejs技术栈】Auth-被-Next.js-收购了？Vercel-把前端登录入口买了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524149&idx=1&sn=d8c81d6f1a55047c6db30a5b17d40855&chksm=e80fd07bdf78596d38e2cbd0a3023391bf3cd4dd7bcf656e6b9eaf777eb576c30d1fcbe4df91#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=81660516fb15536192d672741332dc7e)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -482,6 +482,7 @@
 
 
 
+- [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361)
 - [【张鑫旭-鑫空间-鑫生活】新时代下的tooltip提示效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=956bb28ee7c3fa3464926f37fd5cbcc5)
 - [【Node-Weekly】Node-26.8-reads-and-writes-ZIP-files](https://nodeweekly.com/issues/638)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0c89025d13d4c1f01c1c77e91749bb50)
 - [【淘系前端团队】天猫AI助手：调度框架重构与AI-Coding工程化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545383&idx=1&sn=4123516f8abad5546eb5979c62686dd4&chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=336a738c47ae8ba5d2e5caac0fc43eb1)
@@ -491,7 +492,6 @@
 - [【Nodejs技术栈】Vercel-发布-scriptc：TS-编译成原生二进制，却被质疑“纯抄”Perry](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524362&idx=1&sn=7320a1826121cfb9d67f6b4556ff248b&chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c550d1347974bc2c001fbb6d257f5f8d)
 - [【JavaScript-Weekly】Anders-Hejlsberg-demos-TypeScript-7's-10x-speedup](https://javascriptweekly.com/issues/796)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=262707ef7d7f3b463ad8b2017c1341fa)
 - [【前端早读课】【开源】口播视频（Talking-head）AI-视频编辑器：pireel/pireel](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279639&idx=2&sn=412e45d22a32a7003d2f25b7942d9c0b&chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=beec8d245672ec7df1d8aadfc5cc6c9c)
-- [【Nodejs技术栈】Node.js-企业级框架-NestJS-v12-快来了：ESM、Vitest-全都换了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524339&idx=1&sn=4b5e593fb9ecd9efff8a8402ca9604e6&chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2ef1059d88a87adee4e3ff038aa8914)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -508,6 +508,7 @@
 
 
 
+- [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361)
 - [【淘系前端团队】Loop-engineering：把-agent-放进工程循环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546258&idx=1&sn=3b972197775c805cb4a58bdfdf69618a&chksm=82e79bc35eb4fde11027a7135b5a1cf719e4656a24cb462da751a004c602f835b7ae2750af6e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aa11717c72462801b30aaa772777f411)
 - [【张鑫旭-鑫空间-鑫生活】关键时刻可以救命的Web-Locks-API](https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e3a6c2ebb66ffadeb3453860b76279c)
 - [【JavaScript-Weekly】Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5988ba7048081c36ed8232175c4bd781)
@@ -517,7 +518,6 @@
 - [【Nodejs技术栈】今年-WAIC，我被这个数字震住了：全国产十万卡AI超集群同时开跑，什么概念？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524320&idx=1&sn=9b02ad5ce605e4cb5dd7f7507c0d0797&chksm=e80fd0aedf7859b874487fafda3ec8f77fb9bf4606aacd4778c05ec144d1fb1ce4c28a686042#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5fbed897e6ebb72aa63f68dbf5921789)
 - [【淘系前端团队】高价率运营-AI-工作台：约定驱动与-AI-编排的评测优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544861&idx=1&sn=bf26b607ad3030ac4091907c86935453&chksm=8390d2c5b4e75bd3a240fd67a674a2afd13a4ba16aadf93a2f97965d790ef64c8639193572b5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1d0d92ec4a624c01c700049a006fb324)
 - [【Nodejs技术栈】想搞-TUI-的有福了，马斯克把-Grok-Build-开源了，用-Rust-写的！-马斯克一句“Grok-Build-is-now-open-source”，把这套终端-AI-编程工具的代码公开了。-这次开源的不是-Grok-模型，而是完整的-Grok-Build-CLI。整个仓库-99.6%-都是-Rust，代码采用-Apache-2.0-许可证。-想搞-TUI-的开](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524262&idx=1&sn=8f7f4c1e8fda12fafc3a326af900f1ac&chksm=e80fd0e8df7859fe7e1e0e14770e0709c6f5516fcb0a726ccc8411763ad7795293c0f2ee50be#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1766d911dcccb556aef86099cb94dd79)
-- [【前端从进阶到入院】Vite-Plus-终于放大招！一行命令，直接迁移项目！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517673&idx=1&sn=57f173327792fabc9b31f0878eb83f20&chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d818fb9a4ccc8b1e3dafe9484849b1bd)
 - [查看更多 >](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361)
 - [【淘系前端团队】Loop-engineering：把-agent-放进工程循环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546258&idx=1&sn=3b972197775c805cb4a58bdfdf69618a&chksm=82e79bc35eb4fde11027a7135b5a1cf719e4656a24cb462da751a004c602f835b7ae2750af6e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aa11717c72462801b30aaa772777f411)
 - [【阮一峰的网络日志】科技爱好者周刊（第-413-期）：再见了，React-Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ed644ccafbb134f9ee80a1bbac6d6027)
 - [【淘系前端团队】让Agent可评、可控、可迭代：业务效果导向的评测体系与场景实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545998&idx=1&sn=05272ad46f69aaf5424bb9446b165b8b&chksm=829c52b41e431d076bc56124dddca79ca82a1f01e02f3ad43d0b4565d9b1d8cc845c6ae0dbc9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a1d32f4f49a832213b2fac219b18889)
@@ -593,7 +594,6 @@
 - [【张鑫旭-鑫空间-鑫生活】新时代下的tooltip提示效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=956bb28ee7c3fa3464926f37fd5cbcc5)
 - [【JavaScript-Weekly】Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f29fc621c5c1fb3eab18a615adcd0ba7)
 - [【淘系前端团队】淘天自研编码器斩获MSU-6项冠军，视频编码技术支撑内容体验升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545951&idx=1&sn=4155d46609b020e686bf4153cebb3142&chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8543da2fd18b9286fb680caa7337cb)
-- [【阮一峰的网络日志】科技爱好者周刊（第-412-期）：禁止-issue，只用-PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b674a5158ce90df2db5d71d4c4813789)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
