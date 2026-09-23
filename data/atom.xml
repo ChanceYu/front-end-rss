@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-22T17:48:43.479Z</updated>
+    <updated>2026-09-23T14:11:59.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AI 自迭代的小游戏 Agent：2周上线6款小游戏，3天迭代12款小游戏]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546370&amp;idx=1&amp;sn=5603ba09127468713e13bb5dafb7926c&amp;chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546370&amp;idx=1&amp;sn=5603ba09127468713e13bb5dafb7926c&amp;chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&amp;scene=0#rd"/>
+        <updated>2026-09-23T00:00:00.000Z</updated>
+        <published>2026-09-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript desktop apps in under 10MB]]></title>
         <id>https://javascriptweekly.com/issues/803</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd"/>
         <updated>2026-07-27T00:00:00.000Z</updated>
         <published>2026-07-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun Rust 重构版还没发，就开始吊打 Deno 和 Node.js 了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524353&amp;idx=1&amp;sn=bc8867a3f77c63aacb72648e684aebbc&amp;chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524353&amp;idx=1&amp;sn=bc8867a3f77c63aacb72648e684aebbc&amp;chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd"/>
-        <updated>2026-07-25T00:00:00.000Z</updated>
-        <published>2026-07-25T00:00:00.000Z</published>
     </entry>
 </feed>
