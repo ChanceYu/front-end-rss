@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-23 22:12:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-24 03:18:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -8,6 +8,8 @@
 
 
 - [2026-09-22-JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361) 
+- [2026-09-21-Vue、React、Next.js-通吃，这个新框架想重做-DevTools](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524925&idx=1&sn=a5d378cd0113bc93ce47e4e9451bbd15&chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&mpshare=1&scene=1&srcid=0923ekv2DleE7D6JTZeJ9Fhq&sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7aa98aa306a39a0116adf989de3b0e6b) 
+- [2026-08-12-统一-Vue、React？JS-全新语法引发激烈讨论！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517687&idx=1&sn=c1ae6130a7f546b95390dcd38d89c9d5&chksm=ea4197dfe26454f3814ed2e91f13cabd29721f87d442d6e0e8cf6a950cde4d8e540711129051&mpshare=1&scene=1&srcid=09234seNBCQCQUvjmk9RPGQr&sharer_shareinfo=6afc63a1786625ca9b2a61000150574e&sharer_shareinfo_first=6afc63a1786625ca9b2a61000150574e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2e2f3b47f2bd61bbd4dfeaaed9e29d04) 
 - [2026-08-11-Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5988ba7048081c36ed8232175c4bd781) 
 - [2026-08-06-Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d0bc8d2dbdd757f6eacad8e1814e2f8) 
 - [2026-07-25-Bun-Rust-重构版还没发，就开始吊打-Deno-和-Node.js-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524353&idx=1&sn=bc8867a3f77c63aacb72648e684aebbc&chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cfbf3dfa0c33f49b7bbe7ab50ed9b421) 
@@ -454,8 +456,8 @@
 - [2024-03-26-关于-JSON.stringify，你不知道的六件事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515438&idx=2&sn=eaeae0830902d85848388a51f90c7e9e&chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd) 
 - [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526) 
 - [2024-03-25-异步难题：前端并发控制全解析](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515427&idx=1&sn=a64064b13bf987b15a9c90e47e1151aa&chksm=eb07855adc700c4c475d0a9a7aafbd62bd0d033c70084a5c85e60c0e3611af067de521fbba89#rd) 
-- [2024-03-21-Node.js有多强？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=1&sn=add4c641ecf105d0d3892ecc7365e385&chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd) 
 - [2024-03-21-这Proxy能干啥？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=2&sn=bf3970e5fa48f6051b8ade9ddbdd2c31&chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd) 
+- [2024-03-21-Node.js有多强？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=1&sn=add4c641ecf105d0d3892ecc7365e385&chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd) 
 - [2024-03-19-Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525) 
 - [2024-03-14-为什么-Vue-的-defineProps-宏函数不需要-import-导入就可用？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515337&idx=1&sn=8e1e25df74b233d3a13c29495390e3d1&chksm=eb0784b0dc700da65860873391ad32ac6fe08e735cc9df15b3dfdc6e43cd0606b7b028f7e556#rd) 
 - [2024-03-06-Next.js-vs-Remix---开发者的困境](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515245&idx=2&sn=48f60c547d7c60839de13a62a878c579&chksm=eb078414dc700d02d4c34683532ac764819861433cbf89611e72689edc8bd166ea7f3163b3f4#rd) 

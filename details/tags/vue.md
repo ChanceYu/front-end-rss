@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-23 22:12:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-24 03:18:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,6 +7,9 @@
 
 
 
+- [2026-09-21-Vue、React、Next.js-通吃，这个新框架想重做-DevTools](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524925&idx=1&sn=a5d378cd0113bc93ce47e4e9451bbd15&chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&mpshare=1&scene=1&srcid=0923ekv2DleE7D6JTZeJ9Fhq&sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7aa98aa306a39a0116adf989de3b0e6b) 
+- [2026-08-21-Vue-AI-生态日渐强大！Shadcn-正式兼容-Vue-AI!](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517689&idx=1&sn=c012bb9efc1988e1230c041a303b80a8&chksm=ea38c71039890410ff728a81bbd86ab7d26449fcba49c6d07a792381f008d03758b0dcec04d3&mpshare=1&scene=1&srcid=0923pcSHjun8kqUTETJwxvvc&sharer_shareinfo=da198d9f0259dcf24f3eccc8b7331eda&sharer_shareinfo_first=da198d9f0259dcf24f3eccc8b7331eda#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8bb8b640defa24d8c67a2ba0bf4a1a2d) 
+- [2026-08-12-统一-Vue、React？JS-全新语法引发激烈讨论！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517687&idx=1&sn=c1ae6130a7f546b95390dcd38d89c9d5&chksm=ea4197dfe26454f3814ed2e91f13cabd29721f87d442d6e0e8cf6a950cde4d8e540711129051&mpshare=1&scene=1&srcid=09234seNBCQCQUvjmk9RPGQr&sharer_shareinfo=6afc63a1786625ca9b2a61000150574e&sharer_shareinfo_first=6afc63a1786625ca9b2a61000150574e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2e2f3b47f2bd61bbd4dfeaaed9e29d04) 
 - [2026-07-23-尤雨溪成立-Vue-新公司，3.6-RC-发布：Vapor-告别虚拟-DOM](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524338&idx=1&sn=e49c8f9ab34952769dc545a6eccc9c2a&chksm=e80fd0bcdf7859aa1909dc069f4ad46432c8a56c4c9810419186e4c42153c5d7bfdc715321f4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=85ff2faf9cacd39cb560731f6ef0cef5) 
 - [2026-07-10-TypeScript-7-正式发布！Vue-暂被-"拒之门外"-！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517666&idx=1&sn=15fcb2090802521b2ce3a2035cad8378&chksm=eb07bd9bdc70348dc6e3f30784276a0119072cf8e6160c825d10106ad933a352cef511581d74#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a297bfc5c4965d48c4278048a6030274) 
 - [2026-07-09-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517664&idx=1&sn=91cd34e765ee4bd7ca919c0756493755&chksm=eb07bd99dc70348f293f86b906813017f02741396fe03d9111f6acb396fae90e19b614eaca86#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3bf43c117b8013f3a27668067e459034) 

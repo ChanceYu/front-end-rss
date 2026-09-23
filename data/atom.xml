@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-23T14:11:59.860Z</updated>
+    <updated>2026-09-23T19:17:18.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[卷疯了！Claude、OpenAI 一夜发了三个模型，连重置卡都送上了]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524942&amp;idx=1&amp;sn=9cb5bb8e78629827bf3cc1145c3f3696&amp;chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&amp;mpshare=1&amp;scene=1&amp;srcid=0923vk25TYI7vuYsU6ml16YP&amp;sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&amp;sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524942&amp;idx=1&amp;sn=9cb5bb8e78629827bf3cc1145c3f3696&amp;chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&amp;mpshare=1&amp;scene=1&amp;srcid=0923vk25TYI7vuYsU6ml16YP&amp;sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&amp;sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd"/>
+        <updated>2026-09-23T00:00:00.000Z</updated>
+        <published>2026-09-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 自迭代的小游戏 Agent：2周上线6款小游戏，3天迭代12款小游戏]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546370&amp;idx=1&amp;sn=5603ba09127468713e13bb5dafb7926c&amp;chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&amp;scene=0#rd</id>
@@ -27,6 +34,13 @@
         <link href="https://javascriptweekly.com/issues/803"/>
         <updated>2026-09-22T00:00:00.000Z</updated>
         <published>2026-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue、React、Next.js 通吃，这个新框架想重做 DevTools]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524925&amp;idx=1&amp;sn=a5d378cd0113bc93ce47e4e9451bbd15&amp;chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&amp;mpshare=1&amp;scene=1&amp;srcid=0923ekv2DleE7D6JTZeJ9Fhq&amp;sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&amp;sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524925&amp;idx=1&amp;sn=a5d378cd0113bc93ce47e4e9451bbd15&amp;chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&amp;mpshare=1&amp;scene=1&amp;srcid=0923ekv2DleE7D6JTZeJ9Fhq&amp;sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&amp;sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd"/>
+        <updated>2026-09-21T00:00:00.000Z</updated>
+        <published>2026-09-21T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Loop engineering：把 agent 放进工程循环]]></title>
@@ -204,6 +218,13 @@
         <published>2026-08-21T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vue AI 生态日渐强大！Shadcn 正式兼容 Vue AI!]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517689&amp;idx=1&amp;sn=c012bb9efc1988e1230c041a303b80a8&amp;chksm=ea38c71039890410ff728a81bbd86ab7d26449fcba49c6d07a792381f008d03758b0dcec04d3&amp;mpshare=1&amp;scene=1&amp;srcid=0923pcSHjun8kqUTETJwxvvc&amp;sharer_shareinfo=da198d9f0259dcf24f3eccc8b7331eda&amp;sharer_shareinfo_first=da198d9f0259dcf24f3eccc8b7331eda#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517689&amp;idx=1&amp;sn=c012bb9efc1988e1230c041a303b80a8&amp;chksm=ea38c71039890410ff728a81bbd86ab7d26449fcba49c6d07a792381f008d03758b0dcec04d3&amp;mpshare=1&amp;scene=1&amp;srcid=0923pcSHjun8kqUTETJwxvvc&amp;sharer_shareinfo=da198d9f0259dcf24f3eccc8b7331eda&amp;sharer_shareinfo_first=da198d9f0259dcf24f3eccc8b7331eda#rd"/>
+        <updated>2026-08-21T00:00:00.000Z</updated>
+        <published>2026-08-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI理解、引擎驱动：零代码搭建实时数据链路]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545396&amp;idx=1&amp;sn=379acdf54a0274cade396762da96811b&amp;chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545396&amp;idx=1&amp;sn=379acdf54a0274cade396762da96811b&amp;chksm=823b956b936b9c2dc4c038cfde2b58b4f9b11ece229c6d9399834b6fc150a9315793ce4f5693&amp;scene=0#rd"/>
@@ -242,6 +263,13 @@
         <title type="html"><![CDATA[天猫AI助手：调度框架重构与AI Coding工程化实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545383&amp;idx=1&amp;sn=4123516f8abad5546eb5979c62686dd4&amp;chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545383&amp;idx=1&amp;sn=4123516f8abad5546eb5979c62686dd4&amp;chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&amp;scene=0#rd"/>
+        <updated>2026-08-12T00:00:00.000Z</updated>
+        <published>2026-08-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[统一 Vue、React？JS 全新语法引发激烈讨论！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517687&amp;idx=1&amp;sn=c1ae6130a7f546b95390dcd38d89c9d5&amp;chksm=ea4197dfe26454f3814ed2e91f13cabd29721f87d442d6e0e8cf6a950cde4d8e540711129051&amp;mpshare=1&amp;scene=1&amp;srcid=09234seNBCQCQUvjmk9RPGQr&amp;sharer_shareinfo=6afc63a1786625ca9b2a61000150574e&amp;sharer_shareinfo_first=6afc63a1786625ca9b2a61000150574e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517687&amp;idx=1&amp;sn=c1ae6130a7f546b95390dcd38d89c9d5&amp;chksm=ea4197dfe26454f3814ed2e91f13cabd29721f87d442d6e0e8cf6a950cde4d8e540711129051&amp;mpshare=1&amp;scene=1&amp;srcid=09234seNBCQCQUvjmk9RPGQr&amp;sharer_shareinfo=6afc63a1786625ca9b2a61000150574e&amp;sharer_shareinfo_first=6afc63a1786625ca9b2a61000150574e#rd"/>
         <updated>2026-08-12T00:00:00.000Z</updated>
         <published>2026-08-12T00:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524362&amp;idx=1&amp;sn=7320a1826121cfb9d67f6b4556ff248b&amp;chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd"/>
         <updated>2026-07-28T00:00:00.000Z</updated>
         <published>2026-07-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anders Hejlsberg demos TypeScript 7's 10x speedup]]></title>
-        <id>https://javascriptweekly.com/issues/796</id>
-        <link href="https://javascriptweekly.com/issues/796"/>
-        <updated>2026-07-28T00:00:00.000Z</updated>
-        <published>2026-07-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百亿补贴 C 端 AI Coding 实战：基于 SDD 的服务端 AI Coding 实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544975&amp;idx=1&amp;sn=d700955597169348c9c16b0c9ca4ef86&amp;chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650544975&amp;idx=1&amp;sn=d700955597169348c9c16b0c9ca4ef86&amp;chksm=8390d357b4e75a41274df525d3ab8791388b6da9f2e5f8e37f997aefb4da765cda7e8ccd5215#rd"/>
-        <updated>2026-07-27T00:00:00.000Z</updated>
-        <published>2026-07-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3733期】用 Web Locks API 优雅解决跨标签页并发问题]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=1&amp;sn=4b73fb6385488ca369cf2bb1604802b2&amp;chksm=bc95ed84165c1271c37f76bfc85172386e22b10b5605fb1ff8eb6181686666e7942946f37786&amp;scene=0#rd"/>
-        <updated>2026-07-27T00:00:00.000Z</updated>
-        <published>2026-07-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【开源】口播视频（Talking-head）AI 视频编辑器：pireel/pireel]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279639&amp;idx=2&amp;sn=412e45d22a32a7003d2f25b7942d9c0b&amp;chksm=bc4e20fb4e1412af7976114eb46c99d3de10658013b166b8a93f4494e629810677f8a9ebbb9e&amp;scene=0#rd"/>
-        <updated>2026-07-27T00:00:00.000Z</updated>
-        <published>2026-07-27T00:00:00.000Z</published>
     </entry>
 </feed>
