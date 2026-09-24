@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-23T19:17:18.663Z</updated>
+    <updated>2026-09-24T18:01:46.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[12 Node built-ins that replace npm packages]]></title>
+        <id>https://nodeweekly.com/issues/642</id>
+        <link href="https://nodeweekly.com/issues/642"/>
+        <updated>2026-09-24T00:00:00.000Z</updated>
+        <published>2026-09-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卷疯了！Claude、OpenAI 一夜发了三个模型，连重置卡都送上了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524942&amp;idx=1&amp;sn=9cb5bb8e78629827bf3cc1145c3f3696&amp;chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&amp;mpshare=1&amp;scene=1&amp;srcid=0923vk25TYI7vuYsU6ml16YP&amp;sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&amp;sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279649&amp;idx=1&amp;sn=00d0e437952ce96a4db0e9cf298a400a&amp;chksm=bc7d44d375331bbb1ac5f52d6988ef498334b0ef3be77c20939d4972bfac111567bdcfdf0e7a&amp;scene=0#rd"/>
         <updated>2026-07-29T00:00:00.000Z</updated>
         <published>2026-07-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vercel 发布 scriptc：TS 编译成原生二进制，却被质疑“纯抄”Perry]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524362&amp;idx=1&amp;sn=7320a1826121cfb9d67f6b4556ff248b&amp;chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524362&amp;idx=1&amp;sn=7320a1826121cfb9d67f6b4556ff248b&amp;chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd"/>
-        <updated>2026-07-28T00:00:00.000Z</updated>
-        <published>2026-07-28T00:00:00.000Z</published>
     </entry>
 </feed>
