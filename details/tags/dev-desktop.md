@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-25 02:02:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-25 17:09:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 桌面应用
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-09-25-DeepSeek-官方桌面版能下载了，Electron-做的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524972&idx=1&sn=2c3a7207fc87243b5f133b07c3cc31bf&chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=18812dddde592b703dd8499c34b1d21b) 
 - [2026-07-14-和-Bun-反着来！Vercel-用-Zig-造了个-Native-SDK，对标-Electron、Tauri](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524255&idx=1&sn=62ea652877f4767ca4d9ed70689cb18e&chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3cad447af30c56cd9683e3b019eed) 
 - [2026-06-17-不用-Electron-也不用-Tauri，Deno-把桌面应用塞进了一行命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523918&idx=1&sn=72b585fbdb8af5cf794280cf678c380f&chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c008125682703c34a254b3f0b05031b1) 
 - [2026-05-31-英伟达-+-Arm-+-Windows：PC-新时代来了](http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5c93e386a7ed96a8069794e30d027c6) 

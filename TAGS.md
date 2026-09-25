@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-25 02:02:00。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-25 17:09:59。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -326,6 +326,7 @@
 
 
 
+- [【Nodejs技术栈】DeepSeek-官方桌面版能下载了，Electron-做的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524972&idx=1&sn=2c3a7207fc87243b5f133b07c3cc31bf&chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=18812dddde592b703dd8499c34b1d21b)
 - [【Nodejs技术栈】和-Bun-反着来！Vercel-用-Zig-造了个-Native-SDK，对标-Electron、Tauri](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524255&idx=1&sn=62ea652877f4767ca4d9ed70689cb18e&chksm=e80fd0d1df7859c7d8c8baa0d3aecf6bcb8eed200d842b9b64b600689f37e25eb9ea069d0823#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3cad447af30c56cd9683e3b019eed)
 - [【Nodejs技术栈】不用-Electron-也不用-Tauri，Deno-把桌面应用塞进了一行命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523918&idx=1&sn=72b585fbdb8af5cf794280cf678c380f&chksm=e80fd100df78581600a7112dcbe1226ab3f043139b822f60199d6f3c1abce595550f6b5e59ef#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c008125682703c34a254b3f0b05031b1)
 - [【前端大全】英伟达-+-Arm-+-Windows：PC-新时代来了](http://mp.weixin.qq.com/s/kg3P_Tr5PZBWNJZY-jgxlw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5c93e386a7ed96a8069794e30d027c6)
@@ -335,7 +336,6 @@
 - [【程序员成长指北】再也不用背命令！Cursor-终端-Cmd+K-=-你的专属-Linux-&amp;-Git-智能助手](http://mp.weixin.qq.com/s/k1A7W0QwfqGZMFgfU50e_Q)
 - [【前端之巅】16-年-macOS-程序员用-Claude-Code-搞副业：我只手敲了-1000-行，剩下-95%-代码靠自动生成](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526154&idx=1&sn=4b90107b67f10fea7bdc3fc38bcb03b6&chksm=f952d249ce255b5fb47b41b908f8a595e2940dd676003cf0a474a75cbe3f4319dbb6dd293512#rd)
 - [【前端大全】Tauri-vs.-Electron：性能、体积与真实权衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622639&idx=2&sn=34b9a33faaf10199f6b958c9e9cc24f3&chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4ad1afc8cd1f4bbe117cc4b3de594e7c)
-- [【前端之巅】苹果12年首次大改UI，还炮轰“跨平台”框架！“液态玻璃”会是Flutter开发者的“至暗时刻”吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526083&idx=1&sn=1af1bec8b7c437583c7ac41b77f5ffb1&chksm=f952d380ce255a969c6c107d754c8b9350aca5e780561b16e5cdfb0386bb0ec0cb9ebd7de54e#rd)
 - [查看更多 >](/details/tags/dev-desktop.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【Nodejs技术栈】DeepSeek-官方桌面版能下载了，Electron-做的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524972&idx=1&sn=2c3a7207fc87243b5f133b07c3cc31bf&chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=18812dddde592b703dd8499c34b1d21b)
 - [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)
 - [【Nodejs技术栈】卷疯了！Claude、OpenAI-一夜发了三个模型，连重置卡都送上了](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524942&idx=1&sn=9cb5bb8e78629827bf3cc1145c3f3696&chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&mpshare=1&scene=1&srcid=0923vk25TYI7vuYsU6ml16YP&sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=076cb349cabe360f375b3200c926d218)
 - [【淘系前端团队】AI-自迭代的小游戏-Agent：2周上线6款小游戏，3天迭代12款小游戏](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546370&idx=1&sn=5603ba09127468713e13bb5dafb7926c&chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd1ab8e25aa266ee2076729bb9d0593c)
@@ -593,7 +594,6 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-413-期）：再见了，React-Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ed644ccafbb134f9ee80a1bbac6d6027)
 - [【淘系前端团队】让Agent可评、可控、可迭代：业务效果导向的评测体系与场景实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545998&idx=1&sn=05272ad46f69aaf5424bb9446b165b8b&chksm=829c52b41e431d076bc56124dddca79ca82a1f01e02f3ad43d0b4565d9b1d8cc845c6ae0dbc9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a1d32f4f49a832213b2fac219b18889)
 - [【张鑫旭-鑫空间-鑫生活】CSS-rex、rlh、ric等根家族单位简介](https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=81af279337e2bcd1cd75e5e72610b37b)
-- [【Node-Weekly】Node-26.9-turns-on-FFI-by-default](https://nodeweekly.com/issues/641)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce8804a5bc73012e9808767b449ff520)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

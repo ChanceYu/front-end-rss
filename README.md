@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-09-25 02:02:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-25 17:09:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -24,7 +24,7 @@
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -51,7 +51,7 @@
 </summary>
 
 
-- [2026-09-24-12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)  ![](/assets/new.png) 
+- [2026-09-24-12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)  
 - [2026-09-17-Node-26.9-turns-on-FFI-by-default](https://nodeweekly.com/issues/641)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce8804a5bc73012e9808767b449ff520)  
 - [2026-09-10-Node-is-getting-a-built-in-benchmark-runner](https://nodeweekly.com/issues/640)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c6714d9ce22c8fa22126d26e873d5ff)  
 - [2026-09-03-Bun-now-passes-80.5%-of-Node's-test-suite](https://nodeweekly.com/issues/639)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=198a1d5503a38f2056e6d930de6de790)  
@@ -408,6 +408,7 @@
 </summary>
 
 
+- [2026-09-25-DeepSeek-官方桌面版能下载了，Electron-做的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524972&idx=1&sn=2c3a7207fc87243b5f133b07c3cc31bf&chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=18812dddde592b703dd8499c34b1d21b)  ![](/assets/new.png) 
 - [2026-09-23-卷疯了！Claude、OpenAI-一夜发了三个模型，连重置卡都送上了](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524942&idx=1&sn=9cb5bb8e78629827bf3cc1145c3f3696&chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&mpshare=1&scene=1&srcid=0923vk25TYI7vuYsU6ml16YP&sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=076cb349cabe360f375b3200c926d218)  
 - [2026-09-21-Vue、React、Next.js-通吃，这个新框架想重做-DevTools](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524925&idx=1&sn=a5d378cd0113bc93ce47e4e9451bbd15&chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&mpshare=1&scene=1&srcid=0923ekv2DleE7D6JTZeJ9Fhq&sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7aa98aa306a39a0116adf989de3b0e6b)  
 - [2026-07-28-Vercel-发布-scriptc：TS-编译成原生二进制，却被质疑“纯抄”Perry](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524362&idx=1&sn=7320a1826121cfb9d67f6b4556ff248b&chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c550d1347974bc2c001fbb6d257f5f8d)  
@@ -417,7 +418,6 @@
 - [2026-07-22-放弃-Bun！Claude-Code-最强开源对手押注-Node.js，16-万-Star-项目彻底重写](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524331&idx=1&sn=6689bd9f40de0d93067aeb714af181f5&chksm=e80fd0a5df7859b3c4768d4fd96a5920a5a99e80f688f6cfcd8e4c6c0a7acbc6c0f043a2b084#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=07f15e55e605be656fb6430016180da0)  
 - [2026-07-21-AI-跑-React-真实项目翻大车！GPT-5.6-Sol、Fable-5-也没救](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524321&idx=1&sn=7a44546affcb22ba810663807339d0a2&chksm=e80fd0afdf7859b9c8ca5b285ee586ea49846f7faabac557572f2388935bf697dd93e286a546#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0ee00e06aa9c5fb693433e5ae6409158)  
 - [2026-07-20-今年-WAIC，我被这个数字震住了：全国产十万卡AI超集群同时开跑，什么概念？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524320&idx=1&sn=9b02ad5ce605e4cb5dd7f7507c0d0797&chksm=e80fd0aedf7859b874487fafda3ec8f77fb9bf4606aacd4778c05ec144d1fb1ce4c28a686042#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5fbed897e6ebb72aa63f68dbf5921789)  
-- [2026-07-19-前端又杀出一匹黑马！用-Bun-刚抛弃的-Zig-写的，连-Oxc-作者都公开点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524295&idx=1&sn=9e048b4432faebc7178c9e3904997a3c&chksm=e80fd089df78599facfa796828cfe06c0d55283678ba8094c69592fb8015366e20eff86adf23#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=af58188b0c52fec6ffa796e9d740f2a0)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

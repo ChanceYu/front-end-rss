@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-24T18:01:46.742Z</updated>
+    <updated>2026-09-25T09:09:40.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek 官方桌面版能下载了，Electron 做的！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524972&amp;idx=1&amp;sn=2c3a7207fc87243b5f133b07c3cc31bf&amp;chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524972&amp;idx=1&amp;sn=2c3a7207fc87243b5f133b07c3cc31bf&amp;chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&amp;scene=0#rd"/>
+        <updated>2026-09-25T00:00:00.000Z</updated>
+        <published>2026-09-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12 Node built-ins that replace npm packages]]></title>
         <id>https://nodeweekly.com/issues/642</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Screen.isExtended、getScreenDetails与多显示器开发]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/"/>
-        <updated>2026-07-29T00:00:00.000Z</updated>
-        <published>2026-07-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3734期】告别漫长等待：三步将 Playwright CI 流水线提速 80%]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279649&amp;idx=1&amp;sn=00d0e437952ce96a4db0e9cf298a400a&amp;chksm=bc7d44d375331bbb1ac5f52d6988ef498334b0ef3be77c20939d4972bfac111567bdcfdf0e7a&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279649&amp;idx=1&amp;sn=00d0e437952ce96a4db0e9cf298a400a&amp;chksm=bc7d44d375331bbb1ac5f52d6988ef498334b0ef3be77c20939d4972bfac111567bdcfdf0e7a&amp;scene=0#rd"/>
         <updated>2026-07-29T00:00:00.000Z</updated>
         <published>2026-07-29T00:00:00.000Z</published>
     </entry>
