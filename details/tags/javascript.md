@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-29 22:25:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-30 04:18:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -8,6 +8,7 @@
 
 
 - [2026-09-29-Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7) 
+- [2026-09-29-A-ha's-Take-on-Me,-recreated-in-pure-JavaScript](https://javascriptweekly.com/issues/804)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ea143c3a78868441475237d99a27ddc7) 
 - [2026-09-22-JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361) 
 - [2026-09-21-Vue、React、Next.js-通吃，这个新框架想重做-DevTools](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524925&idx=1&sn=a5d378cd0113bc93ce47e4e9451bbd15&chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&mpshare=1&scene=1&srcid=0923ekv2DleE7D6JTZeJ9Fhq&sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7aa98aa306a39a0116adf989de3b0e6b) 
 - [2026-08-12-统一-Vue、React？JS-全新语法引发激烈讨论！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517687&idx=1&sn=c1ae6130a7f546b95390dcd38d89c9d5&chksm=ea4197dfe26454f3814ed2e91f13cabd29721f87d442d6e0e8cf6a950cde4d8e540711129051&mpshare=1&scene=1&srcid=09234seNBCQCQUvjmk9RPGQr&sharer_shareinfo=6afc63a1786625ca9b2a61000150574e&sharer_shareinfo_first=6afc63a1786625ca9b2a61000150574e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2e2f3b47f2bd61bbd4dfeaaed9e29d04) 
