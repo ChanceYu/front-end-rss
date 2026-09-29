@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-29T00:02:58.159Z</updated>
+    <updated>2026-09-29T07:36:39.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vite+ 1.0 发布，从 Node.js 到构建测试，一个 vp 统一管理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525001&amp;idx=1&amp;sn=452c77c1ce87d4f2be60f566d854d004&amp;chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525001&amp;idx=1&amp;sn=452c77c1ce87d4f2be60f566d854d004&amp;chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&amp;scene=0#rd"/>
+        <updated>2026-09-29T00:00:00.000Z</updated>
+        <published>2026-09-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独家：CSS背景色单方向扩展技术]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/"/>
+        <updated>2026-09-29T00:00:00.000Z</updated>
+        <published>2026-09-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实测 Qoder 夯爆了，写完代码还自己测试、上线！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524979&amp;idx=1&amp;sn=f16252870251f87b42102e340468c10c&amp;chksm=e96c4e17f2163d3d139a80a0997e9f08b29857ba6a3805942b20ff8f9c0ee181c2ee16258b1f&amp;scene=0#rd</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545319&amp;idx=1&amp;sn=c3ab874dd2d19f5706fe41fc6e589518&amp;chksm=8285d4c971a8c9ec0fe5f2eefdf71c511933991fd8e20074641963e64e4a95c43ee870d4dc89&amp;scene=0#rd"/>
         <updated>2026-08-03T00:00:00.000Z</updated>
         <published>2026-08-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3735】从月中断粮到绰绰有余：AI编程省Token全攻略]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279668&amp;idx=1&amp;sn=fcc7f90b60027b2f4834c1ec7b7949b4&amp;chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651279668&amp;idx=1&amp;sn=fcc7f90b60027b2f4834c1ec7b7949b4&amp;chksm=bcf788c40796a5e009e297b3f9a4e27453ae138e89cfcc6f4ea5f45940eab979859e1e146dd6&amp;scene=0#rd"/>
-        <updated>2026-07-31T00:00:00.000Z</updated>
-        <published>2026-07-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm to scan packages for malware at publish time]]></title>
-        <id>https://nodeweekly.com/issues/635</id>
-        <link href="https://nodeweekly.com/issues/635"/>
-        <updated>2026-07-30T00:00:00.000Z</updated>
-        <published>2026-07-30T00:00:00.000Z</published>
     </entry>
 </feed>

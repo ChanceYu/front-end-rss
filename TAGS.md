@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-29 08:03:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-29 15:37:29。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -144,6 +144,7 @@
 
 
 
+- [【Nodejs技术栈】Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)
 - [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361)
 - [【Nodejs技术栈】Vue、React、Next.js-通吃，这个新框架想重做-DevTools](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524925&idx=1&sn=a5d378cd0113bc93ce47e4e9451bbd15&chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&mpshare=1&scene=1&srcid=0923ekv2DleE7D6JTZeJ9Fhq&sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7aa98aa306a39a0116adf989de3b0e6b)
 - [【前端从进阶到入院】统一-Vue、React？JS-全新语法引发激烈讨论！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517687&idx=1&sn=c1ae6130a7f546b95390dcd38d89c9d5&chksm=ea4197dfe26454f3814ed2e91f13cabd29721f87d442d6e0e8cf6a950cde4d8e540711129051&mpshare=1&scene=1&srcid=09234seNBCQCQUvjmk9RPGQr&sharer_shareinfo=6afc63a1786625ca9b2a61000150574e&sharer_shareinfo_first=6afc63a1786625ca9b2a61000150574e#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2e2f3b47f2bd61bbd4dfeaaed9e29d04)
@@ -153,7 +154,6 @@
 - [【Nodejs技术栈】Node.js-企业级框架-NestJS-v12-快来了：ESM、Vitest-全都换了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524339&idx=1&sn=4b5e593fb9ecd9efff8a8402ca9604e6&chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2ef1059d88a87adee4e3ff038aa8914)
 - [【Nodejs技术栈】尤雨溪成立-Vue-新公司，3.6-RC-发布：Vapor-告别虚拟-DOM](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524338&idx=1&sn=e49c8f9ab34952769dc545a6eccc9c2a&chksm=e80fd0bcdf7859aa1909dc069f4ad46432c8a56c4c9810419186e4c42153c5d7bfdc715321f4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=85ff2faf9cacd39cb560731f6ef0cef5)
 - [【Node-Weekly】Domenic-Denicola's-modern-dev-setup](https://nodeweekly.com/issues/634)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5ba66e68c7bf6c9f7a15826a593eeb7)
-- [【Nodejs技术栈】放弃-Bun！Claude-Code-最强开源对手押注-Node.js，16-万-Star-项目彻底重写](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524331&idx=1&sn=6689bd9f40de0d93067aeb714af181f5&chksm=e80fd0a5df7859b3c4768d4fd96a5920a5a99e80f688f6cfcd8e4c6c0a7acbc6c0f043a2b084#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=07f15e55e605be656fb6430016180da0)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -170,6 +170,7 @@
 
 
 
+- [【Nodejs技术栈】Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)
 - [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)
 - [【Node-Weekly】Node-26.9-turns-on-FFI-by-default](https://nodeweekly.com/issues/641)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce8804a5bc73012e9808767b449ff520)
 - [【Node-Weekly】Node-is-getting-a-built-in-benchmark-runner](https://nodeweekly.com/issues/640)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c6714d9ce22c8fa22126d26e873d5ff)
@@ -179,7 +180,6 @@
 - [【Node-Weekly】Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d0bc8d2dbdd757f6eacad8e1814e2f8)
 - [【Nodejs技术栈】Bun-Rust-重构版还没发，就开始吊打-Deno-和-Node.js-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524353&idx=1&sn=bc8867a3f77c63aacb72648e684aebbc&chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cfbf3dfa0c33f49b7bbe7ab50ed9b421)
 - [【Nodejs技术栈】Node.js-企业级框架-NestJS-v12-快来了：ESM、Vitest-全都换了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524339&idx=1&sn=4b5e593fb9ecd9efff8a8402ca9604e6&chksm=e80fd0bddf7859ab78e545344a1376a87a70ccfe2f947b3163001e7e6b0c0d0145f0ac8cab58#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2ef1059d88a87adee4e3ff038aa8914)
-- [【Nodejs技术栈】放弃-Bun！Claude-Code-最强开源对手押注-Node.js，16-万-Star-项目彻底重写](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524331&idx=1&sn=6689bd9f40de0d93067aeb714af181f5&chksm=e80fd0a5df7859b3c4768d4fd96a5920a5a99e80f688f6cfcd8e4c6c0a7acbc6c0f043a2b084#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=07f15e55e605be656fb6430016180da0)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -196,6 +196,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】独家：CSS背景色单方向扩展技术](https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-rex、rlh、ric等根家族单位简介](https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=81af279337e2bcd1cd75e5e72610b37b)
 - [【张鑫旭-鑫空间-鑫生活】卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=35213e8f32727071b6abe9f3a92405a9)
 - [【Node-Weekly】Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d36ec4d8b419d9d93177dbd116b8204a)
@@ -205,7 +206,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS新单位dvh、lvmin、vi、cqb等初解](https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1bc32fa2188df136f39a31b8957dc104)
 - [【前端早读课】【第3730期】CSS-环境变量：env-函数全面解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279586&idx=1&sn=d9b73f21f231308e42b21ddc9b9f7704&chksm=bc6ad5c1db804015a7685ff23641f8435ca359a2cb2df4099c4229f2c2f931739405e7a5f22b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f1a21373a169463218774a919e4377ed)
 - [【张鑫旭-鑫空间-鑫生活】前端快讯：setHTML和Element.startViewTransition已支持](https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=49e79b62ce767ffc5f832f91ab585570)
-- [【前端大全】弃用-Tailwind-CSS！Meta-开源的-StyleX-火了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624638&idx=1&sn=1d64046db3ef129633ca79375855a640&chksm=8022437fb755ca69dc7620ebbc8c67f831c4e1de1b7844456f3f38d2bb10e7528ee3019493b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b2e0916f8d559671b609b14903215b58)
 - [查看更多 >](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -248,6 +248,7 @@
 
 
 
+- [【Nodejs技术栈】Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)
 - [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)
 - [【淘系前端团队】场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef)
 - [【Node-Weekly】npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d02524af1e9f52ca60eeaeefd801d5cc)
@@ -257,7 +258,6 @@
 - [【前端从进阶到入院】Vite-Plus-终于放大招！一行命令，直接迁移项目！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517673&idx=1&sn=57f173327792fabc9b31f0878eb83f20&chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d818fb9a4ccc8b1e3dafe9484849b1bd)
 - [【JavaScript-Weekly】npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7eb94c3ade004f1aa58f24df9c99bc11)
 - [【前端早读课】【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公-SDK：dream-num/univer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=2&sn=e37229ae1fb878046301eb61facf99e9&chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=003dbc15d931aaab3bd065d47db84054)
-- [【Node-Weekly】npm-v12-and-TypeScript-7-released](https://nodeweekly.com/issues/632)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cedfe6db2350a67d19cb906711d80653)
 - [查看更多 >](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -482,6 +482,7 @@
 
 
 
+- [【Nodejs技术栈】Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)
 - [【Nodejs技术栈】实测-Qoder-夯爆了，写完代码还自己测试、上线！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524979&idx=1&sn=f16252870251f87b42102e340468c10c&chksm=e96c4e17f2163d3d139a80a0997e9f08b29857ba6a3805942b20ff8f9c0ee181c2ee16258b1f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=762c78ee7a93db42c2d43cda1906b840)
 - [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)
 - [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361)
@@ -491,7 +492,6 @@
 - [【JavaScript-Weekly】Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5988ba7048081c36ed8232175c4bd781)
 - [【张鑫旭-鑫空间-鑫生活】background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a69a50ea8838ec66beada20bba0d580a)
 - [【前端早读课】【第3734期】告别漫长等待：三步将-Playwright-CI-流水线提速-80%](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279649&idx=1&sn=00d0e437952ce96a4db0e9cf298a400a&chksm=bc7d44d375331bbb1ac5f52d6988ef498334b0ef3be77c20939d4972bfac111567bdcfdf0e7a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f3df1a3e4553669e311eff5da8498a67)
-- [【Nodejs技术栈】Vercel-发布-scriptc：TS-编译成原生二进制，却被质疑“纯抄”Perry](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524362&idx=1&sn=7320a1826121cfb9d67f6b4556ff248b&chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c550d1347974bc2c001fbb6d257f5f8d)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,8 @@
 
 
 
+- [【Nodejs技术栈】Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)
+- [【张鑫旭-鑫空间-鑫生活】独家：CSS背景色单方向扩展技术](https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/)
 - [【Nodejs技术栈】把黄河装进计算机！国产算力，你来真的啊？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524992&idx=1&sn=ec54f76ac42b4041c2181c157643ecec&chksm=e91e99f02b3735de93c4d80949060815af6d09e0dea6e608b8c37e9c2eb54c96a89f568db082&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5cd768360df93398338a05f7385a3a59)
 - [【淘系前端团队】改变世界前先认识世界-:-Ontology-决策结构化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546371&idx=1&sn=85094a67b9574656ecf143cb0bc1ce49&chksm=825edc44b88d819b77d90835513da2f91d69322426119a87f1735de400a81dda7fdca8d4af56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0dcf86445855b896a3aa32fb00aefe4c)
 - [【风痕·術&思】IDE-已死-ADE-当立：未来的开发环境](https://fenghen.me/posts/2026/09/27/ide-is-dead-long-live-ade/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dd3e62255c7ff5768c2aa6bed0f20a38)
@@ -592,8 +594,6 @@
 - [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)
 - [【Nodejs技术栈】卷疯了！Claude、OpenAI-一夜发了三个模型，连重置卡都送上了](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524942&idx=1&sn=9cb5bb8e78629827bf3cc1145c3f3696&chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&mpshare=1&scene=1&srcid=0923vk25TYI7vuYsU6ml16YP&sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=076cb349cabe360f375b3200c926d218)
 - [【淘系前端团队】AI-自迭代的小游戏-Agent：2周上线6款小游戏，3天迭代12款小游戏](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546370&idx=1&sn=5603ba09127468713e13bb5dafb7926c&chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd1ab8e25aa266ee2076729bb9d0593c)
-- [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361)
-- [【Nodejs技术栈】Vue、React、Next.js-通吃，这个新框架想重做-DevTools](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524925&idx=1&sn=a5d378cd0113bc93ce47e4e9451bbd15&chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&mpshare=1&scene=1&srcid=0923ekv2DleE7D6JTZeJ9Fhq&sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7aa98aa306a39a0116adf989de3b0e6b)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
