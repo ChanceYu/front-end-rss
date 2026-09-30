@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-29T20:18:32.744Z</updated>
+    <updated>2026-09-30T07:38:18.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[真要抢 Next.js 的饭碗了？Cloudflare 把 Vinext 做到了 1.0]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525007&amp;idx=1&amp;sn=b280621d8b661026446cc958dff28784&amp;chksm=e9c1c17c86442cf0feafa2bdbb25f0933ef5b55b13f19ec070ab6dfdad911cf767ff74887902&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525007&amp;idx=1&amp;sn=b280621d8b661026446cc958dff28784&amp;chksm=e9c1c17c86442cf0feafa2bdbb25f0933ef5b55b13f19ec070ab6dfdad911cf767ff74887902&amp;scene=0#rd"/>
+        <updated>2026-09-30T00:00:00.000Z</updated>
+        <published>2026-09-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vite+ 1.0 发布，从 Node.js 到构建测试，一个 vp 统一管理]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525001&amp;idx=1&amp;sn=452c77c1ce87d4f2be60f566d854d004&amp;chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545344&amp;idx=1&amp;sn=0e2f753e1e4796ea6634b18d1498ee9b&amp;chksm=82ad4b5f862457f61a13d4e62ca77ae78b090372fb5517ff75c016c89dfb2bb0442768970d4e&amp;scene=0#rd"/>
         <updated>2026-08-05T00:00:00.000Z</updated>
         <published>2026-08-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来了来了，Flex/Grid布局的间隙装饰线它来了]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/"/>
-        <updated>2026-08-03T00:00:00.000Z</updated>
-        <published>2026-08-03T00:00:00.000Z</published>
     </entry>
 </feed>
