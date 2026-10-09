@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-08T22:34:26.319Z</updated>
+    <updated>2026-10-09T17:38:19.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝直播数字人互动Harness-Aware Training实践：让Agent Model随Harness一起进化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546378&amp;idx=1&amp;sn=acbf0c13b09390b7057ed41e41e3cd52&amp;chksm=8297a2b3c8e34e367071419aa138a17da621990fad545c23b645353d10ec8fd8efae470205d5&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546378&amp;idx=1&amp;sn=acbf0c13b09390b7057ed41e41e3cd52&amp;chksm=8297a2b3c8e34e367071419aa138a17da621990fad545c23b645353d10ec8fd8efae470205d5&amp;scene=0#rd"/>
+        <updated>2026-10-09T00:00:00.000Z</updated>
+        <published>2026-10-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Document Picture-in-Picture API与任意元素画中画实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/798"/>
         <updated>2026-08-11T00:00:00.000Z</updated>
         <published>2026-08-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 评测还在看准确率？数据科学早就用因果推断做归因分析了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545362&amp;idx=1&amp;sn=39b827174dec7d15ef7d48cd55f1f11f&amp;chksm=821814b3fb8b56282126581ab0822ad7cae8fb929d4745a4ce95065f74cb6fb27b97e91f3b36&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545362&amp;idx=1&amp;sn=39b827174dec7d15ef7d48cd55f1f11f&amp;chksm=821814b3fb8b56282126581ab0822ad7cae8fb929d4745a4ce95065f74cb6fb27b97e91f3b36&amp;scene=0#rd"/>
-        <updated>2026-08-10T00:00:00.000Z</updated>
-        <published>2026-08-10T00:00:00.000Z</published>
     </entry>
 </feed>
