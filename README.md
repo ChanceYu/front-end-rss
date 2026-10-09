@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-10-10 01:38:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-10 05:57:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,12 +36,12 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-10-09-淘宝直播数字人互动Harness-Aware-Training实践：让Agent-Model随Harness一起进化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546378&idx=1&sn=acbf0c13b09390b7057ed41e41e3cd52&chksm=8297a2b3c8e34e367071419aa138a17da621990fad545c23b645353d10ec8fd8efae470205d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2771c647aaff5d05db625f91b05276a9)  ![](/assets/new.png) 
+- [2026-10-09-淘宝直播数字人互动Harness-Aware-Training实践：让Agent-Model随Harness一起进化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546378&idx=1&sn=acbf0c13b09390b7057ed41e41e3cd52&chksm=8297a2b3c8e34e367071419aa138a17da621990fad545c23b645353d10ec8fd8efae470205d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2771c647aaff5d05db625f91b05276a9)  
 - [2026-09-28-改变世界前先认识世界-:-Ontology-决策结构化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546371&idx=1&sn=85094a67b9574656ecf143cb0bc1ce49&chksm=825edc44b88d819b77d90835513da2f91d69322426119a87f1735de400a81dda7fdca8d4af56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0dcf86445855b896a3aa32fb00aefe4c)  
 - [2026-09-23-AI-自迭代的小游戏-Agent：2周上线6款小游戏，3天迭代12款小游戏](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546370&idx=1&sn=5603ba09127468713e13bb5dafb7926c&chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd1ab8e25aa266ee2076729bb9d0593c)  
 - [2026-09-21-Loop-engineering：把-agent-放进工程循环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546258&idx=1&sn=3b972197775c805cb4a58bdfdf69618a&chksm=82e79bc35eb4fde11027a7135b5a1cf719e4656a24cb462da751a004c602f835b7ae2750af6e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aa11717c72462801b30aaa772777f411)  
@@ -408,6 +408,7 @@
 </summary>
 
 
+- [2026-10-09-突发！Deno-全员加入-Cloudflare，一年后停更！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525038&idx=1&sn=cfb6a97a3fbeed402610cd5a9f23c92c&chksm=e9a954cfe088590d2f903768042781c3bfa49774bf6942ca08c8a8c3212a23e6e99f9f04071e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce7f34b020018efdad8f6f214bc4bd41)  ![](/assets/new.png) 
 - [2026-10-01-Skills-Hub-又更新了，装删-Skill-动动嘴就行](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525019&idx=1&sn=be9235585d315ea5357e16d7649ce9a7&chksm=e9f071f269f5afe6df364b33e7879f643d602bff27b9107e683481a8afffbba670917b820f85&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2bae328132de20e295e2ef403c3d5c1d)  
 - [2026-09-30-真要抢-Next.js-的饭碗了？Cloudflare-把-Vinext-做到了-1.0](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525007&idx=1&sn=b280621d8b661026446cc958dff28784&chksm=e9c1c17c86442cf0feafa2bdbb25f0933ef5b55b13f19ec070ab6dfdad911cf767ff74887902&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=284cb26df54b7830e6c5e0b1d8f59090)  
 - [2026-09-29-Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)  
@@ -417,7 +418,6 @@
 - [2026-09-23-卷疯了！Claude、OpenAI-一夜发了三个模型，连重置卡都送上了](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524942&idx=1&sn=9cb5bb8e78629827bf3cc1145c3f3696&chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&mpshare=1&scene=1&srcid=0923vk25TYI7vuYsU6ml16YP&sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=076cb349cabe360f375b3200c926d218)  
 - [2026-09-21-Vue、React、Next.js-通吃，这个新框架想重做-DevTools](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524925&idx=1&sn=a5d378cd0113bc93ce47e4e9451bbd15&chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&mpshare=1&scene=1&srcid=0923ekv2DleE7D6JTZeJ9Fhq&sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7aa98aa306a39a0116adf989de3b0e6b)  
 - [2026-07-28-Vercel-发布-scriptc：TS-编译成原生二进制，却被质疑“纯抄”Perry](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524362&idx=1&sn=7320a1826121cfb9d67f6b4556ff248b&chksm=e80f2f44df78a6524d8601ce38bb6f3394f34a287a37810f9edb744fafc52966662f39012730#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c550d1347974bc2c001fbb6d257f5f8d)  
-- [2026-07-25-Bun-Rust-重构版还没发，就开始吊打-Deno-和-Node.js-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524353&idx=1&sn=bc8867a3f77c63aacb72648e684aebbc&chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cfbf3dfa0c33f49b7bbe7ab50ed9b421)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-10 01:38:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-10-10 05:57:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -170,6 +170,7 @@
 
 
 
+- [【Nodejs技术栈】突发！Deno-全员加入-Cloudflare，一年后停更！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525038&idx=1&sn=cfb6a97a3fbeed402610cd5a9f23c92c&chksm=e9a954cfe088590d2f903768042781c3bfa49774bf6942ca08c8a8c3212a23e6e99f9f04071e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce7f34b020018efdad8f6f214bc4bd41)
 - [【Node-Weekly】When-worker-threads-beat-processes-for-Node-efficiency](https://nodeweekly.com/issues/643)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89d3d164393769d30e57b416eb528ff6)
 - [【Nodejs技术栈】Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)
 - [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)
@@ -179,7 +180,6 @@
 - [【Node-Weekly】Node-26.8-reads-and-writes-ZIP-files](https://nodeweekly.com/issues/638)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0c89025d13d4c1f01c1c77e91749bb50)
 - [【JavaScript-Weekly】Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6)
 - [【Node-Weekly】Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d0bc8d2dbdd757f6eacad8e1814e2f8)
-- [【Nodejs技术栈】Bun-Rust-重构版还没发，就开始吊打-Deno-和-Node.js-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524353&idx=1&sn=bc8867a3f77c63aacb72648e684aebbc&chksm=e80f2f4fdf78a6599dd6e2f711b7ff321ca2795e400b2d11dae66c75e41e7aa11e76c6e5f438#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cfbf3dfa0c33f49b7bbe7ab50ed9b421)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【Nodejs技术栈】突发！Deno-全员加入-Cloudflare，一年后停更！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525038&idx=1&sn=cfb6a97a3fbeed402610cd5a9f23c92c&chksm=e9a954cfe088590d2f903768042781c3bfa49774bf6942ca08c8a8c3212a23e6e99f9f04071e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce7f34b020018efdad8f6f214bc4bd41)
 - [【淘系前端团队】淘宝直播数字人互动Harness-Aware-Training实践：让Agent-Model随Harness一起进化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546378&idx=1&sn=acbf0c13b09390b7057ed41e41e3cd52&chksm=8297a2b3c8e34e367071419aa138a17da621990fad545c23b645353d10ec8fd8efae470205d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2771c647aaff5d05db625f91b05276a9)
 - [【阮一峰的网络日志】科技爱好者周刊（第-414-期）：Jev-决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b78204ffeeee7897b1ea683c7c154bc8)
 - [【张鑫旭-鑫空间-鑫生活】Document-Picture-in-Picture-API与任意元素画中画实现](https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0f6879a2a61a0614d586c5094bad1ff)
@@ -593,7 +594,6 @@
 - [【Nodejs技术栈】真要抢-Next.js-的饭碗了？Cloudflare-把-Vinext-做到了-1.0](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525007&idx=1&sn=b280621d8b661026446cc958dff28784&chksm=e9c1c17c86442cf0feafa2bdbb25f0933ef5b55b13f19ec070ab6dfdad911cf767ff74887902&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=284cb26df54b7830e6c5e0b1d8f59090)
 - [【张鑫旭-鑫空间-鑫生活】一个视频彻底看懂CSS-scroll-axis-lock-none的作用](https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=18f23d8316de52730ada7f4d2fb9e528)
 - [【Nodejs技术栈】Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)
-- [【张鑫旭-鑫空间-鑫生活】独家：CSS背景色单方向扩展技术](https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=690bcf4bdd95bb9d2b38476ac99e54e9)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
