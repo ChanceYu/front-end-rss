@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-10 05:57:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-11 03:36:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-10-10-Deno-宣布停更，老用户早已跑路！兜了一圈，还是-Node.js-香](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525045&idx=1&sn=9861751b3ca70a282de0212dbba10da4&chksm=e956ef5582d39de3505b62e4ec744635e9bcc6fad03b824c88c169428173dd1438c852aedf3e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f05c983866e728adeb3cba2bcd1bde2) 
 - [2026-10-09-突发！Deno-全员加入-Cloudflare，一年后停更！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525038&idx=1&sn=cfb6a97a3fbeed402610cd5a9f23c92c&chksm=e9a954cfe088590d2f903768042781c3bfa49774bf6942ca08c8a8c3212a23e6e99f9f04071e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce7f34b020018efdad8f6f214bc4bd41) 
 - [2026-10-08-When-worker-threads-beat-processes-for-Node-efficiency](https://nodeweekly.com/issues/643)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89d3d164393769d30e57b416eb528ff6) 
 - [2026-09-29-Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7) 
