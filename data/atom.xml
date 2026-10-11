@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-10T19:36:38.876Z</updated>
+    <updated>2026-10-11T16:53:47.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Skills Hub 1.0 发布，这次把一直想做的 Skills 合集加上了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525055&amp;idx=1&amp;sn=277da8b6b5971bb7697a29126a02230e&amp;chksm=e984b1796746d655a9023329920dd4f7f0d9ec991657c58a8e4645f226b11f4d05093fc4c208&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525055&amp;idx=1&amp;sn=277da8b6b5971bb7697a29126a02230e&amp;chksm=e984b1796746d655a9023329920dd4f7f0d9ec991657c58a8e4645f226b11f4d05093fc4c208&amp;scene=0#rd"/>
+        <updated>2026-10-11T00:00:00.000Z</updated>
+        <published>2026-10-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deno 宣布停更，老用户早已跑路！兜了一圈，还是 Node.js 香]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525045&amp;idx=1&amp;sn=9861751b3ca70a282de0212dbba10da4&amp;chksm=e956ef5582d39de3505b62e4ec744635e9bcc6fad03b824c88c169428173dd1438c852aedf3e&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/637"/>
         <updated>2026-08-13T00:00:00.000Z</updated>
         <published>2026-08-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天猫AI助手：调度框架重构与AI Coding工程化实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545383&amp;idx=1&amp;sn=4123516f8abad5546eb5979c62686dd4&amp;chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545383&amp;idx=1&amp;sn=4123516f8abad5546eb5979c62686dd4&amp;chksm=82b00b1a70ef204203858f4a746eb1ab188c6e990c93c0350cf82be299a277c50bf4e024dfed&amp;scene=0#rd"/>
-        <updated>2026-08-12T00:00:00.000Z</updated>
-        <published>2026-08-12T00:00:00.000Z</published>
     </entry>
 </feed>
