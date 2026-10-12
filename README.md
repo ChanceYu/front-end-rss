@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-10-12 00:54:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-12 16:12:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,7 +36,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -303,6 +303,7 @@
 </summary>
 
 
+- [2026-10-12-淘宝AI购物助手在线评测落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546388&idx=1&sn=9ccd19e3c6a8ee97a5ec6a963d2eb105&chksm=822f010958f7b8c0b576ff3cb614828f98f40af791df704766b759d885079a41215dec3e0d4a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61463111cbeb075e600a6553d2e2eaf1)  ![](/assets/new.png) 
 - [2026-10-09-淘宝直播数字人互动Harness-Aware-Training实践：让Agent-Model随Harness一起进化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546378&idx=1&sn=acbf0c13b09390b7057ed41e41e3cd52&chksm=8297a2b3c8e34e367071419aa138a17da621990fad545c23b645353d10ec8fd8efae470205d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2771c647aaff5d05db625f91b05276a9)  
 - [2026-09-28-改变世界前先认识世界-:-Ontology-决策结构化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546371&idx=1&sn=85094a67b9574656ecf143cb0bc1ce49&chksm=825edc44b88d819b77d90835513da2f91d69322426119a87f1735de400a81dda7fdca8d4af56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0dcf86445855b896a3aa32fb00aefe4c)  
 - [2026-09-23-AI-自迭代的小游戏-Agent：2周上线6款小游戏，3天迭代12款小游戏](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546370&idx=1&sn=5603ba09127468713e13bb5dafb7926c&chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd1ab8e25aa266ee2076729bb9d0593c)  
@@ -312,7 +313,6 @@
 - [2026-09-14-淘天自研编码器斩获MSU-6项冠军，视频编码技术支撑内容体验升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545951&idx=1&sn=4155d46609b020e686bf4153cebb3142&chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8543da2fd18b9286fb680caa7337cb)  
 - [2026-09-11-让-Agent-像人一样记忆：本地长期记忆系统-HL-Mem-的设计与取舍](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545942&idx=1&sn=059fb0899702c46fe339f0a80aef90ab&chksm=825a50d64a4f71f76068220895f10f59526d7ce7a97ae8d855d76c5f97740dfb498c7383e938&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bbd2235ad50d1a7142ec01444fc33db)  
 - [2026-09-09-Agent-长程任务断点续传：从框架-Checkpoint-到跨进程恢复的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545838&idx=1&sn=3c5a25dfe00876f608af093ff0881942&chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50d9780f7a17daa66c3bebcbc89eefde)  
-- [2026-09-07-天猫技术大型-AI-项目的研发协同实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545718&idx=1&sn=97f7fc8fd31947c67deff2c77165be6a&chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a7fa1b1e3bb580fdaeb11370deca20d3)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -408,7 +408,8 @@
 </summary>
 
 
-- [2026-10-11-Skills-Hub-1.0-发布，这次把一直想做的-Skills-合集加上了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525055&idx=1&sn=277da8b6b5971bb7697a29126a02230e&chksm=e984b1796746d655a9023329920dd4f7f0d9ec991657c58a8e4645f226b11f4d05093fc4c208&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=159fd92a1810d77c61e04bd30c0ab3eb)  ![](/assets/new.png) 
+- [2026-10-12-老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)  ![](/assets/new.png) 
+- [2026-10-11-Skills-Hub-1.0-发布，这次把一直想做的-Skills-合集加上了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525055&idx=1&sn=277da8b6b5971bb7697a29126a02230e&chksm=e984b1796746d655a9023329920dd4f7f0d9ec991657c58a8e4645f226b11f4d05093fc4c208&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=159fd92a1810d77c61e04bd30c0ab3eb)  
 - [2026-10-10-Deno-宣布停更，老用户早已跑路！兜了一圈，还是-Node.js-香](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525045&idx=1&sn=9861751b3ca70a282de0212dbba10da4&chksm=e956ef5582d39de3505b62e4ec744635e9bcc6fad03b824c88c169428173dd1438c852aedf3e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f05c983866e728adeb3cba2bcd1bde2)  
 - [2026-10-09-突发！Deno-全员加入-Cloudflare，一年后停更！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525038&idx=1&sn=cfb6a97a3fbeed402610cd5a9f23c92c&chksm=e9a954cfe088590d2f903768042781c3bfa49774bf6942ca08c8a8c3212a23e6e99f9f04071e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce7f34b020018efdad8f6f214bc4bd41)  
 - [2026-10-01-Skills-Hub-又更新了，装删-Skill-动动嘴就行](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525019&idx=1&sn=be9235585d315ea5357e16d7649ce9a7&chksm=e9f071f269f5afe6df364b33e7879f643d602bff27b9107e683481a8afffbba670917b820f85&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2bae328132de20e295e2ef403c3d5c1d)  
@@ -417,7 +418,6 @@
 - [2026-09-28-把黄河装进计算机！国产算力，你来真的啊？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524992&idx=1&sn=ec54f76ac42b4041c2181c157643ecec&chksm=e91e99f02b3735de93c4d80949060815af6d09e0dea6e608b8c37e9c2eb54c96a89f568db082&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5cd768360df93398338a05f7385a3a59)  
 - [2026-09-26-实测-Qoder-夯爆了，写完代码还自己测试、上线！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524979&idx=1&sn=f16252870251f87b42102e340468c10c&chksm=e96c4e17f2163d3d139a80a0997e9f08b29857ba6a3805942b20ff8f9c0ee181c2ee16258b1f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=762c78ee7a93db42c2d43cda1906b840)  
 - [2026-09-25-DeepSeek-官方桌面版能下载了，Electron-做的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524972&idx=1&sn=2c3a7207fc87243b5f133b07c3cc31bf&chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=18812dddde592b703dd8499c34b1d21b)  
-- [2026-09-23-卷疯了！Claude、OpenAI-一夜发了三个模型，连重置卡都送上了](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524942&idx=1&sn=9cb5bb8e78629827bf3cc1145c3f3696&chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&mpshare=1&scene=1&srcid=0923vk25TYI7vuYsU6ml16YP&sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=076cb349cabe360f375b3200c926d218)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

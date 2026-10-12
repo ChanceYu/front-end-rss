@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-11T16:53:47.069Z</updated>
+    <updated>2026-10-12T08:11:42.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[老牌 Node.js 框架 Egg 4 稳定版终于发布！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525059&amp;idx=1&amp;sn=3f46441cde154f804e3afba8c1040a1e&amp;chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525059&amp;idx=1&amp;sn=3f46441cde154f804e3afba8c1040a1e&amp;chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&amp;scene=0#rd"/>
+        <updated>2026-10-12T00:00:00.000Z</updated>
+        <published>2026-10-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘宝AI购物助手在线评测落地实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546388&amp;idx=1&amp;sn=9ccd19e3c6a8ee97a5ec6a963d2eb105&amp;chksm=822f010958f7b8c0b576ff3cb614828f98f40af791df704766b759d885079a41215dec3e0d4a&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546388&amp;idx=1&amp;sn=9ccd19e3c6a8ee97a5ec6a963d2eb105&amp;chksm=822f010958f7b8c0b576ff3cb614828f98f40af791df704766b759d885079a41215dec3e0d4a&amp;scene=0#rd"/>
+        <updated>2026-10-12T00:00:00.000Z</updated>
+        <published>2026-10-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skills Hub 1.0 发布，这次把一直想做的 Skills 合集加上了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525055&amp;idx=1&amp;sn=277da8b6b5971bb7697a29126a02230e&amp;chksm=e984b1796746d655a9023329920dd4f7f0d9ec991657c58a8e4645f226b11f4d05093fc4c208&amp;scene=0#rd</id>
@@ -349,19 +363,5 @@
         <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html"/>
         <updated>2026-08-14T00:00:00.000Z</updated>
         <published>2026-08-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重构协同：关于AI Native团队的思考]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545393&amp;idx=1&amp;sn=d2961b8175bd165a5f6b3c950976395f&amp;chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545393&amp;idx=1&amp;sn=d2961b8175bd165a5f6b3c950976395f&amp;chksm=82112b005a06c59082049b85fb48c3e6faba664749c310a98b4c6ef8bba6229b5cfb7bb203e1&amp;scene=0#rd"/>
-        <updated>2026-08-14T00:00:00.000Z</updated>
-        <published>2026-08-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building terminal UIs with HTML and CSS]]></title>
-        <id>https://nodeweekly.com/issues/637</id>
-        <link href="https://nodeweekly.com/issues/637"/>
-        <updated>2026-08-13T00:00:00.000Z</updated>
-        <published>2026-08-13T00:00:00.000Z</published>
     </entry>
 </feed>
