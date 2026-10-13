@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-12 16:12:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-10-13 16:39:26。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -248,6 +248,7 @@
 
 
 
+- [【Nodejs技术栈】npm-的-n-翻过来了！这个新来的“弟弟”，尤雨溪也点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525070&idx=1&sn=4bd49e464c1278669729f0cd2e1620cd&chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7ea158170607d16fa19848b2ddac843)
 - [【Nodejs技术栈】Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)
 - [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)
 - [【淘系前端团队】场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef)
@@ -257,7 +258,6 @@
 - [【前端从进阶到入院】完蛋！比-Vite+-快-5.4-倍的前端工具链！正式发布！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517675&idx=1&sn=276a85082427c05fed12f6bb2230677a&chksm=eb07bd92dc703484605ec4ee4c288ad06e3b6c2da8237b182bbf85e8102c1bef49eb2f060493#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cf529b26912afe3172563ca88221e710)
 - [【前端从进阶到入院】Vite-Plus-终于放大招！一行命令，直接迁移项目！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517673&idx=1&sn=57f173327792fabc9b31f0878eb83f20&chksm=eb07bd90dc7034863c9408ae3f895b931c160ec8d6c861351489c1d0a7301bafacaf76507a8c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d818fb9a4ccc8b1e3dafe9484849b1bd)
 - [【JavaScript-Weekly】npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7eb94c3ade004f1aa58f24df9c99bc11)
-- [【前端早读课】【开源】用于构建电子表格、文档和演示文稿的全栈、同构办公-SDK：dream-num/univer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279513&idx=2&sn=e37229ae1fb878046301eb61facf99e9&chksm=bc70809382d80668914812cbe0ee5ab2b461c8a60faf0b4c2c2874038f4320802ca814f18505&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=003dbc15d931aaab3bd065d47db84054)
 - [查看更多 >](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【Nodejs技术栈】npm-的-n-翻过来了！这个新来的“弟弟”，尤雨溪也点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525070&idx=1&sn=4bd49e464c1278669729f0cd2e1620cd&chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7ea158170607d16fa19848b2ddac843)
 - [【Nodejs技术栈】老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)
 - [【淘系前端团队】淘宝AI购物助手在线评测落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546388&idx=1&sn=9ccd19e3c6a8ee97a5ec6a963d2eb105&chksm=822f010958f7b8c0b576ff3cb614828f98f40af791df704766b759d885079a41215dec3e0d4a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61463111cbeb075e600a6553d2e2eaf1)
 - [【Nodejs技术栈】Skills-Hub-1.0-发布，这次把一直想做的-Skills-合集加上了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525055&idx=1&sn=277da8b6b5971bb7697a29126a02230e&chksm=e984b1796746d655a9023329920dd4f7f0d9ec991657c58a8e4645f226b11f4d05093fc4c208&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=159fd92a1810d77c61e04bd30c0ab3eb)
@@ -593,7 +594,6 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-414-期）：Jev-决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b78204ffeeee7897b1ea683c7c154bc8)
 - [【张鑫旭-鑫空间-鑫生活】Document-Picture-in-Picture-API与任意元素画中画实现](https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0f6879a2a61a0614d586c5094bad1ff)
 - [【Node-Weekly】When-worker-threads-beat-processes-for-Node-efficiency](https://nodeweekly.com/issues/643)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89d3d164393769d30e57b416eb528ff6)
-- [【JavaScript-Weekly】Why-don't-more-developers-'use-the-platform'?](https://javascriptweekly.com/issues/805)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0c80a5c40c4dfdf88e1b4882e6ec7609)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

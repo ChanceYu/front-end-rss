@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-12T08:11:42.250Z</updated>
+    <updated>2026-10-13T08:39:07.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[npm 的 n 翻过来了！这个新来的“弟弟”，尤雨溪也点赞]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525070&amp;idx=1&amp;sn=4bd49e464c1278669729f0cd2e1620cd&amp;chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525070&amp;idx=1&amp;sn=4bd49e464c1278669729f0cd2e1620cd&amp;chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&amp;scene=0#rd"/>
+        <updated>2026-10-13T00:00:00.000Z</updated>
+        <published>2026-10-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[老牌 Node.js 框架 Egg 4 稳定版终于发布！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525059&amp;idx=1&amp;sn=3f46441cde154f804e3afba8c1040a1e&amp;chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545394&amp;idx=1&amp;sn=3cec6927186aac94f10d2ccbf117edde&amp;chksm=82e4ae23f1e60bb6ab2fe13a4d17389ebd8ea54163ce26dd388e0d8c20abc4ab0fce0d3367b7&amp;scene=0#rd"/>
         <updated>2026-08-17T00:00:00.000Z</updated>
         <published>2026-08-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html"/>
-        <updated>2026-08-14T00:00:00.000Z</updated>
-        <published>2026-08-14T00:00:00.000Z</published>
     </entry>
 </feed>

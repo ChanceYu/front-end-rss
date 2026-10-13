@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-10-12 16:12:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-13 16:39:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,7 +36,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-10-12-淘宝AI购物助手在线评测落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546388&idx=1&sn=9ccd19e3c6a8ee97a5ec6a963d2eb105&chksm=822f010958f7b8c0b576ff3cb614828f98f40af791df704766b759d885079a41215dec3e0d4a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61463111cbeb075e600a6553d2e2eaf1)  ![](/assets/new.png) 
+- [2026-10-12-淘宝AI购物助手在线评测落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546388&idx=1&sn=9ccd19e3c6a8ee97a5ec6a963d2eb105&chksm=822f010958f7b8c0b576ff3cb614828f98f40af791df704766b759d885079a41215dec3e0d4a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61463111cbeb075e600a6553d2e2eaf1)  
 - [2026-10-09-淘宝直播数字人互动Harness-Aware-Training实践：让Agent-Model随Harness一起进化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546378&idx=1&sn=acbf0c13b09390b7057ed41e41e3cd52&chksm=8297a2b3c8e34e367071419aa138a17da621990fad545c23b645353d10ec8fd8efae470205d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2771c647aaff5d05db625f91b05276a9)  
 - [2026-09-28-改变世界前先认识世界-:-Ontology-决策结构化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546371&idx=1&sn=85094a67b9574656ecf143cb0bc1ce49&chksm=825edc44b88d819b77d90835513da2f91d69322426119a87f1735de400a81dda7fdca8d4af56&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0dcf86445855b896a3aa32fb00aefe4c)  
 - [2026-09-23-AI-自迭代的小游戏-Agent：2周上线6款小游戏，3天迭代12款小游戏](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546370&idx=1&sn=5603ba09127468713e13bb5dafb7926c&chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd1ab8e25aa266ee2076729bb9d0593c)  
@@ -408,7 +408,8 @@
 </summary>
 
 
-- [2026-10-12-老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)  ![](/assets/new.png) 
+- [2026-10-13-npm-的-n-翻过来了！这个新来的“弟弟”，尤雨溪也点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525070&idx=1&sn=4bd49e464c1278669729f0cd2e1620cd&chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7ea158170607d16fa19848b2ddac843)  ![](/assets/new.png) 
+- [2026-10-12-老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)  
 - [2026-10-11-Skills-Hub-1.0-发布，这次把一直想做的-Skills-合集加上了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525055&idx=1&sn=277da8b6b5971bb7697a29126a02230e&chksm=e984b1796746d655a9023329920dd4f7f0d9ec991657c58a8e4645f226b11f4d05093fc4c208&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=159fd92a1810d77c61e04bd30c0ab3eb)  
 - [2026-10-10-Deno-宣布停更，老用户早已跑路！兜了一圈，还是-Node.js-香](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525045&idx=1&sn=9861751b3ca70a282de0212dbba10da4&chksm=e956ef5582d39de3505b62e4ec744635e9bcc6fad03b824c88c169428173dd1438c852aedf3e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f05c983866e728adeb3cba2bcd1bde2)  
 - [2026-10-09-突发！Deno-全员加入-Cloudflare，一年后停更！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525038&idx=1&sn=cfb6a97a3fbeed402610cd5a9f23c92c&chksm=e9a954cfe088590d2f903768042781c3bfa49774bf6942ca08c8a8c3212a23e6e99f9f04071e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce7f34b020018efdad8f6f214bc4bd41)  
@@ -417,7 +418,6 @@
 - [2026-09-29-Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)  
 - [2026-09-28-把黄河装进计算机！国产算力，你来真的啊？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524992&idx=1&sn=ec54f76ac42b4041c2181c157643ecec&chksm=e91e99f02b3735de93c4d80949060815af6d09e0dea6e608b8c37e9c2eb54c96a89f568db082&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5cd768360df93398338a05f7385a3a59)  
 - [2026-09-26-实测-Qoder-夯爆了，写完代码还自己测试、上线！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524979&idx=1&sn=f16252870251f87b42102e340468c10c&chksm=e96c4e17f2163d3d139a80a0997e9f08b29857ba6a3805942b20ff8f9c0ee181c2ee16258b1f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=762c78ee7a93db42c2d43cda1906b840)  
-- [2026-09-25-DeepSeek-官方桌面版能下载了，Electron-做的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524972&idx=1&sn=2c3a7207fc87243b5f133b07c3cc31bf&chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=18812dddde592b703dd8499c34b1d21b)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

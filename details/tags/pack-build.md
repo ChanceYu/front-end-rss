@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-12 16:12:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-13 16:39:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-10-13-npm-的-n-翻过来了！这个新来的“弟弟”，尤雨溪也点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525070&idx=1&sn=4bd49e464c1278669729f0cd2e1620cd&chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7ea158170607d16fa19848b2ddac843) 
 - [2026-09-29-Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7) 
 - [2026-09-24-12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f) 
 - [2026-08-26-场景营销互动-&amp;-体验-AI-Coding-—-构建-Agent-自主执行闭环](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04&chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5e3521cb31564a113db8a5232c1fecef) 
