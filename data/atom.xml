@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-14T09:07:31.991Z</updated>
+    <updated>2026-10-14T14:45:09.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,20 @@
         <title type="html"><![CDATA[拿几百万的企业项目试 AI Coding，团队干了一个多月，决定先停下来]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525089&amp;idx=1&amp;sn=2404e7ad759e4b63746f28294ec6b07e&amp;chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525089&amp;idx=1&amp;sn=2404e7ad759e4b63746f28294ec6b07e&amp;chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&amp;scene=0#rd"/>
+        <updated>2026-10-14T00:00:00.000Z</updated>
+        <published>2026-10-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nice！继text-wrap之后，Flex布局也支持balance排版了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/"/>
+        <updated>2026-10-14T00:00:00.000Z</updated>
+        <published>2026-10-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546392&amp;idx=1&amp;sn=0ff5f3328fdd7643f56dfeb03f2774bb&amp;chksm=822c8f1a15024ec5ea414bc1695c5cfa3aad09e22450ebb588669bab3ae595345024a0c70afe&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546392&amp;idx=1&amp;sn=0ff5f3328fdd7643f56dfeb03f2774bb&amp;chksm=822c8f1a15024ec5ea414bc1695c5cfa3aad09e22450ebb588669bab3ae595345024a0c70afe&amp;scene=0#rd"/>
         <updated>2026-10-14T00:00:00.000Z</updated>
         <published>2026-10-14T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545436&amp;idx=1&amp;sn=af4dc3f820acf230087053aa294dd2be&amp;chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&amp;scene=0#rd"/>
         <updated>2026-08-24T00:00:00.000Z</updated>
         <published>2026-08-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卧靠，这是好东西，CSS text-fit属性简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/"/>
-        <updated>2026-08-21T00:00:00.000Z</updated>
-        <published>2026-08-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue AI 生态日渐强大！Shadcn 正式兼容 Vue AI!]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517689&amp;idx=1&amp;sn=c012bb9efc1988e1230c041a303b80a8&amp;chksm=ea38c71039890410ff728a81bbd86ab7d26449fcba49c6d07a792381f008d03758b0dcec04d3&amp;mpshare=1&amp;scene=1&amp;srcid=0923pcSHjun8kqUTETJwxvvc&amp;sharer_shareinfo=da198d9f0259dcf24f3eccc8b7331eda&amp;sharer_shareinfo_first=da198d9f0259dcf24f3eccc8b7331eda#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517689&amp;idx=1&amp;sn=c012bb9efc1988e1230c041a303b80a8&amp;chksm=ea38c71039890410ff728a81bbd86ab7d26449fcba49c6d07a792381f008d03758b0dcec04d3&amp;mpshare=1&amp;scene=1&amp;srcid=0923pcSHjun8kqUTETJwxvvc&amp;sharer_shareinfo=da198d9f0259dcf24f3eccc8b7331eda&amp;sharer_shareinfo_first=da198d9f0259dcf24f3eccc8b7331eda#rd"/>
-        <updated>2026-08-21T00:00:00.000Z</updated>
-        <published>2026-08-21T00:00:00.000Z</published>
     </entry>
 </feed>
