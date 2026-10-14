@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-14 01:13:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-10-14 17:07:52。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【Nodejs技术栈】拿几百万的企业项目试-AI-Coding，团队干了一个多月，决定先停下来](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525089&idx=1&sn=2404e7ad759e4b63746f28294ec6b07e&chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7786b35034b32e793d4842eeaa0bc44)
 - [【淘系前端团队】淘宝AI购物助手在线评测落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546388&idx=1&sn=9ccd19e3c6a8ee97a5ec6a963d2eb105&chksm=822f010958f7b8c0b576ff3cb614828f98f40af791df704766b759d885079a41215dec3e0d4a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61463111cbeb075e600a6553d2e2eaf1)
 - [【淘系前端团队】淘宝直播数字人互动Harness-Aware-Training实践：让Agent-Model随Harness一起进化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546378&idx=1&sn=acbf0c13b09390b7057ed41e41e3cd52&chksm=8297a2b3c8e34e367071419aa138a17da621990fad545c23b645353d10ec8fd8efae470205d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2771c647aaff5d05db625f91b05276a9)
 - [【Nodejs技术栈】卷疯了！Claude、OpenAI-一夜发了三个模型，连重置卡都送上了](https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524942&idx=1&sn=9cb5bb8e78629827bf3cc1145c3f3696&chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&mpshare=1&scene=1&srcid=0923vk25TYI7vuYsU6ml16YP&sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=076cb349cabe360f375b3200c926d218)
@@ -49,7 +50,6 @@
 - [【淘系前端团队】agent优化之GEPA——一种提示词自进化的优化方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545973&idx=1&sn=01a23266cadd126c68a1a14dd0db544a&chksm=82a2c5b124cb72724103d63746fc1dbdc8ca612838f4f1e138d8bbbb8a81a9f5a05b0b2d5f2c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=392f061d07b4d73f8e89c20c7fca43cd)
 - [【淘系前端团队】让-Agent-像人一样记忆：本地长期记忆系统-HL-Mem-的设计与取舍](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545942&idx=1&sn=059fb0899702c46fe339f0a80aef90ab&chksm=825a50d64a4f71f76068220895f10f59526d7ce7a97ae8d855d76c5f97740dfb498c7383e938&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0bbd2235ad50d1a7142ec01444fc33db)
 - [【淘系前端团队】Agent-长程任务断点续传：从框架-Checkpoint-到跨进程恢复的完整实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545838&idx=1&sn=3c5a25dfe00876f608af093ff0881942&chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50d9780f7a17daa66c3bebcbc89eefde)
-- [【淘系前端团队】天猫技术大型-AI-项目的研发协同实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545718&idx=1&sn=97f7fc8fd31947c67deff2c77165be6a&chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a7fa1b1e3bb580fdaeb11370deca20d3)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【Nodejs技术栈】拿几百万的企业项目试-AI-Coding，团队干了一个多月，决定先停下来](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525089&idx=1&sn=2404e7ad759e4b63746f28294ec6b07e&chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7786b35034b32e793d4842eeaa0bc44)
 - [【Nodejs技术栈】npm-的-n-翻过来了！这个新来的“弟弟”，尤雨溪也点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525070&idx=1&sn=4bd49e464c1278669729f0cd2e1620cd&chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7ea158170607d16fa19848b2ddac843)
 - [【JavaScript-Weekly】Ryan-Dahl:-'Why-reimplement-Node?-It-works.'](https://javascriptweekly.com/issues/806)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=291289c051d68b6dc587d63531279913)
 - [【Nodejs技术栈】老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)
@@ -593,7 +594,6 @@
 - [【Nodejs技术栈】突发！Deno-全员加入-Cloudflare，一年后停更！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525038&idx=1&sn=cfb6a97a3fbeed402610cd5a9f23c92c&chksm=e9a954cfe088590d2f903768042781c3bfa49774bf6942ca08c8a8c3212a23e6e99f9f04071e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce7f34b020018efdad8f6f214bc4bd41)
 - [【淘系前端团队】淘宝直播数字人互动Harness-Aware-Training实践：让Agent-Model随Harness一起进化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546378&idx=1&sn=acbf0c13b09390b7057ed41e41e3cd52&chksm=8297a2b3c8e34e367071419aa138a17da621990fad545c23b645353d10ec8fd8efae470205d5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2771c647aaff5d05db625f91b05276a9)
 - [【阮一峰的网络日志】科技爱好者周刊（第-414-期）：Jev-决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b78204ffeeee7897b1ea683c7c154bc8)
-- [【张鑫旭-鑫空间-鑫生活】Document-Picture-in-Picture-API与任意元素画中画实现](https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0f6879a2a61a0614d586c5094bad1ff)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

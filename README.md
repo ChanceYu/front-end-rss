@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-10-14 01:13:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-14 17:07:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -25,7 +25,7 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -72,7 +72,7 @@
 </summary>
 
 
-- [2026-10-13-Ryan-Dahl:-'Why-reimplement-Node?-It-works.'](https://javascriptweekly.com/issues/806)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=291289c051d68b6dc587d63531279913)  ![](/assets/new.png) 
+- [2026-10-13-Ryan-Dahl:-'Why-reimplement-Node?-It-works.'](https://javascriptweekly.com/issues/806)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=291289c051d68b6dc587d63531279913)  
 - [2026-10-06-Why-don't-more-developers-'use-the-platform'?](https://javascriptweekly.com/issues/805)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0c80a5c40c4dfdf88e1b4882e6ec7609)  
 - [2026-09-29-A-ha's-Take-on-Me,-recreated-in-pure-JavaScript](https://javascriptweekly.com/issues/804)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ea143c3a78868441475237d99a27ddc7)  
 - [2026-09-22-JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361)  
@@ -408,6 +408,7 @@
 </summary>
 
 
+- [2026-10-14-拿几百万的企业项目试-AI-Coding，团队干了一个多月，决定先停下来](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525089&idx=1&sn=2404e7ad759e4b63746f28294ec6b07e&chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7786b35034b32e793d4842eeaa0bc44)  ![](/assets/new.png) 
 - [2026-10-13-npm-的-n-翻过来了！这个新来的“弟弟”，尤雨溪也点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525070&idx=1&sn=4bd49e464c1278669729f0cd2e1620cd&chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7ea158170607d16fa19848b2ddac843)  
 - [2026-10-12-老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)  
 - [2026-10-11-Skills-Hub-1.0-发布，这次把一直想做的-Skills-合集加上了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525055&idx=1&sn=277da8b6b5971bb7697a29126a02230e&chksm=e984b1796746d655a9023329920dd4f7f0d9ec991657c58a8e4645f226b11f4d05093fc4c208&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=159fd92a1810d77c61e04bd30c0ab3eb)  
@@ -417,7 +418,6 @@
 - [2026-09-30-真要抢-Next.js-的饭碗了？Cloudflare-把-Vinext-做到了-1.0](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525007&idx=1&sn=b280621d8b661026446cc958dff28784&chksm=e9c1c17c86442cf0feafa2bdbb25f0933ef5b55b13f19ec070ab6dfdad911cf767ff74887902&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=284cb26df54b7830e6c5e0b1d8f59090)  
 - [2026-09-29-Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)  
 - [2026-09-28-把黄河装进计算机！国产算力，你来真的啊？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524992&idx=1&sn=ec54f76ac42b4041c2181c157643ecec&chksm=e91e99f02b3735de93c4d80949060815af6d09e0dea6e608b8c37e9c2eb54c96a89f568db082&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5cd768360df93398338a05f7385a3a59)  
-- [2026-09-26-实测-Qoder-夯爆了，写完代码还自己测试、上线！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524979&idx=1&sn=f16252870251f87b42102e340468c10c&chksm=e96c4e17f2163d3d139a80a0997e9f08b29857ba6a3805942b20ff8f9c0ee181c2ee16258b1f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=762c78ee7a93db42c2d43cda1906b840)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
