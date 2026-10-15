@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-15 16:39:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-15 22:31:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2026-10-15-离-Next.js-远点吧！TanStack-Start-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525096&idx=1&sn=56a857de9928a0f9f27153323e892636&chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=77db255e4bf99ebde37c506c982f0fb8) 
+- [2026-10-15-The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd5bc82c1dc918f831a04cbfbcb45efc) 
 - [2026-10-14-拿几百万的企业项目试-AI-Coding，团队干了一个多月，决定先停下来](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525089&idx=1&sn=2404e7ad759e4b63746f28294ec6b07e&chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7786b35034b32e793d4842eeaa0bc44) 
 - [2026-10-14-Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6950097bf378a0011a2b56990b5ad0fd) 
 - [2026-10-14-淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546392&idx=1&sn=0ff5f3328fdd7643f56dfeb03f2774bb&chksm=822c8f1a15024ec5ea414bc1695c5cfa3aad09e22450ebb588669bab3ae595345024a0c70afe&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d1b85c26459cd8246ab1e16b1d33700) 

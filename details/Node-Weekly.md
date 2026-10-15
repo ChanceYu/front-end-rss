@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-10-09 01:03:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-15 22:31:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2026-10-15-The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd5bc82c1dc918f831a04cbfbcb45efc) 
 - [2026-10-08-When-worker-threads-beat-processes-for-Node-efficiency](https://nodeweekly.com/issues/643)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89d3d164393769d30e57b416eb528ff6) 
 - [2026-09-24-12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f) 
 - [2026-09-17-Node-26.9-turns-on-FFI-by-default](https://nodeweekly.com/issues/641)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce8804a5bc73012e9808767b449ff520) 

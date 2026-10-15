@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-15 16:39:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-10-15 22:31:22。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -170,6 +170,7 @@
 
 
 
+- [【Node-Weekly】The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd5bc82c1dc918f831a04cbfbcb45efc)
 - [【JavaScript-Weekly】Ryan-Dahl:-'Why-reimplement-Node?-It-works.'](https://javascriptweekly.com/issues/806)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=291289c051d68b6dc587d63531279913)
 - [【Nodejs技术栈】老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)
 - [【Nodejs技术栈】Deno-宣布停更，老用户早已跑路！兜了一圈，还是-Node.js-香](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525045&idx=1&sn=9861751b3ca70a282de0212dbba10da4&chksm=e956ef5582d39de3505b62e4ec744635e9bcc6fad03b824c88c169428173dd1438c852aedf3e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f05c983866e728adeb3cba2bcd1bde2)
@@ -179,7 +180,6 @@
 - [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)
 - [【Node-Weekly】Node-26.9-turns-on-FFI-by-default](https://nodeweekly.com/issues/641)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce8804a5bc73012e9808767b449ff520)
 - [【Node-Weekly】Node-is-getting-a-built-in-benchmark-runner](https://nodeweekly.com/issues/640)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c6714d9ce22c8fa22126d26e873d5ff)
-- [【Node-Weekly】Bun-now-passes-80.5%-of-Node's-test-suite](https://nodeweekly.com/issues/639)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=198a1d5503a38f2056e6d930de6de790)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,7 @@
 
 
 - [【Nodejs技术栈】离-Next.js-远点吧！TanStack-Start-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525096&idx=1&sn=56a857de9928a0f9f27153323e892636&chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=77db255e4bf99ebde37c506c982f0fb8)
+- [【Node-Weekly】The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd5bc82c1dc918f831a04cbfbcb45efc)
 - [【Nodejs技术栈】拿几百万的企业项目试-AI-Coding，团队干了一个多月，决定先停下来](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525089&idx=1&sn=2404e7ad759e4b63746f28294ec6b07e&chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7786b35034b32e793d4842eeaa0bc44)
 - [【张鑫旭-鑫空间-鑫生活】Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6950097bf378a0011a2b56990b5ad0fd)
 - [【淘系前端团队】淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546392&idx=1&sn=0ff5f3328fdd7643f56dfeb03f2774bb&chksm=822c8f1a15024ec5ea414bc1695c5cfa3aad09e22450ebb588669bab3ae595345024a0c70afe&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d1b85c26459cd8246ab1e16b1d33700)
@@ -593,7 +594,6 @@
 - [【Nodejs技术栈】老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)
 - [【淘系前端团队】淘宝AI购物助手在线评测落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546388&idx=1&sn=9ccd19e3c6a8ee97a5ec6a963d2eb105&chksm=822f010958f7b8c0b576ff3cb614828f98f40af791df704766b759d885079a41215dec3e0d4a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61463111cbeb075e600a6553d2e2eaf1)
 - [【Nodejs技术栈】Skills-Hub-1.0-发布，这次把一直想做的-Skills-合集加上了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525055&idx=1&sn=277da8b6b5971bb7697a29126a02230e&chksm=e984b1796746d655a9023329920dd4f7f0d9ec991657c58a8e4645f226b11f4d05093fc4c208&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=159fd92a1810d77c61e04bd30c0ab3eb)
-- [【Nodejs技术栈】Deno-宣布停更，老用户早已跑路！兜了一圈，还是-Node.js-香](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525045&idx=1&sn=9861751b3ca70a282de0212dbba10da4&chksm=e956ef5582d39de3505b62e4ec744635e9bcc6fad03b824c88c169428173dd1438c852aedf3e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f05c983866e728adeb3cba2bcd1bde2)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

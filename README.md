@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-10-15 16:39:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-15 22:31:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -24,7 +24,7 @@
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -41,7 +41,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -51,6 +51,7 @@
 </summary>
 
 
+- [2026-10-15-The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd5bc82c1dc918f831a04cbfbcb45efc)  ![](/assets/new.png) 
 - [2026-10-08-When-worker-threads-beat-processes-for-Node-efficiency](https://nodeweekly.com/issues/643)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89d3d164393769d30e57b416eb528ff6)  
 - [2026-09-24-12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)  
 - [2026-09-17-Node-26.9-turns-on-FFI-by-default](https://nodeweekly.com/issues/641)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce8804a5bc73012e9808767b449ff520)  
@@ -60,7 +61,6 @@
 - [2026-08-13-Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d36ec4d8b419d9d93177dbd116b8204a)  
 - [2026-08-06-Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5d0bc8d2dbdd757f6eacad8e1814e2f8)  
 - [2026-07-30-npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d02524af1e9f52ca60eeaeefd801d5cc)  
-- [2026-07-23-Domenic-Denicola's-modern-dev-setup](https://nodeweekly.com/issues/634)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5ba66e68c7bf6c9f7a15826a593eeb7)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2026-10-15-离-Next.js-远点吧！TanStack-Start-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525096&idx=1&sn=56a857de9928a0f9f27153323e892636&chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=77db255e4bf99ebde37c506c982f0fb8)  ![](/assets/new.png) 
+- [2026-10-15-离-Next.js-远点吧！TanStack-Start-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525096&idx=1&sn=56a857de9928a0f9f27153323e892636&chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=77db255e4bf99ebde37c506c982f0fb8)  
 - [2026-10-14-拿几百万的企业项目试-AI-Coding，团队干了一个多月，决定先停下来](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525089&idx=1&sn=2404e7ad759e4b63746f28294ec6b07e&chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7786b35034b32e793d4842eeaa0bc44)  
 - [2026-10-13-npm-的-n-翻过来了！这个新来的“弟弟”，尤雨溪也点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525070&idx=1&sn=4bd49e464c1278669729f0cd2e1620cd&chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7ea158170607d16fa19848b2ddac843)  
 - [2026-10-12-老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)  
