@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-14T14:45:09.025Z</updated>
+    <updated>2026-10-15T08:38:59.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[离 Next.js 远点吧！TanStack Start 1.0 正式发布]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525096&amp;idx=1&amp;sn=56a857de9928a0f9f27153323e892636&amp;chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525096&amp;idx=1&amp;sn=56a857de9928a0f9f27153323e892636&amp;chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&amp;scene=0#rd"/>
+        <updated>2026-10-15T00:00:00.000Z</updated>
+        <published>2026-10-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拿几百万的企业项目试 AI Coding，团队干了一个多月，决定先停下来]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525089&amp;idx=1&amp;sn=2404e7ad759e4b63746f28294ec6b07e&amp;chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/799"/>
         <updated>2026-08-25T00:00:00.000Z</updated>
         <published>2026-08-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我对 AI Coding 的一点思考：从 Spec 驱动转向环境与验证驱动]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545436&amp;idx=1&amp;sn=af4dc3f820acf230087053aa294dd2be&amp;chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545436&amp;idx=1&amp;sn=af4dc3f820acf230087053aa294dd2be&amp;chksm=8285feea9f8c1684961e941dff373bff8ab46e61c0cbf57ab6896339ed4da5920d33020e868a&amp;scene=0#rd"/>
-        <updated>2026-08-24T00:00:00.000Z</updated>
-        <published>2026-08-24T00:00:00.000Z</published>
     </entry>
 </feed>
