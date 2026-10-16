@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-15T14:31:13.082Z</updated>
+    <updated>2026-10-16T01:56:18.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 415 期）：3D 版《看不见的城市》]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html"/>
+        <updated>2026-10-16T00:00:00.000Z</updated>
+        <published>2026-10-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[离 Next.js 远点吧！TanStack Start 1.0 正式发布]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525096&amp;idx=1&amp;sn=56a857de9928a0f9f27153323e892636&amp;chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/638"/>
         <updated>2026-08-27T00:00:00.000Z</updated>
         <published>2026-08-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[场景营销互动 & 体验 AI Coding — 构建 Agent 自主执行闭环]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545465&amp;idx=1&amp;sn=96e20d7451fcc622baf2b6f0c2d9ef04&amp;chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545465&amp;idx=1&amp;sn=96e20d7451fcc622baf2b6f0c2d9ef04&amp;chksm=824a5eb43cf13f4af3fd48fb0b493160b18734f7ff4e852c2115865333043cfde24d942c4773&amp;scene=0#rd"/>
-        <updated>2026-08-26T00:00:00.000Z</updated>
-        <published>2026-08-26T00:00:00.000Z</published>
     </entry>
 </feed>
