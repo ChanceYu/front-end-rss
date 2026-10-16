@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-10-16 09:56:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-16 14:32:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -38,10 +38,10 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -345,7 +345,7 @@
 </summary>
 
 
-- [2026-10-16-科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9d81959a1e09641425e798ec09134bd)  ![](/assets/new.png) 
+- [2026-10-16-科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9d81959a1e09641425e798ec09134bd)  
 - [2026-10-08-科技爱好者周刊（第-414-期）：Jev-决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b78204ffeeee7897b1ea683c7c154bc8)  
 - [2026-09-18-科技爱好者周刊（第-413-期）：再见了，React-Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ed644ccafbb134f9ee80a1bbac6d6027)  
 - [2026-09-11-科技爱好者周刊（第-412-期）：禁止-issue，只用-PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b674a5158ce90df2db5d71d4c4813789)  
@@ -408,6 +408,7 @@
 </summary>
 
 
+- [2026-10-16-尤雨溪宣布-Void-开源！这次真得感谢-Cloudflare](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525104&idx=1&sn=bcc1c0c274d8486d4e89108afba87304&chksm=e9cd84c2b54d26a87f39f16f4606f29d16cfb6bc7af79ca5f1ec8a7c094657e81fc1bf238729&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c984be82591025cd47ecc91be5555405)  ![](/assets/new.png) 
 - [2026-10-15-离-Next.js-远点吧！TanStack-Start-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525096&idx=1&sn=56a857de9928a0f9f27153323e892636&chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=77db255e4bf99ebde37c506c982f0fb8)  
 - [2026-10-14-拿几百万的企业项目试-AI-Coding，团队干了一个多月，决定先停下来](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525089&idx=1&sn=2404e7ad759e4b63746f28294ec6b07e&chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7786b35034b32e793d4842eeaa0bc44)  
 - [2026-10-13-npm-的-n-翻过来了！这个新来的“弟弟”，尤雨溪也点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525070&idx=1&sn=4bd49e464c1278669729f0cd2e1620cd&chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7ea158170607d16fa19848b2ddac843)  
@@ -417,7 +418,6 @@
 - [2026-10-09-突发！Deno-全员加入-Cloudflare，一年后停更！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525038&idx=1&sn=cfb6a97a3fbeed402610cd5a9f23c92c&chksm=e9a954cfe088590d2f903768042781c3bfa49774bf6942ca08c8a8c3212a23e6e99f9f04071e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce7f34b020018efdad8f6f214bc4bd41)  
 - [2026-10-01-Skills-Hub-又更新了，装删-Skill-动动嘴就行](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525019&idx=1&sn=be9235585d315ea5357e16d7649ce9a7&chksm=e9f071f269f5afe6df364b33e7879f643d602bff27b9107e683481a8afffbba670917b820f85&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2bae328132de20e295e2ef403c3d5c1d)  
 - [2026-09-30-真要抢-Next.js-的饭碗了？Cloudflare-把-Vinext-做到了-1.0](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525007&idx=1&sn=b280621d8b661026446cc958dff28784&chksm=e9c1c17c86442cf0feafa2bdbb25f0933ef5b55b13f19ec070ab6dfdad911cf767ff74887902&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=284cb26df54b7830e6c5e0b1d8f59090)  
-- [2026-09-29-Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
