@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-16T12:47:20.965Z</updated>
+    <updated>2026-10-17T16:43:16.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[不用 Opus 5.5 也能做成这样？我用刚发布的 DeepSeek 做了条科普视频]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525123&amp;idx=1&amp;sn=f061d48b7e9dc068f180a19f122b2dea&amp;chksm=e9b87bbf83124d33ef242b5166310a1c374639eee41f5a186665d1dfd741938a637c6d155bf1&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525123&amp;idx=1&amp;sn=f061d48b7e9dc068f180a19f122b2dea&amp;chksm=e9b87bbf83124d33ef242b5166310a1c374639eee41f5a186665d1dfd741938a637c6d155bf1&amp;scene=0#rd"/>
+        <updated>2026-10-17T00:00:00.000Z</updated>
+        <published>2026-10-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 415 期）：3D 版《看不见的城市》]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545467&amp;idx=1&amp;sn=b5757df260f77c1bf3f6947129db5100&amp;chksm=82dad993e09bd858f9cca1a5a051cd762ee82789ea6bce39dc2d90e29af858bcb59e5f1dcf08&amp;scene=0#rd"/>
         <updated>2026-08-28T00:00:00.000Z</updated>
         <published>2026-08-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node 26.8 reads and writes ZIP files]]></title>
-        <id>https://nodeweekly.com/issues/638</id>
-        <link href="https://nodeweekly.com/issues/638"/>
-        <updated>2026-08-27T00:00:00.000Z</updated>
-        <published>2026-08-27T00:00:00.000Z</published>
     </entry>
 </feed>
