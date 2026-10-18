@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-18 00:43:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-10-18 20:15:26。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -584,6 +584,7 @@
 
 
 
+- [【Nodejs技术栈】国产十万卡，交出十大科研成果！曙光8000这次有多猛？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525145&idx=1&sn=a0d8618581cde86a14a6123a139ac4a2&chksm=e9b0cd72f5a43ec38647b582f5dd455b37e2cbe3ac83e1fe6d9b3fa927f82569f12a41689581&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f7803cc26a24be18ba4e1f6b6992e147)
 - [【Nodejs技术栈】不用-Opus-5.5-也能做成这样？我用刚发布的-DeepSeek-做了条科普视频](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525123&idx=1&sn=f061d48b7e9dc068f180a19f122b2dea&chksm=e9b87bbf83124d33ef242b5166310a1c374639eee41f5a186665d1dfd741938a637c6d155bf1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3aecfe50006e9210a9b012ae0794f33c)
 - [【Nodejs技术栈】尤雨溪宣布-Void-开源！这次真得感谢-Cloudflare](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525104&idx=1&sn=bcc1c0c274d8486d4e89108afba87304&chksm=e9cd84c2b54d26a87f39f16f4606f29d16cfb6bc7af79ca5f1ec8a7c094657e81fc1bf238729&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c984be82591025cd47ecc91be5555405)
 - [【阮一峰的网络日志】科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9d81959a1e09641425e798ec09134bd)
@@ -593,7 +594,6 @@
 - [【Nodejs技术栈】拿几百万的企业项目试-AI-Coding，团队干了一个多月，决定先停下来](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525089&idx=1&sn=2404e7ad759e4b63746f28294ec6b07e&chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7786b35034b32e793d4842eeaa0bc44)
 - [【张鑫旭-鑫空间-鑫生活】Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6950097bf378a0011a2b56990b5ad0fd)
 - [【淘系前端团队】淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546392&idx=1&sn=0ff5f3328fdd7643f56dfeb03f2774bb&chksm=822c8f1a15024ec5ea414bc1695c5cfa3aad09e22450ebb588669bab3ae595345024a0c70afe&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d1b85c26459cd8246ab1e16b1d33700)
-- [【Nodejs技术栈】npm-的-n-翻过来了！这个新来的“弟弟”，尤雨溪也点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525070&idx=1&sn=4bd49e464c1278669729f0cd2e1620cd&chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7ea158170607d16fa19848b2ddac843)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
