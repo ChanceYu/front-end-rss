@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-18 20:15:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-19 17:22:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-10-19-Bun-要自立门户？开发者：干脆改名-BunScript-吧！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525154&idx=1&sn=675598fc641178ff6c6aa05f7f1ca689&chksm=e9d6233eef288008d315e493569edde94a006d829f9793570fb174e0fb452578163e6c6029bd&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b79389a38b83ae0cabfd75fa9121239) 
 - [2026-10-15-The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd5bc82c1dc918f831a04cbfbcb45efc) 
 - [2026-10-13-Ryan-Dahl:-'Why-reimplement-Node?-It-works.'](https://javascriptweekly.com/issues/806)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=291289c051d68b6dc587d63531279913) 
 - [2026-10-12-老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b) 

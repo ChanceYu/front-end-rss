@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-18 20:15:26。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-10-19 17:22:40。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -170,6 +170,7 @@
 
 
 
+- [【Nodejs技术栈】Bun-要自立门户？开发者：干脆改名-BunScript-吧！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525154&idx=1&sn=675598fc641178ff6c6aa05f7f1ca689&chksm=e9d6233eef288008d315e493569edde94a006d829f9793570fb174e0fb452578163e6c6029bd&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b79389a38b83ae0cabfd75fa9121239)
 - [【Node-Weekly】The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd5bc82c1dc918f831a04cbfbcb45efc)
 - [【JavaScript-Weekly】Ryan-Dahl:-'Why-reimplement-Node?-It-works.'](https://javascriptweekly.com/issues/806)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=291289c051d68b6dc587d63531279913)
 - [【Nodejs技术栈】老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)
@@ -179,7 +180,6 @@
 - [【Nodejs技术栈】Vite+-1.0-发布，从-Node.js-到构建测试，一个-vp-统一管理](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525001&idx=1&sn=452c77c1ce87d4f2be60f566d854d004&chksm=e99ac94eb2c36c1bfe353c60a9250cfdd1aecf757b8d36a734a9cb8105ce458f6e4041444bd7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3dc97b821c083c6febf874767dbb7ba7)
 - [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)
 - [【Node-Weekly】Node-26.9-turns-on-FFI-by-default](https://nodeweekly.com/issues/641)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce8804a5bc73012e9808767b449ff520)
-- [【Node-Weekly】Node-is-getting-a-built-in-benchmark-runner](https://nodeweekly.com/issues/640)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c6714d9ce22c8fa22126d26e873d5ff)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -482,6 +482,7 @@
 
 
 
+- [【Nodejs技术栈】Bun-要自立门户？开发者：干脆改名-BunScript-吧！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525154&idx=1&sn=675598fc641178ff6c6aa05f7f1ca689&chksm=e9d6233eef288008d315e493569edde94a006d829f9793570fb174e0fb452578163e6c6029bd&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b79389a38b83ae0cabfd75fa9121239)
 - [【Nodejs技术栈】不用-Opus-5.5-也能做成这样？我用刚发布的-DeepSeek-做了条科普视频](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525123&idx=1&sn=f061d48b7e9dc068f180a19f122b2dea&chksm=e9b87bbf83124d33ef242b5166310a1c374639eee41f5a186665d1dfd741938a637c6d155bf1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3aecfe50006e9210a9b012ae0794f33c)
 - [【Nodejs技术栈】离-Next.js-远点吧！TanStack-Start-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525096&idx=1&sn=56a857de9928a0f9f27153323e892636&chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=77db255e4bf99ebde37c506c982f0fb8)
 - [【Nodejs技术栈】老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b)
@@ -491,7 +492,6 @@
 - [【JavaScript-Weekly】A-ha's-Take-on-Me,-recreated-in-pure-JavaScript](https://javascriptweekly.com/issues/804)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ea143c3a78868441475237d99a27ddc7)
 - [【Nodejs技术栈】实测-Qoder-夯爆了，写完代码还自己测试、上线！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524979&idx=1&sn=f16252870251f87b42102e340468c10c&chksm=e96c4e17f2163d3d139a80a0997e9f08b29857ba6a3805942b20ff8f9c0ee181c2ee16258b1f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=762c78ee7a93db42c2d43cda1906b840)
 - [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)
-- [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a62991f494b7277c4842ec8eda367361)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【Nodejs技术栈】Bun-要自立门户？开发者：干脆改名-BunScript-吧！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525154&idx=1&sn=675598fc641178ff6c6aa05f7f1ca689&chksm=e9d6233eef288008d315e493569edde94a006d829f9793570fb174e0fb452578163e6c6029bd&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b79389a38b83ae0cabfd75fa9121239)
 - [【Nodejs技术栈】国产十万卡，交出十大科研成果！曙光8000这次有多猛？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525145&idx=1&sn=a0d8618581cde86a14a6123a139ac4a2&chksm=e9b0cd72f5a43ec38647b582f5dd455b37e2cbe3ac83e1fe6d9b3fa927f82569f12a41689581&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f7803cc26a24be18ba4e1f6b6992e147)
 - [【Nodejs技术栈】不用-Opus-5.5-也能做成这样？我用刚发布的-DeepSeek-做了条科普视频](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525123&idx=1&sn=f061d48b7e9dc068f180a19f122b2dea&chksm=e9b87bbf83124d33ef242b5166310a1c374639eee41f5a186665d1dfd741938a637c6d155bf1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3aecfe50006e9210a9b012ae0794f33c)
 - [【Nodejs技术栈】尤雨溪宣布-Void-开源！这次真得感谢-Cloudflare](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525104&idx=1&sn=bcc1c0c274d8486d4e89108afba87304&chksm=e9cd84c2b54d26a87f39f16f4606f29d16cfb6bc7af79ca5f1ec8a7c094657e81fc1bf238729&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c984be82591025cd47ecc91be5555405)
@@ -593,7 +594,6 @@
 - [【Node-Weekly】The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fd5bc82c1dc918f831a04cbfbcb45efc)
 - [【Nodejs技术栈】拿几百万的企业项目试-AI-Coding，团队干了一个多月，决定先停下来](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525089&idx=1&sn=2404e7ad759e4b63746f28294ec6b07e&chksm=e928ac9a4858da1e73a6829261b1f32819bda9fbf9a75f8feecad76f8c8e02d52e148dd695b6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7786b35034b32e793d4842eeaa0bc44)
 - [【张鑫旭-鑫空间-鑫生活】Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6950097bf378a0011a2b56990b5ad0fd)
-- [【淘系前端团队】淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546392&idx=1&sn=0ff5f3328fdd7643f56dfeb03f2774bb&chksm=822c8f1a15024ec5ea414bc1695c5cfa3aad09e22450ebb588669bab3ae595345024a0c70afe&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d1b85c26459cd8246ab1e16b1d33700)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

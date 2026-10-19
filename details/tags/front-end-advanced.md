@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-18 20:15:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-19 17:22:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-10-19-Bun-要自立门户？开发者：干脆改名-BunScript-吧！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525154&idx=1&sn=675598fc641178ff6c6aa05f7f1ca689&chksm=e9d6233eef288008d315e493569edde94a006d829f9793570fb174e0fb452578163e6c6029bd&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b79389a38b83ae0cabfd75fa9121239) 
 - [2026-10-17-不用-Opus-5.5-也能做成这样？我用刚发布的-DeepSeek-做了条科普视频](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525123&idx=1&sn=f061d48b7e9dc068f180a19f122b2dea&chksm=e9b87bbf83124d33ef242b5166310a1c374639eee41f5a186665d1dfd741938a637c6d155bf1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3aecfe50006e9210a9b012ae0794f33c) 
 - [2026-10-15-离-Next.js-远点吧！TanStack-Start-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525096&idx=1&sn=56a857de9928a0f9f27153323e892636&chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=77db255e4bf99ebde37c506c982f0fb8) 
 - [2026-10-12-老牌-Node.js-框架-Egg-4-稳定版终于发布！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525059&idx=1&sn=3f46441cde154f804e3afba8c1040a1e&chksm=e999a00f051e09595b6493470d6a72a99fdeab25e9266db482033343660b42c1974fc9c93fa9&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e029e18aa0c800fb9d8f3a7337d32e5b) 
