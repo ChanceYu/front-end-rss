@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-19T09:22:23.668Z</updated>
+    <updated>2026-10-19T16:40:42.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[Bun 要自立门户？开发者：干脆改名 BunScript 吧！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525154&amp;idx=1&amp;sn=675598fc641178ff6c6aa05f7f1ca689&amp;chksm=e9d6233eef288008d315e493569edde94a006d829f9793570fb174e0fb452578163e6c6029bd&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525154&amp;idx=1&amp;sn=675598fc641178ff6c6aa05f7f1ca689&amp;chksm=e9d6233eef288008d315e493569edde94a006d829f9793570fb174e0fb452578163e6c6029bd&amp;scene=0#rd"/>
+        <updated>2026-10-19T00:00:00.000Z</updated>
+        <published>2026-10-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告别 AI Demo 页面：构建支持淘内货品运营、可C端投放的会场 Agent Harness]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546485&amp;idx=1&amp;sn=b679cea45f2b32788e0c3eb2d3568cac&amp;chksm=82324d0a4f0649e3d8c2d2d0fda60fab550d5fdb4fb68b9dfdeb063fee3b0da023e5b45bc9d1&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546485&amp;idx=1&amp;sn=b679cea45f2b32788e0c3eb2d3568cac&amp;chksm=82324d0a4f0649e3d8c2d2d0fda60fab550d5fdb4fb68b9dfdeb063fee3b0da023e5b45bc9d1&amp;scene=0#rd"/>
         <updated>2026-10-19T00:00:00.000Z</updated>
         <published>2026-10-19T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html"/>
-        <updated>2026-08-28T00:00:00.000Z</updated>
-        <published>2026-08-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超级Web特性HTML-in-Canvas初体验]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/"/>
         <updated>2026-08-28T00:00:00.000Z</updated>
         <published>2026-08-28T00:00:00.000Z</published>
     </entry>
