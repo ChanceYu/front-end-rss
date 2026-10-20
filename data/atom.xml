@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-20T13:05:54.979Z</updated>
+    <updated>2026-10-20T18:09:54.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[JS 进阶资源管理技巧]]></title>
         <id>https://fenghen.me/posts/2026/10/20/js-resource-management/</id>
         <link href="https://fenghen.me/posts/2026/10/20/js-resource-management/"/>
+        <updated>2026-10-20T00:00:00.000Z</updated>
+        <published>2026-10-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The up to 8x faster Rust port of TypeScript]]></title>
+        <id>https://javascriptweekly.com/issues/807</id>
+        <link href="https://javascriptweekly.com/issues/807"/>
         <updated>2026-10-20T00:00:00.000Z</updated>
         <published>2026-10-20T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545717&amp;idx=1&amp;sn=616d9c26c3c02ce24bdb2a793b18291c&amp;chksm=827162f6e9630a51ba249a827b698fe18394fcd74b969823e09a0f9c8c89683af16889bb7cf6&amp;scene=0#rd"/>
         <updated>2026-09-04T00:00:00.000Z</updated>
         <published>2026-09-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun now passes 80.5% of Node's test suite]]></title>
-        <id>https://nodeweekly.com/issues/639</id>
-        <link href="https://nodeweekly.com/issues/639"/>
-        <updated>2026-09-03T00:00:00.000Z</updated>
-        <published>2026-09-03T00:00:00.000Z</published>
     </entry>
 </feed>
