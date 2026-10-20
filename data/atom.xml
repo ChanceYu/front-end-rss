@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-20T06:48:07.055Z</updated>
+    <updated>2026-10-20T13:05:54.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[微软用 Go 重写 TypeScript，Rust 来踢馆了，还是 AI 写的！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525175&amp;idx=1&amp;sn=63b96bd12318668735c201f956bcf91f&amp;chksm=e97fa56f33cba4ad777aef0890bef8857bf8efe4b2510a4f5bce1054436f230def1e4eb8513e&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525175&amp;idx=1&amp;sn=63b96bd12318668735c201f956bcf91f&amp;chksm=e97fa56f33cba4ad777aef0890bef8857bf8efe4b2510a4f5bce1054436f230def1e4eb8513e&amp;scene=0#rd"/>
+        <updated>2026-10-20T00:00:00.000Z</updated>
+        <published>2026-10-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS 进阶资源管理技巧]]></title>
+        <id>https://fenghen.me/posts/2026/10/20/js-resource-management/</id>
+        <link href="https://fenghen.me/posts/2026/10/20/js-resource-management/"/>
         <updated>2026-10-20T00:00:00.000Z</updated>
         <published>2026-10-20T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/639"/>
         <updated>2026-09-03T00:00:00.000Z</updated>
         <published>2026-09-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 驱动研发体系的实践和思考]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545626&amp;idx=1&amp;sn=cfd0d3011972881686bbb9bedbc319da&amp;chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545626&amp;idx=1&amp;sn=cfd0d3011972881686bbb9bedbc319da&amp;chksm=82620f1ea4c31b954b44ed386d1beadda1b3290dfe02ef421349e8ba71286a63d9921b00e690&amp;scene=0#rd"/>
-        <updated>2026-09-02T00:00:00.000Z</updated>
-        <published>2026-09-02T00:00:00.000Z</published>
     </entry>
 </feed>

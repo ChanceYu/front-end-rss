@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-10-20 14:48:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-20 21:06:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -40,8 +40,8 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -387,6 +387,7 @@
 </summary>
 
 
+- [2026-10-20-JS-进阶资源管理技巧](https://fenghen.me/posts/2026/10/20/js-resource-management/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b121b89d8bee25b37ad34b17b3b097a7)  ![](/assets/new.png) 
 - [2026-09-27-IDE-已死-ADE-当立：未来的开发环境](https://fenghen.me/posts/2026/09/27/ide-is-dead-long-live-ade/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dd3e62255c7ff5768c2aa6bed0f20a38)  
 - [2026-07-27-Vibe-Coding-将程序编成黑盒，怎么办？](https://fenghen.me/posts/2026/07/27/yorz-sdd-gui/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a345c6bba1401f0877a672812328a555)  
 - [2026-06-13-此心光明，硅芯可鉴](https://fenghen.me/posts/2026/06/13/bright-heart-silicon-witness/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=011830fdbb332aa91c15d85aafc6dd1c)  
@@ -395,7 +396,6 @@
 - [2026-02-03-2025-年终总结](https://fenghen.me/posts/2026/02/03/_2025-year-end-summary/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3fa045da9a0b2ffd9bdd839d3c46b1)  
 - [2025-10-17-笔记软件孕育数字分身](https://fenghen.me/posts/2025/10/17/notes-and-digital-twin/) 
 - [2025-09-09-终端开发环境搭建](https://fenghen.me/posts/2025/09/09/terminal-dev-env/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8bdf56f0343341866fbcbeb1ac546518)  
-- [2025-09-01-ZingAI.video-在线口播视频剪辑](https://fenghen.me/posts/2025/09/01/overview/) 
 - [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/) 
 - [查看更多 >](/details/风痕·術&思.md)
 
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2026-10-20-微软用-Go-重写-TypeScript，Rust-来踢馆了，还是-AI-写的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525175&idx=1&sn=63b96bd12318668735c201f956bcf91f&chksm=e97fa56f33cba4ad777aef0890bef8857bf8efe4b2510a4f5bce1054436f230def1e4eb8513e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6393c461280b0f0dcdbfdeff63bc719)  ![](/assets/new.png) 
+- [2026-10-20-微软用-Go-重写-TypeScript，Rust-来踢馆了，还是-AI-写的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525175&idx=1&sn=63b96bd12318668735c201f956bcf91f&chksm=e97fa56f33cba4ad777aef0890bef8857bf8efe4b2510a4f5bce1054436f230def1e4eb8513e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6393c461280b0f0dcdbfdeff63bc719)  
 - [2026-10-19-Bun-要自立门户？开发者：干脆改名-BunScript-吧！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525154&idx=1&sn=675598fc641178ff6c6aa05f7f1ca689&chksm=e9d6233eef288008d315e493569edde94a006d829f9793570fb174e0fb452578163e6c6029bd&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b79389a38b83ae0cabfd75fa9121239)  
 - [2026-10-18-国产十万卡，交出十大科研成果！曙光8000这次有多猛？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525145&idx=1&sn=a0d8618581cde86a14a6123a139ac4a2&chksm=e9b0cd72f5a43ec38647b582f5dd455b37e2cbe3ac83e1fe6d9b3fa927f82569f12a41689581&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f7803cc26a24be18ba4e1f6b6992e147)  
 - [2026-10-17-不用-Opus-5.5-也能做成这样？我用刚发布的-DeepSeek-做了条科普视频](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525123&idx=1&sn=f061d48b7e9dc068f180a19f122b2dea&chksm=e9b87bbf83124d33ef242b5166310a1c374639eee41f5a186665d1dfd741938a637c6d155bf1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3aecfe50006e9210a9b012ae0794f33c)  
