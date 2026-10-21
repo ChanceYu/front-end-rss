@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-20T18:09:54.648Z</updated>
+    <updated>2026-10-21T08:56:37.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[太猛了！尤雨溪团队推出 Rust 版 TS 编译器，最高快 8 倍，OpenClaw 已换用！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525206&amp;idx=1&amp;sn=66500d5cbfa550d05dcdb23017af21c7&amp;chksm=e94a5dd514b4dde5fb312190237bf132a4fcf3fb2e228913fecd8bd2cc66c7b1999f8de16478&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525206&amp;idx=1&amp;sn=66500d5cbfa550d05dcdb23017af21c7&amp;chksm=e94a5dd514b4dde5fb312190237bf132a4fcf3fb2e228913fecd8bd2cc66c7b1999f8de16478&amp;scene=0#rd"/>
+        <updated>2026-10-21T00:00:00.000Z</updated>
+        <published>2026-10-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天猫数字员工（协作篇）- 研发的暗物质与 AI Native 组织协作]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546508&amp;idx=1&amp;sn=2b2b8c196cc45f7043b59d2c5c3ce81c&amp;chksm=82dd574ed50ba52a400dc5bd7fcfc141b7d88a51c49eeec0cfd7b3e247f5e4e08c450d90c5f6&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546508&amp;idx=1&amp;sn=2b2b8c196cc45f7043b59d2c5c3ce81c&amp;chksm=82dd574ed50ba52a400dc5bd7fcfc141b7d88a51c49eeec0cfd7b3e247f5e4e08c450d90c5f6&amp;scene=0#rd"/>
+        <updated>2026-10-21T00:00:00.000Z</updated>
+        <published>2026-10-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软用 Go 重写 TypeScript，Rust 来踢馆了，还是 AI 写的！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525175&amp;idx=1&amp;sn=63b96bd12318668735c201f956bcf91f&amp;chksm=e97fa56f33cba4ad777aef0890bef8857bf8efe4b2510a4f5bce1054436f230def1e4eb8513e&amp;scene=0#rd</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545718&amp;idx=1&amp;sn=97f7fc8fd31947c67deff2c77165be6a&amp;chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&amp;scene=0#rd"/>
         <updated>2026-09-07T00:00:00.000Z</updated>
         <published>2026-09-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html"/>
-        <updated>2026-09-04T00:00:00.000Z</updated>
-        <published>2026-09-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝百亿补贴数据分析助手 Agent 实战]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545717&amp;idx=1&amp;sn=616d9c26c3c02ce24bdb2a793b18291c&amp;chksm=827162f6e9630a51ba249a827b698fe18394fcd74b969823e09a0f9c8c89683af16889bb7cf6&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545717&amp;idx=1&amp;sn=616d9c26c3c02ce24bdb2a793b18291c&amp;chksm=827162f6e9630a51ba249a827b698fe18394fcd74b969823e09a0f9c8c89683af16889bb7cf6&amp;scene=0#rd"/>
-        <updated>2026-09-04T00:00:00.000Z</updated>
-        <published>2026-09-04T00:00:00.000Z</published>
     </entry>
 </feed>
