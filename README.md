@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-10-21 16:57:16，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-23 10:15:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -36,12 +36,12 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -303,7 +303,7 @@
 </summary>
 
 
-- [2026-10-21-天猫数字员工（协作篇）--研发的暗物质与-AI-Native-组织协作](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546508&idx=1&sn=2b2b8c196cc45f7043b59d2c5c3ce81c&chksm=82dd574ed50ba52a400dc5bd7fcfc141b7d88a51c49eeec0cfd7b3e247f5e4e08c450d90c5f6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=de3a30d14910e1de7bc2463fb6ee3776)  ![](/assets/new.png) 
+- [2026-10-21-天猫数字员工（协作篇）--研发的暗物质与-AI-Native-组织协作](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546508&idx=1&sn=2b2b8c196cc45f7043b59d2c5c3ce81c&chksm=82dd574ed50ba52a400dc5bd7fcfc141b7d88a51c49eeec0cfd7b3e247f5e4e08c450d90c5f6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=de3a30d14910e1de7bc2463fb6ee3776)  
 - [2026-10-19-告别-AI-Demo-页面：构建支持淘内货品运营、可C端投放的会场-Agent-Harness](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546485&idx=1&sn=b679cea45f2b32788e0c3eb2d3568cac&chksm=82324d0a4f0649e3d8c2d2d0fda60fab550d5fdb4fb68b9dfdeb063fee3b0da023e5b45bc9d1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=35c18d3c47163d9349ce998ea535335e)  
 - [2026-10-16-淘特端侧模型从微调到应用的全链路实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546397&idx=1&sn=4d759dc158611f9d20d68f2555b60028&chksm=82d410b3f973d5b84db421261fa3d765ab813e21fa5c1be0fc9d15d0c2019b9e235a729928ae&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=072396ee175e2757f562a4045cb3a591)  
 - [2026-10-14-淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546392&idx=1&sn=0ff5f3328fdd7643f56dfeb03f2774bb&chksm=822c8f1a15024ec5ea414bc1695c5cfa3aad09e22450ebb588669bab3ae595345024a0c70afe&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9d1b85c26459cd8246ab1e16b1d33700)  
@@ -345,6 +345,7 @@
 </summary>
 
 
+- [2026-10-23-科技爱好者周刊（第-416-期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=93928ebf7c7461072aec1adc6c8363fb)  ![](/assets/new.png) 
 - [2026-10-16-科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a9d81959a1e09641425e798ec09134bd)  
 - [2026-10-08-科技爱好者周刊（第-414-期）：Jev-决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b78204ffeeee7897b1ea683c7c154bc8)  
 - [2026-09-18-科技爱好者周刊（第-413-期）：再见了，React-Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ed644ccafbb134f9ee80a1bbac6d6027)  
@@ -354,7 +355,6 @@
 - [2026-08-21-科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cc87898e1a060651c8c1761676980e76)  
 - [2026-08-14-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c74b255a8192fefb45c525016b2bc3f4)  
 - [2026-08-07-科技爱好者周刊（第-407-期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=074260d5f35278adb796a14fc2591412)  
-- [2026-07-31-科技爱好者周刊（第-406-期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6e58307d6555ab676516d18fc5ba146d)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2026-10-21-太猛了！尤雨溪团队推出-Rust-版-TS-编译器，最高快-8-倍，OpenClaw-已换用！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525206&idx=1&sn=66500d5cbfa550d05dcdb23017af21c7&chksm=e94a5dd514b4dde5fb312190237bf132a4fcf3fb2e228913fecd8bd2cc66c7b1999f8de16478&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14e39bc340f475ef8e93d21732d4908a)  ![](/assets/new.png) 
+- [2026-10-21-太猛了！尤雨溪团队推出-Rust-版-TS-编译器，最高快-8-倍，OpenClaw-已换用！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525206&idx=1&sn=66500d5cbfa550d05dcdb23017af21c7&chksm=e94a5dd514b4dde5fb312190237bf132a4fcf3fb2e228913fecd8bd2cc66c7b1999f8de16478&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14e39bc340f475ef8e93d21732d4908a)  
 - [2026-10-20-微软用-Go-重写-TypeScript，Rust-来踢馆了，还是-AI-写的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525175&idx=1&sn=63b96bd12318668735c201f956bcf91f&chksm=e97fa56f33cba4ad777aef0890bef8857bf8efe4b2510a4f5bce1054436f230def1e4eb8513e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6393c461280b0f0dcdbfdeff63bc719)  
 - [2026-10-19-Bun-要自立门户？开发者：干脆改名-BunScript-吧！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525154&idx=1&sn=675598fc641178ff6c6aa05f7f1ca689&chksm=e9d6233eef288008d315e493569edde94a006d829f9793570fb174e0fb452578163e6c6029bd&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b79389a38b83ae0cabfd75fa9121239)  
 - [2026-10-18-国产十万卡，交出十大科研成果！曙光8000这次有多猛？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525145&idx=1&sn=a0d8618581cde86a14a6123a139ac4a2&chksm=e9b0cd72f5a43ec38647b582f5dd455b37e2cbe3ac83e1fe6d9b3fa927f82569f12a41689581&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f7803cc26a24be18ba4e1f6b6992e147)  
