@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-23T02:15:15.518Z</updated>
+    <updated>2026-10-26T09:25:43.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[算了，还是讲下named-feature() @supports规则检测吧]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/"/>
+        <updated>2026-10-26T00:00:00.000Z</updated>
+        <published>2026-10-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[太猛了！尤雨溪团队推出 Rust 版 TS 编译器，最高快 8 倍，OpenClaw 已换用！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247525206&amp;idx=1&amp;sn=66500d5cbfa550d05dcdb23017af21c7&amp;chksm=e94a5dd514b4dde5fb312190237bf132a4fcf3fb2e228913fecd8bd2cc66c7b1999f8de16478&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545838&amp;idx=1&amp;sn=3c5a25dfe00876f608af093ff0881942&amp;chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&amp;scene=0#rd"/>
         <updated>2026-09-09T00:00:00.000Z</updated>
         <published>2026-09-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天猫技术大型 AI 项目的研发协同实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545718&amp;idx=1&amp;sn=97f7fc8fd31947c67deff2c77165be6a&amp;chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545718&amp;idx=1&amp;sn=97f7fc8fd31947c67deff2c77165be6a&amp;chksm=8273d1a6580d5d615e9c85f30d3ab50a87852fa83842d14d4e0280b0e032c0265f72d680ba98&amp;scene=0#rd"/>
-        <updated>2026-09-07T00:00:00.000Z</updated>
-        <published>2026-09-07T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-23 10:15:36。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-10-26 17:25:58。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -118,6 +118,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df1b3f6a8e0900257b766e040da51b3b)
 - [【Nodejs技术栈】太猛了！尤雨溪团队推出-Rust-版-TS-编译器，最高快-8-倍，OpenClaw-已换用！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525206&idx=1&sn=66500d5cbfa550d05dcdb23017af21c7&chksm=e94a5dd514b4dde5fb312190237bf132a4fcf3fb2e228913fecd8bd2cc66c7b1999f8de16478&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14e39bc340f475ef8e93d21732d4908a)
 - [【Nodejs技术栈】微软用-Go-重写-TypeScript，Rust-来踢馆了，还是-AI-写的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525175&idx=1&sn=63b96bd12318668735c201f956bcf91f&chksm=e97fa56f33cba4ad777aef0890bef8857bf8efe4b2510a4f5bce1054436f230def1e4eb8513e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6393c461280b0f0dcdbfdeff63bc719)
 - [【JavaScript-Weekly】The-up-to-8x-faster-Rust-port-of-TypeScript](https://javascriptweekly.com/issues/807)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6ebe70290d09191d0d8e6f38eb9c3a5d)
@@ -127,7 +128,6 @@
 - [【JavaScript-Weekly】npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7eb94c3ade004f1aa58f24df9c99bc11)
 - [【Nodejs技术栈】tsgo-终于转正！Go-重写的-TypeScript-7-正式发布，速度提升-10-倍](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247524204&idx=1&sn=a27eef12d7fc86985d4cc3e23c2ed7a5&chksm=e80fd022df78593431bf42b4a9f77f6b1220a1b6750e9b11e0fc62665f11a0fb193269309672#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d20456070861dc9918260d99c84406f)
 - [【前端从进阶到入院】TypeScript-7-正式发布！Vue-暂被-"拒之门外"-！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517666&idx=1&sn=15fcb2090802521b2ce3a2035cad8378&chksm=eb07bd9bdc70348dc6e3f30784276a0119072cf8e6160c825d10106ad933a352cef511581d74#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a297bfc5c4965d48c4278048a6030274)
-- [【Node-Weekly】npm-v12-and-TypeScript-7-released](https://nodeweekly.com/issues/632)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cedfe6db2350a67d19cb906711d80653)
 - [查看更多 >](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df1b3f6a8e0900257b766e040da51b3b)
 - [【阮一峰的网络日志】科技爱好者周刊（第-416-期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=93928ebf7c7461072aec1adc6c8363fb)
 - [【Nodejs技术栈】太猛了！尤雨溪团队推出-Rust-版-TS-编译器，最高快-8-倍，OpenClaw-已换用！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525206&idx=1&sn=66500d5cbfa550d05dcdb23017af21c7&chksm=e94a5dd514b4dde5fb312190237bf132a4fcf3fb2e228913fecd8bd2cc66c7b1999f8de16478&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14e39bc340f475ef8e93d21732d4908a)
 - [【淘系前端团队】天猫数字员工（协作篇）--研发的暗物质与-AI-Native-组织协作](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546508&idx=1&sn=2b2b8c196cc45f7043b59d2c5c3ce81c&chksm=82dd574ed50ba52a400dc5bd7fcfc141b7d88a51c49eeec0cfd7b3e247f5e4e08c450d90c5f6&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=de3a30d14910e1de7bc2463fb6ee3776)
@@ -593,7 +594,6 @@
 - [【Nodejs技术栈】Bun-要自立门户？开发者：干脆改名-BunScript-吧！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525154&idx=1&sn=675598fc641178ff6c6aa05f7f1ca689&chksm=e9d6233eef288008d315e493569edde94a006d829f9793570fb174e0fb452578163e6c6029bd&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0b79389a38b83ae0cabfd75fa9121239)
 - [【淘系前端团队】告别-AI-Demo-页面：构建支持淘内货品运营、可C端投放的会场-Agent-Harness](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546485&idx=1&sn=b679cea45f2b32788e0c3eb2d3568cac&chksm=82324d0a4f0649e3d8c2d2d0fda60fab550d5fdb4fb68b9dfdeb063fee3b0da023e5b45bc9d1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=35c18d3c47163d9349ce998ea535335e)
 - [【Nodejs技术栈】国产十万卡，交出十大科研成果！曙光8000这次有多猛？](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525145&idx=1&sn=a0d8618581cde86a14a6123a139ac4a2&chksm=e9b0cd72f5a43ec38647b582f5dd455b37e2cbe3ac83e1fe6d9b3fa927f82569f12a41689581&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f7803cc26a24be18ba4e1f6b6992e147)
-- [【Nodejs技术栈】不用-Opus-5.5-也能做成这样？我用刚发布的-DeepSeek-做了条科普视频](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525123&idx=1&sn=f061d48b7e9dc068f180a19f122b2dea&chksm=e9b87bbf83124d33ef242b5166310a1c374639eee41f5a186665d1dfd741938a637c6d155bf1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3aecfe50006e9210a9b012ae0794f33c)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
