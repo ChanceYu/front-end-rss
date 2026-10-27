@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-26T09:25:43.122Z</updated>
+    <updated>2026-10-27T19:01:30.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Rebuilding the original GTA engine in JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/808</id>
+        <link href="https://javascriptweekly.com/issues/808"/>
+        <updated>2026-10-27T00:00:00.000Z</updated>
+        <published>2026-10-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[算了，还是讲下named-feature() @supports规则检测吧]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/640"/>
         <updated>2026-09-10T00:00:00.000Z</updated>
         <published>2026-09-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent 长程任务断点续传：从框架 Checkpoint 到跨进程恢复的完整实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545838&amp;idx=1&amp;sn=3c5a25dfe00876f608af093ff0881942&amp;chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545838&amp;idx=1&amp;sn=3c5a25dfe00876f608af093ff0881942&amp;chksm=82eb501c4251dd08db6eb39774b3610dfb19aef851301f0bece3394f5e1d4196e0b1318a40ce&amp;scene=0#rd"/>
-        <updated>2026-09-09T00:00:00.000Z</updated>
-        <published>2026-09-09T00:00:00.000Z</published>
     </entry>
 </feed>

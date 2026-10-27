@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-10-21 02:10:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-28 03:01:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2026-10-27-Rebuilding-the-original-GTA-engine-in-JavaScript](https://javascriptweekly.com/issues/808)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d655da83b3a9fcd1ac739670dd32004c) 
 - [2026-10-20-The-up-to-8x-faster-Rust-port-of-TypeScript](https://javascriptweekly.com/issues/807)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6ebe70290d09191d0d8e6f38eb9c3a5d) 
 - [2026-10-13-Ryan-Dahl:-'Why-reimplement-Node?-It-works.'](https://javascriptweekly.com/issues/806)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=291289c051d68b6dc587d63531279913) 
 - [2026-10-06-Why-don't-more-developers-'use-the-platform'?](https://javascriptweekly.com/issues/805)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0c80a5c40c4dfdf88e1b4882e6ec7609) 
