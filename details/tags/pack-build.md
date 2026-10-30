@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-30 09:24:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-30 22:38:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 构建打包
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-10-30-懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1ff59804a526a9e5b298ceab1bc7a0f6) 
 - [2026-10-21-太猛了！尤雨溪团队推出-Rust-版-TS-编译器，最高快-8-倍，OpenClaw-已换用！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525206&idx=1&sn=66500d5cbfa550d05dcdb23017af21c7&chksm=e94a5dd514b4dde5fb312190237bf132a4fcf3fb2e228913fecd8bd2cc66c7b1999f8de16478&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14e39bc340f475ef8e93d21732d4908a) 
 - [2026-10-19-告别-AI-Demo-页面：构建支持淘内货品运营、可C端投放的会场-Agent-Harness](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546485&idx=1&sn=b679cea45f2b32788e0c3eb2d3568cac&chksm=82324d0a4f0649e3d8c2d2d0fda60fab550d5fdb4fb68b9dfdeb063fee3b0da023e5b45bc9d1&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=35c18d3c47163d9349ce998ea535335e) 
 - [2026-10-13-npm-的-n-翻过来了！这个新来的“弟弟”，尤雨溪也点赞](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525070&idx=1&sn=4bd49e464c1278669729f0cd2e1620cd&chksm=e939651c7dafcbcbf16f47fa885e3b8fdfa1bb349cdfb58420c1448fd0c05dd96eee23273fea&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d7ea158170607d16fa19848b2ddac843) 
