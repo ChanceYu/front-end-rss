@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-29T14:42:46.755Z</updated>
+    <updated>2026-10-30T01:24:02.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 417 期）：不要让 AI 代表你]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html"/>
+        <updated>2026-10-30T00:00:00.000Z</updated>
+        <published>2026-10-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node security releases to fix a Brotli flaw]]></title>
         <id>https://nodeweekly.com/issues/645</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545942&amp;idx=1&amp;sn=059fb0899702c46fe339f0a80aef90ab&amp;chksm=825a50d64a4f71f76068220895f10f59526d7ce7a97ae8d855d76c5f97740dfb498c7383e938&amp;scene=0#rd"/>
         <updated>2026-09-11T00:00:00.000Z</updated>
         <published>2026-09-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关键时刻可以救命的Web Locks API]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/"/>
-        <updated>2026-09-10T00:00:00.000Z</updated>
-        <published>2026-09-10T00:00:00.000Z</published>
     </entry>
 </feed>
