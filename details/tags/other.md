@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-10-30 22:38:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-04 01:24:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-11-03-What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3) 
 - [2026-10-30-科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8060ae2fb4428558fe88b29d0e0ae554) 
 - [2026-10-30-懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1ff59804a526a9e5b298ceab1bc7a0f6) 
 - [2026-10-29-Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2088a56f5a2386c4309b02fe9c3500a1) 

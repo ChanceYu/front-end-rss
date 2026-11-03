@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-10-30 22:38:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-04 01:24:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -25,7 +25,7 @@
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -37,7 +37,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2026-11-03-What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3)  ![](/assets/new.png) 
 - [2026-10-27-Rebuilding-the-original-GTA-engine-in-JavaScript](https://javascriptweekly.com/issues/808)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d655da83b3a9fcd1ac739670dd32004c)  
 - [2026-10-20-The-up-to-8x-faster-Rust-port-of-TypeScript](https://javascriptweekly.com/issues/807)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6ebe70290d09191d0d8e6f38eb9c3a5d)  
 - [2026-10-13-Ryan-Dahl:-'Why-reimplement-Node?-It-works.'](https://javascriptweekly.com/issues/806)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=291289c051d68b6dc587d63531279913)  
@@ -81,7 +82,6 @@
 - [2026-09-15-Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f29fc621c5c1fb3eab18a615adcd0ba7)  
 - [2026-09-08-When-8-chunks-weigh-more-than-355](https://javascriptweekly.com/issues/801)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a0d118fc374002a734e614d386abd32)  
 - [2026-09-01-How-to-fit-Minesweeper-into-247-bytes](https://javascriptweekly.com/issues/800)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14c3d0b299dda21939a6398cb0d6fed5)  
-- [2026-08-25-Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=900487749365fb1f79f79265206998e6)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -324,7 +324,7 @@
 </summary>
 
 
-- [2026-10-30-懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1ff59804a526a9e5b298ceab1bc7a0f6)  ![](/assets/new.png) 
+- [2026-10-30-懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1ff59804a526a9e5b298ceab1bc7a0f6)  
 - [2026-10-26-算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df1b3f6a8e0900257b766e040da51b3b)  
 - [2026-10-14-Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6950097bf378a0011a2b56990b5ad0fd)  
 - [2026-10-08-Document-Picture-in-Picture-API与任意元素画中画实现](https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0f6879a2a61a0614d586c5094bad1ff)  

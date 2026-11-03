@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-30 22:38:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-04 01:24:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-11-03-What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3) 
 - [2026-10-27-Rebuilding-the-original-GTA-engine-in-JavaScript](https://javascriptweekly.com/issues/808)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d655da83b3a9fcd1ac739670dd32004c) 
 - [2026-10-20-JS-进阶资源管理技巧](https://fenghen.me/posts/2026/10/20/js-resource-management/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b121b89d8bee25b37ad34b17b3b097a7) 
 - [2026-10-15-离-Next.js-远点吧！TanStack-Start-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525096&idx=1&sn=56a857de9928a0f9f27153323e892636&chksm=e94c64fd08ffa52ebf6d6ad83447ac5f336f0502255e57476c74ca62b1e4c23fb6b51ec69a19&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=77db255e4bf99ebde37c506c982f0fb8) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-30T14:38:42.852Z</updated>
+    <updated>2026-11-03T17:24:26.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[What Claude spends building with 12 JavaScript stacks]]></title>
+        <id>https://javascriptweekly.com/issues/809</id>
+        <link href="https://javascriptweekly.com/issues/809"/>
+        <updated>2026-11-03T00:00:00.000Z</updated>
+        <published>2026-11-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 417 期）：不要让 AI 代表你]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/"/>
         <updated>2026-09-15T00:00:00.000Z</updated>
         <published>2026-09-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘天自研编码器斩获MSU 6项冠军，视频编码技术支撑内容体验升级]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545951&amp;idx=1&amp;sn=4155d46609b020e686bf4153cebb3142&amp;chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545951&amp;idx=1&amp;sn=4155d46609b020e686bf4153cebb3142&amp;chksm=820bf7807dab6018e521d933e77952036998a33ffc6be85f1d3871069dede817eb51327c4606&amp;scene=0#rd"/>
-        <updated>2026-09-14T00:00:00.000Z</updated>
-        <published>2026-09-14T00:00:00.000Z</published>
     </entry>
 </feed>

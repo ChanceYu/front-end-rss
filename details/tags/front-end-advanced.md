@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-30 22:38:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-04 01:24:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-11-03-What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3) 
 - [2026-10-27-Rebuilding-the-original-GTA-engine-in-JavaScript](https://javascriptweekly.com/issues/808)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d655da83b3a9fcd1ac739670dd32004c) 
 - [2026-10-20-微软用-Go-重写-TypeScript，Rust-来踢馆了，还是-AI-写的！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525175&idx=1&sn=63b96bd12318668735c201f956bcf91f&chksm=e97fa56f33cba4ad777aef0890bef8857bf8efe4b2510a4f5bce1054436f230def1e4eb8513e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f6393c461280b0f0dcdbfdeff63bc719) 
 - [2026-10-20-The-up-to-8x-faster-Rust-port-of-TypeScript](https://javascriptweekly.com/issues/807)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6ebe70290d09191d0d8e6f38eb9c3a5d) 
