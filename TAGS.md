@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-06 11:54:47。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-06 19:39:38。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -144,6 +144,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】JS拖拽交互必用setPointerCapture方法](https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/)
 - [【JavaScript-Weekly】What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3)
 - [【JavaScript-Weekly】Rebuilding-the-original-GTA-engine-in-JavaScript](https://javascriptweekly.com/issues/808)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d655da83b3a9fcd1ac739670dd32004c)
 - [【风痕·術&思】JS-进阶资源管理技巧](https://fenghen.me/posts/2026/10/20/js-resource-management/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b121b89d8bee25b37ad34b17b3b097a7)
@@ -153,7 +154,6 @@
 - [【张鑫旭-鑫空间-鑫生活】Document-Picture-in-Picture-API与任意元素画中画实现](https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0f6879a2a61a0614d586c5094bad1ff)
 - [【Node-Weekly】When-worker-threads-beat-processes-for-Node-efficiency](https://nodeweekly.com/issues/643)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89d3d164393769d30e57b416eb528ff6)
 - [【Nodejs技术栈】真要抢-Next.js-的饭碗了？Cloudflare-把-Vinext-做到了-1.0](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525007&idx=1&sn=b280621d8b661026446cc958dff28784&chksm=e9c1c17c86442cf0feafa2bdbb25f0933ef5b55b13f19ec070ab6dfdad911cf767ff74887902&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=284cb26df54b7830e6c5e0b1d8f59090)
-- [【张鑫旭-鑫空间-鑫生活】一个视频彻底看懂CSS-scroll-axis-lock-none的作用](https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=18f23d8316de52730ada7f4d2fb9e528)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)
+- [【张鑫旭-鑫空间-鑫生活】JS拖拽交互必用setPointerCapture方法](https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/)
 - [【Node-Weekly】Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646)
 - [【JavaScript-Weekly】What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3)
 - [【阮一峰的网络日志】科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8060ae2fb4428558fe88b29d0e0ae554)
@@ -593,7 +594,6 @@
 - [【JavaScript-Weekly】Rebuilding-the-original-GTA-engine-in-JavaScript](https://javascriptweekly.com/issues/808)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d655da83b3a9fcd1ac739670dd32004c)
 - [【张鑫旭-鑫空间-鑫生活】算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=df1b3f6a8e0900257b766e040da51b3b)
 - [【阮一峰的网络日志】科技爱好者周刊（第-416-期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=93928ebf7c7461072aec1adc6c8363fb)
-- [【Nodejs技术栈】太猛了！尤雨溪团队推出-Rust-版-TS-编译器，最高快-8-倍，OpenClaw-已换用！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525206&idx=1&sn=66500d5cbfa550d05dcdb23017af21c7&chksm=e94a5dd514b4dde5fb312190237bf132a4fcf3fb2e228913fecd8bd2cc66c7b1999f8de16478&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=14e39bc340f475ef8e93d21732d4908a)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
