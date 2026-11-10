@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-06T11:39:39.172Z</updated>
+    <updated>2026-11-10T18:58:13.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[How X (Twitter) is rebuilding its web app]]></title>
+        <id>https://javascriptweekly.com/issues/810</id>
+        <link href="https://javascriptweekly.com/issues/810"/>
+        <updated>2026-11-10T00:00:00.000Z</updated>
+        <published>2026-11-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS拖拽交互必用setPointerCapture方法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[CSS rex、rlh、ric等根家族单位简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/"/>
-        <updated>2026-09-17T00:00:00.000Z</updated>
-        <published>2026-09-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node 26.9 turns on FFI by default]]></title>
-        <id>https://nodeweekly.com/issues/641</id>
-        <link href="https://nodeweekly.com/issues/641"/>
         <updated>2026-09-17T00:00:00.000Z</updated>
         <published>2026-09-17T00:00:00.000Z</published>
     </entry>
