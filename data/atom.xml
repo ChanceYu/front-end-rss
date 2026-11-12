@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-10T18:58:13.980Z</updated>
+    <updated>2026-11-12T14:05:55.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[22 Node, Bun and Deno stacks benchmarked]]></title>
+        <id>https://nodeweekly.com/issues/647</id>
+        <link href="https://nodeweekly.com/issues/647"/>
+        <updated>2026-11-12T00:00:00.000Z</updated>
+        <published>2026-11-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How X (Twitter) is rebuilding its web app]]></title>
         <id>https://javascriptweekly.com/issues/810</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650545998&amp;idx=1&amp;sn=05272ad46f69aaf5424bb9446b165b8b&amp;chksm=829c52b41e431d076bc56124dddca79ca82a1f01e02f3ad43d0b4565d9b1d8cc845c6ae0dbc9&amp;scene=0#rd"/>
         <updated>2026-09-18T00:00:00.000Z</updated>
         <published>2026-09-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS rex、rlh、ric等根家族单位简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/"/>
-        <updated>2026-09-17T00:00:00.000Z</updated>
-        <published>2026-09-17T00:00:00.000Z</published>
     </entry>
 </feed>
