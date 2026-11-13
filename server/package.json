@@ -2,7 +2,7 @@
   "name": "front-end-rss",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看",
+  "description": "\u6bcf\u5929\u5b9a\u65f6\u6293\u53d6\u6700\u65b0\u524d\u7aef\u6280\u672f\u6587\u7ae0\uff0c\u5e76\u63a8\u9001\u5230 GitHub \u65b9\u4fbf\u67e5\u770b",
   "scripts": {
     "once": "node ./once.js",
     "docs": "node ./writemd.js"
@@ -33,5 +33,10 @@
   },
   "author": "ChanceYu",
   "license": "MIT",
-  "homepage": "https://github.com/ChanceYu/front-end-rss#readme"
+  "homepage": "https://github.com/ChanceYu/front-end-rss#readme",
+  "pnpm": {
+    "overrides": {
+      "@simple-git/argv-parser": "2.0.1"
+    }
+  }
 }
