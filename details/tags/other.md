@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-11-12 22:05:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-13 10:17:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-11-13-科技爱好者周刊（第-419-期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) 
 - [2026-11-12-22-Node,-Bun-and-Deno-stacks-benchmarked](https://nodeweekly.com/issues/647) 
 - [2026-11-10-How-X-Twitter-is-rebuilding-its-web-app](https://javascriptweekly.com/issues/810) 
 - [2026-11-06-科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) 
