@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-13 10:17:02。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-17 07:04:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -144,6 +144,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】CSS终于支持random随机函数了，等死老子了](https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】JS拖拽交互必用setPointerCapture方法](https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/)
 - [【JavaScript-Weekly】What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3)
 - [【JavaScript-Weekly】Rebuilding-the-original-GTA-engine-in-JavaScript](https://javascriptweekly.com/issues/808)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d655da83b3a9fcd1ac739670dd32004c)
@@ -153,7 +154,6 @@
 - [【Nodejs技术栈】Deno-宣布停更，老用户早已跑路！兜了一圈，还是-Node.js-香](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525045&idx=1&sn=9861751b3ca70a282de0212dbba10da4&chksm=e956ef5582d39de3505b62e4ec744635e9bcc6fad03b824c88c169428173dd1438c852aedf3e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4f05c983866e728adeb3cba2bcd1bde2)
 - [【张鑫旭-鑫空间-鑫生活】Document-Picture-in-Picture-API与任意元素画中画实现](https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0f6879a2a61a0614d586c5094bad1ff)
 - [【Node-Weekly】When-worker-threads-beat-processes-for-Node-efficiency](https://nodeweekly.com/issues/643)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=89d3d164393769d30e57b416eb528ff6)
-- [【Nodejs技术栈】真要抢-Next.js-的饭碗了？Cloudflare-把-Vinext-做到了-1.0](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247525007&idx=1&sn=b280621d8b661026446cc958dff28784&chksm=e9c1c17c86442cf0feafa2bdbb25f0933ef5b55b13f19ec070ab6dfdad911cf767ff74887902&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=284cb26df54b7830e6c5e0b1d8f59090)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -196,6 +196,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】CSS终于支持random随机函数了，等死老子了](https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6950097bf378a0011a2b56990b5ad0fd)
 - [【张鑫旭-鑫空间-鑫生活】一个视频彻底看懂CSS-scroll-axis-lock-none的作用](https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=18f23d8316de52730ada7f4d2fb9e528)
 - [【张鑫旭-鑫空间-鑫生活】独家：CSS背景色单方向扩展技术](https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=690bcf4bdd95bb9d2b38476ac99e54e9)
@@ -205,7 +206,6 @@
 - [【JavaScript-Weekly】Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5988ba7048081c36ed8232175c4bd781)
 - [【张鑫旭-鑫空间-鑫生活】来了来了，Flex/Grid布局的间隙装饰线它来了](https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=061703ce95be8e9b9f6abcb287433a00)
 - [【张鑫旭-鑫空间-鑫生活】纯CSS实现repeat–n,-anything循环展示或相加功能](https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9a3a05f15a5a96f112ef387b225f34e3)
-- [【张鑫旭-鑫空间-鑫生活】CSS新单位dvh、lvmin、vi、cqb等初解](https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1bc32fa2188df136f39a31b8957dc104)
 - [查看更多 >](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】CSS终于支持random随机函数了，等死老子了](https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-419-期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)
 - [【Node-Weekly】22-Node,-Bun-and-Deno-stacks-benchmarked](https://nodeweekly.com/issues/647)
 - [【JavaScript-Weekly】How-X-Twitter-is-rebuilding-its-web-app](https://javascriptweekly.com/issues/810)
@@ -593,7 +594,6 @@
 - [【JavaScript-Weekly】What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3)
 - [【阮一峰的网络日志】科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8060ae2fb4428558fe88b29d0e0ae554)
 - [【张鑫旭-鑫空间-鑫生活】懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1ff59804a526a9e5b298ceab1bc7a0f6)
-- [【Node-Weekly】Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2088a56f5a2386c4309b02fe9c3500a1)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
