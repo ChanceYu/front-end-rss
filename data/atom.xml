@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-16T23:04:50.596Z</updated>
+    <updated>2026-11-17T23:13:14.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[The top 10 things AI gets wrong in web development]]></title>
+        <id>https://javascriptweekly.com/issues/811</id>
+        <link href="https://javascriptweekly.com/issues/811"/>
+        <updated>2026-11-17T00:00:00.000Z</updated>
+        <published>2026-11-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS终于支持random()随机函数了，等死老子了]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546258&amp;idx=1&amp;sn=3b972197775c805cb4a58bdfdf69618a&amp;chksm=82e79bc35eb4fde11027a7135b5a1cf719e4656a24cb462da751a004c602f835b7ae2750af6e&amp;scene=0#rd"/>
         <updated>2026-09-21T00:00:00.000Z</updated>
         <published>2026-09-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 413 期）：再见了，React Native]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html"/>
-        <updated>2026-09-18T00:00:00.000Z</updated>
-        <published>2026-09-18T00:00:00.000Z</published>
     </entry>
 </feed>
