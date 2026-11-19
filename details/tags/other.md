@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-11-18 07:13:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-19 22:48:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-11-19-Time-travel-debugging-for-Node](https://nodeweekly.com/issues/648) 
 - [2026-11-17-The-top-10-things-AI-gets-wrong-in-web-development](https://javascriptweekly.com/issues/811) 
 - [2026-11-16-CSS终于支持random随机函数了，等死老子了](https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/) 
 - [2026-11-13-科技爱好者周刊（第-419-期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) 

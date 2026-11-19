@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-17T23:13:14.293Z</updated>
+    <updated>2026-11-19T14:48:27.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Time-travel debugging for Node]]></title>
+        <id>https://nodeweekly.com/issues/648</id>
+        <link href="https://nodeweekly.com/issues/648"/>
+        <updated>2026-11-19T00:00:00.000Z</updated>
+        <published>2026-11-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The top 10 things AI gets wrong in web development]]></title>
         <id>https://javascriptweekly.com/issues/811</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue、React、Next.js 通吃，这个新框架想重做 DevTools]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524925&amp;idx=1&amp;sn=a5d378cd0113bc93ce47e4e9451bbd15&amp;chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&amp;mpshare=1&amp;scene=1&amp;srcid=0923ekv2DleE7D6JTZeJ9Fhq&amp;sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&amp;sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524925&amp;idx=1&amp;sn=a5d378cd0113bc93ce47e4e9451bbd15&amp;chksm=e92e19c021e3d50d002a6948c5429c2fa7c38bd89011f1a2133f14710a5abda4b6ee3197802e&amp;mpshare=1&amp;scene=1&amp;srcid=0923ekv2DleE7D6JTZeJ9Fhq&amp;sharer_shareinfo=72a23d6ea0a2942dc9bdc623bddc398f&amp;sharer_shareinfo_first=72a23d6ea0a2942dc9bdc623bddc398f#rd"/>
-        <updated>2026-09-21T00:00:00.000Z</updated>
-        <published>2026-09-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop engineering：把 agent 放进工程循环]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546258&amp;idx=1&amp;sn=3b972197775c805cb4a58bdfdf69618a&amp;chksm=82e79bc35eb4fde11027a7135b5a1cf719e4656a24cb462da751a004c602f835b7ae2750af6e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546258&amp;idx=1&amp;sn=3b972197775c805cb4a58bdfdf69618a&amp;chksm=82e79bc35eb4fde11027a7135b5a1cf719e4656a24cb462da751a004c602f835b7ae2750af6e&amp;scene=0#rd"/>
         <updated>2026-09-21T00:00:00.000Z</updated>
         <published>2026-09-21T00:00:00.000Z</published>
     </entry>
