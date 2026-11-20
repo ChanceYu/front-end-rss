@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-19 22:48:27。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-20 12:37:52。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -584,6 +584,7 @@
 
 
 
+- [【阮一峰的网络日志】科技爱好者周刊（第-420-期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html)
 - [【Node-Weekly】Time-travel-debugging-for-Node](https://nodeweekly.com/issues/648)
 - [【JavaScript-Weekly】The-top-10-things-AI-gets-wrong-in-web-development](https://javascriptweekly.com/issues/811)
 - [【张鑫旭-鑫空间-鑫生活】CSS终于支持random随机函数了，等死老子了](https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/)
@@ -593,7 +594,6 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)
 - [【张鑫旭-鑫空间-鑫生活】JS拖拽交互必用setPointerCapture方法](https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/)
 - [【Node-Weekly】Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646)
-- [【JavaScript-Weekly】What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
