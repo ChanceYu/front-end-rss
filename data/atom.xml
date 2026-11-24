@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-23T16:40:40.154Z</updated>
+    <updated>2026-11-24T14:21:25.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Bundler-free npm imports in the browser]]></title>
+        <id>https://javascriptweekly.com/issues/812</id>
+        <link href="https://javascriptweekly.com/issues/812"/>
+        <updated>2026-11-24T00:00:00.000Z</updated>
+        <published>2026-11-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[继textarea之后，iframe也自适应大小啦！]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/11/ifmame-sizing-content/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546370&amp;idx=1&amp;sn=5603ba09127468713e13bb5dafb7926c&amp;chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&amp;scene=0#rd"/>
         <updated>2026-09-23T00:00:00.000Z</updated>
         <published>2026-09-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript desktop apps in under 10MB]]></title>
-        <id>https://javascriptweekly.com/issues/803</id>
-        <link href="https://javascriptweekly.com/issues/803"/>
-        <updated>2026-09-22T00:00:00.000Z</updated>
-        <published>2026-09-22T00:00:00.000Z</published>
     </entry>
 </feed>

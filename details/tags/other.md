@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-11-24 00:40:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-24 22:21:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-11-24-Bundler-free-npm-imports-in-the-browser](https://javascriptweekly.com/issues/812) 
 - [2026-11-23-一次-FDE-实践，看见-UI-革命](https://fenghen.me/posts/2026/11/23/fde-ui-revolution/) 
 - [2026-11-20-科技爱好者周刊（第-420-期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) 
 - [2026-11-20-继textarea之后，iframe也自适应大小啦！](https://www.zhangxinxu.com/wordpress/2026/11/ifmame-sizing-content/) 
