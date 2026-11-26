@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-11-24 22:21:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-27 06:39:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-11-26-node:sqlite-marked-stable](https://nodeweekly.com/issues/649) 
 - [2026-11-24-Bundler-free-npm-imports-in-the-browser](https://javascriptweekly.com/issues/812) 
 - [2026-11-23-一次-FDE-实践，看见-UI-革命](https://fenghen.me/posts/2026/11/23/fde-ui-revolution/) 
 - [2026-11-20-科技爱好者周刊（第-420-期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) 

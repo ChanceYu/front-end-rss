@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-11-24 22:21:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-27 06:39:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 开源推荐
 
@@ -24,8 +24,8 @@
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -51,6 +51,7 @@
 </summary>
 
 
+- [2026-11-26-node:sqlite-marked-stable](https://nodeweekly.com/issues/649) ![](/assets/new.png) 
 - [2026-11-19-Time-travel-debugging-for-Node](https://nodeweekly.com/issues/648) 
 - [2026-11-12-22-Node,-Bun-and-Deno-stacks-benchmarked](https://nodeweekly.com/issues/647) 
 - [2026-11-05-Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646) 
@@ -60,7 +61,6 @@
 - [2026-09-24-12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4b7405a0ffcd83752f4bdb71da828b6f)  
 - [2026-09-17-Node-26.9-turns-on-FFI-by-default](https://nodeweekly.com/issues/641)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ce8804a5bc73012e9808767b449ff520)  
 - [2026-09-10-Node-is-getting-a-built-in-benchmark-runner](https://nodeweekly.com/issues/640)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5c6714d9ce22c8fa22126d26e873d5ff)  
-- [2026-09-03-Bun-now-passes-80.5%-of-Node's-test-suite](https://nodeweekly.com/issues/639)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=198a1d5503a38f2056e6d930de6de790)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -72,7 +72,7 @@
 </summary>
 
 
-- [2026-11-24-Bundler-free-npm-imports-in-the-browser](https://javascriptweekly.com/issues/812) ![](/assets/new.png) 
+- [2026-11-24-Bundler-free-npm-imports-in-the-browser](https://javascriptweekly.com/issues/812) 
 - [2026-11-17-The-top-10-things-AI-gets-wrong-in-web-development](https://javascriptweekly.com/issues/811) 
 - [2026-11-10-How-X-Twitter-is-rebuilding-its-web-app](https://javascriptweekly.com/issues/810) 
 - [2026-11-03-What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3)  

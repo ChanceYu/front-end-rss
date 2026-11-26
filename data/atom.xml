@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-24T14:21:25.630Z</updated>
+    <updated>2026-11-26T22:39:33.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[node:sqlite marked stable]]></title>
+        <id>https://nodeweekly.com/issues/649</id>
+        <link href="https://nodeweekly.com/issues/649"/>
+        <updated>2026-11-26T00:00:00.000Z</updated>
+        <published>2026-11-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bundler-free npm imports in the browser]]></title>
         <id>https://javascriptweekly.com/issues/812</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[卷疯了！Claude、OpenAI 一夜发了三个模型，连重置卡都送上了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524942&amp;idx=1&amp;sn=9cb5bb8e78629827bf3cc1145c3f3696&amp;chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&amp;mpshare=1&amp;scene=1&amp;srcid=0923vk25TYI7vuYsU6ml16YP&amp;sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&amp;sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524942&amp;idx=1&amp;sn=9cb5bb8e78629827bf3cc1145c3f3696&amp;chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&amp;mpshare=1&amp;scene=1&amp;srcid=0923vk25TYI7vuYsU6ml16YP&amp;sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&amp;sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd"/>
-        <updated>2026-09-23T00:00:00.000Z</updated>
-        <published>2026-09-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 自迭代的小游戏 Agent：2周上线6款小游戏，3天迭代12款小游戏]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546370&amp;idx=1&amp;sn=5603ba09127468713e13bb5dafb7926c&amp;chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650546370&amp;idx=1&amp;sn=5603ba09127468713e13bb5dafb7926c&amp;chksm=82fba659fd6a187c5c28b2d9a8a2e033a539f1fb48f4857d15192471c6467e5e562068997cd6&amp;scene=0#rd"/>
         <updated>2026-09-23T00:00:00.000Z</updated>
         <published>2026-09-23T00:00:00.000Z</published>
     </entry>
