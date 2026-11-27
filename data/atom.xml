@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-27T05:37:08.972Z</updated>
+    <updated>2026-11-27T15:43:23.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 421 期）：AI 的疯狂造富]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html"/>
+        <updated>2026-11-27T00:00:00.000Z</updated>
+        <published>2026-11-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一次使用AI + Figma MCP开发网页小结]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/11/ai-figma-mcp/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/11/ai-figma-mcp/"/>
         <updated>2026-11-27T00:00:00.000Z</updated>
         <published>2026-11-27T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524979&amp;idx=1&amp;sn=f16252870251f87b42102e340468c10c&amp;chksm=e96c4e17f2163d3d139a80a0997e9f08b29857ba6a3805942b20ff8f9c0ee181c2ee16258b1f&amp;scene=0#rd"/>
         <updated>2026-09-26T00:00:00.000Z</updated>
         <published>2026-09-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek 官方桌面版能下载了，Electron 做的！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524972&amp;idx=1&amp;sn=2c3a7207fc87243b5f133b07c3cc31bf&amp;chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524972&amp;idx=1&amp;sn=2c3a7207fc87243b5f133b07c3cc31bf&amp;chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&amp;scene=0#rd"/>
-        <updated>2026-09-25T00:00:00.000Z</updated>
-        <published>2026-09-25T00:00:00.000Z</published>
     </entry>
 </feed>

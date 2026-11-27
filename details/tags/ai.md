@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-27 13:37:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-27 23:43:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -8,6 +8,7 @@
 
 
 - [2026-11-27-科技爱好者周刊（第-421-期）：AI-的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html) 
+- [2026-11-27-第一次使用AI-+-Figma-MCP开发网页小结](https://www.zhangxinxu.com/wordpress/2026/11/ai-figma-mcp/) 
 - [2026-11-17-The-top-10-things-AI-gets-wrong-in-web-development](https://javascriptweekly.com/issues/811) 
 - [2026-11-03-What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d5fb739abea478259c006d7dfe0ad1e3) 
 - [2026-10-30-科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8060ae2fb4428558fe88b29d0e0ae554) 
