@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-26T22:39:33.521Z</updated>
+    <updated>2026-11-27T05:37:08.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 421 期）：AI 的疯狂造富]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html"/>
+        <updated>2026-11-27T00:00:00.000Z</updated>
+        <published>2026-11-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次 FDE 实践，预见架构升级 B/S -> A/S]]></title>
+        <id>https://fenghen.me/posts/2026/11/26/fde-as-architecture/</id>
+        <link href="https://fenghen.me/posts/2026/11/26/fde-as-architecture/"/>
+        <updated>2026-11-26T00:00:00.000Z</updated>
+        <published>2026-11-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[node:sqlite marked stable]]></title>
         <id>https://nodeweekly.com/issues/649</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524972&amp;idx=1&amp;sn=2c3a7207fc87243b5f133b07c3cc31bf&amp;chksm=e942a70458ab7802866cb512cc161a91ed7eb82d97131a9173d820ad494254355a1b84a320bc&amp;scene=0#rd"/>
         <updated>2026-09-25T00:00:00.000Z</updated>
         <published>2026-09-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Node built-ins that replace npm packages]]></title>
-        <id>https://nodeweekly.com/issues/642</id>
-        <link href="https://nodeweekly.com/issues/642"/>
-        <updated>2026-09-24T00:00:00.000Z</updated>
-        <published>2026-09-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卷疯了！Claude、OpenAI 一夜发了三个模型，连重置卡都送上了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524942&amp;idx=1&amp;sn=9cb5bb8e78629827bf3cc1145c3f3696&amp;chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&amp;mpshare=1&amp;scene=1&amp;srcid=0923vk25TYI7vuYsU6ml16YP&amp;sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&amp;sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247524942&amp;idx=1&amp;sn=9cb5bb8e78629827bf3cc1145c3f3696&amp;chksm=e949ccac8bad460192bc05f26f83b6775ea80d5578afa068eb0f6d6d5fc7d57d8419c95b7763&amp;mpshare=1&amp;scene=1&amp;srcid=0923vk25TYI7vuYsU6ml16YP&amp;sharer_shareinfo=a76e000ce2ac44b6254198960c4b731f&amp;sharer_shareinfo_first=a76e000ce2ac44b6254198960c4b731f#rd"/>
-        <updated>2026-09-23T00:00:00.000Z</updated>
-        <published>2026-09-23T00:00:00.000Z</published>
     </entry>
 </feed>
